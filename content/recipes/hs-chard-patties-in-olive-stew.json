@@ -1,0 +1,111 @@
+{
+  "slug": "hs-chard-patties-in-olive-stew",
+  "kind": "meal",
+  "title": "Chard Patties in Olive Stew",
+  "subtitle": "Egyptian-Persian style",
+  "description": "Silverbeet leaf patties simmered in a stew of green olives and chard stems, scented with cumin, paprika and turmeric.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%9e%d7%a0%d7%92%d7%95%d7%9c%d7%93-%d7%91%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%96%d7%99%d7%aa%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/01/000042460003-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "stew",
+    "israeli",
+    "olives",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Silverbeet",
+      "qty": 3,
+      "unit": "bunch",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Pitted Green Olives",
+      "qty": 275,
+      "unit": "g",
+      "product": "green-olives"
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Matzo Meal"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash the silverbeet and separate the white stems from the green leaves. Chop the leaves, blanch in boiling water until soft and drain. Set aside. Cut the stems into 4-5 cm pieces and soak in iced water. Drain the olives, place in a pot, cover with water and bring to the boil. Remove from the heat and drain."
+    },
+    {
+      "text": "Heat 2 tablespoons of oil in a pan over medium heat, add the olives and chard stems and fry for 2-3 minutes. Add water to cover, then the garlic, tomato paste, lemon juice and spices, and reduce the heat."
+    },
+    {
+      "text": "Meanwhile, mix the chopped blanched leaves with the egg, salt and pepper. Gradually add matzo meal until a thick mixture forms."
+    },
+    {
+      "text": "Heat 2 tablespoons of oil in a separate pan. Shape the mixture into egg-sized patties and fry lightly on both sides. Transfer to the olive sauce. Continue cooking for another 20 minutes and serve hot."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "hs-maakouda-moroccan-vegetable-frittata",
+  "kind": "meal",
+  "title": "Maakouda, Moroccan Vegetable Frittata",
+  "subtitle": "with potato, carrot, peas and hard-boiled egg",
+  "description": "A thick Moroccan-style frittata of potato, carrot, peas and hard-boiled eggs, started on the stove and finished in the oven.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a2%d7%a7%d7%95%d7%93%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/650_50036-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "frittata",
+    "moroccan",
+    "baked",
+    "eggs"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 3,
+      "product": "potato"
+    },
+    {
+      "name": "Carrots",
+      "qty": 3,
+      "product": "carrot"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Frozen Peas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "White Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "white-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon"
+    },
+    {
+      "name": "Eggs",
+      "qty": 8,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil the potatoes and carrots in a pot of water until soft."
+    },
+    {
+      "text": "Cool, peel and dice. Mix in a bowl with the diced hard-boiled eggs, thawed peas, parsley, white pepper, baking powder, salt, turmeric, lemon juice and the 8 beaten eggs (keep the oil aside)."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Heat the oil in an ovenproof pot or a pan that can go on the stovetop. Pour in the mixture and start cooking on the stove, as for a frittata, for about 5 minutes until it begins to set. Transfer to the oven."
+    },
+    {
+      "text": "Bake for 25 minutes or until the pie is set and golden on top."
+    }
+  ]
+}

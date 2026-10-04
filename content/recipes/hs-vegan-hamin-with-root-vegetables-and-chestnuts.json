@@ -1,0 +1,107 @@
+{
+  "slug": "hs-vegan-hamin-with-root-vegetables-and-chestnuts",
+  "kind": "meal",
+  "title": "Vegan Hamin with Root Vegetables and Chestnuts",
+  "subtitle": "slow-roasted in a covered pot",
+  "description": "A hearty vegan take on hamin: root vegetables, zucchini and chestnuts roasted in a covered pot with tea, silan and thyme until deeply browned.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%97%d7%9e%d7%99%d7%9f-%d7%98%d7%91%d7%a2%d7%95%d7%a0%d7%99-%d7%a2%d7%9d-%d7%a9%d7%95%d7%a8%d7%a9%d7%99%d7%9d-%d7%95%d7%a2%d7%a8%d7%9e%d7%95%d7%a0%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/11/NIM8116-1_H-2000x1125-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stew",
+    "vegan",
+    "israeli",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Kohlrabi",
+      "qty": 2
+    },
+    {
+      "name": "Red Cabbage",
+      "qty": 1,
+      "product": "red-cabbage"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 6,
+      "product": "zucchini"
+    },
+    {
+      "name": "Peeled Chestnuts",
+      "qty": 1,
+      "unit": "packet"
+    },
+    {
+      "name": "Brewed Black Tea",
+      "qty": 1,
+      "unit": "cup",
+      "product": "tea-bags"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Silan",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "product": "thyme"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the kohlrabi and sweet potato into large cubes, the cabbage into quarters, the carrot into 3 cm slices and the onion into sixths. Mix with the whole garlic, whole small zucchini, chestnuts, tea, olive oil, silan, thyme, salt and pepper, and place in an ovenproof dish or cast iron pot lined with baking paper."
+    },
+    {
+      "text": "Cover the dish or pot with aluminium foil and bake in an oven preheated to 200°C for 1 hour."
+    },
+    {
+      "text": "Remove the foil and continue baking until the vegetables are browned."
+    }
+  ]
+}

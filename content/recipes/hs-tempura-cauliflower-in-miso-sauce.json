@@ -1,0 +1,131 @@
+{
+  "slug": "hs-tempura-cauliflower-in-miso-sauce",
+  "kind": "meal",
+  "title": "Tempura Cauliflower in Miso Sauce",
+  "subtitle": "a vegetarian General Tso's style",
+  "description": "Cauliflower florets in a light beer batter, deep fried and tossed in a sticky miso, soy and chilli sauce. A vegetarian take on the Chinese-American classic.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%91%d7%98%d7%9e%d7%a4%d7%95%d7%a8%d7%94-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9e%d7%99%d7%a1%d7%95/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/01/Hashulchan-Miso-13.01.2022-48696-Edit-1-e1644132917943-1140x641-1644133024.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "cauliflower",
+    "asian",
+    "fried",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Self-Raising Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "self-raising-flour"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "cornflour"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Light Beer",
+      "qty": 240,
+      "unit": "ml",
+      "product": "beer"
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Fresh Ginger",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 2,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Miso Paste",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "miso-paste"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Date Syrup",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Water",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Steam the whole cauliflower for 5-6 minutes, until the florets change colour and soften slightly. Remove, cool for 2-3 minutes and cut into bite-sized florets."
+    },
+    {
+      "text": "Mix the self-raising flour, cornflour and salt in a bowl. Gradually add the beer or soda, stirring, to make a thick but not too thick batter (you may not need all of it)."
+    },
+    {
+      "text": "Heat oil for deep frying in a small pot. Dip the florets in the batter and fry for 3-4 minutes in 2-3 batches until golden. Drain on paper towel."
+    },
+    {
+      "text": "Heat a little oil in a wide pan and stir-fry the sliced garlic, ginger, white part of the spring onions and chilli for about 30 seconds until starting to soften."
+    },
+    {
+      "text": "Add the soy sauce, miso, vinegar, date syrup and water, stir and bring to the boil."
+    },
+    {
+      "text": "Add the cauliflower and the green part of the spring onions and toss for about half a minute until coated. Add more water or soy sauce if there is not enough sauce. Serve immediately."
+    }
+  ]
+}

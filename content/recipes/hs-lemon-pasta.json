@@ -1,0 +1,93 @@
+{
+  "slug": "hs-lemon-pasta",
+  "kind": "meal",
+  "title": "Lemon Pasta",
+  "subtitle": "with garlic, chilli and parmesan",
+  "description": "Fettuccine tossed in a bright, fresh lemon, garlic and parsley sauce with plenty of parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%94-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/06/Hashulchan-26.5.200003-1-1140x641-1592132064.jpg",
+  "servings": 4,
+  "prepMinutes": 25,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "lemon",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "qty": 500,
+      "unit": "g",
+      "product": "fettuccine"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Lemons",
+      "qty": 2,
+      "product": "lemon"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "optional": true,
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta according to the packet instructions, drain and reserve 1 cup of the cooking water."
+    },
+    {
+      "text": "Fry the olive oil, sliced garlic and chilli flakes in a wide pan over low heat for about 3 minutes. Add the reserved pasta water, the lemon juice, 1 tbsp grated lemon zest, the butter, the roughly chopped parsley, salt and pepper. Cook for 3 minutes over high heat."
+    },
+    {
+      "text": "Add the pasta and toss well. Remove from the heat, sprinkle generously with parmesan and serve."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "hs-gobi-masala",
+  "kind": "meal",
+  "title": "Gobi Masala",
+  "subtitle": "cauliflower in a spiced tomato sauce",
+  "description": "Cauliflower florets simmered in a spiced tomato sauce with cumin, fennel seeds and garam masala, finished with a spoonful of cream and fresh coriander.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%92%d7%95%d7%91%d7%99-%d7%9e%d7%a1%d7%90%d7%9c%d7%94-%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/shutterstock_1413870422-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "hashulchan",
+    "curry",
+    "indian",
+    "cauliflower",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Fennel Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "fennel-seeds"
+    },
+    {
+      "name": "Garlic and Ginger Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 200,
+      "unit": "g",
+      "product": "tomato"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Cream",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "optional": true
+    },
+    {
+      "name": "Basmati Rice",
+      "product": "basmati-rice",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the cauliflower florets in a pot of salted water for 5 minutes until slightly soft. Drain."
+    },
+    {
+      "text": "Heat the oil with the cumin and fennel seeds and fry for a few seconds."
+    },
+    {
+      "text": "Add the garlic and ginger paste and the crushed tomatoes and stir. Add the ground spices and cook for 5 minutes."
+    },
+    {
+      "text": "Add the cooked cauliflower, season with salt and cover. Cook for about 15 minutes over medium heat."
+    },
+    {
+      "text": "Pour in the cream, stir and turn off the heat. Serve hot with chopped coriander on top, with rice if you like."
+    }
+  ]
+}

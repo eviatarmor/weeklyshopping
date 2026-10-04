@@ -1,0 +1,138 @@
+{
+  "slug": "hs-vegetarian-maqluba",
+  "kind": "meal",
+  "title": "Vegetarian Maqluba",
+  "subtitle": "with red rice, eggplant and sweet potato",
+  "description": "A festive upside-down pot of red rice and millet layered with sweet potato, eggplant, mushrooms, silverbeet and chickpeas, flipped onto a platter and topped with toasted almonds.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a7%d7%9c%d7%95%d7%91%d7%94-%d7%90%d7%95%d7%a8%d7%96-%d7%90%d7%93%d7%95%d7%9d-%d7%97%d7%a6%d7%99%d7%9c%d7%99%d7%9d-%d7%95%d7%91%d7%98%d7%98%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/03/1647178496_5374-1140x641-1648470849.jpg",
+  "servings": 6,
+  "prepMinutes": 130,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "rice",
+    "maqluba",
+    "middle-eastern",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Rice",
+      "qty": 2,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Millet",
+      "qty": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Sweet Potatoes",
+      "qty": 3,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Salt",
+      "qty": 3,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 6,
+      "product": "mushrooms"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 6,
+      "product": "silverbeet"
+    },
+    {
+      "name": "Cooked Chickpeas",
+      "qty": 2,
+      "unit": "cup",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Baharat",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Slivered Almonds",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "almonds"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the rice and millet together in lukewarm water for 1 hour (30 minutes if short on time)."
+    },
+    {
+      "text": "Heat 1/4 cup of the olive oil in a large, wide pot over medium heat and fry the halved, thinly sliced onions for 10 minutes until golden. Remove the onions and their oil to a plate and turn off the heat."
+    },
+    {
+      "text": "Add the remaining 1/4 cup olive oil to the pot, add the sliced sweet potatoes, 1/2 teaspoon salt and 1 teaspoon paprika and toss to coat. Arrange in an even layer on the base of the pot, turn the heat to high and sear for 3 minutes until slightly browned."
+    },
+    {
+      "text": "Drain the rice and millet and add half to the pot. Arrange the 2 cm eggplant rounds in an even layer, then the sliced mushrooms, then the silverbeet and fried onion. Add the remaining rice and millet and scatter the chickpeas over."
+    },
+    {
+      "text": "Mix the baharat, turmeric, the remaining teaspoon of paprika, tomato paste, 1 1/2 teaspoons salt and the boiling water in a bowl. Pour over the pot, cover and bring to the boil. Lower the heat and cook for 45 minutes until all the liquid is absorbed and the rice is cooked. Leave covered for another 10 minutes."
+    },
+    {
+      "text": "Before serving, toast the almonds in a dry pan for 3 minutes until lightly golden, shaking the pan occasionally."
+    },
+    {
+      "text": "Flip the pot onto a large serving platter, scatter over the almonds and serve."
+    }
+  ]
+}

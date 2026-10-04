@@ -1,0 +1,119 @@
+{
+  "slug": "hs-polenta-pie-with-okra-and-cheese",
+  "kind": "meal",
+  "title": "Polenta Pie with Okra and Cheese",
+  "subtitle": "cheesy polenta base with roasted okra and parmesan",
+  "description": "A cheesy polenta base topped with pan-fried okra, red onion, cherry tomatoes and parmesan shavings, baked until golden.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%90%d7%a4%d7%94-%d7%aa%d7%99%d7%a8%d7%a1-%d7%a2%d7%9d-%d7%91%d7%9e%d7%99%d7%94-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/polenta-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "polenta",
+    "baked",
+    "vegetarian",
+    "okra"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Milk",
+      "qty": 720,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Instant Polenta",
+      "qty": 160,
+      "unit": "g",
+      "product": "polenta"
+    },
+    {
+      "name": "Tasty Cheese",
+      "qty": 100,
+      "unit": "g",
+      "product": "cheddar-cheese"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 3,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Oregano",
+      "qty": 3,
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Okra",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 8,
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C and grease a 20 cm square baking dish."
+    },
+    {
+      "text": "Bring the milk (or water) to the boil in a wide pot. Season with garlic, salt and pepper, add the polenta and stir for 2-3 minutes over medium heat. Add the grated cheese and chopped spring onion and stir for another minute."
+    },
+    {
+      "text": "Transfer the polenta to the greased dish and smooth it, shaping it with a spoon to form an even layer on the base and sides."
+    },
+    {
+      "text": "Heat the olive oil and oregano leaves in a large pan and saute the okra, sliced red onion and sliced chilli with salt and pepper for 5 minutes until softened and lightly golden."
+    },
+    {
+      "text": "Scatter the vegetables over the polenta, pressing them in slightly. Top with halved cherry tomatoes and shaved parmesan."
+    },
+    {
+      "text": "Bake for 20-25 minutes until golden. Rest for about 10 minutes, then slice and serve."
+    }
+  ]
+}

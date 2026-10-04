@@ -1,0 +1,87 @@
+{
+  "slug": "hs-wheat-berry-butternut-and-raisin-salad",
+  "kind": "meal",
+  "title": "Wheat Berry, Butternut and Raisin Salad",
+  "subtitle": "with caramelised onion and Swiss chard",
+  "description": "A hearty grain salad of wheat berries, roasted butternut pumpkin, caramelised onions, Swiss chard and raisins.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%97%d7%99%d7%98%d7%94-%d7%93%d7%9c%d7%95%d7%a8%d7%99%d7%aa-%d7%95%d7%a6%d7%99%d7%9e%d7%95%d7%a7%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/07/1627564347_83303-1140x641-1627565797.jpg",
+  "servings": 4,
+  "prepMinutes": 70,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "salad",
+    "grain",
+    "pumpkin",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White Onions",
+      "qty": 3,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Swiss Chard",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Wheat Berries",
+      "qty": 1.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 1,
+      "product": "pumpkin"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Raisins",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "sultanas"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.25,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a little olive oil in a pan and fry the chopped onions and finely chopped chard stalks over low heat, stirring, for 20 to 25 minutes, until the onion caramelises and turns amber."
+    },
+    {
+      "text": "Bring the wheat berries to the boil in a covered pot with plenty of water. Add 1 tbsp salt, reduce the heat and cook for 25 to 30 minutes, until tender. Drain and set aside."
+    },
+    {
+      "text": "Meanwhile, spread the peeled and 2 cm diced pumpkin in a single layer on a tray, drizzle with olive oil, season with salt and pepper and bake for about 20 minutes until browned. Cool to room temperature."
+    },
+    {
+      "text": "Combine the wheat, caramelised onion and stalks, chopped chard leaves, pumpkin, raisins and finely chopped parsley in a large bowl. Season with olive oil, salt and pepper, mix and serve."
+    }
+  ]
+}

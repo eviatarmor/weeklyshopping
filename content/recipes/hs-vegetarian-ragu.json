@@ -1,0 +1,123 @@
+{
+  "slug": "hs-vegetarian-ragu",
+  "kind": "meal",
+  "title": "Vegetarian Ragu",
+  "subtitle": "with smoked leek and mushrooms",
+  "description": "A smoky vegetable ragu where leek is infused with the smoke of burnt rosemary, then simmered with root vegetables, mushrooms, okra and zucchini. Fresh garlic and parsley go in at the end. Serve over pasta or in baked pumpkins.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%90%d7%92%d7%95-%d7%a6%d7%9e%d7%97%d7%95%d7%a0%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/IMG_3892-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "ragu",
+    "vegetarian",
+    "pasta",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Rosemary",
+      "qty": 3,
+      "unit": "bunch",
+      "product": "rosemary"
+    },
+    {
+      "name": "Leek",
+      "qty": 1.5,
+      "product": "leek"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Parsley Root",
+      "qty": 1
+    },
+    {
+      "name": "Celeriac",
+      "qty": 1
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 3,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Oyster Mushrooms",
+      "qty": 4,
+      "product": "mushrooms"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 4,
+      "product": "mushrooms"
+    },
+    {
+      "name": "Okra",
+      "qty": 6
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "cup",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Pasta",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smoke the leek: heat a wide, low pot over high heat, add the rosemary sprigs, cover and let them burn for about 5 minutes until the pot fills with smoke."
+    },
+    {
+      "text": "Toss the finely chopped white part of the leek with 1 tablespoon oil, add it to the pot, cover immediately and turn off the heat. Wait 3 minutes while the leek absorbs the smoke, then remove the rosemary remains."
+    },
+    {
+      "text": "Turn the heat back on, add 2 tablespoons oil and, when hot, add the diced carrots, parsley root and celeriac and fry on high for 5 to 7 minutes until browned. Season with salt and pepper."
+    },
+    {
+      "text": "Add the stock, both mushrooms, okra (or green beans) and sliced zucchini and bring to the boil. Lower the heat and cook uncovered for about 20 minutes until the vegetables are tender and most of the liquid has reduced."
+    },
+    {
+      "text": "Stir in the crushed garlic and chopped parsley and serve over pasta."
+    }
+  ]
+}

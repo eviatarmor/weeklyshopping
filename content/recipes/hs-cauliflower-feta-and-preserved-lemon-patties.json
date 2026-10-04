@@ -1,0 +1,122 @@
+{
+  "slug": "hs-cauliflower-feta-and-preserved-lemon-patties",
+  "kind": "meal",
+  "title": "Cauliflower, Feta and Preserved Lemon Patties",
+  "subtitle": "with a maple, lemon and chilli dressing",
+  "description": "Baked cauliflower patties with goat's feta, pine nuts and preserved lemon, dipped in a sweet and sharp maple dressing and served with yoghurt.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%a4%d7%98%d7%94-%d7%95%d7%9c%d7%99%d7%9e%d7%95%d7%9f-%d7%9b%d7%91%d7%95%d7%a9/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/11/DOR9299-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "baked",
+    "vegetarian",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "kg",
+      "product": "cauliflower"
+    },
+    {
+      "name": "Preserved Lemon",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "lemon"
+    },
+    {
+      "name": "Goat's Feta",
+      "qty": 200,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Fresh Oregano",
+      "qty": 1,
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Spelt Flour",
+      "qty": 70,
+      "unit": "g",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Maple Syrup",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "maple-syrup"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 60,
+      "unit": "ml",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 250°C. Bring plenty of water to the boil and blanch the cauliflower florets until soft but not falling apart. Drain and cool under cold tap water."
+    },
+    {
+      "text": "Roughly chop the cauliflower and mix with the finely chopped preserved lemon, feta, toasted pine nuts, oregano leaves, eggs, spelt flour, salt and pepper (keep the olive oil aside)."
+    },
+    {
+      "text": "Line a baking tray with baking paper and brush it with olive oil. Shape the mixture into ping pong ball-sized balls, flatten slightly and place on the paper. Brush the patties with olive oil and place in the oven."
+    },
+    {
+      "text": "Bake for about 20 minutes, then turn the patties and return to the oven for 10 more minutes until browned. Meanwhile, mix the maple syrup, olive oil, lemon juice and chilli flakes for the dressing."
+    },
+    {
+      "text": "Remove the patties from the oven and dip them in the dressing while still hot. Transfer to a serving plate and serve with yoghurt."
+    }
+  ]
+}

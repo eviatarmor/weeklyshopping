@@ -1,0 +1,106 @@
+{
+  "slug": "hs-black-lentil-arayes",
+  "kind": "meal",
+  "title": "Black Lentil Arayes",
+  "subtitle": "grilled pita with roasted vegetables and yoghurt",
+  "description": "A vegan take on the Nazareth classic: pita filled with spiced black lentils and charred on the grill until crisp. Serve with grilled vegetables and yoghurt.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a2%d7%a8%d7%90%d7%99%d7%99%d7%a1-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%a9%d7%97%d7%95%d7%a8%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/11/DSF6120_H-2000x1125-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "hashulchan",
+    "lentils",
+    "israeli",
+    "grilled",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Black Lentils",
+      "qty": 2,
+      "unit": "cup",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Baharat",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 3,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Pita Bread",
+      "qty": 4,
+      "product": "pita-bread"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "optional": true
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fry the finely chopped onion and diced carrot in the olive oil for a few minutes. Add the lentils and fry for about 3 minutes. Add the baharat and the vegetable stock (or water), bring to the boil, then reduce the heat."
+    },
+    {
+      "text": "Cover and cook for about 45 minutes."
+    },
+    {
+      "text": "Drain the lentils and mash the mixture lightly with a spoon."
+    },
+    {
+      "text": "Season with salt and pepper, stir in the chopped parsley, and chill for 2 hours."
+    },
+    {
+      "text": "Cut the pitas in half and fill them with the lentil mixture."
+    },
+    {
+      "text": "Grill the pita halves on a hot charcoal grill for about 2 minutes each side (including the opening). Serve with grilled vegetables and yoghurt."
+    }
+  ]
+}

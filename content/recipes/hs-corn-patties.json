@@ -1,0 +1,147 @@
+{
+  "slug": "hs-corn-patties",
+  "kind": "meal",
+  "title": "Corn Patties",
+  "subtitle": "with cashew mayo and fresh vegetables",
+  "description": "Baked patties of fresh corn, zucchini, spinach and oats, served with cashew mayonnaise, tortillas and chopped raw vegetables.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%aa%d7%99%d7%a8%d7%a1/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/08/IMG_9605-1140x641-1596618182.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "patties",
+    "corn",
+    "baked",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Corn Cobs",
+      "qty": 3,
+      "product": "corn-cob"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Spinach",
+      "qty": 1,
+      "unit": "cup",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Flaxseed",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Rolled Oats",
+      "qty": 100,
+      "unit": "g",
+      "product": "rolled-oats"
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Almond Butter",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "butter"
+    },
+    {
+      "name": "Tortillas",
+      "product": "wraps",
+      "optional": true
+    },
+    {
+      "name": "Cashew Mayonnaise",
+      "product": "mayonnaise",
+      "optional": true
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "product": "cherry-tomatoes",
+      "optional": true
+    },
+    {
+      "name": "Mini Cucumbers",
+      "product": "cucumber",
+      "optional": true
+    },
+    {
+      "name": "Broccoli",
+      "product": "broccoli",
+      "optional": true
+    },
+    {
+      "name": "Carrot",
+      "product": "carrot",
+      "optional": true
+    },
+    {
+      "name": "Cabbage",
+      "product": "cabbage",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Shave the kernels off the corn cobs with a sharp knife and blitz three quarters of the corn in a food processor with 2 to 3 pulses."
+    },
+    {
+      "text": "Heat the olive oil in a medium pot, add the chopped onion and fry for 3 to 4 minutes over medium heat until golden. Add the blitzed and whole corn and cook, stirring, for 3 to 4 minutes. Add the finely grated zucchini, chopped spinach, salt and pepper, remove from the heat and let cool for 10 minutes."
+    },
+    {
+      "text": "Add the flaxseed, oats, baking powder, water and almond butter to the vegetables, mix and refrigerate for 10 minutes."
+    },
+    {
+      "text": "Preheat the oven to 220°C and line a tray with baking paper greased with olive oil."
+    },
+    {
+      "text": "Form flattened patties with wet hands, place on the tray and bake for 15 minutes until golden and crisp. Serve with cashew mayonnaise, tortillas and cut vegetables."
+    }
+  ]
+}

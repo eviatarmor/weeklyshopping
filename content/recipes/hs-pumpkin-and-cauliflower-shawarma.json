@@ -1,0 +1,122 @@
+{
+  "slug": "hs-pumpkin-and-cauliflower-shawarma",
+  "kind": "meal",
+  "title": "Pumpkin and Cauliflower Shawarma",
+  "subtitle": "loaf-tin layers with tahini and tomato",
+  "description": "Slices of pumpkin and cauliflower coated in shawarma spices and layered with tahini and grated tomato in loaf tins, then baked and sliced thin. Serve with chopped salad and pita if you like.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a9%d7%95%d7%95%d7%90%d7%a8%d7%9e%d7%aa-%d7%93%d7%9c%d7%a2%d7%aa-%d7%95%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/IMG_2146-e1610028412696-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "shawarma",
+    "vegan",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Cumin",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Coriander Seeds",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "coriander-seeds"
+    },
+    {
+      "name": "Salt",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Raw Tahini",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "tahini"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "unit": "kg",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "kg",
+      "product": "cauliflower"
+    },
+    {
+      "name": "Chopped Salad",
+      "optional": true
+    },
+    {
+      "name": "Pita",
+      "product": "pita-bread",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C and line two loaf tins with baking paper."
+    },
+    {
+      "text": "Mix the cumin, paprika, coriander seeds, salt, pepper and olive oil into a spice paste."
+    },
+    {
+      "text": "Mix the tahini, grated tomatoes and finely chopped chilli in a bowl and set half aside in a separate bowl."
+    },
+    {
+      "text": "Dip the pumpkin slices (0.5 cm thick) in the spice mixture and layer in one tin, alternating a layer of pumpkin with a layer of the tahini and tomato mixture until full, finishing with tahini."
+    },
+    {
+      "text": "Dip the cauliflower slices in the spice mixture and layer them in the second tin in the same way with the remaining tahini mixture, finishing with tahini."
+    },
+    {
+      "text": "Bake for about 40 minutes until the tahini is well browned."
+    },
+    {
+      "text": "Cool for about 10 minutes, slice thinly and serve with chopped salad and, if you like, pita."
+    }
+  ]
+}

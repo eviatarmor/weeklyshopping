@@ -1,0 +1,122 @@
+{
+  "slug": "hs-farm-style-mac-and-cheese",
+  "kind": "meal",
+  "title": "Farm-Style Mac and Cheese",
+  "subtitle": "with a tomato and breadcrumb topping",
+  "description": "Baked mac and cheese in a creamy paprika white sauce, topped with goat's cheese, tomato slices and crunchy seasoned breadcrumbs.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%90%d7%a7-%d7%90%d7%a0%d7%93-%d7%a6%d7%99%d7%96-%d7%9e%d7%94%d7%9e%d7%a9%d7%a7/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/12/IMG_0008_resize_wide-1-1140x641-1640709406.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pasta",
+    "baked",
+    "cheese",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Grana Padano",
+      "qty": 8,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Butter",
+      "qty": 25,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 25,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 500,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 7,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Short Pasta",
+      "qty": 1,
+      "unit": "packet"
+    },
+    {
+      "name": "Goat Cheese",
+      "qty": 1,
+      "product": "goat-s-cheese"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 4,
+      "product": "tomato"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C and grease a 15x20 cm rectangular baking dish. Cook the pasta according to the packet instructions."
+    },
+    {
+      "text": "Melt the butter in a pot, add the flour and cook, stirring, for about half a minute until the flour is absorbed. Lower the heat and gradually whisk in the milk until smooth."
+    },
+    {
+      "text": "Season with salt, pepper and most of the paprika (reserve 1 teaspoon) and bring to a gentle simmer, stirring, until thickened."
+    },
+    {
+      "text": "Mix the pasta, the milk mixture and the Grana Padano in a large pot or bowl and transfer to the baking dish. Slice the goat's cheese into 12 slices and the tomatoes into rounds, arrange them on top and drizzle with olive oil."
+    },
+    {
+      "text": "Mix the breadcrumbs with the reserved paprika, oregano, garlic powder, salt and pepper and sprinkle over the tomatoes."
+    },
+    {
+      "text": "Bake for about 10 minutes, raise the oven to 200°C and bake for another 2-3 minutes until nicely browned."
+    }
+  ]
+}

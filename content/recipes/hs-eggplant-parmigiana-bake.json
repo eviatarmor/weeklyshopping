@@ -1,0 +1,108 @@
+{
+  "slug": "hs-eggplant-parmigiana-bake",
+  "kind": "meal",
+  "title": "Eggplant Parmigiana Bake",
+  "subtitle": "with parmesan, mozzarella and tomato sauce",
+  "description": "A quicker eggplant parmigiana where the slices are baked instead of fried, layered with tomato, parmesan and breadcrumbs and served with a warm tomato sauce. Sized for one 15x25 cm dish.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%9c%d7%a0%d7%96%d7%90%d7%a0%d7%94-%d7%a4%d7%a8%d7%9e%d7%92%d7%99%d7%90%d7%a0%d7%94-%d7%9e%d7%90%d7%a4%d7%94-%d7%97%d7%a6%d7%99%d7%9c%d7%99%d7%9d-%d7%91%d7%a4%d7%a8%d7%9e%d7%96%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/melanzena-1140x641-1623231593.jpg",
+  "servings": 4,
+  "prepMinutes": 70,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "eggplant",
+    "baked",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "qty": 2,
+      "product": "eggplant"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 150,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 3,
+      "product": "tomato"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Buffalo Mozzarella",
+      "qty": 1,
+      "product": "mozzarella"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 190°C and line a tray with baking paper. Slice the eggplants into 1 cm rounds, thinly slice the tomatoes and finely chop the onion and garlic."
+    },
+    {
+      "text": "Make the sauce: sweat the onion in olive oil for 5 minutes until soft, add the garlic and, once fragrant, the oregano and canned tomatoes. Bring to the boil, cover and simmer on low for 15 minutes."
+    },
+    {
+      "text": "Arrange the eggplant slices on the tray, brush with olive oil and season with coarse salt. Bake for 15 to 20 minutes until soft and golden."
+    },
+    {
+      "text": "Spoon a layer or two of tomato sauce into a glass or ceramic dish and sprinkle with a little parmesan. Layer the eggplant, tomato and breadcrumbs in overlapping rows, then top with torn mozzarella."
+    },
+    {
+      "text": "Bake until golden and serve with the remaining hot tomato sauce over the top."
+    }
+  ]
+}

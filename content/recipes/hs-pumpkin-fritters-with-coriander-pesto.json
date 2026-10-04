@@ -1,0 +1,130 @@
+{
+  "slug": "hs-pumpkin-fritters-with-coriander-pesto",
+  "kind": "meal",
+  "title": "Pumpkin Fritters with Coriander Pesto",
+  "subtitle": "served on tortillas with salad and tahini",
+  "description": "Light, fluffy pumpkin and chickpea flour balls, similar to falafel, made airy with whipped egg whites and served on tortillas with chopped salad and tahini or yoghurt.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%93%d7%9c%d7%a2%d7%a4%d7%9c-%d7%9b%d7%93%d7%95%d7%a8%d7%99-%d7%93%d7%9c%d7%a2%d7%aa-%d7%9e%d7%aa%d7%95%d7%91%d7%9c%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/05/830x510-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pumpkin",
+    "fritters",
+    "tortilla",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "qty": 600,
+      "unit": "g",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Egg Whites",
+      "qty": 2
+    },
+    {
+      "name": "Chickpea Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Rolled Oats",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "rolled-oats"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Oil (for frying)",
+      "pantry": true
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tortillas",
+      "product": "wraps"
+    },
+    {
+      "name": "Chopped Vegetable Salad"
+    },
+    {
+      "name": "Tahini",
+      "product": "tahini"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil the peeled pumpkin in plenty of water for 30 minutes until soft. Drain and mash to a puree."
+    },
+    {
+      "text": "Make the pesto by pulsing the coriander, onion, garlic, olive oil and a little salt in a blender or food processor into an even paste."
+    },
+    {
+      "text": "Whip the egg whites to a soft foam in a blender or with a hand mixer. Mix with the pesto, pumpkin puree, chickpea flour, oats and spices until even. Taste and adjust the seasoning."
+    },
+    {
+      "text": "Cover and refrigerate for 30 minutes until the mixture firms up enough to shape."
+    },
+    {
+      "text": "Heat oil for shallow frying in a frying pan."
+    },
+    {
+      "text": "With wet or oiled hands, shape flat balls 4 to 5 cm wide and fry for 3 minutes each side until golden. For an oven version, brush with olive oil and bake at 220°C for 10 to 15 minutes on a tray lined with baking paper."
+    },
+    {
+      "text": "Serve on tortillas with salad and tahini and/or yoghurt."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "hs-kofta-berenji",
+  "kind": "meal",
+  "title": "Kofta Berenji",
+  "subtitle": "rice, sweet potato and herb balls in tomato sauce",
+  "description": "Hedgehog-style balls of rice, mashed sweet potato, chickpea flour and herbs, simmered in a tomato sauce with dried plums and Persian lemons.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%90%d7%95%d7%a8%d7%96-%d7%91%d7%98%d7%98%d7%94-%d7%95%d7%a2%d7%a9%d7%91%d7%99-%d7%aa%d7%99%d7%91%d7%95%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/09/IMG_5105-1140x641-1632390463.jpg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "rice",
+    "sweet potato",
+    "vegan",
+    "persian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "qty": 3,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "basmati-rice"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Chickpea Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 0.5,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Salt",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Crushed Tomatoes",
+      "qty": 1,
+      "unit": "tin",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Dried Plums",
+      "qty": 3,
+      "product": "plum"
+    },
+    {
+      "name": "Dried Persian Limes",
+      "qty": 2,
+      "product": "lime"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to its maximum temperature and line a tray with baking paper. Bake the whole unpeeled sweet potatoes for 20 to 30 minutes, until a knife slides easily into the centre. Peel and mash to a smooth puree."
+    },
+    {
+      "text": "Mix the puree with the uncooked rice, turmeric, 1 grated onion, chickpea flour, chilli, 1/2 tsp salt, 1/2 tsp pepper and chopped parsley and coriander to a sticky, even mixture."
+    },
+    {
+      "text": "Shape into balls about 4 cm wide, place on a tray and refrigerate for at least 30 minutes."
+    },
+    {
+      "text": "For the sauce, heat the olive oil in a pot, add 1 chopped onion and the sliced garlic and fry, stirring, for 5 minutes until golden. Add the tomato paste and fry for 2 minutes."
+    },
+    {
+      "text": "Add the crushed tomatoes, boiling water, plums, broken Persian limes (seeds removed), 1 tsp salt and 1/2 tsp pepper and bring to a gentle simmer, stirring."
+    },
+    {
+      "text": "Arrange the balls in the sauce, cover and cook over low-medium heat for about half an hour, until the balls swell and look spiky like hedgehogs. Turn off the heat and leave covered for 5 more minutes to set."
+    }
+  ]
+}

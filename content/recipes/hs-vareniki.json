@@ -1,0 +1,99 @@
+{
+  "slug": "hs-vareniki",
+  "kind": "meal",
+  "title": "Vareniki",
+  "subtitle": "potato dumplings with fried onion and sour cream",
+  "description": "Thin dumplings filled with mashed potato, boiled and tossed in butter, served with sour cream and slowly fried onions.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%95%d7%a8%d7%a0%d7%99%d7%a7%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/04/1651042311_19857-1140x641-1651044054.jpg",
+  "servings": 4,
+  "prepMinutes": 120,
+  "tags": [
+    "hashulchan",
+    "dumplings",
+    "potato",
+    "eastern-european",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 210,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 120,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Egg Yolk",
+      "qty": 1
+    },
+    {
+      "name": "Potatoes",
+      "qty": 3,
+      "product": "potato"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Sour Cream",
+      "product": "sour-cream"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the dough: in a large bowl, mix 1 cup of the flour (keep the other 1/2 cup aside), a pinch of salt and the boiling water with a fork. Add 1 tablespoon melted butter and the egg yolk and keep mixing. Add the remaining flour and knead for about 2 minutes until smooth and pliable. Wrap in plastic wrap and refrigerate for about 30 minutes."
+    },
+    {
+      "text": "Make the filling: place the peeled, quartered potatoes in a large pot, cover with water, add a teaspoon of salt and boil until very soft. Drain and roughly mash. Add 1 teaspoon butter, the pepper and 1 teaspoon more salt, stir and cool."
+    },
+    {
+      "text": "Fry the thinly sliced onions in a little oil over low heat for about 20 minutes until golden and completely soft. Add 2 tablespoons to the filling."
+    },
+    {
+      "text": "Roll the dough out on a well-floured surface to about 2 mm thick. Cut 7 cm circles with a cutter or glass. Place a heaped teaspoon of filling in the middle of each circle, fold in half and pinch the edges closed. Keep on a well-floured plate or board until done (they can be frozen in a single layer, then stored in a bag)."
+    },
+    {
+      "text": "Bring a large pot of water to the boil and season generously with about 2 tablespoons of salt. Boil 10 vareniki at a time until they float, plus one more minute."
+    },
+    {
+      "text": "Lift out with a slotted spoon into a deep bowl with cubes of cold butter. Repeat with the rest. Toss until the butter melts and coats the vareniki, and serve with sour cream and fried onion."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "hs-sweet-potato-spinach-and-goat-s-cheese-pastry-plait",
+  "kind": "meal",
+  "title": "Sweet Potato, Spinach and Goat's Cheese Pastry Plait",
+  "subtitle": "in golden puff pastry",
+  "description": "A braided puff pastry loaf filled with roasted sweet potato cubes, fresh spinach and melting goat's cheese. The plaiting looks harder than it is.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%90%d7%a4%d7%94-%d7%91%d7%98%d7%98%d7%94-%d7%aa%d7%a8%d7%93-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%aa-%d7%a2%d7%99%d7%96%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/650_50086-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 70,
+  "tags": [
+    "hashulchan",
+    "pastry",
+    "baked",
+    "sweet potato",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Baby Spinach",
+      "qty": 100,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Goat Cheese",
+      "qty": 200,
+      "unit": "g",
+      "product": "goat-s-cheese"
+    },
+    {
+      "name": "Puff Pastry",
+      "qty": 500,
+      "unit": "g",
+      "product": "puff-pastry"
+    },
+    {
+      "name": "Plain Flour",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Egg Yolk",
+      "qty": 1
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the filling: heat a large pan, add oil and fry the 1 cm sweet potato cubes for about 5 minutes until golden. Season with salt and pepper, turn off the heat and cool for 10 minutes."
+    },
+    {
+      "text": "Add the spinach and the 1 cm cubes of goat's cheese and mix."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Roll the pastry out on a floured surface to a 40x25 cm rectangle. Lightly mark two lengthways lines with a knife (without cutting through), dividing it into 3 narrow rectangles. Cut the two outer rectangles into diagonal strips about 1.5 cm wide. Remove the top and bottom strip on each side."
+    },
+    {
+      "text": "Place the filling along the middle rectangle and fold the top and bottom tabs of pastry over it. Fold the right and left strips over in a plait until finished. Beat the egg yolk with the teaspoon of water and brush over the pastry."
+    },
+    {
+      "text": "Bake for about 30 minutes until the pastry is browned."
+    }
+  ]
+}

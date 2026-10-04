@@ -1,0 +1,84 @@
+{
+  "slug": "hs-okra-cherry-tomato-and-onion-curry",
+  "kind": "meal",
+  "title": "Okra, Cherry Tomato and Onion Curry",
+  "subtitle": "in coconut milk, served over rice",
+  "description": "A quick Madras-style coconut curry of okra, red onion and cherry tomatoes, served over rice.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%90%d7%a8%d7%99-%d7%91%d7%9e%d7%99%d7%94-%d7%a9%d7%a8%d7%99-%d7%95%d7%91%d7%a6%d7%9c%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/curry-e1578315466625-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "curry",
+    "indian",
+    "vegan",
+    "okra"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 3,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 0.5,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Okra",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Madras Curry Powder",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 20,
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Jasmine Rice",
+      "product": "jasmine-rice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a wide pot or wok and fry the sliced red onion, the white part of the spring onions and the sliced chilli for 4 minutes. Add the trimmed okra and continue frying over high heat for another 3 minutes."
+    },
+    {
+      "text": "Add the coconut milk, salt and curry powder and stir. Taste to make sure the seasoning is noticeable, then add the halved cherry tomatoes and the green spring onion stalks. Serve over rice."
+    }
+  ]
+}

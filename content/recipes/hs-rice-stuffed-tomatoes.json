@@ -1,0 +1,115 @@
+{
+  "slug": "hs-rice-stuffed-tomatoes",
+  "kind": "meal",
+  "title": "Rice-Stuffed Tomatoes",
+  "subtitle": "baked in their own sauce, served with tzatziki",
+  "description": "Ripe tomatoes stuffed with herbed rice and pine nuts and baked in a tray with a simple tomato and oregano sauce, served with tzatziki.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa-%d7%9e%d7%9e%d7%95%d7%9c%d7%90%d7%95%d7%aa-%d7%91%d7%90%d7%95%d7%a8%d7%96/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/650_50065-1140x641.jpg",
+  "servings": 5,
+  "prepMinutes": 80,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stuffed",
+    "tomato",
+    "rice",
+    "greek"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Large Tomatoes",
+      "qty": 10,
+      "product": "tomato"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Short Grain Rice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Parsley and Dill",
+      "qty": 1,
+      "unit": "cup",
+      "product": "dill"
+    },
+    {
+      "name": "Tzatziki",
+      "product": "tzatziki"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Cut the tops off the tomatoes and keep them as lids. Scoop out the insides with a teaspoon."
+    },
+    {
+      "text": "For the sauce, roughly chop the tomato flesh and put it in a deep baking tray (6 cm sides). Add 1 finely chopped small onion, 2 tbsp olive oil and the sugar, season with oregano, salt and pepper, mix, taste and adjust."
+    },
+    {
+      "text": "For the filling, heat a large frying pan over medium heat, add 1/4 cup olive oil and 1 large finely chopped onion and cook for about 5 minutes, stirring occasionally, until soft. Add the rinsed and well-drained rice and fry for about 1 minute until hot and coated in oil. Add the pine nuts and fry for another minute."
+    },
+    {
+      "text": "Pour in the boiling water, season with salt and pepper, stir and bring back to the boil. Reduce the heat and cook uncovered for 6 to 8 minutes until the water is absorbed. Stir in the herbs and cool slightly."
+    },
+    {
+      "text": "Fill each tomato almost to the top with the rice mixture, cover with its lid and set in the tray with the sauce."
+    },
+    {
+      "text": "Bake uncovered for about 40 minutes, until the tomatoes are golden and soft. Serve hot with tzatziki."
+    }
+  ]
+}

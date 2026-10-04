@@ -1,0 +1,130 @@
+{
+  "slug": "hs-sweet-potato-lasagne",
+  "kind": "meal",
+  "title": "Sweet Potato Lasagne",
+  "subtitle": "with lentil ragu, kale and chard",
+  "description": "A lasagne layered with thin sweet potato slices, a nutty black lentil and adzuki bean ragu, chard and bechamel. Sprouted legumes work best, but soaked and cooked ones are fine. Sized for a 20 x 30 cm dish.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%96%d7%a0%d7%99%d7%99%d7%aa-%d7%91%d7%98%d7%98%d7%94-%d7%a2%d7%9d-%d7%a8%d7%90%d7%92%d7%95-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%a7%d7%99%d7%99%d7%9c-%d7%95%d7%9e%d7%a0%d7%92%d7%95%d7%9c%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/IMG_2054-e1609947894244-1140x641-1609947949.jpg",
+  "servings": 6,
+  "prepMinutes": 100,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "lasagne",
+    "sweet potato",
+    "lentils",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Black Lentils",
+      "qty": 1,
+      "unit": "cup",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Adzuki Beans",
+      "qty": 1,
+      "unit": "cup",
+      "product": "green-beans"
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Mixed Nuts (Pecans, Pistachios, Pine Nuts)",
+      "qty": 1,
+      "unit": "cup",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Poppy Seeds",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "poppy-seeds"
+    },
+    {
+      "name": "Thyme",
+      "qty": 5,
+      "unit": "bunch",
+      "product": "thyme"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 500,
+      "unit": "g",
+      "product": "tomato"
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit": "l",
+      "product": "milk"
+    },
+    {
+      "name": "Sweet Potatoes",
+      "qty": 4,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Chard",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the ragu: slice the onions and fry until deeply browned. Blitz the lentils, adzuki beans, onions, nuts, poppy seeds and thyme leaves in a food processor to a crumbly texture (the legumes should be sprouted, or soaked overnight and cooked until soft). Transfer to a bowl and mix with the peeled, chopped tomatoes."
+    },
+    {
+      "text": "Make the bechamel: melt the butter in a pot, add the flour, nutmeg and salt and stir for 3 minutes until the flour changes colour. Add the milk gradually, stirring, and keep stirring until the sauce thickens."
+    },
+    {
+      "text": "Preheat the oven to 200°C and grease a 20 x 30 cm dish with olive oil."
+    },
+    {
+      "text": "Layer one third of the thinly sliced sweet potato in the dish, then half the ragu, half the chard strips and one third of the bechamel. Repeat with another third of the sweet potato, the remaining ragu and chard and another third of the bechamel. Finish with the last of the sweet potato and the remaining bechamel."
+    },
+    {
+      "text": "Bake for about 1 hour until the lasagne is browned and the sweet potato is tender."
+    }
+  ]
+}

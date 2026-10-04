@@ -1,0 +1,113 @@
+{
+  "slug": "hs-swiss-chard-and-three-cheese-lasagne",
+  "kind": "meal",
+  "title": "Swiss Chard and Three Cheese Lasagne",
+  "subtitle": "with a royale cream and egg sauce",
+  "description": "Lasagne layered with a chard, basil, ricotta and blue cheese filling in a white royale sauce of cream and eggs, topped with cheddar and parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%96%d7%a0%d7%99%d7%94-%d7%9e%d7%a0%d7%92%d7%95%d7%9c%d7%93-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/650_50030-1140x641.jpg",
+  "servings": 8,
+  "prepMinutes": 90,
+  "tags": [
+    "hashulchan",
+    "lasagne",
+    "pasta",
+    "baked",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lasagne Sheets",
+      "qty": 500,
+      "unit": "g",
+      "product": "lasagne-sheets"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 300,
+      "unit": "g",
+      "product": "cheddar-cheese"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 3,
+      "unit": "bunch",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 500,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Blue Cheese",
+      "qty": 100,
+      "unit": "g",
+      "product": "blue-cheese"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 500,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Eggs",
+      "qty": 5,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "For the filling, mix the finely chopped silverbeet, chopped basil, mashed ricotta and crumbled blue cheese."
+    },
+    {
+      "text": "For the white (royale) sauce, whisk the cream, eggs, salt, pepper, nutmeg and crushed garlic with a fork. Keep 1 cup of the sauce aside and stir the rest into the chard mixture."
+    },
+    {
+      "text": "Pour 0.5 cup of the reserved sauce into a rectangular baking dish and lay lasagne sheets on top, slightly overlapping. Cover with a third of the chard mixture and sprinkle with a little cheddar and parmesan. Repeat the layers and finish with white sauce, cheddar and parmesan."
+    },
+    {
+      "text": "Bake for 45 minutes or until the top is golden."
+    }
+  ]
+}

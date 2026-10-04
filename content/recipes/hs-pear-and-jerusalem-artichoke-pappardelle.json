@@ -1,0 +1,76 @@
+{
+  "slug": "hs-pear-and-jerusalem-artichoke-pappardelle",
+  "kind": "meal",
+  "title": "Pear and Jerusalem Artichoke Pappardelle",
+  "subtitle": "with butter and pink peppercorns",
+  "description": "Pappardelle tossed with buttery Jerusalem artichokes and pear wedges and finished with crushed pink peppercorns. Black pepper works if you have no pink.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a4%d7%a8%d7%93%d7%9c%d7%94-%d7%90%d7%92%d7%a1%d7%99%d7%9d-%d7%95%d7%90%d7%a8%d7%98%d7%99%d7%a9%d7%95%d7%a7-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/IMG_2352-e1609947488296-1140x641-1609947566.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "pappardelle",
+    "vegetarian",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "qty": 200,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Jerusalem Artichokes",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Pappardelle",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Pears",
+      "qty": 3,
+      "product": "pear"
+    },
+    {
+      "name": "Pink Peppercorns",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "black-peppercorns"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Melt the butter in a heavy pan, add the thinly sliced Jerusalem artichokes and 1/2 cup water, season with salt, cover and cook on low heat for about 10 minutes until they begin to soften. Uncover and cook for 3 to 4 more minutes."
+    },
+    {
+      "text": "Meanwhile, cook the pappardelle according to the packet instructions and drain."
+    },
+    {
+      "text": "Add the peeled, cored and sliced pears to the pan, raise the heat to high and cook for 2 minutes. Add the pappardelle and toss gently."
+    },
+    {
+      "text": "Transfer to plates and sprinkle with crushed pink peppercorns."
+    }
+  ]
+}

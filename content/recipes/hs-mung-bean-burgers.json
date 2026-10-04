@@ -1,0 +1,113 @@
+{
+  "slug": "hs-mung-bean-burgers",
+  "kind": "meal",
+  "title": "Mung Bean Burgers",
+  "subtitle": "in burger buns with lettuce, tomato and pickles",
+  "description": "Baked vegan burgers made from mung beans, potato and onion, served in buns with the classic toppings. For a Middle Eastern twist, add cumin and coriander.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%90%d7%a9%d7%91%d7%95%d7%a8%d7%92%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/02/Img7820-e1581251582799-1140x641-1581521649.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burger",
+    "vegan",
+    "baked",
+    "legumes"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato"
+    },
+    {
+      "name": "Mung Beans",
+      "qty": 240,
+      "unit": "g",
+      "product": "green-beans"
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "smoked-paprika",
+      "optional": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Burger Buns",
+      "qty": 4,
+      "product": "bread-rolls"
+    },
+    {
+      "name": "Lettuce",
+      "qty": 4,
+      "unit": "slice",
+      "product": "iceberg-lettuce"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato"
+    },
+    {
+      "name": "Pickles",
+      "product": "pickles"
+    },
+    {
+      "name": "Tomato Sauce",
+      "product": "tomato-sauce"
+    },
+    {
+      "name": "Mayonnaise",
+      "product": "mayonnaise"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil the potato in water for about 20 minutes until soft. Cool and peel."
+    },
+    {
+      "text": "Meanwhile, cook the mung beans in a pot of boiling water for 15 minutes until they begin to soften but are not completely soft. Drain."
+    },
+    {
+      "text": "Process the mung beans and potato in a food processor with the onion, garlic, paprika, salt and pepper into a grainy paste. Taste and adjust the seasoning."
+    },
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Divide the mixture into 4 equal portions. With oiled hands, shape large patties and place on a tray lined with baking paper."
+    },
+    {
+      "text": "Bake for 15 minutes."
+    },
+    {
+      "text": "Serve hot in buns with lettuce, tomato, pickles, tomato sauce and mayonnaise."
+    }
+  ]
+}

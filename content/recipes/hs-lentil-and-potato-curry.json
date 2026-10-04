@@ -1,0 +1,107 @@
+{
+  "slug": "hs-lentil-and-potato-curry",
+  "kind": "meal",
+  "title": "Lentil and Potato Curry",
+  "subtitle": "with lemon, coriander and yoghurt",
+  "description": "A simple one-pot curry of red lentils and potatoes, simmered until very soft and served with lemon, coriander, yoghurt and flatbread.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%95%d7%aa%d7%a4%d7%95%d7%97%d7%99-%d7%90%d7%93%d7%9e%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/shutterstock_111664586-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 75,
+  "tags": [
+    "hashulchan",
+    "curry",
+    "lentils",
+    "one-pot",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "red-lentils"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 6,
+      "product": "potato"
+    },
+    {
+      "name": "Onion",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Fresh Ginger",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 4,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Coriander",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "coriander"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Flatbread",
+      "product": "flatbread"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place all the stew ingredients in a pot (potatoes in 2 cm cubes, onion and garlic chopped, chilli thinly sliced, ginger grated) and bring to the boil."
+    },
+    {
+      "text": "Reduce the heat, cover and cook for 1 hour, or until everything is very soft. Taste and adjust the seasoning."
+    },
+    {
+      "text": "Serve with lemon wedges, chopped coriander, yoghurt and flatbread."
+    }
+  ]
+}

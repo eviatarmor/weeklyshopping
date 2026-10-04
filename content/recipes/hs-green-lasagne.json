@@ -1,0 +1,124 @@
+{
+  "slug": "hs-green-lasagne",
+  "kind": "meal",
+  "title": "Green Lasagne",
+  "subtitle": "with silverbeet, cream and St Maure cheese",
+  "description": "A rich cheesy lasagne layered with bechamel, silverbeet or kale cooked in cream, mozzarella and rounds of St Maure goat's cheese, finished with parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%96%d7%a0%d7%99%d7%94-%d7%99%d7%a8%d7%95%d7%a7%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/05/high-ido-4-1600x1200-1-1140x641-1653899083.jpg",
+  "servings": 6,
+  "prepMinutes": 110,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "lasagne",
+    "pasta",
+    "baked",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lasagne Sheets",
+      "qty": 1,
+      "unit": "packet",
+      "product": "lasagne-sheets"
+    },
+    {
+      "name": "Butter",
+      "qty": 25,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 25,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 400,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 4,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 2,
+      "unit": "kg",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 250,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 400,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "St Maure Goat Cheese",
+      "qty": 1,
+      "product": "goat-s-cheese"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the bechamel: melt the butter in a pan, add the flour all at once and cook over low heat, stirring, for a few seconds until it comes together. Add the milk, salt, pepper and nutmeg and cook for 4-5 minutes until thickened. Cool to room temperature."
+    },
+    {
+      "text": "Make the greens: heat the olive oil in a pot and cook the chopped onions, stirring, for 5-10 minutes until translucent. Add the chopped silverbeet or kale, stir and cook for another 3-4 minutes."
+    },
+    {
+      "text": "Add the cream and 1/2 teaspoon salt, stir, bring to the boil, lower the heat and cook for about 10 minutes until the liquid reduces. Cool to room temperature."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Assemble: arrange a layer of lasagne sheets on the base of a baking dish, spread a quarter of the bechamel over it, pour a third of the greens on top and scatter with mozzarella. Repeat twice more. Top with rounds of St Maure, another layer of lasagne sheets and the remaining bechamel."
+    },
+    {
+      "text": "Cover the dish with foil and bake for about 45 minutes. Raise the oven to maximum, remove the foil, sprinkle with parmesan and bake for 5-8 more minutes until nicely browned."
+    }
+  ]
+}

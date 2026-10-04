@@ -1,0 +1,145 @@
+{
+  "slug": "hs-gluten-free-vegetarian-moussaka",
+  "kind": "meal",
+  "title": "Gluten-Free Vegetarian Moussaka",
+  "subtitle": "with mushrooms and rice flour bechamel",
+  "description": "Layers of roasted eggplant and potato under a mushroom and tomato sauce, topped with a creamy rice flour bechamel and baked until golden.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%95%d7%a1%d7%a7%d7%94-%d7%a6%d7%9e%d7%97%d7%95%d7%a0%d7%99%d7%aa-%d7%9c%d7%9c%d7%90-%d7%92%d7%9c%d7%95%d7%98%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/Untitled-Capture1660-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 150,
+  "tags": [
+    "hashulchan",
+    "moussaka",
+    "baked",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 3,
+      "product": "potato"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 3,
+      "product": "eggplant"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 8,
+      "product": "mushrooms"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 6,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "packet",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Sage Leaves",
+      "qty": 5,
+      "product": "sage",
+      "optional": true
+    },
+    {
+      "name": "Rice Flour",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 3,
+      "unit": "cup",
+      "product": "milk"
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Cinnamon Stick",
+      "qty": 1,
+      "product": "cinnamon-stick"
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 1,
+      "unit": "cup"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C and line 2 baking trays with baking paper."
+    },
+    {
+      "text": "Place the potato slices on one tray, season with salt and pepper, drizzle with a little olive oil and bake for about 40 minutes until tender and golden. Leave the oven on."
+    },
+    {
+      "text": "Place the eggplant slices on a plate, salt both sides and let them release liquid for about 15 minutes, then turn and leave for another 15 minutes. Pat very dry with paper towel, place on a tray, drizzle with a little olive oil and bake for about 20 minutes until browned."
+    },
+    {
+      "text": "Make the tomato and mushroom sauce: fry the finely chopped onion, mushrooms and chilli in 3 tbsp olive oil for 5 minutes over high heat until browned. Add the garlic and fry, stirring, for about 1 minute. Add the tomato paste and water and bring to the boil. Lower to medium, add the sage, a little salt and pepper and cook for about 10 minutes until thickened."
+    },
+    {
+      "text": "Make the bechamel: melt the butter in a heavy-based pan, add the rice flour and stir for 4 to 5 minutes over medium heat until combined and lightly golden. Add the cinnamon stick and slowly pour in the milk, stirring, until thick, smooth and creamy. Season with salt, pepper and a little nutmeg, and remove the cinnamon stick."
+    },
+    {
+      "text": "Raise the oven to 210°C. Lay half the eggplant slices tightly in a deep baking dish, top with a tight layer of potato, then pour over the tomato and mushroom sauce to cover completely. Sprinkle with the kashkaval and finish with a tight layer of the remaining eggplant. Pour the bechamel evenly over the top."
+    },
+    {
+      "text": "Bake for 40 minutes until golden. Rest for about 15 minutes before cutting."
+    }
+  ]
+}

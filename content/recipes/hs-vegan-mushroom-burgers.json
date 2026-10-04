@@ -1,0 +1,108 @@
+{
+  "slug": "hs-vegan-mushroom-burgers",
+  "kind": "meal",
+  "title": "Vegan Mushroom Burgers",
+  "subtitle": "with black lentils",
+  "description": "Patties of oven-roasted mushrooms, black lentils and fried onion, bound with a little flour, ketchup and mustard and baked until golden.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%94%d7%9e%d7%91%d7%95%d7%a8%d7%92%d7%a8-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%98%d7%91%d7%a2%d7%95%d7%a0%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/08/830X510-2-1140x641-1544896891.jpg",
+  "servings": 3,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burgers",
+    "vegan",
+    "mushroom",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Button Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 10,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Cooked Black Lentils",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Tomato Ketchup",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "tomato-sauce"
+    },
+    {
+      "name": "Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C and line 2 baking trays with baking paper."
+    },
+    {
+      "text": "Heat a pan with 2 tablespoons of olive oil and fry the chopped onions over medium heat until lightly golden."
+    },
+    {
+      "text": "Place the mushrooms on a tray, drizzle with about 3 tablespoons olive oil and season with salt and pepper."
+    },
+    {
+      "text": "Bake the mushrooms for about 15 minutes until slightly browned. Remove and leave the oven on."
+    },
+    {
+      "text": "Transfer the mushrooms to a food processor and pulse to a coarse puree. Squeeze the puree with your hands and place in a bowl."
+    },
+    {
+      "text": "Pulse the lentils in the food processor for 1 minute until uniform. Add to the bowl with the mushrooms and mix. Add the fried onion and remaining ingredients and mix well to a sticky mixture that is easy to shape."
+    },
+    {
+      "text": "Shape the mixture into 6 slightly flattened patties and arrange on a greased tray."
+    },
+    {
+      "text": "Bake the burgers for about 10 minutes until the colour deepens."
+    }
+  ]
+}

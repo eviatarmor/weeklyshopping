@@ -1,0 +1,118 @@
+{
+  "slug": "hs-wheat-and-vine-leaf-risotto",
+  "kind": "meal",
+  "title": "Wheat and Vine Leaf Risotto",
+  "subtitle": "with tomato, pomegranate and yoghurt",
+  "description": "Whole wheat simmered until tender and finished with butter and parmesan, then stirred through a savoury stew of vine leaves, tomato, white wine. Creamy like a risotto without the constant stirring.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%97%d7%99%d7%98%d7%94-%d7%95%d7%a2%d7%9c%d7%99-%d7%92%d7%a4%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/05/high-ido-7-1600x1200-1-1140x641-1653832663.jpg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "wheat",
+    "risotto",
+    "middle-eastern",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wheat Berries",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 3,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Vine Leaves",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 5,
+      "product": "tomato"
+    },
+    {
+      "name": "White Wine",
+      "qty": 1,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Ground Allspice",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "ground-allspice"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "greek-yoghurt"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the wheat in cold water for about half an hour, then rinse and drain."
+    },
+    {
+      "text": "Transfer to a pot with plenty of water, bring to the boil and cook on low heat for 30-40 minutes until tender."
+    },
+    {
+      "text": "Heat the olive oil in a wide pot and cook the chopped onions over low heat for about 5 minutes until translucent. Add the washed, chopped vine leaves, stir, cover and steam over low heat for another 20 minutes."
+    },
+    {
+      "text": "Add the peeled, chopped tomatoes, wine, the chopped lemon (seeds removed), pomegranate molasses, salt and allspice, stir and cook covered over low heat for about half an hour."
+    },
+    {
+      "text": "Drain the wheat, reserving a little of the cooking water, and add it to the pot. Add the butter and parmesan and stir until melted."
+    },
+    {
+      "text": "Drizzle the \"risotto\" with a little olive oil and serve with yoghurt."
+    }
+  ]
+}

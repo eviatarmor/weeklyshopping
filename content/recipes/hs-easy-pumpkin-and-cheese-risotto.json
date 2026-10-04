@@ -1,0 +1,114 @@
+{
+  "slug": "hs-easy-pumpkin-and-cheese-risotto",
+  "kind": "meal",
+  "title": "Easy Pumpkin and Cheese Risotto",
+  "subtitle": "baked in the oven, no stirring",
+  "description": "A hands-off oven risotto with pumpkin, kale and feta, finished with plenty of grated Grana Padano.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%93%d7%9c%d7%95%d7%a8%d7%99%d7%aa-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%a7%d7%9c-%d7%9c%d7%94%d7%9b%d7%a0%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/12/IMG_0012_resize_wide-1140x641-1640693008.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "risotto",
+    "pumpkin",
+    "baked",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Goat's Feta",
+      "qty": 150,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Eschalots",
+      "qty": 2,
+      "product": "eschalot"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Fresh Thyme Leaves",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Sea Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 4,
+      "unit": "cup",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 3.5,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Kale",
+      "qty": 1,
+      "unit": "cup",
+      "product": "kale"
+    },
+    {
+      "name": "Grana Padano",
+      "qty": 8,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Heat the olive oil in a heavy metal ovenproof pan over medium heat and fry the chopped eschalots for 2 minutes until lightly golden. Add the garlic and thyme and fry, stirring, for about 1 more minute. Add the rice and fry for about 3 minutes, until the tips of the grains turn slightly translucent. Season with salt and pepper."
+    },
+    {
+      "text": "Add the white wine and cook, stirring, over medium heat for about 4 minutes until fully absorbed. Add the evenly diced pumpkin and the vegetable stock (or water), stir and bring to the boil. Add the chopped kale and the feta and stir."
+    },
+    {
+      "text": "Cover the pan with a lid or foil and bake for about 20 minutes until the liquid is absorbed. Remove the lid and bake for about 5 more minutes to brown."
+    },
+    {
+      "text": "Sprinkle with Grana Padano and serve immediately."
+    }
+  ]
+}

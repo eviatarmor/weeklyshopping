@@ -1,0 +1,121 @@
+{
+  "slug": "hs-chicory-risotto",
+  "kind": "meal",
+  "title": "Chicory Risotto",
+  "subtitle": "with parmesan, basil and toasted pecans",
+  "description": "A creamy risotto with sweated onion, celery and chicory, finished with parmesan and pecorino and topped with basil, toasted pecans and a pinch of chilli.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%a2%d7%95%d7%9c%d7%a9/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/IMG_2244-e1609946275311-1140x641-1609946333.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "risotto",
+    "rice",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "product": "celery"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Chicory",
+      "qty": 1
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 2,
+      "unit": "cup",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1.5,
+      "unit": "l",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Parmesan and Pecorino Mix",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil",
+      "optional": true
+    },
+    {
+      "name": "Pecans",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pecans",
+      "optional": true
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring the vegetable stock to the boil in a small pot and keep it hot."
+    },
+    {
+      "text": "In a wide, deep pot, heat the olive oil and butter. Add the finely diced onion and sliced celery and sweat for about 5 minutes. Add the spring onion (or garlic) and the chicory cut into thin strips and cook for about 1 minute until the chicory wilts."
+    },
+    {
+      "text": "Add the rice and salt and stir for about 2 minutes. Add the wine and stir until absorbed."
+    },
+    {
+      "text": "Add a ladle of hot stock, stir and cook until absorbed before adding the next ladle. Continue until all the stock is absorbed and the rice is tender but al dente. Stir in the cheeses."
+    },
+    {
+      "text": "Transfer to a serving plate, scatter with thinly sliced basil, toasted pecans and a pinch of chilli, and serve."
+    }
+  ]
+}

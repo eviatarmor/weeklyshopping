@@ -117,7 +117,7 @@ export function correctedKcal(kcal: number, macros: { proteinG?: number; carbsG?
   return kcal > 1800 ? Math.round(kcal / KJ_PER_KCAL) : kcal;
 }
 
-/** Which spoon standard a recipe's source uses. */
+/** Which spoon standard a recipe's source uses (Israeli cups and spoons match the US ones). */
 export function spoonStandardFor(sourceUrl: string | null | undefined): SpoonStandard {
-  return sourceUrl && /mealime\.com/.test(sourceUrl) ? "us" : "au";
+  return sourceUrl && /mealime\.com|hashulchan\.co\.il/.test(sourceUrl) ? "us" : "au";
 }

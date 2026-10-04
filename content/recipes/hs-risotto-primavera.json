@@ -1,0 +1,112 @@
+{
+  "slug": "hs-risotto-primavera",
+  "kind": "meal",
+  "title": "Risotto Primavera",
+  "subtitle": "with creamy root vegetable puree",
+  "description": "A creamy white wine and parmesan risotto with fresh peas, enriched with a silky celeriac and parsley root puree.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%a4%d7%a8%d7%99%d7%9e%d7%95%d7%95%d7%a8%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/06/DSC_5675-1140x641-1592998832.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "risotto",
+    "italian",
+    "rice",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock",
+      "qty": 720,
+      "unit": "ml",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Eschalots",
+      "qty": 100,
+      "unit": "g",
+      "product": "eschalot"
+    },
+    {
+      "name": "Butter",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 2,
+      "unit": "cup",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "White Wine",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Fresh Peas",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "parmesan"
+    },
+    {
+      "name": "Celeriac",
+      "qty": 1
+    },
+    {
+      "name": "Parsley Root",
+      "qty": 1
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit": "cup",
+      "product": "milk"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan Shavings",
+      "optional": true
+    },
+    {
+      "name": "Pea Sprouts",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the root puree: bring the roughly chopped celeriac, parsley root and milk to the boil in a small pot. Lower the heat and cook covered for 25 minutes until soft."
+    },
+    {
+      "text": "Strain and keep the cooking liquid. Blend the roots with a little of the liquid to a smooth, thick puree. Season with salt. Add 2 tbsp butter and blend only until absorbed. Keep warm."
+    },
+    {
+      "text": "Heat the stock in a pot and keep it hot."
+    },
+    {
+      "text": "Saute the chopped eschalots in a medium pot with 2 tbsp butter, add the rice and stir for 1 minute. Add the white wine and let it evaporate. Add a ladle of hot stock and stir until absorbed. Continue adding stock like this until the liquid runs out or the risotto is ready (soft with a slight bite)."
+    },
+    {
+      "text": "Stir in the peas and the root puree until thickened. Add the remaining butter and the grated parmesan and stir until absorbed. Season with salt."
+    },
+    {
+      "text": "Divide between bowls, top with parmesan shavings and pea sprouts and serve."
+    }
+  ]
+}

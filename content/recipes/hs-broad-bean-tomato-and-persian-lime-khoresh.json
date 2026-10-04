@@ -1,0 +1,119 @@
+{
+  "slug": "hs-broad-bean-tomato-and-persian-lime-khoresh",
+  "kind": "meal",
+  "title": "Broad Bean, Tomato and Persian Lime Khoresh",
+  "subtitle": "served over white rice",
+  "description": "A slow-simmered stew of tomatoes, onion, dried Persian limes, prunes and pomegranate molasses, with fresh broad bean pods added for the last half hour. Serve over white rice.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%97%d7%95%d7%a8%d7%a9%d7%98-%d7%a4%d7%95%d7%9c-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa-%d7%95%d7%9c%d7%99%d7%9e%d7%95%d7%9f-%d7%a4%d7%a8%d7%a1%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/03/IMG_6898-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 110,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stew",
+    "persian",
+    "broad beans",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 3,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Dried Persian Limes",
+      "qty": 2,
+      "product": "lime"
+    },
+    {
+      "name": "Prunes",
+      "qty": 2
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 8,
+      "product": "tomato"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "qty": 0.25,
+      "unit": "cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Young Broad Bean Pods",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Cooked White Rice",
+      "product": "white-rice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grate the tomatoes, halve and deseed the dried Persian limes, and chop the onions."
+    },
+    {
+      "text": "Sweat the onions, garlic (or green garlic), paprika and turmeric in the olive oil over medium heat for about 5 minutes. When the onion starts to turn golden, add the Persian limes, prunes, grated tomatoes, pomegranate molasses, lemon juice, salt and pepper and bring to the boil."
+    },
+    {
+      "text": "Lower the heat, cover and cook for 1 hour until the flavours meld and the stew thickens."
+    },
+    {
+      "text": "Meanwhile, blanch the broad beans: bring water to the boil in a medium pot, squeeze in the halved lemon and add the lemon halves. Add the bean pods and blanch for a few seconds, just until the water returns to the boil. Drain and rinse in plenty of cold water, then keep in a bowl of cold water."
+    },
+    {
+      "text": "Add the bean pods to the stew and cook for another 30 minutes. Pour over white rice and serve."
+    }
+  ]
+}

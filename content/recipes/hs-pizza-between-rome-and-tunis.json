@@ -1,0 +1,127 @@
+{
+  "slug": "hs-pizza-between-rome-and-tunis",
+  "kind": "meal",
+  "title": "Pizza Between Rome and Tunis",
+  "subtitle": "with spinach sauce and spring vegetables",
+  "description": "A slow-risen pizza base topped with a rich olive oil spinach puree and a mix of blanched green vegetables and caramelised onion, finished with creme fraiche and parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%99%d7%a6%d7%94-%d7%91%d7%99%d7%9f-%d7%a8%d7%95%d7%9e%d7%90-%d7%9c%d7%aa%d7%95%d7%a0%d7%99%d7%a1/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/11/3351-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 1560,
+  "tags": [
+    "hashulchan",
+    "pizza",
+    "vegetarian",
+    "italian",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "kg",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Dried Yeast",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "yeast"
+    },
+    {
+      "name": "Water",
+      "qty": 700,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Spinach",
+      "qty": 1,
+      "unit": "kg",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Asparagus",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "asparagus"
+    },
+    {
+      "name": "Bok Choy",
+      "qty": 3,
+      "product": "bok-choy"
+    },
+    {
+      "name": "Green Peas",
+      "qty": 200,
+      "unit": "g",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 250,
+      "unit": "g",
+      "product": "broccoli"
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Creme Fraiche",
+      "product": "creme-fraiche"
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the dough: place the flour and yeast in a mixer with the paddle attachment, mix on low speed and gradually add the water, then the salt. Knead on medium-low speed for up to 10 minutes."
+    },
+    {
+      "text": "Oil a bowl with olive oil, add the dough, cover with a towel or plastic wrap and leave to rise in the fridge for 24 hours."
+    },
+    {
+      "text": "Take the dough out of the fridge, place it in a large baking tray lined with baking paper, flatten it to the desired pizza shape and let it rise a second time at room temperature for about 1 hour until doubled. Meanwhile preheat the oven to 250°C."
+    },
+    {
+      "text": "Make the spinach sauce: place the spinach in a large empty pot and cook over low heat for 1 hour, stirring constantly, until no liquid remains. When the spinach has shrunk completely, add 2 cups of olive oil, move to medium heat and cook together for a few minutes just until the spinach darkens, stirring constantly so it does not burn. Remove from the heat, cool and blend until smooth. Season with salt and pepper to taste."
+    },
+    {
+      "text": "Bake the dough for 20 minutes until browned. Cool and reduce the oven to 220°C."
+    },
+    {
+      "text": "Prepare the vegetables: blanch the asparagus, bok choy, peas and broccoli separately for about 1 minute each in boiling water and remove straight into iced water. Fry the sliced onions in olive oil with salt and pepper in a pan until browned, transfer to a bowl, add the green vegetables and set aside."
+    },
+    {
+      "text": "After the first bake, spread the spinach sauce over the base, scatter the vegetables casually and bake everything together for another 15-20 minutes."
+    },
+    {
+      "text": "When the bottom of the pizza is browned enough, remove from the oven. Before serving, dot with creme fraiche or sour cream in strategic places and grate plenty of parmesan over the top."
+    }
+  ]
+}

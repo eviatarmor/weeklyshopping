@@ -1,0 +1,130 @@
+{
+  "slug": "hs-whole-stuffed-cabbage",
+  "kind": "meal",
+  "title": "Whole Stuffed Cabbage",
+  "subtitle": "with freekeh in white wine broth",
+  "description": "A whole green cabbage hollowed out and filled with freekeh cooked with coriander seed, onion, wine and pomegranate molasses, then slow-roasted in white wine and glazed with date syrup. Serve with cashew tzatziki if you like.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9b%d7%a8%d7%95%d7%91-%d7%a9%d7%9c%d7%9d-%d7%9e%d7%9e%d7%95%d7%9c%d7%90-%d7%91%d7%a4%d7%a8%d7%99%d7%a7%d7%94-%d7%91%d7%a6%d7%99%d7%a8-%d7%99%d7%99%d7%9f-%d7%9c%d7%91%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/IMG_1576-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 240,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "cabbage",
+    "freekeh",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Green Cabbage",
+      "qty": 1,
+      "product": "cabbage"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Coriander Seeds",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "coriander-seeds"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Coarse Freekeh",
+      "qty": 1,
+      "unit": "cup",
+      "product": "freekeh"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 1,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Za'atar Leaves",
+      "qty": 1,
+      "unit": "bunch"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 2,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Date Syrup",
+      "qty": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Cashew Tzatziki",
+      "product": "tzatziki",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the filling: heat the olive oil in a pan over medium heat and fry the coriander seeds for about 2 minutes until fragrant. Add the finely chopped onion and cook for about 6 minutes until translucent. Add the freekeh and stir, then pour in the wine and stock (or water), season with salt and pepper, and add more liquid if needed to cover the freekeh by about 0.5 cm. Cook for 20 to 25 minutes until all the liquid is absorbed. Stir in the za'atar leaves and pomegranate molasses and set aside to cool."
+    },
+    {
+      "text": "Preheat the oven to 250°C. Remove 3 whole outer cabbage leaves and set aside. With a serrated knife cut out the core to make a cone-shaped hollow, then scoop out the cabbage with a spoon to leave a large cavity and a shell about 3 cm thick. The scooped cabbage can line the pot."
+    },
+    {
+      "text": "Drizzle 2 tablespoons olive oil into the cabbage, add half the za'atar leaves and fill to the top with the freekeh filling. Cover the opening with the 3 reserved leaves, overlapping them."
+    },
+    {
+      "text": "Oil a heavy ovenproof pot (lined with the leftover cabbage if using) and set the cabbage in it, opening facing down. Add the remaining olive oil, the wine, salt and pepper, cover with baking paper and then the pot lid, and roast for 30 minutes."
+    },
+    {
+      "text": "Lower the oven to 150°C and roast for 1 1/2 hours more."
+    },
+    {
+      "text": "Remove the lid and paper, pour the date syrup over the cabbage and baste well with the pan juices. Scatter over the remaining za'atar leaves and roast for 30 to 45 minutes until the top is browned and crisp. Cover again, wrap the pot in a towel and cool to room temperature."
+    },
+    {
+      "text": "Cut into portions with a serrated knife and serve with cashew tzatziki. It keeps in an airtight container in the fridge for up to 2 days; reheat in the oven."
+    }
+  ]
+}

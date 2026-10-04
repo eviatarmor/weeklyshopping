@@ -1,0 +1,114 @@
+{
+  "slug": "hs-fatteh",
+  "kind": "meal",
+  "title": "Fatteh",
+  "subtitle": "chickpeas, smoky eggplant and brown butter pine nuts",
+  "description": "A Lebanese-style fatteh of slow-cooked chickpeas topped with charred eggplant, garlicky yoghurt, fried pita and brown butter with pine nuts. Best eaten with a spoon.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%90%d7%98%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/05/0T7A0397-copy-1600x1200-1-e1653892952609-1140x641-1653893052.jpg",
+  "servings": 4,
+  "prepMinutes": 270,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "fatteh",
+    "chickpeas",
+    "middle-eastern",
+    "lebanese"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Chickpeas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Bicarbonate Soda",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Eggplant",
+      "qty": 4,
+      "product": "eggplant"
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    },
+    {
+      "name": "Pita",
+      "qty": 1,
+      "product": "pita-bread"
+    },
+    {
+      "name": "Butter",
+      "qty": 250,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Lemons",
+      "qty": 2,
+      "product": "lemon"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 400,
+      "unit": "g",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Parsley",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "qty": 4,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Drain the chickpeas that were soaked overnight and place in a large pot with plenty of water. Add the bicarbonate soda and 1 teaspoon salt, bring to the boil and cook on low heat for about 3 hours until completely tender. Drain and set aside."
+    },
+    {
+      "text": "Char the eggplants directly over an open flame for about 5 minutes on each side until blackened and soft. Cool slightly and peel."
+    },
+    {
+      "text": "Heat oil for deep frying to 180°C. Cut the pita in half crosswise, tear into medium pieces and fry for about 1 minute until browned. Transfer to a plate lined with paper towel."
+    },
+    {
+      "text": "Melt the butter in a pot and bring to a gentle simmer. Add the pine nuts and cook over high heat for about 2 minutes, stirring, until the butter turns brown and the pine nuts are golden."
+    },
+    {
+      "text": "Divide the chickpeas among four serving plates. Place a whole charred eggplant on each and season with the crushed garlic, lemon juice and salt."
+    },
+    {
+      "text": "Top with yoghurt, parsley, pomegranate seeds and the fried pita, drizzle with a tablespoon of the brown butter and scatter the pine nuts. Keep the remaining brown butter in a sealed jar in the fridge for up to 3 weeks."
+    }
+  ]
+}

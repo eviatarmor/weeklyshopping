@@ -1,0 +1,135 @@
+{
+  "slug": "hs-red-wine-onion-quiche",
+  "kind": "meal",
+  "title": "Red Wine Onion Quiche",
+  "subtitle": "like French onion soup in a tart",
+  "description": "A quiche filled with onions slowly caramelised with red wine and thyme, set in a creamy custard in a buttery crust. The pastry needs an hour of chilling first.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%99%d7%a9-%d7%91%d7%a6%d7%9c%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%9f-%d7%90%d7%93%d7%95%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/02/IMGL3819-1-1140x641-1646562855.jpg",
+  "servings": 6,
+  "prepMinutes": 150,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "quiche",
+    "baked",
+    "onion",
+    "french"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 210,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 120,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Cold Water",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 5,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Fresh Thyme",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "thyme"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Red Wine",
+      "qty": 120,
+      "unit": "ml",
+      "product": "red-wine"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 250,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "panko-breadcrumbs",
+      "optional": true
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "optional": true
+    },
+    {
+      "name": "Feta",
+      "product": "feta",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the pastry: in a mixer with the paddle attachment, combine 180 g flour, the sugar, 1/2 teaspoon salt and the cold diced butter into a crumbly mixture. Add the cold water and mix until combined. Wrap in plastic wrap and chill for at least 1 hour."
+    },
+    {
+      "text": "Roll the dough out on a floured surface to about 3 mm thick, press it into the base and sides of a tart tin to form a right angle, trim the excess, prick the base with a fork and place in the freezer."
+    },
+    {
+      "text": "Heat olive oil in a heavy-based pot and cook the sliced onions, stirring occasionally, for about 1 hour until they begin to caramelise. Add the thyme, a pinch of salt, pepper and the wine, stir and cook for another 10 minutes. Cool to room temperature."
+    },
+    {
+      "text": "Whisk the cream, eggs, 30 g flour, 1/2 teaspoon salt and pepper until smooth."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Spread the onion filling in the frozen tart shell and pour the custard over in a circular motion. If you like, scatter breadcrumbs, top with sliced onion and brush with a little olive oil. Bake for 30-40 minutes until nicely browned. Crumble feta over after baking if you like."
+    }
+  ]
+}

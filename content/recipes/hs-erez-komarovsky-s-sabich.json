@@ -1,0 +1,94 @@
+{
+  "slug": "hs-erez-komarovsky-s-sabich",
+  "kind": "meal",
+  "title": "Erez Komarovsky's Sabich",
+  "subtitle": "with charred eggplant, soft eggs, zhug and almond tahini",
+  "description": "A sabich plate with fire-charred eggplant instead of fried, soft-boiled eggs, a fresh green zhug and almond tahini, served with thick pita.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%91%d7%99%d7%97-%d7%a9%d7%9c-%d7%90%d7%a8%d7%96-%d7%a7%d7%95%d7%9e%d7%a8%d7%95%d7%91%d7%a1%d7%a7%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/IMG_5602-1140x641-1618743414.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "sabich",
+    "eggplant",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "qty": 4,
+      "product": "eggplant"
+    },
+    {
+      "name": "Eggs",
+      "qty": 4,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Green Chillies",
+      "qty": 2,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Coarse Sea Salt",
+      "product": "salt"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Almond Tahini",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "tahini"
+    },
+    {
+      "name": "Thick Pita",
+      "qty": 4,
+      "product": "pita-bread"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the zhug (ideally ahead): pound the deseeded green chillies, coriander and garlic in a mortar and pestle (or chop very finely with a sharp knife) and mix with the olive oil. Store in a glass jar."
+    },
+    {
+      "text": "Char the eggplants over an open flame until soft and the skin is blackened. Peel them but keep them whole."
+    },
+    {
+      "text": "Boil the eggs in boiling water for about 4 minutes until soft-set, then peel carefully."
+    },
+    {
+      "text": "Arrange the eggplants on 4 plates, top with the eggs and spoon over plenty of zhug."
+    },
+    {
+      "text": "Drizzle with lemon juice, sprinkle with coarse salt and drizzle with almond tahini. Serve with pita."
+    }
+  ]
+}

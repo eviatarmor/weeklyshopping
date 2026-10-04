@@ -1,0 +1,136 @@
+{
+  "slug": "hs-tandoori-tofu-bao",
+  "kind": "meal",
+  "title": "Tandoori Tofu Bao",
+  "subtitle": "with minty yoghurt sauce",
+  "description": "Steamed buns filled with tandoori-marinated tofu, charred carrot and zucchini ribbons and a fresh herb yoghurt sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%90%d7%9f-%d7%98%d7%95%d7%a4%d7%95-%d7%98%d7%a0%d7%93%d7%95%d7%a8%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/DANP7379-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 180,
+  "tags": [
+    "hashulchan",
+    "tofu",
+    "sandwich",
+    "indian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Firm Tofu",
+      "qty": 500,
+      "unit": "g",
+      "product": "tofu"
+    },
+    {
+      "name": "Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Tandoori Spice Mix",
+      "qty": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Ground Shatta Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 1,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Mint",
+      "qty": 4,
+      "product": "mint"
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "product": "basil"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Bao Buns",
+      "qty": 8,
+      "product": "bread-rolls"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the marinade: blend the dry ingredients, garlic and coriander in a food processor. Slowly add the vinegar while blending, then the oil at the end. Process for 2 to 3 minutes until smooth."
+    },
+    {
+      "text": "Marinate the tofu slices (1 cm thick) in the marinade for 2 hours or up to 2 days."
+    },
+    {
+      "text": "Make the yoghurt sauce: mix the yoghurt with the chopped mint, a few coriander leaves and the basil leaves, salt and pepper, and adjust the seasoning. It keeps for up to 2 days in the fridge."
+    },
+    {
+      "text": "Heat an oiled pan. Season the carrot and zucchini ribbons (cut with a peeler) with salt and pepper and sear for about 1 minute on each side until lightly browned. Set aside. Remove the tofu from the marinade and cook for about 1 minute on each side."
+    },
+    {
+      "text": "Assemble: spread both sides of each steamed bun with a tablespoon or two of the yoghurt sauce, add the tofu and the vegetables and drizzle with more yoghurt sauce."
+    }
+  ]
+}

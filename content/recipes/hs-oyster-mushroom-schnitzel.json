@@ -1,0 +1,150 @@
+{
+  "slug": "hs-oyster-mushroom-schnitzel",
+  "kind": "meal",
+  "title": "Oyster Mushroom Schnitzel",
+  "subtitle": "with lemony celery cashew sauce",
+  "description": "Oyster mushroom clusters coated in a spiced batter and breadcrumbs, baked until golden and served with a creamy lemon and celery cashew sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a9%d7%a0%d7%99%d7%a6%d7%9c-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%90%d7%95%d7%99%d7%a1%d7%98%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/02/3375-e1612264160707-1140x641-1612264233.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "mushroom",
+    "schnitzel",
+    "baked",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Oyster Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Wholemeal Flour",
+      "qty": 1,
+      "unit": "cup",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Coriander Seeds",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "coriander-seeds"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Soda Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "sparkling-water"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Garlic",
+      "qty": 0.5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Cashews",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "cashews"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Celery",
+      "qty": 2,
+      "unit": "bunch",
+      "product": "celery"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C, line a tray with baking paper and spread a generous amount of olive oil over the paper."
+    },
+    {
+      "text": "Mix all the batter ingredients in a wide, shallow bowl until smooth."
+    },
+    {
+      "text": "Break the mushrooms into pieces about 6 x 6 cm, dip them in the batter, then in breadcrumbs, and place on the tray. Bake for 15 minutes, turn, and bake for 10 more minutes until golden."
+    },
+    {
+      "text": "Make the sauce: blend all the sauce ingredients except the celery with a stick blender until smooth and creamy, then stir in the very finely chopped celery. Serve with the mushrooms."
+    }
+  ]
+}

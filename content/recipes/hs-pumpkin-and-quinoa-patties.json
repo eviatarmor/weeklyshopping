@@ -1,0 +1,125 @@
+{
+  "slug": "hs-pumpkin-and-quinoa-patties",
+  "kind": "meal",
+  "title": "Pumpkin and Quinoa Patties",
+  "subtitle": "with parsley, basil and nutmeg",
+  "description": "Pan-fried patties of roasted pumpkin and quinoa with fresh herbs. Cooked rice or bulgur can replace the quinoa.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%93%d7%9c%d7%a2%d7%aa-%d7%95%d7%a7%d7%99%d7%a0%d7%95%d7%90%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-194-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 70,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "quinoa",
+    "vegetarian",
+    "pumpkin"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "qty": 500,
+      "unit": "g",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "cup",
+      "product": "quinoa"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "sesame-oil"
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Basil",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Self-Raising Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "self-raising-flour"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Cook the quinoa in 2 cups of water for about 25 minutes until soft. Drain if any liquid remains."
+    },
+    {
+      "text": "Meanwhile, bake the pumpkin cubes in a covered dish for 15-20 minutes until soft. Let cool."
+    },
+    {
+      "text": "Fry the chopped onion in a non-stick pan with 1 tablespoon of sesame oil and 1 tablespoon of canola oil for 3-5 minutes or until golden. Keep the pan for later."
+    },
+    {
+      "text": "Process the baked pumpkin with the fried onion, chopped herbs, garlic and egg in a food processor until a puree forms. Transfer to a bowl."
+    },
+    {
+      "text": "Add the quinoa, salt, pepper, nutmeg, breadcrumbs and flour and stir. Set aside for 5 minutes."
+    },
+    {
+      "text": "Heat a little oil in the non-stick pan. Shape the mixture into patties by hand and fry over medium heat for about 4 minutes until golden on both sides. Drain on paper towel."
+    }
+  ]
+}

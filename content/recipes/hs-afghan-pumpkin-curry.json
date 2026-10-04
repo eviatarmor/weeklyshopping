@@ -1,0 +1,109 @@
+{
+  "slug": "hs-afghan-pumpkin-curry",
+  "kind": "meal",
+  "title": "Afghan Pumpkin Curry",
+  "subtitle": "with spiced yoghurt sauce",
+  "description": "Roasted pumpkin cubes spiced with turmeric, ginger and chilli, served with a minty garlic yoghurt sauce. Lovely over rice or tucked into flatbread.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%90%d7%a8%d7%99-%d7%93%d7%9c%d7%a2%d7%aa-%d7%90%d7%a4%d7%92%d7%a0%d7%99-%d7%a2%d7%9d-%d7%a8%d7%95%d7%98%d7%91-%d7%99%d7%95%d7%92%d7%95%d7%a8%d7%98-%d7%9e%d7%aa%d7%95%d7%91%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/curry-dlaat-yogurt-in-pita_3-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "curry",
+    "pumpkin",
+    "afghan",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "qty": 800,
+      "unit": "g",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Fresh Ginger",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 200,
+      "unit": "ml",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Dried Mint",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-mint"
+    },
+    {
+      "name": "Flatbread",
+      "product": "flatbread",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Mix the pumpkin (peeled, cut into 3 cm cubes) with the oil, chopped garlic (2 cloves), chilli, 1 tsp ginger, turmeric, coriander, tomato paste and salt in an oven bag. Place in a tray and pierce the bag."
+    },
+    {
+      "text": "Bake for about 40 minutes until the pumpkin is tender and golden at the edges."
+    },
+    {
+      "text": "Mix the yoghurt sauce: yoghurt, 1 crushed garlic clove, 0.5 tsp grated ginger and the crumbled dried mint."
+    },
+    {
+      "text": "Serve the pumpkin in flatbread or over rice with the sauce on the side."
+    }
+  ]
+}

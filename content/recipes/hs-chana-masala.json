@@ -1,0 +1,117 @@
+{
+  "slug": "hs-chana-masala",
+  "kind": "meal",
+  "title": "Chana Masala",
+  "subtitle": "chickpeas in Indian spices",
+  "description": "Soaked and boiled chickpeas simmered with fried onion, ginger, garlic, tomato and garam masala in a thick sauce. Serve with chapati.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%92%d7%a8%d7%92%d7%99%d7%a8%d7%99-%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%94%d7%95%d7%93%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/Or-Kaplan-9663-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 240,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "chickpeas",
+    "curry",
+    "indian",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Chickpeas",
+      "qty": 450,
+      "unit": "g",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Bicarbonate of Soda",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bicarb-soda",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "product": "ginger"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "chilli-powder",
+      "optional": true
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Sea Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon"
+    },
+    {
+      "name": "Chapati",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the chickpeas in about 6 cups of water with 1 tablespoon bicarbonate of soda for 12 hours, then drain and rinse well."
+    },
+    {
+      "text": "Place the chickpeas in a large pot with the remaining tablespoon of bicarbonate of soda and plenty of water. Cook for 1 1/2 to 2 hours until tender but still holding their shape. Drain and keep the cooking water."
+    },
+    {
+      "text": "Finely grate the garlic and ginger and mix. Heat the oil in a medium pot over medium-high heat and fry the chopped onion for 5 to 8 minutes until browned. Add the garlic and ginger and fry for about 2 minutes."
+    },
+    {
+      "text": "Stir in the ground coriander, then add the diced tomato and cook for about 5 minutes until it starts to break down."
+    },
+    {
+      "text": "Add the chilli powder (if using), garam masala and salt and cook for another minute. Add the cooked chickpeas and mix well, scraping the base of the pot."
+    },
+    {
+      "text": "Add 1 cup of the chickpea cooking water and the juice of 1/2 lemon, bring to the boil and cook for about 15 minutes, adding more liquid if needed (the sauce should be thick but not soupy). Taste and adjust, then serve with chapati."
+    }
+  ]
+}

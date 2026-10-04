@@ -1,0 +1,111 @@
+{
+  "slug": "hs-green-garlic-risotto-with-peas",
+  "kind": "meal",
+  "title": "Green Garlic Risotto with Peas",
+  "subtitle": "made with a green garlic stock",
+  "description": "Creamy arborio risotto cooked with a fragrant green garlic and thyme stock, finished with fresh peas, parmesan and lemon zest.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%a9%d7%95%d7%9d-%d7%99%d7%a8%d7%95%d7%a7-%d7%a2%d7%9d-%d7%90%d7%a4%d7%95%d7%a0%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/08/rissotto-1140x641-1597915559.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "risotto",
+    "italian",
+    "rice",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "qty": 25,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "White Wine",
+      "qty": 240,
+      "unit": "ml",
+      "product": "white-wine"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "l",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Green Garlic",
+      "qty": 6,
+      "product": "garlic"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "thyme"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Peas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "parmesan"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "optional": true
+    },
+    {
+      "name": "Fresh Dill",
+      "product": "dill",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the stock: bring a pot of water with the green garlic (halved with the leaves), thyme and olive oil to the boil. Cover and simmer gently for 10 minutes. Turn off the heat and leave covered for another half hour. Strain, season with salt and keep the liquid."
+    },
+    {
+      "text": "Heat a pot with the butter and fry the rice for 3 minutes until coated in fat and slightly pale. Add the wine and let it evaporate."
+    },
+    {
+      "text": "Meanwhile, heat the stock in a pot."
+    },
+    {
+      "text": "Pour a ladle of the hot stock into the rice and stir until the liquid is fully absorbed. Add another ladle and continue like this for about half an hour until the rice is tender and the texture slightly sticky. The risotto is ready when the rice is tender but still has a slight bite."
+    },
+    {
+      "text": "Add the peas and parmesan and cook, stirring, for another 1 to 2 minutes. Serve topped with grated lemon zest and a little chopped dill."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "hs-spinach-and-feta-pastilla",
+  "kind": "meal",
+  "title": "Spinach and Feta Pastilla",
+  "subtitle": "with soft-boiled eggs and yoghurt",
+  "description": "A round filo pie layered with wilted spinach, caramelised onion and feta, baked until golden and served with soft-boiled eggs and yoghurt.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%99%d7%99%d7%94-%d7%aa%d7%a8%d7%93-%d7%95%d7%a4%d7%98%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/10/1634721443_84486-1140x641-1635418414.jpg",
+  "servings": 6,
+  "prepMinutes": 110,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pie",
+    "filo",
+    "spinach",
+    "feta"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spinach",
+      "qty": 2,
+      "unit": "kg",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Brown Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Feta",
+      "qty": 400,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Filo Pastry",
+      "product": "filo-pastry"
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds",
+      "optional": true
+    },
+    {
+      "name": "Soft-Boiled Eggs",
+      "product": "eggs"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Blanch the spinach leaves in boiling water for about 30 seconds, then transfer to iced water for 5 minutes. Squeeze the leaves out well, chop and place in a bowl."
+    },
+    {
+      "text": "Heat the olive oil in a pan and fry the sliced onions, stirring, over low heat for about 20 minutes until caramelised."
+    },
+    {
+      "text": "Add the caramelised onion and crumbled feta to the spinach and mix well until even."
+    },
+    {
+      "text": "Preheat the oven to 180°C and grease a 26 cm round tin generously with olive oil."
+    },
+    {
+      "text": "Brush three or four filo sheets with olive oil and lay them overlapping in the tin so the base and sides are well covered and about a third of the sheets hang over the edge. Add a third of the filling and press down lightly. Repeat twice more (the filo then only separates the layers) and finish with a top layer of three oiled sheets. Brush the top well with oil and sprinkle with sesame seeds."
+    },
+    {
+      "text": "Bake for 40 to 45 minutes until golden. Remove, cool at room temperature for half an hour, slice and serve with soft-boiled eggs and yoghurt."
+    }
+  ]
+}

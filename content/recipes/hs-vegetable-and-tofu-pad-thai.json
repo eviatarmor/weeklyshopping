@@ -1,0 +1,120 @@
+{
+  "slug": "hs-vegetable-and-tofu-pad-thai",
+  "kind": "meal",
+  "title": "Vegetable and Tofu Pad Thai",
+  "subtitle": "with peanuts, coriander and lime",
+  "description": "Wok-fried rice noodles with tofu, crisp vegetables and egg, tossed in pad Thai sauce and served with peanuts, coriander and lemon. Leave out the eggs to make it vegan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%90%d7%93-%d7%aa%d7%90%d7%99-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%95%d7%98%d7%95%d7%a4%d7%95/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/01/shutterstock_721206067-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "noodles",
+    "thai",
+    "stir-fry",
+    "tofu"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wide Rice Noodles",
+      "qty": 400,
+      "unit": "g",
+      "product": "rice-noodles"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "optional": true,
+      "pantry": true
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 300,
+      "unit": "g",
+      "product": "tofu"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Bean Sprouts",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bean-sprouts"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 3,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Pad Thai Sauce",
+      "qty": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Roasted Peanuts",
+      "product": "peanuts",
+      "optional": true
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "optional": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the rice noodles in cold water for about 1 hour or until soft."
+    },
+    {
+      "text": "Heat a wok with the oil over high heat, add the beaten eggs and scramble until cooked. Add the cubed tofu (2-3 cm), stir-fry for 2-3 minutes until slightly browned, then transfer everything to a bowl with a slotted spoon."
+    },
+    {
+      "text": "Reheat the wok. Add the carrot, zucchini and capsicum cut into thin strips and stir-fry for about 1 minute. Add the bean sprouts and chopped spring onion, stir-fry for 1 more minute and transfer to the bowl with the tofu."
+    },
+    {
+      "text": "Reheat the wok, adding more oil if needed. Drain the noodles, add to the wok and stir-fry for 2-3 minutes with the pad Thai sauce and soy sauce. Toss for another 30 seconds until the noodles are coated and more pliable. Return the contents of the bowl to the wok and stir-fry together for about 1 minute. If the dish is dry, add more sauce or a little hot water."
+    },
+    {
+      "text": "Serve immediately in bowls with chopped roasted peanuts, chopped coriander and lemon wedges."
+    }
+  ]
+}

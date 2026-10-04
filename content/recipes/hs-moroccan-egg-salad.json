@@ -1,0 +1,96 @@
+{
+  "slug": "hs-moroccan-egg-salad",
+  "kind": "meal",
+  "title": "Moroccan Egg Salad",
+  "subtitle": "with preserved lemon, olives and red onion",
+  "description": "Hard-boiled eggs piled with red chilli, onion, preserved lemon, green olives and parsley, dressed with a sharp lemon and olive oil dressing.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%91%d7%99%d7%a6%d7%99%d7%9d-%d7%9e%d7%a8%d7%95%d7%a7%d7%90%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/650_5001-5-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "salad",
+    "eggs",
+    "moroccan",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "qty": 12,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Preserved Lemon",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "lemon"
+    },
+    {
+      "name": "Green Olives",
+      "qty": 30,
+      "product": "green-olives"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hard-boil the eggs: place cold eggs in a pot, cover with tap water, bring to the boil and cook for 5 minutes for a bright yellow yolk, up to 10 minutes for fully set eggs. Cool under cold running water, crack and peel, and cut into quarters."
+    },
+    {
+      "text": "Arrange the eggs on a flat serving plate and scatter over the onion rings, sliced chilli, roughly chopped preserved lemon, the halved pitted olives and chopped parsley."
+    },
+    {
+      "text": "Shake the olive oil, lemon juice, sugar, salt and pepper in a covered jar until the sugar and salt dissolve. Spoon the dressing over the salad without stirring and serve immediately."
+    }
+  ]
+}

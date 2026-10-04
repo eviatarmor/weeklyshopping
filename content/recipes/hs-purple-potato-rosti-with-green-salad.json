@@ -1,0 +1,89 @@
+{
+  "slug": "hs-purple-potato-rosti-with-green-salad",
+  "kind": "meal",
+  "title": "Purple Potato Rosti with Green Salad",
+  "subtitle": "served with thick yoghurt",
+  "description": "Crisp grated purple potato rosti topped with a fennel, mint and rocket salad and served with thick yoghurt, a perfect summer dinner.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%95%d7%a9%d7%98%d7%99-%d7%a1%d7%92%d7%95%d7%9c-%d7%95%d7%a1%d7%9c%d7%98-%d7%99%d7%a8%d7%95%d7%a7%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/05/IMG_3934-1140x641-1622717057.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "rosti",
+    "potato",
+    "vegetarian",
+    "summer"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Purple Potatoes",
+      "qty": 6,
+      "product": "potato"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Fennel",
+      "qty": 1,
+      "product": "fennel"
+    },
+    {
+      "name": "Mint Stalks",
+      "qty": 5
+    },
+    {
+      "name": "Rocket",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "rocket"
+    },
+    {
+      "name": "Purslane Leaves",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Thick Natural Yoghurt",
+      "product": "greek-yoghurt"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grate the potatoes on the large holes of a grater into a wide bowl. Add salt, black pepper and 1 tbsp olive oil and mix."
+    },
+    {
+      "text": "Heat 2 tbsp olive oil in a small frying pan (about 20 cm). Transfer the potato mixture to the pan and press it down firmly."
+    },
+    {
+      "text": "Fry over high heat for 3 minutes, then reduce to low and fry for 3 more minutes. Flip onto a plate (browned side up), add the remaining 2 tbsp olive oil to the pan, slide the rosti back in and fry the other side the same way (3 minutes on high and 3 minutes on low)."
+    },
+    {
+      "text": "Meanwhile, thinly slice the fennel, pick the mint leaves from 5 stalks, and mix all the salad ingredients in a wide bowl."
+    },
+    {
+      "text": "Transfer the rosti to a serving plate, pile the salad on top and serve with thick yoghurt."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "hs-mung-bean-and-millet-patties",
+  "kind": "meal",
+  "title": "Mung Bean and Millet Patties",
+  "subtitle": "with basil and green chilli schug pesto",
+  "description": "Vegan patties made from soaked mung beans, millet and potato, fried until golden and served with a basil and olive oil schug-style pesto.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%9e%d7%a9-%d7%95%d7%93%d7%95%d7%97%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-183-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "patties",
+    "vegan",
+    "israeli",
+    "legumes"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mung Beans",
+      "qty": 500,
+      "unit": "g",
+      "product": "green-beans"
+    },
+    {
+      "name": "Millet",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Baharat",
+      "qty": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Basil",
+      "qty": 2,
+      "unit": "cup",
+      "product": "basil"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 3,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the mung beans in water for 12 hours and drain."
+    },
+    {
+      "text": "Bring the millet to the boil with 1 cup of water and a little salt. Reduce the heat, cover and cook for 15-20 minutes over low heat until it becomes a sticky porridge. Set aside."
+    },
+    {
+      "text": "Place the mung beans, millet, boiled potatoes, onion, parsley leaves, 1 clove of garlic, baharat, breadcrumbs, salt and pepper in a food processor and pulse until uniform. If too wet, add another 1-2 tablespoons of breadcrumbs. Cover and chill for 1 hour."
+    },
+    {
+      "text": "Heat oil in a large heavy non-stick pan. Shape the mixture into ping pong ball-sized balls and flatten slightly. Fry in batches for 3-4 minutes each side and drain on paper towel."
+    },
+    {
+      "text": "For the pesto, process the basil, seeded green chillies and 1 clove of garlic while drizzling in the olive oil. Scrape down the sides and blend to a paste. Season with salt and pepper."
+    },
+    {
+      "text": "Serve the patties with the pesto. Store leftover pesto in a jar covered with olive oil in the fridge for up to a week."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "hs-stuffed-pumpkin",
+  "kind": "meal",
+  "title": "Stuffed Pumpkin",
+  "subtitle": "with freekeh-filled chard rolls",
+  "description": "A Japanese pumpkin filled with chard leaves rolled around a freekeh filling, cooked in a spiced pomegranate and shiitake broth and roasted on a bed of salt. You can skip rolling the leaves by chopping them into the freekeh.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%93%d7%9c%d7%a2%d7%aa-%d7%9e%d7%9e%d7%95%d7%9c%d7%90%d7%aa-%d7%91%d7%9e%d7%9e%d7%95%d7%9c%d7%90%d7%99-%d7%9e%d7%a0%d7%92%d7%95%d7%9c%d7%93-%d7%95%d7%a4%d7%a8%d7%99%d7%a7%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/02/tomer1182-1-e1612700252237-1140x641-1612700304.jpg",
+  "servings": 6,
+  "prepMinutes": 180,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pumpkin",
+    "freekeh",
+    "stuffed",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Large Chard Leaves",
+      "qty": 20
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Freekeh",
+      "qty": 500,
+      "unit": "g",
+      "product": "freekeh"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 2,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Japanese Pumpkin",
+      "qty": 1,
+      "product": "pumpkin"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 3,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "qty": 5,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Fresh Turmeric",
+      "qty": 4,
+      "unit": "cm",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "qty": 15,
+      "product": "shiitake-mushrooms"
+    },
+    {
+      "name": "Star Anise",
+      "qty": 2,
+      "product": "star-anise"
+    },
+    {
+      "name": "Cardamom Pods",
+      "qty": 3
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Coarse Salt",
+      "qty": 1,
+      "unit": "kg",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the chard leaves off both sides of the white stems; chop the stems and keep them for the filling."
+    },
+    {
+      "text": "Make the filling: heat the olive oil with the chilli and garlic in a medium pot, add the chopped onion and cook for about 5 minutes. Add the chopped chard stems and cook for about 8 minutes until translucent, then add the rinsed freekeh and cook for about 3 minutes."
+    },
+    {
+      "text": "Add the stock (or water), bring to the boil, lower the heat, cover and cook for about 25 minutes. Remove from the heat, uncover and cool to room temperature. If not rolling the leaves, chop them and add them for the last 10 minutes of cooking."
+    },
+    {
+      "text": "Prepare the leaves: bring plenty of water to the boil and prepare a bowl of iced water. Dip the leaves in a strainer into the boiling water, then straight into the iced water. Drain, shake off excess water and lay flat."
+    },
+    {
+      "text": "Preheat the oven to 220°C. Place a spoonful of filling 1 cm above the bottom edge of each leaf, fold the bottom over, fold in the sides by about 0.5 cm and roll up tightly. Repeat with all the leaves."
+    },
+    {
+      "text": "Pour the cooking stock into a medium pot, add the pomegranate molasses, turmeric and shiitake mushrooms and bring to the boil, then add the star anise, cardamom and salt and simmer while you fill the pumpkin."
+    },
+    {
+      "text": "Drizzle the olive oil into the 2 pumpkin halves (seeds removed), rub over the sides and base, and season with coarse salt and pepper. Arrange the stuffed leaves inside in circles from the edge in, layer by layer, lining them up neatly so they slice well."
+    },
+    {
+      "text": "Mix the coarse salt with 1 cup water and spread in a flat tray. Pour the hot broth into the pumpkin halves, wrap the halves in baking paper and then foil, and set on the salt bed. Bake for 1 hour, remove the covering and roast for 15 more minutes to brown. Slice and serve."
+    }
+  ]
+}

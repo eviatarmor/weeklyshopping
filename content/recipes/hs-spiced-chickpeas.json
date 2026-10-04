@@ -1,0 +1,141 @@
+{
+  "slug": "hs-spiced-chickpeas",
+  "kind": "meal",
+  "title": "Spiced Chickpeas",
+  "subtitle": "with tamarind and yoghurt",
+  "description": "Chickpeas simmered with onion, tomato, ginger and whole spices, finished with goat's milk yoghurt and tamarind. Serve with rice.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%92%d7%a8%d7%92%d7%a8%d7%99-%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%9e%d7%aa%d7%95%d7%91%d7%9c%d7%99%d7%9d-%d7%a2%d7%9d-%d7%aa%d7%9e%d7%a8%d7%94%d7%99%d7%a0%d7%93%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/shutterstock_1238593795-1140x641-1623924385.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "hashulchan",
+    "chickpeas",
+    "curry",
+    "indian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Coriander Seeds",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "coriander-seeds"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Cooked Chickpeas",
+      "qty": 500,
+      "unit": "g",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Tamarind Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "tamarind-paste"
+    },
+    {
+      "name": "Water",
+      "qty": 80,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Goat's Milk Yoghurt",
+      "qty": 1,
+      "unit": "cup",
+      "product": "yoghurt"
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Cooked Rice",
+      "product": "white-rice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the tomatoes into eighths, slice the onion thinly, chop the garlic finely and grate the ginger."
+    },
+    {
+      "text": "Heat the oil in a wide pot over medium heat and fry the coriander seeds, cumin seeds and chilli for a few seconds. Add the onion, lower the heat and fry for 5 to 6 minutes until soft and lightly golden."
+    },
+    {
+      "text": "Add the tomatoes, garlic and ginger, raise to medium heat and fry for 2 minutes."
+    },
+    {
+      "text": "Add the chickpeas, salt, pepper, tamarind and water. Cover, lower the heat and cook for 10 minutes."
+    },
+    {
+      "text": "Raise to medium heat, add the yoghurt, garam masala and chopped parsley, and cook for 10 minutes until the sauce thickens and reduces. Serve with rice."
+    }
+  ]
+}

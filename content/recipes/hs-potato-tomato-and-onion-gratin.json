@@ -1,0 +1,89 @@
+{
+  "slug": "hs-potato-tomato-and-onion-gratin",
+  "kind": "meal",
+  "title": "Potato, Tomato and Onion Gratin",
+  "subtitle": "with a tahini glaze",
+  "description": "Layers of potato, tomato and red onion baked until tender, then topped with tahini and baked until golden. Finish with fresh herbs.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%92%d7%a8%d7%90%d7%98%d7%9f-%d7%aa%d7%a4%d7%95%d7%97%d7%99-%d7%90%d7%93%d7%9e%d7%94-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa-%d7%95%d7%91%d7%a6%d7%9c-%d7%91%d7%96%d7%99%d7%92%d7%95%d7%92-%d7%98/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/shutterstock_480607888-1140x641-1635774954.jpg",
+  "servings": 4,
+  "prepMinutes": 65,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "gratin",
+    "baked",
+    "israeli",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 5,
+      "product": "potato"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 3,
+      "product": "tomato"
+    },
+    {
+      "name": "Red Onions",
+      "qty": 3,
+      "product": "red-onion"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "product": "ground-cumin",
+      "optional": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Green Chilli",
+      "product": "green-chilli",
+      "optional": true
+    },
+    {
+      "name": "Tahini",
+      "qty": 1,
+      "unit": "cup",
+      "product": "tahini"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C. Peel and thinly slice the potatoes, slice the tomatoes into 1 cm rounds and cut the onions into 1 cm rings."
+    },
+    {
+      "text": "Grease an ovenproof dish with olive oil. Layer the potato slices, season with salt, pepper and a little cumin if you like, then add a layer of tomato and a layer of onion rings. Drizzle with olive oil, scatter over chopped chilli and cover with foil."
+    },
+    {
+      "text": "Bake for about 30 minutes until the potatoes are tender. Remove the foil, spread the tahini over the top and bake for about 10 more minutes until golden."
+    },
+    {
+      "text": "Scatter over chopped herbs and serve hot."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "hs-chickpea-and-spinach-patties",
+  "kind": "meal",
+  "title": "Chickpea and Spinach Patties",
+  "subtitle": "served with lemon wedges",
+  "description": "Pan-fried patties of mashed chickpeas, spinach and caramelised onion spiced with cumin and turmeric.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%95%d7%aa%d7%a8%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/650_50063-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "chickpea",
+    "spinach",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Spinach",
+      "qty": 200,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Cooked Chickpeas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs (Gluten-Free)",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "optional": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a frying pan and fry the chopped onion until golden. Add the spinach and fry for 1 to 2 minutes until coated in oil. Transfer to a bowl."
+    },
+    {
+      "text": "Roughly mash the chickpeas with a fork or potato masher and add them to the bowl. Add the egg, breadcrumbs and spices and mix. Refrigerate for 30 minutes to firm up."
+    },
+    {
+      "text": "Heat oil in a non-stick frying pan. Shape the mixture into long, compact patties using 2 spoons or wet hands. Fry in batches for 2 to 3 minutes each side until browned, then drain on paper towel."
+    },
+    {
+      "text": "Serve hot or at room temperature with lemon wedges."
+    }
+  ]
+}

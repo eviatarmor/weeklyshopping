@@ -1,0 +1,121 @@
+{
+  "slug": "hs-palak-paneer-with-purslane",
+  "kind": "meal",
+  "title": "Palak Paneer with Purslane",
+  "subtitle": "baked with halloumi or tofu",
+  "description": "A palak paneer-style curry using purslane in place of spinach, with halloumi (or tofu for a vegan version) in a spiced yoghurt sauce, finished in the oven.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%9c%d7%90%d7%a7-%d7%a4%d7%a0%d7%99%d7%a8-%d7%a8%d7%99%d7%92%d7%9c%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/05/IMG_3718-1600x1200-1-1140x641-1654605282.jpg",
+  "servings": 4,
+  "prepMinutes": 150,
+  "tags": [
+    "hashulchan",
+    "curry",
+    "indian",
+    "baked",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Purslane",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Coconut Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "coconut-oil"
+    },
+    {
+      "name": "Halloumi",
+      "qty": 200,
+      "unit": "g",
+      "product": "haloumi"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Fresh Ginger",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Coriander Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "coriander-seeds"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 1,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Blitz the purslane leaves (stems removed) and coriander in a food processor to a coarse puree. Set aside."
+    },
+    {
+      "text": "Heat a tablespoon of the coconut oil in a pan and fry the cubed halloumi (or tofu) for about 1 minute on each side until lightly golden. Transfer to a plate."
+    },
+    {
+      "text": "Heat the remaining coconut oil in the pan and fry the chopped onion for 1-2 minutes, stirring, until translucent. Add the cumin seeds and fry for about 1 minute. Add the chopped green chilli, garlic and grated ginger and fry for another minute. Add the turmeric and coriander seeds and fry for another minute."
+    },
+    {
+      "text": "Add the yoghurt (or coconut cream), season with salt and pepper, stir and bring to a gentle simmer. Lower the heat and cook for 3-4 minutes."
+    },
+    {
+      "text": "Transfer to a casserole dish, add the purslane puree and the halloumi or tofu cubes and mix well. Cover and bake for about 2 hours."
+    }
+  ]
+}

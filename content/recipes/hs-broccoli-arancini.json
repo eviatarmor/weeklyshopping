@@ -1,0 +1,129 @@
+{
+  "slug": "hs-broccoli-arancini",
+  "kind": "meal",
+  "title": "Broccoli Arancini",
+  "subtitle": "on roasted cherry tomato sauce",
+  "description": "Baked rice balls with broccoli, spinach and silken tofu, served over a sauce of oven-roasted cherry tomatoes and garlic.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%90%d7%a8%d7%a0%d7%a6%d7%99%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%a7%d7%95%d7%9c%d7%99-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa-%d7%a9%d7%a8%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/08/IMG_0079-2-1140x641-1596611849.jpg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "arancini",
+    "baked",
+    "vegan",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Short-Grain Rice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Ground Flaxseed",
+      "qty": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "unit": "cup",
+      "product": "broccoli"
+    },
+    {
+      "name": "Spinach",
+      "qty": 2,
+      "unit": "cup",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Silken Tofu",
+      "qty": 150,
+      "unit": "g",
+      "product": "tofu"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "nutritional-yeast"
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 1,
+      "unit": "kg",
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Sea Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the rice in water for 4 hours at room temperature beforehand. Bring plenty of salted water to the boil in a large pot, add the rice and cook for 20 minutes until softened. Drain."
+    },
+    {
+      "text": "Heat the olive oil in a pan over medium heat, add the chopped onion and fry for 4 minutes until golden. Add the chopped broccoli and spinach, stir, cook for 5 minutes and remove from the heat."
+    },
+    {
+      "text": "Preheat the oven to 220°C and line a tray with baking paper. Put the cooked rice and the fried onion, spinach and broccoli in a bowl, add the flaxseed, grated tofu, nutritional yeast, baking powder, salt and pepper, and mix and knead by hand into a soft, even mixture. Cover and refrigerate for 30 minutes."
+    },
+    {
+      "text": "Make the sauce meanwhile: preheat the oven to 240°C. Arrange the tomatoes (quartered if large) on a lined tray, pour over the olive oil and toss to coat. Nestle the garlic cloves among them, sprinkle with the sea salt and bake for about 25 minutes until the tomatoes are golden and releasing liquid. Cool for at least 10 minutes, then blend for 2 to 3 minutes into a thick red sauce."
+    },
+    {
+      "text": "Take the rice mixture from the fridge and shape into small balls (ping pong ball size). If the mixture crumbles, blitz a third of it with 2 to 3 pulses in a food processor and mix back in. Place on the tray and bake for 15 to 20 minutes until golden and crisp. Serve hot over the roasted cherry tomato sauce."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "hs-spanish-frittata-with-cheeses",
+  "kind": "meal",
+  "title": "Spanish Frittata with Cheeses",
+  "subtitle": "baked over a crisp tortilla base",
+  "description": "A Spanish-style frittata with potato, zucchini and onion, baked over a tortilla that turns into a crisp base, with feta, Grana Padano, cheddar and cottage cheese.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a8%d7%99%d7%98%d7%98%d7%94-%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%aa-%d7%a2%d7%9d-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/12/IMG_0013_resize_wide-1140x641-1640691966.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "frittata",
+    "eggs",
+    "spanish",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Large Tortilla",
+      "qty": 1
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Goat's Feta",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "feta"
+    },
+    {
+      "name": "Grana Padano",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 100,
+      "unit": "g",
+      "product": "cheddar-cheese"
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli",
+      "optional": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 6,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Mixed Fresh Herbs (Parsley, Dill, Coriander, Spring Onion)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "spring-onion"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a little olive oil in a heavy ovenproof pan (the same diameter as the tortilla) and fry the sliced onion and zucchini for about 5 minutes until golden. Transfer to a bowl. Add a little more oil to the pan and fry the very finely diced potato for about 8 minutes until partly cooked. Add it to the onion and zucchini bowl and mix. Do not wash the pan."
+    },
+    {
+      "text": "Preheat the oven to 180°C on the top grill setting."
+    },
+    {
+      "text": "Whisk the eggs, cheeses, herbs, chilli, salt and pepper in a bowl, then add the fried vegetables and mix."
+    },
+    {
+      "text": "Heat a little oil in the pan, lay in the tortilla, pour over the frittata mixture and cook over medium heat for about 2 minutes, until the edges just begin to set."
+    },
+    {
+      "text": "Transfer the pan to the oven and bake for 5 to 7 more minutes until nicely golden. Serve immediately."
+    }
+  ]
+}

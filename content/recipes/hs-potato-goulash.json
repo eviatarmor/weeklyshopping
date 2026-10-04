@@ -1,0 +1,122 @@
+{
+  "slug": "hs-potato-goulash",
+  "kind": "meal",
+  "title": "Potato Goulash",
+  "subtitle": "with paprika, sour cream and dill",
+  "description": "A vegetarian take on goulash: potatoes and capsicum simmered in a smoky paprika and caraway base, served with sour cream and fresh dill.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%a4%d7%95-%d7%92%d7%95%d7%9c%d7%90%d7%a9/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/02/potatos-with-peper_2-e1582804698605-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "stew",
+    "goulash",
+    "vegetarian",
+    "hungarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 3,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 2,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Green Capsicum",
+      "qty": 1,
+      "product": "green-capsicum"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli",
+      "optional": true
+    },
+    {
+      "name": "Potatoes",
+      "qty": 4,
+      "product": "potato"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Hot Smoked Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Caraway Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "caraway-seeds"
+    },
+    {
+      "name": "Capsicum Paste",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Dill",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "dill"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 1,
+      "unit": "jar",
+      "product": "sour-cream"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a wide pot, add the chopped onions and fry for 5 minutes over medium heat until golden. Add the garlic and all the chopped capsicums and chilli, and fry, stirring, for another 3 minutes."
+    },
+    {
+      "text": "Peel the potatoes and cut into 4 cm cubes. Add them to the pot with the salt, both paprikas, caraway and capsicum paste, and fry for 3 minutes."
+    },
+    {
+      "text": "Add the boiling water and bring to the boil. Lower the heat and cook for 20 to 25 minutes until the potatoes are tender."
+    },
+    {
+      "text": "Serve the goulash with sour cream and chopped dill."
+    }
+  ]
+}

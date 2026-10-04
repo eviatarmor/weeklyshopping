@@ -1,0 +1,110 @@
+{
+  "slug": "hs-herbed-rice-with-egg-and-okra",
+  "kind": "meal",
+  "title": "Herbed Rice with Egg and Okra",
+  "subtitle": "stir-fried short grain rice",
+  "description": "Short grain rice is cooked al dente in a small amount of water, chilled, then stir-fried with okra, fresh herbs, silan, preserved lemon and egg.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%90%d7%95%d7%a8%d7%96-%d7%a2%d7%92%d7%95%d7%9c-%d7%a2%d7%9d-%d7%a2%d7%a9%d7%91%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/06/hashulhan-21075-1-1140x641-1625238170.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "rice",
+    "stir-fry",
+    "okra",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Short Grain Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Okra",
+      "qty": 1.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Mixed Fresh Herbs (Coriander, Mint, Parsley, Spring Onion, Dill)",
+      "qty": 1,
+      "unit": "cup",
+      "product": "dill"
+    },
+    {
+      "name": "Date Syrup",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Persian Lime",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lime"
+    },
+    {
+      "name": "Shatta Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring the rice and water to the boil in a covered pot. Reduce the heat and cook for 20 minutes. Remove from the heat and leave covered for 10 minutes. Spread the rice on a tray or board and refrigerate for at least 4 hours (overnight is best)."
+    },
+    {
+      "text": "Heat a frying pan or wok, add 1/4 cup olive oil and the okra, and fry over medium heat, stirring, for about 5 minutes until browned. Transfer to a bowl and set aside."
+    },
+    {
+      "text": "Heat the remaining olive oil in the same pan, add the rice and fry, stirring, for about 2 minutes. Add the chopped herbs, date syrup, spices and garlic and keep frying and stirring for about 3 more minutes."
+    },
+    {
+      "text": "Add the beaten egg and fry, stirring, for 2 more minutes. Return the okra, mix and serve immediately."
+    }
+  ]
+}

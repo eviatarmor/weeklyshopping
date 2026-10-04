@@ -1,0 +1,110 @@
+{
+  "slug": "hs-rich-vegetable-patties",
+  "kind": "meal",
+  "title": "Rich Vegetable Patties",
+  "subtitle": "potato, sweet potato and zucchini",
+  "description": "Flavourful patties of grated potato, sweet potato, onion and zucchini with fresh herbs and spices, rested in the fridge for 2 hours and then pan-fried.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%a2%d7%a9%d7%99%d7%a8%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/04/84FC8666-621E-4249-AFFF-17DDDCE53DE7-1140x641-1586875510.jpg",
+  "servings": 4,
+  "prepMinutes": 150,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "fried",
+    "vegetarian",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.33,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.33,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 3,
+      "product": "potato"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini"
+    },
+    {
+      "name": "Self-Raising Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "self-raising-flour"
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "In a wide, deep bowl, beat the eggs with the chopped parsley, coriander and spring onion greens, salt, pepper, cumin and turmeric."
+    },
+    {
+      "text": "Grate the potatoes, sweet potato, onions and zucchini on the large holes of a box grater. Squeeze the vegetables out well between your hands and add to the egg mixture. Add the self-raising flour and mix, cover the bowl with plastic wrap and refrigerate for 2 hours."
+    },
+    {
+      "text": "Heat 1 cm of oil in a non-stick pan. Take the mixture from the fridge and form flattened patties in the size you like. Fry for about 4 minutes on each side over medium heat and transfer to a plate lined with baking paper."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "hs-root-vegetable-tart",
+  "kind": "meal",
+  "title": "Root Vegetable Tart",
+  "subtitle": "with cream cheese on puff pastry",
+  "description": "A neat puff pastry tart spread with cream cheese and topped with concentric circles of thinly sliced potato, beetroot, sweet potato, zucchini and carrot.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%98%d7%90%d7%a8%d7%98-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%a9%d7%95%d7%a8%d7%a9/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/830_510-7-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 75,
+  "tags": [
+    "hashulchan",
+    "tart",
+    "baked",
+    "vegetarian",
+    "pastry"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butter Puff Pastry",
+      "qty": 250,
+      "unit": "g",
+      "product": "puff-pastry"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 2,
+      "product": "beetroot"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Thyme",
+      "product": "thyme"
+    },
+    {
+      "name": "Cream Cheese",
+      "qty": 100,
+      "unit": "g",
+      "product": "cream-cheese"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roll out the puff pastry to 3 mm thick. Mark a 20 cm circle with a knife and cut around it with a sharp knife. Mark a smaller 18 cm circle inside, pressing the mark in but not cutting through, so the rim puffs up more than the centre."
+    },
+    {
+      "text": "Make sure all the vegetables are dry and cold. Slice the potatoes and beetroot as thinly as possible, the sweet potato 2 to 3 mm thick, the zucchini 4 to 5 mm thick, and the carrots diagonally 3 mm thick, lightly blanched in boiling water. Brush each vegetable with olive oil and season with salt and pepper. Sprinkle a little thyme on the potato."
+    },
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Spread the cream cheese over the inner circle of the pastry. Arrange the vegetables in tight circles from the outside in, in this order: potato, beetroot, sweet potato, zucchini and carrot."
+    },
+    {
+      "text": "Bake for about 6 minutes. Lower the temperature to 170°C and bake for another 15 minutes. If the tart browns too fast, cover with foil or baking paper, and take it out when the pastry is cooked."
+    }
+  ]
+}

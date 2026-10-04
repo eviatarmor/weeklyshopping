@@ -1,0 +1,100 @@
+{
+  "slug": "hs-cauliflower-and-broccoli-spaghettini",
+  "kind": "meal",
+  "title": "Cauliflower and Broccoli Spaghettini",
+  "subtitle": "with cherry tomatoes, rocket and ricotta",
+  "description": "Spaghettini cooked together with cauliflower, broccoli and garlic, tossed with lemon zest, olive oil, cherry tomatoes and rocket and topped with parmesan and ricotta. Ready in about 20 minutes.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%a4%d7%92%d7%98%d7%99%d7%a0%d7%99-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%91%d7%a8%d7%95%d7%a7%d7%95%d7%9c%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/07/spagetini-1140x641-1554304053.jpg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "vegetarian",
+    "italian",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spaghettini",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 0.5,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "product": "broccoli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Zest"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 10,
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Rocket",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rocket"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "parmesan"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "ricotta"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring plenty of water (twice the amount needed for the pasta) to the boil in a large pot."
+    },
+    {
+      "text": "Season the water generously with salt and add the spaghettini, small cauliflower florets, small broccoli florets (dice the broccoli stem), and the garlic. Cook according to the packet instructions until the pasta is al dente. Drain."
+    },
+    {
+      "text": "Return the vegetables and pasta to the pot and add olive oil, lemon zest, salt and pepper. Cook for 2 minutes over low heat to bring the flavours together. Add the halved cherry tomatoes and rocket leaves and toss."
+    },
+    {
+      "text": "Divide the pasta and vegetables among serving bowls, sprinkle with parmesan, top with a mound of ricotta, drizzle with a little olive oil and serve."
+    }
+  ]
+}

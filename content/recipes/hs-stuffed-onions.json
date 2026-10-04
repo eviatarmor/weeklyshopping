@@ -1,0 +1,101 @@
+{
+  "slug": "hs-stuffed-onions",
+  "kind": "meal",
+  "title": "Stuffed Onions",
+  "subtitle": "in a lemon and date syrup sauce",
+  "description": "Onion layers filled with a herby tomato rice and slowly braised in a sweet and sour sauce of date syrup and lemon until caramelised.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%a6%d7%9c%d7%99%d7%9d-%d7%9e%d7%9e%d7%95%d7%9c%d7%90%d7%99%d7%9d-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%9f-%d7%95%d7%a1%d7%99%d7%9c%d7%90%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/0968-e1583757170174-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 240,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stuffed",
+    "israeli",
+    "braised",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Large White Onions",
+      "qty": 8,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Date Syrup",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "basmati-rice"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make a deep cut in each onion down to the core, without separating it. Cook in a pot with water to cover over low heat for 30 to 40 minutes until the onions soften but stay whole."
+    },
+    {
+      "text": "Remove with a slotted spoon and let cool. Separate into individual layers (each onion gives about 7 good layers for stuffing)."
+    },
+    {
+      "text": "Mix the filling: the raw rice, finely chopped tomato, chopped parsley, 2 tbsp olive oil, a little sugar, pepper and salt."
+    },
+    {
+      "text": "Fill each onion layer with a teaspoon of the rice filling, roll up and press closed."
+    },
+    {
+      "text": "Heat 3 to 4 tbsp olive oil in a large deep pan that fits the stuffed onions in a single layer. Pack them in tightly and fry for 5 minutes until browned, shaking the pan occasionally to turn them so they colour on all sides."
+    },
+    {
+      "text": "Add a little sugar, the date syrup and salt, pour in water to cover and cook for 2 to 2.5 hours over the lowest heat until tender and caramelised. Taste the sauce and balance with the lemon juice. This can be made ahead and kept in the fridge for 2 to 3 days."
+    },
+    {
+      "text": "To serve, reheat in the sauce, adding a little water to the pot if needed. Drizzle with a little olive oil before serving."
+    }
+  ]
+}

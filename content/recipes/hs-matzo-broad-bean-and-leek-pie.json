@@ -1,0 +1,86 @@
+{
+  "slug": "hs-matzo-broad-bean-and-leek-pie",
+  "kind": "meal",
+  "title": "Matzo, Broad Bean and Leek Pie",
+  "subtitle": "a layered potato and matzo bake",
+  "description": "Layers of matzo and a mashed potato, leek and broad bean filling, baked until golden. It can be made a day ahead and reheated.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a9%d7%98%d7%99%d7%93%d7%aa-%d7%9e%d7%a6%d7%95%d7%aa-%d7%a4%d7%95%d7%9c-%d7%95%d7%9b%d7%a8%d7%a9%d7%94-%d7%91%d7%9c%d7%a7%d7%a0%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/WhatsApp-Image-2020-03-15-at-11.10.59-AM-1140x641.jpeg",
+  "servings": 4,
+  "prepMinutes": 75,
+  "tags": [
+    "hashulchan",
+    "pie",
+    "baked",
+    "vegetarian",
+    "balkan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 1,
+      "unit": "kg",
+      "product": "potato"
+    },
+    {
+      "name": "Matzo",
+      "qty": 5
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Leeks",
+      "qty": 5,
+      "product": "leek"
+    },
+    {
+      "name": "Shelled Broad Beans",
+      "qty": 2,
+      "unit": "cup",
+      "product": "green-beans"
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil the peeled and halved potatoes in plenty of boiling water until soft. Reserve 1 cup of the cooking water, drain the potatoes and transfer to a wide bowl."
+    },
+    {
+      "text": "Heat the olive oil in a pan over medium heat. Add the thinly sliced leeks and a little salt, stir for about 1 minute, then add the broad beans. Keep frying for about 10 minutes, stirring occasionally, until the leeks and beans are soft."
+    },
+    {
+      "text": "Remove from the heat and add the leeks and beans to the potato bowl. Mash to a loose puree with the texture of thick tahini, adding a little of the cooking water only as needed. Season with nutmeg, pepper and salt, and adjust. Once the puree has cooled, add the eggs and mix well."
+    },
+    {
+      "text": "Soak the matzo between damp towels for about half an hour beforehand. Preheat the oven to 170°C. Line a 20 x 15 cm tin with baking paper and grease lightly. Place one matzo in the tin, top with about a fifth of the puree, and cover with another matzo. Repeat with the remaining matzo and puree, finishing with a layer of puree. Run a fork over the top to make fine grooves and bake for 30 minutes until browned."
+    }
+  ]
+}

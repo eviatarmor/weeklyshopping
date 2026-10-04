@@ -1,0 +1,68 @@
+{
+  "slug": "hs-cauliflower-fritters",
+  "kind": "meal",
+  "title": "Cauliflower Fritters",
+  "subtitle": "gluten free with chickpea flour",
+  "description": "Four-ingredient fritters of finely processed cauliflower, chickpea flour and egg, pan-fried until golden. Light, airy and gluten free, served with a salad or yoghurt dip.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/12/IMG_0214_kruvit-1140x641-1554631720.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "fritters",
+    "cauliflower",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Chickpea Flour",
+      "qty": 1,
+      "unit": "cup",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Process the cauliflower (cut into large florets, including the core) to crumbs in a food processor. Transfer to a bowl, add the remaining ingredients and mix to a uniform mixture."
+    },
+    {
+      "text": "Shape into flat patties about 4 cm across."
+    },
+    {
+      "text": "Heat a non-stick pan with a teaspoon of oil and fry the fritters in batches for 2 minutes on each side until browned (add a teaspoon of oil at the start of each batch)."
+    },
+    {
+      "text": "Serve hot with a yoghurt and herb dip or a fresh leaf salad."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "hs-artichoke-and-jerusalem-artichoke-salad",
+  "kind": "meal",
+  "title": "Artichoke and Jerusalem Artichoke Salad",
+  "subtitle": "with chickpeas and tahini",
+  "description": "Roasted Jerusalem artichokes and pan-fried globe artichokes served over chickpeas and drizzled with tahini. The artichokes are boiled in salted water with lemon juice and a little flour to stop them going black.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%90%d7%a8%d7%98%d7%99%d7%a9%d7%95%d7%a7-%d7%95%d7%90%d7%a8%d7%98%d7%99%d7%a9%d7%95%d7%a7-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99-%d7%a2%d7%9d-%d7%92%d7%a8%d7%92%d7%a8%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/IMG_0385-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "salad",
+    "artichoke",
+    "chickpeas",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jerusalem Artichokes",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Sage Leaves",
+      "qty": 2,
+      "product": "sage"
+    },
+    {
+      "name": "Globe Artichokes",
+      "qty": 1.5,
+      "unit": "kg"
+    },
+    {
+      "name": "Lemons",
+      "qty": 2,
+      "product": "lemon"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Cooked Chickpeas",
+      "qty": 250,
+      "unit": "g",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Tahini",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "tahini"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 0.5,
+      "product": "green-chilli"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C. Place the peeled, halved Jerusalem artichokes in a tray, drizzle with a little olive oil, season with salt and pepper, add 1/4 cup water and the sage leaves and cover with foil."
+    },
+    {
+      "text": "Bake for 40 minutes until soft."
+    },
+    {
+      "text": "Boil the artichoke quarters for 5 minutes in boiling salted water with the juice of 1/2 lemon and the flour (to prevent blackening). Drain and remove the hairy choke from the hearts."
+    },
+    {
+      "text": "Pan-fry the artichoke quarters in olive oil for 1 to 2 minutes until golden. Add the chopped garlic and fry for a few more seconds until fragrant but not golden. Season and squeeze over the juice of 1/2 lemon."
+    },
+    {
+      "text": "Arrange the Jerusalem artichokes on a large platter with the globe artichokes on top and scatter the chickpeas around. Drizzle with tahini, scatter over sliced green chilli and pour over the roasting juices from the artichokes. Serve."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "hs-risotto-and-tomato-stuffed-capsicums",
+  "kind": "meal",
+  "title": "Risotto and Tomato Stuffed Capsicums",
+  "subtitle": "slow-cooked then baked",
+  "description": "Capsicums filled with a creamy tomato and dill rice, simmered gently and finished in the oven. Serve with tahini and a chopped vegetable salad.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%9c%d7%a4%d7%9c%d7%99%d7%9d-%d7%9e%d7%9e%d7%95%d7%9c%d7%90%d7%99%d7%9d-%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%95%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/%D7%A4%D7%9C%D7%A4%D7%9C-%D7%9E%D7%9E%D7%95%D7%9C%D7%90-%D7%A6%D7%9E%D7%97%D7%95%D7%A0%D7%99-%D7%A9%D7%9C-%D7%90%D7%93%D7%99-%D7%9E%D7%96%D7%A8%D7%97%D7%99-1140x641.jpeg",
+  "servings": 6,
+  "prepMinutes": 240,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stuffed",
+    "israeli",
+    "rice",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicums",
+      "qty": 6,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Short-Grain Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 4,
+      "product": "tomato"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Fresh Dill",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "dill"
+    },
+    {
+      "name": "Garlic",
+      "qty": 6,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomato Juice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Tahini",
+      "product": "tahini",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the filling: fry the rice in 1 tbsp olive oil for 1 to 2 minutes. Add 3 cups boiling water, bring back to the boil, lower the heat and cook for 15 minutes."
+    },
+    {
+      "text": "Fry the chopped onion for 6 to 8 minutes over medium heat until golden. Add the finely chopped tomatoes and garlic and fry for about 10 minutes until the tomatoes soften, stirring occasionally."
+    },
+    {
+      "text": "Add the tomato juice, salt, pepper, cumin and dill, stir and cook for 10 minutes over low heat. Remove from the heat, stir in the cooked rice and fill the capsicums to about 1 cm from the top."
+    },
+    {
+      "text": "Make the sauce: pour all the sauce ingredients (the remaining oil, tomato juice, salt and water) into a wide pot and mix. Cook for 2 to 3 minutes. Arrange the capsicums in the sauce, cover and cook over low heat for 2 hours."
+    },
+    {
+      "text": "Preheat the oven to 180°C, move the covered pot to the oven and bake for 50 minutes. Remove the lid and bake for another 10 minutes until browned."
+    },
+    {
+      "text": "Serve with tahini and a finely chopped vegetable salad."
+    }
+  ]
+}

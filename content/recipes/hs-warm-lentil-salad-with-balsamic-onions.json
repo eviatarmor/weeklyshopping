@@ -1,0 +1,108 @@
+{
+  "slug": "hs-warm-lentil-salad-with-balsamic-onions",
+  "kind": "meal",
+  "title": "Warm Lentil Salad with Balsamic Onions",
+  "subtitle": "with basil yoghurt and croutons",
+  "description": "Black lentils topped with sticky balsamic-roasted red onions, a bright basil yoghurt sauce and crunchy croutons.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%97%d7%9d-%d7%a2%d7%9d-%d7%91%d7%a6%d7%9c%d7%99%d7%9d-%d7%91%d7%91%d7%9c%d7%a1%d7%9e%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/lentil-and-onion-1-1140x641-1574671946.jpg",
+  "servings": 6,
+  "prepMinutes": 90,
+  "tags": [
+    "hashulchan",
+    "salad",
+    "lentils",
+    "vegetarian",
+    "warm"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Onions",
+      "qty": 6,
+      "product": "red-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "cup",
+      "product": "balsamic-vinegar"
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Black Lentils",
+      "qty": 500,
+      "unit": "g",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Basil",
+      "qty": 2,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 400,
+      "unit": "g",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Croutons",
+      "qty": 400,
+      "unit": "g"
+    },
+    {
+      "name": "Mint",
+      "product": "mint",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Mix the onions (peeled and cut into quarters, leaving the root end on to hold the slices together), oil, sugar, balsamic vinegar, salt and pepper in a large bowl. Transfer to a baking tray."
+    },
+    {
+      "text": "Bake for 50 to 60 minutes until the sauce is thick and glossy. Spoon some of the sauce over the onions from time to time."
+    },
+    {
+      "text": "Meanwhile, cook the lentils in a covered pot of boiling water for about half an hour until tender. Drain."
+    },
+    {
+      "text": "Blanch the basil in a bowl of boiling water for 10 seconds, drain and rinse under cold water."
+    },
+    {
+      "text": "Blend the basil with the yoghurt in a food processor until smooth. Strain through a fine sieve into a bowl, pressing the contents of the sieve to extract all the yoghurt. Keep in the fridge until serving."
+    },
+    {
+      "text": "To serve, divide the lentils into individual bowls, top with the roasted onion and drizzle with the balsamic sauce. Drizzle with the basil yoghurt and sprinkle with croutons and coarse salt. Garnish with a little thinly sliced mint or basil if you like."
+    }
+  ]
+}

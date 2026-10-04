@@ -1,0 +1,128 @@
+{
+  "slug": "hs-one-pot-green-pasta",
+  "kind": "meal",
+  "title": "One-Pot Green Pasta",
+  "subtitle": "with broccoli, zucchini, peas and herbs",
+  "description": "Pasta cooked in one pot with green vegetables, garlic and herbs so it soaks up the sauce, finished with butter and crumbled feta.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%aa-%d7%99%d7%a8%d7%95%d7%a7%d7%99%d7%9d-%d7%91%d7%a1%d7%99%d7%a8-%d7%90%d7%97%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/12/IMG_0005_resize_wide-1140x641-1640595005.jpg",
+  "servings": 4,
+  "prepMinutes": 25,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "one-pot",
+    "vegetarian",
+    "green"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Broccoli Florets",
+      "qty": 1,
+      "unit": "cup",
+      "product": "broccoli"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini"
+    },
+    {
+      "name": "Green Peas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Baby Spinach",
+      "qty": 1,
+      "unit": "cup",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dried Chilli Flakes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Feta",
+      "qty": 50,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Fresh Green Leaves",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Arrange the pasta, onion, broccoli, zucchini, peas, spinach, garlic, herbs, salt, pepper and chilli in a large pot and add the boiling water."
+    },
+    {
+      "text": "Bring to the boil and cook for 10 to 15 minutes, until the pasta is tender. Drain any remaining water. Add the diced butter and keep cooking, stirring, for 1 more minute."
+    },
+    {
+      "text": "Crumble over the feta, sprinkle with chilli flakes and fresh green leaves and serve immediately."
+    }
+  ]
+}

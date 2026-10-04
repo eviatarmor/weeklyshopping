@@ -1,0 +1,123 @@
+{
+  "slug": "hs-classic-pizza",
+  "kind": "meal",
+  "title": "Classic Pizza",
+  "subtitle": "with a slow-rise dough and fresh tomato sauce",
+  "description": "Homemade pizza dough and a simple tomato and garlic sauce, baked on a very hot stone or inverted tray. The dough makes four 28 cm pizzas, and partly baked bases freeze well.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%99%d7%a6%d7%94-%d7%a7%d7%9c%d7%90%d7%a1%d7%99%d7%aa-%d7%a9%d7%9c-%d7%90%d7%95%d7%a8%d7%99-%d7%a9%d7%a4%d7%98/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/shutterstock_658408219-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 150,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pizza",
+    "baked",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cold Water",
+      "qty": 600,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Yeast",
+      "qty": 10,
+      "unit": "g",
+      "product": "yeast"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 850,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Durum Flour",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Ripe Tomatoes",
+      "qty": 10,
+      "product": "tomato"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 400,
+      "unit": "g",
+      "product": "mozzarella"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pour the water into a mixer bowl and crumble in the yeast. Sift in the flour and knead with the dough hook on low for 2 minutes. Add the salt and sugar, increase to medium and knead for 10 more minutes until soft and pliable."
+    },
+    {
+      "text": "Shape the dough into a ball, place in a bowl lightly oiled with olive oil, cover and leave to rise for 30 minutes or until doubled. Place a baking stone (or an inverted tray) in the oven and heat to the highest setting (250°C)."
+    },
+    {
+      "text": "Fold the dough in the bowl like an envelope, flip it seam side down, cover and rise for another 20 minutes. Divide into 4 equal pieces, shape into balls, cover and rest for 30 minutes."
+    },
+    {
+      "text": "Make the sauce: fry the crushed garlic in the olive oil for a few seconds until fragrant but not browned. Add the chopped tomatoes and sugar and cook on medium heat for 7 minutes to thicken (10 minutes more if using canned tomatoes). Season with salt and pepper."
+    },
+    {
+      "text": "Roll each ball to a 14 cm round, then stretch gently over your fists to about 40 cm. Place on baking paper dusted with durum flour."
+    },
+    {
+      "text": "Spread with tomato sauce and add toppings and cheese. Slide onto the hot stone using the baking paper and bake for 8 to 10 minutes until the crust is golden and the cheese is bubbling."
+    }
+  ]
+}

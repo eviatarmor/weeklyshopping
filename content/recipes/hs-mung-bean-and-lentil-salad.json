@@ -1,0 +1,79 @@
+{
+  "slug": "hs-mung-bean-and-lentil-salad",
+  "kind": "meal",
+  "title": "Mung Bean and Lentil Salad",
+  "subtitle": "with rocket, pomegranate and almonds",
+  "description": "A fresh salad of sprouted or soaked mung beans and black lentils with rocket, mixed herbs, pomegranate seeds and almonds, dressed simply with lemon juice and olive oil.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%95%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%9e%d7%90%d7%a9/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/500_650132-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "salad",
+    "lentils",
+    "legumes",
+    "georgian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mung Beans",
+      "qty": 0.67,
+      "unit": "cup",
+      "product": "green-beans"
+    },
+    {
+      "name": "Black Lentils",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Rocket",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "rocket"
+    },
+    {
+      "name": "Mixed Fresh Herbs",
+      "qty": 0.5,
+      "unit": "bunch"
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Almonds",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "almonds"
+    },
+    {
+      "name": "Lemon Juice",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring water to the boil in two pots. Add the mung beans to one and the lentils to the other. Cook until tender: 7-12 minutes for the mung beans and 1-2 minutes for the lentils. Drain and cool."
+    },
+    {
+      "text": "Mix the lentils and mung beans with the roughly chopped rocket, herbs (parsley, dill, coriander, mint and basil), pomegranate seeds and halved almonds. Pour over lemon juice and olive oil to taste, season with salt, toss well and serve."
+    }
+  ]
+}

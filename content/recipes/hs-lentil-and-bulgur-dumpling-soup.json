@@ -1,0 +1,99 @@
+{
+  "slug": "hs-lentil-and-bulgur-dumpling-soup",
+  "kind": "meal",
+  "title": "Lentil and Bulgur Dumpling Soup",
+  "subtitle": "with caramelised onion",
+  "description": "A filling green lentil soup with spiced bulgur dumplings and fried onion.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a8%d7%a7-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%95%d7%91%d7%95%d7%a8%d7%92%d7%95%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/11/1636879737_132087_18028-e1640262422710-1140x641-1640262520.jpeg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "soup",
+    "lentil",
+    "bulgur",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fine Bulgur",
+      "qty": 1.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Cinnamon",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Allspice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-allspice"
+    },
+    {
+      "name": "Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Green Lentils",
+      "qty": 1,
+      "unit": "cup",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "pantry": true
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cover the bulgur with hot water and soak for about half an hour. Drain off the liquid, add the flour and spices and mix. Add a little water, stirring, only until you have a slightly sticky mixture."
+    },
+    {
+      "text": "Shape the mixture into small dough balls and set aside."
+    },
+    {
+      "text": "Put the lentils in a pot with plenty of water and bring to the boil."
+    },
+    {
+      "text": "Meanwhile, heat the oil in a pan and fry the chopped onion until dark brown."
+    },
+    {
+      "text": "Add the fried onion and bulgur dumplings to the lentils and cook the soup for about 40 minutes, until the lentils are soft."
+    }
+  ]
+}

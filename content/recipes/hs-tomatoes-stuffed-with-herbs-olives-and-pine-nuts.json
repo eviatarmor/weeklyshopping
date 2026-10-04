@@ -1,0 +1,99 @@
+{
+  "slug": "hs-tomatoes-stuffed-with-herbs-olives-and-pine-nuts",
+  "kind": "meal",
+  "title": "Tomatoes Stuffed with Herbs, Olives and Pine Nuts",
+  "subtitle": "with Israeli couscous",
+  "description": "Baked tomatoes filled with toasted Israeli couscous, black olives, pine nuts and a mix of fresh herbs.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa-%d7%9e%d7%9e%d7%95%d7%9c%d7%90%d7%95%d7%aa-%d7%91%d7%a2%d7%a9%d7%91%d7%99-%d7%aa%d7%99%d7%91%d7%95%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/650_500-4-1140x641.jpg",
+  "servings": 3,
+  "prepMinutes": 70,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stuffed",
+    "baked",
+    "vegan",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "qty": 6,
+      "product": "tomato"
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 100,
+      "unit": "g",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Israeli Couscous",
+      "qty": 1,
+      "unit": "cup",
+      "product": "couscous"
+    },
+    {
+      "name": "Black Olives",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olives"
+    },
+    {
+      "name": "Mixed Fresh Herbs",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the tops off the tomatoes and keep them aside. Scoop out the insides and discard."
+    },
+    {
+      "text": "Heat olive oil in a pot, add the pine nuts and brown lightly. Add the Israeli couscous, fry for a few seconds and continue cooking according to the packet instructions."
+    },
+    {
+      "text": "Add the pitted, roughly chopped olives, the chopped herbs, garlic, olive oil, salt and pepper to the cooked couscous and mix."
+    },
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Fill each tomato with 2 tablespoons of filling, put the tomato cap on top and arrange tightly in an ovenproof dish with a little water."
+    },
+    {
+      "text": "Bake for about 40 minutes, until the tomatoes are soft and their skins wrinkle. Sprinkle with chopped parsley and serve."
+    }
+  ]
+}

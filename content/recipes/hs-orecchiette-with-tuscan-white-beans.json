@@ -1,0 +1,83 @@
+{
+  "slug": "hs-orecchiette-with-tuscan-white-beans",
+  "kind": "meal",
+  "title": "Orecchiette with Tuscan White Beans",
+  "subtitle": "with fresh tomato foam and parmesan",
+  "description": "Orecchiette tossed with creamy olive oil-poached white beans, served on a fresh tomato foam with parmesan and lemon zest.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%94-%d7%90%d7%95%d7%a8%d7%99%d7%a7%d7%99%d7%99%d7%98%d7%94-%d7%a2%d7%9d-%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%98%d7%95%d7%a1%d7%a7%d7%a0%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-169-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 120,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "italian",
+    "beans",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Orecchiette Pasta",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Dried White Beans",
+      "qty": 300,
+      "unit": "g",
+      "product": "cannellini-beans"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sage",
+      "qty": 3,
+      "product": "sage"
+    },
+    {
+      "name": "Ripe Tomatoes",
+      "qty": 4,
+      "product": "tomato"
+    },
+    {
+      "name": "Sea Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Drain the beans (soaked overnight), add cold water to cover by 5 cm and bring to the boil. Reduce the heat and cook until the beans are soft but not falling apart, adding water as needed. Do not add salt at this stage."
+    },
+    {
+      "text": "Drain the beans and transfer to a shallow pot. Pour in enough olive oil to cover, add the sage and cook over low heat until the beans begin to break down. Season with salt and stir."
+    },
+    {
+      "text": "Blend the quartered tomatoes for about 5 minutes until a tomato foam forms. Add 2 tablespoons of olive oil and a pinch of salt, blend for another minute, then strain."
+    },
+    {
+      "text": "Cook the pasta in salted water until al dente. Transfer the beans (with a little of their oil) to a pan and heat. Add the pasta and toss gently. Taste and adjust the seasoning."
+    },
+    {
+      "text": "Divide the pasta between plates, pour the tomato sauce around it, and sprinkle with grated parmesan and lemon zest."
+    }
+  ]
+}

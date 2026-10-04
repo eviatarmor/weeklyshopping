@@ -1,0 +1,142 @@
+{
+  "slug": "hs-rajma-masala",
+  "kind": "meal",
+  "title": "Rajma Masala",
+  "subtitle": "Indian red kidney bean curry with spiced butter",
+  "description": "Red kidney beans slow-cooked with onion, tomato and spices, finished with a tempering of spiced butter, lemon and coriander and served with rice.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%90%d7%93%d7%95%d7%9e%d7%94-%d7%a8%d7%90%d7%92%d7%9e%d7%94-%d7%9e%d7%a1%d7%90%d7%9c%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/shutterstock_425073301-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 150,
+  "tags": [
+    "hashulchan",
+    "curry",
+    "indian",
+    "beans",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic and Ginger Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 0.5,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Dried Red Kidney Beans",
+      "qty": 300,
+      "unit": "g",
+      "product": "red-kidney-beans"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Dried Chillies",
+      "qty": 2,
+      "product": "long-red-chilli",
+      "optional": true
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Mustard Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "mustard-seeds"
+    },
+    {
+      "name": "Curry Leaves",
+      "qty": 4,
+      "optional": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon"
+    },
+    {
+      "name": "Coriander",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "coriander"
+    },
+    {
+      "name": "Basmati Rice",
+      "product": "basmati-rice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the beans in water overnight and drain."
+    },
+    {
+      "text": "Heat the oil in a pan and saute the sliced onion for 5 minutes or until just starting to turn golden. Add the garlic and ginger paste and, when fragrant, add the chopped tomato, sliced green chilli, beans and ground spices and stir."
+    },
+    {
+      "text": "Pour in water to cover plus 3 cm. Cover and cook over medium-low heat for about 2 hours or until the beans are soft. At this point you can partly blitz with a stick blender, but not to a completely smooth soup."
+    },
+    {
+      "text": "Melt the butter in a pan and fry the finely chopped garlic, dried chillies and curry leaves for 1 minute. Add the cumin seeds and crushed mustard seeds and fry for another 5 seconds. Stir the contents of the pan into the beans."
+    },
+    {
+      "text": "Ladle into bowls, add lemon juice and coriander and serve with rice."
+    }
+  ]
+}

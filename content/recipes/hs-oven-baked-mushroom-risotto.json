@@ -1,0 +1,138 @@
+{
+  "slug": "hs-oven-baked-mushroom-risotto",
+  "kind": "meal",
+  "title": "Oven-Baked Mushroom Risotto",
+  "subtitle": "with porcini, parmesan and brandy",
+  "description": "A hands-off risotto of arborio rice, dried porcini and fresh mushrooms baked in the oven, then stirred with parmesan, butter, parsley, brandy and garlic until creamy.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%91%d7%aa%d7%a0%d7%95%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/rizoto-1140x641-1588352536.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "risotto",
+    "mushroom",
+    "baked",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Porcini Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "dried-porcini-mushrooms"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Fresh Thyme",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "thyme"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 100,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 100,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 3.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Brandy",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Crush the porcini mushrooms coarsely in a food processor."
+    },
+    {
+      "text": "Heat the oil in an ovenproof pot and fry the onion, thyme, crushed porcini and fresh mushrooms for about 2 minutes until golden. If there is not enough liquid in the pot, add 1-2 tablespoons of boiling water so the onion and mushrooms do not burn."
+    },
+    {
+      "text": "Add the rice and stir. Pour in the white wine and cook until it evaporates."
+    },
+    {
+      "text": "Pour the boiling water into the pot, add the salt, stir and bring to the boil. Taste and add more salt if needed."
+    },
+    {
+      "text": "Cover and transfer to the oven. Bake for 20 minutes."
+    },
+    {
+      "text": "Remove the pot from the oven and add the parmesan, butter, parsley, brandy and garlic. Stir until creamy and serve immediately."
+    }
+  ]
+}

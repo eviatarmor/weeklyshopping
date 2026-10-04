@@ -1,0 +1,151 @@
+{
+  "slug": "hs-leek-and-cauliflower-patties-with-thyme-aioli",
+  "kind": "meal",
+  "title": "Leek and Cauliflower Patties with Thyme Aioli",
+  "subtitle": "crumbed and fried",
+  "description": "Cauliflower and leek patties with parmesan and pine nuts, crumbed and fried until golden and served with a homemade thyme aioli.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%9b%d7%a8%d7%a9%d7%94-%d7%95%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%a2%d7%9d-%d7%90%d7%99%d7%95%d7%9c%d7%99-%d7%aa%d7%99%d7%9e%d7%99%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/07/1626260925_99626-1140x641-1627386401.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "cauliflower",
+    "fried",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek"
+    },
+    {
+      "name": "Parsley",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Egg Whites",
+      "qty": 3
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard"
+    },
+    {
+      "name": "Fresh Thyme",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "thyme"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar"
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 180,
+      "unit": "ml",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil the cauliflower florets in salted water for about 15 minutes until soft. Drain and cool."
+    },
+    {
+      "text": "Pulse the cauliflower with the finely chopped white part of the leek, parsley, parmesan, pine nuts, chilli, 2 cloves of garlic, salt, pepper and olive oil in a food processor in 3 to 4 short pulses, until combined but not mushy. Transfer to a bowl, add the flour and 1 egg and mix well. Refrigerate for 15 minutes."
+    },
+    {
+      "text": "For the aioli, process the egg whites, mustard, 1 tbsp thyme leaves, vinegar, a pinch of salt and 2 cloves of garlic for 2 to 3 minutes until smooth. With the processor running, add the canola oil in a very slow, thin stream until thick and stable like mayonnaise."
+    },
+    {
+      "text": "Prepare one plate with 2 beaten eggs and another with breadcrumbs. Heat canola oil in a frying pan."
+    },
+    {
+      "text": "Shape the mixture into patties 4 to 5 cm wide, dip each in egg, coat in breadcrumbs and fry for 3 to 4 minutes until set and golden on both sides. Drain on paper towel."
+    },
+    {
+      "text": "Serve the patties with grated lemon zest and thyme leaves, and the aioli on the side."
+    }
+  ]
+}

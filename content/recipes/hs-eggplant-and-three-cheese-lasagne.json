@@ -1,0 +1,140 @@
+{
+  "slug": "hs-eggplant-and-three-cheese-lasagne",
+  "kind": "meal",
+  "title": "Eggplant and Three Cheese Lasagne",
+  "subtitle": "with smoky eggplant tomato sauce",
+  "description": "Lasagne layered with a sauce of smoky charred eggplant and tomato, a mix of cheddar, parmesan and feta, and topped with mozzarella.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%96%d7%a0%d7%99%d7%94-%d7%97%d7%a6%d7%99%d7%9c%d7%99%d7%9d-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/06/aeg9145_eggplant_lasanga-e1592907834324-1140x641-1592908178.jpg",
+  "servings": 6,
+  "prepMinutes": 110,
+  "tags": [
+    "hashulchan",
+    "lasagne",
+    "baked",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "qty": 4,
+      "product": "eggplant"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Fresh Oregano",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 2,
+      "unit": "tin",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar"
+    },
+    {
+      "name": "Sugar",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Cheddar",
+      "qty": 100,
+      "unit": "g",
+      "product": "cheddar-cheese"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Feta",
+      "qty": 100,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Lasagne Sheets",
+      "qty": 1,
+      "unit": "packet",
+      "product": "lasagne-sheets"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 100,
+      "unit": "g",
+      "product": "mozzarella"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 220°C (fan-forced). Roast the eggplants for about 40 minutes until the skin is charred, turning them during roasting (or char them over the stovetop). Take them out, place in a colander, and lower the oven to 200°C. When cool enough to handle, peel, roughly chop and drain in the colander."
+    },
+    {
+      "text": "Heat the olive oil, sliced garlic, oregano and finely chopped chilli in a wide pan over low-medium heat and fry for 3 to 4 minutes. Add the eggplant flesh and fry for about 5 minutes."
+    },
+    {
+      "text": "Add the tomatoes, soy sauce, balsamic vinegar, sugar, chopped parsley and salt and stir. Cook uncovered for about 10 minutes until the sauce thickens."
+    },
+    {
+      "text": "Mix all the cheeses (cheddar, parmesan and feta) in a bowl."
+    },
+    {
+      "text": "Pour some of the eggplant and tomato sauce into the base of a 20 x 30 cm baking dish, scatter over a third of the cheese mix and cover with lasagne sheets. Repeat for 3 layers of lasagne sheets in total and finish with a layer of sauce. Top with sliced mozzarella, cover with foil and bake for 30 minutes."
+    },
+    {
+      "text": "Remove the foil and return to the oven for 10 more minutes until browned. Sprinkle with chopped parsley and serve."
+    }
+  ]
+}

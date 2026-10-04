@@ -1,0 +1,98 @@
+{
+  "slug": "hs-cauliflower-tray-bake-with-dried-tomatoes",
+  "kind": "meal",
+  "title": "Cauliflower Tray Bake with Dried Tomatoes",
+  "subtitle": "under a tahini blanket",
+  "description": "Roasted cauliflower with za'atar and chilli on a bed of oven-dried tomatoes, covered with a thin tahini sauce and baked until the edges darken. Serve with majadra if you like.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%99%d7%a0%d7%99%d7%99%d7%94-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%a2%d7%9d-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa-%d7%9e%d7%99%d7%95%d7%91%d7%a9%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/500_650126-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 70,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "cauliflower",
+    "baked",
+    "israeli",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Za'atar",
+      "qty": 3,
+      "product": "za-atar"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 5,
+      "product": "tomato"
+    },
+    {
+      "name": "Tahini",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "tahini"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Majadra",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C and line two trays with baking paper."
+    },
+    {
+      "text": "Slice the tomatoes about 2 cm thick, place on a tray, season with salt and pepper and drizzle with a little olive oil."
+    },
+    {
+      "text": "Bake for about 25 minutes until the tomatoes darken slightly."
+    },
+    {
+      "text": "Mix the cauliflower florets in a bowl with the olive oil, chopped fresh za'atar leaves, chopped chilli, salt and pepper. Transfer to a tray."
+    },
+    {
+      "text": "Bake for 15 to 20 minutes until the cauliflower browns slightly but is not completely soft. Lower the oven temperature to 180°C."
+    },
+    {
+      "text": "Make a thin, runny tahini sauce from raw tahini, lemon juice, water and salt. Arrange the tomato slices in the base of the baking dish, top with the cauliflower layer and pour over the tahini."
+    },
+    {
+      "text": "Bake for 10 minutes until the tahini near the edges of the dish splits and darkens. Serve with majadra if you like."
+    }
+  ]
+}

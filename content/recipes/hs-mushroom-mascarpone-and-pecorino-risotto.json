@@ -1,0 +1,127 @@
+{
+  "slug": "hs-mushroom-mascarpone-and-pecorino-risotto",
+  "kind": "meal",
+  "title": "Mushroom, Mascarpone and Pecorino Risotto",
+  "subtitle": "with dried mushroom stock and chives",
+  "description": "A creamy risotto built on dried mushroom stock, fresh button and portobello mushrooms, finished with mascarpone and pecorino.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%9e%d7%a1%d7%a7%d7%a8%d7%a4%d7%95%d7%a0%d7%94-%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%99%d7%a0%d7%95/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/10/IMG_0025_1_resize_h-2000x1125-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "risotto",
+    "italian",
+    "mushroom",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Mushrooms",
+      "qty": 20,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 7,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Thyme",
+      "qty": 3,
+      "product": "thyme"
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Mascarpone",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mascarpone"
+    },
+    {
+      "name": "Pecorino",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Chives",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "chives",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Combine the dried mushrooms and boiling water in a pot and keep covered."
+    },
+    {
+      "text": "Melt the butter in a large pan. Add the finely chopped onion and saute for about 5 minutes until soft. Add the wine and cook for about 2 minutes until it has evaporated."
+    },
+    {
+      "text": "Add the sliced fresh mushrooms and thyme sprigs and saute for about 5 minutes, stirring, until the mushrooms are soft."
+    },
+    {
+      "text": "Remove the dried mushrooms from the soaking liquid, chop roughly and add to the pan."
+    },
+    {
+      "text": "Add the rice and a ladle of the mushroom stock, season with salt and pepper, and cook, stirring, until the liquid is absorbed."
+    },
+    {
+      "text": "Keep adding hot stock gradually until the rice is al dente (about 20 minutes). The rice may be ready before the stock runs out."
+    },
+    {
+      "text": "Add the mascarpone and pecorino and cook for another minute, stirring, until melted. Taste and adjust the seasoning. Sprinkle with finely chopped chives and serve immediately."
+    }
+  ]
+}

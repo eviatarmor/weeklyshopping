@@ -1,0 +1,116 @@
+{
+  "slug": "hs-spinach-noodi-dumplings-with-sage-butter",
+  "kind": "meal",
+  "title": "Spinach Noodi Dumplings with Sage Butter",
+  "subtitle": "made with fresh cheese and Grana Padano",
+  "description": "Soft spinach and cheese dumplings in a classic sage and lemon butter sauce, finished with plenty of grated Grana Padano.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9b%d7%95%d7%a4%d7%aa%d7%90%d7%95%d7%aa-%d7%a0%d7%95%d7%93%d7%99-%d7%aa%d7%a8%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/12/IMG_0008_resize_wide-1140x641-1640587526.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "dumplings",
+    "spinach",
+    "italian",
+    "cheese"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fresh Cheese (Tavor)",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Grana Padano",
+      "qty": 225,
+      "unit": "g"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Baby Spinach",
+      "qty": 500,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Egg Yolk",
+      "qty": 1
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Semolina",
+      "qty": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Sage Leaves",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "sage"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a pan and toss the spinach for a few seconds only, until it starts to shrink. Cool."
+    },
+    {
+      "text": "In a bowl, mix the fresh cheese, 125 g grated Grana Padano, egg yolk, nutmeg, flour and semolina to an even mixture. Add the spinach, season with salt and pepper and mix."
+    },
+    {
+      "text": "Divide the dough into 30 equal pieces and shape each into an elongated dumpling."
+    },
+    {
+      "text": "Bring plenty of salted water to the boil in a large, wide pot and reduce the heat. Cook half of the dumplings for 3 minutes, until they start to float. Lift out with a slotted spoon into a bowl and cook the rest."
+    },
+    {
+      "text": "Melt the butter in a pan, add the sage leaves and lemon juice and cook for about 1 minute."
+    },
+    {
+      "text": "Pour the butter sauce over the dumplings, sprinkle with the remaining Grana Padano and serve."
+    }
+  ]
+}
