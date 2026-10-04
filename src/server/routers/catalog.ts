@@ -1,13 +1,13 @@
 import { asc, eq } from "drizzle-orm";
 import { z } from "zod";
 import { protectedProcedure, router } from "../trpc";
-import { itemHistory, products, sections } from "../db/schema";
+import { itemHistory, sections } from "../db/schema";
 
 export const catalogRouter = router({
   /** Everything autocomplete needs; filtered on the client. */
   get: protectedProcedure.query(({ ctx }) => ({
     sections: ctx.db.select().from(sections).orderBy(asc(sections.sortOrder)).all(),
-    products: ctx.db.select().from(products).all(),
+    products: ctx.store.products,
     history: ctx.db.select().from(itemHistory).all(),
   })),
 

@@ -1,57 +1,38 @@
-import { and, asc, desc, eq, inArray } from "drizzle-orm";
+import { and, desc, eq } from "drizzle-orm";
 import { TRPCError } from "@trpc/server";
 import { z } from "zod";
 import type { BlendRecipe, IngredientRow } from "@/shared/expand";
 import { recipeSource } from "@/shared/sources";
 import { protectedProcedure, router, type Context } from "../trpc";
-import { itemHistory, products, recipeCooked, recipeIngredients, recipeRatings, recipes } from "../db/schema";
+import { itemHistory, recipeCooked, recipeRatings } from "../db/schema";
+import type { ContentStore, StoreRecipe } from "../content-store";
 import { addItems, setUsuallyHave } from "../list-service";
 import { recommend } from "../recommend";
 
 type DB = Context["db"];
 
-function ingredientRows(db: DB, slugs: string[]): Map<string, IngredientRow[]> {
-  const out = new Map<string, IngredientRow[]>();
-  if (slugs.length === 0) return out;
-  const rows = db
-    .select()
-    .from(recipeIngredients)
-    .where(inArray(recipeIngredients.recipeSlug, slugs))
-    .orderBy(asc(recipeIngredients.position))
-    .all();
-  for (const r of rows) {
-    const list = out.get(r.recipeSlug) ?? [];
-    list.push({ name: r.name, qty: r.qty, unit: r.unit, productSlug: r.productSlug, blendSlug: r.blendSlug, optional: r.optional, pantry: r.pantry, imageUrl: r.imageUrl });
-    out.set(r.recipeSlug, list);
-  }
-  return out;
-}
-
 /** All blends reachable from `rows`, keyed by slug. */
-function collectBlends(db: DB, rows: IngredientRow[]): Record<string, BlendRecipe> {
+function collectBlends(store: ContentStore, rows: IngredientRow[]): Record<string, BlendRecipe> {
   const blends: Record<string, BlendRecipe> = {};
-  let pending = [...new Set(rows.map((r) => r.blendSlug).filter((s): s is string => !!s))];
+  const pending = [...rows];
   while (pending.length) {
-    const found = db.select().from(recipes).where(inArray(recipes.slug, pending)).all();
-    const ingredients = ingredientRows(db, pending);
-    const next: string[] = [];
-    for (const b of found) {
-      const list = ingredients.get(b.slug) ?? [];
-      blends[b.slug] = { slug: b.slug, title: b.title, servings: b.servings, yieldUnit: b.yieldUnit, ingredients: list };
-      for (const i of list) if (i.blendSlug && !blends[i.blendSlug]) next.push(i.blendSlug);
-    }
-    pending = [...new Set(next)].filter((s) => !blends[s]);
+    const slug = pending.pop()!.blendSlug;
+    if (!slug || blends[slug]) continue;
+    const b = store.bySlug.get(slug);
+    if (!b) continue;
+    blends[slug] = { slug: b.slug, title: b.title, servings: b.servings, yieldUnit: b.yieldUnit, ingredients: b.ingredients };
+    pending.push(...b.ingredients);
   }
   return blends;
 }
 
 /** Card data for recipe lists: ratings and cooked history grouped per recipe. */
-function summaries(db: DB, userEmail: string, rows: (typeof recipes.$inferSelect)[]) {
+function summaries(db: DB, userEmail: string, list: StoreRecipe[]) {
   const ratingsBySlug = new Map<string, (typeof recipeRatings.$inferSelect)[]>();
   for (const r of db.select().from(recipeRatings).all()) ratingsBySlug.set(r.recipeSlug, [...(ratingsBySlug.get(r.recipeSlug) ?? []), r]);
   const cookedBySlug = new Map<string, number[]>();
   for (const c of db.select().from(recipeCooked).all()) cookedBySlug.set(c.recipeSlug, [...(cookedBySlug.get(c.recipeSlug) ?? []), c.cookedAt]);
-  return rows.map((r) => {
+  return list.map((r) => {
     const ratings = ratingsBySlug.get(r.slug) ?? [];
     const cookedTimes = cookedBySlug.get(r.slug) ?? [];
     return {
@@ -76,16 +57,14 @@ function summaries(db: DB, userEmail: string, rows: (typeof recipes.$inferSelect
 export const recipesRouter = router({
   list: protectedProcedure.input(z.object({ kind: z.enum(["meal", "blend"]).default("meal") }).optional()).query(({ ctx, input }) => {
     const kind = input?.kind ?? "meal";
-    return summaries(ctx.db, ctx.user.email, ctx.db.select().from(recipes).where(eq(recipes.kind, kind)).all());
+    return summaries(ctx.db, ctx.user.email, ctx.store.recipes.filter((r) => r.kind === kind));
   }),
 
   /** Meals similar to what this user rated highly (and unlike what they rated low). */
   recommended: protectedProcedure.input(z.object({ limit: z.number().int().min(1).max(30).default(12) }).optional()).query(({ ctx, input }) => {
-    const result = recommend(ctx.db, ctx.contentHash, ctx.user.email, input?.limit ?? 12);
-    const rows = result.items.length
-      ? ctx.db.select().from(recipes).where(inArray(recipes.slug, result.items.map((i) => i.slug))).all()
-      : [];
-    const bySlug = new Map(summaries(ctx.db, ctx.user.email, rows).map((s) => [s.slug, s]));
+    const result = recommend(ctx.db, ctx.store, ctx.user.email, input?.limit ?? 12);
+    const picked = result.items.map((i) => ctx.store.bySlug.get(i.slug)).filter((r): r is StoreRecipe => !!r);
+    const bySlug = new Map(summaries(ctx.db, ctx.user.email, picked).map((s) => [s.slug, s]));
     return {
       basedOn: result.basedOn,
       items: result.items.flatMap((i) => {
@@ -96,18 +75,14 @@ export const recipesRouter = router({
   }),
 
   get: protectedProcedure.input(z.object({ slug: z.string() })).query(({ ctx, input }) => {
-    const recipe = ctx.db.select().from(recipes).where(eq(recipes.slug, input.slug)).get();
-    if (!recipe) throw new TRPCError({ code: "NOT_FOUND" });
-    const ingredients = ingredientRows(ctx.db, [recipe.slug]).get(recipe.slug) ?? [];
-    const blends = collectBlends(ctx.db, ingredients);
+    const found = ctx.store.bySlug.get(input.slug);
+    if (!found) throw new TRPCError({ code: "NOT_FOUND" });
+    const { ingredients, ...recipe } = found;
+    const blends = collectBlends(ctx.store, ingredients);
 
     const allRows = [ingredients, ...Object.values(blends).map((b) => b.ingredients)].flat();
-    const productSlugs = [...new Set(allRows.map((r) => r.productSlug).filter((s): s is string => !!s))];
     const productImages = Object.fromEntries(
-      (productSlugs.length
-        ? ctx.db.select({ slug: products.slug, imageUrl: products.imageUrl }).from(products).where(inArray(products.slug, productSlugs)).all()
-        : []
-      ).map((p) => [p.slug, p.imageUrl]),
+      [...new Set(allRows.map((r) => r.productSlug).filter((s): s is string => !!s))].map((slug) => [slug, ctx.store.productBySlug.get(slug)?.imageUrl ?? null]),
     );
     const usuallyHave = ctx.db
       .select({ normalizedName: itemHistory.normalizedName })
@@ -130,15 +105,7 @@ export const recipesRouter = router({
       .orderBy(desc(recipeCooked.cookedAt))
       .limit(10)
       .all();
-    const usedIn =
-      recipe.kind === "blend"
-        ? ctx.db
-            .selectDistinct({ slug: recipes.slug, title: recipes.title })
-            .from(recipeIngredients)
-            .innerJoin(recipes, eq(recipes.slug, recipeIngredients.recipeSlug))
-            .where(eq(recipeIngredients.blendSlug, recipe.slug))
-            .all()
-        : [];
+    const usedIn = recipe.kind === "blend" ? (ctx.store.usedBy.get(recipe.slug) ?? []).map((r) => ({ slug: r.slug, title: r.title })) : [];
 
     return { recipe, ingredients, blends, productImages, usuallyHave, ratings, cooked, usedIn };
   }),
@@ -185,19 +152,19 @@ export const recipesRouter = router({
       }),
     )
     .mutation(({ ctx, input }) => {
-      const recipe = ctx.db.select({ slug: recipes.slug }).from(recipes).where(eq(recipes.slug, input.slug)).get();
+      const recipe = ctx.store.bySlug.get(input.slug);
       if (!recipe) throw new TRPCError({ code: "NOT_FOUND" });
       const needed = input.lines.filter((l) => !l.have);
       const items = addItems(
         ctx.db,
         ctx.user,
-        ctx.contentHash,
+        ctx.store,
         needed.map((l) => ({ name: l.name, qty: l.qty, unit: l.unit, productSlug: l.productSlug, imageUrl: l.imageUrl, sourceRecipeSlug: recipe.slug })),
       );
       setUsuallyHave(
         ctx.db,
         input.lines.map((l) => ({ name: l.name, productSlug: l.productSlug, have: l.have })),
-        ctx.contentHash,
+        ctx.store,
       );
       if (items.length) ctx.bus.emit({ type: "items.upsert", items });
       ctx.bus.emit({ type: "history.changed" });

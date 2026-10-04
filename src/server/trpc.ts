@@ -3,6 +3,7 @@ import superjson from "superjson";
 import type { DrizzleSqliteDODatabase } from "drizzle-orm/durable-sqlite";
 import type * as schema from "./db/schema";
 import type { EventBus } from "./bus";
+import type { ContentStore } from "./content-store";
 
 export type User = { email: string; name: string };
 
@@ -11,7 +12,8 @@ export type Context = {
   bus: EventBus;
   user: User | null;
   household: { id: string; name: string; members: User[] };
-  contentHash: string;
+  /** Recipes and catalog for this deploy, held in memory. */
+  store: ContentStore;
 };
 
 const t = initTRPC.context<Context>().create({

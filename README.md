@@ -48,7 +48,7 @@ pnpm recipe:bulk everyplate                                              # whole
 pnpm content:check
 ```
 
-`--vegetarian` (always on for bulk imports) rejects any recipe whose ingredients include meat or seafood. The importer prints ingredients it couldn't match to the catalog and seasoning blends that don't have a recipe yet. Add products to `scripts/catalog-seed.ts` (then `pnpm catalog:build`), or add blends to `content/blends/`. Commit, then deploy; the household database picks up the new content on its next request. Ratings and history are kept.
+`--vegetarian` (always on for bulk imports) rejects any recipe whose ingredients include meat or seafood. The importer prints ingredients it couldn't match to the catalog and seasoning blends that don't have a recipe yet. Add products to `scripts/catalog-seed.ts` (then `pnpm catalog:build`), or add blends to `content/blends/`. Commit, then deploy. Recipes and the catalog ship inside the Worker and are served from memory, so deploying new content writes nothing to the database; ratings, history and the list are kept.
 
 ## Layout
 

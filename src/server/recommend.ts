@@ -1,7 +1,7 @@
-import { eq } from "drizzle-orm";
 import { normalizeName } from "@/shared/normalize";
 import type { Context } from "./trpc";
-import { recipeCooked, recipeIngredients, recipeRatings, recipes } from "./db/schema";
+import { recipeCooked, recipeRatings } from "./db/schema";
+import type { ContentStore } from "./content-store";
 
 type DB = Context["db"];
 type Vector = Map<string, number>;
@@ -17,25 +17,20 @@ type Index = { titles: Map<string, string>; vectors: Map<string, Vector> };
 let cache: { key: string; index: Index } | null = null;
 
 /** TF-IDF feature vectors (tags, main ingredients, blends, title words) for every meal, cached per content version. */
-function buildIndex(db: DB, contentVersion: string): Index {
-  if (cache?.key === contentVersion) return cache.index;
-  const meals = db.select({ slug: recipes.slug, title: recipes.title, tags: recipes.tags }).from(recipes).where(eq(recipes.kind, "meal")).all();
+function buildIndex(store: ContentStore): Index {
+  if (cache?.key === store.version) return cache.index;
+  const meals = store.recipes.filter((r) => r.kind === "meal");
   const features = new Map<string, Set<string>>();
   for (const m of meals) {
     const f = new Set<string>();
     for (const t of m.tags) if (!IGNORED_TAGS.has(t)) f.add(`tag:${t}`);
     for (const w of normalizeName(m.title).split(" ")) if (w.length >= 4 && !STOPWORDS.has(w)) f.add(`word:${w}`);
+    for (const i of m.ingredients) {
+      if (i.pantry) continue;
+      if (i.productSlug) f.add(`product:${i.productSlug}`);
+      if (i.blendSlug) f.add(`blend:${i.blendSlug}`);
+    }
     features.set(m.slug, f);
-  }
-  const ingredients = db
-    .select({ recipeSlug: recipeIngredients.recipeSlug, productSlug: recipeIngredients.productSlug, blendSlug: recipeIngredients.blendSlug, pantry: recipeIngredients.pantry })
-    .from(recipeIngredients)
-    .all();
-  for (const i of ingredients) {
-    const f = features.get(i.recipeSlug);
-    if (!f || i.pantry) continue;
-    if (i.productSlug) f.add(`product:${i.productSlug}`);
-    if (i.blendSlug) f.add(`blend:${i.blendSlug}`);
   }
 
   const df = new Map<string, number>();
@@ -58,7 +53,7 @@ function buildIndex(db: DB, contentVersion: string): Index {
     vectors.set(slug, v);
   }
   const index = { titles: new Map(meals.map((m) => [m.slug, m.title])), vectors };
-  cache = { key: contentVersion, index };
+  cache = { key: store.version, index };
   return index;
 }
 
@@ -77,8 +72,8 @@ export type Recommendation = { slug: string; score: number; because: string | nu
  * uncooked meals are ranked by similarity to it. Falls back to the whole
  * household's ratings when this user hasn't rated anything yet.
  */
-export function recommend(db: DB, contentVersion: string, userEmail: string, limit: number): { basedOn: number; items: Recommendation[] } {
-  const index = buildIndex(db, contentVersion);
+export function recommend(db: DB, store: ContentStore, userEmail: string, limit: number): { basedOn: number; items: Recommendation[] } {
+  const index = buildIndex(store);
   const allRatings = db.select().from(recipeRatings).all();
   const mine = allRatings.filter((r) => r.userEmail === userEmail);
   const ratings = mine.length ? mine : allRatings;

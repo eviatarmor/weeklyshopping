@@ -16,7 +16,12 @@ export const sections = sqliteTable("sections", {
   sortOrder: integer("sort_order").notNull(),
 });
 
-/** Known grocery catalog, synced from content/catalog.json. */
+/**
+ * Legacy: the catalog and recipe tables below are no longer written or read.
+ * Content is served from memory (see content-store.ts) so deploys don't spend
+ * Durable Object row writes. Kept so existing databases stay consistent.
+ */
+/** Known grocery catalog (legacy, unused). */
 export const products = sqliteTable("products", {
   slug: text("slug").primaryKey(),
   name: text("name").notNull(),

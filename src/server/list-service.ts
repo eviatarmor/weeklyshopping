@@ -1,10 +1,11 @@
 import { and, eq, inArray, sql } from "drizzle-orm";
-import { buildProductIndex, classify, type ClassifyProduct } from "@/shared/classify";
+import { classify } from "@/shared/classify";
 import { capitalize, normalizeName } from "@/shared/normalize";
 import { addQuantities, normalizeUnit } from "@/shared/units";
 import type { ListItem } from "@/shared/types";
 import type { Context, User } from "./trpc";
-import { itemHistory, listItems, products } from "./db/schema";
+import { itemHistory, listItems } from "./db/schema";
+import type { ContentStore } from "./content-store";
 
 type DB = Context["db"];
 
@@ -21,15 +22,6 @@ export type AddItemInput = {
   sourceRecipeSlug?: string | null;
 };
 
-let productIndexCache: { key: string; index: Map<string, ClassifyProduct>; bySlug: Map<string, ClassifyProduct> } | null = null;
-
-function productIndex(db: DB, contentHash: string) {
-  if (productIndexCache?.key === contentHash) return productIndexCache;
-  const all = db.select().from(products).all();
-  const list = all.map((p) => ({ slug: p.slug, name: p.name, aliases: p.aliases, sectionId: p.sectionId }));
-  productIndexCache = { key: contentHash, index: buildProductIndex(list), bySlug: new Map(list.map((p) => [p.slug, p])) };
-  return productIndexCache;
-}
 
 export function toListItem(row: typeof listItems.$inferSelect): ListItem {
   return {
@@ -54,8 +46,8 @@ export function toListItem(row: typeof listItems.$inferSelect): ListItem {
  * Add items to the list. An unchecked item with the same name absorbs the new
  * quantity when units are compatible; otherwise a new row is created.
  */
-export function addItems(db: DB, user: User, contentHash: string, inputs: AddItemInput[]): ListItem[] {
-  const { index, bySlug } = productIndex(db, contentHash);
+export function addItems(db: DB, user: User, store: ContentStore, inputs: AddItemInput[]): ListItem[] {
+  const { productIndex: index, productBySlug: bySlug } = store;
   const touched = new Map<string, ListItem>();
   const now = Date.now();
 
@@ -194,8 +186,8 @@ export function clearChecked(db: DB): string[] {
 }
 
 /** Remember which ingredients the household usually has at home. */
-export function setUsuallyHave(db: DB, entries: { name: string; productSlug: string | null; have: boolean }[], contentHash: string) {
-  const { index } = productIndex(db, contentHash);
+export function setUsuallyHave(db: DB, entries: { name: string; productSlug: string | null; have: boolean }[], store: ContentStore) {
+  const index = store.productIndex;
   db.transaction((tx) => {
     for (const entry of entries) {
       const name = capitalize(entry.name);

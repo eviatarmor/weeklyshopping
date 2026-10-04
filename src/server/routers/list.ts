@@ -23,7 +23,7 @@ export const listRouter = router({
   ),
 
   add: protectedProcedure.input(addItemSchema).mutation(({ ctx, input }) => {
-    const items = addItems(ctx.db, ctx.user, ctx.contentHash, [input]);
+    const items = addItems(ctx.db, ctx.user, ctx.store, [input]);
     if (items.length) ctx.bus.emit({ type: "items.upsert", items });
     ctx.bus.emit({ type: "history.changed" });
     return items;
