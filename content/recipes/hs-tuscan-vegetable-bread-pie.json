@@ -1,0 +1,104 @@
+{
+  "slug": "hs-tuscan-vegetable-bread-pie",
+  "kind": "meal",
+  "title": "Tuscan Vegetable Bread Pie",
+  "subtitle": "with ricotta and Parmesan",
+  "description": "A Tuscan-style savoury pie with a base of sliced bread, topped with sauteed vegetables and an egg, ricotta and Parmesan custard. Serve at room temperature.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a9%d7%98%d7%99%d7%93%d7%aa-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%98%d7%95%d7%a1%d7%a7%d7%a0%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/05/Tos_830-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "pie",
+    "baked",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "qty": 1,
+      "product": "baguette"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 120,
+      "unit": "g",
+      "product": "green-beans"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Eggs",
+      "qty": 6,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 100,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 200,
+      "unit": "g",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C. Grease a baking tin and line it with baking paper."
+    },
+    {
+      "text": "Lay a single layer of sliced bread (3 cm thick, crust on) in the tin as a base."
+    },
+    {
+      "text": "Blanch the green beans in boiling salted water for 2 minutes, drain and halve crosswise."
+    },
+    {
+      "text": "Heat a frying pan with 2 tbsp olive oil and sauté the zucchini ribbons and diced capsicum for about 2 minutes. Add the blanched beans and take off the heat."
+    },
+    {
+      "text": "Whisk the eggs with salt, pepper and parsley, then mix in the ricotta and 1 tbsp Parmesan. Pour over the bread in the tin. Arrange the sauteed vegetables on top and sprinkle with a handful of Parmesan."
+    },
+    {
+      "text": "Reduce the oven to 180°C and bake for 20 minutes until the pie is set and golden. Cool and serve at room temperature."
+    }
+  ]
+}

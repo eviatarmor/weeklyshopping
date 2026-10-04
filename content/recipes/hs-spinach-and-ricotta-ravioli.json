@@ -1,0 +1,67 @@
+{
+  "slug": "hs-spinach-and-ricotta-ravioli",
+  "kind": "meal",
+  "title": "Spinach and Ricotta Ravioli",
+  "subtitle": "in a yoghurt and parmesan sauce",
+  "description": "Store-bought spinach and ricotta ravioli served over a pool of seasoned goat's milk yoghurt and finished with grated parmesan. A spoonful of melted butter on top is optional.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%91%d7%99%d7%95%d7%9c%d7%99-%d7%a8%d7%99%d7%a7%d7%95%d7%98%d7%94-%d7%95%d7%aa%d7%a8%d7%93-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%99%d7%95%d7%92%d7%95%d7%a8%d7%98-%d7%95%d7%a4%d7%a8%d7%9e%d7%96/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/04/1619347659_125873_667-1140x641-1619347945.jpg",
+  "servings": 3,
+  "prepMinutes": 15,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "ravioli",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spinach and Ricotta Ravioli",
+      "qty": 500,
+      "unit": "g",
+      "product": "fresh-ravioli"
+    },
+    {
+      "name": "Goat's Milk Yoghurt",
+      "qty": 400,
+      "unit": "g",
+      "product": "yoghurt"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Butter",
+      "product": "butter",
+      "optional": true,
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix the yoghurt with salt and pepper ahead of time and leave the sauce at room temperature."
+    },
+    {
+      "text": "Cook the ravioli in a pot with 7 litres of lightly salted water for 5 to 6 minutes."
+    },
+    {
+      "text": "Pour about 130 g of the yoghurt sauce into each shallow bowl, arrange the ravioli on top and sprinkle with grated parmesan. Drizzle a spoonful of melted butter over each serving if you like."
+    }
+  ]
+}

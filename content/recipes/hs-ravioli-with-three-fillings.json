@@ -1,0 +1,182 @@
+{
+  "slug": "hs-ravioli-with-three-fillings",
+  "kind": "meal",
+  "title": "Ravioli with Three Fillings",
+  "subtitle": "cheese, artichoke and potato, and beetroot and gorgonzola",
+  "description": "Homemade egg pasta ravioli with three fillings: mozzarella and ricotta, artichoke and potato, and beetroot with gorgonzola, finished in browned butter and sage or a sauce of your choice. The fillings should be thick so they do not wet the dough.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%91%d7%99%d7%95%d7%9c%d7%99-%d7%a2%d7%9d-%d7%a9%d7%9c%d7%95%d7%a9-%d7%9e%d7%9c%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/04/N00_1791-1140x641-1619677331.jpg",
+  "servings": 6,
+  "prepMinutes": 150,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "ravioli",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pasta Flour (00)",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Eggs",
+      "qty": 5,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 300,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 150,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 40,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Kashkaval",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Basil Flowers",
+      "optional": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 3,
+      "product": "potato"
+    },
+    {
+      "name": "Thyme",
+      "qty": 2,
+      "product": "thyme"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "white-wine"
+    },
+    {
+      "name": "Marinated Artichoke Quarters",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Cooked Beetroot",
+      "qty": 2,
+      "product": "beetroot"
+    },
+    {
+      "name": "Fresh Ricotta",
+      "qty": 200,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Gorgonzola Dolce",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "parmesan"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "product": "butter",
+      "optional": true,
+      "pantry": true
+    },
+    {
+      "name": "Sage Leaves",
+      "product": "sage",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the dough: knead the flour, eggs and salt in a mixer with the dough hook (or by hand) until smooth. Wrap in cling film and refrigerate for at least 2 hours."
+    },
+    {
+      "text": "Cheese filling: mix the mozzarella, ricotta, parmesan and kashkaval well and transfer to a piping bag."
+    },
+    {
+      "text": "Artichoke and potato filling: heat olive oil in a wide pot or medium pan and fry the garlic and leek. Add the diced potato and thyme, season with salt and pepper and stir. Add the wine and let the alcohol cook off, then cook, stirring, for about 15 minutes until the potato is soft. Add the artichokes and cook for 2 minutes, discard the thyme stems, and blitz with a stick blender or food processor. Add breadcrumbs as needed to thicken, and transfer to a piping bag."
+    },
+    {
+      "text": "Beetroot and gorgonzola filling: pulse all the ingredients in a food processor in short bursts and transfer to a piping bag."
+    },
+    {
+      "text": "Roll the dough through a pasta machine slice by slice, starting at the widest setting and going down one setting at a time, folding the sheet and re-rolling occasionally to get a long, even rectangle."
+    },
+    {
+      "text": "Fill the ravioli: flour a ravioli mould, lay a sheet of dough over it, fill the hollows with your chosen filling, cover with another sheet and run a rolling pin over the top. Turn out and separate the ravioli. Alternatively, cut rounds or squares by hand and seal them one by one."
+    },
+    {
+      "text": "Just before serving, cook the ravioli in plenty of boiling salted water for 3 to 4 minutes. Lift out with a slotted spoon into a pan with melted butter and sage, or any sauce you like."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "hs-pappardelle-with-olive-oil-and-mushrooms",
+  "kind": "meal",
+  "title": "Pappardelle with Olive Oil and Mushrooms",
+  "subtitle": "with lemon and fresh basil",
+  "description": "Wide ribbon pasta tossed with golden mixed mushrooms, garlic, lemon and basil in olive oil, served with plenty of parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a4%d7%a8%d7%93%d7%9c%d7%94-%d7%a2%d7%9d-%d7%a9%d7%9e%d7%9f-%d7%96%d7%99%d7%aa-%d7%95%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/09/MG_9910-1140x641.jpg",
+  "servings": 3,
+  "prepMinutes": 25,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "mushroom",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pappardelle",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Mixed Mushrooms",
+      "qty": 3,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Basil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "basil"
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of water to the boil."
+    },
+    {
+      "text": "Meanwhile, heat a wide pan with the olive oil and halved garlic. When fragrant, add the mushrooms (oyster, button and shiitake) and saute in two or three batches until nicely golden, adding more oil between batches if needed. Season with the lemon juice and zest, salt and pepper."
+    },
+    {
+      "text": "Add the pappardelle and a tablespoon of salt to the boiling water and cook until al dente. Drain."
+    },
+    {
+      "text": "Add the pasta and half the basil to the pan and toss over the heat for 1 to 2 minutes. Serve immediately with the remaining basil and grated parmesan."
+    }
+  ]
+}

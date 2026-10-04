@@ -1,0 +1,108 @@
+{
+  "slug": "hs-fattoush-with-grilled-halloumi",
+  "kind": "meal",
+  "title": "Fattoush with Grilled Halloumi",
+  "subtitle": "with za'atar pita and fresh vegetables",
+  "description": "A fresh fattoush salad of tomato, cucumber, radish and Arabic lettuce with charred za'atar pita and grilled halloumi.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%a4%d7%90%d7%98%d7%95%d7%a9-%d7%95%d7%97%d7%9c%d7%95%d7%9e%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/11/DSC_0301-1140x641-1612866496.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "salad",
+    "fattoush",
+    "halloumi",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "qty": 1,
+      "product": "pita-bread"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Za'atar",
+      "qty": 1,
+      "unit": "tbsp",
+      "blend": "za-atar-blend"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Halloumi",
+      "qty": 250,
+      "unit": "g",
+      "product": "haloumi"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Cucumbers",
+      "qty": 2,
+      "product": "cucumber"
+    },
+    {
+      "name": "Radishes",
+      "qty": 5,
+      "product": "radish"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Arabic Lettuce",
+      "qty": 4,
+      "product": "iceberg-lettuce"
+    },
+    {
+      "name": "Fresh Za'atar Leaves",
+      "qty": 4
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Light a charcoal grill (or heat a chargrill pan)."
+    },
+    {
+      "text": "Brush the inside of each pita half with 1 tbsp olive oil and sprinkle with za'atar, salt and pepper."
+    },
+    {
+      "text": "Grill the halloumi cubes (3 cm) and the pita halves on all sides until nicely charred. Remove from the heat."
+    },
+    {
+      "text": "Put all the vegetables (roughly chopped tomatoes and cucumbers, quartered radishes, spring onion in 2 cm sticks and torn lettuce) in a bowl and dress with the remaining olive oil, lemon juice, salt, pepper and fresh za'atar leaves."
+    },
+    {
+      "text": "Tear the pita into pieces, scatter over the salad with the halloumi and serve."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "hs-quinoa-patties",
+  "kind": "meal",
+  "title": "Quinoa Patties",
+  "subtitle": "with leek, spring onion and zucchini",
+  "description": "Golden quinoa patties with soft leek, spring onion, zucchini and garlic, baked or pan-fried. They freeze well after cooking.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%a7%d7%99%d7%a0%d7%95%d7%90%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/09/9885-1-1140x641-1601565038.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "quinoa",
+    "baked",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Leeks",
+      "qty": 2,
+      "product": "leek"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 3,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "quinoa"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Chickpea Flour",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "plain-flour"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring plenty of salted water to the boil in a medium pot. Rinse the quinoa in a sieve, add to the boiling water and cook for about 10 minutes until soft but with a bite and translucent, apart from a white dot in the centre of each grain. Drain and cool (it keeps in an airtight container in the fridge for up to 4 days)."
+    },
+    {
+      "text": "Heat the olive oil in a wide pan and cut a round of baking paper to the size of the pan. Add the leek (white part only, sliced 0.5 cm), stir, lower the heat, cover with the baking paper and cook for 7 to 8 minutes until soft and golden."
+    },
+    {
+      "text": "Add the spring onion, stir for 1 minute, cover with the paper and cook for 2 more minutes. Remove from the heat."
+    },
+    {
+      "text": "Place the cooked quinoa in a bowl, add the leek and spring onion and all the remaining ingredients (grated zucchini, beaten eggs, baking powder, salt, pepper, garlic and flour), mix to a uniform mixture and refrigerate for 15 minutes or overnight."
+    },
+    {
+      "text": "Preheat the oven to 180°C and line a tray with greased baking paper. With wet hands, shape ping pong ball sized balls, flatten them and place on the tray with space between. Spray with a little olive oil and bake for 10 to 12 minutes until the tops are golden. Alternatively, pan-fry in 2 tbsp olive oil over medium heat for 2 to 3 minutes on each side."
+    }
+  ]
+}

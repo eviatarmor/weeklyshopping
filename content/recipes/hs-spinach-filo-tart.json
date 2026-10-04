@@ -1,0 +1,91 @@
+{
+  "slug": "hs-spinach-filo-tart",
+  "kind": "meal",
+  "title": "Spinach Filo Tart",
+  "subtitle": "with Bulgarian feta and cheese custard",
+  "description": "A filo pastry shell filled with fresh spinach and crumbled feta, topped with an egg, cream and cheese custard and crinkled filo scraps, baked until golden.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%9c%d7%aa%d7%99%d7%aa-%d7%a4%d7%99%d7%9c%d7%95-%d7%91%d7%9e%d7%99%d7%9c%d7%95%d7%99-%d7%aa%d7%a8%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/650_500-146-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "tart",
+    "filo",
+    "baked",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Filo Pastry",
+      "qty": 3,
+      "unit": "slice",
+      "product": "filo-pastry"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Feta",
+      "qty": 300,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Fresh Spinach",
+      "qty": 400,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 1,
+      "unit": "cup",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Yellow Cheese",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Brush a filo sheet with melted butter, lay another sheet on top and brush it, and finish with a third buttered sheet. Line a tart tin with the layered sheet and trim off the excess (keep the scraps)."
+    },
+    {
+      "text": "Arrange the finely sliced spinach over the pastry shell and crumble the feta over it."
+    },
+    {
+      "text": "In a bowl whisk the eggs, cream and grated yellow cheese, season with salt and pepper and pour over the spinach. Crinkle the filo scraps and place on top of the filling."
+    },
+    {
+      "text": "Bake for about 40 minutes until the tart is golden."
+    }
+  ]
+}

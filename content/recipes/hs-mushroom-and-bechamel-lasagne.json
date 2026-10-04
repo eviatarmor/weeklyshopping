@@ -1,0 +1,147 @@
+{
+  "slug": "hs-mushroom-and-bechamel-lasagne",
+  "kind": "meal",
+  "title": "Mushroom and Bechamel Lasagne",
+  "subtitle": "with three kinds of mushrooms",
+  "description": "Lasagne of sauteed button, portobello and shimeji mushrooms in bechamel with kashkaval, baked in a 30 x 40 cm dish. It cuts best if rested in the fridge overnight, then portioned and reheated.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%96%d7%a0%d7%99%d7%94-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%91%d7%a9%d7%9e%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/04/N00_0458.jpg-1140x641-1619682215.png",
+  "servings": 8,
+  "prepMinutes": 110,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "lasagne",
+    "pasta",
+    "mushroom",
+    "baked",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fresh Lasagne Sheets",
+      "qty": 4,
+      "product": "lasagne-sheets"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 2,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Shimeji Mushrooms",
+      "qty": 2,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Kashkaval",
+      "qty": 300,
+      "unit": "g"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "parmesan"
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 100,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit": "l",
+      "product": "milk"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg",
+      "optional": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "parmesan"
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fry the mushrooms: heat a little olive oil in a wide pan and fry the finely chopped onion until translucent. Add all the mushrooms, sprinkle with coarse salt and fry over high heat for 5 minutes. Add the wine and let it evaporate. Season with pepper, stir and remove from the heat."
+    },
+    {
+      "text": "Make the bechamel: melt the butter in a large pot over low heat, whisk in the flour, then gradually add the milk, whisking constantly to avoid lumps. Season with salt, pepper and a little nutmeg, add the parmesan, bring to the boil, then lower the heat and cook, stirring, for about 10 minutes until thickened. Remove from the heat."
+    },
+    {
+      "text": "Preheat the oven to 180°C and grease the dish with butter. Mix 3/4 of the bechamel with the mushrooms and the shredded kashkaval."
+    },
+    {
+      "text": "Line the dish with a layer of lasagne sheets (if using dry sheets, wet each layer with 1/4 cup water). Pour over 1/3 of the mushroom mixture, add another layer of sheets, and repeat to give four layers of pasta and three of filling. Pour the reserved bechamel over the top and sprinkle with parmesan."
+    },
+    {
+      "text": "Cover the dish with baking paper and wrap tightly in foil. Bake for 20 minutes, then remove the foil and paper and bake for 20 more minutes."
+    },
+    {
+      "text": "Cool and set (ideally refrigerate overnight), then cut into squares. Place the portions in a larger dish with space between them and reheat before serving."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "hs-pasta-with-olive-oil-and-vegetables",
+  "kind": "meal",
+  "title": "Pasta with Olive Oil and Vegetables",
+  "subtitle": "with eggplant, mushrooms and oregano",
+  "description": "A simple, quick vegetarian pasta tossed in a chunky olive oil vegetable sauce, finished with oregano and Parmesan. The vegetables can be prepared a few hours ahead.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%94-%d7%91%d7%a9%d7%9e%d7%9f-%d7%96%d7%99%d7%aa-%d7%95%d7%99%d7%a8%d7%a7%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_50070-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "vegetarian",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "qty": 1,
+      "unit": "packet"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Leek",
+      "qty": 0.5,
+      "product": "leek"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Oregano",
+      "qty": 3,
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the eggplant and finely chop all the vegetables into small cubes. Heat 4 tbsp olive oil in a pot, add the leek and fry until lightly golden."
+    },
+    {
+      "text": "Add the garlic and the remaining vegetables and stir. Chop the oregano leaves, add them to the pot and reduce the heat. Cover and cook until the vegetables soften but hold their shape."
+    },
+    {
+      "text": "Season with salt and pepper and keep cooking over low heat for about 10 minutes."
+    },
+    {
+      "text": "Cook the pasta according to the packet instructions. Drain, transfer to a bowl and toss with 2 tbsp olive oil. Add the vegetable sauce and mix."
+    },
+    {
+      "text": "Sprinkle grated Parmesan over each serving."
+    }
+  ]
+}

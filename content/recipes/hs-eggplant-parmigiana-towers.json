@@ -1,0 +1,109 @@
+{
+  "slug": "hs-eggplant-parmigiana-towers",
+  "kind": "meal",
+  "title": "Eggplant Parmigiana Towers",
+  "subtitle": "with classic tomato sauce, mozzarella and basil",
+  "description": "Salted and roasted eggplant slices stacked into small towers with mozzarella, basil and parmesan and served in a classic tomato sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a8%d7%9e%d7%96%d7%a0%d7%94-%d7%93%d7%99-%d7%9e%d7%9c%d7%a0%d7%96%d7%a0%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/06/Untitled-Catalog-00375_rgb-e1622965168698-1140x641-1622965224.jpg",
+  "servings": 4,
+  "prepMinutes": 70,
+  "tags": [
+    "hashulchan",
+    "eggplant",
+    "baked",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "qty": 2,
+      "product": "eggplant"
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 250,
+      "unit": "g",
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Canned Crushed Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Basil",
+      "qty": 2,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 3,
+      "product": "mozzarella"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Salt the eggplant slices (1 cm thick) with coarse salt, lay them on a tray lined with paper towel and leave to sweat for 30 minutes."
+    },
+    {
+      "text": "Meanwhile, make the sauce: heat the olive oil and garlic in a large pan and, when the garlic begins to set but before it browns, add the halved cherry tomatoes, season with coarse salt, stir and cook for 5 minutes. Add the canned tomatoes and basil leaves, season, bring to the boil, lower the heat and cook, stirring, for 10 minutes."
+    },
+    {
+      "text": "Preheat the oven to 220°C. Pat the eggplant dry with paper towel, arrange in a single layer on trays greased with olive oil and bake for about 10 minutes until lightly browned."
+    },
+    {
+      "text": "Build the towers: stack the eggplant slices with thin slices of mozzarella, basil leaves and a little parmesan between the layers, set them in a baking dish with a little of the sauce and bake until the mozzarella melts. Serve in the remaining warm tomato sauce."
+    }
+  ]
+}
