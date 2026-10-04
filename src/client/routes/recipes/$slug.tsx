@@ -19,6 +19,9 @@ import { useCatalog } from "@/client/features/list/use-list";
 import { useRecipeDetail } from "@/client/features/recipes/use-recipes";
 import { AddToWeekDrawer } from "@/client/features/week/add-to-week-drawer";
 import { setCookingPeople, startCooking, stopCooking, useCooking } from "@/client/features/cooking/cooking";
+import { StepTimers } from "@/client/features/cooking/step-timers";
+import { useNow, useTimers } from "@/client/features/cooking/use-timers";
+import { stepTimers } from "@/shared/timers";
 import { useTRPC } from "@/client/lib/trpc";
 import { cn, haptic, timeAgo } from "@/client/lib/utils";
 
@@ -39,6 +42,8 @@ function RecipePage() {
   const { isPending, error } = detail;
   const cooking = useCooking();
   const cookingThis = cooking?.slug === slug;
+  const timers = useTimers().data ?? [];
+  const now = useNow(cookingThis && timers.some((t) => t.firedAt == null));
   const [servingsOverride, setServingsState] = useState<number | null>(cookingThis ? cooking.people : null);
   const setServings = (n: number) => {
     setServingsState(n);
@@ -334,7 +339,7 @@ function RecipePage() {
               {recipe.steps.map((step, index) => {
                 const done = doneSteps.has(index);
                 return (
-                <li key={index} className={cn("flex gap-3 transition-opacity", done && "opacity-50")}>
+                <li key={index} className="flex gap-3">
                   <button
                     type="button"
                     role="checkbox"
@@ -343,16 +348,20 @@ function RecipePage() {
                     onClick={() => toggleStep(index)}
                     className={cn(
                       "grid size-7 shrink-0 place-items-center rounded-full border-2 text-sm font-semibold transition-colors active:scale-90",
-                      done ? "border-primary bg-card text-primary" : "border-primary bg-primary text-primary-foreground",
+                      done ? "border-primary bg-card text-primary opacity-50" : "border-primary bg-primary text-primary-foreground",
                     )}
                   >
                     {done ? <Check className="size-4" strokeWidth={3} /> : index + 1}
                   </button>
-                  <div className="min-w-0 flex-1 space-y-2" onClick={() => toggleStep(index)}>
-                    {step.imageUrl && (
-                      <img src={sizedImage(step.imageUrl, 400) ?? undefined} alt="" loading="lazy" className="w-full rounded-lg" />
-                    )}
-                    <p className={cn("text-sm leading-relaxed whitespace-pre-line", done && "line-through decoration-muted-foreground/50")}>{step.text}</p>
+                  <div className="min-w-0 flex-1 space-y-2">
+                    <div className={cn("space-y-2 transition-opacity", done && "opacity-50")} onClick={() => toggleStep(index)}>
+                      {step.imageUrl && (
+                        <img src={sizedImage(step.imageUrl, 400) ?? undefined} alt="" loading="lazy" className="w-full rounded-lg" />
+                      )}
+                      <p className={cn("text-sm leading-relaxed whitespace-pre-line", done && "line-through decoration-muted-foreground/50")}>{step.text}</p>
+                    </div>
+                    {/* Timers show once you start cooking. */}
+                    {cookingThis && <StepTimers slug={slug} suggestions={stepTimers(step.text, index)} timers={timers} now={now} />}
                   </div>
                 </li>
                 );

@@ -159,3 +159,25 @@ export const recipeProgress = sqliteTable("recipe_progress", {
   doneIngredients: text("done_ingredients", { mode: "json" }).$type<string[]>().notNull().default(sql`'[]'`),
   updatedAt: integer("updated_at").notNull().default(now),
 });
+
+/** Cooking timers, shared by the household. The Durable Object alarm fires them and sends a push notification. */
+export const timers = sqliteTable("timers", {
+  id: text("id").primaryKey(),
+  recipeSlug: text("recipe_slug"),
+  label: text("label").notNull(),
+  durationSeconds: integer("duration_seconds").notNull(),
+  endsAt: integer("ends_at").notNull(),
+  startedBy: text("started_by").notNull(),
+  /** Set when the time was up and notifications went out. */
+  firedAt: integer("fired_at"),
+  createdAt: integer("created_at").notNull().default(now),
+});
+
+/** Browsers (phones) that asked to be notified when a timer is up. */
+export const pushSubscriptions = sqliteTable("push_subscriptions", {
+  endpoint: text("endpoint").primaryKey(),
+  p256dh: text("p256dh").notNull(),
+  auth: text("auth").notNull(),
+  userEmail: text("user_email").notNull(),
+  createdAt: integer("created_at").notNull().default(now),
+});

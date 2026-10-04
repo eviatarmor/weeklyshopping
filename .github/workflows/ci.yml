@@ -76,3 +76,8 @@ jobs:
         env:
           HOUSEHOLD_MEMBERS: ${{ secrets.HOUSEHOLD_MEMBERS }}
         run: printf '%s' "$HOUSEHOLD_MEMBERS" | pnpm exec wrangler secret put HOUSEHOLD_MEMBERS
+      - name: Update push notification key
+        env:
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+        if: env.VAPID_PRIVATE_KEY != ''
+        run: printf '%s' "$VAPID_PRIVATE_KEY" | pnpm exec wrangler secret put VAPID_PRIVATE_KEY

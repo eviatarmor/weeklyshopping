@@ -4,6 +4,8 @@ import { BookOpen, CalendarDays, Settings, ShoppingCart } from "lucide-react";
 import { Toaster } from "sonner";
 import { CookingBar } from "@/client/features/cooking/cooking-bar";
 import { useCooking, useWakeLock } from "@/client/features/cooking/cooking";
+import { refreshSubscription } from "@/client/features/cooking/notifications";
+import { useTimerAlerts } from "@/client/features/cooking/use-timers";
 import { useListSync } from "@/client/features/list/use-list";
 import { cn } from "@/client/lib/utils";
 
@@ -28,6 +30,8 @@ function RootLayout() {
   // While cooking, the screen stays on everywhere in the app; away from the recipe it shrinks to a bar.
   const cooking = useCooking();
   useWakeLock(Boolean(cooking));
+  useTimerAlerts();
+  useEffect(() => void refreshSubscription(), []);
   const showCookingBar = Boolean(cooking) && pathname !== `/recipes/${cooking?.slug}`;
 
   // The page scrolls inside <main>, so the router's own scroll handling doesn't reach it.

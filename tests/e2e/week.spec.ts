@@ -106,3 +106,44 @@ test("cooking mode: tick spices, minimise to a bar, finish", async ({ browser, b
   await page.getByRole("button", { name: /Reset/ }).click();
   await expect(spice).toHaveAttribute("aria-checked", "false");
 });
+
+test("step timers: start in cooking mode, shared, and the alarm fires", async ({ browser, baseURL }) => {
+  const alex = await openAs(browser, "alex@dev.local", baseURL!);
+  const sam = await openAs(browser, "sam@dev.local", baseURL!);
+  await alex.goto("/recipes");
+  await alex.getByPlaceholder(/Search .*recipes/).fill("White Bean Pie");
+  await alex.getByRole("link", { name: /Creamy Mushroom & White Bean Pie/ }).click();
+  const url = alex.url();
+
+  // No timers until cooking starts.
+  await expect(alex.getByRole("button", { name: /^Start "/ })).toHaveCount(0);
+  await alex.getByRole("button", { name: "Start cooking" }).filter({ visible: true }).click();
+  const first = alex.getByRole("button", { name: /^Start "/ }).first();
+  await expect(first).toBeVisible();
+  await first.click();
+  await expect(alex.getByText("Running").first()).toBeVisible();
+
+  // The other phone sees it while cooking the same recipe.
+  await sam.goto(url);
+  await sam.getByRole("button", { name: "Start cooking" }).filter({ visible: true }).click();
+  await expect(sam.getByText("Running").first()).toBeVisible({ timeout: 10_000 });
+  await sam.getByRole("button", { name: "Stop timer" }).first().click();
+  await expect(alex.getByText("Running")).toHaveCount(0, { timeout: 10_000 });
+
+  // A short timer is fired by the server's alarm.
+  const call = (path: string, input: unknown) =>
+    alex.request.post(`/trpc/${path}`, { data: { json: input }, headers: { "content-type": "application/json" } });
+  const started = await call("timers.start", { recipeSlug: null, label: "Quick test", seconds: 5 });
+  expect(started.ok()).toBe(true);
+  const id = (await started.json()).result.data.json.id as string;
+  await expect
+    .poll(async () => {
+      const res = await alex.request.get(`/trpc/timers.list`);
+      const list = (await res.json()).result.data.json as { id: string; firedAt: number | null }[];
+      return list.find((t) => t.id === id)?.firedAt ?? null;
+    }, { timeout: 15_000 })
+    .not.toBeNull();
+  await call("timers.remove", { id });
+  await alex.getByRole("button", { name: "Stop cooking" }).filter({ visible: true }).click();
+  await sam.getByRole("button", { name: "Stop cooking" }).filter({ visible: true }).click();
+});

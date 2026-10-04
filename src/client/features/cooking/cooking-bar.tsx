@@ -1,12 +1,14 @@
 import { Link } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { ChefHat, X } from "lucide-react";
+import { BellRing, ChefHat, Timer, X } from "lucide-react";
+import { formatCountdown } from "@/shared/timers";
 import { Thumb } from "@/client/components/ui/misc";
 import { useRecipeDetail } from "@/client/features/recipes/use-recipes";
 import { sizedImage } from "@/client/lib/images";
 import { useTRPC } from "@/client/lib/trpc";
 import { cn } from "@/client/lib/utils";
 import { stopCooking, type CookingSession } from "./cooking";
+import { useNow, useTimers } from "./use-timers";
 
 /** The recipe being cooked, minimised above the tab bar (like a music player). Tap to go back to it. */
 export function CookingBar({ session, aboveTabs }: { session: CookingSession; aboveTabs: boolean }) {
@@ -17,6 +19,11 @@ export function CookingBar({ session, aboveTabs }: { session: CookingSession; ab
   const done = progress.data?.steps.length ?? 0;
   // The first step that isn't ticked yet is the one you're on.
   const current = total ? Array.from({ length: total }, (_, i) => i).find((i) => !progress.data?.steps.includes(i)) : undefined;
+  // The timer that needs attention first: one that's up, else the soonest running one.
+  const timers = useTimers().data ?? [];
+  const now = useNow(timers.length > 0);
+  const timer = timers.find((t) => t.firedAt != null || t.endsAt <= now) ?? timers.find((t) => t.firedAt == null);
+  const timerUp = timer != null && (timer.firedAt != null || timer.endsAt <= now);
 
   return (
     <div
@@ -34,10 +41,18 @@ export function CookingBar({ session, aboveTabs }: { session: CookingSession; ab
               <ChefHat className="size-3.5" /> Cooking · screen stays on
             </span>
             <span className="block truncate text-sm font-semibold">{session.title}</span>
-            {total > 0 && (
-              <span className="block text-xs text-muted-foreground">
-                {current === undefined ? "All steps done" : `Step ${current + 1} of ${total}`}
+            {timer ? (
+              <span className={cn("flex items-center gap-1 text-xs font-semibold", timerUp ? "text-destructive" : "text-foreground")}>
+                {timerUp ? <BellRing className="size-3.5" /> : <Timer className="size-3.5" />}
+                <span className="truncate">{timer.label}</span>
+                <span className="tabular-nums">· {timerUp ? "time's up!" : formatCountdown(timer.endsAt - now)}</span>
               </span>
+            ) : (
+              total > 0 && (
+                <span className="block text-xs text-muted-foreground">
+                  {current === undefined ? "All steps done" : `Step ${current + 1} of ${total}`}
+                </span>
+              )
             )}
           </span>
         </Link>

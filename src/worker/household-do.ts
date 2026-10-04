@@ -9,6 +9,7 @@ import { loadContent } from "../server/content";
 import { ensureSections } from "../server/content-sync";
 import { buildStore, type ContentStore } from "../server/content-store";
 import { appRouter } from "../server/router";
+import { fireDueTimers, nextTimerDue } from "../server/timers-service";
 import { IDENTITY_HEADER, type Identity } from "./identity";
 
 /** One instance per household: owns its SQLite database and live-update fan-out. */
@@ -46,6 +47,21 @@ export class HouseholdDO extends DurableObject<Env> {
     }
   }
 
+  /** Wake up when the next cooking timer is due. */
+  private async syncAlarm() {
+    const due = nextTimerDue(this.db);
+    if (due == null) await this.ctx.storage.deleteAlarm();
+    else await this.ctx.storage.setAlarm(due);
+  }
+
+  /** A timer is up: notify everyone, then wait for the next one. */
+  override async alarm() {
+    const privateKey = String(this.env.VAPID_PRIVATE_KEY ?? "");
+    const publicKey = String(this.env.VAPID_PUBLIC_KEY ?? "");
+    await fireDueTimers(this.db, this.bus, this.store, privateKey && publicKey ? { publicKey, privateKey } : null);
+    await this.syncAlarm();
+  }
+
   override async fetch(request: Request): Promise<Response> {
     const raw = request.headers.get(IDENTITY_HEADER);
     const identity = raw ? (JSON.parse(decodeURIComponent(raw)) as Identity) : null;
@@ -61,6 +77,9 @@ export class HouseholdDO extends DurableObject<Env> {
         household: identity?.household ?? { id: "", name: "", members: [] },
         store: this.store,
         accessTeamDomain: String(this.env.ACCESS_TEAM_DOMAIN ?? ""),
+        origin: new URL(request.url).origin,
+        vapidPublicKey: String(this.env.VAPID_PUBLIC_KEY ?? ""),
+        syncAlarm: () => this.syncAlarm(),
       }),
       onError: ({ error, path }) => {
         if (error.code === "INTERNAL_SERVER_ERROR") console.error(`tRPC ${path}:`, error);

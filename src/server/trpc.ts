@@ -16,6 +16,12 @@ export type Context = {
   store: ContentStore;
   /** e.g. team.cloudflareaccess.com; empty in local dev. */
   accessTeamDomain: string;
+  /** The app's origin, e.g. https://weeklyshopping.example.workers.dev. */
+  origin: string;
+  /** Public VAPID key for push notifications; empty when not configured. */
+  vapidPublicKey: string;
+  /** Point the Durable Object alarm at the next running timer. */
+  syncAlarm: () => Promise<void>;
 };
 
 const t = initTRPC.context<Context>().create({

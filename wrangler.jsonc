@@ -20,7 +20,9 @@
     "ACCESS_TEAM_DOMAIN": "",
     "ACCESS_AUD": "",
     // Only honoured on localhost while Access is not configured. Set to "true" in .dev.vars.
-    "DEV_AUTH": "false"
+    "DEV_AUTH": "false",
+    // Public half of the push notification key pair (the private half is the VAPID_PRIVATE_KEY secret).
+    "VAPID_PUBLIC_KEY": "BHiY9r5MMSie-m5L86RKQxH8cmbO0lnI27ryl-UlfBiFhALlQeCQd01F2SSG_NbeZ-zmAmX6isLIuYRa5HG_vO0"
   },
   "observability": { "enabled": true }
 }

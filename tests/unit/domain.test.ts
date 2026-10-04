@@ -2,6 +2,8 @@ import { describe, expect, it } from "vitest";
 import { buildProductIndex, classify } from "@/shared/classify";
 import { blendTree, expandIngredients, expandRecipes, type BlendRecipe, type IngredientRow } from "@/shared/expand";
 import { searchMatcher } from "@/shared/search";
+import { formatCountdown, stepTimers } from "@/shared/timers";
+import { base64UrlToBytes, bytesToBase64Url, encryptPayload } from "@/server/web-push";
 import { addDays, dayIndex, weekStartOf } from "@/shared/week";
 import { normalizeName } from "@/shared/normalize";
 import { parseIngredient } from "@/shared/parse-ingredient";
@@ -279,5 +281,40 @@ describe("blendTree quantities", () => {
       ["american", { slug: "american", title: "American", servings: 1, yieldUnit: "sachet", ingredients: [leaf("Paprika", 1, "tsp")] }],
     ]);
     expect(blendTree("american", blends, 2)?.children).toEqual([{ name: "Paprika", qty: 2, unit: "tsp" }]);
+  });
+});
+
+describe("web push encryption", () => {
+  it("matches the RFC 8291 example", async () => {
+    const asPublic = "BP4z9KsN6nGRTbVYI_c7VJSPQTBtkgcy27mlmlMoZIIgDll6e3vCYLocInmYWAmS6TlzAC8wEqKK6PBru3jl7A8";
+    const pub = base64UrlToBytes(asPublic);
+    const jwk = { kty: "EC", crv: "P-256", x: bytesToBase64Url(pub.slice(1, 33)), y: bytesToBase64Url(pub.slice(33, 65)) };
+    const serverKeys = {
+      privateKey: await crypto.subtle.importKey("jwk", { ...jwk, d: "yfWPiYE-n46HLnH0KqZOF1fJJU3MYrct3AELtAQ-oRw" }, { name: "ECDH", namedCurve: "P-256" }, true, ["deriveBits"]),
+      publicKey: await crypto.subtle.importKey("jwk", jwk, { name: "ECDH", namedCurve: "P-256" }, true, []),
+    };
+    const body = await encryptPayload(
+      new TextEncoder().encode("When I grow up, I want to be a watermelon"),
+      { p256dh: "BCVxsr7N_eNgVRqvHtD0zTZsEc6-VV-JvLexhqUzORcxaOzi6-AYWXvTBHm4bjyPjs7Vd8pZGH6SRpkNtoIAiw4", auth: "BTBZMqHH6r4Tts7J_aSIgg" },
+      { serverKeys, salt: base64UrlToBytes("DGv6ra1nlYgDCS1FRnbzlw") },
+    );
+    expect(bytesToBase64Url(body)).toBe(
+      "DGv6ra1nlYgDCS1FRnbzlwAAEABBBP4z9KsN6nGRTbVYI_c7VJSPQTBtkgcy27mlmlMoZIIgDll6e3vCYLocInmYWAmS6TlzAC8wEqKK6PBru3jl7A_yl95bQpu6cVPTpK4Mqgkf1CXztLVBSt2Ks3oZwbuwXPXLWyouBWLVWGNWQexSgSxsj_Qulcy4a-fN",
+    );
+  });
+});
+
+describe("step timers", () => {
+  it("finds named timers in method text", () => {
+    const text = `• In a medium saucepan, heat the butter. Cook sesame seeds until fragrant, 1-2 minutes.
+• Cook for 10 minutes, then remove from heat and keep covered until rice is tender, 10 minutes.
+• When the rice has 5 minutes left, start the sauce.
+TIP: Don't peek for 2 minutes!`;
+    expect(stepTimers(text, 0)).toEqual([
+      { label: "Cook sesame seeds", seconds: 120 },
+      { label: "Cook", seconds: 600 },
+      { label: "Remove from heat and keep…", seconds: 600 },
+    ]);
+    expect(formatCountdown(65_000)).toBe("1:05");
   });
 });

@@ -9,6 +9,7 @@ import { EnergyToggle } from "@/client/features/recipes/energy";
 import { useEnergyUnit, useMeasureSystem } from "@/client/lib/preferences";
 import { dropServiceWorker, useTRPC } from "@/client/lib/trpc";
 import { cn } from "@/client/lib/utils";
+import { disableNotifications, enableNotifications, useNotificationStatus } from "@/client/features/cooking/notifications";
 
 export const Route = createFileRoute("/settings")({ component: SettingsPage });
 
@@ -98,6 +99,8 @@ function SettingsPage() {
           <EnergyToggle value={energyUnit} onChange={setEnergyUnit} />
         </section>
 
+        <TimerNotifications />
+
         <section>
           <h2 className="mb-1 font-semibold">Store layout</h2>
           <p className="mb-3 text-sm text-muted-foreground">Order the sections the way you walk through your supermarket.</p>
@@ -137,5 +140,33 @@ function SettingsPage() {
         )}
       </div>
     </div>
+  );
+}
+
+/** Turn timer notifications on or off for this phone. */
+function TimerNotifications() {
+  const status = useNotificationStatus();
+  const description = {
+    on: "This phone gets a notification when a cooking timer is up, even when the app is closed.",
+    off: "Get a notification on this phone when a cooking timer is up, even when the app is closed.",
+    blocked: "Notifications are blocked for this app. Allow them in your phone's settings, then come back.",
+    "install-first": "On iPhone, add the app to your Home Screen first (Share → Add to Home Screen), then open it from there.",
+    unsupported: "This browser can't show notifications.",
+  }[status];
+  return (
+    <section className="flex items-center justify-between gap-3 rounded-xl border bg-card p-4">
+      <div>
+        <h2 className="font-semibold">Timer notifications</h2>
+        <p className="text-sm text-muted-foreground">{description}</p>
+      </div>
+      {(status === "on" || status === "off") && (
+        <Button
+          variant={status === "on" ? "outline" : "default"}
+          onClick={() => void (status === "on" ? disableNotifications() : enableNotifications())}
+        >
+          {status === "on" ? "Turn off" : "Turn on"}
+        </Button>
+      )}
+    </section>
   );
 }

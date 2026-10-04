@@ -4,7 +4,6 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import { cloudflare } from "@cloudflare/vite-plugin";
 import { tanstackRouter } from "@tanstack/router-plugin/vite";
-import { VitePWA } from "vite-plugin-pwa";
 
 // Drizzle's durable-sqlite migrations import .sql files; load them as strings.
 function sqlAsText(): Plugin {
@@ -32,30 +31,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
     cloudflare(),
-    VitePWA({
-      registerType: "autoUpdate",
-      // Send the Access cookie when the browser fetches the manifest.
-      useCredentials: true,
-      includeAssets: ["icon.svg"],
-      manifest: {
-        name: "Weekly Shopping",
-        short_name: "Shopping",
-        description: "Shared shopping list and recipes",
-        theme_color: "#ffffff",
-        background_color: "#ffffff",
-        display: "standalone",
-        orientation: "portrait",
-        start_url: "/",
-        icons: [
-          { src: "/icon-192.png", sizes: "192x192", type: "image/png" },
-          { src: "/icon-512.png", sizes: "512x512", type: "image/png" },
-          { src: "/icon-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
-        ],
-      },
-      // No service worker any more: it cached old app versions and recipe data, so two phones could show
-      // different things. This build ships a worker that unregisters itself and clears its caches on
-      // phones that still have the old one. The manifest stays, so the app remains installable.
-      selfDestroying: true,
-    }),
   ],
 });

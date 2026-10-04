@@ -23,8 +23,8 @@ const applyTheme = () => {
 applyTheme();
 dark.addEventListener("change", applyTheme);
 
-// Earlier versions installed a service worker that cached the app and recipe data. Remove it and its caches.
-void navigator.serviceWorker?.getRegistrations().then((registrations) => registrations.forEach((r) => void r.unregister()));
+// The service worker only shows timer notifications; it caches nothing (and clears what older versions cached).
+if (import.meta.env.PROD) void navigator.serviceWorker?.register("/sw.js", { updateViaCache: "none" }).catch(() => {});
 void globalThis.caches?.keys().then((keys) => keys.forEach((key) => void caches.delete(key)));
 
 createRoot(document.getElementById("root")!).render(
