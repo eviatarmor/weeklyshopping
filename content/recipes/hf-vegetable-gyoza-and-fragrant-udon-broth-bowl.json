@@ -83,21 +83,22 @@
     {
       "name": "Hainanese Paste",
       "qty": 1,
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/68b93674f655999316ff6e65-e19dfb70.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/68b93674f655999316ff6e65-e19dfb70.png",
+      "blend": "hainanese-paste"
     },
     {
       "name": "Ginger Lemongrass Paste",
       "qty": 1,
       "unit": "packet",
-      "product": "ginger-lemongrass-paste",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f3b590ee9ba3270e45e88aa-3d0cbda2.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f3b590ee9ba3270e45e88aa-3d0cbda2.png",
+      "blend": "ginger-lemongrass-paste"
     },
     {
       "name": "Soy Sauce Mix",
       "qty": 1,
       "unit": "packet",
-      "product": "soy-sauce",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334c0d0527cba53a49df-763086b8.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334c0d0527cba53a49df-763086b8.png",
+      "blend": "soy-sauce-mix"
     },
     {
       "name": "Vegetable Stock Pot",

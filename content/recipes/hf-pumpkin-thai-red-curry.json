@@ -88,9 +88,9 @@
       "name": "Vegetarian Fish Sauce",
       "qty": 1,
       "unit": "tbsp",
-      "product": "fish-sauce",
       "pantry": true,
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d79824dab7176498b4567.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d79824dab7176498b4567.png",
+      "blend": "plant-based-fish-sauce"
     },
     {
       "name": "Baby Bok Choy",

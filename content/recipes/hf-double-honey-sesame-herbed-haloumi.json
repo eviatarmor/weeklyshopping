@@ -103,8 +103,8 @@
       "name": "Garlic Sauce",
       "qty": 1,
       "unit": "packet",
-      "product": "aioli",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6010ba627cbfc9495e5b74ab-64152cd8.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6010ba627cbfc9495e5b74ab-64152cd8.png",
+      "blend": "garlic-sauce"
     },
     {
       "name": "Zucchini",
@@ -116,8 +116,8 @@
       "name": "Green Goddess Dressing",
       "qty": 1,
       "unit": "packet",
-      "product": "salad-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61a8298a5dfdec352b6676f7-6a1c842a.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61a8298a5dfdec352b6676f7-6a1c842a.png",
+      "blend": "green-goddess-dressing"
     },
     {
       "name": "Dried Oregano",

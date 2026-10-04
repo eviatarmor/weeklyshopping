@@ -1,0 +1,53 @@
+{
+  "slug": "thai-lime-and-coriander-dressing",
+  "kind": "blend",
+  "title": "Thai Lime & Coriander Dressing",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Thai Lime and Coriander Dressing"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lime Juice",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "lime"
+    },
+    {
+      "name": "Coriander, finely chopped",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "coriander"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-oil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk until the sugar dissolves. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

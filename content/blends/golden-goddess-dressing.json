@@ -1,0 +1,63 @@
+{
+  "slug": "golden-goddess-dressing",
+  "kind": "blend",
+  "title": "Golden Goddess Dressing",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Golden Goddess"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tahini",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tahini"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "lemon"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Garlic Clove, grated",
+      "qty": 1,
+      "product": "garlic"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk all ingredients until smooth, adding a splash more water if too thick. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

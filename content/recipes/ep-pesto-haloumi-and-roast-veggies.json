@@ -86,8 +86,8 @@
       "name": "Dill & Parsley Mayonnaise",
       "qty": 1,
       "unit": "packet",
-      "product": "mayonnaise",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9e4ecbf90d9f5284bc-faf8bb16.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9e4ecbf90d9f5284bc-faf8bb16.png",
+      "blend": "dill-and-parsley-mayonnaise"
     }
   ],
   "steps": [

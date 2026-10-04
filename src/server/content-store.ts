@@ -1,7 +1,7 @@
 import { buildProductIndex, type ClassifyProduct } from "@/shared/classify";
 import type { BlendRecipe, IngredientRow } from "@/shared/expand";
 import { recipeSource } from "@/shared/sources";
-import type { RecipeDetail, RecipeIndexEntry } from "@/shared/static-data";
+import type { RecipeDetail, RecipeIndexEntry } from "@/shared/recipe-types";
 import { normalizeUnit } from "@/shared/units";
 import type { Content } from "./content-types";
 
@@ -98,7 +98,7 @@ export function buildStore(content: Content): ContentStore {
   };
 }
 
-/** The recipe page's content (also written to /data/r/<slug>.json at build time). */
+/** The recipe page's content. */
 export function recipeDetail(store: ContentStore, slug: string): RecipeDetail | null {
   const found = store.bySlug.get(slug);
   if (!found) return null;
@@ -121,7 +121,7 @@ export function recipeDetail(store: ContentStore, slug: string): RecipeDetail | 
   return { recipe, ingredients, blends, productImages, usedIn };
 }
 
-/** One card in the recipe list (written to /data/recipes.json at build time). */
+/** One card in the recipe list. */
 export function indexEntry(r: StoreRecipe): RecipeIndexEntry {
   return {
     slug: r.slug,

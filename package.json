@@ -4,9 +4,9 @@
   "type": "module",
   "packageManager": "pnpm@10.16.1",
   "scripts": {
-    "dev": "tsx --tsconfig tsconfig.node.json scripts/build-static-data.ts && vite dev",
+    "dev": "vite dev",
     "dev:reset": "node scripts/dev-reset.mjs",
-    "build": "tsx --tsconfig tsconfig.node.json scripts/build-static-data.ts && vite build",
+    "build": "vite build",
     "preview": "pnpm build && vite preview",
     "deploy": "pnpm build && wrangler deploy",
     "typecheck": "tsc -p tsconfig.app.json && tsc -p tsconfig.worker.json && tsc -p tsconfig.node.json",
@@ -23,8 +23,7 @@
     "blends:reddit": "tsx scripts/build-reddit-blends.ts",
     "recipe:bulk": "tsx scripts/import-bulk.ts",
     "content:clean-html": "tsx scripts/clean-html.ts",
-    "content:fix-energy": "tsx scripts/fix-energy.ts",
-    "data:build": "tsx --tsconfig tsconfig.node.json scripts/build-static-data.ts"
+    "content:fix-energy": "tsx scripts/fix-energy.ts"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.104.1",

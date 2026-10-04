@@ -4,19 +4,13 @@ import { Thumb } from "@/client/components/ui/misc";
 import { sizedImage } from "@/client/lib/images";
 import { useTRPC } from "@/client/lib/trpc";
 import { Energy } from "./energy";
-import { useRecipeCards } from "./use-recipes";
 
 /** "Recommended for you": meals similar to the ones you rated highly. */
 export function Recommended() {
   const trpc = useTRPC();
   const { data } = useQuery(trpc.recipes.recommended.queryOptions(undefined, { staleTime: 5 * 60_000, refetchOnWindowFocus: false }));
-  const { bySlug } = useRecipeCards();
   if (!data) return null;
-  // The API returns slugs; card details come from the static recipe index.
-  const items = data.items.flatMap((i) => {
-    const card = bySlug.get(i.slug);
-    return card ? [{ ...card, because: i.because }] : [];
-  });
+  const { items } = data;
 
   if (items.length === 0) {
     return (

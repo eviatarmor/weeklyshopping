@@ -49,8 +49,8 @@
       "name": "Japanese Curry Paste",
       "qty": 1,
       "unit": "packet",
-      "product": "katsu-paste",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237743405d840b2be3848-e702b67b.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237743405d840b2be3848-e702b67b.png",
+      "blend": "katsu-curry-paste"
     },
     {
       "name": "Coriander",
@@ -63,8 +63,8 @@
       "name": "Soy Sauce Mix",
       "qty": 1,
       "unit": "packet",
-      "product": "soy-sauce",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334c0d0527cba53a49df-763086b8.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334c0d0527cba53a49df-763086b8.png",
+      "blend": "soy-sauce-mix"
     },
     {
       "name": "Coconut Milk",

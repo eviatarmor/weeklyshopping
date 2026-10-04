@@ -1,0 +1,36 @@
+{
+  "slug": "italian-truffle-mayonnaise",
+  "kind": "blend",
+  "title": "Italian Truffle Mayonnaise",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Truffle Mayo",
+    "Truffle Mayonnaise"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Truffle Oil",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "truffle-oil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

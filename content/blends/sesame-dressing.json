@@ -1,0 +1,59 @@
+{
+  "slug": "sesame-dressing",
+  "kind": "blend",
+  "title": "Sesame Dressing",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Creamy Sesame Dressing",
+    "Sesame Ginger Dressing"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tahini",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tahini"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "rice-wine-vinegar"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sesame-oil"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk until smooth. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

@@ -4,10 +4,10 @@ import { protectedProcedure, router } from "../trpc";
 import { itemHistory, sections } from "../db/schema";
 
 export const catalogRouter = router({
-  /** Sections and past items; products come from the static /data/catalog.json. */
+  /** Sections, past items and the grocery products (from memory). */
   get: protectedProcedure.query(({ ctx }) => ({
     sections: ctx.db.select().from(sections).orderBy(asc(sections.sortOrder)).all(),
-
+    products: ctx.store.products,
     history: ctx.db.select().from(itemHistory).all(),
   })),
 

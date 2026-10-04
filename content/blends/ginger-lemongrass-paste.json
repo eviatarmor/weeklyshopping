@@ -1,0 +1,46 @@
+{
+  "slug": "ginger-lemongrass-paste",
+  "kind": "blend",
+  "title": "Ginger & Lemongrass Paste",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Ginger and Lemongrass Paste",
+    "Ginger Lemongrass Paste"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ginger, grated",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Lemongrass Stalk, finely chopped",
+      "qty": 1,
+      "product": "lemongrass"
+    },
+    {
+      "name": "Garlic Clove, grated",
+      "qty": 1,
+      "product": "garlic"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-oil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pound or blitz to a paste. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

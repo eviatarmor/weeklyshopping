@@ -1,0 +1,69 @@
+{
+  "slug": "mild-curry-paste",
+  "kind": "blend",
+  "title": "Mild Curry Paste",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Mild Korma Paste",
+    "Korma Paste",
+    "Curry Paste",
+    "Indian Curry Paste",
+    "Vegetable Curry Paste"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garlic-paste"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything into a paste. Fry in the pan for 1 minute before adding liquids, as the recipe directs. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

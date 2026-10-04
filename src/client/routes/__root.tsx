@@ -1,6 +1,6 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useLayoutEffect, useRef } from "react";
 import { createRootRoute, Link, Outlet, useRouterState } from "@tanstack/react-router";
-import { BookOpen, Settings, ShoppingCart } from "lucide-react";
+import { BookOpen, CalendarDays, Settings, ShoppingCart } from "lucide-react";
 import { Toaster } from "sonner";
 import { useListSync } from "@/client/features/list/use-list";
 import { cn } from "@/client/lib/utils";
@@ -9,6 +9,7 @@ export const Route = createRootRoute({ component: RootLayout });
 
 const TABS = [
   { to: "/", label: "List", icon: ShoppingCart },
+  { to: "/week", label: "Week", icon: CalendarDays },
   { to: "/recipes", label: "Recipes", icon: BookOpen },
   { to: "/settings", label: "Settings", icon: Settings },
 ] as const;
@@ -24,10 +25,35 @@ function RootLayout() {
   const hideTabs = /^\/recipes\/.+/.test(pathname);
 
   // The page scrolls inside <main>, so the router's own scroll handling doesn't reach it.
+  // New pages start at the top; going back returns to where that page was scrolled.
   const mainRef = useRef<HTMLElement>(null);
+  const entryKey = useRouterState({ select: (s) => s.location.state.__TSR_key ?? s.location.href });
+  const positions = useRef(new Map<string, number>());
+  const currentEntry = useRef(entryKey);
   useEffect(() => {
-    mainRef.current?.scrollTo({ top: 0 });
-  }, [pathname]);
+    const el = mainRef.current;
+    if (!el) return;
+    const onScroll = () => positions.current.set(currentEntry.current, el.scrollTop);
+    el.addEventListener("scroll", onScroll, { passive: true });
+    return () => el.removeEventListener("scroll", onScroll);
+  }, []);
+  useLayoutEffect(() => {
+    currentEntry.current = entryKey;
+    const el = mainRef.current;
+    if (!el) return;
+    const target = positions.current.get(entryKey) ?? 0;
+    el.scrollTop = target;
+    if (target === 0) return;
+    // The list may still be rendering: keep trying for a moment until it's tall enough.
+    let frame = 0;
+    let id = 0;
+    const restore = () => {
+      el.scrollTop = target;
+      if (Math.abs(el.scrollTop - target) > 2 && frame++ < 60) id = requestAnimationFrame(restore);
+    };
+    id = requestAnimationFrame(restore);
+    return () => cancelAnimationFrame(id);
+  }, [entryKey]);
 
   return (
     <div className="mx-auto flex h-full max-w-md flex-col bg-background md:max-w-none">
@@ -63,7 +89,7 @@ function RootLayout() {
       </main>
       {!hideTabs && (
         <nav className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-md border-t bg-background/90 pb-safe backdrop-blur-lg md:hidden">
-          <div className="grid grid-cols-3">
+          <div className="grid grid-cols-4">
             {TABS.map(({ to, label, icon: Icon }) => {
               const active = to === "/" ? pathname === "/" : pathname.startsWith(to);
               return (

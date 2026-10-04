@@ -1,0 +1,47 @@
+{
+  "slug": "creamy-pesto-dressing",
+  "kind": "blend",
+  "title": "Creamy Pesto Dressing",
+  "description": "Homemade approximation of the HelloFresh/Dinnerly sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Pesto Dressing",
+    "Pesto Dressing Supreme"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pesto",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "pesto"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lemon"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk the pesto, mayonnaise, lemon juice and water until creamy. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

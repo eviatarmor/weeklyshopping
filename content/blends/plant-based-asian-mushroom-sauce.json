@@ -1,0 +1,53 @@
+{
+  "slug": "plant-based-asian-mushroom-sauce",
+  "kind": "blend",
+  "title": "Plant-Based Asian Mushroom Sauce",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Asian Mushroom Sauce",
+    "Vegetarian Mushroom Sauce"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Dark Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "dark-soy-sauce"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "cornflour"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together. A vegetarian stand-in for oyster sauce; the soaking liquid from dried shiitake adds depth. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

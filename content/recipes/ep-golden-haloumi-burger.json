@@ -74,8 +74,8 @@
       "name": "Mustard Mayo",
       "qty": 1,
       "unit": "packet",
-      "product": "mayonnaise",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a93405d840b2be394c-c4354791.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a93405d840b2be394c-c4354791.png",
+      "blend": "mustard-mayo"
     },
     {
       "name": "Rosemary",

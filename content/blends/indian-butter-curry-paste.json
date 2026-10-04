@@ -1,0 +1,65 @@
+{
+  "slug": "indian-butter-curry-paste",
+  "kind": "blend",
+  "title": "Indian Butter Curry Paste",
+  "description": "Homemade approximation of the Dinnerly sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Butter Curry Paste"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garam Masala",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garlic-paste"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix into a paste and fry for 1 minute before adding liquids. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

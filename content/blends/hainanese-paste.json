@@ -1,0 +1,53 @@
+{
+  "slug": "hainanese-paste",
+  "kind": "blend",
+  "title": "Hainanese Paste",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Hainanese Seasoning Paste"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garlic-paste"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sesame-oil"
+    },
+    {
+      "name": "White Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "white-pepper"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix into a paste. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

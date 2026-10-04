@@ -79,9 +79,9 @@
       "name": "Soy Sauce Mix",
       "qty": 1,
       "unit": "sachet",
-      "product": "soy-sauce",
       "pantry": true,
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6308710d43507374330757cb-e35a259a.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6308710d43507374330757cb-e35a259a.png",
+      "blend": "soy-sauce-mix"
     },
     {
       "name": "Brown Sugar",
@@ -117,8 +117,8 @@
       "name": "Japanese-Style Dressing",
       "qty": 1,
       "unit": "packet",
-      "product": "sesame-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3//ingredient/6466ce8925b485ab06bd21e2-00d5a2a7.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3//ingredient/6466ce8925b485ab06bd21e2-00d5a2a7.png",
+      "blend": "japanese-dressing"
     }
   ],
   "steps": [

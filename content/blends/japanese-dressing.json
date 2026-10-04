@@ -1,0 +1,60 @@
+{
+  "slug": "japanese-dressing",
+  "kind": "blend",
+  "title": "Japanese Dressing",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate/Dinnerly sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Japanese-Style Dressing",
+    "Japanese Style Dressing"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "rice-wine-vinegar"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sesame-oil"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey"
+    },
+    {
+      "name": "Tahini",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "tahini"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk until smooth, thinning with a little water if needed. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

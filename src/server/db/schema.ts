@@ -128,3 +128,32 @@ export const meta = sqliteTable("meta", {
   key: text("key").primaryKey(),
   value: text("value").notNull(),
 });
+
+/** Dinners planned for a week. A meal is either a recipe or just a name the household typed. */
+export const mealPlan = sqliteTable(
+  "meal_plan",
+  {
+    id: text("id").primaryKey(),
+    /** Monday of the week, YYYY-MM-DD. */
+    weekStart: text("week_start").notNull(),
+    /** 0 = Monday … 6 = Sunday; null = "sometime this week". */
+    day: integer("day"),
+    position: integer("position").notNull().default(0),
+    recipeSlug: text("recipe_slug"),
+    customName: text("custom_name"),
+    servings: integer("servings").notNull().default(2),
+    /** Set once this meal's ingredients were added to the shopping list. */
+    onListAt: integer("on_list_at"),
+    cookedAt: integer("cooked_at"),
+    addedBy: text("added_by").notNull(),
+    createdAt: integer("created_at").notNull().default(now),
+  },
+  (t) => [index("meal_plan_week_idx").on(t.weekStart)],
+);
+
+/** Method steps ticked off while cooking, shared by the household. */
+export const recipeProgress = sqliteTable("recipe_progress", {
+  recipeSlug: text("recipe_slug").primaryKey(),
+  doneSteps: text("done_steps", { mode: "json" }).$type<number[]>().notNull().default(sql`'[]'`),
+  updatedAt: integer("updated_at").notNull().default(now),
+});

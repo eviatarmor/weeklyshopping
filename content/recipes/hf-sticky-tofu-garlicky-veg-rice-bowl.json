@@ -91,8 +91,8 @@
       "name": "Plant-Based Aioli",
       "qty": 1,
       "unit": "packet",
-      "product": "aioli",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6087ced877cc7513912c1b8b-b3f5ddf8.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6087ced877cc7513912c1b8b-b3f5ddf8.png",
+      "blend": "plant-based-aioli"
     },
     {
       "name": "Crispy Shallots",
@@ -112,8 +112,8 @@
       "name": "Plant-Based Asian Mushroom Sauce",
       "qty": 1,
       "unit": "sachet",
-      "product": "oyster-sauce",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/618219fbf7a2b25be10c7cf4-12f08769.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/618219fbf7a2b25be10c7cf4-12f08769.png",
+      "blend": "plant-based-asian-mushroom-sauce"
     }
   ],
   "steps": [

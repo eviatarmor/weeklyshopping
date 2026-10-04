@@ -62,8 +62,8 @@
       "name": "Dill & Parsley Mayonnaise",
       "qty": 1,
       "unit": "packet",
-      "product": "mayonnaise",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png",
+      "blend": "dill-and-parsley-mayonnaise"
     },
     {
       "name": "Mixed Salad Leaves",
@@ -76,8 +76,8 @@
       "name": "Mustard Cider Dressing",
       "qty": 1,
       "unit": "packet",
-      "product": "salad-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc91cbdae08b55b234dd042-98d5f9b5.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc91cbdae08b55b234dd042-98d5f9b5.png",
+      "blend": "mustard-cider-dressing"
     }
   ],
   "steps": [

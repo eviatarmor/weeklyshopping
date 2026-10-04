@@ -118,8 +118,8 @@
       "name": "Creamy Pesto Dressing",
       "qty": 1,
       "unit": "packet",
-      "product": "salad-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png",
+      "blend": "creamy-pesto-dressing"
     }
   ],
   "steps": [

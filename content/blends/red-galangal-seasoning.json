@@ -1,0 +1,63 @@
+{
+  "slug": "red-galangal-seasoning",
+  "kind": "blend",
+  "title": "Red Galangal Seasoning",
+  "description": "Homemade approximation of the Dinnerly sachet (Thai-style red curry flavours). Ground ginger stands in for galangal. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Ginger",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "White Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "white-pepper"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

@@ -1,23 +1,22 @@
 import { useMemo } from "react";
-import { useQuery } from "@tanstack/react-query";
-import type { RecipeIndexEntry } from "@/shared/static-data";
-import { useRecipeIndex } from "@/client/lib/static-data";
+import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { useTRPC, type RouterOutputs } from "@/client/lib/trpc";
 
-type Stats = RouterOutputs["recipes"]["stats"][string];
-export type RecipeCard = RecipeIndexEntry & Stats;
+export type RecipeCard = RouterOutputs["recipes"]["list"]["items"][number];
 
-const NO_STATS: Stats = { avgStars: null, ratingCount: 0, myStars: null, timesCooked: 0, lastCookedAt: null };
-
-/** Static recipe cards joined with this household's ratings and cooked counts. */
-export function useRecipeCards() {
+/** Cards for a handful of specific recipes (week plan, list items), keyed by slug. */
+export function useRecipeCardsFor(slugs: string[]) {
   const trpc = useTRPC();
-  const index = useRecipeIndex();
-  const stats = useQuery(trpc.recipes.stats.queryOptions(undefined, { staleTime: 5 * 60_000, refetchOnWindowFocus: false }));
-  const cards = useMemo(
-    () => (index.data ?? []).map((r): RecipeCard => ({ ...r, ...(stats.data?.[r.slug] ?? NO_STATS) })),
-    [index.data, stats.data],
+  const unique = useMemo(() => [...new Set(slugs)].sort(), [slugs]);
+  const query = useQuery(
+    trpc.recipes.cards.queryOptions({ slugs: unique }, { enabled: unique.length > 0, staleTime: 5 * 60_000, placeholderData: keepPreviousData }),
   );
-  const bySlug = useMemo(() => new Map(cards.map((c) => [c.slug, c])), [cards]);
-  return { cards, bySlug, isPending: index.isPending, error: index.error };
+  const bySlug = useMemo(() => new Map((query.data ?? []).map((c) => [c.slug, c])), [query.data]);
+  return { ...query, bySlug };
+}
+
+/** A recipe's content (ingredients, method, blends). It only changes with a deploy. */
+export function useRecipeDetail(slug: string) {
+  const trpc = useTRPC();
+  return useQuery(trpc.recipes.content.queryOptions({ slug }, { staleTime: Infinity, refetchOnWindowFocus: false }));
 }

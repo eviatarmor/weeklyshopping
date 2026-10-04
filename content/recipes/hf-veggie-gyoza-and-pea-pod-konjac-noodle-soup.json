@@ -61,8 +61,8 @@
       "name": "Soy Sauce Mix",
       "qty": 1,
       "unit": "packet",
-      "product": "soy-sauce",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6808e1ab3a1db6f3d2ac4de3-adc7e9f9.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6808e1ab3a1db6f3d2ac4de3-adc7e9f9.png",
+      "blend": "soy-sauce-mix"
     },
     {
       "name": "Pea Pods",

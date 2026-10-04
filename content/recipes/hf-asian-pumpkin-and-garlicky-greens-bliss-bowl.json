@@ -60,8 +60,8 @@
       "name": "Plant-Based Asian Mushroom Sauce",
       "qty": 1,
       "unit": "packet",
-      "product": "oyster-sauce",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/618219fbf7a2b25be10c7cf4-12f08769.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/618219fbf7a2b25be10c7cf4-12f08769.png",
+      "blend": "plant-based-asian-mushroom-sauce"
     },
     {
       "name": "Pumpkin",
@@ -73,8 +73,8 @@
       "name": "Sesame Dressing",
       "qty": 2,
       "unit": "packet",
-      "product": "sesame-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f3-78f88c67.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f3-78f88c67.png",
+      "blend": "sesame-dressing"
     },
     {
       "name": "Spring Onion",

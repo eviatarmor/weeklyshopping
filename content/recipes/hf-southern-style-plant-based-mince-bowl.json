@@ -89,7 +89,8 @@
       "name": "Sweet & Savoury Glaze",
       "qty": 1,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/63854783d71eb9fb2b0b10f6-0f18847e.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/63854783d71eb9fb2b0b10f6-0f18847e.png",
+      "blend": "sweet-and-savoury-glaze"
     },
     {
       "name": "Slaw Mix",
@@ -109,8 +110,8 @@
       "name": "Plant-Based Aioli",
       "qty": 1,
       "unit": "packet",
-      "product": "aioli",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6087ced877cc7513912c1b8b-b3f5ddf8.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6087ced877cc7513912c1b8b-b3f5ddf8.png",
+      "blend": "plant-based-aioli"
     },
     {
       "name": "Coriander",

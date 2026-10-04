@@ -1,0 +1,49 @@
+{
+  "slug": "dill-and-parsley-mayonnaise",
+  "kind": "blend",
+  "title": "Dill & Parsley Mayonnaise",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Dill and Parsley Mayo",
+    "Dill & Parsley Mayo",
+    "Dill and Parsley Mayonnaise"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Dill, finely chopped",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "dill"
+    },
+    {
+      "name": "Flat-Leaf Parsley, finely chopped",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir the herbs and lemon juice through the mayonnaise. Season with a pinch of salt. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

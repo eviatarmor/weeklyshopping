@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { createFileRoute, Link, useRouter } from "@tanstack/react-router";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { ChefHat, ChevronLeft, Clock, ExternalLink, Users } from "lucide-react";
+import { CalendarPlus, Check, ChefHat, ChevronLeft, Clock, ExternalLink, RotateCcw, Users } from "lucide-react";
 import { toast } from "sonner";
 import { blendTree, type BlendRecipe } from "@/shared/expand";
 import { spoonStandardFor } from "@/shared/measure";
@@ -16,9 +16,10 @@ import { MeasureToggle, Quantity } from "@/client/features/recipes/quantity";
 import { useMeasureSystem } from "@/client/lib/preferences";
 import { emojiFor, sizedImage } from "@/client/lib/images";
 import { useCatalog } from "@/client/features/list/use-list";
-import { useRecipeDetail } from "@/client/lib/static-data";
+import { useRecipeDetail } from "@/client/features/recipes/use-recipes";
+import { AddToWeekDrawer } from "@/client/features/week/add-to-week-drawer";
 import { useTRPC } from "@/client/lib/trpc";
-import { timeAgo } from "@/client/lib/utils";
+import { cn, haptic, timeAgo } from "@/client/lib/utils";
 
 export const Route = createFileRoute("/recipes/$slug")({ component: RecipePage });
 
@@ -27,7 +28,6 @@ function RecipePage() {
   const trpc = useTRPC();
   const qc = useQueryClient();
   const router = useRouter();
-  // Recipe content is a static file; only ratings and cooked history come from the API.
   const detail = useRecipeDetail(slug);
   const activity = useQuery(trpc.recipes.activity.queryOptions({ slug }, { refetchOnWindowFocus: false }));
   const { historyByName } = useCatalog();
@@ -38,6 +38,27 @@ function RecipePage() {
   const { isPending, error } = detail;
   const [servingsOverride, setServings] = useState<number | null>(null);
   const [adding, setAdding] = useState(false);
+  const [planning, setPlanning] = useState(false);
+  // Ticked-off method steps, shared live with the rest of the household.
+  const progressKey = trpc.recipes.progress.queryKey({ slug });
+  const progress = useQuery(trpc.recipes.progress.queryOptions({ slug }, { staleTime: Infinity }));
+  const doneSteps = new Set(progress.data ?? []);
+  const setProgress = useMutation(
+    trpc.recipes.setProgress.mutationOptions({
+      onMutate: ({ doneSteps: next }) => qc.setQueryData(progressKey, next),
+      onError: (e) => {
+        toast.error(e.message);
+        void qc.invalidateQueries({ queryKey: progressKey });
+      },
+    }),
+  );
+  const toggleStep = (index: number) => {
+    haptic(doneSteps.has(index) ? 5 : 12);
+    const next = new Set(doneSteps);
+    if (next.has(index)) next.delete(index);
+    else next.add(index);
+    setProgress.mutate({ slug, doneSteps: [...next] });
+  };
   const [system, setSystem] = useMeasureSystem();
 
   const invalidate = () => {
@@ -49,6 +70,8 @@ function RecipePage() {
     trpc.recipes.markCooked.mutationOptions({
       onSuccess: () => {
         invalidate();
+        // Cooking it clears the ticked steps for next time.
+        qc.setQueryData(progressKey, []);
         toast.success("Nice! Marked as cooked");
       },
     }),
@@ -83,8 +106,10 @@ function RecipePage() {
   const isBlend = recipe.kind === "blend";
   const source = recipeSource(recipe.sourceUrl);
   const standard = spoonStandardFor(recipe.sourceUrl);
-  const servings = servingsOverride ?? recipe.servings;
-  const factor = servings / recipe.servings;
+  // Meals scale by people. A blend batch makes one sachet, which serves 2 people in the meal-kit recipes.
+  const people = servingsOverride ?? (isBlend ? 2 : recipe.servings);
+  const factor = isBlend ? people / 2 : people / recipe.servings;
+  const servings = recipe.servings * factor;
   const mine = ratings.find((r) => r.mine);
   const others = ratings.filter((r) => !r.mine);
   const avg = ratings.length ? ratings.reduce((s, r) => s + r.stars, 0) / ratings.length : null;
@@ -94,7 +119,7 @@ function RecipePage() {
       {/* Left column on desktop: photo, details, ingredients. */}
       <div className="md:min-w-0">
       <div className="relative">
-        <Thumb src={sizedImage(recipe.imageUrl, 450)} emoji={isBlend ? "🧂" : "🍽️"} className="aspect-[4/3] w-full rounded-none text-6xl md:rounded-2xl [&_img]:object-cover" alt={recipe.title} />
+        <Thumb src={sizedImage(recipe.imageUrl, 450)} emoji={!isBlend ? "🍽️" : recipe.tags.includes("sauce") ? "🥫" : "🧂"} className="aspect-[4/3] w-full rounded-none text-6xl md:rounded-2xl [&_img]:object-cover" alt={recipe.title} />
         <button
           type="button"
           onClick={back}
@@ -107,7 +132,7 @@ function RecipePage() {
 
       <div className="space-y-5 px-4 pt-4 md:px-0">
         <div>
-          {isBlend && <Badge className="mb-2">Seasoning blend</Badge>}
+          {isBlend && <Badge className="mb-2">{recipe.tags.includes("sauce") ? "Sauce" : "Seasoning blend"}</Badge>}
           <h1 className="text-2xl leading-tight font-bold">{recipe.title}</h1>
           {recipe.subtitle && <p className="mt-1 text-muted-foreground">{recipe.subtitle}</p>}
           <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-muted-foreground">
@@ -173,16 +198,14 @@ function RecipePage() {
           <div className="mb-2 flex flex-wrap items-center justify-between gap-2">
             <h2 className="text-lg font-semibold">Ingredients</h2>
             <MeasureToggle value={system} onChange={setSystem} />
-            {!isBlend && (
-              <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                <Users className="size-4" />
-                <Segmented
-                  value={String(servings)}
-                  onChange={(v) => setServings(Number(v))}
-                  options={[2, 4].map((n) => ({ value: String(n), label: String(n) }))}
-                />
-              </div>
-            )}
+            <div className="flex items-center gap-2 text-sm text-muted-foreground">
+              <Users className="size-4" />
+              <Segmented
+                value={String(people)}
+                onChange={(v) => setServings(Number(v))}
+                options={[2, 4].map((n) => ({ value: String(n), label: String(n) }))}
+              />
+            </div>
           </div>
           <ul className="divide-y rounded-xl border bg-card">
             {ingredients.map((i, index) => {
@@ -220,21 +243,45 @@ function RecipePage() {
         </Button>
         {recipe.steps.length > 0 && (
           <section>
-            <h2 className="mb-2 text-lg font-semibold">Method</h2>
+            <div className="mb-2 flex items-center justify-between gap-2">
+              <h2 className="text-lg font-semibold">Method</h2>
+              {doneSteps.size > 0 && (
+                <button
+                  type="button"
+                  onClick={() => setProgress.mutate({ slug, doneSteps: [] })}
+                  className="flex items-center gap-1 text-xs font-medium text-muted-foreground"
+                >
+                  {doneSteps.size}/{recipe.steps.length} done · <RotateCcw className="size-3" /> Reset
+                </button>
+              )}
+            </div>
             <ol className="space-y-4">
-              {recipe.steps.map((step, index) => (
-                <li key={index} className="flex gap-3">
-                  <span className="grid size-7 shrink-0 place-items-center rounded-full bg-primary text-sm font-semibold text-primary-foreground">
-                    {index + 1}
-                  </span>
-                  <div className="min-w-0 flex-1 space-y-2">
+              {recipe.steps.map((step, index) => {
+                const done = doneSteps.has(index);
+                return (
+                <li key={index} className={cn("flex gap-3 transition-opacity", done && "opacity-50")}>
+                  <button
+                    type="button"
+                    role="checkbox"
+                    aria-checked={done}
+                    aria-label={`Step ${index + 1} done`}
+                    onClick={() => toggleStep(index)}
+                    className={cn(
+                      "grid size-7 shrink-0 place-items-center rounded-full border-2 text-sm font-semibold transition-colors active:scale-90",
+                      done ? "border-primary bg-card text-primary" : "border-primary bg-primary text-primary-foreground",
+                    )}
+                  >
+                    {done ? <Check className="size-4" strokeWidth={3} /> : index + 1}
+                  </button>
+                  <div className="min-w-0 flex-1 space-y-2" onClick={() => toggleStep(index)}>
                     {step.imageUrl && (
                       <img src={sizedImage(step.imageUrl, 400) ?? undefined} alt="" loading="lazy" className="w-full rounded-lg" />
                     )}
-                    <p className="text-sm leading-relaxed whitespace-pre-line">{step.text}</p>
+                    <p className={cn("text-sm leading-relaxed whitespace-pre-line", done && "line-through decoration-muted-foreground/50")}>{step.text}</p>
                   </div>
                 </li>
-              ))}
+                );
+              })}
             </ol>
           </section>
         )}
@@ -255,9 +302,14 @@ function RecipePage() {
         )}
 
         {!isBlend && (
-          <Button variant="outline" className="w-full" onClick={() => cooked.mutate({ slug })} disabled={cooked.isPending}>
-            <ChefHat /> We cooked this
-          </Button>
+          <div className="grid grid-cols-2 gap-2">
+            <Button variant="outline" onClick={() => setPlanning(true)}>
+              <CalendarPlus /> Add to week
+            </Button>
+            <Button variant="outline" onClick={() => cooked.mutate({ slug })} disabled={cooked.isPending}>
+              <ChefHat /> We cooked this
+            </Button>
+          </div>
         )}
       </div>
 
@@ -267,7 +319,8 @@ function RecipePage() {
         </Button>
       </div>
 
-      <AddToListDrawer data={data} servings={servings} open={adding} onOpenChange={setAdding} system={system} standard={standard} />
+      {!isBlend && <AddToWeekDrawer slug={slug} title={recipe.title} servings={people} open={planning} onOpenChange={setPlanning} />}
+      <AddToListDrawer data={data} servings={servings} people={isBlend ? people : undefined} open={adding} onOpenChange={setAdding} system={system} standard={standard} />
     </div>
   );
 }

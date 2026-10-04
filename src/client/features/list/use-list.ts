@@ -8,12 +8,10 @@ import { parseIngredient } from "@/shared/parse-ingredient";
 import { addQuantities, normalizeUnit } from "@/shared/units";
 import type { ListEvent, ListItem } from "@/shared/types";
 import { useTRPC, type RouterOutputs } from "@/client/lib/trpc";
-import { useStaticCatalog } from "@/client/lib/static-data";
-import type { CatalogProduct } from "@/shared/static-data";
 import { haptic } from "@/client/lib/utils";
 
-/** Household sections and history (API) plus the grocery products (static file). */
-export type Catalog = RouterOutputs["catalog"]["get"] & { products: CatalogProduct[] };
+/** Household sections and history plus the grocery products. */
+export type Catalog = RouterOutputs["catalog"]["get"];
 
 function upsertItems(list: ListItem[] | undefined, items: ListItem[], replaceId?: string): ListItem[] {
   const next = (list ?? []).filter((i) => i.id !== replaceId);
@@ -25,7 +23,10 @@ function upsertItems(list: ListItem[] | undefined, items: ListItem[], replaceId?
   return next;
 }
 
-function applyEvent(qc: QueryClient, listKey: QueryKey, catalogKey: QueryKey, event: ListEvent) {
+type SyncKeys = { list: QueryKey; catalog: QueryKey; week: (weekStart: string) => QueryKey; progress: (slug: string) => QueryKey };
+
+function applyEvent(qc: QueryClient, keys: SyncKeys, event: ListEvent) {
+  const { list: listKey, catalog: catalogKey } = keys;
   switch (event.type) {
     case "items.upsert":
       qc.setQueryData<ListItem[]>(listKey, (old) => upsertItems(old, event.items));
@@ -37,23 +38,37 @@ function applyEvent(qc: QueryClient, listKey: QueryKey, catalogKey: QueryKey, ev
     case "history.changed":
       void qc.invalidateQueries({ queryKey: catalogKey });
       break;
+    case "week.changed":
+      void qc.invalidateQueries({ queryKey: keys.week(event.weekStart) });
+      break;
+    case "progress.changed":
+      qc.setQueryData(keys.progress(event.slug), event.doneSteps);
+      break;
   }
 }
 
-/** Keeps the list cache in sync with other devices over SSE. Mounted once in the root layout. */
+/** Keeps the list, week plan and cooking progress in sync with other devices over SSE. Mounted once in the root layout. */
 export function useListSync() {
   const trpc = useTRPC();
   const qc = useQueryClient();
   const listKey = trpc.list.get.queryKey();
   const catalogKey = trpc.catalog.get.queryKey();
+  const keys: SyncKeys = {
+    list: listKey,
+    catalog: catalogKey,
+    week: (weekStart) => trpc.week.get.queryKey({ weekStart }),
+    progress: (slug) => trpc.recipes.progress.queryKey({ slug }),
+  };
   return useSubscription(
     trpc.list.onChange.subscriptionOptions(undefined, {
       // (Re)connected: anything could have changed while we were away.
       onStarted: () => {
         void qc.invalidateQueries({ queryKey: listKey });
         void qc.invalidateQueries({ queryKey: catalogKey });
+        void qc.invalidateQueries(trpc.week.pathFilter());
+        void qc.invalidateQueries({ queryKey: trpc.recipes.progress.queryKey() });
       },
-      onData: (event) => applyEvent(qc, listKey, catalogKey, event as ListEvent),
+      onData: (event) => applyEvent(qc, keys, event as ListEvent),
     }),
   );
 }
@@ -62,18 +77,16 @@ export function useCatalog() {
   const trpc = useTRPC();
   // Changes arrive over the live stream (sections/history events), so no polling.
   const query = useQuery(trpc.catalog.get.queryOptions(undefined, { staleTime: Infinity }));
-  const staticCatalog = useStaticCatalog();
   const derived = useMemo(() => {
-    const products = staticCatalog.data?.products ?? [];
-    const data: Catalog | undefined = query.data ? { ...query.data, products } : undefined;
+    const products = query.data?.products ?? [];
     return {
-      data,
+      data: query.data,
       sections: query.data?.sections ?? [],
       productIndex: buildProductIndex(products),
       productBySlug: new Map(products.map((p) => [p.slug, p])),
       historyByName: new Map((query.data?.history ?? []).map((h) => [h.normalizedName, h])),
     };
-  }, [query.data, staticCatalog.data]);
+  }, [query.data]);
   return { ...query, ...derived };
 }
 

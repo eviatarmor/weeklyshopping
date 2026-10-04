@@ -1,0 +1,59 @@
+{
+  "slug": "ayam-goreng-paste",
+  "kind": "blend",
+  "title": "Ayam Goreng Paste",
+  "description": "Homemade approximation of the Dinnerly sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Ayam Goreng"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "garlic-paste"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix into a paste and fry briefly before adding liquids. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

@@ -98,9 +98,9 @@
       "name": "Soy Sauce Mix",
       "qty": 1,
       "unit": "packet",
-      "product": "soy-sauce",
       "pantry": true,
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6308710d43507374330757cb-e35a259a.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6308710d43507374330757cb-e35a259a.png",
+      "blend": "soy-sauce-mix"
     },
     {
       "name": "Shredded Cabbage Mix",

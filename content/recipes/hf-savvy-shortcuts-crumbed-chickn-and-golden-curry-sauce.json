@@ -57,8 +57,8 @@
       "name": "Japanese Dressing",
       "qty": 1,
       "unit": "packet",
-      "product": "sesame-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237683405d840b2be37ff-32bb70f2.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237683405d840b2be37ff-32bb70f2.png",
+      "blend": "japanese-dressing"
     },
     {
       "name": "Crispy Shallots",
@@ -71,8 +71,8 @@
       "name": "Japanese Curry Paste",
       "qty": 1,
       "unit": "packet",
-      "product": "katsu-paste",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237743405d840b2be3848-e702b67b.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237743405d840b2be3848-e702b67b.png",
+      "blend": "katsu-curry-paste"
     },
     {
       "name": "Pea Pods",

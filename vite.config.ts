@@ -52,43 +52,10 @@ export default defineConfig({
           { src: "/icon-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
         ],
       },
-      workbox: {
-        // A new deploy takes over open tabs right away instead of waiting for every tab to close.
-        skipWaiting: true,
-        clientsClaim: true,
-        cleanupOutdatedCaches: true,
-        // Page loads always go to the network so Cloudflare Access can check the session
-        // (and show the login page when it has expired). Serving a cached shell here
-        // left signed-out users stuck on an empty app.
-        navigateFallback: null,
-        // No HTML in the precache either: Workbox would otherwise answer "/" with the cached index.html.
-        globPatterns: ["**/*.{js,css,svg,png,woff2}"],
-        // One file, so the Access bypass for sw.js covers the whole worker.
-        inlineWorkboxRuntime: true,
-        runtimeCaching: [
-          {
-            // Static recipe data (/data/*.json): show the cached copy instantly, refresh in the background.
-            urlPattern: ({ url }) => url.origin === self.location.origin && url.pathname.startsWith("/data/"),
-            handler: "StaleWhileRevalidate",
-            options: {
-              // Bump the name to drop anything a previous version cached.
-              cacheName: "recipe-data-v2",
-              expiration: { maxEntries: 4000, maxAgeSeconds: 60 * 60 * 24 * 60 },
-              // Only real JSON: never keep an HTML page (login or fallback) in place of data.
-              cacheableResponse: { statuses: [200], headers: { "content-type": "application/json" } },
-            },
-          },
-          {
-            urlPattern: ({ request, url }) => request.destination === "image" && url.origin !== self.location.origin,
-            handler: "CacheFirst",
-            options: {
-              cacheName: "remote-images",
-              expiration: { maxEntries: 500, maxAgeSeconds: 60 * 60 * 24 * 30 },
-              cacheableResponse: { statuses: [0, 200] },
-            },
-          },
-        ],
-      },
+      // No service worker any more: it cached old app versions and recipe data, so two phones could show
+      // different things. This build ships a worker that unregisters itself and clears its caches on
+      // phones that still have the old one. The manifest stays, so the app remains installable.
+      selfDestroying: true,
     }),
   ],
 });

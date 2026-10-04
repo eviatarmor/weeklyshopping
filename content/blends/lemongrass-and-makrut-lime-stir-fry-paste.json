@@ -1,0 +1,52 @@
+{
+  "slug": "lemongrass-and-makrut-lime-stir-fry-paste",
+  "kind": "blend",
+  "title": "Lemongrass & Makrut Lime Stir-Fry Paste",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Lemongrass and Makrut Lime Stir-Fry Paste",
+    "Lemongrass & Makrut Lime Paste"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lemongrass Stalk, finely chopped",
+      "qty": 1,
+      "product": "lemongrass"
+    },
+    {
+      "name": "Kaffir Lime Leaves, finely shredded",
+      "qty": 2,
+      "product": "kaffir-lime-leaves"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garlic-paste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-oil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pound or blitz to a paste. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

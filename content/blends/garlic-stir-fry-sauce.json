@@ -1,0 +1,60 @@
+{
+  "slug": "garlic-stir-fry-sauce",
+  "kind": "blend",
+  "title": "Garlic Stir-Fry Sauce",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Asian Stir-Fry Sauce",
+    "Thai Stir-Fry Sauce",
+    "Stir-Fry Sauce Sachet"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "hoisin-sauce"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garlic-paste"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "rice-wine-vinegar"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "cornflour"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk until smooth, then add to the wok and simmer until glossy. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

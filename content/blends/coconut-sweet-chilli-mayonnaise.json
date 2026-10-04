@@ -1,0 +1,41 @@
+{
+  "slug": "coconut-sweet-chilli-mayonnaise",
+  "kind": "blend",
+  "title": "Coconut Sweet Chilli Mayonnaise",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Coconut Sweet Chilli Mayo"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sweet-chilli-sauce"
+    },
+    {
+      "name": "Coconut Cream",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "coconut-cream"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

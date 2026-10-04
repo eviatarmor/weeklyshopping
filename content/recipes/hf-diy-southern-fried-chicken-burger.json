@@ -74,8 +74,8 @@
       "name": "Mustard Mayo",
       "qty": 1,
       "unit": "packet",
-      "product": "mayonnaise",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fcc2f2fe44baceeadf757f-a79209f1.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fcc2f2fe44baceeadf757f-a79209f1.png",
+      "blend": "mustard-mayo"
     },
     {
       "name": "Shredded Cabbage Mix",

@@ -1,0 +1,53 @@
+{
+  "slug": "yoghurt-ranch-dressing",
+  "kind": "blend",
+  "title": "Yoghurt Ranch Dressing",
+  "description": "Homemade approximation of the Dinnerly sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Yogurt Ranch Dressing"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Greek Yoghurt",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Dried Dill",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-dill"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together; thin with a little water if needed. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

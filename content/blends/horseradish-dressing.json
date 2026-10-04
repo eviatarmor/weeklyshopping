@@ -1,0 +1,40 @@
+{
+  "slug": "horseradish-dressing",
+  "kind": "blend",
+  "title": "Horseradish Dressing",
+  "description": "Homemade approximation of the Dinnerly sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Horseradish Dipping Sauce"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Horseradish Cream",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

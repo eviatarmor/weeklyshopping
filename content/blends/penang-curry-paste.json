@@ -1,0 +1,47 @@
+{
+  "slug": "penang-curry-paste",
+  "kind": "blend",
+  "title": "Penang Curry Paste",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Vegetarian Penang Curry Paste"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Curry Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "red-curry-paste"
+    },
+    {
+      "name": "Peanut Butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "peanut-butter"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix into a paste and fry for 1 minute before adding coconut milk. Choose a red curry paste without shrimp paste. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

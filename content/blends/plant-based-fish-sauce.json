@@ -1,0 +1,48 @@
+{
+  "slug": "plant-based-fish-sauce",
+  "kind": "blend",
+  "title": "Plant-Based Fish Sauce",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Vegetarian Fish Sauce",
+    "Vegan Fish Sauce"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Lime Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lime"
+    },
+    {
+      "name": "White Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "white-sugar"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir until the sugar dissolves. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

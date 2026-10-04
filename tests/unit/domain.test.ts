@@ -1,6 +1,8 @@
 import { describe, expect, it } from "vitest";
 import { buildProductIndex, classify } from "@/shared/classify";
-import { blendTree, expandIngredients, type BlendRecipe, type IngredientRow } from "@/shared/expand";
+import { blendTree, expandIngredients, expandRecipes, type BlendRecipe, type IngredientRow } from "@/shared/expand";
+import { searchMatcher } from "@/shared/search";
+import { addDays, dayIndex, weekStartOf } from "@/shared/week";
 import { normalizeName } from "@/shared/normalize";
 import { parseIngredient } from "@/shared/parse-ingredient";
 import { bulletLines, htmlToText } from "../../scripts/lib/common.ts";
@@ -226,5 +228,44 @@ describe("correctedKcal", () => {
   });
   it("treats implausible single-serving values as kJ when there are no macros", () => {
     expect(correctedKcal(2420)).toBe(578);
+  });
+});
+
+describe("search", () => {
+  it("ignores case, punctuation and accents", () => {
+    const matches = searchMatcher("all american")!;
+    expect(matches("All-American Veggie Burger")).toBe(true);
+    expect(matches("All American Burger")).toBe(true);
+    expect(searchMatcher("creme fraiche")!("Crème Fraîche Pasta")).toBe(true);
+    expect(searchMatcher("allamerican")!("All-American Burger")).toBe(true);
+    expect(matches("American Pie")).toBe(false);
+    expect(searchMatcher("  - ")).toBeNull();
+  });
+});
+
+describe("weeks", () => {
+  it("start on Monday", () => {
+    expect(weekStartOf(new Date(2026, 9, 4))).toBe("2026-09-28"); // Sunday
+    expect(weekStartOf(new Date(2026, 9, 5))).toBe("2026-10-05"); // Monday
+    expect(addDays("2026-09-28", 7)).toBe("2026-10-05");
+    expect(dayIndex(new Date(2026, 9, 4))).toBe(6);
+  });
+});
+
+describe("expandRecipes", () => {
+  it("merges the same ingredient across dinners", () => {
+    const row = (name: string, qty: number, unit: string | null): IngredientRow => ({
+      name, qty, unit, productSlug: null, blendSlug: null, optional: false, pantry: false, imageUrl: null,
+    });
+    const lines = expandRecipes(
+      [
+        { ingredients: [row("Brown Onion", 1, null), row("Garlic", 2, "clove")], factor: 1 },
+        { ingredients: [row("Brown Onion", 1, null)], factor: 2 },
+      ],
+      new Map(),
+      {},
+    );
+    expect(lines.find((l) => l.name === "Brown Onion")?.qty).toBe(3);
+    expect(lines).toHaveLength(2);
   });
 });

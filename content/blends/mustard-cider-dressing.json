@@ -1,0 +1,48 @@
+{
+  "slug": "mustard-cider-dressing",
+  "kind": "blend",
+  "title": "Mustard Cider Dressing",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Cider Mustard Dressing",
+    "Apple Cider Mustard Dressing"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Apple Cider Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "apple-cider-vinegar"
+    },
+    {
+      "name": "Wholegrain Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "wholegrain-mustard"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk until emulsified. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mustard-mayo",
+  "kind": "blend",
+  "title": "Mustard Mayo",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Mustard Mayonnaise"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

@@ -10,7 +10,7 @@ import { AddItemBar } from "@/client/features/list/add-item-bar";
 import { EditItemDrawer } from "@/client/features/list/edit-item-drawer";
 import { ItemRow } from "@/client/features/list/item-row";
 import { useCatalog, useListActions, useListItems } from "@/client/features/list/use-list";
-import { useRecipeIndex } from "@/client/lib/static-data";
+import { useRecipeCardsFor } from "@/client/features/recipes/use-recipes";
 import { dropServiceWorker } from "@/client/lib/trpc";
 import { cn } from "@/client/lib/utils";
 
@@ -19,12 +19,13 @@ export const Route = createFileRoute("/")({ component: ListPage });
 function ListPage() {
   const { data: items, isPending, isError, error, refetch, isFetching } = useListItems();
   const catalog = useCatalog();
-  const recipes = useRecipeIndex();
   const actions = useListActions();
   const [editing, setEditing] = useState<ListItem | null>(null);
   const [showChecked, setShowChecked] = useState(true);
 
-  const recipeTitles = useMemo(() => new Map((recipes.data ?? []).map((r) => [r.slug, r.title])), [recipes.data]);
+  const recipeSlugs = useMemo(() => (items ?? []).flatMap((i) => i.sourceRecipeSlug ?? []), [items]);
+  const { bySlug: recipesBySlug } = useRecipeCardsFor(recipeSlugs);
+  const recipeTitles = useMemo(() => new Map([...recipesBySlug.values()].map((r) => [r.slug, r.title])), [recipesBySlug]);
   const unchecked = useMemo(() => (items ?? []).filter((i) => !i.checked), [items]);
   const checked = useMemo(() => (items ?? []).filter((i) => i.checked).sort((a, b) => b.updatedAt - a.updatedAt), [items]);
   const onList = useMemo(() => new Set(unchecked.map((i) => normalizeName(i.name))), [unchecked]);

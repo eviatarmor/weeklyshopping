@@ -1,0 +1,47 @@
+{
+  "slug": "sweet-and-savoury-glaze",
+  "kind": "blend",
+  "title": "Sweet & Savoury Glaze",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Sweet and Savoury Glaze"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "worcestershire-sauce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together and brush on near the end of cooking. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

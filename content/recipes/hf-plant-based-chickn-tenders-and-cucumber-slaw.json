@@ -65,15 +65,15 @@
       "name": "Mustard Cider Dressing",
       "qty": 1,
       "unit": "packet",
-      "product": "salad-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc91cbdae08b55b234dd042-98d5f9b5.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc91cbdae08b55b234dd042-98d5f9b5.png",
+      "blend": "mustard-cider-dressing"
     },
     {
       "name": "Plant-Based Smokey Aioli",
       "qty": 2,
       "unit": "packet",
-      "product": "aioli",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60e785d5eac2635cbc3b67c5-6354652b.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60e785d5eac2635cbc3b67c5-6354652b.png",
+      "blend": "smokey-aioli"
     },
     {
       "name": "Plant-Based Crumbed Chicken",

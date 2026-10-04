@@ -69,8 +69,8 @@
       "name": "Mustard Mayo",
       "qty": 1,
       "unit": "packet",
-      "product": "mayonnaise",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076473b1af0755e5e1e011c-add1972a.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076473b1af0755e5e1e011c-add1972a.png",
+      "blend": "mustard-mayo"
     },
     {
       "name": "Olive Oil",

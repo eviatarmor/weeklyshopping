@@ -1,0 +1,44 @@
+{
+  "slug": "smokey-aioli",
+  "kind": "blend",
+  "title": "Smokey Aioli",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Smoky Aioli",
+    "Plant-Based Smokey Aioli",
+    "Plant-Based Smoky Aioli",
+    "Smokey Mayo"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Aioli",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "aioli"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk everything together. For the plant-based version use vegan mayonnaise. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

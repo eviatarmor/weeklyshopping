@@ -1,0 +1,48 @@
+{
+  "slug": "soy-sauce-mix",
+  "kind": "blend",
+  "title": "Soy Sauce Mix",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Sweet Soy Sauce Mix",
+    "Soy Mix"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "kecap-manis"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "rice-wine-vinegar"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir until the sugar dissolves. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

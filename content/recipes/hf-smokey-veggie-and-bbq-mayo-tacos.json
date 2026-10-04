@@ -67,8 +67,8 @@
       "name": "BBQ Mayo",
       "qty": 1,
       "unit": "packet",
-      "product": "mayonnaise",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d63405d840b2be351c-c9417f40.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d63405d840b2be351c-c9417f40.png",
+      "blend": "bbq-mayo"
     },
     {
       "name": "Tomato",

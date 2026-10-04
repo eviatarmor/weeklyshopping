@@ -111,8 +111,8 @@
       "name": "Coconut Sweet Chilli Mayonnaise",
       "qty": 1,
       "unit": "packet",
-      "product": "mayonnaise",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59dc1d44c2880043436b56c2-107fb982.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59dc1d44c2880043436b56c2-107fb982.png",
+      "blend": "coconut-sweet-chilli-mayonnaise"
     },
     {
       "name": "Southeast Asian Spice Blend",
@@ -132,8 +132,8 @@
       "name": "Japanese Dressing",
       "qty": 1,
       "unit": "packet",
-      "product": "sesame-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png",
+      "blend": "japanese-dressing"
     },
     {
       "name": "Long Chilli",

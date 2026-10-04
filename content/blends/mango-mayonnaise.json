@@ -1,0 +1,35 @@
+{
+  "slug": "mango-mayonnaise",
+  "kind": "blend",
+  "title": "Mango Mayonnaise",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Mango Mayo"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Mango Chutney",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mango-chutney"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together, chopping any large chutney pieces. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

@@ -68,8 +68,8 @@
     {
       "name": "Sesame Dressing",
       "qty": 1,
-      "product": "sesame-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237fcb33a6ad8f0f05b67-7e78fbb4.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237fcb33a6ad8f0f05b67-7e78fbb4.png",
+      "blend": "sesame-dressing"
     },
     {
       "name": "Mayonnaise",
@@ -80,8 +80,8 @@
     {
       "name": "Japanese Dressing",
       "qty": 1,
-      "product": "sesame-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237683405d840b2be37ff-32bb70f2.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237683405d840b2be37ff-32bb70f2.png",
+      "blend": "japanese-dressing"
     },
     {
       "name": "Shredded Cabbage Mix",

@@ -1,0 +1,49 @@
+{
+  "slug": "mild-chipotle-sauce",
+  "kind": "blend",
+  "title": "Mild Chipotle Sauce",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Chipotle Sauce",
+    "Chipotle Mayo",
+    "Chipotle Mayonnaise"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Chipotle in Adobo, finely chopped",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "chipotle-in-adobo"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Lime Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lime"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mash the chipotle to a paste and stir through the mayonnaise, paprika and lime juice. Add more chipotle for heat. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

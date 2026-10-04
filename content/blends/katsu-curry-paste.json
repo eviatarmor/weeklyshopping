@@ -1,0 +1,68 @@
+{
+  "slug": "katsu-curry-paste",
+  "kind": "blend",
+  "title": "Katsu Curry Paste",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Katsu Paste",
+    "Katsu Sauce",
+    "Japanese Curry Paste",
+    "Japanese Curry Sauce"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce"
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-sauce"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garlic-paste"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "plain-flour"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix into a paste. Simmer with stock or coconut milk as the recipe directs. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

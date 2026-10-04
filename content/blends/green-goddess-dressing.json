@@ -1,0 +1,65 @@
+{
+  "slug": "green-goddess-dressing",
+  "kind": "blend",
+  "title": "Green Goddess Dressing",
+  "description": "Homemade approximation of the HelloFresh/Dinnerly sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Green Dressing",
+    "Green Goddess"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Greek Yoghurt",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Flat-Leaf Parsley, chopped",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Chives, chopped",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "chives"
+    },
+    {
+      "name": "Basil, chopped",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "basil"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "lemon"
+    },
+    {
+      "name": "Garlic Clove, grated",
+      "qty": 0.5,
+      "product": "garlic"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Blitz or finely chop and stir everything together. Season to taste. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

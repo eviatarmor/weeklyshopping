@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { useNavigate } from "@tanstack/react-router";
 import { toast } from "sonner";
-import { expandIngredients, type BlendChoice, type BlendRecipe, type ShoppingLine } from "@/shared/expand";
+import { expandRecipes, type BlendChoice, type BlendRecipe, type IngredientRow, type ShoppingLine } from "@/shared/expand";
 import { normalizeName } from "@/shared/normalize";
 import type { MeasureSystem, SpoonStandard } from "@/shared/measure";
 import { Button } from "@/client/components/ui/button";
@@ -10,15 +10,20 @@ import { Drawer, DrawerContent, DrawerDescription, DrawerFooter, DrawerHeader, D
 import { CheckIndicator, Segmented, Thumb } from "@/client/components/ui/misc";
 import { Quantity } from "@/client/features/recipes/quantity";
 import { emojiFor, sizedImage } from "@/client/lib/images";
-import type { RecipeDetail } from "@/shared/static-data";
+import type { RecipeDetail } from "@/shared/recipe-types";
 import { useTRPC } from "@/client/lib/trpc";
 import { cn, haptic } from "@/client/lib/utils";
 
 type RecipeData = RecipeDetail & { usuallyHave: string[] };
 
+/** A line as sent to the server: `have` lines are remembered as "usually have", the rest are added. */
+export type ListLine = { name: string; qty: number | null; unit: string | null; productSlug: string | null; imageUrl: string | null; have: boolean };
+
+/** Ingredients of one recipe, from its page. */
 export function AddToListDrawer({
   data,
   servings,
+  people,
   open,
   onOpenChange,
   system,
@@ -26,10 +31,54 @@ export function AddToListDrawer({
 }: {
   data: RecipeData;
   servings: number;
+  /** Blends: how many people the batch is for (servings are sachets). */
+  people?: number;
   open: boolean;
   onOpenChange: (open: boolean) => void;
   system: MeasureSystem;
   standard: SpoonStandard;
+}) {
+  const trpc = useTRPC();
+  const mutation = useMutation(trpc.recipes.addToList.mutationOptions());
+  return (
+    <ShoppingDrawer
+      recipes={[{ detail: data, servings }]}
+      usuallyHave={data.usuallyHave}
+      open={open}
+      onOpenChange={onOpenChange}
+      system={system}
+      standard={standard}
+      description={`Untick what's already in your kitchen. ${data.recipe.title} for ${people ?? servings} people.`}
+      pending={mutation.isPending}
+      submit={(lines) => mutation.mutateAsync({ slug: data.recipe.slug, lines })}
+    />
+  );
+}
+
+/**
+ * "Already have any of these?": the combined shopping lines of one or more recipes,
+ * with buy-or-make toggles for blends and a tick per line.
+ */
+export function ShoppingDrawer({
+  recipes,
+  usuallyHave: usuallyHaveList,
+  open,
+  onOpenChange,
+  system,
+  standard,
+  description,
+  pending,
+  submit,
+}: {
+  recipes: { detail: RecipeDetail; servings: number }[];
+  usuallyHave: string[];
+  open: boolean;
+  onOpenChange: (open: boolean) => void;
+  system: MeasureSystem;
+  standard: SpoonStandard;
+  description: string;
+  pending: boolean;
+  submit: (lines: ListLine[]) => Promise<{ added: number; skipped: number }>;
 }) {
   const trpc = useTRPC();
   const qc = useQueryClient();
@@ -38,68 +87,66 @@ export function AddToListDrawer({
   /** line.key → true when the user wants to buy it. Missing keys use the default. */
   const [buy, setBuy] = useState<Record<string, boolean>>({});
 
-  const blends = useMemo(() => new Map<string, BlendRecipe>(Object.entries(data.blends)), [data.blends]);
-  const usuallyHave = useMemo(() => new Set(data.usuallyHave), [data.usuallyHave]);
+  const blends = useMemo(
+    () => new Map<string, BlendRecipe>(recipes.flatMap((r) => Object.entries(r.detail.blends))),
+    [recipes],
+  );
+  const productImages = useMemo(() => Object.assign({}, ...recipes.map((r) => r.detail.productImages)) as Record<string, string | null>, [recipes]);
+  const usuallyHave = useMemo(() => new Set(usuallyHaveList), [usuallyHaveList]);
   const lines = useMemo(
-    () => expandIngredients(data.ingredients, blends, choices, servings / data.recipe.servings),
-    [data.ingredients, blends, choices, servings, data.recipe.servings],
+    () => expandRecipes(recipes.map((r) => ({ ingredients: r.detail.ingredients, factor: r.servings / r.detail.recipe.servings })), blends, choices),
+    [recipes, blends, choices],
   );
 
   const defaultBuy = (line: ShoppingLine) => !(line.pantry || line.optional || usuallyHave.has(normalizeName(line.name)));
   const wants = (line: ShoppingLine) => buy[line.key] ?? defaultBuy(line);
   const count = lines.filter(wants).length;
 
-  // Blends that appear in this recipe (top level or nested), for the buy/make toggles.
+  // Blends that appear in these recipes (top level or nested), for the buy/make toggles.
   const blendSlugs = useMemo(() => {
     const found = new Set<string>();
-    const walk = (rows: typeof data.ingredients) => {
+    const walk = (rows: IngredientRow[]) => {
       for (const r of rows) {
         if (!r.blendSlug || found.has(r.blendSlug)) continue;
         found.add(r.blendSlug);
         if (choices[r.blendSlug] === "scratch") walk(blends.get(r.blendSlug)?.ingredients ?? []);
       }
     };
-    walk(data.ingredients);
+    for (const r of recipes) walk(r.detail.ingredients);
     return [...found];
-  }, [data.ingredients, blends, choices]);
+  }, [recipes, blends, choices]);
 
-  const mutation = useMutation(
-    trpc.recipes.addToList.mutationOptions({
-      onSuccess: ({ added, skipped }) => {
-        void qc.invalidateQueries({ queryKey: trpc.list.get.queryKey() });
-        // "Usually have" answers live in the household history.
-        void qc.invalidateQueries({ queryKey: trpc.catalog.get.queryKey() });
-        onOpenChange(false);
-        toast.success(`Added ${added} item${added === 1 ? "" : "s"}`, {
-          description: skipped ? `Skipped ${skipped} you already have` : undefined,
-          action: { label: "View list", onClick: () => void navigate({ to: "/" }) },
-        });
-      },
-      onError: (e) => toast.error(e.message),
-    }),
-  );
-
-  const confirm = () =>
-    mutation.mutate({
-      slug: data.recipe.slug,
-      lines: lines.map((l) => ({
-        name: l.name,
-        qty: l.qty,
-        unit: l.unit,
-        productSlug: l.productSlug,
-        imageUrl: l.imageUrl ?? (l.productSlug ? (data.productImages[l.productSlug] ?? null) : null),
-        have: !wants(l),
-      })),
-    });
+  const confirm = async () => {
+    try {
+      const { added, skipped } = await submit(
+        lines.map((l) => ({
+          name: l.name,
+          qty: l.qty,
+          unit: l.unit,
+          productSlug: l.productSlug,
+          imageUrl: l.imageUrl ?? (l.productSlug ? (productImages[l.productSlug] ?? null) : null),
+          have: !wants(l),
+        })),
+      );
+      void qc.invalidateQueries({ queryKey: trpc.list.get.queryKey() });
+      // "Usually have" answers live in the household history.
+      void qc.invalidateQueries({ queryKey: trpc.catalog.get.queryKey() });
+      onOpenChange(false);
+      toast.success(`Added ${added} item${added === 1 ? "" : "s"}`, {
+        description: skipped ? `Skipped ${skipped} you already have` : undefined,
+        action: { label: "View list", onClick: () => void navigate({ to: "/" }) },
+      });
+    } catch (e) {
+      toast.error((e as Error).message);
+    }
+  };
 
   return (
     <Drawer open={open} onOpenChange={onOpenChange}>
       <DrawerContent>
         <DrawerHeader>
           <DrawerTitle>Already have any of these?</DrawerTitle>
-          <DrawerDescription>
-            Untick what's already in your kitchen. {servings} servings of {data.recipe.title}.
-          </DrawerDescription>
+          <DrawerDescription>{description}</DrawerDescription>
         </DrawerHeader>
 
         <div className="overflow-y-auto">
@@ -124,7 +171,7 @@ export function AddToListDrawer({
           <ul className="pb-2">
             {lines.map((line) => {
               const selected = wants(line);
-              const image = line.imageUrl ?? (line.productSlug ? data.productImages[line.productSlug] : null);
+              const image = line.imageUrl ?? (line.productSlug ? productImages[line.productSlug] : null);
               return (
                 <li key={line.key}>
                   <button
@@ -159,7 +206,7 @@ export function AddToListDrawer({
         </div>
 
         <DrawerFooter>
-          <Button size="lg" onClick={confirm} disabled={mutation.isPending || count === 0}>
+          <Button size="lg" onClick={() => void confirm()} disabled={pending || count === 0}>
             {count === 0 ? "You have everything" : `Add ${count} item${count === 1 ? "" : "s"} to list`}
           </Button>
         </DrawerFooter>

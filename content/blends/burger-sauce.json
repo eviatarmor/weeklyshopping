@@ -1,0 +1,48 @@
+{
+  "slug": "burger-sauce",
+  "kind": "blend",
+  "title": "Burger Sauce",
+  "description": "Homemade approximation of the HelloFresh/Dinnerly sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "Burger Sauce Sachet",
+    "Special Burger Sauce"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-sauce"
+    },
+    {
+      "name": "American Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "american-mustard"
+    },
+    {
+      "name": "Chopped Pickles",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "pickles"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together and chill until needed. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

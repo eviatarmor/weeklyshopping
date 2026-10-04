@@ -19,4 +19,6 @@ export type ListEvent =
   | { type: "items.upsert"; items: ListItem[] }
   | { type: "items.delete"; ids: string[] }
   | { type: "sections.changed" }
-  | { type: "history.changed" };
+  | { type: "history.changed" }
+  | { type: "week.changed"; weekStart: string }
+  | { type: "progress.changed"; slug: string; doneSteps: number[] };

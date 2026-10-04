@@ -117,15 +117,15 @@
       "name": "Golden Goddess Dressing",
       "qty": 1,
       "unit": "packet",
-      "product": "salad-dressing",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076488201846f6f39708278-d1c2b639.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076488201846f6f39708278-d1c2b639.png",
+      "blend": "golden-goddess-dressing"
     },
     {
       "name": "Dill & Parsley Mayonnaise",
       "qty": 1,
       "unit": "packet",
-      "product": "mayonnaise",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png",
+      "blend": "dill-and-parsley-mayonnaise"
     },
     {
       "name": "Fetta Cubes",

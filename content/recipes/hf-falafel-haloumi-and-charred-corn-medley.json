@@ -88,8 +88,8 @@
       "name": "Plant-Based Aioli",
       "qty": 1,
       "unit": "packet",
-      "product": "aioli",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6087ced877cc7513912c1b8b-b3f5ddf8.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6087ced877cc7513912c1b8b-b3f5ddf8.png",
+      "blend": "plant-based-aioli"
     },
     {
       "name": "Haloumi",

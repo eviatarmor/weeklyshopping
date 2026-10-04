@@ -130,8 +130,8 @@
       "name": "Burger Sauce",
       "qty": 1,
       "unit": "packet",
-      "product": "burger-sauce",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/605acf31e0b95742057691f7-9325c3ba.png"
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/605acf31e0b95742057691f7-9325c3ba.png",
+      "blend": "burger-sauce"
     }
   ],
   "steps": [

@@ -117,3 +117,12 @@ export function blendTree(slug: string, blends: Map<string, BlendRecipe>, seen =
     children: blend.ingredients.map((i) => (i.blendSlug && blendTree(i.blendSlug, blends, next)) || { name: i.name }),
   };
 }
+
+/** Shopping lines for several recipes at once (e.g. a week of dinners), merged across recipes. */
+export function expandRecipes(
+  recipes: { ingredients: IngredientRow[]; factor: number }[],
+  blends: Map<string, BlendRecipe>,
+  choices: Record<string, BlendChoice>,
+): ShoppingLine[] {
+  return mergeLines(recipes.flatMap((r) => expandIngredients(r.ingredients, blends, choices, r.factor)));
+}

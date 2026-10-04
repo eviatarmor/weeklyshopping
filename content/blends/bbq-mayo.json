@@ -1,0 +1,36 @@
+{
+  "slug": "bbq-mayo",
+  "kind": "blend",
+  "title": "BBQ Mayo",
+  "description": "Homemade approximation of the HelloFresh sachet. No published ingredient list could be found, so this is a sensible copycat. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "sauce"
+  ],
+  "aliases": [
+    "BBQ Mayonnaise",
+    "Barbecue Mayo"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "BBQ Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bbq-sauce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stir together. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

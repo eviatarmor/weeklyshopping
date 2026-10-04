@@ -1,16 +1,7 @@
 import type { BlendRecipe, IngredientRow } from "./expand";
 import type { RecipeSource } from "./sources";
 
-/**
- * Recipe content is generated at build time into static files under /data/.
- * Static assets are free and unlimited on Workers and never reach the Durable
- * Object, so browsing recipes costs no server requests or database reads.
- */
-export const STATIC_DATA = {
-  index: "/data/recipes.json",
-  catalog: "/data/catalog.json",
-  recipe: (slug: string) => `/data/r/${slug}.json`,
-} as const;
+/** Recipe shapes the server sends to the app. Content is held in memory on the server (see content-store.ts). */
 
 /** One card in the recipe list. */
 export type RecipeIndexEntry = {
@@ -57,5 +48,3 @@ export type RecipeDetail = {
   usedIn: { slug: string; title: string }[];
 };
 
-export type CatalogProduct = { slug: string; name: string; aliases: string[]; sectionId: string; imageUrl: string | null };
-export type StaticCatalog = { products: CatalogProduct[] };

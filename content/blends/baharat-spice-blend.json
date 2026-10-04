@@ -1,0 +1,69 @@
+{
+  "slug": "baharat-spice-blend",
+  "kind": "blend",
+  "title": "Baharat Spice Blend",
+  "description": "Homemade approximation of the Dinnerly sachet (warm Middle Eastern all-rounder). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Ground Cloves",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cloves"
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Ground Cardamom",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cardamom"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}
