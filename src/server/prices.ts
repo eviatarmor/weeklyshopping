@@ -11,12 +11,12 @@ type DB = Context["db"];
 const MAX_AGE_MS = 24 * 60 * 60_000;
 /** Ingredient look-ups per store per comparison (each one is a request to the store). */
 const MAX_INGREDIENT_CHECKS = 3;
-const STORES: Store[] = ["woolworths", "coles", "iga"];
+const STORES: Store[] = ["woolworths", "coles"];
 /** Words that describe rather than identify a product: they don't have to appear in the store's name. */
 const FILLER = new Set(["fresh", "large", "small", "medium", "whole", "chopped", "sliced", "diced", "organic", "long", "loose", "leaves", "leaf", "pieces", "of", "and", "the"]);
 /** Words in a store's name that say nothing about what the product is. */
 const NEUTRAL = new Set([
-  "woolworths", "coles", "iga", "macro", "black", "gold", "community", "co", "each", "ea", "loose", "bag", "prepack", "pack",
+  "woolworths", "coles", "macro", "black", "gold", "community", "co", "each", "ea", "loose", "bag", "prepack", "pack",
   "punnet", "bunch", "approx", "per", "kg", "g", "ml", "l", "fresh", "australian", "whole", "leaf", "leaves", "of", "and", "the", "with",
 ]);
 const stemOf = (w: string) => w.replace(/(ies|es|s)$/, (m) => (m === "ies" ? "y" : ""));
@@ -102,7 +102,8 @@ async function compare(db: DB, item: string): Promise<PriceComparison> {
 
 /** Cached comparison for a list item, refreshed when older than a day. */
 export async function priceFor(db: DB, name: string): Promise<PriceComparison> {
-  const term = searchKey(name);
+  // Versioned so results from an earlier store line-up (with IGA) aren't reused.
+  const term = `v2:${searchKey(name)}`;
   const cached = db.select().from(priceCache).where(eq(priceCache.term, term)).get();
   if (cached && Date.now() - cached.fetchedAt < MAX_AGE_MS) return cached.data;
   const data = await compare(db, name);

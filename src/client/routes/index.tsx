@@ -9,10 +9,12 @@ import { Skeleton } from "@/client/components/ui/misc";
 import { AddItemBar } from "@/client/features/list/add-item-bar";
 import { EditItemDrawer } from "@/client/features/list/edit-item-drawer";
 import { ItemRow } from "@/client/features/list/item-row";
+import { ListTotal } from "@/client/features/list/prices";
 import { useCatalog, useListActions, useListItems } from "@/client/features/list/use-list";
 import { useRecipeCardsFor } from "@/client/features/recipes/use-recipes";
 import { dropServiceWorker } from "@/client/lib/trpc";
 import { cn } from "@/client/lib/utils";
+import { toast } from "sonner";
 
 export const Route = createFileRoute("/")({ component: ListPage });
 
@@ -50,6 +52,10 @@ function ListPage() {
       recipeTitle={item.sourceRecipeSlug ? recipeTitles.get(item.sourceRecipeSlug) : undefined}
       onToggle={() => actions.toggle(item)}
       onOpen={() => setEditing(item)}
+      onDelete={() => {
+        actions.remove([item.id]);
+        toast(`Removed ${item.name}`, { action: { label: "Undo", onClick: () => actions.restore(item) } });
+      }}
     />
   );
 
@@ -105,6 +111,8 @@ function ListPage() {
               <ul>{sectionItems.map(row)}</ul>
             </section>
           ))}
+
+          <ListTotal items={unchecked} />
 
           {checked.length > 0 && (
             <section className="mt-4 border-t pt-2">

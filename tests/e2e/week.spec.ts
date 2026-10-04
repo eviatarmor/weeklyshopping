@@ -2,6 +2,10 @@ import { expect, test, type Browser, type Page } from "@playwright/test";
 
 async function openAs(browser: Browser, email: string, baseURL: string, path = "/"): Promise<Page> {
   const context = await browser.newContext();
+  // Never call the real supermarkets from tests.
+  await context.route("**/trpc/prices.compare**", (route) =>
+    route.fulfill({ json: { result: { data: { json: { cheapest: null, bestValue: null, offers: [], fetchedAt: 0 } } } } }),
+  );
   await context.addCookies([{ name: "dev_user", value: email, url: baseURL }]);
   const page = await context.newPage();
   await page.goto(path);
@@ -146,4 +150,33 @@ test("step timers: start in cooking mode, shared, and the alarm fires", async ({
   await call("timers.remove", { id });
   await alex.getByRole("button", { name: "Stop cooking" }).filter({ visible: true }).click();
   await sam.getByRole("button", { name: "Stop cooking" }).filter({ visible: true }).click();
+});
+
+test("swipe an item left to delete it, and undo", async ({ browser, baseURL }) => {
+  const page = await openAs(browser, "alex@dev.local", baseURL!);
+  const item = `Swipe me ${Date.now()}`;
+  const input = page.getByRole("textbox", { name: "Add item" });
+  await input.fill(item);
+  await input.press("Enter");
+  await input.press("Escape");
+  // Escape closes the suggestions a moment later; wait so they don't cover the list.
+  await page.waitForTimeout(400);
+  const row = page.locator("main").getByRole("listitem").filter({ hasText: item });
+  await expect(row).toBeVisible();
+
+  // Keep it clear of the tab bar at the bottom.
+  await row.evaluate((el) => el.scrollIntoView({ block: "center" }));
+  const box = (await row.boundingBox())!;
+  const y = box.y + box.height / 2;
+  await page.mouse.move(box.x + box.width - 40, y);
+  await page.mouse.down();
+  for (let x = box.width - 40; x > box.width - 220; x -= 20) await page.mouse.move(box.x + x, y);
+  await page.mouse.up();
+  await expect(row).toBeHidden();
+
+  await page.getByRole("button", { name: "Undo" }).click();
+  await expect(page.locator("main").getByRole("listitem").filter({ hasText: item })).toBeVisible();
+  // Clean up.
+  await page.locator("main").getByRole("listitem").filter({ hasText: item }).getByRole("button", { name: item }).click();
+  await page.getByRole("button", { name: "Delete" }).click();
 });

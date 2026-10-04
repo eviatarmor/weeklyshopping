@@ -1,8 +1,8 @@
 /** Supermarket price comparison: shared types and the vegetarian ingredient check. */
 
-export type Store = "woolworths" | "coles" | "iga";
+export type Store = "woolworths" | "coles";
 
-export const STORE_LABELS: Record<Store, string> = { woolworths: "Woolworths", coles: "Coles", iga: "IGA" };
+export const STORE_LABELS: Record<Store, string> = { woolworths: "Woolworths", coles: "Coles" };
 
 export type Offer = {
   store: Store;

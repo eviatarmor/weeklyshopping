@@ -1,12 +1,11 @@
 /**
- * Search clients for Woolworths, Coles and IGA, using the same public endpoints their
+ * Search clients for Woolworths and Coles, using the same public endpoints their
  * websites use (see github.com/MattTimms/coles_vs_woolies). Each returns offers with a
  * normalised unit price, and can fetch a product's ingredient list for the vegetarian check.
  */
 import type { Offer, Store } from "@/shared/grocery";
 
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
-const IGA_STORE = 52511;
 const TIMEOUT_MS = 8000;
 
 async function get(url: string, init: RequestInit = {}): Promise<Response> {
@@ -128,42 +127,7 @@ async function colesIngredients(productId: string): Promise<string | null> {
   return json.pageProps?.product?.additionalInfo?.find((i) => /ingredient/i.test(i.title))?.description ?? null;
 }
 
-// ---------- IGA ----------
-type IgaProduct = {
-  productId: string; name: string; brand?: string; priceNumeric: number; wasPriceNumeric?: number; pricePerUnit?: string;
-  unitOfSize?: { size: number; abbreviation: string }; available?: boolean; image?: { default?: string };
-};
-
-async function searchIga(term: string): Promise<Offer[]> {
-  const res = await get(`https://www.igashop.com.au/api/storefront/stores/${IGA_STORE}/search?q=${encodeURIComponent(term.slice(0, 50))}&skip=0&take=12`);
-  const json = (await res.json()) as { items?: IgaProduct[] };
-  return (json.items ?? [])
-    .filter((p) => p.priceNumeric > 0 && p.available !== false)
-    .map((p) => {
-      const size = p.unitOfSize?.abbreviation ? `${p.unitOfSize.size}${p.unitOfSize.abbreviation}` : null;
-      return {
-        store: "iga" as const,
-        productId: p.productId,
-        name: [p.name, size].filter(Boolean).join(" "),
-        size,
-        price: p.priceNumeric,
-        wasPrice: p.wasPriceNumeric && p.wasPriceNumeric > p.priceNumeric ? p.wasPriceNumeric : null,
-        ...(parseUnitPrice(p.pricePerUnit) ?? { unitPrice: null, unitBasis: null }),
-        unitLabel: p.pricePerUnit ?? null,
-        url: `https://www.igashop.com.au/product/${slug(p.name)}-${p.productId}`,
-        imageUrl: p.image?.default ?? null,
-      };
-    });
-}
-
-async function igaIngredients(productId: string): Promise<string | null> {
-  const res = await get(`https://www.igashop.com.au/api/storefront/stores/${IGA_STORE}/products/${productId}`);
-  const json = (await res.json()) as { ingredients?: string | null };
-  return json.ingredients || null;
-}
-
 export const GROCERS: Record<Store, { search: (term: string) => Promise<Offer[]>; ingredients: (productId: string) => Promise<string | null> }> = {
   woolworths: { search: searchWoolworths, ingredients: wooliesIngredients },
   coles: { search: searchColes, ingredients: colesIngredients },
-  iga: { search: searchIga, ingredients: igaIngredients },
 };

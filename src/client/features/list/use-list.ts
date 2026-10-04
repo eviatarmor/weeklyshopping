@@ -224,6 +224,17 @@ export function useListActions() {
     },
     update: (id: string, patch: Parameters<typeof updateMutation.mutate>[0]["patch"]) => updateMutation.mutate({ id, patch }),
     remove: (ids: string[]) => removeMutation.mutate({ ids }),
+    /** Put a just-deleted item back (undo). */
+    restore: (item: ListItem) =>
+      addMutation.mutate({
+        id: crypto.randomUUID(),
+        name: item.name,
+        qty: item.qty,
+        unit: item.unit,
+        productSlug: item.productSlug,
+        sectionId: item.sectionId,
+        note: item.note,
+      }),
     clearChecked: () => clearMutation.mutate(),
   };
 }
