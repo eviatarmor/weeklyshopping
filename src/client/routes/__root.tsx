@@ -24,12 +24,37 @@ function RootLayout() {
   const hideTabs = /^\/recipes\/.+/.test(pathname);
 
   return (
-    <div className="mx-auto flex h-full max-w-md flex-col bg-background">
-      <main className={cn("flex-1 overflow-y-auto", !hideTabs && "pb-20")}>
+    <div className="mx-auto flex h-full max-w-md flex-col bg-background md:max-w-none md:flex-row">
+      {/* Desktop: sidebar navigation instead of the bottom tab bar. */}
+      <aside className="hidden w-60 shrink-0 flex-col border-r bg-card/50 px-3 py-5 md:flex">
+        <Link to="/" className="mb-6 flex items-center gap-2.5 px-3">
+          <img src="/icon.svg" alt="" className="size-8 rounded-lg" />
+          <span className="text-lg font-bold tracking-tight">Weekly Shopping</span>
+        </Link>
+        <nav className="flex flex-col gap-1">
+          {TABS.map(({ to, label, icon: Icon }) => {
+            const active = to === "/" ? pathname === "/" : pathname.startsWith(to);
+            return (
+              <Link
+                key={to}
+                to={to}
+                className={cn(
+                  "flex h-10 items-center gap-3 rounded-lg px-3 text-sm font-medium transition-colors",
+                  active ? "bg-accent text-accent-foreground" : "text-muted-foreground hover:bg-accent/60 hover:text-foreground",
+                )}
+              >
+                <Icon className="size-5" strokeWidth={active ? 2.4 : 1.8} />
+                {label}
+              </Link>
+            );
+          })}
+        </nav>
+      </aside>
+      <main className={cn("flex-1 overflow-y-auto", !hideTabs && "pb-20 md:pb-0")}>
         <Outlet />
       </main>
       {!hideTabs && (
-        <nav className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-md border-t bg-background/90 pb-safe backdrop-blur-lg">
+        <nav className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-md border-t bg-background/90 pb-safe backdrop-blur-lg md:hidden">
           <div className="grid grid-cols-3">
             {TABS.map(({ to, label, icon: Icon }) => {
               const active = to === "/" ? pathname === "/" : pathname.startsWith(to);

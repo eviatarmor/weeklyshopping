@@ -90,9 +90,11 @@ function RecipePage() {
   const avg = ratings.length ? ratings.reduce((s, r) => s + r.stars, 0) / ratings.length : null;
 
   return (
-    <div className="pb-28">
+    <div className="pb-28 md:mx-auto md:grid md:max-w-6xl md:grid-cols-[minmax(0,5fr)_minmax(0,6fr)] md:gap-x-10 md:px-8 md:pt-8 md:pb-10">
+      {/* Left column on desktop: photo, details, ingredients. */}
+      <div className="md:min-w-0">
       <div className="relative">
-        <Thumb src={sizedImage(recipe.imageUrl, 450)} emoji={isBlend ? "🧂" : "🍽️"} className="aspect-[4/3] w-full rounded-none text-6xl [&_img]:object-cover" alt={recipe.title} />
+        <Thumb src={sizedImage(recipe.imageUrl, 450)} emoji={isBlend ? "🧂" : "🍽️"} className="aspect-[4/3] w-full rounded-none text-6xl md:rounded-2xl [&_img]:object-cover" alt={recipe.title} />
         <button
           type="button"
           onClick={back}
@@ -103,7 +105,7 @@ function RecipePage() {
         </button>
       </div>
 
-      <div className="space-y-5 px-4 pt-4">
+      <div className="space-y-5 px-4 pt-4 md:px-0">
         <div>
           {isBlend && <Badge className="mb-2">Seasoning blend</Badge>}
           <h1 className="text-2xl leading-tight font-bold">{recipe.title}</h1>
@@ -208,6 +210,14 @@ function RecipePage() {
           </ul>
         </section>
 
+      </div>
+      </div>
+
+      {/* Right column on desktop: method, used in, cooked. Below the ingredients on phones. */}
+      <div className="space-y-5 px-4 pt-5 md:px-0 md:pt-0">
+        <Button size="lg" className="hidden w-full md:flex" onClick={() => setAdding(true)}>
+          Add ingredients to list
+        </Button>
         {recipe.steps.length > 0 && (
           <section>
             <h2 className="mb-2 text-lg font-semibold">Method</h2>
@@ -251,7 +261,7 @@ function RecipePage() {
         )}
       </div>
 
-      <div className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-md border-t bg-background/90 px-4 pt-3 pb-[calc(env(safe-area-inset-bottom)+0.75rem)] backdrop-blur-lg">
+      <div className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-md border-t bg-background/90 px-4 pt-3 pb-[calc(env(safe-area-inset-bottom)+0.75rem)] backdrop-blur-lg md:hidden">
         <Button size="lg" className="w-full" onClick={() => setAdding(true)}>
           Add ingredients to list
         </Button>

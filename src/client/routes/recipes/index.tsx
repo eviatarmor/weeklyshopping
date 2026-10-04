@@ -105,7 +105,7 @@ function RecipesPage() {
   }, [visible.length]);
 
   return (
-    <>
+    <div className="md:mx-auto md:max-w-7xl md:pt-4">
       <PageHeader
         title="Recipes"
         action={
@@ -161,7 +161,7 @@ function RecipesPage() {
 
       {kind === "meal" && !query && !tag && !source && <Recommended />}
 
-      <div className="grid grid-cols-2 gap-3 px-4 pt-1 pb-6">
+      <div className="grid grid-cols-2 gap-3 px-4 pt-1 pb-6 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 md:gap-4 md:px-6">
         {isPending && Array.from({ length: 6 }, (_, i) => <Skeleton key={i} className="aspect-[4/5]" />)}
         {visible.slice(0, shown).map((r) => (
           <Link key={r.slug} to="/recipes/$slug" params={{ slug: r.slug }} className="group overflow-hidden rounded-xl border bg-card shadow-xs active:scale-[0.98]">
@@ -195,6 +195,6 @@ function RecipesPage() {
         {!isPending && !error && visible.length === 0 && <p className="col-span-2 pt-12 text-center text-sm text-muted-foreground">No recipes match.</p>}
         {shown < visible.length && <div ref={sentinel} className="col-span-2 h-10" />}
       </div>
-    </>
+    </div>
   );
 }

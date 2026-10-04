@@ -52,7 +52,7 @@ function ListPage() {
   );
 
   return (
-    <>
+    <div className="md:mx-auto md:max-w-2xl md:pt-4">
       <PageHeader
         title="Shopping"
         action={
@@ -113,6 +113,6 @@ function ListPage() {
       )}
 
       <EditItemDrawer item={editing} onClose={() => setEditing(null)} />
-    </>
+    </div>
   );
 }

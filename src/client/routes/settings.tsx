@@ -43,7 +43,7 @@ function SettingsPage() {
   };
 
   return (
-    <>
+    <div className="md:mx-auto md:max-w-2xl md:pt-4">
       <PageHeader title="Settings" />
       <div className="space-y-6 px-4 pb-8">
         <section className="rounded-xl border bg-card p-4">
@@ -122,6 +122,6 @@ function SettingsPage() {
           </Button>
         )}
       </div>
-    </>
+    </div>
   );
 }
