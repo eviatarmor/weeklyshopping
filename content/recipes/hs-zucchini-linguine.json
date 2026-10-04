@@ -1,0 +1,74 @@
+{
+  "slug": "hs-zucchini-linguine",
+  "kind": "meal",
+  "title": "Zucchini Linguine",
+  "subtitle": "with Parmesan and fresh chilli",
+  "description": "Linguine tossed with ribbons of mixed zucchini that are lightly cooked by the heat of the pasta, with Parmesan, chilli and olive oil.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%94-%d7%a2%d7%9d-%d7%a7%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/12/pasta-kishuim-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 25,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "italian",
+    "zucchini",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Linguine",
+      "qty": 500,
+      "unit": "g",
+      "product": "linguine"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 6,
+      "product": "zucchini"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "green-chilli"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Zucchini Flowers",
+      "qty": 12,
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the zucchini into ribbons with a thin peeler into a bowl (use a mixture of striped, yellow and regular zucchini)."
+    },
+    {
+      "text": "Cook the linguine according to the packet instructions. Reserve 1/2 cup of the cooking water."
+    },
+    {
+      "text": "While the pasta is still hot and steaming, gently toss it with the zucchini ribbons (this lightly cooks them but leaves them crunchy). Add the chopped chilli, sprinkle with Parmesan, drizzle with olive oil, taste and add salt if needed."
+    },
+    {
+      "text": "Divide among plates and tear zucchini flowers over the top, if using."
+    }
+  ]
+}

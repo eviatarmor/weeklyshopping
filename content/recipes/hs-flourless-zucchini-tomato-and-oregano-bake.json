@@ -1,0 +1,92 @@
+{
+  "slug": "hs-flourless-zucchini-tomato-and-oregano-bake",
+  "kind": "meal",
+  "title": "Flourless Zucchini, Tomato and Oregano Bake",
+  "description": "Thinly sliced zucchini and tomatoes are sauteed, then baked in a cottage cheese, sour cream and egg custard without any flour.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a9%d7%98%d7%99%d7%93%d7%aa-%d7%96%d7%95%d7%a7%d7%99%d7%a0%d7%99-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa-%d7%95%d7%90%d7%95%d7%a8%d7%92%d7%a0%d7%95/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-128-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 55,
+  "tags": [
+    "hashulchan",
+    "bake",
+    "zucchini",
+    "vegetarian",
+    "pie"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Zucchini",
+      "qty": 700,
+      "unit": "g",
+      "product": "zucchini"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 100,
+      "unit": "g",
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 250,
+      "unit": "g",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 200,
+      "unit": "ml",
+      "product": "sour-cream"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Heat a frying pan with 3 tbsp olive oil. Add the zucchini slices (2-3 mm thick), season with salt and oregano and fry for 3-5 minutes until golden. Spread in an even layer in a baking dish."
+    },
+    {
+      "text": "Add the remaining oil to the pan and fry the halved tomatoes with the crushed garlic for 2 minutes to evaporate the liquid. Scatter over the zucchini."
+    },
+    {
+      "text": "Mix the eggs, cottage cheese and sour cream in a bowl, season with salt and pour over the zucchini and tomatoes."
+    },
+    {
+      "text": "Bake for about 35 minutes until golden."
+    }
+  ]
+}

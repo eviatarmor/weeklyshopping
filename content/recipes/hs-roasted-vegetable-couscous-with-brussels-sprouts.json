@@ -1,0 +1,128 @@
+{
+  "slug": "hs-roasted-vegetable-couscous-with-brussels-sprouts",
+  "kind": "meal",
+  "title": "Roasted Vegetable Couscous with Brussels Sprouts",
+  "subtitle": "with harissa and ras el hanout",
+  "description": "Pumpkin, sweet potato, carrot, fennel, onion, zucchini and Brussels sprouts roasted in a harissa and tomato paste dressing, served over couscous with tahini or yoghurt.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%93%d7%a8%d7%aa-%d7%a7%d7%95%d7%a1%d7%a7%d7%95%d7%a1-%d7%a2%d7%9d-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%95%d7%a0%d7%91%d7%98%d7%95%d7%98%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/7313-1140x641-1576405114.jpg",
+  "servings": 4,
+  "prepMinutes": 55,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "couscous",
+    "roasted",
+    "vegan",
+    "moroccan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "qty": 350,
+      "unit": "g",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Fennel",
+      "qty": 2,
+      "product": "fennel"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 2,
+      "product": "red-onion"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini"
+    },
+    {
+      "name": "Brussels Sprouts",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "brussels-sprouts"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Harissa",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "harissa-paste"
+    },
+    {
+      "name": "Ras El Hanout",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "ras-el-hanout"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Instant Couscous",
+      "qty": 350,
+      "unit": "g",
+      "product": "couscous"
+    },
+    {
+      "name": "Tahini",
+      "product": "tahini",
+      "optional": true
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Mix all the vegetables with the olive oil, tomato paste, harissa, ras el hanout, salt and pepper in a bowl and spread in a baking dish or a tray lined with baking paper. Cover with foil."
+    },
+    {
+      "text": "Bake for about 30 minutes until the vegetables are tender to your liking. If you like, remove the foil and bake for another 10 minutes to brown."
+    },
+    {
+      "text": "Pour boiling water over the couscous according to the packet instructions, cover and leave to stand. Uncover and fluff the grains with a fork."
+    },
+    {
+      "text": "Serve the couscous with the hot or room temperature vegetables, with tahini and/or yoghurt if you like."
+    }
+  ]
+}

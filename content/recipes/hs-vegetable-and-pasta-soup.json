@@ -1,0 +1,103 @@
+{
+  "slug": "hs-vegetable-and-pasta-soup",
+  "kind": "meal",
+  "title": "Vegetable and Pasta Soup",
+  "description": "A rich, filling soup of root vegetables, zucchini and tomatoes, finished by cooking the pasta in the soup so it thickens the broth. Garnish with parsley.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a8%d7%a7-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%95%d7%a4%d7%a1%d7%98%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-268-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "soup",
+    "pasta",
+    "vegan",
+    "vegetable"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Parsley Root",
+      "qty": 1
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 3,
+      "product": "tomato"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 2,
+      "unit": "l",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Small Pasta",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a pot over low heat. Add the finely chopped onion, coarsely grated carrots, diced parsley root and diced tomatoes and saute for about 10 minutes, stirring."
+    },
+    {
+      "text": "Add the diced potatoes, sweet potato and zucchini along with the stock (or water) and bring to the boil. Reduce the heat, cover and cook for about 20 minutes."
+    },
+    {
+      "text": "Cook the pasta in another pot of boiling water for half the time on the packet. Drain well and add to the soup. Cover and cook for about 2 more minutes. Season with salt and pepper."
+    },
+    {
+      "text": "Garnish with chopped parsley and serve."
+    }
+  ]
+}

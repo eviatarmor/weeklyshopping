@@ -1,0 +1,85 @@
+{
+  "slug": "hs-israeli-couscous-and-vegetable-patties",
+  "kind": "meal",
+  "title": "Israeli Couscous and Vegetable Patties",
+  "description": "Kid-friendly patties packed with grated onion, carrot and zucchini and cooked Israeli couscous, pan-fried or baked.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%a4%d7%aa%d7%99%d7%aa%d7%99%d7%9d-%d7%a2%d7%9d-%d7%99%d7%a8%d7%a7%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/830x510-1-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "israeli",
+    "vegetarian",
+    "kids"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Israeli Couscous",
+      "qty": 1,
+      "unit": "cup",
+      "product": "couscous"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Eggs",
+      "qty": 4,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grate the onion, carrot and zucchini with a grater or food processor. Squeeze out the excess liquid with both hands and transfer to a bowl."
+    },
+    {
+      "text": "Add the cooked Israeli couscous (cooked according to the packet instructions), eggs, breadcrumbs, salt and pepper and mix."
+    },
+    {
+      "text": "Heat a non-stick frying pan with 2 tbsp oil. Shape patties with wet hands or spoon the mixture into the pan and fry for about 2 minutes on each side. Drain on paper towel and serve hot or at room temperature."
+    },
+    {
+      "text": "To bake instead, preheat the oven to 180°C and place the patties on a tray lined with baking paper. Spray with oil and bake for 15-20 minutes until golden."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "hs-red-lentil-and-carrot-burgers",
+  "kind": "meal",
+  "title": "Red Lentil and Carrot Burgers",
+  "description": "Vegetarian burgers made from red lentils, grated carrot, egg and breadcrumbs with a touch of sweet chilli sauce. Serve with guacamole.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%94%d7%9e%d7%91%d7%95%d7%a8%d7%92%d7%a8-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%9b%d7%aa%d7%95%d7%9e%d7%95%d7%aa-%d7%95%d7%92%d7%96%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-196-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "burger",
+    "lentils",
+    "vegetarian",
+    "fried"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "qty": 1,
+      "unit": "cup",
+      "product": "red-lentils"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sweet-chilli-sauce"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Canola Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Guacamole",
+      "product": "guacamole",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the lentils in water for about 10 minutes until soft but still holding their shape. Drain in a sieve and cool well."
+    },
+    {
+      "text": "Transfer the lentils to a bowl, add the grated carrot, sweet chilli sauce, eggs, breadcrumbs, salt and pepper and mix."
+    },
+    {
+      "text": "Heat a frying pan with a little oil, shape a small test patty and fry for about 1 minute on each side. Taste and adjust the seasoning. Cover the mixture with cling film and refrigerate for at least 1 hour to firm up."
+    },
+    {
+      "text": "Take the mixture out of the fridge about 15 minutes before cooking. Shape into 4 large flat burgers or 12 small ones."
+    },
+    {
+      "text": "Heat a large non-stick frying pan over medium heat, add oil to a depth of 0.5 cm and fry for 2-3 minutes on each side until golden."
+    },
+    {
+      "text": "For large burgers, cover the pan, reduce the heat and steam for about 5 minutes. Serve with guacamole."
+    }
+  ]
+}

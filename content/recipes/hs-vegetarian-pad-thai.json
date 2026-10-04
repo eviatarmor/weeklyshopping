@@ -1,0 +1,137 @@
+{
+  "slug": "hs-vegetarian-pad-thai",
+  "kind": "meal",
+  "title": "Vegetarian Pad Thai",
+  "description": "Wide rice noodles stir-fried in a wok with fried tofu, scrambled egg, bean sprouts, spring onion and roasted peanuts in a sweet and sour soy sauce. Cook it over high heat in batches and have everything ready by the stove.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%90%d7%93-%d7%aa%d7%90%d7%99-%d7%a6%d7%9e%d7%97%d7%95%d7%a0%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-87-1140x641.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "hashulchan",
+    "noodles",
+    "thai",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wide Rice Noodles",
+      "qty": 125,
+      "unit": "g",
+      "product": "rice-noodles"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 300,
+      "unit": "g",
+      "product": "tofu"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Roasted Peanuts",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "peanuts"
+    },
+    {
+      "name": "Bean Sprouts",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bean-sprouts"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 3,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 2,
+      "unit": "slice",
+      "product": "lemon",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place the rice noodles in a bowl, cover with boiling water and leave for 15 minutes to soften."
+    },
+    {
+      "text": "Heat oil for deep frying in a wok over medium heat and fry the tofu sticks (1 cm thick, patted dry) until lightly golden, in two batches, separating the sticks as they tend to stick together. Transfer to a plate and wipe out the wok."
+    },
+    {
+      "text": "Mix the sauce ingredients (soy sauce, water, lemon juice, brown sugar, salt and chilli powder) in a small bowl."
+    },
+    {
+      "text": "Heat 1 tbsp oil in a hot wok. Add the sliced garlic and beaten eggs and cook until crumbly. Transfer to a small dish."
+    },
+    {
+      "text": "Add the remaining 2 tbsp oil to the wok and heat for about 30 seconds."
+    },
+    {
+      "text": "Drain the noodles and stir-fry for about 30 seconds until they separate. Add the soy mixture and half the peanuts and stir-fry for another minute. Add the sprouts, spring onions (sliced diagonally), scrambled egg and fried tofu and stir-fry for 1.5 minutes."
+    },
+    {
+      "text": "Transfer to plates, scatter with the remaining peanuts and serve immediately with lemon wedges."
+    }
+  ]
+}
