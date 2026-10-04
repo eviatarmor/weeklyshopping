@@ -21,7 +21,7 @@ resource "cloudflare_zero_trust_access_application" "app" {
   domain                     = local.hostname
   session_duration           = var.session_duration
   allowed_idps               = [cloudflare_zero_trust_access_identity_provider.google.id]
-  auto_redirect_to_identity  = true
+  auto_redirect_to_identity  = false
   app_launcher_visible       = false
   http_only_cookie_attribute = true
   same_site_cookie_attribute = "lax"

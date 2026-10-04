@@ -33,7 +33,7 @@ export function Recommended() {
       <h2 className="flex items-center gap-1.5 px-4 pb-2 text-sm font-semibold">
         <Sparkles className="size-4 text-primary" /> Recommended for you
       </h2>
-      <div className="no-scrollbar flex snap-x gap-3 overflow-x-auto px-4 pb-1">
+      <div className="no-scrollbar flex snap-x gap-3 overflow-x-auto px-4 pb-1 md:grid md:grid-cols-4 md:overflow-visible md:px-6 lg:grid-cols-6 [&>a]:md:w-auto">
         {items.map((r) => (
           <Link
             key={r.slug}

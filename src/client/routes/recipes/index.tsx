@@ -35,7 +35,8 @@ const SORTS = [
 ] as const;
 
 /** Tags that describe where a recipe came from rather than what it is. */
-const NON_FILTER_TAGS = new Set(["hellofresh", "everyplate", "mealime", "reddit", "blend", "vegetarian"]);
+// Source names, plus tags that duplicate the sort chips ("Quick").
+const NON_FILTER_TAGS = new Set(["hellofresh", "everyplate", "mealime", "dinnerly", "reddit", "blend", "vegetarian", "quick"]);
 const PAGE_SIZE = 40;
 
 function sortRecipes(list: RecipeSummary[], sort: Sort) {
@@ -131,7 +132,7 @@ function RecipesPage() {
           </label>
         </div>
         {sources.length > 1 && (
-          <div className="no-scrollbar flex gap-2 overflow-x-auto px-4 pb-2">
+          <div className="no-scrollbar flex gap-2 overflow-x-auto px-4 pb-2 md:flex-wrap md:overflow-visible md:px-6">
             <Chip active={!source} onClick={() => setFilters({ source: null })}>
               All sources
             </Chip>
@@ -143,7 +144,7 @@ function RecipesPage() {
           </div>
         )}
         {kind === "meal" && (
-          <div className="no-scrollbar flex gap-2 overflow-x-auto px-4 pb-3">
+          <div className="no-scrollbar flex gap-2 overflow-x-auto px-4 pb-3 md:flex-wrap md:overflow-visible md:px-6">
             {SORTS.map((s) => (
               <Chip key={s.value} active={sort === s.value} onClick={() => void navigate({ search: (p) => ({ ...p, sort: s.value }) })}>
                 {s.label}

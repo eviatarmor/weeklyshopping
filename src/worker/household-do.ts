@@ -60,6 +60,7 @@ export class HouseholdDO extends DurableObject<Env> {
         user: identity?.user ?? null,
         household: identity?.household ?? { id: "", name: "", members: [] },
         store: this.store,
+        accessTeamDomain: String(this.env.ACCESS_TEAM_DOMAIN ?? ""),
       }),
       onError: ({ error, path }) => {
         if (error.code === "INTERNAL_SERVER_ERROR") console.error(`tRPC ${path}:`, error);

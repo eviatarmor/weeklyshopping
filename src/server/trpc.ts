@@ -14,6 +14,8 @@ export type Context = {
   household: { id: string; name: string; members: User[] };
   /** Recipes and catalog for this deploy, held in memory. */
   store: ContentStore;
+  /** e.g. team.cloudflareaccess.com; empty in local dev. */
+  accessTeamDomain: string;
 };
 
 const t = initTRPC.context<Context>().create({

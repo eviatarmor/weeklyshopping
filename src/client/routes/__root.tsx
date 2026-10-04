@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 import { createRootRoute, Link, Outlet, useRouterState } from "@tanstack/react-router";
 import { BookOpen, Settings, ShoppingCart } from "lucide-react";
 import { Toaster } from "sonner";
@@ -23,34 +23,42 @@ function RootLayout() {
   // Recipe detail pages are full-screen with their own back button.
   const hideTabs = /^\/recipes\/.+/.test(pathname);
 
+  // The page scrolls inside <main>, so the router's own scroll handling doesn't reach it.
+  const mainRef = useRef<HTMLElement>(null);
+  useEffect(() => {
+    mainRef.current?.scrollTo({ top: 0 });
+  }, [pathname]);
+
   return (
-    <div className="mx-auto flex h-full max-w-md flex-col bg-background md:max-w-none md:flex-row">
-      {/* Desktop: sidebar navigation instead of the bottom tab bar. */}
-      <aside className="hidden w-60 shrink-0 flex-col border-r bg-card/50 px-3 py-5 md:flex">
-        <Link to="/" className="mb-6 flex items-center gap-2.5 px-3">
-          <img src="/icon.svg" alt="" className="size-8 rounded-lg" />
-          <span className="text-lg font-bold tracking-tight">Weekly Shopping</span>
-        </Link>
-        <nav className="flex flex-col gap-1">
-          {TABS.map(({ to, label, icon: Icon }) => {
-            const active = to === "/" ? pathname === "/" : pathname.startsWith(to);
-            return (
-              <Link
-                key={to}
-                to={to}
-                className={cn(
-                  "flex h-10 items-center gap-3 rounded-lg px-3 text-sm font-medium transition-colors",
-                  active ? "bg-accent text-accent-foreground" : "text-muted-foreground hover:bg-accent/60 hover:text-foreground",
-                )}
-              >
-                <Icon className="size-5" strokeWidth={active ? 2.4 : 1.8} />
-                {label}
-              </Link>
-            );
-          })}
-        </nav>
-      </aside>
-      <main className={cn("flex-1 overflow-y-auto", !hideTabs && "pb-20 md:pb-0")}>
+    <div className="mx-auto flex h-full max-w-md flex-col bg-background md:max-w-none">
+      {/* Desktop: top navbar instead of the bottom tab bar. */}
+      <header className="hidden shrink-0 border-b bg-background/90 backdrop-blur-lg md:block">
+        <div className="mx-auto flex h-14 max-w-7xl items-center gap-8 px-6">
+          <Link to="/" className="flex items-center gap-2.5">
+            <img src="/icon.svg" alt="" className="size-8 rounded-lg" />
+            <span className="text-lg font-bold tracking-tight">Weekly Shopping</span>
+          </Link>
+          <nav className="flex items-center gap-1">
+            {TABS.map(({ to, label, icon: Icon }) => {
+              const active = to === "/" ? pathname === "/" : pathname.startsWith(to);
+              return (
+                <Link
+                  key={to}
+                  to={to}
+                  className={cn(
+                    "flex h-9 items-center gap-2 rounded-lg px-3 text-sm font-medium transition-colors",
+                    active ? "bg-accent text-accent-foreground" : "text-muted-foreground hover:bg-accent/60 hover:text-foreground",
+                  )}
+                >
+                  <Icon className="size-4" strokeWidth={active ? 2.4 : 1.8} />
+                  {label}
+                </Link>
+              );
+            })}
+          </nav>
+        </div>
+      </header>
+      <main ref={mainRef} className={cn("flex-1 overflow-y-auto", !hideTabs && "pb-20 md:pb-0")}>
         <Outlet />
       </main>
       {!hideTabs && (

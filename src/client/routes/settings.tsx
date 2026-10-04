@@ -12,6 +12,20 @@ import { cn } from "@/client/lib/utils";
 
 export const Route = createFileRoute("/settings")({ component: SettingsPage });
 
+/**
+ * End the Cloudflare Access session: clear this app's cookie, then log out of the
+ * Access team domain too, which lands on Cloudflare's page. Coming back asks you
+ * to sign in again.
+ */
+async function signOut(teamDomain: string | undefined) {
+  try {
+    await fetch("/cdn-cgi/access/logout", { credentials: "same-origin", redirect: "manual" });
+  } catch {
+    // The cookie is cleared even if the response can't be read.
+  }
+  window.location.href = teamDomain ? `https://${teamDomain}/cdn-cgi/access/logout` : "/cdn-cgi/access/logout";
+}
+
 function SettingsPage() {
   const trpc = useTRPC();
   const qc = useQueryClient();
@@ -115,10 +129,8 @@ function SettingsPage() {
         </section>
 
         {!import.meta.env.DEV && (
-          <Button variant="outline" className="w-full" asChild>
-            <a href="/cdn-cgi/access/logout">
-              <LogOut /> Sign out
-            </a>
+          <Button variant="outline" className="w-full" onClick={() => void signOut(me.data?.accessTeamDomain)}>
+            <LogOut /> Sign out
           </Button>
         )}
       </div>

@@ -4,7 +4,7 @@ import { listRouter } from "./routers/list";
 import { recipesRouter } from "./routers/recipes";
 
 export const appRouter = router({
-  me: protectedProcedure.query(({ ctx }) => ({ user: ctx.user, household: ctx.household })),
+  me: protectedProcedure.query(({ ctx }) => ({ user: ctx.user, household: ctx.household, accessTeamDomain: ctx.accessTeamDomain })),
   list: listRouter,
   catalog: catalogRouter,
   recipes: recipesRouter,
