@@ -15,6 +15,8 @@ import { Energy } from "@/client/features/recipes/energy";
 import { MeasureToggle, Quantity } from "@/client/features/recipes/quantity";
 import { useMeasureSystem } from "@/client/lib/preferences";
 import { emojiFor, sizedImage } from "@/client/lib/images";
+import { useCatalog } from "@/client/features/list/use-list";
+import { useRecipeDetail } from "@/client/lib/static-data";
 import { useTRPC } from "@/client/lib/trpc";
 import { timeAgo } from "@/client/lib/utils";
 
@@ -25,14 +27,21 @@ function RecipePage() {
   const trpc = useTRPC();
   const qc = useQueryClient();
   const router = useRouter();
-  const { data, isPending, error } = useQuery(trpc.recipes.get.queryOptions({ slug }));
+  // Recipe content is a static file; only ratings and cooked history come from the API.
+  const detail = useRecipeDetail(slug);
+  const activity = useQuery(trpc.recipes.activity.queryOptions({ slug }, { refetchOnWindowFocus: false }));
+  const { historyByName } = useCatalog();
+  const usuallyHave = useMemo(() => [...historyByName.values()].filter((h) => h.usuallyHave).map((h) => h.normalizedName), [historyByName]);
+  const data = detail.data
+    ? { ...detail.data, ratings: activity.data?.ratings ?? [], cooked: activity.data?.cooked ?? [], usuallyHave }
+    : undefined;
+  const { isPending, error } = detail;
   const [servingsOverride, setServings] = useState<number | null>(null);
   const [adding, setAdding] = useState(false);
   const [system, setSystem] = useMeasureSystem();
 
   const invalidate = () => {
-    void qc.invalidateQueries({ queryKey: trpc.recipes.get.queryKey({ slug }) });
-    // Ratings change the lists and the recommendations.
+    // Ratings change this page, the list stats and the recommendations.
     void qc.invalidateQueries(trpc.recipes.pathFilter());
   };
   const rate = useMutation(trpc.recipes.rate.mutationOptions({ onSuccess: invalidate, onError: (e) => toast.error(e.message) }));

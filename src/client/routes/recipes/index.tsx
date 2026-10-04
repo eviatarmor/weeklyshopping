@@ -1,11 +1,10 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useQuery } from "@tanstack/react-query";
 import { Clock, Search } from "lucide-react";
 import { z } from "zod";
 import { PageHeader } from "@/client/components/page-header";
 import { Chip, Segmented, Skeleton, Stars, Thumb } from "@/client/components/ui/misc";
-import { useTRPC, type RouterOutputs } from "@/client/lib/trpc";
+import { useRecipeCards, type RecipeCard } from "@/client/features/recipes/use-recipes";
 import { sizedImage } from "@/client/lib/images";
 import { Energy } from "@/client/features/recipes/energy";
 import { Recommended } from "@/client/features/recipes/recommended";
@@ -26,7 +25,7 @@ export const Route = createFileRoute("/recipes/")({
   component: RecipesPage,
 });
 
-type RecipeSummary = RouterOutputs["recipes"]["list"][number];
+type RecipeSummary = RecipeCard;
 
 const SORTS = [
   { value: "top", label: "Top rated" },
@@ -54,7 +53,6 @@ function sortRecipes(list: RecipeSummary[], sort: Sort) {
 }
 
 function RecipesPage() {
-  const trpc = useTRPC();
   const search = Route.useSearch();
   const kind = search.kind ?? "meal";
   const sort = search.sort ?? "top";
@@ -64,7 +62,8 @@ function RecipesPage() {
   const setFilters = (patch: Partial<Filters>) => setFiltersByKind((all) => ({ ...all, [kind]: { ...all[kind], ...patch } }));
   const [shown, setShown] = useState(PAGE_SIZE);
   const sentinel = useRef<HTMLDivElement>(null);
-  const { data, isPending } = useQuery(trpc.recipes.list.queryOptions({ kind }));
+  const { cards, isPending, error } = useRecipeCards();
+  const data = useMemo(() => cards.filter((r) => r.kind === kind), [cards, kind]);
 
   const sources = useMemo(() => {
     const counts = new Map<string, { label: string; count: number }>();
@@ -192,7 +191,8 @@ function RecipesPage() {
             </div>
           </Link>
         ))}
-        {!isPending && visible.length === 0 && <p className="col-span-2 pt-12 text-center text-sm text-muted-foreground">No recipes match.</p>}
+        {error && <p className="col-span-2 pt-12 text-center text-sm text-destructive">Couldn't load recipes. Check your connection and pull to refresh.</p>}
+        {!isPending && !error && visible.length === 0 && <p className="col-span-2 pt-12 text-center text-sm text-muted-foreground">No recipes match.</p>}
         {shown < visible.length && <div ref={sentinel} className="col-span-2 h-10" />}
       </div>
     </>

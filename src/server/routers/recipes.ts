@@ -1,30 +1,16 @@
 import { and, desc, eq } from "drizzle-orm";
 import { TRPCError } from "@trpc/server";
 import { z } from "zod";
-import type { BlendRecipe, IngredientRow } from "@/shared/expand";
-import { recipeSource } from "@/shared/sources";
-import { protectedProcedure, router, type Context } from "../trpc";
-import { itemHistory, recipeCooked, recipeRatings } from "../db/schema";
-import type { ContentStore, StoreRecipe } from "../content-store";
+import { protectedProcedure, router } from "../trpc";
+import { recipeCooked, recipeRatings } from "../db/schema";
 import { addItems, setUsuallyHave } from "../list-service";
 import { recommend } from "../recommend";
 
-type DB = Context["db"];
-
-/** All blends reachable from `rows`, keyed by slug. */
-function collectBlends(store: ContentStore, rows: IngredientRow[]): Record<string, BlendRecipe> {
-  const blends: Record<string, BlendRecipe> = {};
-  const pending = [...rows];
-  while (pending.length) {
-    const slug = pending.pop()!.blendSlug;
-    if (!slug || blends[slug]) continue;
-    const b = store.bySlug.get(slug);
-    if (!b) continue;
-    blends[slug] = { slug: b.slug, title: b.title, servings: b.servings, yieldUnit: b.yieldUnit, ingredients: b.ingredients };
-    pending.push(...b.ingredients);
-  }
-  return blends;
-}
+/**
+ * Recipe content itself is served as static files (/data/...), so these
+ * procedures only deal with per-household data: ratings, cooked history and
+ * recommendations.
+ */
 
 /** Read user data, but never let a storage error hide the recipes themselves. */
 function safeRead<T>(read: () => T[]): T[] {
@@ -36,88 +22,51 @@ function safeRead<T>(read: () => T[]): T[] {
   }
 }
 
-/** Card data for recipe lists: ratings and cooked history grouped per recipe. */
-function summaries(db: DB, userEmail: string, list: StoreRecipe[]) {
-  const ratingsBySlug = new Map<string, (typeof recipeRatings.$inferSelect)[]>();
-  for (const r of safeRead(() => db.select().from(recipeRatings).all())) ratingsBySlug.set(r.recipeSlug, [...(ratingsBySlug.get(r.recipeSlug) ?? []), r]);
-  const cookedBySlug = new Map<string, number[]>();
-  for (const c of safeRead(() => db.select().from(recipeCooked).all())) cookedBySlug.set(c.recipeSlug, [...(cookedBySlug.get(c.recipeSlug) ?? []), c.cookedAt]);
-  return list.map((r) => {
-    const ratings = ratingsBySlug.get(r.slug) ?? [];
-    const cookedTimes = cookedBySlug.get(r.slug) ?? [];
-    return {
-      slug: r.slug,
-      title: r.title,
-      subtitle: r.subtitle,
-      imageUrl: r.imageUrl,
-      source: recipeSource(r.sourceUrl),
-      prepMinutes: r.prepMinutes,
-      kcal: r.kcal,
-      tags: r.tags,
-      addedAt: r.addedAt,
-      avgStars: ratings.length ? ratings.reduce((s, x) => s + x.stars, 0) / ratings.length : null,
-      ratingCount: ratings.length,
-      myStars: ratings.find((x) => x.userEmail === userEmail)?.stars ?? null,
-      timesCooked: cookedTimes.length,
-      lastCookedAt: cookedTimes.length ? Math.max(...cookedTimes) : null,
-    };
-  });
-}
+export type RecipeStats = { avgStars: number | null; ratingCount: number; myStars: number | null; timesCooked: number; lastCookedAt: number | null };
 
 export const recipesRouter = router({
-  list: protectedProcedure.input(z.object({ kind: z.enum(["meal", "blend"]).default("meal") }).optional()).query(({ ctx, input }) => {
-    const kind = input?.kind ?? "meal";
-    return summaries(ctx.db, ctx.user.email, ctx.store.recipes.filter((r) => r.kind === kind));
+  /** Ratings and cooked counts for every recipe that has any, keyed by slug. */
+  stats: protectedProcedure.query(({ ctx }) => {
+    const stats: Record<string, RecipeStats> = {};
+    const entry = (slug: string) => (stats[slug] ??= { avgStars: null, ratingCount: 0, myStars: null, timesCooked: 0, lastCookedAt: null });
+    const sums: Record<string, number> = {};
+    for (const r of safeRead(() => ctx.db.select().from(recipeRatings).all())) {
+      const s = entry(r.recipeSlug);
+      s.ratingCount++;
+      sums[r.recipeSlug] = (sums[r.recipeSlug] ?? 0) + r.stars;
+      s.avgStars = sums[r.recipeSlug]! / s.ratingCount;
+      if (r.userEmail === ctx.user.email) s.myStars = r.stars;
+    }
+    for (const c of safeRead(() => ctx.db.select().from(recipeCooked).all())) {
+      const s = entry(c.recipeSlug);
+      s.timesCooked++;
+      s.lastCookedAt = Math.max(s.lastCookedAt ?? 0, c.cookedAt);
+    }
+    return stats;
+  }),
+
+  /** Ratings (with names) and recent cooks for one recipe. */
+  activity: protectedProcedure.input(z.object({ slug: z.string() })).query(({ ctx, input }) => {
+    const members = new Map(ctx.household.members.map((m) => [m.email, m.name]));
+    const ratings = safeRead(() => ctx.db.select().from(recipeRatings).where(eq(recipeRatings.recipeSlug, input.slug)).all()).map((r) => ({
+      ...r,
+      name: members.get(r.userEmail) ?? r.userEmail,
+      mine: r.userEmail === ctx.user.email,
+    }));
+    const cooked = safeRead(() =>
+      ctx.db.select().from(recipeCooked).where(eq(recipeCooked.recipeSlug, input.slug)).orderBy(desc(recipeCooked.cookedAt)).limit(10).all(),
+    );
+    return { ratings, cooked };
   }),
 
   /** Meals similar to what this user rated highly (and unlike what they rated low). */
   recommended: protectedProcedure.input(z.object({ limit: z.number().int().min(1).max(30).default(12) }).optional()).query(({ ctx, input }) => {
-    const result = recommend(ctx.db, ctx.store, ctx.user.email, input?.limit ?? 12);
-    const picked = result.items.map((i) => ctx.store.bySlug.get(i.slug)).filter((r): r is StoreRecipe => !!r);
-    const bySlug = new Map(summaries(ctx.db, ctx.user.email, picked).map((s) => [s.slug, s]));
-    return {
-      basedOn: result.basedOn,
-      items: result.items.flatMap((i) => {
-        const summary = bySlug.get(i.slug);
-        return summary ? [{ ...summary, because: i.because }] : [];
-      }),
-    };
-  }),
-
-  get: protectedProcedure.input(z.object({ slug: z.string() })).query(({ ctx, input }) => {
-    const found = ctx.store.bySlug.get(input.slug);
-    if (!found) throw new TRPCError({ code: "NOT_FOUND" });
-    const { ingredients, ...recipe } = found;
-    const blends = collectBlends(ctx.store, ingredients);
-
-    const allRows = [ingredients, ...Object.values(blends).map((b) => b.ingredients)].flat();
-    const productImages = Object.fromEntries(
-      [...new Set(allRows.map((r) => r.productSlug).filter((s): s is string => !!s))].map((slug) => [slug, ctx.store.productBySlug.get(slug)?.imageUrl ?? null]),
-    );
-    const usuallyHave = ctx.db
-      .select({ normalizedName: itemHistory.normalizedName })
-      .from(itemHistory)
-      .where(eq(itemHistory.usuallyHave, true))
-      .all()
-      .map((h) => h.normalizedName);
-
-    const members = new Map(ctx.household.members.map((m) => [m.email, m.name]));
-    const ratings = ctx.db
-      .select()
-      .from(recipeRatings)
-      .where(eq(recipeRatings.recipeSlug, recipe.slug))
-      .all()
-      .map((r) => ({ ...r, name: members.get(r.userEmail) ?? r.userEmail, mine: r.userEmail === ctx.user.email }));
-    const cooked = ctx.db
-      .select()
-      .from(recipeCooked)
-      .where(eq(recipeCooked.recipeSlug, recipe.slug))
-      .orderBy(desc(recipeCooked.cookedAt))
-      .limit(10)
-      .all();
-    const usedIn = recipe.kind === "blend" ? (ctx.store.usedBy.get(recipe.slug) ?? []).map((r) => ({ slug: r.slug, title: r.title })) : [];
-
-    return { recipe, ingredients, blends, productImages, usuallyHave, ratings, cooked, usedIn };
+    try {
+      return recommend(ctx.db, ctx.store, ctx.user.email, input?.limit ?? 12);
+    } catch (error) {
+      console.error("recommendations failed", error);
+      return { basedOn: 0, items: [] };
+    }
   }),
 
   rate: protectedProcedure

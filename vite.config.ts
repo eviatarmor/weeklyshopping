@@ -55,8 +55,18 @@ export default defineConfig({
       workbox: {
         navigateFallback: "/index.html",
         // API traffic must always hit the network (and Access).
-        navigateFallbackDenylist: [/^\/trpc/, /^\/cdn-cgi/],
+        navigateFallbackDenylist: [/^\/trpc/, /^\/cdn-cgi/, /^\/data\//],
         runtimeCaching: [
+          {
+            // Static recipe data (/data/*.json): show the cached copy instantly, refresh in the background.
+            urlPattern: ({ url }) => url.origin === self.location.origin && url.pathname.startsWith("/data/"),
+            handler: "StaleWhileRevalidate",
+            options: {
+              cacheName: "recipe-data",
+              expiration: { maxEntries: 4000, maxAgeSeconds: 60 * 60 * 24 * 60 },
+              cacheableResponse: { statuses: [200] },
+            },
+          },
           {
             urlPattern: ({ request, url }) => request.destination === "image" && url.origin !== self.location.origin,
             handler: "CacheFirst",

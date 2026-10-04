@@ -48,7 +48,7 @@ pnpm recipe:bulk everyplate                                              # whole
 pnpm content:check
 ```
 
-`--vegetarian` (always on for bulk imports) rejects any recipe whose ingredients include meat or seafood. The importer prints ingredients it couldn't match to the catalog and seasoning blends that don't have a recipe yet. Add products to `scripts/catalog-seed.ts` (then `pnpm catalog:build`), or add blends to `content/blends/`. Commit, then deploy. Recipes and the catalog ship inside the Worker and are served from memory, so deploying new content writes nothing to the database; ratings, history and the list are kept.
+`--vegetarian` (always on for bulk imports) rejects any recipe whose ingredients include meat or seafood. The importer prints ingredients it couldn't match to the catalog and seasoning blends that don't have a recipe yet. Add products to `scripts/catalog-seed.ts` (then `pnpm catalog:build`), or add blends to `content/blends/`. Commit, then deploy. The build turns content into static files under `/data/` (free, cached on the phone) and the Durable Object keeps a copy in memory for recommendations, so new content writes nothing to the database; ratings, history and the list are kept.
 
 ## Layout
 
@@ -62,3 +62,14 @@ config/       household members (who can sign in), Access settings
 scripts/      recipe importer, catalog builder, content checks, icons
 infra/        Terraform for Cloudflare Access + Google
 ```
+
+## Staying inside the free tier
+
+The Durable Object (and its SQLite database) has daily limits on the free plan: 100,000 requests and 100,000 rows written. The app is built to stay far below them:
+
+- **Recipes never touch the database.** They're generated at build time into static files (`/data/recipes.json`, `/data/r/<slug>.json`, `/data/catalog.json`). Static files on Workers are free and unlimited, and the service worker keeps them on the phone.
+- **Only household data is stored**: the list, item history, ratings, cooked log and section order. Normal use is a few hundred writes a day.
+- **Few API calls**: search and filtering run on the phone; the list and catalog update over the live stream instead of polling.
+- **Failures degrade gracefully**: if writes are ever blocked, recipes still load and saving shows a clear message.
+
+If you outgrow it, Workers Paid ($5/month) raises the limits to 50 million rows written per month.

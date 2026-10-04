@@ -26,7 +26,15 @@ const t = initTRPC.context<Context>().create({
 
 export const router = t.router;
 
-export const protectedProcedure = t.procedure.use(({ ctx, next }) => {
+export const WRITE_LIMIT_MESSAGE =
+  "Today's free database limit is used up, so changes can't be saved right now. Saving works again after midnight UTC (10–11am in Australia).";
+
+export const protectedProcedure = t.procedure.use(async ({ ctx, next }) => {
   if (!ctx.user) throw new TRPCError({ code: "UNAUTHORIZED" });
-  return next({ ctx: { ...ctx, user: ctx.user } });
+  const result = await next({ ctx: { ...ctx, user: ctx.user } });
+  // Turn Cloudflare's raw storage-limit error into something a person can act on.
+  if (!result.ok && /Exceeded allowed rows written/i.test(String(result.error.cause?.message ?? result.error.message))) {
+    throw new TRPCError({ code: "TOO_MANY_REQUESTS", message: WRITE_LIMIT_MESSAGE, cause: result.error });
+  }
+  return result;
 });

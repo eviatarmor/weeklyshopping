@@ -5,14 +5,21 @@ import { Thumb } from "@/client/components/ui/misc";
 import { sizedImage } from "@/client/lib/images";
 import { useTRPC } from "@/client/lib/trpc";
 import { Energy } from "./energy";
+import { useRecipeCards } from "./use-recipes";
 
 /** "Recommended for you": meals similar to the ones you rated highly. */
 export function Recommended() {
   const trpc = useTRPC();
-  const { data } = useQuery(trpc.recipes.recommended.queryOptions());
+  const { data } = useQuery(trpc.recipes.recommended.queryOptions(undefined, { staleTime: 5 * 60_000, refetchOnWindowFocus: false }));
+  const { bySlug } = useRecipeCards();
   if (!data) return null;
+  // The API returns slugs; card details come from the static recipe index.
+  const items = data.items.flatMap((i) => {
+    const card = bySlug.get(i.slug);
+    return card ? [{ ...card, because: i.because }] : [];
+  });
 
-  if (data.items.length === 0) {
+  if (items.length === 0) {
     return (
       <div className="mx-4 mb-3 flex items-center gap-3 rounded-xl border border-dashed bg-card p-3 text-sm text-muted-foreground">
         <Sparkles className="size-5 shrink-0 text-primary" />
@@ -27,7 +34,7 @@ export function Recommended() {
         <Sparkles className="size-4 text-primary" /> Recommended for you
       </h2>
       <div className="no-scrollbar flex snap-x gap-3 overflow-x-auto px-4 pb-1">
-        {data.items.map((r) => (
+        {items.map((r) => (
           <Link
             key={r.slug}
             to="/recipes/$slug"

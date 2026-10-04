@@ -13,3 +13,4 @@ infra/terraform/terraform.tfvars
 infra/terraform/.terraform.lock.hcl.bak
 .cache/
 .firecrawl/
+public/data/

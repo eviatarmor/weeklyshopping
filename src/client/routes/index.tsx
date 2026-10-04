@@ -1,6 +1,5 @@
 import { useMemo, useState } from "react";
 import { createFileRoute } from "@tanstack/react-router";
-import { useQuery } from "@tanstack/react-query";
 import { ChevronDown, ShoppingBasket } from "lucide-react";
 import { normalizeName } from "@/shared/normalize";
 import type { ListItem } from "@/shared/types";
@@ -11,16 +10,15 @@ import { AddItemBar } from "@/client/features/list/add-item-bar";
 import { EditItemDrawer } from "@/client/features/list/edit-item-drawer";
 import { ItemRow } from "@/client/features/list/item-row";
 import { useCatalog, useListActions, useListItems } from "@/client/features/list/use-list";
-import { useTRPC } from "@/client/lib/trpc";
+import { useRecipeIndex } from "@/client/lib/static-data";
 import { cn } from "@/client/lib/utils";
 
 export const Route = createFileRoute("/")({ component: ListPage });
 
 function ListPage() {
-  const trpc = useTRPC();
   const { data: items, isPending } = useListItems();
   const catalog = useCatalog();
-  const recipes = useQuery(trpc.recipes.list.queryOptions());
+  const recipes = useRecipeIndex();
   const actions = useListActions();
   const [editing, setEditing] = useState<ListItem | null>(null);
   const [showChecked, setShowChecked] = useState(true);

@@ -1,22 +1,14 @@
-import { catalogSchema, recipeSchema, type CatalogEntry, type RecipeContent } from "@/shared/content";
+import { catalogSchema, recipeSchema } from "@/shared/content";
+import { fnv1a } from "@/shared/hash";
+import type { Content } from "./content-types";
+
+export type { Content, HashedRecipe } from "./content-types";
 
 // Lazy so the (large) recipe JSON is only parsed inside the Durable Object, not on every Worker start.
 const recipeModules = import.meta.glob<unknown>(["../../content/recipes/*.json", "../../content/blends/*.json"], {
   import: "default",
 });
 
-export type HashedRecipe = RecipeContent & { hash: string };
-/** `version` changes whenever the catalog or any recipe changes; use it as a cache key. */
-export type Content = { catalog: CatalogEntry[]; catalogHash: string; recipes: HashedRecipe[]; version: string };
-
-export function fnv1a(input: string): string {
-  let hash = 0x811c9dc5;
-  for (let i = 0; i < input.length; i++) {
-    hash ^= input.charCodeAt(i);
-    hash = Math.imul(hash, 0x01000193);
-  }
-  return (hash >>> 0).toString(16);
-}
 
 /**
  * Content bundled into the Worker at build time. Called once per Durable Object

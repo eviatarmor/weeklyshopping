@@ -1,7 +1,9 @@
 import { buildProductIndex, type ClassifyProduct } from "@/shared/classify";
-import type { IngredientRow } from "@/shared/expand";
+import type { BlendRecipe, IngredientRow } from "@/shared/expand";
+import { recipeSource } from "@/shared/sources";
+import type { RecipeDetail, RecipeIndexEntry } from "@/shared/static-data";
 import { normalizeUnit } from "@/shared/units";
-import type { Content } from "./content";
+import type { Content } from "./content-types";
 
 export type StoreProduct = { slug: string; name: string; aliases: string[]; sectionId: string; imageUrl: string | null };
 
@@ -93,5 +95,44 @@ export function buildStore(content: Content): ContentStore {
     products,
     productBySlug: new Map(products.map((p) => [p.slug, p])),
     productIndex: buildProductIndex(products),
+  };
+}
+
+/** The recipe page's content (also written to /data/r/<slug>.json at build time). */
+export function recipeDetail(store: ContentStore, slug: string): RecipeDetail | null {
+  const found = store.bySlug.get(slug);
+  if (!found) return null;
+  const { ingredients, ...recipe } = found;
+  const blends: Record<string, BlendRecipe> = {};
+  const pending = [...ingredients];
+  while (pending.length) {
+    const blendSlug = pending.pop()!.blendSlug;
+    if (!blendSlug || blends[blendSlug]) continue;
+    const b = store.bySlug.get(blendSlug);
+    if (!b) continue;
+    blends[blendSlug] = { slug: b.slug, title: b.title, servings: b.servings, yieldUnit: b.yieldUnit, ingredients: b.ingredients };
+    pending.push(...b.ingredients);
+  }
+  const allRows = [ingredients, ...Object.values(blends).map((b) => b.ingredients)].flat();
+  const productImages = Object.fromEntries(
+    [...new Set(allRows.map((r) => r.productSlug).filter((s): s is string => !!s))].map((p) => [p, store.productBySlug.get(p)?.imageUrl ?? null]),
+  );
+  const usedIn = recipe.kind === "blend" ? (store.usedBy.get(recipe.slug) ?? []).map((r) => ({ slug: r.slug, title: r.title })) : [];
+  return { recipe, ingredients, blends, productImages, usedIn };
+}
+
+/** One card in the recipe list (written to /data/recipes.json at build time). */
+export function indexEntry(r: StoreRecipe): RecipeIndexEntry {
+  return {
+    slug: r.slug,
+    kind: r.kind,
+    title: r.title,
+    subtitle: r.subtitle,
+    imageUrl: r.imageUrl,
+    source: recipeSource(r.sourceUrl),
+    prepMinutes: r.prepMinutes,
+    kcal: r.kcal,
+    tags: r.tags,
+    addedAt: r.addedAt,
   };
 }

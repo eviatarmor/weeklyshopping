@@ -31,7 +31,9 @@ const authAwareFetch: typeof fetch = async (input, init) => {
 
 export const queryClient = new QueryClient({
   defaultOptions: {
-    queries: { staleTime: 30_000, retry: 1, refetchOnWindowFocus: true },
+    // The live stream refetches the list and catalog when it reconnects (e.g. app resumed),
+    // so focus refetches would only add requests.
+    queries: { staleTime: 30_000, retry: 1, refetchOnWindowFocus: false },
   },
 });
 

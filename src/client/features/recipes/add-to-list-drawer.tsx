@@ -10,10 +10,11 @@ import { Drawer, DrawerContent, DrawerDescription, DrawerFooter, DrawerHeader, D
 import { CheckIndicator, Segmented, Thumb } from "@/client/components/ui/misc";
 import { Quantity } from "@/client/features/recipes/quantity";
 import { emojiFor, sizedImage } from "@/client/lib/images";
-import { useTRPC, type RouterOutputs } from "@/client/lib/trpc";
+import type { RecipeDetail } from "@/shared/static-data";
+import { useTRPC } from "@/client/lib/trpc";
 import { cn, haptic } from "@/client/lib/utils";
 
-type RecipeData = RouterOutputs["recipes"]["get"];
+type RecipeData = RecipeDetail & { usuallyHave: string[] };
 
 export function AddToListDrawer({
   data,
@@ -66,7 +67,8 @@ export function AddToListDrawer({
     trpc.recipes.addToList.mutationOptions({
       onSuccess: ({ added, skipped }) => {
         void qc.invalidateQueries({ queryKey: trpc.list.get.queryKey() });
-        void qc.invalidateQueries({ queryKey: trpc.recipes.get.queryKey({ slug: data.recipe.slug }) });
+        // "Usually have" answers live in the household history.
+        void qc.invalidateQueries({ queryKey: trpc.catalog.get.queryKey() });
         onOpenChange(false);
         toast.success(`Added ${added} item${added === 1 ? "" : "s"}`, {
           description: skipped ? `Skipped ${skipped} you already have` : undefined,

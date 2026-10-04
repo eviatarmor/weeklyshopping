@@ -8,9 +8,12 @@ import { parseIngredient } from "@/shared/parse-ingredient";
 import { addQuantities, normalizeUnit } from "@/shared/units";
 import type { ListEvent, ListItem } from "@/shared/types";
 import { useTRPC, type RouterOutputs } from "@/client/lib/trpc";
+import { useStaticCatalog } from "@/client/lib/static-data";
+import type { CatalogProduct } from "@/shared/static-data";
 import { haptic } from "@/client/lib/utils";
 
-export type Catalog = RouterOutputs["catalog"]["get"];
+/** Household sections and history (API) plus the grocery products (static file). */
+export type Catalog = RouterOutputs["catalog"]["get"] & { products: CatalogProduct[] };
 
 function upsertItems(list: ListItem[] | undefined, items: ListItem[], replaceId?: string): ListItem[] {
   const next = (list ?? []).filter((i) => i.id !== replaceId);
@@ -57,17 +60,20 @@ export function useListSync() {
 
 export function useCatalog() {
   const trpc = useTRPC();
-  const query = useQuery(trpc.catalog.get.queryOptions(undefined, { staleTime: 5 * 60_000 }));
+  // Changes arrive over the live stream (sections/history events), so no polling.
+  const query = useQuery(trpc.catalog.get.queryOptions(undefined, { staleTime: Infinity }));
+  const staticCatalog = useStaticCatalog();
   const derived = useMemo(() => {
-    const data = query.data;
-    const products = data?.products ?? [];
+    const products = staticCatalog.data?.products ?? [];
+    const data: Catalog | undefined = query.data ? { ...query.data, products } : undefined;
     return {
-      sections: data?.sections ?? [],
+      data,
+      sections: query.data?.sections ?? [],
       productIndex: buildProductIndex(products),
       productBySlug: new Map(products.map((p) => [p.slug, p])),
-      historyByName: new Map((data?.history ?? []).map((h) => [h.normalizedName, h])),
+      historyByName: new Map((query.data?.history ?? []).map((h) => [h.normalizedName, h])),
     };
-  }, [query.data]);
+  }, [query.data, staticCatalog.data]);
   return { ...query, ...derived };
 }
 
