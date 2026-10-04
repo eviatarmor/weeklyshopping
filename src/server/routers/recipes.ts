@@ -9,7 +9,7 @@ import { protectedProcedure, router, type Context } from "../trpc";
 import { recipeCooked, recipeProgress, recipeRatings } from "../db/schema";
 import { addItems, setUsuallyHave } from "../list-service";
 import { recommend } from "../recommend";
-import { indexEntry, recipeDetail, type StoreRecipe } from "../content-store";
+import { indexEntry, recipeDetail, type ContentStore, type StoreRecipe } from "../content-store";
 
 type DB = Context["db"];
 
@@ -63,9 +63,9 @@ const toCard = (r: StoreRecipe, stats: Map<string, RecipeStats>): RecipeCard => 
 /** Tags that say where a recipe came from (or repeat a sort option) rather than what it is. */
 const NON_FILTER_TAGS = new Set(["hellofresh", "everyplate", "mealime", "dinnerly", "reddit", "blend", "sauce", "vegetarian", "quick"]);
 
-const SORTS = ["top", "new", "untried", "quick"] as const;
+const SORTS = ["top", "foryou", "new", "untried", "quick"] as const;
 
-function sortCards(list: RecipeCard[], sort: (typeof SORTS)[number] | "title"): RecipeCard[] {
+function sortCards(list: RecipeCard[], sort: Exclude<(typeof SORTS)[number], "foryou"> | "title"): RecipeCard[] {
   const byTitle = (a: RecipeCard, b: RecipeCard) => a.title.localeCompare(b.title);
   switch (sort) {
     case "top":
@@ -102,6 +102,15 @@ function facets(recipes: StoreRecipe[]) {
   };
 }
 
+function safeRecommend(db: DB, store: ContentStore, userEmail: string, limit: number) {
+  try {
+    return recommend(db, store, userEmail, limit).items;
+  } catch (error) {
+    console.error("recommendations failed", error);
+    return [];
+  }
+}
+
 export const recipesRouter = router({
   /** One page of recipe cards, filtered and sorted on the server. */
   list: protectedProcedure
@@ -133,9 +142,19 @@ export const recipesRouter = router({
           (!input.source || recipeSource(r.sourceUrl).id === input.source),
       );
       const stats = loadStats(ctx.db, ctx.user.email);
-      let cards = filtered.map((r) => toCard(r, stats));
+      let cards: (RecipeCard & { because?: string | null })[] = filtered.map((r) => toCard(r, stats));
       if (input.favourites) cards = cards.filter((c) => (c.myStars ?? c.avgStars ?? 0) >= 4);
-      const sorted = sortCards(cards, input.kind === "meal" ? input.sort : "title");
+      let sorted: typeof cards;
+      if (input.kind === "meal" && input.sort === "foryou") {
+        // "For you": meals like the ones you rated highly, best match first.
+        const byScore = new Map(safeRecommend(ctx.db, ctx.store, ctx.user.email, 300).map((r, i) => [r.slug, { rank: i, because: r.because }]));
+        sorted = cards
+          .filter((c) => byScore.has(c.slug))
+          .map((c) => ({ ...c, because: byScore.get(c.slug)!.because }))
+          .sort((a, b) => byScore.get(a.slug)!.rank - byScore.get(b.slug)!.rank);
+      } else {
+        sorted = sortCards(cards, input.kind === "meal" && input.sort !== "foryou" ? input.sort : "title");
+      }
       const items = sorted.slice(input.cursor, input.cursor + input.limit);
       const next = input.cursor + items.length;
       return {

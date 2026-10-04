@@ -8,12 +8,11 @@ import { Chip, Segmented, Skeleton, Stars, Thumb } from "@/client/components/ui/
 import { sizedImage } from "@/client/lib/images";
 import { useTRPC } from "@/client/lib/trpc";
 import { Energy } from "@/client/features/recipes/energy";
-import { Recommended } from "@/client/features/recipes/recommended";
 
 // Every filter lives in the URL, so coming back from a recipe shows exactly the same list.
 const searchSchema = z.object({
   kind: z.enum(["meal", "blend"]).optional().catch(undefined),
-  sort: z.enum(["top", "new", "untried", "quick"]).optional().catch(undefined),
+  sort: z.enum(["top", "foryou", "new", "untried", "quick"]).optional().catch(undefined),
   q: z.string().optional().catch(undefined),
   tag: z.string().optional().catch(undefined),
   source: z.string().optional().catch(undefined),
@@ -27,6 +26,7 @@ export const Route = createFileRoute("/recipes/")({
 
 const SORTS = [
   { value: "top", label: "Top rated" },
+  { value: "foryou", label: "For you" },
   { value: "new", label: "Newest" },
   { value: "untried", label: "Not tried" },
   { value: "quick", label: "Quick" },
@@ -136,7 +136,7 @@ function RecipesPage() {
             ))}
           </div>
         )}
-        {facets && facets.sources.length > 1 && (
+        {kind === "meal" && facets && facets.sources.length > 1 && (
           <div className="no-scrollbar flex gap-2 overflow-x-auto px-4 pb-2 md:flex-wrap md:overflow-visible md:px-6">
             <Chip active={!source} onClick={() => setSearch({ source: undefined })}>
               All sources
@@ -165,8 +165,6 @@ function RecipesPage() {
         )}
       </PageHeader>
 
-      {kind === "meal" && !filtering && <Recommended />}
-
       <div className="grid grid-cols-2 gap-3 px-4 pt-1 pb-6 sm:grid-cols-3 md:gap-4 md:px-6 lg:grid-cols-4 xl:grid-cols-5">
         {query.isPending && Array.from({ length: 6 }, (_, i) => <Skeleton key={i} className="aspect-[4/5]" />)}
         {visible.map((r) => (
@@ -178,12 +176,15 @@ function RecipesPage() {
                 className="aspect-[4/3] w-full rounded-none text-3xl [&_img]:object-cover"
                 alt={r.title}
               />
-              <span className="absolute bottom-1.5 left-1.5 rounded-full bg-background/85 px-2 py-0.5 text-[10px] font-semibold backdrop-blur">
-                {r.source.label}
-              </span>
+              {kind === "meal" && (
+                <span className="absolute bottom-1.5 left-1.5 rounded-full bg-background/85 px-2 py-0.5 text-[10px] font-semibold backdrop-blur">
+                  {r.source.label}
+                </span>
+              )}
             </div>
             <div className="flex flex-col gap-1 p-2.5">
               <h3 className="line-clamp-2 text-sm leading-snug font-semibold">{r.title}</h3>
+              {r.because && <p className="line-clamp-1 text-[11px] text-muted-foreground">Because you liked {r.because}</p>}
               <div className="flex items-center justify-between text-xs text-muted-foreground">
                 {r.avgStars != null ? <Stars value={r.avgStars} size="sm" /> : <span>{r.timesCooked ? `Cooked ${r.timesCooked}×` : "Not rated"}</span>}
                 {r.prepMinutes != null && (
@@ -200,7 +201,13 @@ function RecipesPage() {
         {query.isError && (
           <p className="col-span-full pt-12 text-center text-sm text-destructive">Couldn't load recipes. Check your connection and try again.</p>
         )}
-        {query.isSuccess && visible.length === 0 && <p className="col-span-full pt-12 text-center text-sm text-muted-foreground">No recipes match.</p>}
+        {query.isSuccess && visible.length === 0 && (
+          <p className="col-span-full pt-12 text-center text-sm text-muted-foreground">
+            {sort === "foryou" && kind === "meal" && !filtering
+              ? "Rate a few recipes you've cooked (4–5★ for favourites) and you'll get recommendations here."
+              : "No recipes match."}
+          </p>
+        )}
         {isFetchingNextPage && Array.from({ length: 4 }, (_, i) => <Skeleton key={`more-${i}`} className="aspect-[4/5]" />)}
         {hasNextPage && <div ref={sentinel} className="col-span-full h-10" />}
       </div>

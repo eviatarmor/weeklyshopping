@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { BookOpen, Clock, ListChecks, MoreHorizontal, Trash2, Users } from "lucide-react";
-import { addDays, DAY_NAMES } from "@/shared/week";
+import { addDays } from "@/shared/week";
 import { Button } from "@/client/components/ui/button";
 import { Drawer, DrawerContent, DrawerDescription, DrawerFooter, DrawerHeader, DrawerTitle } from "@/client/components/ui/drawer";
 import { CheckCircle, Chip, Segmented, Thumb } from "@/client/components/ui/misc";
@@ -10,7 +10,7 @@ import { sizedImage } from "@/client/lib/images";
 import { cn, haptic } from "@/client/lib/utils";
 import { useWeekActions, type PlannedMeal } from "./use-week";
 
-/** One planned dinner: tick it when cooked, tap ⋯ to move, resize or remove it. */
+/** One planned dinner: tick it when cooked, tap ⋯ to move it to another week, resize or remove it. */
 export function MealCard({ meal, recipe }: { meal: PlannedMeal; recipe: RecipeCard | undefined }) {
   const { setCooked } = useWeekActions();
   const [editing, setEditing] = useState(false);
@@ -43,11 +43,7 @@ export function MealCard({ meal, recipe }: { meal: PlannedMeal; recipe: RecipeCa
 
   return (
     <div
-      draggable
-      onDragStart={(e) => {
-        e.dataTransfer.setData("text/meal-id", meal.id);
-        e.dataTransfer.effectAllowed = "move";
-      }}
+      data-meal
       className={cn("flex items-center gap-2 rounded-xl border bg-card py-2 pr-1 pl-2 shadow-xs", cooked && "opacity-70")}
     >
       {recipe ? (
@@ -87,7 +83,7 @@ function MealOptionsDrawer({
   onOpenChange: (open: boolean) => void;
 }) {
   const { update, remove } = useWeekActions();
-  const move = (patch: { day?: number | null; weekStart?: string }) => {
+  const move = (patch: { weekStart: string }) => {
     haptic();
     update.mutate({ id: meal.id, patch });
     onOpenChange(false);
@@ -98,22 +94,12 @@ function MealOptionsDrawer({
       <DrawerContent>
         <DrawerHeader>
           <DrawerTitle className="line-clamp-2">{title}</DrawerTitle>
-          <DrawerDescription>{meal.day == null ? "Sometime this week" : DAY_NAMES[meal.day]}</DrawerDescription>
+          <DrawerDescription>{meal.servings} people</DrawerDescription>
         </DrawerHeader>
         <div className="space-y-5 px-4 pb-4">
           <section>
             <h3 className="mb-2 text-sm font-semibold">Move to</h3>
             <div className="flex flex-wrap gap-2">
-              {DAY_NAMES.map((name, day) => (
-                <Chip key={name} active={meal.day === day} onClick={() => move({ day })}>
-                  {name.slice(0, 3)}
-                </Chip>
-              ))}
-              <Chip active={meal.day == null} onClick={() => move({ day: null })}>
-                Sometime
-              </Chip>
-            </div>
-            <div className="mt-2 flex flex-wrap gap-2">
               <Chip onClick={() => move({ weekStart: addDays(meal.weekStart, -7) })}>← Last week</Chip>
               <Chip onClick={() => move({ weekStart: addDays(meal.weekStart, 7) })}>Next week →</Chip>
             </div>

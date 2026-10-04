@@ -9,18 +9,16 @@ import { useTRPC } from "@/client/lib/trpc";
 import { haptic } from "@/client/lib/utils";
 import { useWeekActions } from "./use-week";
 
-/** Pick a dinner for a day: search the recipes, choose a favourite, or just type a name. */
+/** Add a dinner to the week: search the recipes, choose a favourite, or just type a name. */
 export function AddMealDrawer({
   open,
   onOpenChange,
   weekStart,
-  day,
   label,
 }: {
   open: boolean;
   onOpenChange: (open: boolean) => void;
   weekStart: string;
-  day: number | null;
   label: string;
 }) {
   const trpc = useTRPC();
@@ -39,7 +37,7 @@ export function AddMealDrawer({
   };
   const pick = (input: { recipeSlug?: string; customName?: string }) => {
     haptic();
-    add.mutate({ weekStart, day, servings: 2, ...input });
+    add.mutate({ weekStart, day: null, servings: 2, ...input });
     close();
   };
 

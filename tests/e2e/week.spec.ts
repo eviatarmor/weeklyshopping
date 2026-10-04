@@ -17,19 +17,19 @@ test("dinners planned on one phone show up on the other, and can go onto the lis
   const custom = `Pizza night ${Date.now()}`;
 
   // A dinner with just a name.
-  await alex.getByRole("button", { name: "Add dinner on Friday" }).click();
+  await alex.getByRole("button", { name: "Add dinner" }).first().click();
   await alex.getByPlaceholder("Search recipes or type any dinner").fill(custom);
   await alex.getByRole("button", { name: `Add "${custom}"` }).click();
   await expect(sam.getByText(custom)).toBeVisible({ timeout: 10_000 });
 
   // A recipe, found despite the hyphen in its name.
-  await alex.getByRole("button", { name: "Add dinner on Monday" }).click();
+  await alex.getByRole("button", { name: "Add dinner" }).first().click();
   await alex.getByPlaceholder("Search recipes or type any dinner").fill("white bean pie");
   await alex.getByRole("button", { name: /Creamy Mushroom & White Bean Pie/ }).click();
   await expect(sam.getByText("Creamy Mushroom & White Bean Pie")).toBeVisible({ timeout: 10_000 });
 
   // Ingredients for the planned recipes, combined.
-  await alex.getByRole("button", { name: "Add ingredients for 1 dinner" }).click();
+  await alex.getByRole("button", { name: "Add 1 to list" }).click();
   const dialog = alex.getByRole("dialog");
   await dialog.getByRole("button", { name: /Add \d+ items? to list/ }).click();
   await expect(alex.getByText(/Added \d+ item/)).toBeVisible();
@@ -37,7 +37,7 @@ test("dinners planned on one phone show up on the other, and can go onto the lis
 
   // Clean up.
   for (const name of [custom, "Creamy Mushroom & White Bean Pie"]) {
-    const card = alex.locator("div[draggable]").filter({ hasText: name });
+    const card = alex.locator("div[data-meal]").filter({ hasText: name });
     await card.getByRole("button", { name: "More" }).click();
     await alex.getByRole("button", { name: "Remove from week" }).click();
     await expect(sam.getByText(name)).toBeHidden({ timeout: 10_000 });

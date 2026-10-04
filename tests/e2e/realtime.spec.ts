@@ -85,8 +85,8 @@ test("rating a recipe produces recommendations, and energy follows the kJ/kcal s
   await page.getByRole("button", { name: "Back" }).click();
 
   await page.getByPlaceholder(/Search .*recipes/).fill("");
-  await expect(page.getByText("Recommended for you")).toBeVisible({ timeout: 15_000 });
-  await expect(page.getByText(/Because you liked Bengal Chickpea Curry/).first()).toBeVisible();
+  await page.getByRole("button", { name: "For you", exact: true }).click();
+  await expect(page.getByText(/Because you liked /).first()).toBeVisible({ timeout: 15_000 });
 
   await page.getByRole("link", { name: "Settings" }).click();
   await page.getByRole("button", { name: "kcal" }).click();
