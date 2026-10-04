@@ -1,0 +1,92 @@
+{
+  "slug": "mk-cauliflower-shawarma",
+  "kind": "meal",
+  "title": "Cauliflower Shawarma",
+  "subtitle": "in pita with tahini and amba",
+  "description": "Thinly sliced cauliflower fried with onion and shawarma spices until soft and golden. Serve in pita, a baguette or on a plate with plenty of tahini and amba.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-c33b25e08aa4b91027.htm",
+  "imageUrl": "https://img.mako.co.il/2025/12/23/SHWARMAKRUVIT_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "shawarma",
+    "israeli",
+    "cauliflower",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Shawarma Spice Mix",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Chilli Flakes",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Pita Bread",
+      "qty": 4,
+      "product": "pita-bread"
+    },
+    {
+      "name": "Tahini",
+      "product": "tahini"
+    },
+    {
+      "name": "Amba"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Break the cauliflower into florets and cut them into relatively thin slices. Thinly slice the onions."
+    },
+    {
+      "text": "Heat the oil in a frying pan and fry the onion with the cauliflower until the cauliflower softens and turns golden. Add half a cup of boiling water to help the cauliflower soften."
+    },
+    {
+      "text": "Add the dry spices, stir, taste and adjust the seasoning if needed."
+    },
+    {
+      "text": "Assemble in pita, lafa, ciabatta or on a plate, with plenty of tahini and amba."
+    }
+  ]
+}

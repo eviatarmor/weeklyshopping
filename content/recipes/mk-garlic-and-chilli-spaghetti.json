@@ -1,0 +1,77 @@
+{
+  "slug": "mk-garlic-and-chilli-spaghetti",
+  "kind": "meal",
+  "title": "Garlic and Chilli Spaghetti",
+  "subtitle": "with a silky sauce from the pasta water",
+  "description": "A simple aglio e olio style pasta that uses starchy pasta water to make a thick, glossy, non-greasy sauce.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-38cf4c0dac89c91027.htm",
+  "imageUrl": "https://img.mako.co.il/2026/02/26/W_grid_PASTABSH260226_autoOrient_w.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "pasta",
+    "italian",
+    "garlic",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "qty": 250,
+      "unit": "g",
+      "product": "spaghetti"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Red Chilli",
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Finely chop the garlic, parsley and chilli."
+    },
+    {
+      "text": "Gently warm the olive oil in a deep frying pan with the garlic and chilli until the garlic is fragrant and lightly golden. Remove from the heat and let the oil cool. Watch that the garlic does not burn."
+    },
+    {
+      "text": "Meanwhile, bring 1 to 1.5 litres of water to the boil, season with a level tablespoon of salt and add the pasta."
+    },
+    {
+      "text": "Cook to al dente, reserve 2 cups of the pasta water and transfer the pasta straight into the pan."
+    },
+    {
+      "text": "Return the pan to the heat and toss the pasta with the oil, adding some pasta water. The heat keeps cooking the pasta and the tossing creates an emulsion, giving a thick, tasty sauce that is not oily."
+    },
+    {
+      "text": "Just before serving, stir in the chopped parsley, taste and add salt if needed."
+    }
+  ]
+}
