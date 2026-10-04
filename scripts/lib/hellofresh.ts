@@ -5,7 +5,7 @@
  */
 import type { RecipeContent } from "../../src/shared/content.ts";
 import { normalizeUnit } from "../../src/shared/units.ts";
-import { PANTRY_NAMES, fetchText, hfImage, isoMinutes, linkIngredient, nextData, slugify, titleCase, today, type Report } from "./common.ts";
+import { PANTRY_NAMES, bulletLines, fetchText, hfImage, htmlToText, isoMinutes, linkIngredient, nextData, slugify, titleCase, today, type Report } from "./common.ts";
 
 export type Brand = "hellofresh" | "everyplate";
 
@@ -79,12 +79,8 @@ export async function convertHelloFresh(recipe: HfRecipe, brand: Brand, report: 
       let raw = (s.instructionsMarkdown ?? s.instructions ?? "").trim();
       // HelloFresh wraps long bullets onto several lines; EveryPlate uses one line per bullet.
       if (raw.includes("•")) raw = raw.replace(/\s*\n(?!\s*•)\s*/g, " ");
-      const text = raw
-        .split("\n")
-        .map((l) => l.trim().replace(/^•\s*/, ""))
-        .filter(Boolean)
-        .map((l) => `• ${l}`)
-        .join("\n");
+      // Some steps arrive as HTML (<p>, <br>, <li>, &amp;) even in the "markdown" field.
+      const text = bulletLines(htmlToText(raw.replace(/\s*•\s*/g, "\n")));
       const image = s.images?.[0]?.path;
       return { text, ...(image ? { imageUrl: hfImage(image, 800) } : {}) };
     })
@@ -99,8 +95,8 @@ export async function convertHelloFresh(recipe: HfRecipe, brand: Brand, report: 
     slug: `${BRAND_PREFIX[brand]}-${baseSlug}`,
     kind: "meal",
     title: recipe.name.replace(/"/g, "").trim(),
-    ...(recipe.headline ? { subtitle: recipe.headline.trim() } : {}),
-    ...(recipe.description ? { description: recipe.description.trim() } : {}),
+    ...(recipe.headline ? { subtitle: htmlToText(recipe.headline) } : {}),
+    ...(recipe.description ? { description: htmlToText(recipe.description).replace(/\n/g, " ") } : {}),
     ...(sourceUrl ? { sourceUrl } : {}),
     ...(recipe.imagePath ? { imageUrl: hfImage(recipe.imagePath) } : {}),
     servings: chosen?.yields ?? servings,

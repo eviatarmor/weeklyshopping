@@ -1,11 +1,12 @@
 /**
- * Validates content/: schemas, product/blend references, duplicate slugs and blend cycles.
+ * Validates content/: schemas, product/blend references, duplicate slugs, blend cycles and leftover HTML.
  *
  *   pnpm content:check
  */
 import { readFile, readdir } from "node:fs/promises";
 import { catalogSchema, recipeSchema, type RecipeContent } from "../src/shared/content.ts";
 import { SECTION_IDS } from "../src/shared/sections.ts";
+import { HTML_PATTERN } from "./lib/common.ts";
 
 const errors: string[] = [];
 const catalog = catalogSchema.parse(JSON.parse(await readFile("content/catalog.json", "utf8")));
@@ -39,6 +40,8 @@ for (const r of recipes) {
     if (i.product && !products.has(i.product)) errors.push(`${r.file}: unknown product "${i.product}"`);
     if (i.blend && bySlug.get(i.blend)?.kind !== "blend") errors.push(`${r.file}: unknown blend "${i.blend}"`);
   }
+  const texts = [r.title, r.subtitle, r.description, ...r.steps.map((s) => s.text), ...r.ingredients.map((i) => i.name)];
+  if (texts.some((t) => t && HTML_PATTERN.test(t))) errors.push(`${r.file}: contains HTML; run pnpm content:clean-html`);
 }
 
 function hasCycle(slug: string, stack: string[]): boolean {

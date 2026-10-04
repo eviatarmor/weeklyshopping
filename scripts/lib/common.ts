@@ -27,6 +27,57 @@ export function meatIngredients(names: string[]): string[] {
   return names.filter((n) => MEAT_PATTERN.test(n) && !MEAT_EXCEPTIONS.test(n));
 }
 
+const ENTITIES: Record<string, string> = {
+  amp: "&", nbsp: " ", lt: "<", gt: ">", quot: '"', apos: "'", rsquo: "’", lsquo: "‘", ldquo: "“", rdquo: "”",
+  ndash: "–", mdash: "—", hellip: "…", deg: "°", frac12: "½", frac14: "¼", frac34: "¾", times: "×",
+};
+
+/** HTML tags or entities that shouldn't survive into recipe text. */
+export const HTML_PATTERN = /<\/?[a-z][a-z0-9]*(\s[^>]*)?\/?>|&(#\d+|#x[0-9a-f]+|[a-z]+\d*);/i;
+
+/** Sources sometimes put HTML in their text; turn it into plain lines. */
+export function htmlToText(input: string): string {
+  return input
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<\/(p|div|li|h\d)>/gi, "\n")
+    .replace(/<li[^>]*>/gi, "\n")
+    .replace(/<[^>]+>/g, "")
+    .replace(/&#(\d+);/g, (_, n: string) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n: string) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&([a-z]+\d*);/gi, (m, name: string) => ENTITIES[name.toLowerCase()] ?? m)
+    .split("\n")
+    .map((line) => line.replace(/\s+/g, " ").trim())
+    .filter(Boolean)
+    .join("\n");
+}
+
+/**
+ * Join lines that were only wrapped for layout ("Drizzle" / "with olive oil…"):
+ * a line continues the previous one if that didn't end a sentence, or if it
+ * starts in lower case or with "(".
+ */
+export function joinSoftWraps(lines: string[]): string[] {
+  const out: string[] = [];
+  for (const line of lines) {
+    const prev = out[out.length - 1];
+    const continues = prev !== undefined && (!/[.!?:;)"'”’]$/.test(prev) || /^[a-z(]/.test(line)) && !/^TIP\b/i.test(line);
+    if (continues) out[out.length - 1] = `${prev} ${line}`;
+    else out.push(line);
+  }
+  return out;
+}
+
+/** Plain text with one "• " bullet per line (single-line text is left as is). */
+export function bulletLines(text: string): string {
+  const lines = joinSoftWraps(
+    text
+      .split("\n")
+      .map((l) => l.trim().replace(/^[•\-*]\s*/, ""))
+      .filter(Boolean),
+  );
+  return lines.length > 1 ? lines.map((l) => `• ${l}`).join("\n") : (lines[0] ?? "");
+}
+
 export function titleCase(s: string) {
   return s
     .replace(/(^|[\s-])([a-z])/g, (m) => m.toUpperCase())

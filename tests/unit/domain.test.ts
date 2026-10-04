@@ -3,6 +3,7 @@ import { buildProductIndex, classify } from "@/shared/classify";
 import { blendTree, expandIngredients, type BlendRecipe, type IngredientRow } from "@/shared/expand";
 import { normalizeName } from "@/shared/normalize";
 import { parseIngredient } from "@/shared/parse-ingredient";
+import { bulletLines, htmlToText } from "../../scripts/lib/common.ts";
 import { measure } from "@/shared/measure";
 import { recipeSource } from "@/shared/sources";
 import { addQuantities, formatQty, normalizeUnit } from "@/shared/units";
@@ -195,5 +196,22 @@ describe("recipeSource", () => {
     expect(recipeSource("https://www.mealime.com/recipes/x/1").label).toBe("Mealime");
     expect(recipeSource(null)).toEqual({ id: "diy", label: "DIY estimate" });
     expect(recipeSource("https://www.example.org/r")).toEqual({ id: "example.org", label: "example.org" });
+  });
+});
+
+describe("htmlToText / bulletLines (importer cleanup)", () => {
+  it("strips tags and decodes entities", () => {
+    expect(htmlToText("<p>Salt &amp; pepper<br>Don&#39;t stir</p>")).toBe("Salt & pepper\nDon't stir");
+    expect(htmlToText("<ul><li>One</li><li>Two</li></ul>")).toBe("One\nTwo");
+  });
+
+  it("re-joins lines that were only wrapped for layout", () => {
+    const html = "<p>Place veggies on a tray. Drizzle<br>with olive oil, then<br>toss to coat.<br>TIP: Use two trays.</p>";
+    expect(bulletLines(htmlToText(html))).toBe("• Place veggies on a tray. Drizzle with olive oil, then toss to coat.\n• TIP: Use two trays.");
+  });
+
+  it("keeps one bullet per sentence-ending line", () => {
+    expect(bulletLines("Grate carrot.\nDrain sweetcorn.")).toBe("• Grate carrot.\n• Drain sweetcorn.");
+    expect(bulletLines("Just one step.")).toBe("Just one step.");
   });
 });
