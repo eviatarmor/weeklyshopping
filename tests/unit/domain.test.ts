@@ -284,7 +284,7 @@ describe("blendTree quantities", () => {
     const blends = new Map<string, BlendRecipe>([
       ["american", { slug: "american", title: "American", servings: 1, yieldUnit: "sachet", ingredients: [leaf("Paprika", 1, "tsp")] }],
     ]);
-    expect(blendTree("american", blends, 2)?.children).toEqual([{ name: "Paprika", qty: 2, unit: "tsp" }]);
+    expect(blendTree("american", blends, 2)?.children).toEqual([{ name: "Paprika", qty: 2, unit: "tsp", productSlug: null, imageUrl: null }]);
   });
 });
 
@@ -377,5 +377,13 @@ describe("best buy", () => {
     const one = offer(0.63, 0.63, "each", "one onion");
     const bag = offer(5.5, 2.75, "kg", "2kg bag");
     expect(pickBestBuy([one, bag])?.name).toBe("one onion");
+  });
+});
+
+describe("fractions", () => {
+  it("shows eighths", () => {
+    expect(formatQty(0.13, "tsp")).toBe("⅛ tsp");
+    expect(formatQty(0.25, "tsp")).toBe("¼ tsp");
+    expect(formatQty(1.5, "cup")).toBe("1½ cups");
   });
 });

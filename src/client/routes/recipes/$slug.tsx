@@ -335,6 +335,7 @@ function RecipePage() {
                         done={doneIngredients}
                         onToggle={toggleIngredient}
                         renderQty={(leaf) => <Quantity qty={leaf.qty} unit={leaf.unit} name={leaf.name} system={system} standard={standard} />}
+                        imageFor={(leaf) => leaf.imageUrl ?? (leaf.productSlug ? (data.productImages[leaf.productSlug] ?? null) : null)}
                       />
                     </div>
                   )}

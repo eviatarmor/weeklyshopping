@@ -68,6 +68,7 @@ export function roundQty(qty: number, unit: string | null): number {
 }
 
 const FRACTIONS: [number, string][] = [
+  [0.125, "⅛"],
   [0.25, "¼"],
   [0.333, "⅓"],
   [0.5, "½"],
@@ -80,7 +81,7 @@ export function formatQty(qty: number | null, unit: string | null): string {
   const whole = Math.floor(qty);
   const frac = qty - whole;
   let text = String(Math.round(qty * 100) / 100);
-  const match = FRACTIONS.find(([v]) => Math.abs(frac - v) < 0.02);
+  const match = FRACTIONS.find(([v]) => Math.abs(frac - v) < 0.015);
   if (match && unit !== "g" && unit !== "ml") text = `${whole || ""}${match[1]}`;
   if (!unit) return text;
   const tight = unit === "g" || unit === "kg" || unit === "ml" || unit === "l";

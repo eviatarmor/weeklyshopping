@@ -106,7 +106,7 @@ function mergeLines(lines: ShoppingLine[]): ShoppingLine[] {
   return merged;
 }
 
-export type BlendTreeLeaf = { name: string; qty: number | null; unit: string | null };
+export type BlendTreeLeaf = { name: string; qty: number | null; unit: string | null; productSlug: string | null; imageUrl: string | null };
 export type BlendTreeNode = { slug: string; title: string; children: (BlendTreeNode | BlendTreeLeaf)[] };
 
 /**
@@ -128,6 +128,8 @@ export function blendTree(slug: string, blends: Map<string, BlendRecipe>, batche
           name: i.name,
           qty: i.qty == null ? null : roundQty(i.qty * batches, unit),
           unit,
+          productSlug: i.productSlug,
+          imageUrl: i.imageUrl,
         }
       );
     }),

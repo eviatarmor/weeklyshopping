@@ -2,6 +2,8 @@ import type * as React from "react";
 import { Link } from "@tanstack/react-router";
 import { Check, ChevronRight } from "lucide-react";
 import type { BlendTreeLeaf, BlendTreeNode } from "@/shared/expand";
+import { Thumb } from "@/client/components/ui/misc";
+import { emojiFor, sizedImage } from "@/client/lib/images";
 import { cn, haptic } from "@/client/lib/utils";
 
 /**
@@ -14,6 +16,7 @@ export function BlendTree({
   done,
   onToggle,
   renderQty,
+  imageFor,
   depth = 0,
 }: {
   node: BlendTreeNode;
@@ -21,6 +24,8 @@ export function BlendTree({
   done: Set<string>;
   onToggle: (path: string) => void;
   renderQty: (leaf: BlendTreeLeaf) => React.ReactNode;
+  /** Product photo for an ingredient, when there is one. */
+  imageFor: (leaf: BlendTreeLeaf) => string | null;
   depth?: number;
 }) {
   return (
@@ -35,7 +40,7 @@ export function BlendTree({
           if ("slug" in child) {
             return (
               <li key={childPath}>
-                <BlendTree node={child} path={childPath} done={done} onToggle={onToggle} renderQty={renderQty} depth={depth + 1} />
+                <BlendTree node={child} path={childPath} done={done} onToggle={onToggle} renderQty={renderQty} imageFor={imageFor} depth={depth + 1} />
               </li>
             );
           }
@@ -53,13 +58,15 @@ export function BlendTree({
                 }}
                 className="flex w-full items-center gap-2 py-1 text-left"
               >
-                <span
-                  className={cn(
-                    "grid size-5 shrink-0 place-items-center rounded-full border-2 transition-colors",
-                    ticked ? "border-primary bg-primary text-primary-foreground" : "border-muted-foreground/40",
+                <span className="relative shrink-0">
+                  <Thumb src={sizedImage(imageFor(child), 32)} emoji={emojiFor(child.name)} className={cn("size-8 bg-background", ticked && "opacity-40")} />
+                  {ticked && (
+                    <span className="absolute inset-0 grid place-items-center">
+                      <span className="grid size-5 place-items-center rounded-full bg-primary text-primary-foreground">
+                        <Check className="size-3" strokeWidth={3} />
+                      </span>
+                    </span>
                   )}
-                >
-                  {ticked && <Check className="size-3" strokeWidth={3} />}
                 </span>
                 <span className={cn("flex-1", ticked ? "text-muted-foreground line-through" : "text-foreground")}>{child.name}</span>
                 <span className={cn("text-muted-foreground", ticked && "opacity-60")}>{renderQty(child)}</span>
