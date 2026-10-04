@@ -36,3 +36,26 @@ resource "cloudflare_zero_trust_access_application" "app" {
     }
   ]
 }
+
+# Browsers fetch the PWA manifest and icons without the Access cookie when deciding
+# whether the app is installable. They hold no user data, so let them through.
+resource "cloudflare_zero_trust_access_application" "pwa_assets" {
+  account_id           = var.account_id
+  name                 = "Weekly Shopping (install assets)"
+  type                 = "self_hosted"
+  domain               = "${local.hostname}/manifest.webmanifest"
+  app_launcher_visible = false
+  destinations = [for path in ["manifest.webmanifest", "icon-192.png", "icon-512.png", "icon.svg"] : {
+    type = "public"
+    uri  = "${local.hostname}/${path}"
+  }]
+
+  policies = [
+    {
+      name       = "Public install assets"
+      decision   = "bypass"
+      precedence = 1
+      include    = [{ everyone = {} }]
+    }
+  ]
+}

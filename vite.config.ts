@@ -34,6 +34,8 @@ export default defineConfig({
     cloudflare(),
     VitePWA({
       registerType: "autoUpdate",
+      // Send the Access cookie when the browser fetches the manifest.
+      useCredentials: true,
       includeAssets: ["icon.svg"],
       manifest: {
         name: "Weekly Shopping",
