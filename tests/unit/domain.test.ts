@@ -168,9 +168,23 @@ describe("measure", () => {
     expect(measure(0.25, "tsp", "Chilli Flakes", "grams")).toEqual({ qty: 0.5, unit: "g", approximate: true });
   });
 
+  it("converts the ingredients people measure by the cup", () => {
+    expect(measure(2, "cup", "Baby Spinach", "grams", "au")).toEqual({ qty: 60, unit: "g", approximate: true });
+    expect(measure(1, "cup", "Frozen Peas", "grams", "us")).toEqual({ qty: 145, unit: "g", approximate: true });
+    expect(measure(1, "cup", "Brown Lentils (dried)", "grams", "us")?.unit).toBe("g");
+    expect(measure(1, "cup", "Kalamata Olives (pitted)", "grams", "us")?.unit).toBe("g");
+    expect(measure(2, "tbsp", "BBQ Sauce", "grams", "au")?.unit).toBe("g");
+  });
+
+  it("doesn't confuse look-alike ingredients", () => {
+    expect(measure(1, "tbsp", "Olive Oil", "grams", "au").qty).toBe(18); // oil, not olives
+    expect(measure(1, "tsp", "Mustard Powder", "grams", "au").qty).toBe(2.5); // spice, not sauce
+    expect(measure(1, "cup", "Coconut Milk", "grams", "au").qty).toBe(260); // milk, not desiccated coconut
+  });
+
   it("keeps units it can't convert", () => {
     expect(measure(1, "packet", "Haloumi", "grams")).toEqual({ qty: 1, unit: "packet", approximate: false });
-    expect(measure(2, "cup", "Baby Spinach", "grams")).toEqual({ qty: 2, unit: "cup", approximate: false });
+    expect(measure(1, "cup", "Mystery Ingredient", "grams")).toEqual({ qty: 1, unit: "cup", approximate: false });
   });
 });
 

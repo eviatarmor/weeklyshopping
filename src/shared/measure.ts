@@ -14,9 +14,27 @@ const VOLUME_ML: Record<SpoonStandard, Record<string, number>> = {
  * Approximate density (g per ml), matched against the normalized ingredient name.
  * First match wins, so specific entries come before generic ones.
  */
+// Names are normalized first, so plurals are singular ("olives" → "olive") except a
+// few words kept as-is ("lentils", "chickpeas", "peas", "oats"); patterns allow both.
 const DENSITY: [RegExp, number][] = [
   [/\b(water|stock|broth|vinegar|wine|juice|lemon juice|lime juice)\b/, 1],
-  [/\b(soy sauce|kecap manis|fish sauce|tamari|worcestershire)\b/, 1.15],
+  [/\b(soy sauce|kecap mani|kecap manis|fish sauce|tamari|worcestershire)\b/, 1.15],
+  // Frozen and loose veg/fruit measured by the cup.
+  [/\b(edamame|frozen pea|peas|green pea|corn|corn kernel|mixed vegetable|frozen vegetable|butternut squash|pumpkin piece)\b/, 0.6],
+  [/\b(blueberr|blueberry|berry|cherry|cherries|mango|raspberr|strawberr)\w*\b/, 0.6],
+  [/\b(olive(?! oil)|caper|semi dried tomato|sun dried tomato|sauerkraut|kimchi|pickle|gherkin)\b/, 0.6],
+  [/\b(granola|muesli)\b/, 0.45],
+  [/\b(dried porcini|dried mushroom|porcini)\b/, 0.3],
+  [/\b(cabbage|kale|slaw|coleslaw)\b/, 0.3],
+  [/\b(baby spinach|spinach|rocket|lettuce|salad lea\w*|mixed lea\w*|greens|watercress|herb lea\w*|coriander lea\w*|basil lea\w*|mint lea\w*)\b/, 0.12],
+  [/\b(nutritional yeast)\b/, 0.25],
+  [/\b(cranberr\w*|raisin|sultana|currant|date|dried apricot|dried fruit)\b/, 0.65],
+  // Sauces, dips and dressings.
+  [/\b(hummus|houmous|guacamole|tzatziki|dip|babaganoush|salsa)\b/, 1],
+  [/\b(dressing|vinaigrette|ranch)\b/, 0.98],
+  [/\b(sauce|ketchup|relish|chutney|mustard(?! (powder|seed))|harissa|paste|jam|glaze)\b/, 1.1],
+  [/\b(cottage cheese|ricotta|cream cheese|quark|goat s curd)\b/, 1],
+  [/\b(pearl barley|barley|freekeh|bulgur|risoni|orzo)\b/, 0.85],
   [/\b(honey|golden syrup|treacle)\b/, 1.42],
   [/\b(maple syrup|agave|rice malt syrup)\b/, 1.32],
   [/\b(oil|ghee)\b/, 0.92],
@@ -35,15 +53,15 @@ const DENSITY: [RegExp, number][] = [
   [/\b(cornflour|cornstarch|plain flour|self raising flour|flour)\b/, 0.55],
   [/\b(cocoa)\b/, 0.45],
   [/\b(rice|arborio)\b/, 0.85],
-  [/\b(quinoa|couscous|lentil|split pea|polenta)\b/, 0.8],
-  [/\b(oat|rolled oat)\b/, 0.4],
+  [/\b(quinoa|couscous|lentils?|split peas?|polenta)\b/, 0.8],
+  [/\b(oats?|rolled oats?)\b/, 0.4],
   [/\b(panko|breadcrumb)\b/, 0.25],
   [/\b(parmesan|pecorino|grated cheese)\b/, 0.4],
   [/\b(shredded cheese|cheddar|mozzarella|feta)\b/, 0.45],
   [/\b(almond|cashew|walnut|pecan|peanut|pistachio|pine nut|hazelnut|nut)\b/, 0.6],
-  [/\b(sesame|pepita|sunflower seed|chia|flax|poppy seed)\b/, 0.6],
-  [/\b(desiccated coconut|shredded coconut|coconut flake)\b/, 0.35],
-  [/\b(oregano|basil|thyme|parsley|rosemary|mint|dill|sage|marjoram|tarragon|chive|italian herb|mixed herb|bay lea)\b/, 0.25],
+  [/\b(sesame|pepita|pumpkin seed|sunflower seed|chia|flax|poppy seed|hemp seed)\b/, 0.6],
+  [/\b(desiccated coconut|shredded coconut|coconut flake|coconut)\b(?! (milk|cream|oil|water|yoghurt|yogurt))/, 0.35],
+  [/\b(oregano|basil|thyme|parsley|rosemary|mint|dill|sage|marjoram|tarragon|chive|italian herb|mixed herb|dried herb|herb|bay lea)\b/, 0.25],
   [/\b(chilli flake|red pepper flake|onion flake)\b/, 0.4],
   [/\b(stock powder|stock cube|bouillon)\b/, 0.6],
   [/\b(garlic powder|garlic granule|minced garlic)\b/, 0.6],
