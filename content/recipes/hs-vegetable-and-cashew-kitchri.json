@@ -1,0 +1,127 @@
+{
+  "slug": "hs-vegetable-and-cashew-kitchri",
+  "kind": "meal",
+  "title": "Vegetable and Cashew Kitchri",
+  "subtitle": "with brown basmati and fine rice noodles",
+  "description": "Brown basmati rice cooked with saffron and whole spices, then mixed with fried capsicum, carrot, cashews and crisp rice vermicelli. Serve with fresh coriander and yoghurt.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%99%d7%a6%d7%a8%d7%99-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%95%d7%a7%d7%a9%d7%99%d7%95/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/open_650x500-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "rice",
+    "indian",
+    "vegetarian",
+    "pilaf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "basmati-rice"
+    },
+    {
+      "name": "Rice Vermicelli",
+      "qty": 100,
+      "unit": "g",
+      "product": "rice-noodles"
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 0.5,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Cashews",
+      "qty": 0.67,
+      "unit": "cup",
+      "product": "cashews"
+    },
+    {
+      "name": "Saffron Threads",
+      "qty": 1,
+      "unit": "pinch"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Coriander Seeds",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "coriander-seeds"
+    },
+    {
+      "name": "Cardamom Pods",
+      "qty": 2
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Coriander",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "coriander",
+      "optional": true
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the rice in a pot of plenty of boiling water for 15 minutes until slightly softened, then drain."
+    },
+    {
+      "text": "Meanwhile, soak the rice noodles in hot water for about 15 minutes until soft. Drain and pat dry with paper towel."
+    },
+    {
+      "text": "Heat the oil in a wide pot and stir-fry the diced capsicum, chilli, carrot, onion, cashews and spices for 2-3 minutes until golden. Remove with a slotted spoon and set aside. Add the rice noodles, fry for 2-3 minutes, remove and set aside."
+    },
+    {
+      "text": "Add the rice to the spiced oil and stir for a minute. Pour in enough boiling water to cover, add salt and return to the boil. Cover and cook over low heat for 15-20 minutes until the liquid is absorbed and the rice is tender."
+    },
+    {
+      "text": "Mix the rice with the reserved vegetables, cashews and noodles. Serve topped with chopped coriander and with yoghurt."
+    }
+  ]
+}
