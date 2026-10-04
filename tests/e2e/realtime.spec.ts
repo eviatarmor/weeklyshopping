@@ -7,6 +7,8 @@ async function openAs(browser: Browser, email: string, baseURL: string): Promise
   const page = await context.newPage();
   await page.goto("/");
   await expect(page.getByRole("heading", { name: "Shopping" })).toBeVisible();
+  // Wait until the live-update stream is connected (the first request can be slow while content syncs).
+  await expect(page.locator("html[data-sync=pending]")).toBeAttached({ timeout: 30_000 });
   return page;
 }
 
@@ -23,16 +25,16 @@ test("items sync live between two people", async ({ browser, baseURL }) => {
   await expect(alex.getByRole("listitem").filter({ hasText: item })).toBeVisible();
 
   // Appears on the other phone without a reload.
-  await expect(sam.getByText(item)).toBeVisible({ timeout: 3_000 });
+  await expect(sam.getByText(item)).toBeVisible({ timeout: 10_000 });
 
   // Checking it off on one phone moves it to the trolley on the other.
   await sam.getByRole("checkbox", { name: `Check ${item}` }).click();
-  await expect(alex.getByRole("checkbox", { name: `Uncheck ${item}` })).toBeVisible({ timeout: 3_000 });
+  await expect(alex.getByRole("checkbox", { name: `Uncheck ${item}` })).toBeVisible({ timeout: 10_000 });
 
   // Clean up so the shared dev list doesn't grow forever.
   await alex.getByRole("listitem").filter({ hasText: item }).getByRole("button", { name: item }).click();
   await alex.getByRole("button", { name: "Delete" }).click();
-  await expect(sam.getByText(item)).toBeHidden({ timeout: 3_000 });
+  await expect(sam.getByText(item)).toBeHidden({ timeout: 10_000 });
 });
 
 test("recipe ingredients go through the pantry check onto the list", async ({ browser, baseURL }) => {

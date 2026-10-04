@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { createRootRoute, Link, Outlet, useRouterState } from "@tanstack/react-router";
 import { BookOpen, Settings, ShoppingCart } from "lucide-react";
 import { Toaster } from "sonner";
@@ -13,7 +14,11 @@ const TABS = [
 ] as const;
 
 function RootLayout() {
-  useListSync();
+  const sync = useListSync();
+  // Exposed for tests and debugging: "pending" means the live stream is connected.
+  useEffect(() => {
+    document.documentElement.dataset.sync = sync.status;
+  }, [sync.status]);
   const pathname = useRouterState({ select: (s) => s.location.pathname });
   // Recipe detail pages are full-screen with their own back button.
   const hideTabs = /^\/recipes\/.+/.test(pathname);

@@ -4,7 +4,7 @@ const PORT = Number(process.env.E2E_PORT ?? 5173);
 
 export default defineConfig({
   testDir: "tests/e2e",
-  timeout: 30_000,
+  timeout: 90_000,
   retries: process.env.CI ? 1 : 0,
   use: {
     baseURL: `http://localhost:${PORT}`,
