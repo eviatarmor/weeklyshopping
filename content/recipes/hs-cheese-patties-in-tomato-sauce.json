@@ -1,0 +1,91 @@
+{
+  "slug": "hs-cheese-patties-in-tomato-sauce",
+  "kind": "meal",
+  "title": "Cheese Patties in Tomato Sauce",
+  "subtitle": "pan-fried and simmered",
+  "description": "Salty white cheese patties bound with egg and bread are fried until golden, then simmered in a garlicky grated tomato sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%92%d7%91%d7%99%d7%a0%d7%94-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-668-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "cheese",
+    "patties",
+    "tomato",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Feta",
+      "qty": 400,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Bread",
+      "qty": 2,
+      "unit": "slice",
+      "product": "bread"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 5,
+      "product": "tomato"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grate the cheese, crumble the bread and mix with the eggs. Season with pepper (and a little salt if needed)."
+    },
+    {
+      "text": "For the sauce, heat 2 tablespoons oil with the garlic in a wide pot. When fragrant, add the paprika, grated tomatoes, salt and pepper. Cover and cook over low heat."
+    },
+    {
+      "text": "Heat oil for frying in a frying pan."
+    },
+    {
+      "text": "Shape patties using two spoons and fry for 2 minutes on each side until browned."
+    },
+    {
+      "text": "Transfer the patties to the sauce and simmer for 5 minutes until the patties are firm."
+    }
+  ]
+}

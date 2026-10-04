@@ -1,0 +1,110 @@
+{
+  "slug": "hs-kashmiri-rice-biryani",
+  "kind": "meal",
+  "title": "Kashmiri Rice Biryani",
+  "subtitle": "with carrots, peas and cashews",
+  "description": "Fragrant basmati rice cooked with whole spices, carrots and peas, topped with cashews, coriander, saffron water and fried onion.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%90%d7%95%d7%a8%d7%96-%d7%a7%d7%a9%d7%9e%d7%99%d7%a8-%d7%91%d7%99%d7%a8%d7%99%d7%90%d7%a0%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/אורז-של-טנדורי_שירן-כרמל-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "rice",
+    "biryani",
+    "indian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 2,
+      "unit": "cup",
+      "product": "basmati-rice"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Cinnamon Sticks",
+      "qty": 2,
+      "product": "cinnamon-stick"
+    },
+    {
+      "name": "Green Cardamom Pods",
+      "qty": 6
+    },
+    {
+      "name": "Cloves",
+      "qty": 4,
+      "product": "cloves"
+    },
+    {
+      "name": "Carrots",
+      "qty": 3,
+      "product": "carrot"
+    },
+    {
+      "name": "Green Peas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Saffron Threads",
+      "qty": 5,
+      "optional": true
+    },
+    {
+      "name": "Cashews",
+      "product": "cashews"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander"
+    },
+    {
+      "name": "Fried Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the rice in water for about 15 minutes."
+    },
+    {
+      "text": "Heat the oil in a medium pot and fry the diced carrots and the spices (except the salt)."
+    },
+    {
+      "text": "Drain the rice and rinse it well under cold water. Add it to the pot and fry for about 2 minutes with the vegetables."
+    },
+    {
+      "text": "Add the peas, water and salt. Bring to the boil, reduce the heat, cover and cook over low heat for about 15 minutes. When holes start to form in the rice, remove from the heat and leave covered for another 10 minutes."
+    },
+    {
+      "text": "Pour the saffron soaking water over the rice if using. Top with coriander, cashews and fried onion."
+    }
+  ]
+}

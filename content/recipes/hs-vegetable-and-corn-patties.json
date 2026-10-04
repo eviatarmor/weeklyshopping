@@ -1,0 +1,101 @@
+{
+  "slug": "hs-vegetable-and-corn-patties",
+  "kind": "meal",
+  "title": "Vegetable and Corn Patties",
+  "subtitle": "with red lentils and tahini",
+  "description": "Red lentils, fresh corn, zucchini, carrot and celery are mixed with tahini and oats, shaped into patties and baked until golden. The corn adds a gentle sweetness that kids enjoy.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%95%d7%aa%d7%99%d7%a8%d7%a1/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/07/IMG_8601-e1564387275597-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "vegetarian",
+    "baked",
+    "lentils"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "qty": 1,
+      "unit": "cup",
+      "product": "red-lentils"
+    },
+    {
+      "name": "Corn Cobs",
+      "qty": 3,
+      "product": "corn-cob"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "product": "celery"
+    },
+    {
+      "name": "Tahini",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tahini"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Rolled Oats",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "rolled-oats"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the lentils in water for about 4 hours. Rinse, place in a pot, cover with water and cook for 10 minutes until soft and breaking down. Drain and cool."
+    },
+    {
+      "text": "Cut the corn kernels off the cobs with a sharp knife. Pulse the onion, carrot, zucchini, celery and half the kernels in a food processor to a coarse mixture. Drain in a wide sieve over the sink to remove as much liquid as possible."
+    },
+    {
+      "text": "Add the lentils to the vegetables and mix gently, without overmixing, so the vegetables do not release more liquid."
+    },
+    {
+      "text": "Add the tahini, salt, pepper, finely ground oats, remaining corn kernels and olive oil and mix. Cover and refrigerate for 20 minutes."
+    },
+    {
+      "text": "Preheat the oven to 200°C and line a baking tray with baking paper sprayed with olive oil. Shape patties with wet hands (add another spoonful or two of oats if too wet), place on the tray, spray with olive oil and bake for about 15 minutes until golden brown."
+    }
+  ]
+}

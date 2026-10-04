@@ -1,0 +1,108 @@
+{
+  "slug": "hs-spanakopita-greek-filo-pie",
+  "kind": "meal",
+  "title": "Spanakopita: Greek Filo Pie",
+  "subtitle": "spinach and feta with a crisp rice-lined base",
+  "description": "Filo layers brushed with butter and olive oil enclose a filling of spinach, spring onion, cottage cheese, feta and herbs. A spoonful of rice at the bottom absorbs moisture and keeps the pastry crisp.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%a4%d7%90%d7%a0%d7%90%d7%a7%d7%95%d7%a4%d7%99%d7%98%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-81-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "hashulchan",
+    "pie",
+    "greek",
+    "baked",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Filo Pastry",
+      "qty": 1,
+      "unit": "packet",
+      "product": "filo-pastry"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 7,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Rice",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-rice"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 5,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Spinach",
+      "qty": 700,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 2,
+      "unit": "packet",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Feta",
+      "qty": 250,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "optional": true,
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C. Thaw the filo overnight in the fridge."
+    },
+    {
+      "text": "For the filling, saute the chopped spring onion in 3 tbsp olive oil for 3 minutes. Add the spinach and cook for 1 to 2 minutes until softened and slightly wilted."
+    },
+    {
+      "text": "Mix the cooked greens with the cottage cheese, feta and chopped herbs in a bowl. Taste and add salt and pepper."
+    },
+    {
+      "text": "Trim the filo sheets to fit the baking dish and lightly brush each sheet on both sides with the melted butter and remaining olive oil."
+    },
+    {
+      "text": "Sprinkle the uncooked rice (or 2 tbsp breadcrumbs) over the base of the dish and lay half the oiled filo sheets on top. Spread the cheese and spinach mixture over, and cover with the remaining oiled sheets. Brush the top with butter and oil, and score into portions with a knife to make slicing easier."
+    },
+    {
+      "text": "Bake for 35 to 45 minutes until golden. Cool slightly before serving, or the pie will fall apart."
+    }
+  ]
+}

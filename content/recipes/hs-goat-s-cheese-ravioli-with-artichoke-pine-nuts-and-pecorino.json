@@ -1,0 +1,80 @@
+{
+  "slug": "hs-goat-s-cheese-ravioli-with-artichoke-pine-nuts-and-pecorino",
+  "kind": "meal",
+  "title": "Goat's Cheese Ravioli with Artichoke, Pine Nuts and Pecorino",
+  "subtitle": "with sage and micro beetroot",
+  "description": "Goat's cheese ravioli tossed in a quick sauce of toasted pine nuts, sage, artichoke hearts and melted pecorino, topped with micro beetroot and mint.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%91%d7%99%d7%95%d7%9c%d7%99-%d7%92%d7%91%d7%99%d7%a0%d7%aa-%d7%a2%d7%96%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/sarit_goffen-6912-1140x641-1549959342.jpg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pasta",
+    "ravioli",
+    "italian",
+    "artichoke"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Goat's Cheese Ravioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "fresh-ravioli"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "qty": 4,
+      "product": "artichoke-hearts"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 50,
+      "unit": "g",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Sage Leaves",
+      "qty": 3,
+      "product": "sage"
+    },
+    {
+      "name": "Micro Beetroot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "beetroot"
+    },
+    {
+      "name": "Pecorino",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mint"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a frying pan and cook the pine nuts with the sage leaves over low heat, stirring, until lightly browned. Add the artichoke halves and the pecorino and cook until the cheese melts."
+    },
+    {
+      "text": "Cook the ravioli according to the packet instructions."
+    },
+    {
+      "text": "Add the cooked ravioli to the sauce and cook together for about 1 minute. Top with micro beetroot and finely chopped mint and serve."
+    }
+  ]
+}

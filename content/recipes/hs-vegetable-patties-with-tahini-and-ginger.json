@@ -1,0 +1,104 @@
+{
+  "slug": "hs-vegetable-patties-with-tahini-and-ginger",
+  "kind": "meal",
+  "title": "Vegetable Patties with Tahini and Ginger",
+  "subtitle": "baked with sweet potato, zucchini and carrot",
+  "description": "Baked patties of grated sweet potato, zucchini, carrot and onion bound with raw tahini and breadcrumbs, flavoured with curry powder, ginger and fresh herbs.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%99%d7%a8%d7%a7-%d7%a2%d7%9d-%d7%98%d7%97%d7%99%d7%a0%d7%94-%d7%95%d7%92%d7%99%d7%a0%d7%92%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/DSC_0122-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 70,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "patties",
+    "vegetables",
+    "baked",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "qty": 2,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Raw Tahini",
+      "qty": 1,
+      "unit": "cup",
+      "product": "tahini"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "product": "ginger"
+    },
+    {
+      "name": "Basil",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Juice",
+      "product": "orange-juice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grate the sweet potatoes, zucchini, carrots and onion, then chop the vegetables finely."
+    },
+    {
+      "text": "Add the remaining ingredients and knead into a workable mixture (add more tahini or breadcrumbs as needed)."
+    },
+    {
+      "text": "Preheat the oven to 180°C. Shape into patties and bake for 30 to 40 minutes. Turn the patties and bake for another 10 minutes."
+    }
+  ]
+}

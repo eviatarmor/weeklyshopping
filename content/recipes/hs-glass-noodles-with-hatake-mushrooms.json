@@ -1,0 +1,106 @@
+{
+  "slug": "hs-glass-noodles-with-hatake-mushrooms",
+  "kind": "meal",
+  "title": "Glass Noodles with Hatake Mushrooms",
+  "subtitle": "with ginger, carrot and date syrup",
+  "description": "Mung bean noodles stir-fried with mushrooms, carrot, onion and ginger, seasoned with soy sauce and date syrup.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%90%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%a2%d7%9d-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%94%d7%98%d7%90%d7%a7%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/sarit_goffen-6262-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "noodles",
+    "stir-fry",
+    "mushrooms",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Glass Noodles",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Mushrooms",
+      "qty": 400,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ginger"
+    },
+    {
+      "name": "White Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Date Syrup",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Chilli Flakes",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "sesame-oil",
+      "optional": true
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the glass noodles according to the packet instructions, drain and set aside."
+    },
+    {
+      "text": "Heat the olive oil in a wide frying pan, add the thinly sliced onion and ginger and stir-fry until golden. Add the carrot cut into strips and stir-fry for about 1 minute, then add the mushrooms and stir-fry for 1 more minute. Add the noodles and mix well."
+    },
+    {
+      "text": "Add the soy sauce, date syrup, chilli, salt and sesame oil and mix until combined with the vegetables."
+    },
+    {
+      "text": "Garnish with chopped coriander and serve."
+    }
+  ]
+}

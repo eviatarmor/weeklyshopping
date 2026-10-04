@@ -1,0 +1,141 @@
+{
+  "slug": "hs-egg-noodles-with-vegetables-and-herb-coconut-sauce",
+  "kind": "meal",
+  "title": "Egg Noodles with Vegetables and Herb Coconut Sauce",
+  "subtitle": "Malaysian-style stir-fry",
+  "description": "Egg noodles are stir-fried with garlic, ginger, capsicum and leek, then coated in a blended basil, coriander, coconut cream and chilli sauce. Served with bean sprouts, peanuts and lime.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%90%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%91%d7%99%d7%a6%d7%99%d7%9d-%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%a8%d7%95%d7%98%d7%91/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/Nudels_004-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "noodles",
+    "stir-fry",
+    "malaysian",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Egg Noodles",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "egg-noodles"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 3,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "product": "ginger"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek"
+    },
+    {
+      "name": "Chives",
+      "qty": 10,
+      "product": "chives"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander",
+      "optional": true
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Coconut Cream",
+      "qty": 120,
+      "unit": "ml",
+      "product": "coconut-cream"
+    },
+    {
+      "name": "Chilli Sauce",
+      "qty": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Bean Sprouts",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "bean-sprouts"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "peanuts",
+      "optional": true
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the egg noodles according to the packet directions, drain and set aside."
+    },
+    {
+      "text": "Heat a wide frying pan over high heat until very hot."
+    },
+    {
+      "text": "Just before stir-frying, make the sauce. Blend the basil, coriander, sugar, coconut cream and chilli sauce with a stick blender until smooth."
+    },
+    {
+      "text": "Add the oil, finely chopped garlic, white part of the spring onions and ginger to the pan and stir-fry for 20 seconds until fragrant. Add the capsicum strips and sliced leek and stir for 30 to 50 seconds, just until they start to soften."
+    },
+    {
+      "text": "Add the green spring onion, chives and noodles, then pour in the sauce. Bring to the boil and stir well until the sauce is absorbed. Season with salt."
+    },
+    {
+      "text": "Transfer to plates and top with bean sprouts, chopped peanuts and lime wedges."
+    }
+  ]
+}

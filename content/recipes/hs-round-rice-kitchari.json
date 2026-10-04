@@ -1,0 +1,103 @@
+{
+  "slug": "hs-round-rice-kitchari",
+  "kind": "meal",
+  "title": "Round Rice Kitchari",
+  "subtitle": "arborio rice and red lentils with garlic and cumin",
+  "description": "Arborio rice and red lentils are cooked together with turmeric and butter, then finished with garlic and cumin fried in olive oil. Serve with yoghurt, sour cream or thinned tahini and tomato.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%99%d7%a6%d7%a8%d7%99-%d7%90%d7%95%d7%a8%d7%96-%d7%a2%d7%92%d7%95%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/shutterstock_746825878-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "rice",
+    "lentils",
+    "vegetarian",
+    "comfort"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Arborio Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Red Lentils",
+      "qty": 1,
+      "unit": "cup",
+      "product": "red-lentils"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Turmeric",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 7,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt",
+      "optional": true
+    },
+    {
+      "name": "Water",
+      "qty": 3.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rinse the rice in a sieve for a few minutes, place in a bowl, cover with water to about 3 cm above the rice and soak for 30 minutes. Drain."
+    },
+    {
+      "text": "Place the lentils in a bowl, cover with water, rub between your hands and drain."
+    },
+    {
+      "text": "Put the rice in a medium pot with 2 cups of water, bring to the boil and cook over medium heat for 10 minutes."
+    },
+    {
+      "text": "Add the lentils, butter and 1 1/2 cups of water. Bring to the boil, add the turmeric and salt, cover, reduce the heat and cook for 10 to 15 minutes until the rice and lentils are soft. Turn off the heat and leave covered for about 10 minutes."
+    },
+    {
+      "text": "While the rice cooks, fry the crushed garlic in olive oil for about 20 seconds over medium heat, stirring. Add the cumin, stir for about 30 seconds and remove from the heat."
+    },
+    {
+      "text": "Stir the garlic mixture into the rice and serve with yoghurt, sour cream or thinned tahini and tomato. Keeps in the fridge for up to 4 days."
+    }
+  ]
+}

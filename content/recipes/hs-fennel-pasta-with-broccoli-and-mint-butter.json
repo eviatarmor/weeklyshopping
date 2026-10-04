@@ -1,0 +1,95 @@
+{
+  "slug": "hs-fennel-pasta-with-broccoli-and-mint-butter",
+  "kind": "meal",
+  "title": "Fennel Pasta with Broccoli and Mint Butter",
+  "subtitle": "with Parmesan",
+  "description": "Slow-roasted fennel and short pasta tossed in a silky broccoli, mint and lemon puree enriched with butter and finished with Parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%94-%d7%a2%d7%9d-%d7%a9%d7%95%d7%9e%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/12/DSCF9872-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 150,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pasta",
+    "fennel",
+    "broccoli",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fennel Bulbs",
+      "qty": 3,
+      "product": "fennel"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 2,
+      "product": "broccoli"
+    },
+    {
+      "name": "Short Pasta",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Fresh Mint",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "mint"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "product": "orange-juice"
+    },
+    {
+      "name": "Chilli Flakes",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 200,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "White Pepper",
+      "product": "white-pepper"
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 170°C. Wrap the fennel in foil and bake for about 2 hours until completely soft. Cool and cut into quarters."
+    },
+    {
+      "text": "Blanch the broccoli florets in boiling water for a few seconds, transfer to iced water and drain. Blanch the mint the same way."
+    },
+    {
+      "text": "Blend the broccoli, mint, lemon juice and chilli in a food processor until smooth and transfer to a wide frying pan. Meanwhile cook the pasta according to the packet instructions."
+    },
+    {
+      "text": "Warm the broccoli puree over low heat (don't let it burn) and whisk in the soft butter one cube at a time."
+    },
+    {
+      "text": "Add the pasta and fennel to the pan, season with salt and white pepper, grate Parmesan over the top and serve straight from the pan."
+    }
+  ]
+}

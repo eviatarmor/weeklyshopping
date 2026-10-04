@@ -1,0 +1,97 @@
+{
+  "slug": "hs-pumpkin-and-parmesan-fritters",
+  "kind": "meal",
+  "title": "Pumpkin and Parmesan Fritters",
+  "subtitle": "gnocchi-style dough fried in sage butter",
+  "description": "Roasted pumpkin is mashed with parmesan and flour into a gnocchi-like dough, sliced into thick rounds and fried in butter with a sage stalk. Serve with sour cream or yoghurt.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%93%d7%9c%d7%a2%d7%aa-%d7%a9%d7%9c-%d7%90%d7%95%d7%a8%d7%9c%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650x500-1140x641-1545824180.jpg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "hashulchan",
+    "pumpkin",
+    "fritters",
+    "vegetarian",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "unit": "kg",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 140,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Sage",
+      "qty": 1,
+      "product": "sage"
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sour Cream",
+      "product": "sour-cream",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 160°C and line a baking tray with baking paper."
+    },
+    {
+      "text": "Place the diced pumpkin on the tray and bake for about 1 hour until soft without browning. Cool."
+    },
+    {
+      "text": "Mash the pumpkin and mix with the parmesan, flour, salt, pepper and nutmeg into a gnocchi-like dough, adding more flour if needed."
+    },
+    {
+      "text": "Shape the dough into a 5 cm wide log and slice into 1 to 2 cm thick fritters. If they are too sticky, flour them and shake off the excess."
+    },
+    {
+      "text": "Heat a non-stick pan with the butter, a little oil and the sage stalk and fry the fritters for 2 to 3 minutes on each side until golden. Remove the sage before it burns."
+    },
+    {
+      "text": "Serve with sour cream or yoghurt."
+    }
+  ]
+}

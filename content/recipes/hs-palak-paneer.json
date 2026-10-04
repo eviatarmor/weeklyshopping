@@ -1,0 +1,124 @@
+{
+  "slug": "hs-palak-paneer",
+  "kind": "meal",
+  "title": "Palak Paneer",
+  "subtitle": "Indian spinach and cheese curry",
+  "description": "Cubes of paneer simmered in a smooth, bright green spinach sauce with cumin, coriander, ginger and chilli. The spinach is cooked with baking soda to keep its colour. Feta or tofu can replace the paneer.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%90%d7%9c%d7%a7-%d7%a4%d7%90%d7%a0%d7%99%d7%a8-%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%92%d7%91%d7%99%d7%a0%d7%94-%d7%95%d7%aa%d7%a8%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/11/830_510-27-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "curry",
+    "indian",
+    "vegetarian",
+    "spinach"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "qty": 500,
+      "unit": "g",
+      "product": "paneer"
+    },
+    {
+      "name": "Spinach",
+      "qty": 1,
+      "unit": "kg",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Baking Soda",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bicarb-soda"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ginger",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "thickened-cream"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a large pot of water with the baking soda. Add the roughly chopped spinach, bring to the boil and cook for 10 minutes until bright green."
+    },
+    {
+      "text": "Drain and blend in a food processor to a smooth, thick puree."
+    },
+    {
+      "text": "Heat the oil in a large frying pan and fry the finely chopped onion for 2-3 minutes until translucent and soft. Add the spices, garlic, ginger and chilli and fry for another 2-3 minutes until the spices become fragrant. Add the spinach puree and cook for 2 minutes."
+    },
+    {
+      "text": "Pour in the water and bring to the boil. Add the butter and cream and cook for 5 minutes over medium heat until the sauce thickens slightly."
+    },
+    {
+      "text": "Just before serving, add the paneer cubes to the hot sauce and cook for 5 minutes so they absorb the flavours. Serve hot."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "hs-onion-jam-and-gruyere-quiche",
+  "kind": "meal",
+  "title": "Onion Jam and Gruyere Quiche",
+  "subtitle": "with slow-cooked onions and thyme",
+  "description": "A buttery tart case filled with slowly cooked onion jam, garlic, thyme and melted Gruyere cheese.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%99%d7%a9-%d7%a8%d7%99%d7%91%d7%aa-%d7%91%d7%a6%d7%9c-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%aa-%d7%92%d7%a8%d7%95%d7%99%d7%99%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-545-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 150,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "quiche",
+    "baked",
+    "onion",
+    "french"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 1.33,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 120,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Juice",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Onions",
+      "qty": 1.25,
+      "unit": "kg",
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 10,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "product": "thyme"
+    },
+    {
+      "name": "Bay Leaf",
+      "qty": 1,
+      "product": "bay-leaves"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Gruyere Cheese",
+      "qty": 1,
+      "unit": "cup"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Process the flour, salt and cold cubed butter in a food processor. Add the cold water and a few drops of lemon juice and process to a smooth dough. Wrap in cling film and refrigerate for 30 minutes."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Roll the dough to 3 mm thick and line the tart tin. Bake for 15 minutes until it just starts to turn golden."
+    },
+    {
+      "text": "Heat oil over medium-low heat. Add the thinly sliced onions, sliced garlic, thyme and bay leaf and cook for about 1 hour, stirring occasionally, until the onion is browned, soft and jam-like."
+    },
+    {
+      "text": "Add the wine and keep cooking until all the liquid is absorbed. Season with salt and pepper and cool. Remove the thyme stem and bay leaf."
+    },
+    {
+      "text": "Preheat the oven to 170°C."
+    },
+    {
+      "text": "Mix the onion mixture with the Gruyere and fill the part-baked tart case. Bake for 50 minutes until the quiche is browned. Serve hot."
+    }
+  ]
+}

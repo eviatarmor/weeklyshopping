@@ -1,0 +1,95 @@
+{
+  "slug": "hs-cauliflower-schnitzel",
+  "kind": "meal",
+  "title": "Cauliflower Schnitzel",
+  "subtitle": "crumbed and deep fried",
+  "description": "Whole cauliflowers are boiled, sliced into thick steaks, then battered, crumbed and fried. Serve with cashew cream or amba.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a9%d7%a0%d7%99%d7%a6%d7%9c-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/08/kruvit_830-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "schnitzel",
+    "fried",
+    "israeli",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 2,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Iced Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Mustard Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "mustard-seeds"
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 3,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring plenty of salted water to the boil in 2 large pots that can hold the cauliflowers whole. Boil them for about 12 minutes until tender but not falling apart. Cool, then slice each cauliflower into 3 thick slices."
+    },
+    {
+      "text": "Heat the oil for deep frying in a pot over medium heat for about 8 minutes."
+    },
+    {
+      "text": "Whisk the flour, iced water and spices in a bowl into a smooth batter. Mix the breadcrumbs on a wide plate."
+    },
+    {
+      "text": "Dip the cauliflower slices in the batter, then coat both sides in breadcrumbs and fry for about 3 minutes. Turn and fry for another 3-4 minutes."
+    },
+    {
+      "text": "Drain on a plate lined with paper towel and serve with cashew cream or amba."
+    }
+  ]
+}

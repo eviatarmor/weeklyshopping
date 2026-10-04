@@ -1,0 +1,136 @@
+{
+  "slug": "hs-quinoa-and-vegetable-patties",
+  "kind": "meal",
+  "title": "Quinoa and Vegetable Patties",
+  "subtitle": "with an Asian dipping sauce",
+  "description": "Cooked quinoa, grated carrot and zucchini, egg and rice flour are pressed into 20 patties and pan-fried until golden. Serve hot or at room temperature with a soy and ginger dipping sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%a7%d7%99%d7%a0%d7%95%d7%90%d7%94-%d7%95%d7%99%d7%a8%d7%a7%d7%95%d7%aa-2/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-235-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "quinoa",
+    "vegetarian",
+    "fried"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "cup",
+      "product": "quinoa"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Eggs",
+      "qty": 4,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Rice Flour",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Rice Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "rice-wine-vinegar",
+      "optional": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "soy-sauce",
+      "optional": true,
+      "pantry": true
+    },
+    {
+      "name": "Mirin",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mirin",
+      "optional": true
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sesame-oil",
+      "optional": true
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sweet-chilli-sauce",
+      "optional": true
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pour 1 1/2 cups of water into a pot, add the quinoa and bring to the boil. Cover, reduce the heat and cook for 15 minutes. Transfer to a bowl, add the finely chopped onion, grated carrot, grated and well-squeezed zucchini, eggs, rice flour and olive oil, then season with salt and pepper."
+    },
+    {
+      "text": "With damp hands, shape the mixture into 20 firmly packed, flattened patties (pressing firmly stops them falling apart)."
+    },
+    {
+      "text": "Heat the canola oil in a large non-stick pan over medium heat and fry the patties for 2 to 3 minutes on each side until golden. Serve hot or at room temperature."
+    },
+    {
+      "text": "For the dipping sauce, mix the rice vinegar, soy sauce, mirin, sesame oil, sweet chilli sauce, grated ginger and a chopped garlic clove, plus chilli if you like."
+    }
+  ]
+}

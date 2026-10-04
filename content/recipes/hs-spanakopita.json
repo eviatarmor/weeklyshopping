@@ -1,0 +1,94 @@
+{
+  "slug": "hs-spanakopita",
+  "kind": "meal",
+  "title": "Spanakopita",
+  "subtitle": "spinach and feta filo pie",
+  "description": "Fresh spinach, spring onions, herbs and sheep's feta baked in layers of olive oil brushed filo. The feta is salty enough that no extra salt is needed. Makes one 15 x 25 cm pie.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%a4%d7%a0%d7%a7%d7%95%d7%a4%d7%99%d7%98%d7%94-%d7%9e%d7%90%d7%a4%d7%94-%d7%aa%d7%a8%d7%93-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%99%d7%95%d7%95%d7%a0%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/shutterstock_433513315-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pie",
+    "spinach",
+    "filo",
+    "greek"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spinach Leaves",
+      "qty": 600,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 3,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Parsley",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Dill",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "dill"
+    },
+    {
+      "name": "Feta",
+      "qty": 200,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Filo Pastry",
+      "qty": 5,
+      "unit": "slice",
+      "product": "filo-pastry"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wilt the spinach in a pot with a little water, stirring occasionally, until it loses its volume and softens. Drain, squeeze gently and cool."
+    },
+    {
+      "text": "Mix the spinach in a bowl with the spring onions, parsley and dill. Crumble in the feta and mix."
+    },
+    {
+      "text": "Beat the eggs in a small bowl, add to the mixture and stir."
+    },
+    {
+      "text": "Cut the filo sheets in half to make 10 sheets slightly larger than the tin. Brush the base of the tin with olive oil, lay down a sheet and brush with oil. Add 2 more sheets the same way."
+    },
+    {
+      "text": "Lay a sheet across the centre of the tin so half of it hangs over the edge, brush with oil, and repeat on the 3 remaining sides."
+    },
+    {
+      "text": "Fill the tin with the spinach mixture and level with a spoon. Fold the overhanging pastry over the filling one side at a time, brushing with oil. Add another sheet, brush with oil, and repeat with the 2 remaining sheets. Tuck the edges in and brush the sides with oil too."
+    },
+    {
+      "text": "Bake in an oven preheated to 180°C for about 35 minutes until nicely golden. Serve hot, warm or cold."
+    }
+  ]
+}

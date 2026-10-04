@@ -1,0 +1,111 @@
+{
+  "slug": "hs-indian-spinach-and-lentil-stew",
+  "kind": "meal",
+  "title": "Indian Spinach and Lentil Stew",
+  "subtitle": "with curry leaves, coconut and goat's yoghurt",
+  "description": "Green lentils are fried with curry leaves, dried chillies, mustard and cumin seeds, then simmered with water spinach, coconut and yoghurt. Serve with rice.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%94%d7%95%d7%93%d7%99-%d7%a9%d7%9c-%d7%aa%d7%a8%d7%93-%d7%95%d7%a2%d7%93%d7%a9%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/double-2-1-1140x641-1566154122.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "indian",
+    "lentils",
+    "stew",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Green Lentils",
+      "qty": 1,
+      "unit": "cup",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Coconut Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "coconut-oil"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Curry Leaves",
+      "qty": 3
+    },
+    {
+      "name": "Dried Red Chillies",
+      "qty": 3,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Black Mustard Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "mustard-seeds"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Water Spinach",
+      "qty": 2,
+      "unit": "bunch",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Curry Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Shredded Coconut",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "desiccated-coconut"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 1,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Rice",
+      "product": "white-rice"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil plenty of water in a pot and cook the lentils uncovered over medium heat for 30 minutes until tender. Drain."
+    },
+    {
+      "text": "Heat the coconut oil in a pan and fry the finely chopped onion over medium heat for 3 to 4 minutes until golden. Add the curry leaves and fry for 2 to 3 minutes until dark green. Add the dried chillies, mustard seeds and cumin seeds, stir and fry for 1 to 2 minutes until fragrant."
+    },
+    {
+      "text": "Add the spinach, curry powder, lentils and coconut and stir."
+    },
+    {
+      "text": "Pour in the stock, add half the yoghurt and bring to the boil. Reduce the heat and cook uncovered for 5 minutes until the spinach wilts."
+    },
+    {
+      "text": "Transfer to plates, sprinkle with a little coconut and pour the remaining yoghurt over the top. Serve immediately with a plate of rice."
+    }
+  ]
+}

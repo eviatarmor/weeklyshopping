@@ -1,0 +1,116 @@
+{
+  "slug": "hs-red-onion-and-cheese-quiche",
+  "kind": "meal",
+  "title": "Red Onion and Cheese Quiche",
+  "subtitle": "with balsamic roasted onions and goat's cheese",
+  "description": "Red onions roasted in balsamic vinegar sit in a rich custard of goat's cheese and cream in a crisp pastry case.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%99%d7%a9-%d7%91%d7%a6%d7%9c%d7%99%d7%9d-%d7%a1%d7%92%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-517-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 110,
+  "tags": [
+    "hashulchan",
+    "quiche",
+    "baked",
+    "onion",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Shortcrust Pastry",
+      "qty": 450,
+      "unit": "g",
+      "product": "shortcrust-pastry"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "balsamic-vinegar"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "cup",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Red Onions",
+      "qty": 4,
+      "product": "red-onion"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Cream",
+      "qty": 125,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Goat's Cheese Log",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Thyme",
+      "qty": 3,
+      "product": "thyme"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C and line a baking tray with baking paper."
+    },
+    {
+      "text": "Mix the olive oil, balsamic vinegar and sugar in a bowl. Peel and halve the onions crosswise, add them and toss to coat. Arrange cut side up on the tray."
+    },
+    {
+      "text": "Bake for 20 minutes. Remove the onions and cool well. Leave the oven on."
+    },
+    {
+      "text": "Line a loose-based tart tin with the pastry and trim the excess. Cover with baking paper and fill with dried beans as weights."
+    },
+    {
+      "text": "Blind bake for 10 minutes, remove the paper and beans and bake for 5 more minutes until lightly golden. Leave the oven on."
+    },
+    {
+      "text": "Whisk the eggs with the cream and season with salt and pepper."
+    },
+    {
+      "text": "Sprinkle the grated kashkaval over the pastry case, arrange the onions cut side up with slices of goat's cheese between them, scatter over the thyme leaves and pour in the cream mixture."
+    },
+    {
+      "text": "Bake for about 45 minutes until the quiche is set and golden. Rest for at least 15 minutes before slicing."
+    }
+  ]
+}

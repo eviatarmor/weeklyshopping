@@ -1,0 +1,112 @@
+{
+  "slug": "hs-pea-and-potato-curry-frittata",
+  "kind": "meal",
+  "title": "Pea and Potato Curry Frittata",
+  "subtitle": "with green curry paste and Parmesan",
+  "description": "A frittata of golden onion and potato with peas and green curry paste, set in cream and eggs and browned under the grill.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a8%d7%99%d7%98%d7%98%d7%94-%d7%a9%d7%9c-%d7%90%d7%a4%d7%95%d7%a0%d7%94-%d7%95%d7%aa%d7%a4%d7%95%d7%97%d7%99-%d7%90%d7%93%d7%9e%d7%94-%d7%91%d7%a7%d7%90%d7%a8%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-16-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "frittata",
+    "eggs",
+    "curry",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 3,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Green Curry Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "green-curry-paste"
+    },
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato"
+    },
+    {
+      "name": "Frozen Peas",
+      "qty": 2,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Eggs",
+      "qty": 8,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Cream",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C on grill or top heat. Thaw the peas about 30 minutes ahead."
+    },
+    {
+      "text": "Melt the butter with the oil in a large ovenproof frying pan. Add the finely chopped onions and fry for about 10 minutes until golden. Add the curry powder and paste and fry for 1 minute."
+    },
+    {
+      "text": "Add the diced potatoes and keep frying for about 7 minutes until the cubes start to brown. Remove from the heat, add the peas and stir."
+    },
+    {
+      "text": "Whisk the eggs and cream with salt, pepper and nutmeg. Pour over the onion and potatoes, sprinkle with the cheese and cook for 5 to 6 minutes more until it starts to set."
+    },
+    {
+      "text": "Transfer the pan to the preheated oven and brown under the grill for about 8 minutes, until set and slightly golden."
+    }
+  ]
+}

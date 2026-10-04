@@ -1,0 +1,92 @@
+{
+  "slug": "hs-zucchini-and-za-atar-patties",
+  "kind": "meal",
+  "title": "Zucchini and Za'atar Patties",
+  "subtitle": "with feta and pecorino, finished with lemon",
+  "description": "Coarsely grated zucchini is mixed with feta, pecorino, za'atar leaves and breadcrumbs, chilled for 2 hours, then pan-fried and finished with lemon juice. Serve hot or at room temperature.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%a7%d7%99%d7%a9%d7%95%d7%90%d7%99%d7%9d-%d7%95%d7%96%d7%a2%d7%aa%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-323-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 150,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "vegetarian",
+    "fried",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 700,
+      "unit": "g",
+      "product": "zucchini"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 3,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Feta",
+      "qty": 150,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Pecorino",
+      "qty": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Za'atar Leaves",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix all the patty ingredients and refrigerate for 2 hours to firm up."
+    },
+    {
+      "text": "Heat oil in a frying pan and shape patties using 2 spoons (the mixture is soft). Fry over medium heat for about 2 minutes on each side until golden."
+    },
+    {
+      "text": "Squeeze fresh lemon juice over the top and serve hot or at room temperature."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "hs-giant-portobello-mushrooms-with-mushroom-duxelles",
+  "kind": "meal",
+  "title": "Giant Portobello Mushrooms with Mushroom Duxelles",
+  "subtitle": "served on rocket",
+  "description": "Large portobello caps are filled with a classic mushroom, shallot and thyme duxelles with breadcrumbs, then baked and served on rocket.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%92%d7%94-%d7%a4%d7%95%d7%a8%d7%98%d7%91%d7%9c%d7%94-%d7%91%d7%9e%d7%99%d7%9c%d7%95%d7%99-%d7%93%d7%95%d7%a7%d7%a1%d7%9c-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/8907-1-1140x641-1576656099.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "mushrooms",
+    "stuffed",
+    "baked",
+    "french"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 8,
+      "product": "mushrooms"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Mixed Mushrooms",
+      "qty": 400,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Shallot",
+      "qty": 1,
+      "product": "eschalot"
+    },
+    {
+      "name": "Butter",
+      "qty": 25,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Thyme Leaves",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Parsley",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "parmesan",
+      "optional": true
+    },
+    {
+      "name": "Rocket",
+      "product": "rocket"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C. Remove the stems from the portobello mushrooms, brush the caps with olive oil, season with salt and pepper and place on a baking tray lined with baking paper."
+    },
+    {
+      "text": "Finely chop the mixed mushrooms and shallot. Place the chopped mushrooms in a clean cloth and squeeze out the liquid."
+    },
+    {
+      "text": "Heat the butter and 1 tablespoon olive oil in a frying pan and saute the shallot for 2 minutes. Add the chopped mushrooms and cook over high heat for 1 to 2 minutes. Season with thyme, salt and pepper."
+    },
+    {
+      "text": "When the mushrooms are golden, add the wine and let it evaporate for 2 minutes. Remove from the heat."
+    },
+    {
+      "text": "Stir in the breadcrumbs, parsley and Parmesan. Divide the filling between the mushroom caps."
+    },
+    {
+      "text": "Bake for 20 minutes until the mushrooms are nicely browned. Serve hot on a bed of rocket."
+    }
+  ]
+}

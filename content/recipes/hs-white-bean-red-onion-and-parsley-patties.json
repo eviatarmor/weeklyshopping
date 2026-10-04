@@ -1,0 +1,100 @@
+{
+  "slug": "hs-white-bean-red-onion-and-parsley-patties",
+  "kind": "meal",
+  "title": "White Bean, Red Onion and Parsley Patties",
+  "subtitle": "crumbed and pan-fried",
+  "description": "Mashed white beans are mixed with red onion, garlic and parsley, shaped into flat patties, coated in egg and breadcrumbs and pan-fried. Serve hot or at room temperature with a garlicky tomato salsa.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%9c%d7%91%d7%a0%d7%94-%d7%91%d7%a6%d7%9c-%d7%a1%d7%92%d7%95%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-11-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "beans",
+    "vegetarian",
+    "fried"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cooked White Beans",
+      "qty": 2,
+      "unit": "cup",
+      "product": "cannellini-beans"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1.5,
+      "product": "long-red-chilli",
+      "optional": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mash the beans with a fork, add the onion, garlic, parsley, chilli, salt and pepper and mix. Adjust the seasoning."
+    },
+    {
+      "text": "Shape into flat round patties 6 to 7 cm across, dip in the beaten egg, then in the breadcrumbs."
+    },
+    {
+      "text": "Heat a non-stick frying pan with a little oil and fry the patties for 2 minutes on each side until golden. Transfer to paper towel."
+    },
+    {
+      "text": "Serve hot or at room temperature with a salsa of tomatoes seasoned with garlic."
+    }
+  ]
+}

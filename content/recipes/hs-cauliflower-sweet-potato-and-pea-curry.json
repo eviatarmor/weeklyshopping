@@ -1,0 +1,116 @@
+{
+  "slug": "hs-cauliflower-sweet-potato-and-pea-curry",
+  "kind": "meal",
+  "title": "Cauliflower, Sweet Potato and Pea Curry",
+  "subtitle": "with coconut cream",
+  "description": "Cauliflower and sweet potato are simmered with ghee, mustard seeds, cumin and curry spices, then finished with peas and coconut cream. A little yoghurt or coconut milk at the end makes the sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%90%d7%a8%d7%99-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%91%d7%98%d7%98%d7%94-%d7%95%d7%90%d7%a4%d7%95%d7%a0%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-297-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "hashulchan",
+    "curry",
+    "vegetarian",
+    "indian",
+    "coconut"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ghee",
+      "qty": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Black Mustard Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "mustard-seeds"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Frozen Peas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Coconut Cream",
+      "qty": 0.5,
+      "unit": "tin",
+      "product": "coconut-cream"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Finely chop the ginger and chilli, and cut the sweet potatoes into 3 cm cubes. Break the cauliflower into florets."
+    },
+    {
+      "text": "Heat the ghee, mustard seeds, cumin seeds, ginger and chilli in a medium pot over medium heat until fragrant. Add the cauliflower and sweet potato and fry for 2 to 3 minutes."
+    },
+    {
+      "text": "Add the turmeric, curry powder, garam masala and 1 cup of water. Cover and cook for about 15 minutes, or until the vegetables are just tender."
+    },
+    {
+      "text": "Add the peas, coconut cream and salt and cook for another 5 minutes."
+    }
+  ]
+}

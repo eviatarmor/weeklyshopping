@@ -1,0 +1,97 @@
+{
+  "slug": "hs-bulgur-chickpea-and-cauliflower-stew",
+  "kind": "meal",
+  "title": "Bulgur, Chickpea and Cauliflower Stew",
+  "subtitle": "Zahra's menazelet with tomato paste and dried mint",
+  "description": "A tomato-based stew of fried cauliflower, coarse bulgur and chickpeas, finished with butter sizzled with dried mint. Cook it briefly for a saucy dish or longer for a thicker one.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%91%d7%95%d7%a8%d7%92%d7%95%d7%9c-%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%95%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/IMG_0063-e1551087231371-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stew",
+    "bulgur",
+    "chickpeas",
+    "cauliflower"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Coarse Bulgur",
+      "qty": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "l",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Cooked Chickpeas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Butter",
+      "qty": 25,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Dried Mint",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-mint"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Break the cauliflower into florets and deep fry until golden."
+    },
+    {
+      "text": "Heat olive oil in a pot and fry the chopped onion until golden. Add the garlic and fry for half a minute. Add the tomato paste and bulgur and fry for about 1 minute. Add the water and bring to the boil (add a little more water if it gets too thick)."
+    },
+    {
+      "text": "Add the chickpeas and cauliflower, cover, reduce the heat and cook for about half an hour."
+    },
+    {
+      "text": "Pour the stew onto a serving plate. Melt the butter in a frying pan, add the dried mint, fry for about 10 seconds and pour over the stew."
+    }
+  ]
+}

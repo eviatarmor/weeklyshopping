@@ -1,0 +1,108 @@
+{
+  "slug": "hs-charcoal-grilled-tofu-with-tabbouleh",
+  "kind": "meal",
+  "title": "Charcoal-Grilled Tofu with Tabbouleh",
+  "subtitle": "with smoky eggplant and fresh herbs",
+  "description": "A slab of tofu grilled over charcoal and sliced thinly, served on a bulgur tabbouleh with smoky burnt eggplant, tomato, cucumber and plenty of fresh herbs.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%98%d7%95%d7%a4%d7%95-%d7%91%d7%92%d7%a8%d7%99%d7%9c-%d7%a4%d7%97%d7%9e%d7%99%d7%9d-%d7%a2%d7%9d-%d7%a1%d7%9c%d7%98-%d7%98%d7%91%d7%95%d7%9c%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/sarit_goffen-6538-1140x641.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "tofu",
+    "tabbouleh",
+    "grilled",
+    "middle eastern"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Firm Tofu",
+      "qty": 300,
+      "unit": "g",
+      "product": "tofu"
+    },
+    {
+      "name": "Coarse Bulgur",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 2,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "mint"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Juice",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the bulgur in lukewarm water for about 20 minutes and drain well."
+    },
+    {
+      "text": "Char the eggplant over an open flame, peel and chop. Cut the tomato and cucumber into small cubes and chop the spring onions and herbs."
+    },
+    {
+      "text": "Mix the bulgur with all the vegetables and herbs and season with olive oil, lemon juice, salt and black pepper."
+    },
+    {
+      "text": "Grill the block of tofu over charcoal for about 2 minutes on each side, then slice thinly."
+    },
+    {
+      "text": "To serve, place two spoonfuls of tabbouleh in the centre of each plate and top with slices of grilled tofu."
+    }
+  ]
+}

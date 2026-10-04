@@ -1,0 +1,137 @@
+{
+  "slug": "hs-vegan-black-bean-burgers",
+  "kind": "meal",
+  "title": "Vegan Black Bean Burgers",
+  "subtitle": "with corn and coriander, served in a sweet bun",
+  "description": "Mashed black beans are mixed with sauteed red onion, capsicum, chilli, corn, breadcrumbs, cumin and coriander, shaped into patties, floured and pan-fried. Serve in a bun with the usual burger trimmings.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%92%d7%a8-%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%a9%d7%97%d7%95%d7%a8%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-28-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burger",
+    "vegan",
+    "beans",
+    "mexican"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Fresh Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 2,
+      "unit": "tin",
+      "product": "black-beans"
+    },
+    {
+      "name": "Corn Cobs",
+      "qty": 1,
+      "product": "corn-cob"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Coriander",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "coriander"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Burger Buns",
+      "qty": 4,
+      "product": "bread-rolls"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "optional": true
+    },
+    {
+      "name": "Lettuce",
+      "product": "iceberg-lettuce",
+      "optional": true
+    },
+    {
+      "name": "Pickles",
+      "product": "pickles",
+      "optional": true
+    },
+    {
+      "name": "Ketchup",
+      "product": "tomato-sauce",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat 3 tbsp olive oil in a pan over medium heat and cook the finely chopped onion, capsicum and chilli for about 10 minutes until golden and the liquid evaporates. Add the garlic and fry for about 1 minute more until it starts to colour. Transfer to a bowl."
+    },
+    {
+      "text": "Mash the drained beans to a smooth puree in a large bowl and add the fried vegetables. Add the corn kernels, breadcrumbs, cumin, coriander and salt and mix."
+    },
+    {
+      "text": "Spread the flour on a plate. Shape the mixture into flat patties and dip both sides in the flour."
+    },
+    {
+      "text": "Heat 1 tbsp olive oil in a pan over medium heat and fry 2 patties on both sides until browned. Repeat with the remaining patties, using 1 tbsp oil for every 2 patties."
+    },
+    {
+      "text": "Serve in buns with ketchup, pickles, tomato, lettuce and any other trimmings."
+    }
+  ]
+}

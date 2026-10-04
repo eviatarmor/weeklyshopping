@@ -1,0 +1,114 @@
+{
+  "slug": "hs-pumpkin-chestnut-pasta",
+  "kind": "meal",
+  "title": "Pumpkin Chestnut Pasta",
+  "subtitle": "linguine in a browned butter pumpkin cream sauce",
+  "description": "Pumpkin, chestnuts and fresh chilli are ground into a paste with brown butter, then melted into a cream sauce and tossed through linguine. Butternut or any fresh pumpkin works.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%93%d7%99%d7%90%d7%91%d7%95%d7%9c%d7%95-%d7%93%d7%99-%d7%96%d7%95%d7%a7%d7%90/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/06/DSCF4857-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "pumpkin",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "qty": 300,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "unit": "kg",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Chestnuts",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Fresh Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Cream",
+      "qty": 250,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Linguine",
+      "qty": 500,
+      "unit": "g",
+      "product": "linguine"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Melt the butter in a pan over high heat and cook for 1 to 2 minutes, stirring, until brown. Remove from the heat."
+    },
+    {
+      "text": "Grind the pumpkin, chestnuts and chilli in a mincer or food processor and transfer to a bowl."
+    },
+    {
+      "text": "Add the brown butter, salt and smoked paprika and mix to a paste. Refrigerate for about 30 minutes until firm."
+    },
+    {
+      "text": "Heat the olive oil in a wide pot over medium heat, add the pumpkin paste and heat until melted, stirring occasionally. Add the cream and cook for about 5 minutes until reduced by half."
+    },
+    {
+      "text": "Cook the linguine according to the packet directions, then add it to the pot and stir. Add the parsley and season with salt and pepper."
+    },
+    {
+      "text": "Serve with parmesan and chopped chestnuts, if you like."
+    }
+  ]
+}

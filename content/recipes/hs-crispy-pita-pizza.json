@@ -1,0 +1,76 @@
+{
+  "slug": "hs-crispy-pita-pizza",
+  "kind": "meal",
+  "title": "Crispy Pita Pizza",
+  "subtitle": "with fennel, red onion, goat's cheese and tarragon",
+  "description": "A five-minute pizza made on a thin Druze or Lebanese pita, topped with finely sliced tomato, fennel, red onion, mozzarella and goat's cheese. Slice everything thinly so it cooks through in the short bake.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a8%d7%99%d7%a1%d7%a4%d7%99%d7%a6%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/crispy_pizza_830x510-1140x641.jpg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "hashulchan",
+    "pizza",
+    "baked",
+    "quick",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "qty": 2,
+      "product": "pita-bread"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Fennel",
+      "qty": 1,
+      "product": "fennel"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 150,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Goat's Cheese",
+      "qty": 1,
+      "product": "goat-s-cheese"
+    },
+    {
+      "name": "Tarragon",
+      "qty": 2
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Line 2 baking trays with baking paper and place a pita on each."
+    },
+    {
+      "text": "Scatter the thinly sliced vegetables, cheeses and tarragon leaves over the whole surface of each pita (bare areas can dry out) and drizzle with olive oil."
+    },
+    {
+      "text": "Bake for 4 to 5 minutes until golden and bubbling. Serve immediately."
+    }
+  ]
+}

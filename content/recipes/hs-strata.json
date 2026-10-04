@@ -1,0 +1,139 @@
+{
+  "slug": "hs-strata",
+  "kind": "meal",
+  "title": "Strata",
+  "subtitle": "Italian bread bake with chard, mushrooms and Parmesan",
+  "description": "Cubes of day-old challah or focaccia are soaked overnight in an egg and cream custard, mixed with sauteed chard and mushrooms and baked until golden. Best eaten the day it is baked, when it is light and soft.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d6%b0%d7%98%d6%b0%d7%a8%d6%b8%d7%90%d7%98%d6%b8%d7%94-%d7%a4%d7%a9%d7%98%d7%99%d7%93%d7%aa-%d7%9c%d7%97%d7%9d-%d7%90%d7%99%d7%98%d7%9c%d7%a7%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/11/sate-00077-e1579705685223-1140x641-1579705721.jpg",
+  "servings": 8,
+  "prepMinutes": 90,
+  "tags": [
+    "hashulchan",
+    "bake",
+    "italian",
+    "brunch",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Challah",
+      "qty": 6,
+      "unit": "cup"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Egg Yolks",
+      "qty": 4
+    },
+    {
+      "name": "Wholemeal Flour",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Cooking Cream",
+      "qty": 750,
+      "unit": "ml",
+      "product": "cooking-cream"
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit": "cup",
+      "product": "milk"
+    },
+    {
+      "name": "Sea Salt",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "salt"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "thyme"
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 2,
+      "unit": "cup",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Onion",
+      "qty": 0.5,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 200,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 1,
+      "unit": "cup",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Whisk the eggs, egg yolks, flour, cream and milk in a large bowl until smooth. Season with salt, pepper, thyme and nutmeg."
+    },
+    {
+      "text": "Add the bread cubes (3 cm) and mix well to coat. Cover with cling film and refrigerate for at least 4 hours or overnight."
+    },
+    {
+      "text": "Heat 2 tbsp oil in a frying pan and fry the chopped garlic and silverbeet for 2 minutes until the silverbeet wilts. Transfer to a clean plate."
+    },
+    {
+      "text": "Heat the remaining oil and fry the sliced onion and torn mushrooms for 4 minutes until the onion is almost golden. Let cool."
+    },
+    {
+      "text": "Preheat the oven to 175°C and grease a baking dish."
+    },
+    {
+      "text": "Mix the fried vegetables with the soaked bread and Parmesan and transfer to the dish."
+    },
+    {
+      "text": "Bake for 35 minutes until browned and a skewer inserted in the centre comes out clean. Rest for 15 minutes and serve hot or warm."
+    }
+  ]
+}

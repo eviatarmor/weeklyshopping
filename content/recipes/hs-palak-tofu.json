@@ -1,0 +1,99 @@
+{
+  "slug": "hs-palak-tofu",
+  "kind": "meal",
+  "title": "Palak Tofu",
+  "subtitle": "vegan spinach and tofu curry",
+  "description": "A vegan take on palak paneer: pureed spinach is simmered with spiced onion and tomato, finished with coconut butter and tossed with tofu.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%9c%d7%90%d7%a7-%d7%98%d7%95%d7%a4%d7%95/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/09/shutterstock_1205134621-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "indian",
+    "curry",
+    "vegan",
+    "spinach"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spinach",
+      "qty": 1,
+      "unit": "kg",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 2,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Ginger",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 5,
+      "product": "tomato"
+    },
+    {
+      "name": "Coarse Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 3,
+      "unit": "tsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Coconut Butter",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "butter"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 300,
+      "unit": "g",
+      "product": "tofu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Blanch the spinach in plenty of boiling water for about 5 minutes until soft. Drain and blend in a food processor for 5 minutes to a smooth puree."
+    },
+    {
+      "text": "Heat the olive oil in a deep pan and fry the finely chopped onion over medium heat for 5 minutes until golden. Add the chilli and grated ginger and stir. Add the crushed garlic and fry for 1 minute, stirring. Add the diced tomatoes, garam masala and salt and cook for 5 minutes, stirring occasionally."
+    },
+    {
+      "text": "Add the spinach puree and cook for 2 minutes, stirring. Add the coconut butter and stir for 1 minute. Add the tofu and stir until it is coated in the sauce. Serve immediately."
+    }
+  ]
+}

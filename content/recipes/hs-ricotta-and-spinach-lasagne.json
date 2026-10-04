@@ -1,0 +1,120 @@
+{
+  "slug": "hs-ricotta-and-spinach-lasagne",
+  "kind": "meal",
+  "title": "Ricotta and Spinach Lasagne",
+  "subtitle": "with a creamy bechamel top",
+  "description": "A vegetarian lasagne layered with a garlicky spinach and ricotta filling and topped with bechamel. Bake until lightly browned on top.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%96%d7%a0%d7%99%d7%94-%d7%a8%d7%99%d7%a7%d7%95%d7%98%d7%94-%d7%95%d7%aa%d7%a8%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/05/spinich_830-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 70,
+  "tags": [
+    "hashulchan",
+    "lasagne",
+    "baked",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lasagne Sheets",
+      "qty": 500,
+      "unit": "g",
+      "product": "lasagne-sheets"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Frozen Spinach",
+      "qty": 1,
+      "unit": "packet",
+      "product": "frozen-spinach"
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 2,
+      "unit": "pinch",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ricotta",
+      "qty": 250,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan",
+      "optional": true
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "milk"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a frying pan and fry the halved garlic until golden. Pour the oil into a small bowl, leaving the garlic in the pan."
+    },
+    {
+      "text": "Add the spinach to the pan, reduce the heat and cook for 3 minutes to evaporate the liquid. Season with salt, pepper and nutmeg and take off the heat. Stir in the ricotta and egg."
+    },
+    {
+      "text": "Cook the lasagne sheets in boiling salted water for 2-3 minutes until slightly softened. Preheat the oven to 180°C."
+    },
+    {
+      "text": "Line a greased 20x30 cm baking dish with a layer of lasagne sheets and spread a third of the spinach mixture over them. Repeat 3 times, finishing with a layer of lasagne sheets."
+    },
+    {
+      "text": "For the bechamel, melt the butter in a small pot, add the flour and stir until absorbed. Pour in the milk, bring to a simmer and cook for 2-3 minutes, stirring, until thickened. Season with salt, pepper and nutmeg."
+    },
+    {
+      "text": "Pour the bechamel over the lasagne and grate a little Parmesan on top if you like. Bake uncovered for 20 minutes until the top is lightly browned."
+    }
+  ]
+}

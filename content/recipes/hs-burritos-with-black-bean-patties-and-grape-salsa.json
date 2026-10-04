@@ -1,0 +1,105 @@
+{
+  "slug": "hs-burritos-with-black-bean-patties-and-grape-salsa",
+  "kind": "meal",
+  "title": "Burritos with Black Bean Patties and Grape Salsa",
+  "subtitle": "with a creamy chipotle sauce",
+  "description": "Pan-fried black bean patties wrapped in tortillas with a fresh red grape and coriander salsa and a sour cream chipotle sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%99%d7%98%d7%95-%d7%a2%d7%9d-%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%a9%d7%97%d7%95%d7%a8%d7%94-%d7%95%d7%a1%d7%9c%d7%a1%d7%aa-%d7%a2%d7%a0/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-647-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "hashulchan",
+    "burrito",
+    "mexican",
+    "black bean",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Large Tortillas",
+      "qty": 8,
+      "product": "wraps"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "black-beans"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Grapes",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "grapes"
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 0.5,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 1,
+      "unit": "jar",
+      "product": "sour-cream"
+    },
+    {
+      "name": "Chipotle Paste",
+      "product": "chipotle-in-adobo",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Gently mix the black beans (with their liquid), breadcrumbs, cumin, chilli powder and salt, taking care not to mash the beans too much. Shape into patties, adding a little more breadcrumbs if needed."
+    },
+    {
+      "text": "Heat a thin layer of oil in a frying pan over medium heat and fry the patties on both sides (carefully, as the beans tend to spit). Transfer to a plate lined with paper towel."
+    },
+    {
+      "text": "For the salsa, halve the grapes lengthwise and mix with the coriander leaves and the chilli cut into matchsticks."
+    },
+    {
+      "text": "For the sauce, mix the sour cream with finely chopped chipotle."
+    },
+    {
+      "text": "To serve, warm the tortillas in a dry frying pan and place on a plate. Put a few black bean patties in the centre of each, add salsa and drizzle generously with the sauce. Fold into burritos and serve immediately."
+    }
+  ]
+}

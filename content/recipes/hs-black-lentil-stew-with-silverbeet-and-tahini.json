@@ -1,0 +1,107 @@
+{
+  "slug": "hs-black-lentil-stew-with-silverbeet-and-tahini",
+  "kind": "meal",
+  "title": "Black Lentil Stew with Silverbeet and Tahini",
+  "description": "Black lentils cooked with thyme, sage, garlic and carrots, finished with silverbeet and served over raw tahini with lemon. It can be made ahead and returned to the pot with the greens just before serving.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%a2%d7%9d-%d7%aa%d7%a8%d7%93-%d7%aa%d7%95%d7%a8%d7%9b%d7%99-%d7%95%d7%98%d7%97%d7%99%d7%a0%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/Image_2695-1140x641-1603703924.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stew",
+    "lentils",
+    "israeli",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Black Lentils",
+      "qty": 500,
+      "unit": "g",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Thyme",
+      "qty": 2,
+      "product": "thyme"
+    },
+    {
+      "name": "Sage Leaves",
+      "qty": 6,
+      "product": "sage"
+    },
+    {
+      "name": "Garlic",
+      "qty": 6,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Tahini",
+      "qty": 1,
+      "unit": "cup",
+      "product": "tahini"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place the lentils, thyme, sage, whole peeled garlic, onion cut into eighths, carrots cut into 1 cm rounds, deseeded chopped chilli and olive oil in a wide pot. Add water to cover and bring to the boil."
+    },
+    {
+      "text": "Reduce the heat and cook uncovered until the lentils are al dente and most of the liquid has evaporated. You can prepare up to this point ahead of time."
+    },
+    {
+      "text": "Before serving, return the stew to the stove and add salt, pepper and the silverbeet. Cook for about 5 minutes over low heat until the silverbeet softens."
+    },
+    {
+      "text": "Spoon the tahini into 4 deep bowls, top with the stew and serve with a lemon wedge."
+    }
+  ]
+}

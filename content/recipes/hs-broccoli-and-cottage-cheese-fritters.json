@@ -1,0 +1,100 @@
+{
+  "slug": "hs-broccoli-and-cottage-cheese-fritters",
+  "kind": "meal",
+  "title": "Broccoli and Cottage Cheese Fritters",
+  "subtitle": "served with sour cream and dill",
+  "description": "Finely chopped broccoli, cottage cheese, eggs and herbs are mixed into a batter and pan-fried like pancakes. Serve with sour cream and extra dill.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%91%d7%a8%d7%95%d7%a7%d7%95%d7%9c%d7%99-%d7%95%d7%a7%d7%95%d7%98%d7%92/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/141_Broccoli-and-Cottage-Cheese-2Pancakes-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "fritters",
+    "broccoli",
+    "vegetarian",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "qty": 0.5,
+      "product": "broccoli"
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 250,
+      "unit": "g",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Chives",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "chives"
+    },
+    {
+      "name": "Dill",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "dill"
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 200,
+      "unit": "g",
+      "product": "sour-cream"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix all the ingredients except the olive oil in a bowl to a uniform batter."
+    },
+    {
+      "text": "Heat 1 tbsp olive oil in a 25 cm pan over medium heat. Fry the fritters (3 tbsp of batter for each) for about 3 minutes on each side until browned, adding 1 tbsp oil to the pan after each batch."
+    },
+    {
+      "text": "Sprinkle with chopped dill and serve with sour cream."
+    }
+  ]
+}

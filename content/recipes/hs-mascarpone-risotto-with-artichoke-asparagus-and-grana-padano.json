@@ -1,0 +1,139 @@
+{
+  "slug": "hs-mascarpone-risotto-with-artichoke-asparagus-and-grana-padano",
+  "kind": "meal",
+  "title": "Mascarpone Risotto with Artichoke, Asparagus and Grana Padano",
+  "subtitle": "with lemon, parsley and chives",
+  "description": "Creamy arborio risotto cooked in white wine and vegetable stock, stirred with mascarpone, asparagus and fresh herbs and topped with golden fried artichokes and shaved grana padano.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%9e%d7%a1%d7%a7%d7%a8%d7%a4%d7%95%d7%a0%d7%94-%d7%a2%d7%9d-%d7%90%d7%a8%d7%98%d7%99%d7%a9%d7%95%d7%a7/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-63-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "risotto",
+    "italian",
+    "vegetarian",
+    "rice"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Arborio Rice",
+      "qty": 300,
+      "unit": "g",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 0.5,
+      "unit": "l",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Leek",
+      "qty": 2,
+      "product": "leek"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Thyme",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "thyme"
+    },
+    {
+      "name": "White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "qty": 5,
+      "product": "artichoke-hearts"
+    },
+    {
+      "name": "Asparagus",
+      "qty": 8,
+      "product": "asparagus"
+    },
+    {
+      "name": "Mascarpone",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mascarpone"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Chives",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "chives"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon"
+    },
+    {
+      "name": "Grana Padano",
+      "qty": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the vegetable stock in a small pot, season with salt and pepper and keep it on low heat."
+    },
+    {
+      "text": "Melt the butter and 1 tbsp oil in a deep, narrow pot and soften the thinly sliced white part of the leek, garlic and thyme over low heat for about 3 minutes. Add the rice and stir until coated in the fat, cooking for another minute. Pour in the wine and cook until almost absorbed."
+    },
+    {
+      "text": "Add a ladle of hot stock and stir until absorbed. Keep cooking over low heat, adding the stock gradually and waiting for each ladle to be absorbed before adding the next. Stop when the grains are al dente and the rice absorbs liquid very slowly."
+    },
+    {
+      "text": "Meanwhile, heat the remaining olive oil in a wide pan and fry the sliced artichoke hearts for 5 to 6 minutes until golden and soft."
+    },
+    {
+      "text": "Add the blanched, roughly sliced asparagus, mascarpone, parsley, chives and lemon juice to the risotto and mix well."
+    },
+    {
+      "text": "Plate the risotto, top with the fried artichokes, sprinkle with grated grana padano and serve."
+    }
+  ]
+}

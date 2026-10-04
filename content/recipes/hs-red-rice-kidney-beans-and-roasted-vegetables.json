@@ -1,0 +1,154 @@
+{
+  "slug": "hs-red-rice-kidney-beans-and-roasted-vegetables",
+  "kind": "meal",
+  "title": "Red Rice, Kidney Beans and Roasted Vegetables",
+  "subtitle": "with coconut, ginger and fresh spinach",
+  "description": "Red rice cooked in coconut water and mixed with kidney beans, oven-roasted zucchini, carrot and cauliflower, fresh spinach and coriander.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%90%d7%95%d7%a8%d7%96-%d7%90%d7%93%d7%95%d7%9d-%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%90%d7%93%d7%95%d7%9e%d7%94-%d7%95%d7%99%d7%a8%d7%a7%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/sarit_goffen-0432-1140x641-1564909307.jpg",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "rice",
+    "beans",
+    "roasted vegetables",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Rice",
+      "qty": 2,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Coconut Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sesame-oil"
+    },
+    {
+      "name": "Rice Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "rice-wine-vinegar"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Cooked Kidney Beans",
+      "qty": 2,
+      "unit": "cup",
+      "product": "red-kidney-beans"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Cauliflower Florets",
+      "qty": 1,
+      "unit": "cup",
+      "product": "cauliflower"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Fresh Herbs",
+      "qty": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Spinach",
+      "qty": 6,
+      "unit": "cup",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C and line a baking tray with baking paper."
+    },
+    {
+      "text": "Place the red rice, salt, coconut water and water in a pot and bring to the boil. Reduce the heat, cover and cook for about 40 minutes until the rice is ready."
+    },
+    {
+      "text": "Toss the diced zucchini and carrot and the cauliflower on the tray with 2 tablespoons olive oil, garlic, ginger, herbs, coarse salt and pepper."
+    },
+    {
+      "text": "Bake for 25 minutes until the vegetables are crisp."
+    },
+    {
+      "text": "Stir 1 tablespoon olive oil, the sesame oil, rice vinegar and chilli into the rice."
+    },
+    {
+      "text": "Mix the rice with the cooked kidney beans, roasted vegetables, chopped fresh spinach and coriander. Taste and adjust the seasoning and serve hot."
+    }
+  ]
+}

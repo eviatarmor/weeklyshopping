@@ -1,0 +1,94 @@
+{
+  "slug": "hs-rice-pilaf-with-leek-walnuts-and-mushrooms",
+  "kind": "meal",
+  "title": "Rice Pilaf with Leek, Walnuts and Mushrooms",
+  "subtitle": "with three kinds of mushrooms",
+  "description": "Mushrooms are stir-fried with leek and walnuts, then tossed with cold cooked rice in the Asian style so they stay fresh and full of flavour.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%99%d7%9c%d7%90%d7%a3-%d7%90%d7%95%d7%a8%d7%96-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%94-%d7%90%d7%92%d7%95%d7%96%d7%99%d7%9d-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%99%d7%a2%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-466-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "hashulchan",
+    "rice",
+    "pilaf",
+    "mushrooms",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Mixed Wild Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "walnuts"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Cooked Rice",
+      "qty": 3,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Halve the leek lengthwise and slice thinly. Slice the button and portobello mushrooms and break the wild mushrooms into pieces. Roughly chop the walnuts."
+    },
+    {
+      "text": "Heat the olive oil in a large frying pan and saute the leek for 3 minutes until soft."
+    },
+    {
+      "text": "Add the mushrooms and walnuts, season with salt and pepper and stir-fry for 3 minutes until golden."
+    },
+    {
+      "text": "Add the cold cooked rice and the vegetable stock and stir for 3 minutes to heat through. Serve immediately."
+    }
+  ]
+}

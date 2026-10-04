@@ -1,0 +1,118 @@
+{
+  "slug": "hs-ricotta-fritters-in-tomato-sauce",
+  "kind": "meal",
+  "title": "Ricotta Fritters in Tomato Sauce",
+  "subtitle": "with fresh mint and basil",
+  "description": "Pan-fried fritters made from fresh white cheese, ricotta, mint and cumin, served in a sweet and savoury tomato and basil sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%a8%d7%99%d7%a7%d7%95%d7%98%d7%94-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/Derech-Haochel-15-min-print-02-e1554296019517-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "fritters",
+    "cheese",
+    "tomato",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fresh Tvorog Cheese",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 300,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Fresh Mint",
+      "qty": 1,
+      "product": "mint"
+    },
+    {
+      "name": "Savory Leaves",
+      "qty": 4
+    },
+    {
+      "name": "Crushed Tomatoes",
+      "qty": 1,
+      "unit": "l",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "product": "basil"
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "For the sauce, heat 2 to 3 tablespoons oil in a frying pan, add the finely chopped onion, cover and fry over high heat until fully golden. Add the sugar and garlic, stir well, then add the tomatoes. Reduce over medium heat, taste and adjust the seasoning."
+    },
+    {
+      "text": "For the fritters, mix the tvorog, ricotta, eggs, breadcrumbs, cumin, mint and savory leaves in a bowl until uniform."
+    },
+    {
+      "text": "Heat a heavy or non-stick pan with a very little oil over medium heat. Shape the mixture into flat patties 4 to 5 cm across and fry on both sides until fully golden, adding a little oil if needed."
+    },
+    {
+      "text": "Add the basil leaves to the sauce and pour it into a serving dish. Add the fritters to the sauce and serve (the sauce can also be served on the side)."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "hs-baked-silverbeet-and-feta-patties",
+  "kind": "meal",
+  "title": "Baked Silverbeet and Feta Patties",
+  "description": "Baked vegetable patties made with silverbeet, leek, carrot and zucchini, with pine nuts, sesame and goat feta. Serve hot or at room temperature with a salad.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%9e%d7%a0%d7%92%d7%95%d7%9c%d7%93-%d7%95%d7%a4%d7%98%d7%94-%d7%90%d7%a4%d7%95%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/08/mangold-patties-1140x641-1574155713.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "baked",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "sesame-seeds"
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 50,
+      "unit": "g",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Goat Feta",
+      "qty": 150,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 210°C. Line a baking tray with baking paper and brush with a little olive oil."
+    },
+    {
+      "text": "Finely chop the green part of the silverbeet and the white part of the leek. Coarsely grate the carrot and zucchini and squeeze out the liquid well."
+    },
+    {
+      "text": "Mix all the ingredients in a large bowl."
+    },
+    {
+      "text": "With wet or oiled hands, shape into flat patties 5-6 cm wide. Place on the tray and brush with a little olive oil."
+    },
+    {
+      "text": "Bake for 8-10 minutes. When the bases are browned, flip and bake for 3 more minutes or until the patties are firm and golden."
+    },
+    {
+      "text": "Serve hot or at room temperature with a salad."
+    }
+  ]
+}

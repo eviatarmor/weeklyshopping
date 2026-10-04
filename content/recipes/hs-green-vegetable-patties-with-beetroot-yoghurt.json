@@ -1,0 +1,140 @@
+{
+  "slug": "hs-green-vegetable-patties-with-beetroot-yoghurt",
+  "kind": "meal",
+  "title": "Green Vegetable Patties with Beetroot Yoghurt",
+  "subtitle": "silverbeet, zucchini and herb patties",
+  "description": "Blanched silverbeet is mixed with grated zucchini, carrot, potato and onion, herbs, eggs and spices, shaped into patties and pan-fried. Served with a yoghurt sauce flavoured with sauteed beetroot and date syrup.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%99%d7%a8%d7%a7-%d7%a2%d7%9d-%d7%99%d7%95%d7%92%d7%95%d7%a8%d7%98-%d7%a1%d7%9c%d7%a7/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/09/shutterstock_1034227159-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "vegetarian",
+    "fried",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Mixed Fresh Herbs",
+      "qty": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Spelt Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Beetroot",
+      "qty": 0.5,
+      "product": "beetroot"
+    },
+    {
+      "name": "Date Syrup",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 1,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Blanch the silverbeet in plenty of boiling salted water for 3 minutes, drain and chop the leaves. Discard the thick stalks or chop them very finely."
+    },
+    {
+      "text": "Mix the blanched leaves with the grated zucchini, carrot, potato, onion, garlic, herbs, eggs, flour and spices. Shape into flat round patties about 6 cm across."
+    },
+    {
+      "text": "Heat olive oil in a pan and fry the patties for 2 to 3 minutes on each side until golden."
+    },
+    {
+      "text": "For the beetroot yoghurt, heat 1 tbsp olive oil in a pan and saute the finely grated beetroot with the date syrup, salt and pepper for 3 to 5 minutes until soft. Mix with the yoghurt and serve alongside the patties."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "hs-root-vegetable-rice-pilaf-with-aioli",
+  "kind": "meal",
+  "title": "Root Vegetable Rice Pilaf with Aioli",
+  "description": "Persian-style rice baked with browned turnip, beetroot, sweet potato and carrot, leeks and white wine, served with a garlic aioli on the side.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%99%d7%9c%d7%90%d7%a3-%d7%90%d7%95%d7%a8%d7%96-%d7%95%d7%a9%d7%95%d7%a8%d7%a9%d7%99%d7%9d-%d7%a2%d7%9d-%d7%90%d7%99%d7%95%d7%9c%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/11/830_510-13-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 80,
+  "tags": [
+    "hashulchan",
+    "pilaf",
+    "rice",
+    "baked",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "qty": 2,
+      "product": "turnip"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 2,
+      "product": "beetroot"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Leek",
+      "qty": 2,
+      "product": "leek"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 3,
+      "unit": "cup",
+      "product": "basmati-rice"
+    },
+    {
+      "name": "Salt",
+      "qty": 3,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 3,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Egg Yolks",
+      "qty": 2
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 0.67,
+      "unit": "cup",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C. Cut the turnips, beetroot, sweet potato and carrots into 1 cm cubes."
+    },
+    {
+      "text": "Heat 2 tbsp olive oil in a large frying pan and fry the root vegetable cubes in a single layer over medium heat (you will probably need to do this in batches) for 3-4 minutes until golden on all sides. Transfer to a plate lined with paper towel."
+    },
+    {
+      "text": "Heat 1/3 cup olive oil in a large ovenproof pot and fry the chopped onions, sliced leeks (pale part) and sliced garlic for 2-3 minutes until translucent. Pour in the wine and cook for 3-4 minutes until completely evaporated."
+    },
+    {
+      "text": "Add the rinsed rice, the fried vegetables, salt and pepper. Pour in the stock to about the level of the contents without covering completely (add a little water if there is not enough) and bring to a near boil. Turn off the heat and cover with baking paper and a matching lid."
+    },
+    {
+      "text": "Bake for 30 minutes until the liquid is fully absorbed. Remove from the oven and rest for 10 minutes without opening."
+    },
+    {
+      "text": "For the aioli, process 2 egg yolks, 1 tsp salt, the lemon juice and 2 crushed garlic cloves in a food processor until combined, then drizzle in 2/3 cup canola oil gradually while processing until thick like mayonnaise."
+    },
+    {
+      "text": "Serve the pilaf hot with a small dish of aioli on the side."
+    }
+  ]
+}

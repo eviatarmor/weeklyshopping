@@ -1,0 +1,97 @@
+{
+  "slug": "hs-cauliflower-and-pea-curry-patties",
+  "kind": "meal",
+  "title": "Cauliflower and Pea Curry Patties",
+  "subtitle": "with potato and ginger",
+  "description": "Patties of finely processed cauliflower, mashed potato and peas, spiced with curry powder and ginger, then pan-fried until golden.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%95%d7%90%d7%a4%d7%95%d7%a0%d7%94-%d7%91%d7%a7%d7%90%d7%a8%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-513-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "patties",
+    "curry",
+    "cauliflower",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 300,
+      "unit": "g",
+      "product": "cauliflower"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 250,
+      "unit": "g",
+      "product": "potato"
+    },
+    {
+      "name": "Frozen Peas",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Coconut Oil",
+      "product": "coconut-oil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil the potatoes until tender and mash them. Break the cauliflower into florets and steam in a pot with a little boiling water for 2 to 3 minutes, keeping them crisp. Drain well and cool slightly."
+    },
+    {
+      "text": "Place the cauliflower in a food processor and pulse 5 to 6 times to make crumbs."
+    },
+    {
+      "text": "Transfer to a bowl and add the mashed potato, peas, ginger, curry powder, cumin seeds, garlic, eggs and breadcrumbs. Mix well, adding more breadcrumbs if the mixture is too wet. Refrigerate for half an hour to firm up."
+    },
+    {
+      "text": "Heat a wide frying pan over medium heat with a little oil. Shape the mixture into flattened balls the size of a ping-pong ball and fry for 2 to 3 minutes on each side until golden."
+    },
+    {
+      "text": "Drain on paper towel and serve hot or at room temperature."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "hs-brown-rice-noodles-with-azuki-sprouts-in-green-curry",
+  "kind": "meal",
+  "title": "Brown Rice Noodles with Azuki Sprouts in Green Curry",
+  "description": "Brown rice noodles and lightly cooked sprouted azuki beans in a coconut green curry sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%90%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%90%d7%95%d7%a8%d7%96-%d7%9e%d7%9c%d7%90-%d7%a2%d7%9d-%d7%a9%d7%a2%d7%95%d7%a2%d7%99%d7%aa-%d7%90%d7%96%d7%95%d7%a7%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500138-1140x641.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "noodles",
+    "curry",
+    "asian",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "sesame-oil"
+    },
+    {
+      "name": "Green Curry Paste",
+      "product": "green-curry-paste"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "coconut-milk"
+    },
+    {
+      "name": "Sprouted Azuki Beans",
+      "qty": 1,
+      "unit": "cup",
+      "product": "green-beans"
+    },
+    {
+      "name": "Brown Rice Noodles",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "rice-noodles"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the sesame oil in a frying pan. Add the thinly sliced garlic and green curry paste and stir, then add the coconut milk and mix well."
+    },
+    {
+      "text": "Add the azuki sprouts and cook for about 5 minutes."
+    },
+    {
+      "text": "Add the rice noodles (cooked according to the packet instructions), stir and cook together for a few minutes."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "hs-rakott-krumpli",
+  "kind": "meal",
+  "title": "Rakott Krumpli",
+  "subtitle": "Hungarian layered potato, egg and sour cream bake",
+  "description": "Layers of boiled potato, hard-boiled egg, paprika, butter and sour cream are baked until golden under a breadcrumb topping. Serve hot.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%90%d7%a7%d7%95%d7%98-%d7%a7%d7%a8%d7%95%d7%9e%d7%a4%d7%9c%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/07/IMG_3788-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "baked",
+    "potato",
+    "hungarian",
+    "casserole"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Potatoes",
+      "qty": 8,
+      "product": "potato"
+    },
+    {
+      "name": "Eggs",
+      "qty": 8,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 2,
+      "unit": "cup",
+      "product": "sour-cream"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C and grease a rectangular (or round) baking dish with a little butter."
+    },
+    {
+      "text": "Peel the potatoes (boiled in their skins until soft) and cut into slices about 2 cm thick. Peel the hard-boiled eggs and slice them."
+    },
+    {
+      "text": "Arrange about 1/3 of the potatoes tightly over the base of the dish. Cover with about 1/3 of the egg slices. Sprinkle with 1 tbsp paprika, salt, pepper and about 1/3 of the butter."
+    },
+    {
+      "text": "Gently spread about 1/3 of the sour cream on top. Build 2 more layers the same way, then sprinkle the breadcrumbs over the last layer."
+    },
+    {
+      "text": "Bake for about 50 minutes. Serve hot. It keeps in the fridge for up to 2 days."
+    }
+  ]
+}

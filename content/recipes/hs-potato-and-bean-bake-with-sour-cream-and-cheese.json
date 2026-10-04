@@ -1,0 +1,141 @@
+{
+  "slug": "hs-potato-and-bean-bake-with-sour-cream-and-cheese",
+  "kind": "meal",
+  "title": "Potato and Bean Bake with Sour Cream and Cheese",
+  "subtitle": "layered white bean and tomato bake with cheddar mash",
+  "description": "A spiced white bean and tomato base is topped with a coriander sour cream layer and cheddar mashed potato, then baked until golden and crisp. If you forgot to soak the beans, boil them three times in fresh water instead.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%90%d7%a4%d7%94-%d7%a6%d7%99%d7%9c%d7%99-%d7%a0%d7%95%d7%9f-%d7%a7%d7%a8%d7%a0%d7%94-%d7%a2%d7%9d-%d7%a9%d7%9e%d7%a0%d7%aa-%d7%97%d7%9e%d7%95%d7%a6%d7%94-%d7%92%d7%91%d7%99%d7%a0/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-10-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 120,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "baked",
+    "beans",
+    "potato",
+    "casserole"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 4,
+      "product": "potato"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Cheddar",
+      "qty": 100,
+      "unit": "g",
+      "product": "cheddar-cheese"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Carrot",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "product": "celery"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Cooked White Beans",
+      "qty": 2,
+      "unit": "cup",
+      "product": "cannellini-beans"
+    },
+    {
+      "name": "Crushed Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 200,
+      "unit": "g",
+      "product": "sour-cream"
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "coriander"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 2,
+      "product": "spring-onion"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C and line a tray with baking paper. Bake the whole unpeeled potatoes for about 1 hour until soft."
+    },
+    {
+      "text": "Heat the olive oil in a wide pot and soften the chopped onion, diced carrot, celery, garlic and chilli for 5 minutes, stirring. Add the cumin, ground coriander and beans and cook for another 5 minutes."
+    },
+    {
+      "text": "Add the crushed tomatoes, season with salt and pepper and cook for another 10 minutes over medium heat, partly covered."
+    },
+    {
+      "text": "Mix the sour cream with the chopped coriander and spring onions."
+    },
+    {
+      "text": "Peel and mash the potatoes, season with salt and pepper and mix with the grated cheddar."
+    },
+    {
+      "text": "Spread the bean and tomato mixture in a deep Pyrex dish, cover with the sour cream mixture and top with the mash. Cover with foil."
+    },
+    {
+      "text": "Bake for 20 minutes, remove the foil and bake for another 10 minutes, or until the topping is golden and crisp."
+    }
+  ]
+}

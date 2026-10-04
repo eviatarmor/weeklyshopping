@@ -1,0 +1,110 @@
+{
+  "slug": "hs-pumpkin-curry",
+  "kind": "meal",
+  "title": "Pumpkin Curry",
+  "subtitle": "with green or red curry paste and lemongrass",
+  "description": "Mixed pumpkins are simmered in coconut milk with onion, garlic, ginger, lemongrass, ground spices and curry paste until very soft.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%90%d7%a8%d7%99-%d7%93%d7%9c%d7%a2%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/cary_dlat_5145-1140x641-1594193437.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "curry",
+    "pumpkin",
+    "vegetarian",
+    "thai"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "qty": 1.5,
+      "unit": "kg",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 6,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Ground Cardamom",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ground-cardamom"
+    },
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "curry-powder"
+    },
+    {
+      "name": "Green Curry Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "green-curry-paste"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 2,
+      "unit": "tin",
+      "product": "coconut-milk"
+    },
+    {
+      "name": "Ginger",
+      "qty": 5,
+      "product": "ginger"
+    },
+    {
+      "name": "Lemongrass",
+      "qty": 3,
+      "product": "lemongrass"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the pumpkin into 2.5 cm cubes and finely chop the onions. Grate the ginger and lightly bruise the lemongrass stalks."
+    },
+    {
+      "text": "Heat the oil in a wide, shallow pot and fry the onion for 5 minutes over medium heat until translucent. Add the garlic and fry for 2 minutes, stirring. Add the dry spices and curry paste and fry for 1 minute, stirring, to release the aromas."
+    },
+    {
+      "text": "Add the pumpkin cubes and stir gently for about 1 minute, just until coated in the spiced oil."
+    },
+    {
+      "text": "Add the coconut milk, ginger and lemongrass and bring to the boil over high heat. Reduce the heat and cook uncovered for 30 minutes until the pumpkin is very soft. Season with salt and pepper to taste."
+    }
+  ]
+}

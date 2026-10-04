@@ -1,0 +1,98 @@
+{
+  "slug": "hs-chickpea-stew-with-artichokes-and-black-cabbage",
+  "kind": "meal",
+  "title": "Chickpea Stew with Artichokes and Black Cabbage",
+  "subtitle": "with parmesan",
+  "description": "Large soaked chickpeas are simmered with onion and garlic, then cooked with baby artichokes, black cabbage and thyme. Served with parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%a2%d7%9d-%d7%90%d7%a8%d7%98%d7%99%d7%a9%d7%95%d7%a7%d7%99%d7%9d-%d7%95%d7%9b%d7%a8%d7%95%d7%91-%d7%a9%d7%97%d7%95%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/09/Al-Hashulchan-00187-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 100,
+  "tags": [
+    "hashulchan",
+    "stew",
+    "chickpeas",
+    "vegetarian",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Artichokes",
+      "qty": 15
+    },
+    {
+      "name": "Dried Chickpeas",
+      "qty": 2,
+      "unit": "cup",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Cavolo Nero",
+      "qty": 3,
+      "unit": "cup"
+    },
+    {
+      "name": "Thyme",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "thyme"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the two outer layers of leaves from the baby artichokes, trim the stems slightly and halve lengthways (they have no choke to clean). If using artichoke hearts, cut into sixths."
+    },
+    {
+      "text": "Rub the chickpeas, soaked for 12 hours, between your palms until the outer skins come off. It is fine if some split in two."
+    },
+    {
+      "text": "Heat the olive oil in a wide, shallow pot and fry the chopped onion and garlic for 5 minutes until lightly golden. Add the chickpeas, pour in water to cover by 2 cm and bring to the boil. Reduce the heat, cover and cook for 1 hour until the chickpeas are tender but not too soft."
+    },
+    {
+      "text": "Add the artichokes, torn black cabbage, thyme, salt and pepper and cook for 10 minutes over medium heat until the artichokes soften."
+    },
+    {
+      "text": "Transfer to a serving bowl, sprinkle with parmesan and serve."
+    }
+  ]
+}

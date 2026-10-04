@@ -1,0 +1,121 @@
+{
+  "slug": "hs-pizza-bianca-with-mushrooms",
+  "kind": "meal",
+  "title": "Pizza Bianca with Mushrooms",
+  "subtitle": "with mozzarella and shaved Parmesan",
+  "description": "Homemade pizza dough topped with sauteed mixed mushrooms, thyme and torn mozzarella, finished with shaved Parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%99%d7%a6%d7%94-%d7%91%d7%99%d7%90%d7%a0%d7%a7%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/05/pizzabia_830-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 100,
+  "tags": [
+    "hashulchan",
+    "pizza",
+    "baked",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 500,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Dried Yeast",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "yeast"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 330,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Wild Mushrooms",
+      "qty": 6,
+      "product": "mushrooms"
+    },
+    {
+      "name": "Thyme",
+      "qty": 2,
+      "product": "thyme"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 2,
+      "product": "mozzarella"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 150,
+      "unit": "g",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Put the dough ingredients in a mixer bowl and knead with a dough hook for 5-6 minutes until smooth. Cover with cling film and prove for about 1 hour until doubled in size."
+    },
+    {
+      "text": "Preheat the oven to 200°C and line baking trays with baking paper."
+    },
+    {
+      "text": "Divide the dough into 3 pieces on a floured surface, roll into balls, cover with a towel and rest for 15 minutes."
+    },
+    {
+      "text": "Heat 2 tbsp olive oil in a frying pan and fry the sliced mushrooms for 3-4 minutes until lightly golden. Add the thyme leaves, salt and pepper, stir and take off the heat. Cool slightly."
+    },
+    {
+      "text": "On a floured surface roll each ball out to 0.5 cm thick. Transfer to the trays, scatter the mushrooms over, top with torn mozzarella and bake for 10 minutes until the edges are golden."
+    },
+    {
+      "text": "Scatter with Parmesan shaved with a vegetable peeler and serve immediately."
+    }
+  ]
+}

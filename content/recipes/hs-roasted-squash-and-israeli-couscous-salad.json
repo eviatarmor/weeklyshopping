@@ -1,0 +1,134 @@
+{
+  "slug": "hs-roasted-squash-and-israeli-couscous-salad",
+  "kind": "meal",
+  "title": "Roasted Squash and Israeli Couscous Salad",
+  "subtitle": "with peas, herbs and walnuts",
+  "description": "Israeli couscous seasoned with cumin and baharat, tossed with roasted pumpkin and red onion, peas and herbs in a date syrup, chilli and lemon dressing, topped with walnuts.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%9e%d7%a4%d7%aa%d7%95%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/MG_2843-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "salad",
+    "couscous",
+    "pumpkin",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Israeli Couscous",
+      "qty": 1,
+      "unit": "cup",
+      "product": "couscous"
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Baharat",
+      "qty": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 0.5,
+      "product": "pumpkin"
+    },
+    {
+      "name": "Red Onions",
+      "qty": 2,
+      "product": "red-onion"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Peas",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.25,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Date Syrup",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 1,
+      "product": "orange-juice"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Walnuts",
+      "qty": 1,
+      "unit": "cup",
+      "product": "walnuts"
+    },
+    {
+      "name": "Labneh",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the Israeli couscous according to the packet instructions with the water. Season with cumin and baharat."
+    },
+    {
+      "text": "Preheat the oven to 250°C. Arrange the peeled pumpkin slices (1.5 cm thick) and the red onion cut into sixths on a baking tray lined with baking paper. Season with salt and pepper and roast for about 25 minutes until golden and soft."
+    },
+    {
+      "text": "Blanch the peas in boiling water for about 2 minutes, transfer to iced water and drain."
+    },
+    {
+      "text": "For the dressing, mix the chopped chilli in a small bowl with the date syrup, lemon juice and olive oil."
+    },
+    {
+      "text": "Pick the herb leaves and roughly chop the walnuts. Toss the roasted vegetables, herbs, peas, seasoned couscous and dressing together. Top with walnuts and, if you like, crumbled labneh."
+    }
+  ]
+}

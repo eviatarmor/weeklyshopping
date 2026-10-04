@@ -1,0 +1,106 @@
+{
+  "slug": "hs-green-brown-rice-pilaf-with-peas-and-coconut-milk",
+  "kind": "meal",
+  "title": "Green Brown Rice Pilaf with Peas and Coconut Milk",
+  "description": "Brown rice is par-boiled like pasta, then simmered with ginger, garlic, zucchini, green curry paste and coconut milk, with peas stirred through and a squeeze of lime at the end.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%99%d7%9c%d7%90%d7%a3-%d7%99%d7%a8%d7%95%d7%a7-%d7%a9%d7%9c-%d7%90%d7%95%d7%a8%d7%96-%d7%9e%d7%9c%d7%90/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/rice_peas_650x500-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "pilaf",
+    "rice",
+    "vegetarian",
+    "coconut"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Long Grain Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ginger"
+    },
+    {
+      "name": "Green Curry Paste",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "green-curry-paste",
+      "optional": true
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Frozen Peas",
+      "qty": 2,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Lime",
+      "qty": 2,
+      "product": "lime"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the rice in a pot of plenty of boiling water for 15 minutes until just softened, then drain."
+    },
+    {
+      "text": "Heat the butter in a medium pot and sweat the finely chopped onion, crushed garlic and grated ginger for 3 minutes until softened. Add the curry paste and stir for a minute until fragrant. Add the zucchini (halved lengthways and sliced on the diagonal) and the rice and stir for 1-2 minutes."
+    },
+    {
+      "text": "Add the boiling water and coconut milk, season with salt and bring to the boil. Reduce the heat, cover and cook for 10 minutes."
+    },
+    {
+      "text": "Add the peas, stir and cook covered for 10 more minutes. Season with the juice and zest of 2 limes (or 1 lemon) and serve."
+    }
+  ]
+}

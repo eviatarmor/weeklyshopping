@@ -1,0 +1,101 @@
+{
+  "slug": "hs-tofu-and-herb-patties",
+  "kind": "meal",
+  "title": "Tofu and Herb Patties",
+  "subtitle": "baked, with flaxseed",
+  "description": "Juicy vegan tofu patties with fresh herbs and cumin, bound with soaked flaxseed instead of eggs. Great in a sandwich or with a salad.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%98%d7%95%d7%a4%d7%95-%d7%95%d7%a2%d7%a9%d7%91%d7%99-%d7%aa%d7%99%d7%91%d7%95%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/06/kzizot_tufo-rotated-1140x641-1655797573.jpg",
+  "servings": 6,
+  "prepMinutes": 80,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "patties",
+    "baked",
+    "vegan",
+    "tofu"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Flaxseed",
+      "qty": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Tofu",
+      "qty": 1,
+      "unit": "kg",
+      "product": "tofu"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Mint",
+      "qty": 0.33,
+      "unit": "bunch",
+      "product": "mint"
+    },
+    {
+      "name": "Chickpea Flour",
+      "qty": 1,
+      "unit": "cup",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Put the flaxseed in a small bowl, add just enough water to cover and soak for 30 minutes."
+    },
+    {
+      "text": "Preheat the oven to 180°C and line a baking tray with baking paper."
+    },
+    {
+      "text": "Blend the flaxseed and its soaking water with the remaining ingredients in a blender in a few pulses until combined."
+    },
+    {
+      "text": "Shape into flat patties 7-8 cm wide and place on the tray."
+    },
+    {
+      "text": "Bake for about 35 minutes or until lightly golden. Serve hot or at room temperature."
+    },
+    {
+      "text": "Keep in a container in the fridge for up to 4 days."
+    }
+  ]
+}

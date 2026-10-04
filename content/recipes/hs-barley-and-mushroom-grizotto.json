@@ -1,0 +1,112 @@
+{
+  "slug": "hs-barley-and-mushroom-grizotto",
+  "kind": "meal",
+  "title": "Barley and Mushroom Grizotto",
+  "subtitle": "with porcini and asparagus",
+  "description": "Pearl barley cooked risotto-style in stock with butter, then finished with sauteed mushrooms and porcini powder and topped with asparagus, shallot and pea shoots.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%92%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%92%d7%a8%d7%99%d7%a1%d7%99%d7%9d-%d7%95%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/LAGO__פ_____¬____¬_נ_ס___ש_¥__ס___ש___ץ_ק_ץ____£__פ______נ_ס_ש____ר_ש_ש___ש______ש_£_ץ_¥-__ף_ƒ__£_ס____ר_ש_ש_£_ש___ע-__ף_£_ש_¬__¿_ץ___ץ_3-1140x641.jpg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "grizotto",
+    "barley",
+    "mushrooms",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pearl Barley",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pearl-barley"
+    },
+    {
+      "name": "Butter",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "White Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Porcini Powder",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "dried-porcini-mushrooms"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Shimeji Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Pea Shoots",
+      "optional": true
+    },
+    {
+      "name": "Asparagus",
+      "product": "asparagus",
+      "optional": true
+    },
+    {
+      "name": "Shallot",
+      "qty": 1,
+      "product": "eschalot",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat 1 tablespoon butter in a pot and soften the finely chopped onion. Add the barley and season lightly with pepper. Add half the hot stock and the garlic and keep cooking, stirring, until the liquid is absorbed. Add the remaining stock and cook until the barley is tender."
+    },
+    {
+      "text": "Meanwhile heat the olive oil in a frying pan and saute the quartered button mushrooms and the shimeji. Near the end of the barley cooking, add the mushrooms and porcini powder to the pot."
+    },
+    {
+      "text": "Finish by stirring in the remaining butter."
+    },
+    {
+      "text": "To serve, place the grizotto in the centre of each plate and top with blanched asparagus, very thinly sliced shallot and pea shoots."
+    }
+  ]
+}
