@@ -1,0 +1,70 @@
+{
+  "slug": "thai-seven-spice-blend",
+  "kind": "blend",
+  "title": "Thai Seven Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 2.5 sesame seeds, 1 chilli flakes, 1 ground coriander, 1 onion powder, 0.5 garlic powder, 0.25 ground cinnamon, 0.125 cayenne pepper. The original includes ½ tsp shrimp extract powder; it's left out here to keep the blend vegetarian.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Thai 7 Spice Blend",
+    "Thai Seven Spice"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sesame Seeds",
+      "qty": 1.125,
+      "unit": "tsp",
+      "product": "sesame-seeds"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

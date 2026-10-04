@@ -1,0 +1,161 @@
+{
+  "slug": "hf-chermoula-spiced-pumpkin",
+  "kind": "meal",
+  "title": "Chermoula-Spiced Pumpkin & Garlic Rice",
+  "subtitle": "with Fetta Yoghurt & Pepitas",
+  "description": "Tonight's dish is all about the pumpkin; roast it with a good sprinkle of Middle Eastern seasoning, then finish it with a drizzle of honey for the perfect balance of sweetness and spice. The yoghurt adds a lovely creaminess and contrast of flavours, with a subtle saltiness and tang from the fetta.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-spiced-pumpkin-67f84486cade9b9f0ace0437",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6507abeaa0d3479ba2c301c0-faf59163-ee22327c.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "african",
+    "naturally gf",
+    "classic",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6b-38d72c27.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Pepitas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pepitas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237c1105c9621030b4d63-fb50ec73.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238583405d840b2be3cf6-9b48336b.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd2-a68e0a9e.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379f3405d840b2be3923-beeaac14.png"
+    },
+    {
+      "name": "Middle Eastern Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "middle-eastern-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/66b955b6a3e58e452b7ced40-cd4d4e55.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddb3635bf0b638cfb93d-59b9ad8a.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan forced.<br>• Cut pumpkin into thin wedges.<br>• Slice zucchini into half-moons.<br>• Cut red onion into thin wedges.<br>• Finely chop garlic and mint. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bc44264524ca979207e/step-5d242800.jpg"
+    },
+    {
+      "text": "• <p>• Place pumpkin on a lined oven tray. Drizzle <br>with olive oil, sprinkle with Middle Eastern <br>seasoning and season with salt. Toss to coat, <br>then set aside.<br>• Place zucchini and onion on a second lined <br>oven tray. Drizzle with olive oil, sprinkle with <br>chermoula spice blend and season with salt. <br>Toss to coat.<br>• Roast veggies until tender, 20-25 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bc44264524ca979207e/step-9f5bfe10.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, heat a medium saucepan over <br>medium heat with half the butter and a drizzle <br>of olive oil.<br>• Cook half the garlic until fragrant, 1-2 minutes. <br>Add basmati rice, the water and a generous <br>pinch of salt. Stir, then bring to the boil.<br>• Reduce heat to low and cover with a lid. Cook <br>for 10 minutes, then remove from heat. <br>Keep covered until rice is tender and water is <br>absorbed, 10 minutes. <br>TIP: The rice will finish cooking in its own steam, so <br>don&#39;t peek! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bc44264524ca979207e/step-ff0c1c20.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, place remaining garlic and butter in <br>a medium heatproof bowl. Microwave in <br>10 second bursts until fragrant.<br>• Crumble in fetta cubes and mash to combine. <br>Stir in Greek-style yoghurt. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bc44264524ca979207e/step-75a48430.jpg"
+    },
+    {
+      "text": "• <p>• Stir baby spinach leaves and roasted zucchini<br>and onion through the garlic rice. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bc44264524ca979207e/step-4ff93440.jpg"
+    },
+    {
+      "text": "• <p>• Drizzle the honey over roasted pumpkin.<br>• Divide roast veggies and garlic rice between <br>bowls. Top with chermoula-spiced pumpkin.<br>• Dollop over fetta yoghurt. <br>• Sprinkle with pepitas and mint to serve. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bc44264524ca979207e/step-0f4a7f50.jpg"
+    }
+  ]
+}

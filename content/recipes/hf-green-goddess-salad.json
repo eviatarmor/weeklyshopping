@@ -1,0 +1,99 @@
+{
+  "slug": "hf-green-goddess-salad",
+  "kind": "meal",
+  "title": "Green Goddess Salad",
+  "description": "This gorgeous warm green salad was so heavenly we just had to call it green goddess. This bowl has everything: a zesty minted yoghurt with the intriguing addition of tarragon, robust greens and delicious golden almonds. If you thought salad had to be boring or leave you hungry, this vibrant blend of scrumptious seasonal snippets will change your mind. It’s time to taste the divine – is that a halo above your head?",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/green-goddess-salad-561def1a4dab712d798b4567",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/561def1a4dab712d798b4567.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "low sodium",
+    "under 30 minutes"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555428d6fd2cb9da068b4569.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 100,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556551a0f8b25eaa0a8b4569.png"
+    },
+    {
+      "name": "Yoghurt",
+      "qty": 1,
+      "unit": "tub",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543078fd2cb9da068b456e.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Tarragon",
+      "qty": 1,
+      "unit": "bunch",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55653dec4dab71866f8b4567.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Almonds",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/561de2ca79a23c14568b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• To prepare the ingredients, quarter the potatoes (unpeeled). Trim and halve the green beans. Roughly chop the avocado, mint, and tarragon. Zest and juice the lemon."
+    },
+    {
+      "text": "• Place the potatoes in a large saucepan and cover with water. Bring to the boil and cook for 15 minutes or until tender. Place the green beans in the base of a colander and drain the potatoes over the beans (the heat of the potatoes will soften them)."
+    },
+    {
+      "text": "• Meanwhile, make the green goddess dressing. Place a quarter of the avocado, the yoghurt, mint, tarragon, half of the lemon zest and half of the lemon juice in a blender and blend until smooth. Season to taste with salt and pepper. If you don’t have a blender you can just stir finely chopped herbs through the yoghurt, avocado and lemon.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/561def1a4dab712d798b4567/step_564d67b976b7b.jpg"
+    },
+    {
+      "text": "• Combine the potatoes, beans, almonds and remaining avocado in a large bowl. Stir through the green goddess dressing to coat well.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/561def1a4dab712d798b4567/step_564d67b99b37e.jpg"
+    },
+    {
+      "text": "• Divide baby spinach between bowls and top with the Green Goddess Salad. Serve with remaining lemon zest and juice if you like."
+    }
+  ]
+}

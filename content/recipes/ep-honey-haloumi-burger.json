@@ -1,0 +1,105 @@
+{
+  "slug": "ep-honey-haloumi-burger",
+  "kind": "meal",
+  "title": "Honey Haloumi Burger",
+  "subtitle": "with Potato Fries",
+  "description": "Our favourite squeaky cheese is the star of the show in this classic burger that really hits the spot. A tender bun, golden haloumi and crisp fries on the side will make you shout \"Encore! Encore!\"",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/honey-haloumi-burger-63071e80bfb4800556029f5c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/classic-haloumi-burger-c4cff6d6.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fe44ecbf90d9f52861a-a7aba26d.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f844ecbf90d9f528435-34de32d5.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fb04ecbf90d9f52851a-2d3dddc0.png"
+    },
+    {
+      "name": "Garlic Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee990bd16bd266f3f6ed96f-4e7ec9f7.png"
+    },
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f784ecbf90d9f5283f3-c0e91a8f.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fce4ecbf90d9f5285b4-c64c728d.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ece0ab8e7df57622d198ca8-81a905dc.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fb74ecbf90d9f52853b-efe0c124.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut potato into fries and place on the lined oven tray. Drizzle with olive oil and sprinkle with garlic seasoning.\n• Toss to coat, spread out evenly and bake until tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63071e80bfb4800556029f5c/step-48e1fb0f.jpg"
+    },
+    {
+      "text": "• Meanwhile, thinly slice onion and tomato.\n• Slice haloumi into 2 thin pieces per person.\n• In a medium bowl, combine haloumi, a pinch of pepper and a drizzle of olive oil.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63071e80bfb4800556029f5c/step-289326f9.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook onion until softened and starting to brown, 5-6 mins. Transfer to a small bowl.\n• Return pan to medium heat with a drizzle of olive oil. Cook haloumi until golden, 1-2 mins each side. Remove from heat, add honey and turn to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63071e80bfb4800556029f5c/step-0efa06b2.jpg"
+    },
+    {
+      "text": "• Bake burger buns directly on oven rack until heated through, 2-3 mins.\n• Halve buns and spread with mayonnaise. Top with mixed salad leaves, tomato, haloumi and onion.\n• Serve with fries and your favourite dipping sauce.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63071e80bfb4800556029f5c/step-2f2264d8.jpg"
+    }
+  ]
+}

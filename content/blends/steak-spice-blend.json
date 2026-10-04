@@ -1,0 +1,72 @@
+{
+  "slug": "steak-spice-blend",
+  "kind": "blend",
+  "title": "Steak Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 1 chilli flakes, 1 coriander seeds, 2 dill seeds, 3 mustard seeds, 4 dried minced garlic, 4 black pepper, 3 salt.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Steak Spice",
+    "Steak Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Coriander Seeds",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "coriander-seeds"
+    },
+    {
+      "name": "Dill Seeds",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "dill-seeds"
+    },
+    {
+      "name": "Mustard Seeds",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "mustard-seeds"
+    },
+    {
+      "name": "Dried Minced Garlic",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "dried-minced-garlic"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "burger-spice-blend",
+  "kind": "blend",
+  "title": "Burger Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 3 sweet paprika, 1.25 salt, 1 black pepper, 0.5 garlic powder, 0.5 brown sugar, 0.5 onion powder, 0.25 cayenne pepper.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Burger Seasoning",
+    "Burger Spice"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Paprika",
+      "qty": 1.25,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

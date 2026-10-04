@@ -1,0 +1,74 @@
+{
+  "slug": "ml-spaghetti-edamame-grape-tomatoes-broccoli-basil-pesto",
+  "kind": "meal",
+  "title": "Spaghetti with Edamame, Grape Tomatoes, Broccoli & Basil Pesto",
+  "sourceUrl": "https://www.mealime.com/recipes/spaghetti-edamame-grape-tomatoes-broccoli-basil-pesto/22130",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22130/presentation_9f2420bb-545a-4691-b3b4-7f6bde9b1d06.jpeg",
+  "servings": 4,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basil Pesto",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pesto"
+    },
+    {
+      "name": "Broccoli Florets",
+      "qty": 510,
+      "unit": "g",
+      "product": "broccoli"
+    },
+    {
+      "name": "Edamame",
+      "qty": 2,
+      "unit": "cup",
+      "product": "frozen-edamame"
+    },
+    {
+      "name": "Grape Tomatoes",
+      "qty": 2,
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Parmesan Cheese (shredded)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "parmesan"
+    },
+    {
+      "name": "Spaghetti Pasta",
+      "qty": 285,
+      "unit": "g",
+      "product": "spaghetti"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until almost done, about 8 minutes."
+    },
+    {
+      "text": "Meanwhile, wash, dry, and halve tomatoes lengthwise. Set aside."
+    },
+    {
+      "text": "When the pasta is almost done, add broccoli and edamame to the pot. Continue to cook, stirring occasionally, until pasta reaches desired firmness and veggies are tender, 2-3 minutes more."
+    },
+    {
+      "text": "When the pasta and veggies are done, drain in the colander and return to the pot. Add tomatoes and pesto, then toss to combine."
+    },
+    {
+      "text": "To serve, divide pasta between plates or bowls and top with Parmesan. Enjoy!"
+    }
+  ]
+}

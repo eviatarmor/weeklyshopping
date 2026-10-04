@@ -1,0 +1,98 @@
+{
+  "slug": "ml-spinach-tomato-frittata-fresh-mozzarella",
+  "kind": "meal",
+  "title": "Spinach & Tomato Frittata with Fresh Mozzarella",
+  "sourceUrl": "https://www.mealime.com/recipes/spinach-tomato-frittata-fresh-mozzarella/1412",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/198/presentation_e25b38a2-b802-49d2-bad2-4a98e3e34936.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Spinach",
+      "qty": 140,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Eggs",
+      "qty": 12,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Mozzarella Cheese",
+      "qty": 225,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Italian Seasoning",
+      "blend": "italian-seasoning",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to broil and position rack under the broiler."
+    },
+    {
+      "text": "Wash and dry spinach and tomatoes. Slice tomatoes into rounds. Peel and mince garlic."
+    },
+    {
+      "text": "Thinly slice mozzarella."
+    },
+    {
+      "text": "Heat a skillet over medium heat."
+    },
+    {
+      "text": "In a large bowl, whisk together eggs, water, Italian seasoning, salt, and pepper."
+    },
+    {
+      "text": "Coat bottom of skillet with oil. Add garlic and spinach. Cook until spinach begins to wilt, 1-2 minutes."
+    },
+    {
+      "text": "Pour in egg mixture. As eggs set around the edge of the skillet, gently lift cooked portions with a spatula to allow uncooked egg to flow underneath. Cook until bottom and sides are firm but the top is still runny, 8-10 minutes."
+    },
+    {
+      "text": "Add tomatoes and mozzarella."
+    },
+    {
+      "text": "Place skillet in the oven and broil until the top is set, 2-3 minutes."
+    },
+    {
+      "text": "To serve, cut frittata into wedges and place on a plate. Enjoy!"
+    }
+  ]
+}

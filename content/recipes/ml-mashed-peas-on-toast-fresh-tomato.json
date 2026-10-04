@@ -1,0 +1,99 @@
+{
+  "slug": "ml-mashed-peas-on-toast-fresh-tomato",
+  "kind": "meal",
+  "title": "Mashed Peas on Toast with Fresh Tomato",
+  "sourceUrl": "https://www.mealime.com/recipes/mashed-peas-on-toast-fresh-tomato/8300",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/8300/presentation_a41c3240-da04-43e1-a194-c6d77e4f4507.jpeg",
+  "servings": 4,
+  "prepMinutes": 17,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Frozen Peas",
+      "qty": 2,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Shallots",
+      "qty": 2,
+      "product": "eschalot"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "qty": 4,
+      "unit": "slice",
+      "product": "bread"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and mince shallots and garlic."
+    },
+    {
+      "text": "Preheat a skillet over medium heat."
+    },
+    {
+      "text": "Add oil and swirl to coat the bottom of the skillet; add shallots and garlic. Cook, stirring occasionally, until softened, about 2 minutes."
+    },
+    {
+      "text": "Add peas and water to pan; cook until almost no liquid remains, about 5 minutes."
+    },
+    {
+      "text": "Wash and juice lemon into a medium bowl."
+    },
+    {
+      "text": "Add pea mixture and mayonnaise to the bowl with the lemon juice; season with salt and pepper. Using a potato masher, mash until almost smooth."
+    },
+    {
+      "text": "Toast bread if desired."
+    },
+    {
+      "text": "Wash and slice tomato."
+    },
+    {
+      "text": "To serve, spread mashed peas over toast, top with tomato, salt, and pepper. Enjoy!"
+    }
+  ]
+}

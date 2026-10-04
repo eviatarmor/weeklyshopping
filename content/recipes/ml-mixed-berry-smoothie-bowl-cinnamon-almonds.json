@@ -1,0 +1,73 @@
+{
+  "slug": "ml-mixed-berry-smoothie-bowl-cinnamon-almonds",
+  "kind": "meal",
+  "title": "Mixed Berry Smoothie Bowl with Cinnamon & Almonds",
+  "sourceUrl": "https://www.mealime.com/recipes/mixed-berry-smoothie-bowl-cinnamon-almonds/8390",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/947/presentation_22c5f5c4-ab58-4eaa-9df1-8f6474f9b449.jpeg",
+  "servings": 4,
+  "prepMinutes": 10,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Almond Milk (unsweetened)",
+      "qty": 475,
+      "unit": "ml",
+      "product": "almond-milk"
+    },
+    {
+      "name": "Almonds (sliced)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "almonds"
+    },
+    {
+      "name": "Bananas",
+      "qty": 2,
+      "product": "banana"
+    },
+    {
+      "name": "Frozen Blueberries",
+      "qty": 2.5,
+      "unit": "cup",
+      "product": "blueberries"
+    },
+    {
+      "name": "Frozen Raspberries",
+      "qty": 2.5,
+      "unit": "cup",
+      "product": "raspberries"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Natural Almond Butter",
+      "product": "butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "This recipe will make about 8 cups. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Peel the bananas. Break into chunks and add to blender."
+    },
+    {
+      "text": "Add almond milk, raspberries, blueberries, almond butter, and cinnamon to the blender."
+    },
+    {
+      "text": "Blend on high speed for several minutes until smooth."
+    },
+    {
+      "text": "Divide the smoothie between bowls and top with additional raspberries, blueberries, and almonds."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "ep-indian-cauliflower-and-lentil-stew",
+  "kind": "meal",
+  "title": "Indian Cauliflower & Lentil Stew",
+  "subtitle": "with Fresh Chilli & Baby Spinach",
+  "description": "Dig into this aromatic, veggie-loaded curry for the ideal dinner winner!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/indian-cauliflower-and-lentil-stew-67f839fc0d0527cba53a6cf1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF210219_R10_W15_EP_AUS_KB_Main_edit_high-f5b3db48.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "everyplate",
+    "indian",
+    "quick",
+    "vegetarian",
+    "pies-fries-beyond",
+    "pan-asian-plates"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561c-5667c8d1.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3946-ff8321d6.png"
+    },
+    {
+      "name": "Red Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/69c48176d795c2c9e4005746-d4c36293.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b8-b97bce2e.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f904ecbf90d9f528472-685e5ad9.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cb-3faad567.png"
+    },
+    {
+      "name": "Masala Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ecdf37821ad0c48fa420134-b284d5d2.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf426-58b03ce0.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0d-9e84e0fa.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Cut cauliflower into small florets. Cut potato into bite-sized chunks.<br>• Spread cauliflower and potato on lined oven tray, sprinkle over masala spice blend, drizzle with olive oil and season with salt.<br>• Toss to coat, spread out evenly, then roast until tender, 20-25 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69a13e17b83c0c3e7ed01a8b/step-49a60000.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop brown onion (see ingredients) and garlic. Rinse red lentils.<br>• Heat a large saucepan over medium-high heat with the butter and a drizzle of olive oil.<br>• Cook onion, stirring occasionally, until softened, 4-5 mins.<br>• Add garlic and Mumbai spice blend and cook until fragrant, 1 min.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69a13e17b83c0c3e7ed01a8b/step-77a06410.jpg"
+    },
+    {
+      "text": "• <p>• Add lentils, coconut milk, the water and stock powder.<br>• Bring to a simmer, then cover with a lid. Simmer, stirring occasionally, until lentils are tender, 18-20 mins.<br>• When lentils are soft, stir through the roasted veggies, baby spinach leaves and a small drizzle of white wine vinegar and season.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69a13e17b83c0c3e7ed01a8b/step-7ccd3c20.jpg"
+    },
+    {
+      "text": "• <p>• Thinly slice long chilli (if using).<br>• Divide lentil stew between bowls. Top with chilli to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69a13e17b83c0c3e7ed01a8b/step-1b4ea230.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "asian-bbq-seasoning",
+  "kind": "blend",
+  "title": "Asian BBQ Seasoning",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (five spice, sugar, garlic and ginger). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [
+    "Chinese BBQ Seasoning",
+    "Asian BBQ Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Chinese Five Spice",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chinese-five-spice"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Ground Ginger",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

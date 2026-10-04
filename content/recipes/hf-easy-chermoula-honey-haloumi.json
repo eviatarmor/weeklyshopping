@@ -1,0 +1,94 @@
+{
+  "slug": "hf-easy-chermoula-honey-haloumi",
+  "kind": "meal",
+  "title": "Easy Chermoula-Honey Haloumi",
+  "subtitle": "with Zesty Salsa & Garlic Rice",
+  "description": "In this surprisingly simple recipe, creamy pesto adds a rich and herby flavour to the juicy haloumi, while also working as the glue for the Parmesan crust. Serve with a couple of colourful veggie sides to balance out the richness.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-chermoula-honey-haloumi-67f852ed4264524ca9794915",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1041_W17_AUS_Main_5_high-84603ef5.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "naturally gf",
+    "healthy",
+    "quick prep",
+    "proteinrich"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723857b33a6ad8f0f05d35-e65e8b58.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b7105c9621030b4d32-3ceac5f0.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop garlic. In a medium saucepan, heat the butter with a dash of olive oil over medium heat. • Cook garlic until fragrant, 1-2 minutes. Add basmati rice, the water (for the rice) and a generous pinch of salt, stir, then bring to the boil. • Reduce heat to low and cover with a lid. • Cook for 10 minutes, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369e24f7d5496ac4a64c3f/step-44eb6600.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, in a medium bowl, place haloumi and cover with water to soak. Zest lime to get a pinch, then slice into wedges. Finely chop cucumber and tomato. • In a small bowl, combine lime zest, a squeeze of lime juice, the honey and the water (for the glaze). • In a medium bowl, combine tomato, cucumber, another squeeze of lime juice and a drizzle of olive oil. Season. Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369e24f7d5496ac4a64c3f/step-f87e2310.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook haloumi until golden brown, 1-2 minutes each side. • Remove pan from heat then add a pinch of chermoula spice blend and honey glaze, turning haloumi to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369e24f7d5496ac4a64c3f/step-6d7ad020.jpg"
+    },
+    {
+      "text": "• <p>• Divide garlic rice between plates. Top with chermoula-honey haloumi, drizzling over any extra glaze from pan. • Top with zesty salsa. Tear over parsley. Serve with any remaining lime wedges. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369e24f7d5496ac4a64c3f/step-b6281830.jpg"
+    }
+  ]
+}

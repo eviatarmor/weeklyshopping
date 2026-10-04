@@ -1,0 +1,70 @@
+{
+  "slug": "ml-chocolate-cherry-date-protein-shake",
+  "kind": "meal",
+  "title": "Chocolate, Cherry & Date Protein Shake",
+  "sourceUrl": "https://www.mealime.com/recipes/chocolate-cherry-date-protein-shake/30326",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3379/presentation_f8e952b8-bc60-4b78-a476-95c4bfe3cdaf.jpeg",
+  "servings": 4,
+  "prepMinutes": 7,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Frozen Cherries",
+      "qty": 1,
+      "unit": "cup",
+      "product": "cherries"
+    },
+    {
+      "name": "Medjool Dates (pitted)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "medjool-dates"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 475,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Cocoa Powder",
+      "product": "cocoa-powder",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Vanilla Extract",
+      "product": "vanilla-extract",
+      "pantry": true
+    },
+    {
+      "name": "Vanilla Whey-Based Protein Powder (containing 20 Grams Protein/serving)",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Not all protein powders are created equal. If desired, adjust shake consistency by adding more or less liquid per package instructions. This recipe will make about 8 cups of shake. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Place milk, water, protein powder, cherries, dates, cocoa powder, vanilla, cinnamon, and salt in a blender. Blend on high speed for several minutes until smooth."
+    },
+    {
+      "text": "To serve, divide shake between glasses, adding ice if desired. Enjoy!"
+    }
+  ]
+}

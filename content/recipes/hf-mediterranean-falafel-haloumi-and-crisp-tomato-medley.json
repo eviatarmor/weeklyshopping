@@ -1,0 +1,154 @@
+{
+  "slug": "hf-mediterranean-falafel-haloumi-and-crisp-tomato-medley",
+  "kind": "meal",
+  "title": "Mediterranean Falafel, Haloumi & Crisp Tomato Medley",
+  "subtitle": "with Onion Couscous & Plant-Based Pesto Aioli",
+  "description": "Imagine a bed of couscous infused with an onion and lemon pepper flavour you love, then topped with spinach falafel, haloumi and a refreshing tomato medley on top. Now you can stop imagining because here it is, ready for you to devour!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-falafel-haloumi-and-crisp-tomato-medley-67e5a3b4822813b6e6e5e323",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-falafel-spinach-tomato-medley-770993de-1ceab47f.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "quick",
+    "classic"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Lemon Pepper Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "lemon-pepper-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237853405d840b2be38a5-19ef1e2b.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "unit": "packet",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f83405cade9b9f0acdb607-55e802f8.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb224-afb6bdde.png"
+    },
+    {
+      "name": "Plant-Based Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237cdb33a6ad8f0f05a6e-12b0a0ad.png"
+    },
+    {
+      "name": "Plant-Based Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237cb3405d840b2be3a29-6227deed.png"
+    },
+    {
+      "name": "Red Radish",
+      "qty": 2,
+      "product": "radish",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ec105c9621030b4e7e-0ea1eaaf.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e57-5ee04095.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddc02793e8cdd8467e8c-053dd8d7.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c7-f599f624.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Thinly slice brown onion (see ingredients) and red radish.<br>• Roughly chop tomato and baby spinach leaves.<br>• In a small bowl, combine plant-based aioli, plant-based basil pesto and the water (for the sauce).<br>• In a medium bowl, place haloumi and cover with water to soak.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e5a3b4822813b6e6e5e323/step-b1d40e00.jpg"
+    },
+    {
+      "text": "• <p>• In a medium saucepan, heat a drizzle of olive oil over medium-high heat.<br>• Cook onion, stirring, until softened, 4-5 minutes. Add lemon pepper seasoning and cook until fragrant, 1 minute.<br>• Add the water (for the couscous) and the salt and bring to the boil. Add couscous, stir to combine. Cover with a lid and remove from the heat.<br>• Set aside until the water is absorbed, 5 minutes. Fluff up with fork. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e5a3b4822813b6e6e5e323/step-47455a10.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, cut or tear each spinach falafel into quarters (don&#39;t worry if they crumble!).<br>• In a large frying pan, heat olive oil (1/4 cup for 2 people / 1/2 cup for 4 people) over medium-high heat. When the oil is hot, cook falafels, tossing, until deep golden brown, 4-6 minutes. Transfer to a paper towel-lined plate.<br>• Drain haloumi and pat dry. Cut the haloumi into 1cm-thick slices.<br>• Return frying pan to medium-high heat with a drizzle of olive oil.<br>• Cook haloumi until golden brown, 1-2 minutes each side. Transfer to a plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e5a3b4822813b6e6e5e323/step-ffb86d20.jpg"
+    },
+    {
+      "text": "• <p>• In a large bowl, add tomato, radish, baby spinach, falafels and a drizzle of the vinegar and olive oil. Season and toss to combine.<br>• Divide onion couscous between bowls. Top with Mediterranean falafel, haloumi and spinach-tomato medley.<br>• Drizzle over plant-based pesto aioli sauce. Top with flaked almonds to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e5a3b4822813b6e6e5e323/step-487a4130.jpg"
+    }
+  ]
+}

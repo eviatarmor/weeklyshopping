@@ -1,0 +1,147 @@
+{
+  "slug": "hf-veg-healthy-double-zingy-plant-based-mince-and-garlic-rice",
+  "kind": "meal",
+  "title": "Sweet Soy Double Plant-Based Mince & Zesty Rice",
+  "subtitle": "with Asian Veggies, Sriracha & Sesame Dressing",
+  "description": "Team our superstar plant-based veggie mince with some equally delicious veggies and make things zingy by adding some lime zest to the fluffy rice. All that's left is to pile it high and drizzle over some sriracha and sesame dressing to serve.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veg-healthy-double-zingy-plant-based-mince-and-garlic-rice-67f852cc0d0527cba53ae574",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W29_AU_R22166-3_MAIN_spring_onion_edit_high-c08f9f7b.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "hellofresh",
+    "thai",
+    "healthy",
+    "vegetarian",
+    "over 30g protein",
+    "proteinrich"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c23405d840b2be3497-766f473c.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f2-90eac6a7.png"
+    },
+    {
+      "name": "Sriracha",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sriracha",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723815b33a6ad8f0f05bc7-d3719584.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bac-092c7dc3.png"
+    },
+    {
+      "name": "Pea Pods",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sugar-snap-peas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/62a02961d1ec4f68c30835c7-60ed00b7.png"
+    },
+    {
+      "name": "Sesame Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f3-78f88c67.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd2-a68e0a9e.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 400,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d1b33a6ad8f0f05a86-6acc66e2.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723857b33a6ad8f0f05d35-e65e8b58.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddc59690d86caac925e0-fe3370f8.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd609690d86caac9252c-ccf6ae55.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop garlic. <br>• In a medium saucepan, heat a drizzle of olive oil<br>over medium heat.<br>• Cook half the garlic until fragrant, 1-2 minutes. <br>Add jasmine rice, the water and a generous <br>pinch of salt, stir, then bring to the boil.<br>• Reduce heat to low and cover with a lid.<br>• Cook for 10 minutes, then remove from heat <br>and keep covered until rice is tender and water is <br>absorbed, 10 minutes. </p> <p><br>TIP: The rice will finish cooking in its own steam so <br>don’t peek! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43b55a41964b9c02c079/step-f3b0c600.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, roughly chop Asian greens. <br>• Thinly slice spring onion.<br>• Zest lime to get a pinch and slice into wedges. <br>• Trim pea pods.<br>• Slice zucchini into thin half-moons.<br>• In a small bowl, combine the soy sauce, honey<br>and a splash of water. Set aside. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43b55a41964b9c02c079/step-70d72f10.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil<br>over medium-high heat.<br>• Cook zucchini and pea pods, tossing until <br>tender, 4-5 minutes. <br>• Add Asian greens and cook until wilted, <br>1-2 minutes. Transfer to a bowl and season with <br>salt and pepper to taste. </p> <p><br>TIP: Add a dash of water to the pan to help speed up <br>the cooking process. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43b55a41964b9c02c079/step-e207f320.jpg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with a <br>drizzle of olive oil.<br>• Cook plant-based mince, breaking up with a <br>spoon, until just browned, 4-5 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43b55a41964b9c02c079/step-dc35b830.jpg"
+    },
+    {
+      "text": "• <p>• To the pan, add the remaining garlic and cook <br>until fragrant, 1 minute.<br>• Add honey-soy mixture and cooked veggies, <br>tossing to combine, 1 minute.<br>• Remove pan from heat, then add a generous <br>squeeze of lime juice. Season to taste.<br>• To the rice, add lime zest, stirring to combine. </p> <p><br>TIP: Seasoning is key in this dish, so taste and <br>season with more salt and pepper if needed.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43b55a41964b9c02c079/step-31580440.jpg"
+    },
+    {
+      "text": "• <p>• Divide zesty rice and sweet soy plant-based <br>mince stir-fry between bowls. <br>• Drizzle over sriracha and sesame dressing. <br>• Garnish with spring onion and serve with any <br>remaining lime wedges. Enjoy! </p> <p><br>TIP: Sriracha is slightly spicy, use less if you&#39;re <br>sensitive to heat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43b55a41964b9c02c079/step-f951e050.jpg"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "hf-sweet-soy-tofu-bites-and-sesame-sriracha-slaw",
+  "kind": "meal",
+  "title": "Sweet-Soy Tofu Bites & Sesame Sriracha Slaw",
+  "subtitle": "with Mixed Leaves & Crushed Peanuts",
+  "description": "Perfect bite-sized parcels of tofu are doused in a mouth-watering sweet soy and sweet chilli concoction, that tastes even better than it sounds (and it sounds really good!). To add some crunch to your squeaky tofu, add an equally delicious sesame sriracha-laced slaw and you'll be thanking us later!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-soy-tofu-bites-and-sesame-sriracha-slaw-66f62be94c65e1fd73e1dc36",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66f62be94c65e1fd73e1dc36-ceea8705.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "calorie smart",
+    "under 40g carbs",
+    "over 30g protein",
+    "quick prep",
+    "quick",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "unit": "packet",
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553faaafd2cb9da068b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e112ff8b25e1c628b4568.png"
+    },
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/64ec5c5b6ca1beac55a5f08e-f6eff24f.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "tablespoon (tbsp)",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56ba8a31fd2cb99b0a8b4567.png"
+    },
+    {
+      "name": "Low Sodium Soy  Sauce",
+      "qty": 1,
+      "unit": "tablespoon (tbsp)",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6340ff8ac400e303d70940be-e35a259a.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/557e7fd8f8b25e9c678b4567.png"
+    },
+    {
+      "name": "Sesame Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5db11c36bdaa2069cd690dd1-014522d3.png"
+    },
+    {
+      "name": "Sriracha",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sriracha",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60764686564d0072a6374149-22a77d1f.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59ac90632c3e0855ea048e02-f273e5e8.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop celery.\n• Finely chop garlic.\n• Cut firm tofu into 1cm chunks.\n• In a medium bowl, combine sweet soy seasoning, the plain flour and a good pinch of salt. Add tofu, tossing to coat.\n• In a small bowl, combine sweet chilli sauce and the low sodium soy sauce.\n• In a large heatproof bowl, combine garlic and a drizzle of olive oil. Microwave in 10 second bursts until fragrant.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62be94c65e1fd73e1dc36-7ad149d8.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a generous drizzle of olive oil over medium-high heat.\n• When oil is hot, cook tofu, tossing occasionally, until golden, 5-7 minutes.\n• Remove from heat, then add sweet chilli-soy mixture, tossing tofu to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62be94c65e1fd73e1dc36-1781eb00.jpeg"
+    },
+    {
+      "text": "• Meanwhile, to bowl with garlic oil, add mayonnaise, sesame dressing and sriracha, stirring to combine.\n• Add celery, shredded cabbage mix and mixed salad leaves, tossing to coat. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62be94c65e1fd73e1dc36-c868f33c.jpeg"
+    },
+    {
+      "text": "• Divide sesame sriracha slaw between bowls.\n• Top with sweet soy tofu bites.\n• Sprinkle with crushed peanuts to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62be94c65e1fd73e1dc36-8327a2d0.jpeg"
+    }
+  ]
+}

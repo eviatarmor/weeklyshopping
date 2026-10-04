@@ -1,0 +1,76 @@
+{
+  "slug": "ml-caramelized-banana-walnut-oatmeal",
+  "kind": "meal",
+  "title": "Caramelized Banana & Walnut Oatmeal",
+  "sourceUrl": "https://www.mealime.com/recipes/caramelized-banana-walnut-oatmeal/6946",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/788/presentation_dc3f3ce3-8e55-4a0f-b9bf-eb9b4f20130d.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 4,
+      "product": "banana"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "walnuts"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Virgin Coconut Oil",
+      "product": "coconut-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat a nonstick skillet over medium-high heat."
+    },
+    {
+      "text": "Roughly chop walnuts and add to the skillet. Toast, stirring often, until fragrant, 2-3 minutes. Set aside to cool."
+    },
+    {
+      "text": "Peel and slice the bananas into ¼-inch rounds."
+    },
+    {
+      "text": "Add salt and water to a large pot and bring to a boil over high heat. Once boiling, stir in oats, cinnamon, and half of the bananas; reduce heat to medium. Cover and let simmer for 3-5 minutes or until oats reach desired consistency and banana has softened."
+    },
+    {
+      "text": "Return the skillet to medium heat and add oil and maple syrup."
+    },
+    {
+      "text": "Place the remaining banana slices flat side down in the skillet. Cook until golden brown, 2-3 minutes and then flip and continue cooking for 1-2 more minutes."
+    },
+    {
+      "text": "To serve, divide oatmeal between bowls, top with walnuts and bananas, and drizzle with maple syrup. Enjoy!"
+    }
+  ]
+}

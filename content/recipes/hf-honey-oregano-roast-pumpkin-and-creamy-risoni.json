@@ -1,0 +1,147 @@
+{
+  "slug": "hf-honey-oregano-roast-pumpkin-and-creamy-risoni",
+  "kind": "meal",
+  "title": "Honey Oregano Roast Pumpkin & Creamy Risoni",
+  "subtitle": "with Roast Veggies & Fetta Cubes",
+  "description": "A warm bowl of creamy risoni is just what the doctor ordered! Pack on honey and oregano-doused pumpkin and some extra colourful veggies to have a homey and hearty meal all in the one bowl. With a sprinkling of fetta cubes, flavour is truly in high demand here!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-oregano-roast-pumpkin-and-creamy-risoni-643e0f62ea45e31fa803ce61",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65794488a65f6d71569fba9b-08e684dd.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be349fd2cb95d648b4567.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.5,
+      "unit": "sachet",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56a011a24dab718d418b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Nan's Special Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "nans-special-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5e38f86b18fdef7c4e43caa6-58b68ca4.png"
+    },
+    {
+      "name": "Risoni",
+      "qty": 1,
+      "unit": "packet",
+      "product": "risoni",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c484dab71c4718b456b.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5dbfb5acd7ecfc1364030f65-1650ad62.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Slice pumpkin into thin wedges.\n• Slice zucchini into rounds.\n• Cut red onion and tomato into wedges.\n• Slice lemon into wedges.\n• Place pumpkin on a lined oven tray, sprinkle over dried oregano (see ingredients), drizzle with olive oil and season with salt. Toss to coat. Roast until tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-842d9727.jpeg"
+    },
+    {
+      "text": "• Place zucchini, onion and tomato on a second lined oven tray.\n• Drizzle with olive oil and season with salt. Toss to coat. Roast until tender, 15-20 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-4308bb84.jpeg"
+    },
+    {
+      "text": "• While veggies are roasting, finely chop garlic.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-46860b68.jpeg"
+    },
+    {
+      "text": "• In a large saucepan, heat a drizzle of olive oil over medium-high heat. Add Nan's special seasoning and garlic and cook until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-9f116c5a.jpeg"
+    },
+    {
+      "text": "• To the saucepan, stir in risoni, vegetable stock pot, light cooking cream and the water. Bring to the boil, then reduce the heat to medium and simmer, stirring occasionally, until the risoni is 'al dente' and the water is absorbed, 12-15 minutes. TIP: Rest risoni, covered, for 5 minutes to thicken. TIP: Add a splash more water if the risoni looks dry!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-052f8106.jpeg"
+    },
+    {
+      "text": "• Gently stir roast veggies and a squeeze of lemon juice through the risoni.\n• Divide risoni between bowls.\n• Top with roast pumpkin. Drizzle the honey over roast pumpkin.\n• Crumble over fetta cubes and serve with the remaining lemon wedges. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-888d04af.jpeg"
+    }
+  ]
+}

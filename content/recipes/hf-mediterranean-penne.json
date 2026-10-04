@@ -1,0 +1,112 @@
+{
+  "slug": "hf-mediterranean-penne",
+  "kind": "meal",
+  "title": "Mediterranean Penne",
+  "description": "Not enough hours in the day? Don’t worry, we’ve gathered up olives from the Grecian Coast, artichoke hearts from North Africa, fetta from the ancient Byzantine Empire and rocket from Rome to bring you a balmy Mediterranean feast. Change is as good as a holiday, and this pasta might just be better!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-penne-54f798ce6ced6ed0388b456b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/54f798ce6ced6ed0388b456b.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "north african"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Penne",
+      "qty": 200,
+      "unit": "g",
+      "product": "penne",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556879654dab71691e8b456b.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb8a4dab71aa0a8b4569.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Kalamata Olives",
+      "qty": 100,
+      "unit": "g",
+      "product": "olives",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556879cefd2cb983298b456b.png"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "qty": 150,
+      "unit": "g",
+      "product": "artichoke-hearts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55687a1df8b25ea7418b4567.png"
+    },
+    {
+      "name": "Rocket",
+      "qty": 70,
+      "unit": "g",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5565438cf8b25eb8178b4567.png"
+    },
+    {
+      "name": "Fetta Cheese",
+      "qty": 0.5,
+      "unit": "block",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be7a34dab71aa0a8b4568.png"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Pepper",
+      "product": "black-pepper",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672254f8b25e402f8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Bring a large pot of salted water to the boil. Add the pasta to the boiling water and cook for approximately 8-10 minutes or until al dente. Drain, rinse under cold water and set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f798ce6ced6ed0388b456b/step_55687c4bd170f.jpg"
+    },
+    {
+      "text": "• Dice the red onion. Peel and crush the garlic, chop the parsley, pit and halve the kalamata olives, drain the artichoke hearts and wash the rocket. Heat some oil in a pan over a medium-high heat. Add the onion and the garlic, then cook for about 2 minutes or until the onion is translucent. Turn the temperature down to a low heat and add the chopped cherry tomatoes, chopped parsley, olives, and drained artichokes; cook gently for a further 3 minutes, or until the tomatoes are soft",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f798ce6ced6ed0388b456b/step_55687c4be2f6e.jpg"
+    },
+    {
+      "text": "• Toss the drained pasta with the vegetables to combine, then throw in the rocket leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f798ce6ced6ed0388b456b/step_55687c4c05093.jpg"
+    },
+    {
+      "text": "• To serve, crumble a little of the fetta and lightly toss through; if you think fetta makes everything better, add a little more! Season well with salt and pepper and divide the pasta amongst your bowls and enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f798ce6ced6ed0388b456b/step_55687c4c18caa.jpg"
+    }
+  ]
+}

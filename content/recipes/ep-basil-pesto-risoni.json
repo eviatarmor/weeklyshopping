@@ -1,0 +1,109 @@
+{
+  "slug": "ep-basil-pesto-risoni",
+  "kind": "meal",
+  "title": "Roasted Cauliflower Pesto Risoni",
+  "subtitle": "with Zucchini & Parmesan",
+  "description": "The traditional basil pesto flavour combined with the goodness of roast zucchini, cauliflower and spinach make this a pasta dish you won't forget. We like to think of it as comfort food for the soul.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/basil-pesto-risoni-63362c2840171e2bec0f9fa9",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66fe552999e8e2a18bd73f83-f5314eed.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "italian",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Garlic Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee990bd16bd266f3f6ed96f-4e7ec9f7.png"
+    },
+    {
+      "name": "Risoni",
+      "qty": 1,
+      "unit": "packet",
+      "product": "risoni",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c484dab71c4718b456b.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d57b7f8b25e246c8b4568.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427be4dab7105578b456b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Chop cauliflower (including the stalk!) into small florets.\n• Cut zucchini into half-moons.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66fe552999e8e2a18bd73f83-41e2ff5a.jpeg"
+    },
+    {
+      "text": "• Place cauliflower and zucchini on the lined oven tray.\n• Sprinkle with garlic seasoning. Drizzle with olive oil and season with salt and pepper.\n• Toss to coat, spread out evenly and roast until tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66fe552999e8e2a18bd73f83-43553192.jpeg"
+    },
+    {
+      "text": "• When veggies have 10 mins remaining, bring a medium saucepan of salted water to boil.\n• Add risoni and cook until \"al dente\", 7-8 mins.\n• Drain and return to pan.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66fe552999e8e2a18bd73f83-4d1049d1.jpeg"
+    },
+    {
+      "text": "• Add baby spinach, roast veggies, basil pesto and the salt and butter to risoni. Gently stir to combine and season to taste.\n• Divide risoni between bowls.\n• Sprinkle with Parmesan to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66fe552999e8e2a18bd73f83-c9ca6535.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "ep-honey-sesame-haloumi-tacos",
+  "kind": "meal",
+  "title": "Sweet Sesame Haloumi Tacos",
+  "subtitle": "with Cucumber Yoghurt",
+  "description": "Fresh and full of flavour, these are tacos like you've never seen them before! Loaded with veggie goodness, they're a colourful feast for the senses.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/honey-sesame-haloumi-tacos-67f868b3cade9b9f0acecc7e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-sesame-haloumi-tacos-2fdaec2f-3c898582.jpg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "everyplate",
+    "mediterranean",
+    "quick",
+    "speedy",
+    "vegetarian",
+    "20 min or less"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c3-662d4bcd.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833484264524ca978ae39-3a323f5a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae2-bdf7aecc.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c68-7ea9b6d2.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a8-15fc822b.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f11-25387a5d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Cut haloumi into 1cm slices. In a medium bowl, place haloumi and cover with water to soak. <br>• Roughly chop cucumber and tomato. <br>• In a small bowl, combine cucumber and yoghurt. Season and set aside. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68e5d1fdd6d3e8af9dd0a9d3/step-c2071100.jpg"
+    },
+    {
+      "text": "• <p>• Drain haloumi and pat dry. Heat a drizzle of olive oil in a medium frying pan over medium-high heat. <br>• Cook haloumi until golden brown, 1-2 mins each side. Remove pan from heat, add honey and sesame seeds and turn to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68e5d1fdd6d3e8af9dd0a9d3/step-afea5510.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, microwave mini flour tortillas for 10 second bursts, until <br>warmed through.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68e5d1fdd6d3e8af9dd0a9d3/step-b5e52820.jpg"
+    },
+    {
+      "text": "• <p>• Fill tortillas with mixed salad leaves, honey-sesame haloumi, tomato and <br>cucumber yoghurt.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68e5d1fdd6d3e8af9dd0a9d3/step-09a8bd30.jpg"
+    }
+  ]
+}

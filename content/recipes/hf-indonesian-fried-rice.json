@@ -1,0 +1,145 @@
+{
+  "slug": "hf-indonesian-fried-rice",
+  "kind": "meal",
+  "title": "Indonesian Fried Rice",
+  "subtitle": "with Spiced Fried Egg",
+  "description": "If fried rice makes you think of broke uni living and sachets of unidentified ‘dehydrated vegetables’, it’s time you experienced the real thing. Tasty mouthfuls of fried rice packed full of veggies and topped with a fried egg, this is destined to become a household favourite.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/indonesian-fried-rice-587c56c7b32fbe5e267ce082",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indonesian-fried-rice-with-spiced-fried-egg-7cdc7497.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indonesian",
+    "lactose free",
+    "nut free",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 2,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Turmeric",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-turmeric",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/560b7a7d4dab713f2a8b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Roma Tomato",
+      "qty": 1,
+      "product": "roma-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57989863b2baaf083c8b4567.png"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "kecap-manis",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56c3ee824dab71f17a8b4567.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55fb5a1279a23cde148b4567.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Peel and crush the **garlic**. Trim the ends of the **green beans** and chop into 2 cm pieces. Dice the **carrot** (unpeeled). Dice the **Roma tomato**. Slice the **lemon** into wedges. Pick the **coriander** leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c56c7b32fbe5e267ce082-0-0-56264604.jpg"
+    },
+    {
+      "text": "• Rinse the **basmati rice** well. Place the rice and the **water (check the ingredients list for the amount)** in a medium saucepan and bring to the boil over a high heat. Reduce the heat to medium and simmer, uncovered, for **10-12 minutes**, or until the rice is soft. Drain and set aside. Cover with a lid to keep warm.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c56c7b32fbe5e267ce082-1-0-c66d1b44.jpg"
+    },
+    {
+      "text": "• Heat a **drizzle** of **olive oil** in a large wok or frying pan over a high heat. Add the **garlic**, the **green beans** and the **carrot** and cook for **2 minutes**, or until slightly softened.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c56c7b32fbe5e267ce082-2-0-6c1e7538.jpg"
+    },
+    {
+      "text": "• Add the **rice**, the **tomato**, the **kecap manis**, the **soy sauce**, the **turmeric (check the ingredients list for the amount)** and a **pinch** of **chilli flakes (if using)**. **TIP:** Some like it hot but if you don't, just hold back on the chilli flakes. Squeeze over the juice from **1/2** of the **lemon wedges** and stir to combine. Remove from the heat and cover with a lid to keep warm.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c56c7b32fbe5e267ce082-3-0-dda2a29b.jpg"
+    },
+    {
+      "text": "• Heat a **drizzle** of **olive oil** in a large frying pan over a medium heat. Sprinkle a **pinch** of **chilli flakes (if using)** and a **pinch** of **turmeric** into the oil and crack in the **egg** over the top. Cook for **4-5 minutes**, or until the egg white is cooked and the yolk is just firm. **TIP:** If you prefer scrambled eggs, crack the eggs into the pan in step 4 and stir through the rice until cooked.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c56c7b32fbe5e267ce082-4-0-6ca77de1.jpg"
+    },
+    {
+      "text": "• Divide the fried rice between bowls and top with the fried egg. Sprinkle over the coriander and serve with the remaining lemon wedges on the side.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c56c7b32fbe5e267ce082-5-0-9ed8de06.jpg"
+    }
+  ]
+}

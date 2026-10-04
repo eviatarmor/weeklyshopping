@@ -1,0 +1,71 @@
+{
+  "slug": "ml-strawberry-banana-vanilla-protein-shake",
+  "kind": "meal",
+  "title": "Strawberry-Banana Vanilla Protein Shake",
+  "sourceUrl": "https://www.mealime.com/recipes/strawberry-banana-vanilla-protein-shake/30374",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3385/presentation_d1da5b6f-9766-4aed-a3e1-7f521fa8d3cc.jpeg",
+  "servings": 4,
+  "prepMinutes": 7,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 2,
+      "product": "banana"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "qty": 1,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Strawberries",
+      "qty": 455,
+      "unit": "g",
+      "product": "strawberries"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 475,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Vanilla Extract",
+      "product": "vanilla-extract",
+      "pantry": true
+    },
+    {
+      "name": "Vanilla Whey-Based Protein Powder (containing 20 Grams Protein/serving)",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Not all protein powders are created equal. If desired, adjust shake consistency by adding more or less liquid per package instructions. This recipe will make about 8 cups of shake. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Wash, dry, and trim strawberries. Place in a blender."
+    },
+    {
+      "text": "Peel bananas, break into chunks, and add to the blender."
+    },
+    {
+      "text": "Add milk, yogurt, protein powder, maple syrup, and vanilla to the blender. Blend on high speed for several minutes until smooth."
+    },
+    {
+      "text": "To serve, divide shake between glasses, adding ice if desired. Enjoy!"
+    }
+  ]
+}

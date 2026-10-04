@@ -1,0 +1,178 @@
+{
+  "slug": "hf-herby-chickpea-stuffed-capsicums",
+  "kind": "meal",
+  "title": "Herby Chickpea Stuffed Capsicums",
+  "subtitle": "with Fetta, Double Yoghurt, Potato Wedges & Olive Salad",
+  "description": "Tender, oven-roasted capsicum is the ideal vessel for a rich, herby chickpea mixture topped with a creamy crumble of fetta. Serve alongside some crispy wedges and an olive-speckled salad for a vibrant and exciting mid-week meal packed with veg!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/herby-chickpea-stuffed-capsicums-66d7c7e3b236b2c399e277c7",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66d7c7e3b236b2c399e277c7-0082206c.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 2,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fae01355a2ab9306616d5b0-a7aba26d.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 2,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Tomato & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tomato-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/64c9bc5fd1320bb7c7146433-9a2cd816.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Kalamata Olives",
+      "qty": 1,
+      "unit": "packet",
+      "product": "olives",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556879cefd2cb983298b456b.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b7105c9621030b4d32-3ceac5f0.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723747105c9621030b4aa1-7e50a14e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Slice capsicum in half lengthways and remove stem and seeds.\n• Place capsicum on a lined oven tray. Brush with olive oil and season with salt and pepper. Arrange cut-side up and roast until tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66d7c7e3b236b2c399e277c7-d696559c.jpeg"
+    },
+    {
+      "text": "• Meanwhile, cut potato into wedges.\n• Place wedges on a second lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to coat.\n• Bake until tender, 20-25 minutes. TIP: If your oven tray is crowded, divide between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66d7c7e3b236b2c399e277c7-a03cca4d.jpeg"
+    },
+    {
+      "text": "• Finely chop garlic. Thinly slice brown onion. Thinly slice tomato into wedges. Drain and rinse chickpeas.\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Add half the garlic and cook until fragrant, 1 minute. Transfer to a small bowl.\n• Add Greek-style yoghurt to garlic oil mixture and combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66d7c7e3b236b2c399e277c7-27ed06e5.jpeg"
+    },
+    {
+      "text": "• When capsicum have 5 minutes remaining, return frying pan to high heat with a drizzle of olive oil. Cook onion and chickpeas until tender, 3-4 minutes.\n• Reduce heat to medium-high and add tomato & herb seasoning, tomato paste, and the remaining garlic and cook, until fragrant, 1-2 minutes.\n• Stir in the water, brown sugar and butter and simmer, until slightly thickened, 1-2 minutes. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66d7c7e3b236b2c399e277c7-52b92dbd.jpeg"
+    },
+    {
+      "text": "• Once capsicum is done, remove tray from oven. Spoon some chickpea mixture into capsicums.\n• Crumble over fetta cubes and bake, until golden, 5-7 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66d7c7e3b236b2c399e277c7-f563bf43.jpeg"
+    },
+    {
+      "text": "• In a medium bowl, combine mixed salad leaves, tomato, kalamata olives and a drizzle of balsamic vinegar and olive oil. Season with salt and pepper.\n• Divide potato wedges, olive salad, herby chickpea stuffed capsicums and any remaining chickpea filling between plates.\n• Tear over parsley. Sprinkle with flaked almonds. Drizzle over garlic yoghurt to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66d7c7e3b236b2c399e277c7-52504422.jpeg"
+    }
+  ]
+}

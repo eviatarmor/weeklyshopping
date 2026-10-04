@@ -1,0 +1,54 @@
+{
+  "slug": "sweet-soy-seasoning",
+  "kind": "blend",
+  "title": "Sweet Soy Seasoning",
+  "description": "Homemade approximation of the HelloFresh AU sachet (sweet, garlicky Asian-style powder; add a dash of soy sauce when cooking for the full effect). One batch replaces one sachet.",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_400/hellofresh_s3/ingredient/64ec5c5b6ca1beac55a5f08e-f6eff24f.png",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "hellofresh",
+    "blend"
+  ],
+  "aliases": ["Sweet Asian Spice Blend"],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Ground Ginger",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

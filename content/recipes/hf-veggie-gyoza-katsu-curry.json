@@ -1,0 +1,154 @@
+{
+  "slug": "hf-veggie-gyoza-katsu-curry",
+  "kind": "meal",
+  "title": "Double Veggie Gyoza Katsu Curry",
+  "subtitle": "with Corn Rice & Pickled Ginger",
+  "description": "Celebrate World Vegetarian Month and find your balance with our Meat-Free Marvels. This plant-based stir-fry might sound involved, but thanks to our ready-to-cook veggie gyoza, it comes together with minimal\nhands-on time. Amp up the Asian-style flavours with zingy ginger and an easy katsu curry sauce.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-gyoza-katsu-curry-641a8cdff4ecf26bed0bd890",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6507bf2bafce28d3c35d8c35-83e5714b.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "eat-less-meat",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6048005c8ee9c4452b01d358-050426b9.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f2eafd2cb99d038b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Vegetable Gyoza",
+      "qty": 2,
+      "unit": "packet",
+      "product": "frozen-dumplings",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61fa19cd00045f77c8296e35-e822ec99.png"
+    },
+    {
+      "name": "Katsu Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "katsu-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/604807498c7d13264249801f-452b7744.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Pickled Ginger",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/607eafa642a4ea1d513e05d2-0b99c9cd.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop garlic. Drain sweetcorn.\n• In a medium saucepan, heat the plant-based butter with a dash of olive oil over medium heat. Cook corn and half the garlic until fragrant, 1-2 minutes.\n• Add the water (for the rice) and a generous pinch of salt and bring to the boil. Add jasmine rice. Stir, cover with a lid and reduce heat to low.\n• Cook for 12 minutes, then remove from heat. Keep covered until rice is tender and water is absorbed, 10-15 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6507bf2bafce28d3c35d8c35-c3174c92.jpeg"
+    },
+    {
+      "text": "• Meanwhile, thinly slice carrot into half-moons.\n• Trim and halve green beans.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6507bf2bafce28d3c35d8c35-97702a2c.jpeg"
+    },
+    {
+      "text": "• When the rice has 15 minutes remaining, heat a large frying pan over medium-high heat with a drizzle of olive oil.\n• Cook carrot and green beans, stirring, until tender, 4-5 minutes.\n• Add remaining garlic and cook until fragrant, 1 minute.\n• Transfer to a bowl. Season with salt and pepper and cover to keep warm.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6507bf2bafce28d3c35d8c35-029ea7f2.jpeg"
+    },
+    {
+      "text": "• Return frying pan to medium-high heat with a drizzle of olive oil.\n• When oil is hot, add vegetable gyoza in batches, flat-side down, in a single layer. Cook until gyoza base is starting to brown, 1-2 minutes.\n• Add the water (for the gyoza) and cover with a lid or foil.\n• Cook until water has evaporated and gyoza are tender and softened, 4-5 minutes.\n• Transfer to a plate and cover to keep warm. TIP: Watch out! The water may spatter!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6507bf2bafce28d3c35d8c35-4588d48a.jpeg"
+    },
+    {
+      "text": "• Return frying pan to medium-high heat with a drizzle of olive oil.\n• Cook ginger paste until fragrant, 1 minute.\n• Stir in katsu paste, coconut milk and the brown sugar until slightly thickened, 2-3 minutes. Remove pan from heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6507bf2bafce28d3c35d8c35-18e2e7b4.jpeg"
+    },
+    {
+      "text": "• Divide corn rice between bowls. Top with veggies and veggie gyoza.\n• Spoon over katsu curry sauce.\n• Garnish with pickled ginger to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6507bf2bafce28d3c35d8c35-7a7e3133.jpeg"
+    }
+  ]
+}

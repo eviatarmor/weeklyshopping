@@ -1,0 +1,161 @@
+{
+  "slug": "hf-cheesy-black-bean-nachos",
+  "kind": "meal",
+  "title": "Cheesy Black Bean Nachos",
+  "subtitle": "with Corn Salsa & Sour Cream",
+  "description": "Get a load of this for a veggie masterpiece that looks just as amazing as it tastes! Crunchy tortilla wedges are\npiled high with a cheese-topped black bean mix, corn salsa, sour cream, pickled onion and coriander.\nUnfortunately, this week's\nlentils were in short supply, so we've replaced\nthem with black beans. Don't worry, the recipe\nwill be just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-black-bean-nachos-61b008ce8863b405fa6d2080",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/loaded-lentil-cheesy-nachos-4169143a.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Chargrilled Capsicums",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60528614ec1c3a73fc38674b-8824e6d3.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 0.25,
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Tomato Salsa",
+      "qty": 1,
+      "product": "salsa",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60da8f6e419c51068a5936e3-4cbfa01f.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "unit": "stalk",
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553faaafd2cb9da068b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 0.5,
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695d5730006c33520e3181-cdb3da6d.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/180°C fan-forced. Cut the mini flour tortillas into wedges. Slice the red onion in half. Thinly slice 1/2 the onion, then finely chop the remainder. Finely chop the garlic and celery. Drain and rinse the black beans. Drain the sweetcorn. Grate the carrot. Roughly chop the chargrilled capsicum strips. In a small bowl, combine the white wine vinegar and a good pinch of sugar and salt. Scrunch the sliced onion in your hands, then add to the pickling liquid. Add enough water to just cover the onion, then set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-d464c873.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over a high heat. Cook the corn kernels until lightly charred, 4-5 minutes. Meanwhile, finely chop the coriander (reserve some for garnish!). In a medium bowl, combine the charred corn, coriander, tomato salsa and some pickling liquid (1 tsp for 2 people / 2 tsp for 4 people). Season with salt and pepper.\n• TIP: Cover the pan with a lid if the corn kernels are\n• \"popping\" out.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-f7d81fa0.jpg"
+    },
+    {
+      "text": "• Place the tortilla wedges on a lined oven tray. Drizzle (or spray) with olive oil and season with\n• salt and pepper. Toss to coat, then spread out in a single layer. Bake until golden, 6-8 minutes.\n• TIP: If the tortilla wedges don't fit in one layer,\n• divide them between two oven trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-9769cb99.jpg"
+    },
+    {
+      "text": "• SPICY! You may find the spice blend hot! Add less if you're sensitive to heat. Return the frying pan\n• to a medium-high heat with a drizzle of olive oil. Cook the celery, carrot and chopped onion until softened, 3-4 minutes. Add the black beans and cook, stirring, until tender, 2 minutes. Add the garlic and Mexican Fiesta spice blend (see ingredients) and cook until fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-0989b07c.jpg"
+    },
+    {
+      "text": "• Stir through the water, tomato paste and butter. Simmer until the sauce is thickened, 1-2 minutes. Season to taste. Sprinkle the chopped chargrilled capsicum and shredded Cheddar cheese on top, then cover with a lid or foil and reduce the heat to low. Cook until the cheese is melted, 2-3 minutes.\n• TIP: Add another splash of water if the mixture\n• seems dry.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-c87382de.jpg"
+    },
+    {
+      "text": "• Drain the pickled onion. Divide the tortilla chips between plates. Top with the cheesy black beans, light sour cream, corn salsa and pickled onion. Sprinkle with the reserved coriander to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-ccacc350.jpg"
+    }
+  ]
+}

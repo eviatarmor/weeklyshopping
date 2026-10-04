@@ -1,0 +1,158 @@
+{
+  "slug": "hf-crumbed-double-tofu-and-bambino-brussels-sprouts",
+  "kind": "meal",
+  "title": "Crumbed Double Tofu & Bambino Brussels Sprouts",
+  "subtitle": "with Rice, Sesame Dressing & Chilli Pickles",
+  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. These sweet cabbage buttons can be enjoyed steamed, fried or fresh and taste delicious in this crumbed tofu bowl. When paired with rice and chilli pickles, you’ll be savouring each and every bite. Compliments to the Bambino Brussels Sprouts we say!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/perfection-fresh-missing-bambino-brussels-crumbed-tofu-steaks-and-sticky-bambino-brussels-sprouts-67f838410d0527cba53a6572",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W31_AU_R23667-2_Main_coriander_edit_high-5a652451.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "hellofresh",
+    "chinese",
+    "vegetarian",
+    "quick",
+    "around the world"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brussels Sprouts",
+      "qty": 1,
+      "product": "brussels-sprouts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236eeb33a6ad8f0f056ad-fd0153e4.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f82e050d0527cba53a4995-36d072e9.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Garlic Stir-Fry Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stir-fry-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833e1cade9b9f0acdb568-b702a4de.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f2-90eac6a7.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723857b33a6ad8f0f05d35-e65e8b58.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Sesame Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f3-78f88c67.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 2,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376c3405d840b2be3818-426a4116.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd782793e8cdd8467e24-2416da91.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de479690d86caac926a5-8db38531.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a5-f4dfe0a3.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <ul>\n• <li>Add the water to a medium saucepan and bring to the boil.</li>\n• <li>Add jasmine rice, stir, cover with a lid and reduce heat to low.</li>\n• <li>Cook for 10 minutes, then remove the pan from heat and keep covered until rice is tender and all the water is absorbed, 10 minutes.</li>\n• </ul>\n• <p>TIP: The rice will finish cooking in its own steam so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685c8406971405a9ee1fa551/step-9b586b00.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>Meanwhile, using a vegetable peeler, thinly slice cucumber and carrot into ribbons (stopping when you reach the seeds in the centre). </li>\n• <li>Slice lime into wedges. Thinly slice long chilli (if using).</li>\n• <li>In a medium bowl, combine the vinegar and a good pinch of sugar and salt.</li>\n• <li>Add cucumber, carrot and chilli to pickling liquid. Add enough water to just cover veggies. Set aside.</li>\n• </ul>\n• <p>TIP: Slicing the veggies very thinly helps it pickle faster!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685c8406971405a9ee1fa551/step-76bc3a10.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>In a shallow bowl, combine the plain flour and a good pinch of salt. In a second shallow bowl, whisk the egg.</li>\n• <li>In a third shallow bowl, place panko breadcrumbs (see ingredients).</li>\n• <li>Dip Japanese tofu steaks into flour mixture to coat, then into egg and finally in breadcrumb mixture. Set aside on a plate.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685c8406971405a9ee1fa551/step-be439e20.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>Set air fryer to 200°C. Halve Bambino Brussels sprouts and place into a foil-lined air fryer basket. Drizzle with olive oil, toss to coat and cook until browned and tender, 8-10 minutes. </li>\n• <li>When sprouts have 2-3 minutes remaining, add garlic stir-fry sauce and a squeeze of lime juice, tossing to coat. Cook until browned and sticky.</li>\n• </ul>\n• <p>TIP: No air fryer? In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook sprouts, tossing occasionally, until tender, 6-8 minutes. Remove from heat and add garlic stir-fry sauce and a squeeze of lime juice, tossing to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685c8406971405a9ee1fa551/step-80a64930.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>In a large frying pan, heat enough olive oil to coat the base over medium-high heat.</li>\n• <li>Cook crumbed tofu in batches until golden and cooked through, 2-4 minutes each side. Transfer to a paper towel-lined plate.</li>\n• </ul>\n• <p>TIP: Add extra oil if needed so the tofu does not stick to the pan.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685c8406971405a9ee1fa551/step-5bf22e40.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>Drain pickles.</li>\n• <li>Divide rice and chilli pickles between bowls. Top with crumbed tofu steaks and sticky Bambino Brussels sprouts.</li>\n• <li>Drizzle over sesame dressing. Serve with any remaining lime wedges. Enjoy!</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685c8406971405a9ee1fa551/step-72376050.jpg"
+    }
+  ]
+}

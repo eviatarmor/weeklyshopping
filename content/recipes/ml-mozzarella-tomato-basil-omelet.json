@@ -1,0 +1,86 @@
+{
+  "slug": "ml-mozzarella-tomato-basil-omelet",
+  "kind": "meal",
+  "title": "Mozzarella, Tomato & Basil Omelet",
+  "sourceUrl": "https://www.mealime.com/recipes/mozzarella-tomato-basil-omelet/8802",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1016/presentation_bc72505c-d025-4745-9afc-f8ccf4214a0b.jpeg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "qty": 12,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Basil",
+      "qty": 1,
+      "product": "basil"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "qty": 115,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 4,
+      "product": "tomato"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter (unsalted)",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash and thinly slice the tomatoes. Set half aside for garnish."
+    },
+    {
+      "text": "Wash and pick basil leaves off the stems, roll up crosswise, and thinly slice into ribbons."
+    },
+    {
+      "text": "Coarsely grate cheese."
+    },
+    {
+      "text": "Preheat a nonstick skillet over medium heat."
+    },
+    {
+      "text": "In a medium bowl, whisk together eggs, salt, and pepper."
+    },
+    {
+      "text": "Once the skillet is hot, add butter and swirl to coat the bottom."
+    },
+    {
+      "text": "Add ½ of the eggs to the skillet and swirl to cover the bottom. As eggs begin to set, use a spatula to pull the cooked edges towards the center of the pan. Then tilt the pan, allowing the uncooked egg to move to the edges. Cook until just set, pressing the eggs into a smooth layer on the bottom of the skillet."
+    },
+    {
+      "text": "Sprinkle ½ of the cheese over one side of the omelet; layer ½ of the reserved tomato slices and ½ the basil on top. Fold the omelet in half and cook until cheese is melted, about 1 minute."
+    },
+    {
+      "text": "Add more butter to the skillet and repeat with remaining egg mixture, cheese, tomato, and basil."
+    },
+    {
+      "text": "To serve, cut omelets in half and divide between plates; enjoy with remaining tomato slices on the side!"
+    }
+  ]
+}

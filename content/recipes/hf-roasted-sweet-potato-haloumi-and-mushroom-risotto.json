@@ -1,0 +1,153 @@
+{
+  "slug": "hf-roasted-sweet-potato-haloumi-and-mushroom-risotto",
+  "kind": "meal",
+  "title": "Roasted Sweet Potato, Haloumi & Mushroom Risotto",
+  "subtitle": "with Silverbeet & Parmesan Cheese",
+  "description": "This melt-in-your-mouth risotto, studded with roasted sweet potato, haloumi, silverbeet and mushrooms, is comfort on a plate. Thyme adds an extra depth of flavour and don’t forget the Parmesan and flaked almonds for the perfect\nfinishing touch.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/roasted-sweet-potato-and-mushroom-risotto-67f83483cade9b9f0acdb77d",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R17_W10_AUS_Main_high-6a95e8cc.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "naturally gf",
+    "classic",
+    "winter-warmers"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Risotto-Style Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "white-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6656647f3c6f67065179ff42-ae9b49ba.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805105c9621030b4f0e-0bf45141.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "product": "silverbeet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238033405d840b2be3b0d-33091177.png"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "thyme",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572382a3405d840b2be3c15-48ecde76.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. <br>•  In a medium bowl, place haloumi and cover with water to soak. <br>• Cut sweet potato into bite-sized chunks. <br>• Place sweet potato on a lined oven tray. Drizzle with olive oil and season with salt and pepper. Toss to coat, then bake until tender, 20-25 minutes. <br>• In a medium bowl, place haloumi and cover with water to soak.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fef677bf4d5de43bbf309f/step-493f2e00.jpeg"
+    },
+    {
+      "text": "• <p>• While the sweet potato is roasting, finely chop brown onion. <br>• Finely chop garlic. <br>• Pick thyme leaves. <br>• Drain haloumi and pat dry. Cut the haloumi into 1cm-thick slices.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fef677bf4d5de43bbf309f/step-26842110.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. <br>• Cook haloumi until golden brown, 1-2 minutes each side. Transfer to a plate.<br>• In a medium frying pan, heat a drizzle of olive oil over medium-high heat. Cook onion, stirring, until softened, 5 minutes. Add garlic, thyme and garlic &amp; herb seasoning and cook until fragrant, 1 minute. <br>• Add risotto-style rice and stir to coat. Add the water and vegetable stock, then bring to the boil. <br>• Remove from heat, then transfer risotto to a medium baking dish. Cover tightly with foil and bake in the oven until the liquid is absorbed and the rice is ‘al dente’, 24-28 minutes. <br>TIP: ‘Al dente’ rice is cooked through but still slightly firm in the centre.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fef677bf4d5de43bbf309f/step-8fe9a420.jpeg"
+    },
+    {
+      "text": "• <p>• When the risotto has 15 minutes cook time left, roughly chop silverbeet. <br>• Return frying pan to high heat with a drizzle of olive oil and the butter. <br>• Add sliced mushrooms and cook, stirring until well browned, 5-6 minutes. <br>• Add silverbeet and cook until wilted, 1-2 minutes. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fef677bf4d5de43bbf309f/step-9f559030.jpeg"
+    },
+    {
+      "text": "• <p>• Remove risotto from the oven. Add a splash of water to loosen the risotto. <br>• Gently stir in roasted sweet potato, haloumi and cooked veggies. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fef677bf4d5de43bbf309f/step-d5dba740.jpg"
+    },
+    {
+      "text": "• <p>• Divide the roasted sweet potato, haloumi and mushroom risotto between bowls. <br>• Sprinkle with flaked almonds and Parmesan cheese (see ingredients) to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fef677bf4d5de43bbf309f/step-2d2c4c50.jpg"
+    }
+  ]
+}

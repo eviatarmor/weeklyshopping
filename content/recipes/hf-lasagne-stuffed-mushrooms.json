@@ -1,0 +1,160 @@
+{
+  "slug": "hf-lasagne-stuffed-mushrooms",
+  "kind": "meal",
+  "title": "Lasagne Stuffed Field Mushrooms",
+  "subtitle": "with Herbed Tomato Sauce & Side Salad",
+  "description": "A lot of the time, messing with nature is like trying to improve on perfection – unsuccessful and unnecessary. In this case though, mushroom tops are the perfect base for just a little bit of man-made help. We think you’ll agree that these lasagne stuffed mushrooms are an acceptable exception!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/lasagne-stuffed-mushrooms-58bf58ef51d3f15c4c36c526",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/59de7965a5ed197da8480f02-cb4b9361.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Field Mushrooms",
+      "qty": 4,
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55687e5e4dab71d51e8b456c.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "block",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427be4dab7105578b456b.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Philadelphia Cream Cheese",
+      "qty": 1,
+      "unit": "tub",
+      "product": "cream-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/587c1ab68e8c610dde017b71-07e12f8c.png"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56a011a24dab718d418b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Warm Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55e69cf6f8b25ec2548b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sunflower-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55e69f99fd2cb9f53f8b4568.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to **200°C/180°C fan-forced**. Finely grate the **Parmesan cheese**. Finely chop the **brown onion**. Slice the stalks off the **field mushrooms** and finely chop (leave the mushroom cups whole). Peel and crush the **garlic**.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-0e08ee81.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine the **egg**, **milk**, **Philadelphia cream cheese** and **3/4** of the **Parmesan cheese**. Season with a **pinch** of **salt** and **pepper** and whisk together with a fork. Set aside.\n• Heat a medium frying pan over a medium-high heat. Add the **sunflower seeds** and toast, stirring, for **3-4 minutes**, or until golden. Remove from the pan and set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-e62ac725.jpg"
+    },
+    {
+      "text": "• Return the same pan to the heat and add a **drizzle** of **olive oil**. Add the **brown onion** and chopped **mushroom stalks** and cook for **5 minutes**, or until softened. Add the **garlic** and **1/2** of the **dried oregano** and cook for **1-2 minutes**, or until fragrant. Add the **tomato paste**, **warm water (check ingredients list for the amount)**, **brown sugar** and **salt (use suggested amount)**. Season to taste with a **pinch** of **pepper** and mix well. Remove from the heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-65a91678.jpg"
+    },
+    {
+      "text": "• Arrange the **mushrooms cups** bottom-side-up on the oven tray lined with baking paper. Spoon the **cheese filling** into each mushroom and top with the **tomato sauce** and the **remaining Parmesan cheese**.  Place the mushrooms in the oven to bake for **20-25 minutes**, or until the cheese is golden.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-542bdfef.jpg"
+    },
+    {
+      "text": "• In a second medium bowl, combine the **remaining dried oregano**, a **drizzle** of **olive oil** and the **white wine vinegar**. Season with a **pinch** of salt and pepper and mix well. Add the **mixed salad leaves** and the toasted **sunflower seeds** and toss to coat. **TIP:** Dress the salad just before serving to avoid soggy leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-fc2bcc79.jpg"
+    },
+    {
+      "text": "• Divide the lasagne stuffed field mushrooms and the salad between plates.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-b7262b44.jpg"
+    }
+  ]
+}

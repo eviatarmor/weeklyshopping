@@ -1,0 +1,149 @@
+{
+  "slug": "hf-spinach-falafel-pumpkin-couscous",
+  "kind": "meal",
+  "title": "Spinach Falafel & Pumpkin Couscous",
+  "subtitle": "with Creamy Pesto Dressing",
+  "description": "When a wholesome, nutritious dinner tastes as good as this one, it's easy to do your body a favour. Tuck in and let the sweet roasted veggies, crisp falafel and more-ish pesto dressing take you to a state of bliss.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/spinach-falafel-pumpkin-couscous-5ffe6b03625a2b70fa5508ba",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5ffe6b03625a2b70fa5508ba-2acb0ebb.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Peeled & Chopped Pumpkin",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc681cdae08b514cf7dbb12-50b8be5b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "unit": "tub",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bab011a30006c450926c7e2-8cc5cbe5.png"
+    },
+    {
+      "name": "Creamy Pesto Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Slice the brown onion into 2cm wedges. Cut the beetroot (unpeeled) into 1cm chunks. Place the red onion, beetroot and peeled & chopped pumpkin on an oven tray lined with baking paper. Drizzle with olive oil and season with the salt and a pinch of pepper. Toss to coat, then roast until tender, 20-25 minutes.\n• TIP: Cut the veggies to size so they cook in time.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ffe6b03625a2b70fa5508ba/step-fa4d819d.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, finely chop the garlic. Roughly chop the baby spinach leaves. Roughly chop the parsley leaves. Heat a large frying pan over a medium-high heat. Add the flaked almonds and toast, tossing occasionally, until golden, 2-3 minutes. Transfer to a plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ffe6b03625a2b70fa5508ba/step-d74d1eab.jpg"
+    },
+    {
+      "text": "• In a medium saucepan, melt the butter over a medium-high heat. Add the garlic and cook until fragrant, 1 minute. Add the water and crumbled vegetable stock (1 cube for 2 people / 2 cubes for 4 people) and bring to the boil. Add the couscous and a drizzle of olive oil. Stir to combine. Cover with a lid and remove from the heat. Set aside until all the water is absorbed, 5 minutes. Fluff up\n• with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ffe6b03625a2b70fa5508ba/step-359337aa.jpg"
+    },
+    {
+      "text": "• Use your hands to break each spinach falafel\n• into quarters (don't worry if they crumble!).\n• When the veggies have 5 minutes cook time remaining, return the frying pan to a medium-high heat with enough olive oil to coat the base of the pan. When the oil is hot, cook the falafel, tossing, until deep golden brown, 5-6 minutes. Transfer to a plate lined with paper towel. Season with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ffe6b03625a2b70fa5508ba/step-36934547.jpg"
+    },
+    {
+      "text": "• When the veggies are done, add them to the saucepan with the garlic couscous, along with the spinach and parsley. Toss to combine. Season to taste. In a small bowl, combine the creamy pesto dressing and Greek-style yoghurt.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ffe6b03625a2b70fa5508ba/step-1276c9c3.jpg"
+    },
+    {
+      "text": "• Divide the pumpkin couscous between bowls and top with the spinach falafel. Top with the creamy pesto yoghurt and sprinkle with flaked almonds.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ffe6b03625a2b70fa5508ba/step-b8b48646.jpg"
+    }
+  ]
+}

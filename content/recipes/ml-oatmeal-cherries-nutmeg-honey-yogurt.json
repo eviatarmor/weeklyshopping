@@ -1,0 +1,74 @@
+{
+  "slug": "ml-oatmeal-cherries-nutmeg-honey-yogurt",
+  "kind": "meal",
+  "title": "Oatmeal with Cherries, Nutmeg & Honey Yogurt",
+  "sourceUrl": "https://www.mealime.com/recipes/oatmeal-cherries-nutmeg-honey-yogurt/27155",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3053/presentation_171451bb-9f20-43a4-8e54-13fdb30ec879.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Frozen Cherries",
+      "qty": 2,
+      "unit": "cup",
+      "product": "cherries"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "qty": 1.3333333333333333,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg (ground)",
+      "product": "nutmeg",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place water and salt in a medium saucepan, cover, and bring to a boil over high heat."
+    },
+    {
+      "text": "Once boiling, stir in oats, honey, and nutmeg. Cover and let simmer on low until oats reach desired consistency, 3-5 minutes."
+    },
+    {
+      "text": "Meanwhile, place yogurt and additional honey in a small bowl. Stir to combine and set aside."
+    },
+    {
+      "text": "Place cherries in a colander and rinse under hot water (from the tap) to thaw. Roughly chop."
+    },
+    {
+      "text": "When the oatmeal is done, add cherries to the pan and stir to combine. Continue to cook until warmed through, 1-2 minutes more. Remove from heat."
+    },
+    {
+      "text": "To serve, divide oatmeal between bowls and top with honey yogurt. Enjoy!"
+    }
+  ]
+}

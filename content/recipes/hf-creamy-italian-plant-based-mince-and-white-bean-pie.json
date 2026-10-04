@@ -1,0 +1,136 @@
+{
+  "slug": "hf-creamy-italian-plant-based-mince-and-white-bean-pie",
+  "kind": "meal",
+  "title": "Creamy Italian Plant-Based Mince & White Bean Pie",
+  "subtitle": "with Garlicky Broccoli & Flaked Almonds",
+  "description": "Get more out of your beans by whacking them into the oven and making them into a pie. In this inventive number, the beans act as your typical meaty filling and work wonders when paired with plant-based mince, hidden veggies and a cheesy mash to top things off!\nWe’ve replaced the green beans in this recipe with broccoli florets due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-italian-white-bean-pie-67f858954264524ca9796c45",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1048_W22_AUS_Main_F2_high-6d909683.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "healthy",
+    "naturally gf",
+    "winter-warmers"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "broccoli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384eb33a6ad8f0f05d04-2ef7951c.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b3-a59a74db.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 200,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d1b33a6ad8f0f05a86-6acc66e2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Bring a medium saucepan of salted water to the boil. Peel potato and cut into large chunks. <br>• Cook in the boiling water until easily pierced with a fork, 12-15 minutes. Drain and return to the pan. <br>• Add the butter and milk to potato and season generously with salt. Mash until smooth.</p> <p>TIP: Save time and get more fibre by leaving the potato unpeeled.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68083bdce83603ed23410fd4/step-7c4e5000.jpeg"
+    },
+    {
+      "text": "• <p>• While potato is cooking, preheat grill to high. Trim green beans. Finely chop garlic, carrot and onion. Drain and rinse cannellini beans. <br>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook carrot, onion and veggie mince, breaking up with a spoon, 4-5 minutes. <br>• Add cannellini beans, garlic &amp; herb seasoning and half the garlic, and cook until fragrant, 1 minute.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68083bdce83603ed23410fd4/step-18bebe10.jpg"
+    },
+    {
+      "text": "• <p>• Stir in light cooking cream, vegetable stock pot and the water and simmer until thickened, 2-3 minutes. <br>• Remove from heat and stir in baby spinach leaves until just wilted. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68083bdce83603ed23410fd4/step-1e0f5020.jpg"
+    },
+    {
+      "text": "• <p>• While pie is grilling, wipe out frying pan and return to medium-high heat with a drizzle of olive oil. <br>• Cook green beans until tender, 4-5 minutes. Add remaining garlic and cook until fragrant, 1 minute. Season.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68083bdce83603ed23410fd4/step-69895330.jpg"
+    },
+    {
+      "text": "• <p>• While pie is grilling, wipe out frying pan and return to medium-high heat with a drizzle of olive oil. <br>• Cook green beans until tender, 4-5 minutes. Add remaining garlic and cook until fragrant, 1 minute. Season.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68083bdce83603ed23410fd4/step-9c478540.jpg"
+    },
+    {
+      "text": "• <p>• Divide creamy Italian butter bean and veggie mince pie and garlicky greens between plates. <br>• Sprinkle over flaked almonds to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68083bdce83603ed23410fd4/step-07ed8650.jpg"
+    }
+  ]
+}

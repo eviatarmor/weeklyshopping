@@ -1,0 +1,104 @@
+{
+  "slug": "hf-american-bbq-plant-based-mince-sub",
+  "kind": "meal",
+  "title": "Easy American BBQ Plant-Based Mince Sub",
+  "subtitle": "with Creamy Apple Slaw & Corn Cob",
+  "description": "Chow down on this finger-licking sub packed with smokey plant-based mince and crunchy apple slaw. Serve alongside a juicy corn cob for a burst of sweetness to balance out the pork's delectable richness.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/american-bbq-pulled-pork-sub-67f843d4cade9b9f0ace016c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1019_W28_AU_R18305-4_Main_F2_high-fe4dc63f.jpg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "american",
+    "quick",
+    "super quick",
+    "kid friendly",
+    "quick prep",
+    "taste of america"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349d-a27df8b5.png"
+    },
+    {
+      "name": "Bbq Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "bbq-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d3b33a6ad8f0f05653-4ff2e70f.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723722105c9621030b49de-d90ccc30.png"
+    },
+    {
+      "name": "Gherkin Relish",
+      "qty": 1,
+      "unit": "packet",
+      "product": "gherkin-relish",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/664c19eddb12ba3a5e100ae9-eca32a0b.png"
+    },
+    {
+      "name": "Apple",
+      "qty": 1,
+      "product": "apple",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cb3405d840b2be34d4-1a1606d4.png"
+    },
+    {
+      "name": "Hot Dog Bun",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/681040545917498f8bf2834e-fa4b498e.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 200,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d1b33a6ad8f0f05a86-6acc66e2.png"
+    },
+    {
+      "name": "Slaw Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6667e23225297b35e64c04ea-43992441.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb0-2b3500be.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. <br>• Cut corn cob in half. <br>• Thinly cut apple into sticks.<br>• Transfer corn to a microwave-safe plate. Cover with a damp paper towel. <br>Microwave corn on high, until tender, 4-5 minutes.<br>• Drain any excess liquid. Season with salt and pepper. Top corn with half the <br>butter and cover to keep warm. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d7f42dc4b928197e43b/step-6a779d00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, in a large frying pan, heat a drizzle of olive oil over medium-high heat.</p> <p>• Cook veggie mince, breaking up with a spoon, until just browned, 4-5 minutes.</p> <p>• Remove pan from heat and stir in BBQ sauce, remaining butter and a splash of water, until combined and heated through, 1-2 minutes. Season to taste. </p> <p>TIP: Add a splash more water if the filling looks dry!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d7f42dc4b928197e43b/step-2c06d110.jpg"
+    },
+    {
+      "text": "• <p>• While veggie mince is cooking, bake hot dog buns directly on wire oven rack until heated through, 3 minutes. • In a medium bowl, combine apple, slaw mix, the mayonnaise, a drizzle of white wine vinegar and olive oil. Season to taste.</p> <p><br>Little cooks: Take the lead and toss the slaw!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d7f42dc4b928197e43b/step-cc938420.jpg"
+    },
+    {
+      "text": "• <p>• Slice hot dog buns in half lengthways, 3/4 of the way through. Spoon gherkin relish onto the bun bases. Fill with some creamy apple slaw and American BBQ pulled plant-based mince.</p> <p>• Serve with corn cob and any remaining slaw. Enjoy!</p> <p><br>Little cooks: Take charge and help build the subs!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d7f42dc4b928197e43b/step-3e6c1530.jpg"
+    }
+  ]
+}

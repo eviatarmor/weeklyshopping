@@ -1,0 +1,145 @@
+{
+  "slug": "hf-byop-sticky-korean-tofu-bar",
+  "kind": "meal",
+  "title": "Sticky Korean Tofu & Garlic Rice Station",
+  "subtitle": "with Pickled Cucumber, Slaw & Spring Onion",
+  "description": "Create your perfect Korean bowl for dinner tonight with sticky tofu, pickled cucumber and slaw, fluffy garlicky rice and all your favourite toppings—like sesame seeds, spring onion and mayonnaise. Fresh, customisable and full of flavour!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/byop-sticky-korean-chicken-bar-67f85e5d0d0527cba53b2ee8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1041_W25_AU_R23349-3_Mainhigh-b57f3791.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "korean",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Garlic Stir-Fry Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stir-fry-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/680f0b2880e0f84c774cc3e3-34602964.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fca451a3ffaf7fe874d039-730c31a5.png"
+    },
+    {
+      "name": "Mixed Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6667e1a5fa88201a253bbf6e-888da2e4.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723743b33a6ad8f0f05839-2d3a33ee.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805b33a6ad8f0f05b84-d621b5cf.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bac-092c7dc3.png"
+    },
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fcb560fe44baceeadf747a-d8eaf0ce.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb0-2b3500be.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd852793e8cdd8467e36-d10a2ca3.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop garlic. In a medium saucepan, heat the butter with a dash of olive oil over medium heat. • Cook garlic until fragrant, 1-2 minutes. Add jasmine rice, the water and a generous pinch of salt, stir, then bring to the boil. • Reduce heat to low and cover with a lid. • Cook for 10 minutes, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80f0b511ee4a266ae29f/step-adc88e00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice cucumber. • In a small bowl, combine the white wine vinegar and a good pinch of sugar and salt. Add cucumber to the pickling liquid with just enough water to cover the cucumber. Set aside. TIP: Slicing the cucumber very thinly helps it pickle faster!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80f0b511ee4a266ae29f/step-ee976710.jpg"
+    },
+    {
+      "text": "• <p>• Thinly slice spring onion. • Cut firm tofu into 2cm chunks. • In a medium bowl, combine tofu, sweet soy seasoning and a drizzle of olive oil.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80f0b511ee4a266ae29f/step-46a73520.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook tofu, tossing until browned, 3-4 minutes. Remove pan from heat and add garlic stir-fry sauce (see ingredients) and a splash of water, tossing, until well coated. Transfer to a serving bowl.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80f0b511ee4a266ae29f/step-5f826f30.jpg"
+    },
+    {
+      "text": "• <p>• In a second medium bowl, combine shredded cabbage mix and a drizzle of olive oil and vinegar. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80f0b511ee4a266ae29f/step-5715b340.jpg"
+    },
+    {
+      "text": "• <p>• Drain pickled cucumber. • Bring everything to the table. • Build your own plate with garlic rice, sticky Korean tofu, pickled cucumber, cabbage slaw, mixed sesame seeds, spring onion and the mayonnaise. • If you&#39;ve selected an add-on bundle, serve with blistered bacon green beans. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80f0b511ee4a266ae29f/step-7efbec50.jpg"
+    }
+  ]
+}

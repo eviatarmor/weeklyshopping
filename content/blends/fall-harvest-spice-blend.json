@@ -1,0 +1,51 @@
+{
+  "slug": "fall-harvest-spice-blend",
+  "kind": "blend",
+  "title": "Fall Harvest Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 3 dried thyme, 2 ground sage, 0.5 garlic powder, 0.5 onion powder.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Harvest Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Thyme",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "dried-thyme"
+    },
+    {
+      "name": "Ground Sage",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-sage"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "onion-powder"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

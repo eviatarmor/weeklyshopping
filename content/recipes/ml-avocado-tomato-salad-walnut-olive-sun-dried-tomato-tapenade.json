@@ -1,0 +1,81 @@
+{
+  "slug": "ml-avocado-tomato-salad-walnut-olive-sun-dried-tomato-tapenade",
+  "kind": "meal",
+  "title": "Avocado Tomato Salad with Walnut, Olive & Sun-Dried Tomato Tapenade",
+  "sourceUrl": "https://www.mealime.com/recipes/avocado-tomato-salad-walnut-olive-sun-dried-tomato-tapenade/23876",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2683/presentation_6228b532-345b-4eb6-bc89-3d9e07ba9133.jpeg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Avocados",
+      "qty": 2,
+      "product": "avocado"
+    },
+    {
+      "name": "Kalamata Olives (pitted)",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olives"
+    },
+    {
+      "name": "Sun-Dried Tomatoes (oil-packed)",
+      "qty": 8,
+      "product": "semi-dried-tomatoes"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 4,
+      "product": "tomato"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "walnuts"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place oil, vinegar, salt, and pepper in a small bowl. Stir to combine the dressing."
+    },
+    {
+      "text": "Mince walnuts, olives, and sun-dried tomatoes. Add all three to the bowl with the dressing and stir to combine the tapenade. Set aside."
+    },
+    {
+      "text": "Wash, dry, and halve tomatoes lengthwise, then slice crosswise into thin half-moons."
+    },
+    {
+      "text": "Wash, dry, halve, and pit avocados; using a spoon, scoop out the flesh and slice lengthwise into thin pieces."
+    },
+    {
+      "text": "To serve, divide tomato and avocado slices between plates, then spoon tapenade over top. Enjoy!"
+    }
+  ]
+}

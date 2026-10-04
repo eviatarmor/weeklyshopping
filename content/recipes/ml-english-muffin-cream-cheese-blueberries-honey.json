@@ -1,0 +1,56 @@
+{
+  "slug": "ml-english-muffin-cream-cheese-blueberries-honey",
+  "kind": "meal",
+  "title": "English Muffin with Cream Cheese, Blueberries & Honey",
+  "sourceUrl": "https://www.mealime.com/recipes/english-muffin-cream-cheese-blueberries-honey/26078",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2936/presentation_262eaf99-84a1-4a6c-bf43-b765d80e0c1f.jpeg",
+  "servings": 4,
+  "prepMinutes": 12,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "qty": 340,
+      "unit": "g",
+      "product": "blueberries"
+    },
+    {
+      "name": "Cream Cheese",
+      "qty": 150,
+      "unit": "g",
+      "product": "cream-cheese"
+    },
+    {
+      "name": "English Muffins",
+      "qty": 4,
+      "product": "english-muffins"
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to broil on high and position rack in the upper third of the oven. (Skip this step if you are using a toaster for the English muffins.)"
+    },
+    {
+      "text": "Split muffins and arrange on a baking sheet pan. Place in the oven and broil, flipping halfway through, until toasted, about 2 minutes; remove from oven. (Alternatively, you can use a toaster.)"
+    },
+    {
+      "text": "Meanwhile, wash and dry blueberries."
+    },
+    {
+      "text": "Divide cream cheese between muffin halves and spread out in an even layer."
+    },
+    {
+      "text": "To serve, divide muffin halves between plates, top with blueberries, and drizzle with honey. Enjoy!"
+    }
+  ]
+}

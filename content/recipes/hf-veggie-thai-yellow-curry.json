@@ -1,0 +1,161 @@
+{
+  "slug": "hf-veggie-thai-yellow-curry",
+  "kind": "meal",
+  "title": "Veggie Thai Green Curry",
+  "subtitle": "with Garlic Rice & Roasted Cashews",
+  "description": "Enjoy a bowl of creamy and rich Thai curry, loaded with colourful veggies and aromatic spices. With a sprinkling\nNaturally Gluten-Free of roasted cashew nuts to finish it all off, this delicious meal will beat your local takeaway joint!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-thai-yellow-curry-5b6158ee30006c054d11c3c2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/veggie-thai-yellow-curry-1c8bcf60.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "thai",
+    "plant based",
+    "spicy",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6048005c8ee9c4452b01d358-050426b9.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Roasted Cashews",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cashews",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55d549c679a23cd6798b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Thai Green Curry Paste",
+      "qty": 0.75,
+      "unit": "tin",
+      "product": "green-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55655287fd2cb918618b4569-53291d5c.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55fb5a1279a23cde148b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop the garlic. In a medium saucepan,\n• melt the plant-based butter with a dash of olive\n• oil over a medium heat. Add the garlic and cook\n• until fragrant, 1-2 minutes. Add the basmati rice,\n• 1/2 the vegetable stock powder, water and a\n• generous pinch of salt, stir, then bring to the boil.\n• Reduce the heat to low and cover with a lid. Cook\n• for 10 minutes, then remove from the heat and\n• keep covered until the rice is tender and the water\n• is absorbed, 10 minutes.\n• TIP: The rice will finish cooking in its own steam so\n• don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60a3570d3447753694131344/step-3dd8f1f2.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, thinly slice the brown\n• onion (see ingredients). Trim and halve the green\n• beans. Cut the zucchini into 1cm half-moons.\n• Thinly slice the capsicum.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60a3570d3447753694131344/step-4ba2e5eb.jpg"
+    },
+    {
+      "text": "• SPICY! You may find the curry paste hot! Feel free\n• to add a little less, depending on your taste.\n• While the rice is cooking, heat a drizzle of olive oil in a\n• large frying pan over a medium-high heat. Cook the\n• onion until softened, 4-5 minutes. Add the brown\n• sugar, Thai green curry paste and ginger paste\n• and cook until fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60a3570d3447753694131344/step-30b9b606.jpg"
+    },
+    {
+      "text": "• Add the green beans, zucchini and capsicum to\n• the frying pan and cook, stirring, until softened,\n• 4-5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60a3570d3447753694131344/step-e0acbbfc.jpg"
+    },
+    {
+      "text": "• Add the coconut milk and the remaining\n• vegetable stock powder to the frying pan and stir\n• to combine. Bring to the boil, then reduce the heat\n• to medium and cook until the sauce has thickened,\n• 10 minutes. Stir in the soy sauce.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60a3570d3447753694131344/step-fc5f28ce.jpg"
+    },
+    {
+      "text": "• Divide the garlic rice between bowls and top with\n• the veggie Thai green curry. Sprinkle with the\n• roasted cashews.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60a3570d3447753694131344/step-de5781c6.jpg"
+    }
+  ]
+}

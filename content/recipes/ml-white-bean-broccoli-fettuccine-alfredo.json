@@ -1,0 +1,66 @@
+{
+  "slug": "ml-white-bean-broccoli-fettuccine-alfredo",
+  "kind": "meal",
+  "title": "White Bean & Broccoli Fettuccine Alfredo",
+  "sourceUrl": "https://www.mealime.com/recipes/white-bean-broccoli-fettuccine-alfredo/22730",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/22730/presentation_78c88564-0ccf-4869-b389-e41ce89097a9.jpeg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Alfredo Sauce",
+      "qty": 455,
+      "unit": "g",
+      "product": "alfredo-sauce"
+    },
+    {
+      "name": "Broccoli Florets",
+      "qty": 510,
+      "unit": "g",
+      "product": "broccoli"
+    },
+    {
+      "name": "Cannellini (white Kidney) Beans",
+      "qty": 850,
+      "unit": "g",
+      "product": "red-kidney-beans"
+    },
+    {
+      "name": "Fettuccine Pasta",
+      "qty": 285,
+      "unit": "g",
+      "product": "fettuccine"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot halfway with hot water (from the tap), cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until almost done, about 8 minutes."
+    },
+    {
+      "text": "Meanwhile, drain and rinse beans."
+    },
+    {
+      "text": "When the pasta is almost done, add broccoli to the pot. Continue to cook, stirring occasionally, until pasta reaches desired firmness and broccoli is tender, 2-3 minutes more."
+    },
+    {
+      "text": "When the pasta and broccoli are done, drain in a colander and return to the pot. Add beans and Alfredo sauce, then toss to combine."
+    },
+    {
+      "text": "Return pot to medium heat and cook, stirring occasionally, until warmed through, 3-4 minutes. Remove from heat."
+    },
+    {
+      "text": "To serve, divide pasta between plates or bowls. Enjoy!"
+    }
+  ]
+}

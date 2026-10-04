@@ -1,0 +1,163 @@
+{
+  "slug": "hf-mediterranean-chickpea-and-veggie-stew",
+  "kind": "meal",
+  "title": "Mediterranean Chickpea & Veggie Stew",
+  "subtitle": "with Basil Pesto, Semi-Dried Tomatoes & Fetta",
+  "description": "This Harmony Week, dive into the classics, like this Mediterranean chickpea stew. Although simple at first glance, we've packed this dish with all of the best veggies and created a flavour-diverse meal, which pays some serious homage to its Mediterranean motherland.\nThis recipe is under 650kcal per serving.\nDue to sourcing\nchallenges some of the\nfresh ingredients you may\nreceive may be slightly\ndifferent to what's\npictured. Don't worry,\nthe recipe will be just as\ndelicious, just be sure to\nfollow your recipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-chickpea-and-veggie-stew-63eb2ded7e26a9cd9d005a12",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-vegetable-chickpea-stew-d28c11d7.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528450-e6b2d1a6.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "box",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6052bd0d88686f4de443784a-92e7b6fd.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d57b7f8b25e246c8b4568.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fe2be511363ed37736f3024-583bf58f.png"
+    },
+    {
+      "name": "Semi-Dried Tomatoes",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "semi-dried-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55f0b6e84dab711e218b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan forced. Cut sweet potato into bite-sized chunks. Roughly chop capsicum. Thinly slice carrot and zucchini into half-moons.\n• Place veggies on a lined oven tray. Drizzle with olive oil and season with salt and pepper. Spread out evenly and roast until tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63eb2ded7e26a9cd9d005a12/step-4ba2e5eb.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, finely chop garlic. Thinly slice brown onion. Drain and rinse chickpeas.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63eb2ded7e26a9cd9d005a12/step-f1f279a1.jpg"
+    },
+    {
+      "text": "• Heat a large saucepan over medium-high heat with a drizzle of olive oil. Add onion and cook, stirring, until softened, 3-4 minutes.\n• Add garlic and garlic & herb seasoning and cook, stirring, until fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63eb2ded7e26a9cd9d005a12/step-878195b6.jpg"
+    },
+    {
+      "text": "• To the saucepan, add chickpeas, diced tomatoes with garlic & onion, the water, the honey and vegetable stock pot. Bring to the boil, then simmer for 3-4 minutes, or until slightly thickened.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63eb2ded7e26a9cd9d005a12/step-07329780.jpg"
+    },
+    {
+      "text": "• While the soup is simmering, roughly chop semi-dried tomatoes.\n• To the soup, add roasted veggies and baby spinach leaves. Gently stir to combine until leaves are wilted, 1 minute. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63eb2ded7e26a9cd9d005a12/step-047855f7.jpg"
+    },
+    {
+      "text": "• Divide the Mediterranean chickpea & veggie stew between bowls.\n• Top with a dollop of basil pesto, semi-dried tomatoes and crumble over fetta cubes to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63eb2ded7e26a9cd9d005a12/step-e08b8032.jpg"
+    }
+  ]
+}

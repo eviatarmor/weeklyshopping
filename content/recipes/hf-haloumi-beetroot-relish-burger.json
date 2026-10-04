@@ -1,0 +1,141 @@
+{
+  "slug": "hf-haloumi-beetroot-relish-burger",
+  "kind": "meal",
+  "title": "Haloumi & Chipotle Mayo Burger",
+  "subtitle": "with Spiced Sweet Potato Fries",
+  "description": "This squeaky burger gets a big \"yes, please!\" from all of our recipe testers, and for good reason. With tangy beetroot relish,\nsmokey mild chipotle mayo and a fresh touch from tomato and salad leaves, every bite is a true delight.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-beetroot-relish-burger-5da65c7db3183f0f1602909c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-beetroot-relish-burger-cca43ed8.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "north america"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Paprika Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "paprika-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/592518304f78db0d20515dc2-ddf54786.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/557e7fd8f8b25e9c678b4567.png"
+    },
+    {
+      "name": "Mild Chipotle Sauce",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "chipotle-in-adobo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56d65695fd2cb942198b4568-18054ddf.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Cut\n• the sweet potato (unpeeled) into 1cm fries. Place\n• on an oven tray lined with baking paper. Drizzle\n• with olive oil, sprinkle with the paprika spice\n• blend and season with pepper. Toss to coat. Bake\n• until tender, 20-25 minutes.\n• TIP: Divide the sweet potato between two trays if it\n• can't fit in a single layer!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029df230da34b293d2d498d/step-7d7327c9.jpg"
+    },
+    {
+      "text": "• While the sweet potato is baking, cut the haloumi\n• into 1cm slices (you should get 2 pieces\n• per person).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029df230da34b293d2d498d/step-3c9a5900.jpg"
+    },
+    {
+      "text": "• In a small bowl, combine the mayonnaise and\n• mild chipotle sauce (see ingredients). Thinly slice\n• the tomato. Thinly slice the brown onion. Grate\n• the beetroot (unpeeled).\n• TIP: Wear rubber gloves when grating the beetroot\n• to avoid staining your hands.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029df230da34b293d2d498d/step-c6478ca1.jpg"
+    },
+    {
+      "text": "• Heat a good drizzle of olive oil in a large frying pan\n• over a medium-high heat. Add the onion and cook\n• until softened, 3-4 minutes. Add the beetroot,\n• balsamic vinegar and brown sugar and cook until\n• softened, 2-3 minutes. Add the water and cook,\n• stirring occasionally, until reduced, 5-6 minutes.\n• Season with salt and pepper.\n• TIP: Store any leftover beetroot relish in the fridge!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029df230da34b293d2d498d/step-bc6ef2f2.jpg"
+    },
+    {
+      "text": "• When the fries have 5 minutes cook time\n• remaining, return the frying pan to a medium-high\n• heat with a drizzle of olive oil. Cook the haloumi\n• until golden brown, 1-2 minutes each side.\n• Meanwhile, place the bake-at-home burger buns\n• on a wire rack in the oven until heated through,\n• 3 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029df230da34b293d2d498d/step-0719a815.jpg"
+    },
+    {
+      "text": "• Divide the spiced sweet potato fries between\n• plates. Spread the burger buns with the chipotle\n• mayonnaise and top with the beetroot relish,\n• mixed salad leaves, haloumi and tomato.\n• Serve with any remaining chipotle mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029df230da34b293d2d498d/step-5ffef143.jpg"
+    }
+  ]
+}

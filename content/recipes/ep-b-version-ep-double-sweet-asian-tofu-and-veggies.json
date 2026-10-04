@@ -1,0 +1,90 @@
+{
+  "slug": "ep-b-version-ep-double-sweet-asian-tofu-and-veggies",
+  "kind": "meal",
+  "title": "Double Sweet Asian Tofu & Veggies",
+  "subtitle": "with Rice & Sriracha Mayo",
+  "description": "Whip up this easy stir-fry for a delectable veggie dinner option! Enjoy sweet and sticky tofu chunks bursting with aromatic spices teamed with fluffy rice and tender veggies.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/sweet-asian-chicken-and-sriracha-mayo-67f86d21cade9b9f0aceea0e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y26_R4009_W11_AU_EP47748-9_Main_high-4a4f3dfd.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "everyplate",
+    "chinese",
+    "quick",
+    "vegetarian",
+    "20 min or less",
+    "pasta-noodles",
+    "pan-asian-plates"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833504264524ca978ae87-fcba044f.png"
+    },
+    {
+      "name": "Sriracha",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sriracha",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723815b33a6ad8f0f05bc6-d5d73c6c.png"
+    },
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833530d0527cba53a4a24-433090ea.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c23405d840b2be3496-02c3132e.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 2,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376c3405d840b2be3817-0fbe9a3f.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <ul>\n• <li>In a medium saucepan, bring the water (for the rice) to boil.</li>\n• <li>Add jasmine rice, stir, cover with a lid and reduce heat to low.</li>\n• <li>Cook for 10 mins, then remove the pan from heat and keep covered until rice is tender and all the water is absorbed, 10 mins. </li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/697ad79f9629deb2e47d8754/step-39ec5700.jpeg"
+    },
+    {
+      "text": "• <ul>\n• <li>Meanwhile, slice Asian greens into quarters lengthways.</li>\n• <li>Thinly slice carrot into sticks.</li>\n• <li>Cut Japanese tofu into 2cm chunks.</li>\n• <li>In a medium bowl, combine sweet soy seasoning, honey and soy sauce and water (for the sauce) </li>\n• <li>In a small bowl, combine sriracha (add less if you&#39;re sensitive to heat!) and mayonnaise.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/697ad79f9629deb2e47d8754/step-4fb8f110.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>Add carrot, Asian greens and a splash of water to a microwave-safe bowl, then cover with a damp paper towel.</li>\n• <li>Microwave veggies on high until just tender, 2-3 mins.</li>\n• <li>Drain any excess liquid, then season with salt and pepper. Cover to keep warm.</li>\n• <li>In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook tofu in batches, tossing until browned, 3-4 mins.</li>\n• <li>And add honey-soy mixture and veggies, tossing until well combined, 1 min.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/697ad79f9629deb2e47d8754/step-2deaaf20.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>Divide rice, tofu and veggies between bowls. </li>\n• <li>Drizzle with sriracha mayo.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/697ad79f9629deb2e47d8754/step-d526fa30.jpg"
+    }
+  ]
+}

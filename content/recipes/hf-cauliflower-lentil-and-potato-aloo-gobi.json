@@ -1,0 +1,157 @@
+{
+  "slug": "hf-cauliflower-lentil-and-potato-aloo-gobi",
+  "kind": "meal",
+  "title": "Cauliflower, Lentil & Potato Aloo Gobi",
+  "subtitle": "with Toasted Tortillas & Coriander",
+  "description": "When you’ve got potato and cauliflower... make aloo gobi! This classic Indian curry uses spices like paprika, cumin and ginger to take the veggies to next-level tastiness and we’ve added lentils to make it extra-hearty, too. With tortillas to mop up the sauce, this is a bowl of goodness you’ll crave time and again.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cauliflower-lentil-and-potato-aloo-gobi-67f85b120d0527cba53b1b3d",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1009_W34_AU_R5326-18main_add_dollop_mango_chutney_edit_high-7f5b2799.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "classic",
+    "takeout-favorites",
+    "cuisine-spotlight"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cc-5fcd32e0.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c67-51fe1580.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3947-37d298e9.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Red Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f83776cade9b9f0acdc929-17f0e121.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Mango Chutney",
+      "qty": 1,
+      "product": "mango-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6a1ce62156363d596eb64740-3449536d.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddaf9690d86caac925bc-0e86e3f2.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Cut cauliflower into small florets.<br>• Cut potato into bite-sized chunks.<br>• Thickly slice carrot into half-moons.<br>• Place veggies on a lined oven tray. Drizzle with olive <br>oil, sprinkle with half the Mumbai spice blend and <br>season with pepper. Toss to coat.<br>• Roast until tender, 20-25 minutes.<br>TIP: If your tray is getting crowded, divide the veggies <br>between two trays.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cacd2c76eddc47d13e0d/step-36472900.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop brown onion (see <br>ingredients) and garlic. <br>• Rince red lentils. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cacd2c76eddc47d13e0d/step-4103d310.jpg"
+    },
+    {
+      "text": "• <p>• When the veggies have 15 minutes remaining, heat <br>a saucepan over medium-high heat with the plant<br>based butter and a drizzle of olive oil. Cook onion, <br>stirring, until softened, 4-5 minutes.<br>• Add garlic, remaining Mumbai spice blend, lentils <br>and a pinch of chilli flakes (if using). Cook until <br>fragrant, 1-2 minutes.<br>• Add coconut milk, the water and stock <br>concentrate. Bring to a simmer, then reduce heat to <br>low. Cover with a lid and simmer until thickened,  <br>3-6 minutes.<br>• Uncover, then continue to simmer until tender,  <br>10 minutes.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cacd2c76eddc47d13e0d/step-2a91fb20.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over <br>medium-high heat.<br>• Cook mini flour tortillas (see ingredients) in <br>batches, until golden, 1-2 minutes each side.<br>• Transfer to a paper towel-lined plate. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cacd2c76eddc47d13e0d/step-167d2330.jpg"
+    },
+    {
+      "text": "• <p>• When the lentils are ready, add roasted veggies to <br>the pan.<br>• Gently stir to combine, then season to taste with <br>salt and pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cacd2c76eddc47d13e0d/step-5eb8db40.jpg"
+    },
+    {
+      "text": "• <p>• Roughly chop coriander.<br>• Divide cauliflower and lentil aloo gobi between bowls.<br>• Sprinkle with coriander and extra chilli flakes <br>(if using). Serve with mango chutney and toasted <br>tortillas. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cacd2c76eddc47d13e0d/step-e18edd50.jpg"
+    }
+  ]
+}

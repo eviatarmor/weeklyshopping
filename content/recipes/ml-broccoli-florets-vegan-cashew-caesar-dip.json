@@ -1,0 +1,83 @@
+{
+  "slug": "ml-broccoli-florets-vegan-cashew-caesar-dip",
+  "kind": "meal",
+  "title": "Broccoli Florets with Vegan Cashew Caesar Dip",
+  "sourceUrl": "https://www.mealime.com/recipes/broccoli-florets-vegan-cashew-caesar-dip/23327",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2609/presentation_0c46f25e-4eda-46bb-a69e-f076d7960842.jpeg",
+  "servings": 4,
+  "prepMinutes": 12,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Broccoli Florets",
+      "qty": 510,
+      "unit": "g",
+      "product": "broccoli"
+    },
+    {
+      "name": "Capers",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "capers"
+    },
+    {
+      "name": "Cashews (roasted unsalted)",
+      "qty": 1,
+      "unit": "cup",
+      "product": "cashews"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Lemons",
+      "qty": 2,
+      "product": "lemon"
+    },
+    {
+      "name": "Nutritional Yeast Flakes",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "nutritional-yeast"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dijon Mustard",
+      "product": "dijon-mustard",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "product": "soy-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash, dry, and juice lemons into a blender."
+    },
+    {
+      "text": "Peel garlic; add to the blender along with cashews, water, nutritional yeast, capers, soy sauce, Dijon, salt, and pepper. Blend on high, adding additional water, 1-2 tablespoons at a time, if needed, to make a smooth dip."
+    },
+    {
+      "text": "Divide broccoli florets between plates; serve with dip on the side. Enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "hf-one-pot-chipotle-black-bean-and-capsicum-chilli",
+  "kind": "meal",
+  "title": "One-Pot Chipotle Black Bean Chilli",
+  "subtitle": "with Avocado Crema",
+  "description": "A bountiful veggie bowl is just what the doctor ordered! If the bright colours of the dish don't pull you in, the chipotle black bean and Tex-Mex spiced stew will definitely make a serious impression. To make things a little extra fancy, whip up a quick avocado crema to dollop on top!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/one-pot-chipotle-black-bean-and-capsicum-chilli-649184aceffaf4e3f502338c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/659b60a94a9edcff4d238ffe-f1441047.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "quick prep",
+    "climate superstar",
+    "street food"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a2e1d052c3e0861f6785ef2-c6096b9e.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "box",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59812b1cc288002d7f59e5d2-11bf19a1.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556551a0f8b25eaa0a8b4569.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Mild Chipotle Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chipotle-in-adobo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b2c4dab71d8588b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop garlic.\n• Thinly slice carrot into half-moons.\n• Drain sweetcorn.\n• Drain black beans (but don't rinse). TIP: Not rinsing the beans helps to thicken the sauce.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-659b60a94a9edcff4d238ffe-3bc3f7a4.jpeg"
+    },
+    {
+      "text": "• In a large pot or saucepan, heat a generous drizzle of olive oil over medium-high heat.\n• Add carrot and cook, stirring, until softened, 3-4 minutes. Add garlic and Tex-Mex spice blend and cook until fragrant, 1-2 minutes.\n• Add black beans, corn, passata, vegetable stock powder, the water and brown sugar and stir to combine.\n• Cover with a lid and bring to the boil, then reduce heat to medium and simmer, stirring occasionally, until veggies are tender, 15-20 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-659b60a94a9edcff4d238ffe-63df7a30.jpeg"
+    },
+    {
+      "text": "• While the chilli is simmering, cut avocado into 1cm cubes. In a small bowl, add avocado and light sour cream and lightly mash with a fork, until combined. Season to taste.\n• When the veggies are tender, remove pan from the heat and stir through baby spinach leaves, the butter and mild chipotle sauce. Season to taste with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-659b60a94a9edcff4d238ffe-d9984e86.jpeg"
+    },
+    {
+      "text": "• Divide the one-pot chipotle black bean chilli between bowls.\n• Top with Cheddar cheese and avocado crema to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-659b60a94a9edcff4d238ffe-c89fb33b.jpeg"
+    }
+  ]
+}

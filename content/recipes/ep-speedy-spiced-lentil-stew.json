@@ -1,0 +1,135 @@
+{
+  "slug": "ep-speedy-spiced-lentil-stew",
+  "kind": "meal",
+  "title": "Speedy Spiced Lentil Stew",
+  "subtitle": "with Garlic Flatbreads & Yoghurt",
+  "description": "You're going to love this mid-week warmer! Just simmer lentils and veggies in a creamy Persian-spiced sauce and serve with toasty garlic flatbreads, perfect for scooping.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/speedy-spiced-lentil-stew-63ffdc60d90c3f59f8084347",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/speedy-persian-lentil-stew-50233a67.jpg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "middle east",
+    "speedy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f844ecbf90d9f528435-34de32d5.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528452-95bf4017.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "tin",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fc14ecbf90d9f528573-e62e92da.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fcb4ecbf90d9f5285a7-908e420f.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f3-922cde24.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0174ecbf90d9f528706-7478f5de.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f944ecbf90d9f528489-a1323e62.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f764ecbf90d9f5283e9-2105763d.png"
+    },
+    {
+      "name": "Persian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "persian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee983756a9c9a041e128222-205bcf94.png"
+    },
+    {
+      "name": "Greek Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61f1f497841c1b0787029d66-60823351.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 200°C/180°C fan-forced.\n• Finely chop brown onion. Finely chop or crush garlic.\n• Grate carrot. Drain and rinse lentils.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63ffdc60d90c3f59f8084347/step-370e1248.jpg"
+    },
+    {
+      "text": "• In a small microwaveable bowl, add 1/2 the garlic and the butter. Melt butter in microwave in 10 second bursts.\n• Divide tortillas between lined oven trays.\n• Brush with garlic butter and season with salt and pepper.\n• Bake until lightly golden and crisp, 8-10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63ffdc60d90c3f59f8084347/step-1fc69043.jpg"
+    },
+    {
+      "text": "• Meanwhile, heat a drizzle of olive oil in a large saucepan over medium-high heat.\n• Cook onion and carrot until softened, 4-5 mins. Add Persian spice blend, tomato paste and remaining garlic and cook until fragrant, 1 min.\n• Stir in vegetable stock powder, coconut milk, lentils and the water and cook until slightly thickened, 4-5 mins.\n• Add baby spinach and cook until wilted, 1 min.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63ffdc60d90c3f59f8084347/step-ac236b31.jpg"
+    },
+    {
+      "text": "• Divide stew between bowls.\n• Top with yoghurt. Serve with flatbreads.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63ffdc60d90c3f59f8084347/step-f6fed241.jpg"
+    }
+  ]
+}

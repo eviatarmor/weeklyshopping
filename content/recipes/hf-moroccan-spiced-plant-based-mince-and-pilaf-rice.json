@@ -1,0 +1,168 @@
+{
+  "slug": "hf-moroccan-spiced-plant-based-mince-and-pilaf-rice",
+  "kind": "meal",
+  "title": "Moroccan-Spiced Plant-Based Mince & Pilaf Rice",
+  "subtitle": "with Greek-Style Yoghurt",
+  "description": "Roll up for our latest take on a pilaf - a Moroccan version with ras el hanout! This adventurous spice blend gives the plant-based mince an abundance of flavour while the garnishes of currants and Greek-style yoghurt round out the meal perfectly.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/moroccan-spiced-beef-and-pilaf-rice-67f8346ecade9b9f0acdb712",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/moroccan-spiced-beef-pilaf-rice-19aa1d6e-6176405d.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "african",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f87b810d0527cba53bf38d-c0444d52.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 200,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d1b33a6ad8f0f05a86-6acc66e2.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Currants",
+      "qty": 1,
+      "unit": "packet",
+      "product": "currants",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334fcade9b9f0acdb28c-8ef209a1.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723765105c9621030b4b49-4a970595.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f87b810d0527cba53bf38e-607398d5.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Middle Eastern Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "middle-eastern-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/66b955b6a3e58e452b7ced40-cd4d4e55.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd609690d86caac9252c-ccf6ae55.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddac635bf0b638cfb935-a71089b3.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 10,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde02793e8cdd8467eb4-6be7900f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• In a medium saucepan, add the water (for the rice), then bring to the boil. • Add basmati rice and a pinch of salt. Stir, cover with a lid and reduce heat to low. • Cook for 10 minutes, then remove pan from heat. Keep covered until rice is tender and water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam, so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340141a756d38d6af3071e/step-0a43b600.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice brown onion. • Grate carrot. Finely chop garlic. • Trim green beans and slice into thirds.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340141a756d38d6af3071e/step-e8f87810.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook onion and carrot with a pinch of salt, tossing, until softened, 3-5 minutes. Transfer to a plate. • Return frying pan to high heat with a drizzle of olive oil. When oil is hot, cook green beans and veggie mince, breaking beef up mince with a spoon, until browned, 4-5 minutes. TIP: Drain the oil from the pan at the end of this step for the best results!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340141a756d38d6af3071e/step-ccedfb20.jpg"
+    },
+    {
+      "text": "• <p>• Reduce heat to medium-high, then stir in the butter, ras el hanout, the honey, currants, tomato paste and garlic. Cook until fragrant, 1 minute. • Add vegetable stock powder and the water (for the beef). Bring to a simmer and cook until slightly thickened, 3-4 minutes. Season to taste. TIP: Add a splash more water to loosen the sauce, if needed!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340141a756d38d6af3071e/step-9f7cad30.jpg"
+    },
+    {
+      "text": "• <p>• While the sauce is simmering, stir carrot, onion and baby spinach leaves through the rice. • Season with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340141a756d38d6af3071e/step-fafd3740.jpg"
+    },
+    {
+      "text": "• <p>• Divide pilaf rice between bowls. Top with Moroccan-spiced beef. • Serve with Greek-style yoghurt. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340141a756d38d6af3071e/step-b8e78450.jpg"
+    }
+  ]
+}

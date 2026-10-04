@@ -1,0 +1,168 @@
+{
+  "slug": "hf-cheesy-grilled-gnocchi-veggies",
+  "kind": "meal",
+  "title": "Grilled Gnocchi & Veggies",
+  "subtitle": "with Cheddar Cheese & Pear Salad",
+  "description": "Soft pillowy bundles of potato gnocchi, smothered in cheese and baked until deliciously golden and oozy. Now, if that hasn’t\ngot your mouth watering, wait until you pull this dish of bubbling goodness from your oven.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-grilled-gnocchi-veggies-631692202174127b500ecde1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-grilled-gnocchi-veggies-da58899c.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Gnocchi",
+      "qty": 0.75,
+      "unit": "packet",
+      "product": "gnocchi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682ef6f8b25e643e8b4568.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Rosemary",
+      "qty": 1,
+      "unit": "sprig",
+      "product": "rosemary",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554295ffd2cb9da068b456a.png"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.5,
+      "unit": "sachet",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56a011a24dab718d418b4567.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c9546b867b6e7c4061abd4-47237458.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "box",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6052bd0d88686f4de443784a-92e7b6fd.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/560b7cc8fd2cb9a5278b4568.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61b149f6d6ce712daf57a82d-02695b0d.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced.\n• In a large baking dish, add gnocchi (see ingredients) and enough olive oil (2 1/2 tbs for 2 people/ 1/3 cup for 4 people) to coat the gnocchi. Season.\n• Bake until crispy, 10-14 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e1f93378f086003207a9b9/step-f776e905.jpg"
+    },
+    {
+      "text": "• Meanwhile, finely chop garlic.\n• Pick and finely chop rosemary leaves. TIP: Run your fingers down the rosemary stalk to remove the leaves easily.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e1f93378f086003207a9b9/step-804555be.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook garlic, dried oregano (see ingredients), soffritto mix, a pinch of chilli flakes (if using) and the salt, stirring, until softened, 6-7 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e1f93378f086003207a9b9/step-9d1a5f90.jpg"
+    },
+    {
+      "text": "• To the baking dish with the gnocchi, add veggies, baby spinach leaves, diced tomatoes with garlic & onion, the butter, the brown sugar, rosemary and vegetable stock powder. Season and stir to combine.\n• Sprinkle over shredded Cheddar cheese and bake until golden, 8-10 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e1f93378f086003207a9b9/step-1d9e6cc8.jpg"
+    },
+    {
+      "text": "• Meanwhile, thinly slice pear.\n• In a medium bowl, combine a drizzle of the vinegar and olive oil. Season, then add pear and salad leaves. Toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e1f93378f086003207a9b9/step-78db2660.jpg"
+    },
+    {
+      "text": "• Divide cheesy grilled gnocchi between plates.\n• Serve with pear salad. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e1f93378f086003207a9b9/step-350abae2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "hf-peking-style-hoisin-tofu-burger",
+  "kind": "meal",
+  "title": "Peking-Style Hoisin Tofu Burger",
+  "subtitle": "with Fries, Pickled Cucumber & Slaw",
+  "description": "Shake up burger night with this tangy hoisin tofu version that's bursting with Asian flavours. Tied together perfectly with creamy slaw, cucumber pickles and sesame fries, it's everything you didn't know you needed!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/peking-style-hoisin-pulled-pork-burger-67f83daecade9b9f0acde860",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R37_W04_AUS_Main_high_edit_noseeds-4a1b13c9.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "chinese",
+    "movie-night"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potato Fries",
+      "qty": 1,
+      "unit": "packet",
+      "product": "frozen-chips",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/627b619cd674519ae2096eaf-3844c873.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805b33a6ad8f0f05b84-d621b5cf.png"
+    },
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fca2ffa3ffaf7fe874d029-59cf431d.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "hoisin-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237613405d840b2be37d0-df2b3da5.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723743b33a6ad8f0f05839-2d3a33ee.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb0-2b3500be.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. <br>• Place potato fries on a lined oven tray. Drizzle <br>with olive oil, season with salt and toss to coat.<br>• Bake until tender, 20-25 minutes.</p> <p><br>TIP: If your oven tray is crowded, divide the fries <br>between two trays.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d220e6329c8e5b7223245/step-103c0200.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice cucumber into rounds.</p> <p>• Cut tofu into 1cm pieces.  </p> <p>• In a medium bowl, combine the vinegar and a good pinch of sugar and salt.</p> <p>• Add cucumber to pickling liquid. Add enough water to just cover cucumber. Set aside.</p> <p>TIP: Slicing the cucumber very thinly helps it pickle faster!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d220e6329c8e5b7223245/step-78871a10.jpg"
+    },
+    {
+      "text": "• <p>• When the fries have 5 minutes remaining, heat a large frying pan on medium-high heat with a generous drizzle of olive oil.</p> <p>• When oil is hot, add tofu and cook, turning occasionally, until golden, 5-7 minutes.</p> <p>• Add hoisin sauce and the brown sugar, stirring, until reduced and sticky, 1-2 minutes. Season to taste.</p> <p>TIP: Add a splash of water if the filling looks dry!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d220e6329c8e5b7223245/step-78ac0920.jpg"
+    },
+    {
+      "text": "• <p>• While pork is cooking, halve bake-at-home <br>burger buns and bake directly on a wire oven <br>rack until heated through, 2-3 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d220e6329c8e5b7223245/step-a2f25330.jpg"
+    },
+    {
+      "text": "• <p>• In a second medium bowl, combine shredded <br>cabbage mix and the mayonnaise. Season with <br>to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d220e6329c8e5b7223245/step-e21e7540.jpg"
+    },
+    {
+      "text": "• <p>• Drain pickled cucumber.</p> <p>• Top buns with creamy slaw, hoisin tofu and some pickled cucumber.</p> <p>• Serve with sesame fries and remaining cucumbers. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d220e6329c8e5b7223245/step-1780d450.jpg"
+    }
+  ]
+}

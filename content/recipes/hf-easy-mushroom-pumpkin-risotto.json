@@ -1,0 +1,146 @@
+{
+  "slug": "hf-easy-mushroom-pumpkin-risotto",
+  "kind": "meal",
+  "title": "Easy Mushroom & Pumpkin Risotto",
+  "subtitle": "with Parmesan & Pecans",
+  "description": "Is there any dish more comforting than a rich and creamy risotto? This version comes with a healthy serving of\nveggies to make it a nourishing meal everyone will love.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-mushroom-pumpkin-risotto-60dabf6272d22061be1bf2f4",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-mushroom-pumpkin-risotto-c0e6ffe5.jpg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "quick prep",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Peeled & Chopped Pumpkin",
+      "qty": 1,
+      "unit": "bag",
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc681cdae08b514cf7dbb12-50b8be5b.png"
+    },
+    {
+      "name": "Rosemary",
+      "qty": 2,
+      "unit": "sprig",
+      "product": "rosemary",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554295ffd2cb9da068b456a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ac468ac30006c0ef8159bd2-62f5390a.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "arborio-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427854dab7105578b456a.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6ef2f8b25ee4718b4568.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Nan's Special Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "nans-special-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5e38f86b18fdef7c4e43caa6-58b68ca4.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baad5c6ae08b53fa4663602-34f15c81.png"
+    },
+    {
+      "name": "Pecans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pecans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56b26f9dfd2cb9217c8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Roughly chop red onion.\n• Place onion and peeled & chopped pumpkin in a baking dish. Add a drizzle of olive oil and season with salt and pepper. Toss to coat, then roast until just tender, 20 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60dabf6272d22061be1bf2f4/step-9f1cfacc.jpg"
+    },
+    {
+      "text": "• When the veggies have 10 minutes remaining, boil a kettle of water.\n• Pick and roughly chop rosemary.\n• In a large frying pan, heat a drizzle of olive oil and 1/2 the butter over a medium-high heat. Cook the sliced mushrooms, stirring occasionally, until tender, 5-6 minutes.\n• Add garlic paste, rosemary and Nan's special seasoning and cook, stirring, until fragrant, 1 minute. Add arborio rice and stir to coat. Add the boiling water and vegetable stock pot. Stir to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60dabf6272d22061be1bf2f4/step-8a304f52.jpg"
+    },
+    {
+      "text": "• Transfer risotto mixture to the baking dish with the pumpkin. Gently stir to combine then cover tightly with foil and bake until the liquid has been absorbed and the rice is 'al dente', 24-28 minutes.\n• Stir through 1/2 the grated Parmesan cheese, the remaining butter, a drizzle of white wine vinegar and baby spinach leaves. Season to taste. TIP: Stir through a splash of water if the risotto looks dry.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60dabf6272d22061be1bf2f4/step-a5ed6575.jpg"
+    },
+    {
+      "text": "• Roughly chop pecans. Divide mushroom & pumpkin risotto between bowls.\n• Top with remaining Parmesan and pecans. TIP: Keep the pecans whole to save time!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60dabf6272d22061be1bf2f4/step-ce67df66.jpg"
+    }
+  ]
+}

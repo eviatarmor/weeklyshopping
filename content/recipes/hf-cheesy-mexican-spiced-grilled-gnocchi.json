@@ -1,0 +1,152 @@
+{
+  "slug": "hf-cheesy-mexican-spiced-grilled-gnocchi",
+  "kind": "meal",
+  "title": "Cheesy Mexican-Spiced Grilled Gnocchi",
+  "subtitle": "with Picked Jalapeños, Coriander & Spring Onions",
+  "description": "You've never had gnocchi like this before! Simmer the pillowy potato pasta with subtly sweet veggies and a Mexican-spiced red sauce, before finishing it in the oven with melty Cheddar. Top with a sprinkle of spring onion and meet your new go-to\ncomfort food.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-mexican-spiced-grilled-gnocchi-67f83bd50d0527cba53a768b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1048_W41_AU_R9072-11_main_high-9d71a8c0.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "classic",
+    "winter-warmers"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5093-c21ef0b3.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Gnocchi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "gnocchi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723754b33a6ad8f0f05887-4666d724.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723791105c9621030b4c44-b094ccb8.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237bd105c9621030b4d51-e907be7f.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bac-092c7dc3.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jalapenos",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237c7105c9621030b4d93-a0ec1bc9.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0e9690d86caac9265e-f52daf7d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Thinly slice spring onion.<br>• Roughly chop capsicum.<br>• Drain sweetcorn. <br>• Roughly chop coriander. <br>• Finely chop garlic. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cc13d4e23d845507427f/step-a9bdc300.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over <br>high heat.<br>• Cook capsicum and corn, tossing, until lightly <br>browned, 4-6 minutes. Transfer to a bowl. </p> <p><br>TIP: Cover the pan with a lid if the corn kernels are <br>‘popping’ out! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cc13d4e23d845507427f/step-60206010.jpg"
+    },
+    {
+      "text": "• <p>• Wipe out frying pan, then return to medium-high <br>heat with a generous drizzle of olive oil.<br>• When oil is hot, cook gnocchi, tossing occasionally, <br>until golden, 6-8 minutes. </p> <p><br>TIP: Add extra oil if the gnocchi is sticking to the pan!  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cc13d4e23d845507427f/step-6065ea20.jpg"
+    },
+    {
+      "text": "• <p>• Preheat grill to medium-high.<br>• SPICY! This spice blend is hot. Add less if you&#39;re <br>sensitive to heat. To the pan with gnocchi, add <br>Mexican Fiesta spice blend and garlic. Cook, <br>tossing, until fragrant, 1 minute.<br>• Return cooked veggies to the pan, then add the <br>water, brown sugar, butter and passata. Stir to <br>combine, then simmer until slightly thickened,  <br>1-2 minutes. Season to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cc13d4e23d845507427f/step-2cdb9630.jpg"
+    },
+    {
+      "text": "• <p>• Transfer the saucy gnocchi to a baking dish.<br>• Sprinkle with Cheddar cheese.<br>• Grill until cheese is melted and golden,  <br>5-10 minutes. </p> <p><br>TIP: Grills cook fast, so keep an eye on the gnocchi! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cc13d4e23d845507427f/step-ad334c40.jpg"
+    },
+    {
+      "text": "• <p>• Divide cheesy Mexican-spiced grilled gnocchi <br>between bowls.<br>• Drizzle with light sour cream (see ingredients). <br>• Sprinkle with pickled jalapeños (if using), coriander <br>and spring onion to serve. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a58cc13d4e23d845507427f/step-54c13b50.jpg"
+    }
+  ]
+}

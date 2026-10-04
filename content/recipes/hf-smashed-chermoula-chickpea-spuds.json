@@ -1,0 +1,160 @@
+{
+  "slug": "hf-smashed-chermoula-chickpea-spuds",
+  "kind": "meal",
+  "title": "Smashed Chermoula Chickpea Spuds",
+  "subtitle": "with Garden Salad, Garlic Yoghurt & Fetta",
+  "description": "For the chickpea lover in all of us, dive into this tasty number with some serious dinner-time staples. These loaded jacket potatoes are taken to the next level with a drizzle of yoghurt and sprinkling of marinated goat cheese and when paired with a bright garden salad, you'll be smiling from ear to ear.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/smashed-chermoula-chickpea-spuds-67e3862b822813b6e6e5dad6",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67c51703f0a31bc0c301069c-4635c41e-b41f183e.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle eastern",
+    "healthy",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Marinated Goat Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "goat-s-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572378c3405d840b2be38bd-3d8b5b48.png"
+    },
+    {
+      "name": "Golden Goddess Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076488201846f6f39708278-d1c2b639.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bac-092c7dc3.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237193405d840b2be3660-48f13097.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 200°C/180°C fan-forced. <br>• Cut potato in half. <br>• Place potatoes on a lined oven tray.<br>• Drizzle with olive oil, season with salt and toss to coat.<br>• Arrange cut-side down and roast until crisp and tender, 40-45 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e3862b822813b6e6e5dad6/step-05edb000.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop garlic. <br>• Roughly chop tomato. Thinly slice spring onion.<br>• Drain and rinse chickpeas.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e3862b822813b6e6e5dad6/step-5ad74c10.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil and half the garlic over medium-high heat. Cook until fragrant, 1 minute. Transfer to a small heatproof bowl.<br>• Add Greek-style yoghurt to garlic oil mixture and stir to combine. Season with salt and pepper to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e3862b822813b6e6e5dad6/step-afd9e720.jpeg"
+    },
+    {
+      "text": "• <p>• When potatoes have 5 minutes remaining, return frying pan to medium-high heat with a drizzle of olive oil. <br>• Cook chickpeas, chermoula spice blend, tomato paste and remaining garlic and cook, until fragrant, 1-2 minutes. <br>• Stir in the water, brown sugar and butter, until slightly reduced, 1-2 minutes. Lightly crush chickpeas with a fork. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e3862b822813b6e6e5dad6/step-e6029330.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, in a large bowl, combine golden goddess dressing, mixed salad leaves, tomato and a drizzle of white wine vinegar and olive oil. Season to taste.<br>~~~~~~~~~~ MODULAR STEP ~~~~~~~~~~ <br>• Meanwhile, in a large bowl, combine golden goddess dressing, mixed salad leaves, tomato and a drizzle of white wine vinegar and olive oil. Crumble over fetta cubes and season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e3862b822813b6e6e5dad6/step-f949a240.jpeg"
+    },
+    {
+      "text": "• <p>• Divide spuds and garden salad between plates.<br>• Top spuds with smashed chermoula chickpeas, spring onion and garlic yoghurt. Crumble over marinated goat cheese to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e3862b822813b6e6e5dad6/step-efc47250.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "ml-asparagus-tomato-feta-frittata",
+  "kind": "meal",
+  "title": "Asparagus, Tomato & Feta Frittata",
+  "sourceUrl": "https://www.mealime.com/recipes/asparagus-tomato-feta-frittata/1046",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/169/presentation_1ab1fe7f-b468-4ac5-8bf4-b3c7e70d03f3.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "qty": 2,
+      "product": "asparagus"
+    },
+    {
+      "name": "Crumbled Feta Cheese",
+      "qty": 115,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Eggs",
+      "qty": 12,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dill (dried)",
+      "product": "dill",
+      "pantry": true
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to broil."
+    },
+    {
+      "text": "Peel and mince garlic. Wash asparagus and snap off woody ends. Cut diagonally into 2 inch pieces. Wash and medium dice tomatoes."
+    },
+    {
+      "text": "Preheat a skillet over medium heat."
+    },
+    {
+      "text": "In a medium bowl, whisk together eggs, water, dill, salt, and pepper. Set aside."
+    },
+    {
+      "text": "Coat bottom of skillet with oil. Add garlic and cook until fragrant, 15-30 seconds. Add asparagus and cook until tender crisp, 2-3 minutes."
+    },
+    {
+      "text": "Add tomato and cook for another 2 minutes."
+    },
+    {
+      "text": "Pour in egg mixture. As eggs set around the edge of the skillet, gently lift cooked portions with a spatula to allow uncooked egg to flow underneath. Cook until bottom and sides are firm but the top is still runny, 8-10 minutes."
+    },
+    {
+      "text": "Sprinkle feta over top. Place skillet in the oven under the broiler until the top is set, 2-3 minutes."
+    },
+    {
+      "text": "To serve, cut frittata into wedges and place on a plate. Enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "ml-maple-pecan-oatmeal-fresh-peaches",
+  "kind": "meal",
+  "title": "Maple-Pecan Oatmeal with Fresh Peaches",
+  "sourceUrl": "https://www.mealime.com/recipes/maple-pecan-oatmeal-fresh-peaches/10183",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1180/presentation_20164be2-b6fe-41a5-9466-ac144844d9df.jpeg",
+  "servings": 4,
+  "prepMinutes": 12,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "qty": 2,
+      "product": "peach"
+    },
+    {
+      "name": "Pecan Halves",
+      "qty": 0.6666666666666666,
+      "unit": "cup",
+      "product": "pecans"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 235,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place water and salt in a medium saucepan, cover, and bring to a boil over high heat."
+    },
+    {
+      "text": "Once boiling, stir in oats and maple syrup. Cover and let simmer, on low, 3-5 minutes, or until oats reach desired consistency."
+    },
+    {
+      "text": "Meanwhile, wash, halve and pit peaches, then medium dice."
+    },
+    {
+      "text": "Roughly chop pecans."
+    },
+    {
+      "text": "To serve, divide oats between bowls and top with peaches, pecans, and maple syrup. Serve with milk and enjoy!"
+    }
+  ]
+}

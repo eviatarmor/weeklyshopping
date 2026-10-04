@@ -1,0 +1,149 @@
+{
+  "slug": "ep-creamy-indian-lentil-haloumi-and-veggie-curry",
+  "kind": "meal",
+  "title": "Creamy Indian Lentil, Haloumi & Veggie Curry",
+  "subtitle": "with Rice & Almonds",
+  "description": "Want a veggie option that's filling and flavourful? Be swept away by this rich curry simmering with sweet and peppery spices, and packed with nutritious lentils and veggies. Serve with fluffy rice and sprinkle with flaked almonds for some crunch.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/creamy-indian-lentil-and-veggie-curry-67f850c8cade9b9f0ace3872",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66186c87300be64307bdf793-ee64d268-d28b5fe8.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "everyplate",
+    "indian",
+    "naturally gf",
+    "quick",
+    "speedy",
+    "vegetarian",
+    "20 min or less",
+    "rice"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833484264524ca978ae38-7f76b87f.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05935-b4252252.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833564264524ca978aec4-6fe4b4c1.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bda-5fe23cf6.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd1-a177488d.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3946-ff8321d6.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c3-662d4bcd.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Mild North Indian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mild-north-indian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379cb33a6ad8f0f059c5-aff84dd8.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.66,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89aa34264524ca97a5ad8-aad859cf.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e60-44b83ee2.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e58-0a43aa1d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. Half-fill a medium saucepan with the boiling water. <br>• Add basmati rice and a pinch of salt and cook, uncovered, over high heat until tender, 12 mins. Drain.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69d8421968ee73d4d3ff91a1/step-c966c000.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, cut the haloumi into 1cm-thick slices. Thinly slice carrot and zucchini into half-moons. Thinly slice onion (see ingredients). Drain and rinse lentils. <br>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. When oil is hot, cook haloumi until golden brown, 1-2 mins each side.Transfer to a paper towel lined plate.  <br>• Return frying pan to high high heat with a drizzle of olive oil.<br>• Cook carrot, zucchini and onion, until tender, 4-5 mins. <br>• Add tomato paste, Mumbai spice blend, mild North Indian spice blend and drained lentils. Cook, until fragrant, 1-2 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69d8421968ee73d4d3ff91a1/step-b1715110.jpg"
+    },
+    {
+      "text": "• <p>• Reduce heat to medium, then add light cooking cream, the water, brown sugar and salt. <br>• Stir to combine and simmer, until lentils are softened and curry is slightly thickened, 5-7 mins. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69d8421968ee73d4d3ff91a1/step-499e5520.jpg"
+    },
+    {
+      "text": "• <p>• Divide rice and creamy Indian lentil, haloumi and veggie curry between bowls. <br>• Top with flaked almonds to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69d8421968ee73d4d3ff91a1/step-840f7230.jpg"
+    }
+  ]
+}

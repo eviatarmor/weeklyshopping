@@ -1,0 +1,102 @@
+{
+  "slug": "all-american-spice-blend",
+  "kind": "blend",
+  "title": "All American Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 2 chilli powder, 2 sweet paprika, 1 ground coriander, 1 garlic powder, 2 ground cumin, 1 salt, 1 cayenne pepper, 1 chilli flakes, 1 black pepper, 1 dried oregano, 0.25 cocoa powder, 0.125 ground cinnamon.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "All-American Spice Blend",
+    "American Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chilli Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Cocoa Powder",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "cocoa-powder"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

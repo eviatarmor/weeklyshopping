@@ -1,0 +1,177 @@
+{
+  "slug": "hf-rich-lentil-and-red-wine-jus-lasagne",
+  "kind": "meal",
+  "title": "Rich Lentil & Red Wine Jus Lasagne",
+  "subtitle": "with Balsamic & Almond Salad",
+  "description": "Indulge in a satisfying and vibrant take on comfort food with this lentil-loaded lasagne. Slow-simmered lentils in a robust red wine sauce create a deep, rich flavour that’s perfectly layered between sheets of fresh lasagne and creamy bechamel. Cut through the richness with an easy balsamic and cherry tomato salad and dinner is served!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/rich-lentil-and-red-wine-jus-lasagne-67f85d1fcade9b9f0ace84be",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1032_W16_AUS_MAIN_tomatoes_edit_high-d2c35bd0.jpg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "hellofresh",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Lasagne Sheets",
+      "qty": 1,
+      "unit": "packet",
+      "product": "lasagne-sheets",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833d1cade9b9f0acdb52a-f37a0890.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f53405d840b2be35ee-e95ce245.png"
+    },
+    {
+      "name": "Red Wine Jus",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f834050d0527cba53a4d8c-aefa217b.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bdb-57a7fc12.png"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5c5a154be3f33968325d1922-079acee4.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Tomato Sugo",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-sugo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572382e105c9621030b4fd4-8c7d9d5f.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572380e105c9621030b4f37-c66d6946.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0e9690d86caac9265e-f52daf7d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced.<br>• Finely chop celery, brown onion and garlic.<br>• Drain and rinse lentils.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977b7939c9c3068924c90/step-8bf14400.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil<br>over medium-high heat. Cook celery and onion<br>stirring, until softened, 4-5 minutes.<br>• Add garlic &amp; herb seasoning and garlic and <br>cook until fragrant, 1-2 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977b7939c9c3068924c90/step-94a25f10.jpg"
+    },
+    {
+      "text": "• <p>• Reduce heat to medium, then add tomato sugo, <br>red wine jus, stock concentrate, lentils, the <br>butter, brown sugar and a splash of water and <br>cook until thickened, 4-6 minutes. Season with a <br>pinch of pepper.<br>• Meanwhile, heat a small saucepan over medium <br>heat. Heat light cooking cream until starting to <br>steam, 2-4 minutes. Add half of the Parmesan<br>cheese and whisk until combined and smooth. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977b7939c9c3068924c90/step-288f4120.jpg"
+    },
+    {
+      "text": "• <p>• Slice fresh lasagne sheets in half widthways.<br>• Spoon roughly 1/4 of the lentil filling into a <br>baking dish, follow with 1/4 of bechamel, then <br>top with a fresh lasagne sheet. <br>• Repeat with remaining filling, bechamel and <br>lasagne sheets. Finish with a final lasagne <br>sheet, then remaining bechamel.<br>• Bake lasagne until filling is bubbling and top is <br>golden brown, 20-25 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977b7939c9c3068924c90/step-605c5830.jpg"
+    },
+    {
+      "text": "• <p>• When lasagne has 5 minutes remaining, roughly <br>chop cucumber and halve snacking tomatoes <br>(see ingredients). <br>• In a large bowl, combine mixed salad leaves, <br>cucumber, tomatoes, flaked almonds and <br>balsamic vinaigrette dressing. Season with salt<br>and pepper to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977b7939c9c3068924c90/step-2fda8840.jpg"
+    },
+    {
+      "text": "• <p>• Divide rich lentil and red wine jus fresh lasagne <br>between plates.<br>• Serve with balsamic and almond salad. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977b7939c9c3068924c90/step-55b3ac50.jpg"
+    }
+  ]
+}

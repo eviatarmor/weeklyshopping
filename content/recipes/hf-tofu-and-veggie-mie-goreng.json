@@ -1,0 +1,145 @@
+{
+  "slug": "hf-tofu-and-veggie-mie-goreng",
+  "kind": "meal",
+  "title": "Umami Tofu & Veggie Mie Goreng",
+  "subtitle": "with Fried Egg & Crispy Shallots",
+  "description": "Mie Goreng, meaning 'fried noodles', is a much-loved Indonesian street speciality that has become a favourite in homes worldwide. Our version includes tofu and it delivers the perfect ratio of sweet to salty flavours making this a truly delicious mid-week dinner.\nWe’ve replaced the broccoli florets in this recipe with green beans\ndue to local ingredient availability. It’ll be just as delicious, just follow your\nrecipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/pork-and-veggie-mie-goreng-67f84fbbcade9b9f0ace32de",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF220629_R05_W34_AUS_KB_Main_add_coriander_edit_high-bac8d0f8.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indonesian",
+    "quick",
+    "street food"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723765105c9621030b4b49-4a970595.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728105c9621030b4a1d-2346b24b.png"
+    },
+    {
+      "name": "Egg Noodles",
+      "qty": 1,
+      "unit": "packet",
+      "product": "egg-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f87063cade9b9f0acf0232-09f55f6b.png"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 1,
+      "unit": "packet",
+      "product": "kecap-manis",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376f3405d840b2be3836-9f12e589.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Oyster Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "oyster-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f854f50d0527cba53af1bb-476491f1.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376c3405d840b2be3818-426a4116.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de622793e8cdd8467f97-bfa51652.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf22793e8cdd8467ed6-4c21f940.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. • Thinly slice long chilli (if using). • In a small bowl, combine oyster sauce, kecap manis, vegetable stock, the soy sauce, vinegar and a splash of water.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d6cf7d5496ac4a64bb9/step-b8eb2300.jpg"
+    },
+    {
+      "text": "• <p>• Half-fill a medium saucepan with the boiled water. Add egg noodles and cook over medium-high heat, stirring occasionally with a fork to separate, until tender, 4-5 minutes. • Drain, rinse and set aside. TIP: Add a dash of water to help speed up the cooking process.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d6cf7d5496ac4a64bb9/step-5b0d1810.jpg"
+    },
+    {
+      "text": "• <p>• Chop broccoli (including stalk!) into small florets.Thinly slice carrot into half-moons. • Cut Japanese tofu into 2cm chunks.• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook broccoli and carrot, tossing, until tender, 6-8 minutes. • Transfer to a bowl. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d6cf7d5496ac4a64bb9/step-e2a7c720.jpeg"
+    },
+    {
+      "text": "• <p>• Return frying pan to high heat with a generous drizzle of olive oil. • When oil is hot, crack the eggs into the pan. Cook until egg whites are firm and yolks are cooked to liking, 4-5 minutes. • Transfer to a plate and cover to keep warm. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d6cf7d5496ac4a64bb9/step-98d6c030.jpeg"
+    },
+    {
+      "text": "• <p>• Return pan to medium-high heat with a drizzle of olive oil. • When the oil is hot, cook tofu, turning occasionally, 4-5 minutes. • Add cooked noodles and veggies to pan, then add sauce mixture, tossing until combined, 1 minute. • Season with pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d6cf7d5496ac4a64bb9/step-d3e92140.jpeg"
+    },
+    {
+      "text": "• <p>• Divide pork and veggie mie goreng between bowls. • Top each bowl with a fried egg, crispy shallots and chilli to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369d6cf7d5496ac4a64bb9/step-34a49c50.jpg"
+    }
+  ]
+}

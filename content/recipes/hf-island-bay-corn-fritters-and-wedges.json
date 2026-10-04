@@ -1,0 +1,151 @@
+{
+  "slug": "hf-island-bay-corn-fritters-and-wedges",
+  "kind": "meal",
+  "title": "Island Bay Corn Fritters & Wedges",
+  "subtitle": "with Pineapple Salsa & Coconut Sweet Chilli Mayo",
+  "description": "Take one part crunchy corn fritters, one part zesty salsa, and a whole lot of tropical island flair to create a delicious weeknight\nmeal everyone will love!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/island-bay-corn-fritters-and-wedges-5fd036154b3dfc23504cb1c2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/island-bay-corn-fritters-6b65b6e2.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "caribbean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fae01355a2ab9306616d5b0-a7aba26d.png"
+    },
+    {
+      "name": "Pineapple Slices",
+      "qty": 1,
+      "unit": "tin",
+      "product": "pineapple",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57fb2adfa7c72a2bb9004731-034e8a8d.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb8a4dab71aa0a8b4569.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 2,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Mild Caribbean Jerk Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "jerk-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/596d87090534681da7470ff3-0f1d5a53.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Coconut Sweet Chilli Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59dc1d44c2880043436b56c2-107fb982.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Cut\n• the potato (unpeeled) into 1cm wedges. Place on\n• an oven tray lined with baking paper. Drizzle with\n• olive oil, season with salt and toss to coat. Bake\n• until tender, 25-30 minutes.\n• TIP: Cut the potato to size so it cooks in time.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fd036154b3dfc23504cb1c2/step-6ff0b886.jpg"
+    },
+    {
+      "text": "• While the wedges are cooking, drain the pineapple\n• slices. Drain the sweetcorn. Halve the cherry\n• tomatoes. Zest the lime to get a good pinch, then\n• cut into wedges. Roughly chop the coriander.\n• Thinly slice the spring onion.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fd036154b3dfc23504cb1c2/step-067608f5.jpg"
+    },
+    {
+      "text": "• Heat a large frying pan over a high heat. Add the\n• pineapple and cook, turning occasionally, until\n• browned and slightly charred, 3-4 minutes. Set\n• aside to cool slightly, then roughly chop the\n• pineapple. In a medium bowl, combine the cherry\n• tomatoes, a generous squeeze of lime juice and\n• 1/2 the coriander. Add the pineapple and a drizzle\n• of olive oil. Season with salt and pepper. Toss to\n• coat and set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fd036154b3dfc23504cb1c2/step-f9988a58.jpg"
+    },
+    {
+      "text": "• In a large bowl, combine the sweetcorn, shredded Cheddar cheese and mild Caribbean jerk seasoning. Add the plain flour, egg, milk, salt, lime zest, spring onion and remaining coriander and stir to combine.\n• TIP: Lift out some of the mixture with a spoon, if it's too wet and doesn't hold its shape, add a little\n• more flour!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fd036154b3dfc23504cb1c2/step-f99603b0.jpg"
+    },
+    {
+      "text": "• Return the pan over a medium-high heat with enough olive oil to coat the base of the pan. When the oil is hot, add 1/4 cup of the fritter mixture to the pan and flatten into a patty using a spatula. Repeat with the remaining mixture, without crowding the pan. Cook until golden and cooked through, 3-4 minutes each side. Transfer to a plate lined with a paper towel. Repeat to cook the remaining fritter mixture, adding extra oil\n• as needed.\n• TIP: Give the fritters time to set before flipping them!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fd036154b3dfc23504cb1c2/step-95ace059.jpg"
+    },
+    {
+      "text": "• Divide the island bay corn fritters, wedges and pineapple salsa between plates. Serve with the coconut sweet chilli mayonnaise.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fd036154b3dfc23504cb1c2/step-3a943836.jpg"
+    }
+  ]
+}

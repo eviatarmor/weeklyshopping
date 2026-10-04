@@ -1,0 +1,45 @@
+{
+  "slug": "autumn-spice-blend",
+  "kind": "blend",
+  "title": "Autumn Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 1 ground cinnamon, 1 ground cloves, 8 ground cumin.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Autumn (Fall) Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Ground Cloves",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-cloves"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 2.375,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

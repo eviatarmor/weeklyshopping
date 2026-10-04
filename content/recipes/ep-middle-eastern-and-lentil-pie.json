@@ -1,0 +1,153 @@
+{
+  "slug": "ep-middle-eastern-and-lentil-pie",
+  "kind": "meal",
+  "title": "Persian Lentil & Veggie Pie",
+  "subtitle": "with Potato Top & Yoghurt",
+  "description": "Spice up the classic cottage pie with flavours inspired by the Middle East. Our mild chermoula style spice is combined with tasty lentils and hidden veggies. Finish it off with a cheesy potato top and You'll have a delicious warming pie on the table in 35 mins.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/middle-eastern-and-lentil-pie-67de5c4c33388b05bf552a55",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67c3c369f0a31bc0c3010403-e15d9666-2e5440bf.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "middle eastern",
+    "pies-fries-beyond",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae2-bdf7aecc.png"
+    },
+    {
+      "name": "Persian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "persian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee983756a9c9a041e128222-205bcf94.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bda-5fe23cf6.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd1-a177488d.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cb-3faad567.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92531-6c19cc26.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd76635bf0b638cfb8c5-e3f33e39.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de332793e8cdd8467f59-a0462d01.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. Peel potato and cut into large chunks.<br>• Half-fill a medium saucepan with boiling water.<br>• Cook potato in boiling water over high heat until easily pierced with a knife, 10-15 mins.<br>• Drain and return to saucepan. Add the milk and butter and season generously with salt. Mash until smooth.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67de5c4c33388b05bf552a55/step-e3ec1400.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, grate carrot. Finely chop brown onion (see ingredients) and garlic. Drain and rinse lentils. Cut zucchini into bite-sized chunks.<br>• In a large frying pan, heat a drizzle of olive oil over high heat. Cook carrot, onion, lentils and zucchini until softened, 5-6 mins.<br>• Reduce heat to medium-low, then add garlic, Persian spice blend and tomato paste and cook until fragrant, 1-2 mins.<br>• Stir in coconut milk, the water and stock powder and cook, stirring, until combined, 2-3 mins. Season with pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67de5c4c33388b05bf552a55/step-4827dc10.jpeg"
+    },
+    {
+      "text": "• <p>• Preheat grill to high. Transfer lentil filling to a baking dish and spread evenly with mash.<br>• Drizzle with olive oil and grill until lightly golden, 5-8 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67de5c4c33388b05bf552a55/step-ad20d720.jpeg"
+    },
+    {
+      "text": "• <p>• Divide Persian lentil and veggie pie between plates. <br>• Sprinkle with a pinch of chilli flakes (if using).<br>• Serve with a dollop of Greek-style yoghurt.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67de5c4c33388b05bf552a55/step-c31a5230.jpeg"
+    }
+  ]
+}

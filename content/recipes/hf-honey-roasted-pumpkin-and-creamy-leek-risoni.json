@@ -1,0 +1,157 @@
+{
+  "slug": "hf-honey-roasted-pumpkin-and-creamy-leek-risoni",
+  "kind": "meal",
+  "title": "Honey-Oregano Pumpkin & Creamy Leek Risoni",
+  "subtitle": "with Roast Veggies & Fetta Cubes",
+  "description": "A warm bowl of creamy risoni is just what the doctor ordered! Pack on honey and oregano-doused pumpkin and some extra colourful veggies to have a homey and hearty meal all in the one bowl. With a sprinkling of fetta cubes, flavour is truly in high demand here!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-roasted-pumpkin-and-creamy-leek-risoni-67f85d36cade9b9f0ace854f",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1021_W38_AU_R13481-11_Main_high-7692733f.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "hellofresh",
+    "mediterranean",
+    "classic",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6b-38d72c27.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238583405d840b2be3cf6-9b48336b.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572373ab33a6ad8f0f0580f-86a249e6.png"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377cb33a6ad8f0f05912-eb4ddad5.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "product": "silverbeet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238033405d840b2be3b0d-33091177.png"
+    },
+    {
+      "name": "Risoni",
+      "qty": 1,
+      "unit": "packet",
+      "product": "risoni",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833a8cade9b9f0acdb456-a2beceeb.png"
+    },
+    {
+      "name": "Nan's Special Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "nans-special-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237aa105c9621030b4cdc-2523ec62.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddb3635bf0b638cfb93d-59b9ad8a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Slice pumpkin into thin wedges.<br>• Cut red onion and tomato into wedges.<br>• Place pumpkin on a lined oven tray, sprinkle <br>over dried oregano (see ingredients), drizzle <br>with olive oil and season with salt. Toss to coat.<br>• Roast until tender, 20-25 minutes. </p> <p><br>TIP: Peel the pumpkin if you prefer! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/686f3e2469ddbf20131a9bbc/step-acb7cd00.jpg"
+    },
+    {
+      "text": "• <p>• Place red onion and tomato on a second lined <br>oven tray.<br>• Drizzle with olive oil and season with salt. Toss <br>to coat. Roast until tender, 15-20 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/686f3e2469ddbf20131a9bbc/step-83ce6a10.jpg"
+    },
+    {
+      "text": "• <p>• While veggies are roasting, thinly slice leek.<br>• Roughly chop silverbeet.<br>• Finely chop garlic. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/686f3e2469ddbf20131a9bbc/step-57252d20.jpg"
+    },
+    {
+      "text": "• <p>• In a large saucepan, heat a drizzle of olive oil<br>over medium-high heat.<br>• Cook leek, stirring, until softened, 4-5 minutes.<br>• Add silverbeet, Nan’s special seasoning and <br>garlic and cook until fragrant, 1 minute. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/686f3e2469ddbf20131a9bbc/step-c405c530.jpg"
+    },
+    {
+      "text": "• <p>• To the pan, stir in risoni, stock concentrate, <br>light cooking cream and the water. Bring to the <br>boil, then reduce heat to medium and simmer, <br>stirring occasionally, until the risoni is ‘al dente’ <br>and the water is absorbed, 12-15 minutes.<br>• Gently stir roast veggies through the risoni. </p> <p><br>TIP: Add a splash more water if the risoni looks dry! <br>TIP: ‘Al dente’ pasta is cooked through but still <br>slightly firm in the centre.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/686f3e2469ddbf20131a9bbc/step-b75c3640.jpg"
+    },
+    {
+      "text": "• <p>• Divide creamy leek risoni between bowls.<br>• Top with oregano pumpkin. Drizzle the honey <br>over the pumpkin.<br>• Crumble over fetta cubes to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/686f3e2469ddbf20131a9bbc/step-0e8e7750.jpg"
+    }
+  ]
+}

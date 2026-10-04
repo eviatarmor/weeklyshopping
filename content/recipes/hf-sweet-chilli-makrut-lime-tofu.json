@@ -1,0 +1,159 @@
+{
+  "slug": "hf-sweet-chilli-makrut-lime-tofu",
+  "kind": "meal",
+  "title": "Sweet Chilli & Makrut Lime Tofu",
+  "subtitle": "with Vermicelli Salad & Peanuts",
+  "description": "Firm tofu is the perfect canvas for bold Vietnamese-inspired flavours - like the unique citrusy and zesty flavours from makrut lime, which stands up well to the sweet chilli glaze in this fresh, colourful and textural dish.\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-chilli-makrut-lime-tofu-61a807c0013c1f3cfa45f3dc",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-chilli-makrut-lime-tofu-024d1947.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "asian",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Vermicelli Noodles",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rice-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d5b864dab71ef488b4567.png"
+    },
+    {
+      "name": "Turnip",
+      "qty": 1,
+      "product": "turnip",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61b2b7a0d0e52e60ba73aae0-11bcbb8c.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Makrut Lime Leaves",
+      "qty": 2,
+      "unit": "leaves",
+      "product": "kaffir-lime-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5efa9ed67f263b3fad1af7d2-47d6b545.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56ba8a31fd2cb99b0a8b4567.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e112ff8b25e1c628b4568.png"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cornflour",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/558b43cffd2cb9a64e8b456c-3cf223c1.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Ponzu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ponzu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/607eae9bf4a19154727518b2-e35a259a.png"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "rice-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816b7fd2cb99d098b4567.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59ac90632c3e0855ea048e02-f273e5e8.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55fb5a1279a23cde148b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle. Place the vermicelli noodles in a medium heatproof bowl. Add enough boiling water to cover the noodles, then set aside until tender, 5-7 minutes. Drain, then rinse under cold water.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61a807c0013c1f3cfa45f3dc/step-d06627e1.jpg"
+    },
+    {
+      "text": "• While the noodles are soaking, thinly slice the\n• turnip. Roughly chop the mint leaves. Remove the\n• centre veins from the makrut lime leaves, then\n• very finely chop. Grate the carrot. In a small bowl,\n• combine the sweet chilli sauce, ginger paste, soy\n• sauce and makrut lime leaves.\n• TIP: The makrut lime leaves are fibrous so you want\n• to cut them into small pieces!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61a807c0013c1f3cfa45f3dc/step-d7cf0d33.jpg"
+    },
+    {
+      "text": "• Pat the firm tofu (see ingredients) dry, then cut into 1cm pieces. In a medium bowl, combine the cornflour and a generous pinch of salt and pepper. Add the tofu, gently tossing to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61a807c0013c1f3cfa45f3dc/step-d6552f13.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a generous drizzle of olive oil over a medium-high heat. When the oil is hot, shake the excess cornflour off the tofu and cook, turning occasionally, until golden, 5-7 minutes. Add the sweet chilli-ginger sauce mixture, tossing to coat, 1 minute. TIP: For best results, cook the tofu in batches if your pan is getting crowded.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61a807c0013c1f3cfa45f3dc/step-59194286.jpg"
+    },
+    {
+      "text": "• While the tofu is cooking, combine the brown\n• sugar, ponzu and a drizzle of rice wine vinegar\n• and olive oil in a large bowl. Season, then add\n• the turnip, carrot, mint, drained vermicelli and\n• shredded cabbage mix. Gently toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61a807c0013c1f3cfa45f3dc/step-e2bddea3.jpg"
+    },
+    {
+      "text": "• Divide the vermicelli salad between bowls. Top with the sweet chilli and makrut lime tofu, spooning over any extra sauce from the pan. Sprinkle with the crushed peanuts to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61a807c0013c1f3cfa45f3dc/step-27fc1e7a.jpg"
+    }
+  ]
+}

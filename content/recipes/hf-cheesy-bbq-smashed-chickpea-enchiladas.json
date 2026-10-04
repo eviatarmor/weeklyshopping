@@ -1,0 +1,157 @@
+{
+  "slug": "hf-cheesy-bbq-smashed-chickpea-enchiladas",
+  "kind": "meal",
+  "title": "Cheesy BBQ Smashed Chickpea Enchiladas",
+  "subtitle": "with Caramelised Onion, Salad & BBQ Mayo",
+  "description": "With wholesome chickpeas, mini flour tortillas, gooey Cheddar cheese and sweet caramelised onion, this fan favourite dish\nis colourful, delicious and a heap of fun. Don’t forget to dollop on the smokey BBQ mayo to really get the party started!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-bbq-smashed-chickpea-enchiladas-64507058c0c78ab72707dd6c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-bbq-smashed-chickpea-enchiladas-18783614.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "north america",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad6ac09ae08b54d160cb072-a3981ef2.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add596030006c5d9d4af082-58b68ca4.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Enchilada Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "enchilada-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f571fd2cb9cf038b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Burger Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "burger-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/605acf31e0b95742057691f7-9325c3ba.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Thinly slice brown onion (see ingredients).\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Add onion and cook, stirring regularly, until softened, 5-6 minutes. Reduce heat to medium.\n• Add the vinegar, a splash of water and the brown sugar and mix well. Cook until dark and sticky, 3-5 minutes. Transfer to a small bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649a65c2da079c5f5788bf38-620e301c.jpeg"
+    },
+    {
+      "text": "• Meanwhile, grate carrot.\n• Drain and rinse chickpeas.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649a65c2da079c5f5788bf38-90d22933.jpeg"
+    },
+    {
+      "text": "• Wipe out frying pan, then return to medium-high heat with a drizzle of olive oil.\n• Cook carrot, stirring, until tender, 1-2 minutes.\n• Add All-American spice blend and tomato paste and cook until fragrant, 1-2 minutes.\n• Stir in chickpeas, vegetable stock powder, the butter and enchilada sauce. Simmer until slightly reduced, 1-2 minutes.\n• Remove pan from heat. Lightly mash chickpea mixture until some of the chickpeas have broken up and the sauce has thickened.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649a65c2da079c5f5788bf38-13b0a3ba.jpeg"
+    },
+    {
+      "text": "• Preheat grill to medium-high. Drizzle a baking dish with olive oil.\n• Lay mini flourtortillas on a chopping board. Spoon some chickpea mixture down the centre of a tortilla, then roll up tightly and place seam-side down in the baking dish.\n• Repeat with remaining tortillas and chickpea mixture, ensuring the tortillas fit together snuggly in the baking dish.\n• Top with caramelised onions and sprinkle with shredded Cheddar cheese. Grill enchiladas until the cheese is melted and golden and the tortillas have warmed through, 8-10 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649a65c2da079c5f5788bf38-179ce5bd.jpeg"
+    },
+    {
+      "text": "• While enchiladas are grilling, roughly chop tomato.\n• In a medium bowl, combine tomato, mixed salad leaves, a drizzle of the vinegar and olive oil. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649a65c2da079c5f5788bf38-b711f488.jpeg"
+    },
+    {
+      "text": "• Divide the cheesy smashed chickpea enchiladas between plates.\n• Serve with the salad and burger sauce. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649a65c2da079c5f5788bf38-7365f27f.jpeg"
+    }
+  ]
+}

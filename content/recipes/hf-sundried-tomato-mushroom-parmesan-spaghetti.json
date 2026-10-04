@@ -1,0 +1,153 @@
+{
+  "slug": "hf-sundried-tomato-mushroom-parmesan-spaghetti",
+  "kind": "meal",
+  "title": "Creamy Mushroom & Tomato Spaghetti",
+  "subtitle": "with Parmesan & Garlic Pangrattato",
+  "description": "You won’t believe the delicious end result of this pasta. Cream and stock infuse the spaghetti with beautiful sauciness and flavour, leaving you with perfect strands of pasta covered in silky mushrooms and caramelised tomatoes.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/sundried-tomato-mushroom-parmesan-spaghetti-5a39e2ffd56afa43e6052ac2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sundried-tomato-mushroom-parmesan-spaghetti-4c92b73c.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb8a4dab71aa0a8b4569.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spaghetti",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c69774dab7182428b4568.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be3bcf8b25e165a8b4567.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ac468ac30006c0ef8159bd2-62f5390a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Light Thickened Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "thickened-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5db7841df3a44c6ea1758b47-1650ad62.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baad5c6ae08b53fa4663602-34f15c81.png"
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "basil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556860784dab71af1d8b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Bring a medium saucepan of salted water to the boil. Halve the cherry tomatoes. In a medium bowl, combine the balsamic vinegar, brown sugar and cherry tomatoes. Transfer the cherry tomatoes to an oven tray lined with baking paper and roast until caramelised, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-067608f5.jpg"
+    },
+    {
+      "text": "• While the cherry tomatoes are roasting, add the spaghetti to the saucepan of boiling water and cook until 'al dente', 8 minutes. Reserve some pasta water (1/2 cup for 2 people / 1 cup for 4 people). Drain the pasta and return to the pan.\n• TIP: 'Al dente' means the pasta is cooked through but still has a bit of firmness in the middle.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-4b7aa4cd.jpg"
+    },
+    {
+      "text": "• While the pasta is cooking, finely chop the garlic (or use a garlic press). In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Add the panko breadcrumbs (see ingredients list) and cook, tossing, until toasted, 2-3 minutes. Add 1/3 of the garlic and cook until fragrant, 1 minute. Transfer to a small bowl and season with salt.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-52917d60.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium-high heat with a drizzle of olive oil. Add the sliced mushrooms and butter and cook until browned, 4-5 minutes. Add the garlic & herb seasoning and the remaining garlic and cook until fragrant, 1 minute. Add the light thickened cream, some reserved pasta water (1/4 cup for 2 people / 1/2 cup for 4 people), the crumbled vegetable stock (1 cube for 2 people / 2 cubes for 4 people) and the grated Parmesan cheese. Stir to combine, then simmer until reduced slightly, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-818757ce.jpg"
+    },
+    {
+      "text": "• While the sauce is cooking, pick and thinly slice the basil leaves. When the sauce is done, add the roasted cherry tomatoes, the spaghetti and an extra splash of reserved pasta water and toss to coat. Add the baby spinach leaves and stir through until just wilted. Season with a generous pinch of pepper.\n• TIP: Seasoning is key in this dish, so taste and add some more salt or pepper if you like!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-07b47b92.jpg"
+    },
+    {
+      "text": "• Divide the creamy mushroom and tomato spaghetti between bowls. Top with the garlic pangrattato and basil.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-69db2da9.jpg"
+    }
+  ]
+}

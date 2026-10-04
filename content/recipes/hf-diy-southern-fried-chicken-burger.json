@@ -1,0 +1,140 @@
+{
+  "slug": "hf-diy-southern-fried-chicken-burger",
+  "kind": "meal",
+  "title": "DIY Southern Fried Chicken Burger",
+  "subtitle": "Take your cooking skills to the next level!",
+  "description": "Here to challenge your inner chef, our new 'skill up' recipes will take you from zero to hero. Make your own buttermilk by mixing milk and vinegar, marinate the chicken and coat it in All-American spiced cornflour. you'll have brought the South to you. Cheat's way is the best way!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/diy-southern-fried-chicken-burger-67bd259b29e0dfdacc797f74",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67bd259b29e0dfdacc797f74-7b738518-7c364775.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "north america",
+    "around the world",
+    "dinners"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fca2ffa3ffaf7fe874d029-59cf431d.png"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cornflour",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fcc2f2fe44baceeadf7580-105d4d61.png"
+    },
+    {
+      "name": "Chicken Salt",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chicken-salt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/639067356e2cc248f8072292-1c3a010d.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349d-a27df8b5.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Mustard Mayo",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fcc2f2fe44baceeadf757f-a79209f1.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805b33a6ad8f0f05b84-d621b5cf.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6b635bf0b638cfb8bc-4741fed5.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd89635bf0b638cfb8ed-3c30529b.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a5-f4dfe0a3.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Place chicken thigh between two sheets of baking paper. Pound chicken with a meat mallet or rolling pin until they are an even thickness, about 1cm. <br>• In a large bowl, combine the milk, white wine vinegar (for the chicken) and a pinch of salt and pepper. Add chicken, turning to coat.<br>• Refrigerate for 30 minutes to 1 hour.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e21136f8f6928425d5c292/step-40b37c00.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, preheat oven to 240°C/220°C fan-forced. Cut sweet potato into wedges.<br>• When chicken has 25 minutes left marinating, place wedges on a lined oven tray. Drizzle with olive oil and toss to coat. <br>• Bake until tender, 20-25 minutes.<br><br>TIP: If your oven tray is crowded, divide the wedges between two trays.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e21136f8f6928425d5c292/step-59456510.jpeg"
+    },
+    {
+      "text": "• <p>• While wedges are baking, slice cucumber into thin rounds.<br>• In a medium bowl, combine the white wine vinegar (for the pickle) and a good pinch of sugar and salt. <br>• Add cucumber to pickling liquid. Add enough water to just cover cucumber. Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e21136f8f6928425d5c292/step-249ba420.jpeg"
+    },
+    {
+      "text": "• <p>• Heat a large frying pan over medium-high heat with enough olive oil to coat the base. <br>• Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side.<br>• Transfer to a paper towel-lined plate and season with a pinch of All-American spice blend.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e21136f8f6928425d5c292/step-52775f30.jpeg"
+    },
+    {
+      "text": "• <p>• While chicken is cooking, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.<br>• In a second medium bowl, combine shredded cabbage mix and mustard mayo. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e21136f8f6928425d5c292/step-1c88bb40.jpeg"
+    },
+    {
+      "text": "• <p>• To tray with wedges, sprinkle over chicken salt and toss to coat.<br>• Drain pickled cucumber.<br>• Top burger buns with mustard mayo slaw, fried chick&#39;n and some pickled cucumber.<br>• Serve with wedges and remaining cucumber. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e21136f8f6928425d5c292/step-4fc0d350.jpeg"
+    }
+  ]
+}

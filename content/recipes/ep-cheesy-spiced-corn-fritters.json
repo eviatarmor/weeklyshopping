@@ -1,0 +1,142 @@
+{
+  "slug": "ep-cheesy-spiced-corn-fritters",
+  "kind": "meal",
+  "title": "Cheesy Spiced Corn Fritters",
+  "subtitle": "with Roast Potatoes & Salad",
+  "description": "Corn fritters get a boost with mild curry spices and a fresh salad on the side! Fried golden brown and oh-so-delicious, these sweet and savoury morsels bring loads of flavour and fun to the table.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/cheesy-spiced-corn-fritters-6346add2c57302a3790b989f",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-spiced-corn-fritters-bb475253.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "indian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fe44ecbf90d9f52861a-a7aba26d.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Curry Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "curry-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eea0d1b30539e48127973cb-b049e7e0.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56ba8a31fd2cb99b0a8b4567.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ece0ab8e7df57622d198ca8-81a905dc.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut potato into bite-sized chunks and place on the lined oven tray. Season with salt and drizzle with olive oil.\n• Toss to coat and roast until tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6456f4dc26ba391f290f598e/step-f152a501.jpg"
+    },
+    {
+      "text": "• Meanwhile, drain corn. Grate carrot. Using paper towel, squeeze out any moisture from the carrot.\n• In a medium bowl, combine corn, carrot, curry spice blend, veggie stock powder, shredded Cheddar, the plain flour, egg, the milk and a good pinch of salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6456f4dc26ba391f290f598e/step-ff94507f.jpg"
+    },
+    {
+      "text": "• Heat a large frying pan over medium-high heat and add enough olive oil to coat the base.\n• When oil is hot, cook heaped spoonfuls of fritter mixture, flattening with a spatula, until golden, 2-4 mins each side (don't flip too early!). Transfer to a paper towel-lined plate.\n• Repeat with remaining fritter mixture. You should get 3-4 fritters per person.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6456f4dc26ba391f290f598e/step-ba347125.jpg"
+    },
+    {
+      "text": "• Roughly chop tomato. In a medium bowl, combine tomato, salad leaves, and a drizzle of olive oil and white wine vinegar. Season.\n• Divide fritters, potatoes and salad between plates. Serve with sweet chilli sauce and the mayonnaise.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6456f4dc26ba391f290f598e/step-632928d5.jpg"
+    }
+  ]
+}

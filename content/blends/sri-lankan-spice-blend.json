@@ -1,0 +1,81 @@
+{
+  "slug": "sri-lankan-spice-blend",
+  "kind": "blend",
+  "title": "Sri Lankan Spice Blend",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (warm curry-style blend with cinnamon and clove). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Coriander",
+      "qty": 0.75,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Ground Fennel",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-fennel"
+    },
+    {
+      "name": "Ground Cardamom",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cardamom"
+    },
+    {
+      "name": "Ground Cloves",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cloves"
+    },
+    {
+      "name": "Ground Fenugreek",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-fenugreek"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

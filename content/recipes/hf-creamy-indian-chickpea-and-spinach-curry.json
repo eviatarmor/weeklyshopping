@@ -1,0 +1,177 @@
+{
+  "slug": "hf-creamy-indian-chickpea-and-spinach-curry",
+  "kind": "meal",
+  "title": "Creamy Indian Chickpea & Spinach Curry",
+  "subtitle": "with Almond Rice, Tamarind Chutney & Garlic Tortillas",
+  "description": "This golden bowl of goodness has everything you need to feel cosy and satisfied, with chickpeas and veggies cooked in a creamy, mildly spiced sauce plus a cooling yoghurt to finish it off.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-indian-chickpea-and-spinach-curry-67f84ed70d0527cba53acdfe",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W46_AU_R11150-5_Mainhigh-3103b4db.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "classic",
+    "south/southeastasian",
+    "noodle-stir-fry"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Mild Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723795b33a6ad8f0f05990-f295acd2.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c67-51fe1580.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3947-37d298e9.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Tamarind Chutney",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tamarind-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/634c948e13532a61e80a77fc-77e228c6.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237193405d840b2be3660-48f13097.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde02793e8cdd8467eb4-6be7900f.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fef0b074fbaa381a1e1dd6-32690361.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• In a medium saucepan, heat half the butter with a <br>dash of olive oil over medium heat.<br>• Add basmati rice, the water (for the rice) and a <br>generous pinch of salt. Stir, then bring to the boil.<br>• Reduce heat to low and cover with a lid.<br>• Cook for 10 minutes, then remove from heat <br>and keep covered until rice is tender and water is <br>absorbed, 10 minutes. <br>TIP: The rice will finish cooking in its own steam, so <br>don’t peek! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68a3c98cda1c2cdbdf514d6a/step-02234800.jpeg"
+    },
+    {
+      "text": "• <p>• When the rice has 10 minutes remaining, roughly <br>chop tomato.<br>• Drain chickpeas. <br>• Finely chop garlic.<br>• In a small microwave-safe bowl, combine half the <br>garlic and a drizzle of olive oil.<br>• Microwave in 10 second bursts until fragrant. <br>Season to taste with salt and pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68a3c98cda1c2cdbdf514d6a/step-21855110.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over <br>medium-high heat. Add tomato and chickpeas and <br>cook, until softened, 2-3 minutes.<br>• Add tomato paste, mild curry paste, Mumbai spice <br>blend and the remaining garlic and butter and cook <br>stirring, until softened and fragrant, 1-2 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68a3c98cda1c2cdbdf514d6a/step-4f7ed620.jpg"
+    },
+    {
+      "text": "• <p>• Reduce heat to medium, then stir in light cooking <br>cream, the water (for the curry) and brown sugar<br>and cook until combined and slightly reduced, <br>2-3 minutes.<br>• Add baby spinach leaves and cook, stirring, until <br>slightly wilted, 1 minute. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68a3c98cda1c2cdbdf514d6a/step-f4bfe130.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, preheat grill to high. Brush garlic oil<br>over one side of mini flourtortillas.<br>• Place tortillas on a lined oven tray and bake until <br>golden, 3-5 minutes. <br>TIP: Spread tortillas across two trays if it is getting <br>crowded! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68a3c98cda1c2cdbdf514d6a/step-7d5b7c40.jpg"
+    },
+    {
+      "text": "• <p>• Add flaked almonds to the rice, stir to combine.<br>• Divide almond rice between bowls.<br>• Spoon over creamy Indian chickpea and spinach <br>curry. Top with Greek-style yoghurt and tamarind<br>chutney. Serve with garlic tortillas. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68a3c98cda1c2cdbdf514d6a/step-3c1d1250.jpg"
+    }
+  ]
+}

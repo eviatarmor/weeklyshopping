@@ -1,0 +1,88 @@
+{
+  "slug": "ml-oatmeal-banana-pancakes-fresh-fruit",
+  "kind": "meal",
+  "title": "Oatmeal Banana Pancakes with Fresh Fruit",
+  "sourceUrl": "https://www.mealime.com/recipes/oatmeal-banana-pancakes-fresh-fruit/7400",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/851/presentation_394b51d1-cb88-49f2-9b04-7a4c69eb40a5.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 4,
+      "product": "banana"
+    },
+    {
+      "name": "Blueberries",
+      "qty": 85,
+      "unit": "g",
+      "product": "blueberries"
+    },
+    {
+      "name": "Kiwifruit",
+      "qty": 2,
+      "product": "kiwi-fruit"
+    },
+    {
+      "name": "Strawberries",
+      "qty": 455,
+      "unit": "g",
+      "product": "strawberries"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 235,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Butter (unsalted)",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash and dry the fresh produce."
+    },
+    {
+      "text": "Preheat a large skillet over medium heat."
+    },
+    {
+      "text": "Add the bananas, oats, milk, and cinnamon to the blender. Purée for 30 seconds, until smooth."
+    },
+    {
+      "text": "Once the skillet is hot, add butter and swirl to coat the bottom."
+    },
+    {
+      "text": "Using a ¼-cup measure, pour the batter into the skillet. Cook for 1-2 minutes on each side, until browned. Work in batches if necessary."
+    },
+    {
+      "text": "Slice the strawberries in half. Peel and slice the kiwis."
+    },
+    {
+      "text": "Divide the pancakes, strawberries, kiwis, and blueberries between plates. Top with maple syrup and enjoy!"
+    }
+  ]
+}

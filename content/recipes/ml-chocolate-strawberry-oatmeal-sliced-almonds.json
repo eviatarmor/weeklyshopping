@@ -1,0 +1,69 @@
+{
+  "slug": "ml-chocolate-strawberry-oatmeal-sliced-almonds",
+  "kind": "meal",
+  "title": "Chocolate-Strawberry Oatmeal with Sliced Almonds",
+  "sourceUrl": "https://www.mealime.com/recipes/chocolate-strawberry-oatmeal-sliced-almonds/10035",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1169/presentation_8fe04f64-673d-4261-a27a-cc0d440a7092.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Almonds (sliced)",
+      "qty": 1,
+      "unit": "cup",
+      "product": "almonds"
+    },
+    {
+      "name": "Strawberries",
+      "qty": 225,
+      "unit": "g",
+      "product": "strawberries"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 475,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Cocoa Powder",
+      "product": "cocoa-powder",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place salt and water in a medium saucepan, cover, and bring to a boil over high heat."
+    },
+    {
+      "text": "Once boiling, add oats, cocoa powder, and maple syrup; whisk to combine. Cover and let simmer, on low, 3-5 minutes, or until oats reach desired consistency."
+    },
+    {
+      "text": "Meanwhile, wash, trim, and thinly slice strawberries."
+    },
+    {
+      "text": "To serve, divide oats between bowls and top with strawberries, almonds, and milk. Enjoy!"
+    }
+  ]
+}

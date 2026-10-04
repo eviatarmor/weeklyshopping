@@ -1,0 +1,134 @@
+{
+  "slug": "hf-baked-aussie-cauliflower",
+  "kind": "meal",
+  "title": "Baked Aussie Cauliflower",
+  "subtitle": "with Roast Veggie Toss & Dill & Parsley Dressing",
+  "description": "Get ready to perform some kitchen magic, because this low-carb dish of nuts, fetta and root veggies is everything you\nnever knew you needed!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/baked-aussie-cauliflower-6029e02be4d05f701711ee69",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/low-carb-baked-aussie-cauliflower-bc1cd6c7.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "under 30g carbs",
+    "naturally gf",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Aussie Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "aussie-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d63938c053f38000e7da05c-58b68ca4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Cut\n• the carrot (unpeeled) into 2cm chunks. Cut the\n• beetroot (unpeeled) into 1cm chunks. Cut the\n• zucchini into 1cm rounds. Cut the red onion into\n• 2cm wedges. Cut the cauliflower into medium\n• florets. In a large bowl, combine the Aussie spice\n• blend, a splash of water, a generous drizzle of\n• olive oil and a pinch of salt. Add the cauliflower\n• and toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029e02be4d05f701711ee69/step-e1ba79f7.jpg"
+    },
+    {
+      "text": "• Place the carrot, beetroot, zucchini and onion\n• on an oven tray lined with baking paper. Sprinkle\n• over the garlic & herb seasoning, drizzle with\n• olive oil and season with salt. Toss to coat. Place\n• the cauliflower on a second oven tray lined with\n• baking paper. Pour over any remaining spice\n• mixture from the bowl. Roast both trays until\n• tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029e02be4d05f701711ee69/step-535f25f4.jpg"
+    },
+    {
+      "text": "• While the veggies are cooking, heat a medium\n• frying pan over a medium-high heat. Add the\n• flaked almonds and toast, tossing, until golden,\n• 2-3 minutes. Transfer to a small bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029e02be4d05f701711ee69/step-2967e629.jpg"
+    },
+    {
+      "text": "• In a small bowl, combine the dill & parsley\n• mayonnaise with a splash of water. Season\n• to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029e02be4d05f701711ee69/step-8cc6ccb4.jpg"
+    },
+    {
+      "text": "• In a large bowl, combine the baby spinach leaves,\n• fetta cubes, cooked carrot, beetroot, zucchini\n• and onion. Add a small drizzle of white wine\n• vinegar and olive oil. Toss to combine. Season\n• to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029e02be4d05f701711ee69/step-b8c6cbb4.jpg"
+    },
+    {
+      "text": "• Divide the roast veggie toss and cauliflower\n• between plates. Sprinkle over the toasted\n• almonds. Drizzle the dill and parsley dressing\n• to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6029e02be4d05f701711ee69/step-3afc7a99.jpg"
+    }
+  ]
+}

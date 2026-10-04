@@ -1,0 +1,155 @@
+{
+  "slug": "ep-southern-lentil-veggie-loaded-nachos",
+  "kind": "meal",
+  "title": "Southern Lentil Veggie Loaded Nachos",
+  "subtitle": "with Zingy Tomato & Sour Cream",
+  "description": "Looking for a meal-free masterpiece to spice up your week? Scoop up tender, smokey lentils on crisp tortillas chips for our take on meat-free nachos. Don’t forget a dollop of sour cream to really make the flavours shine!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/smokey-lentil-veggie-loaded-nachos-67f837760d0527cba53a6084",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y26_R4010_W12_AU_EP19336-17_Main_edit_high-72c2da71.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "everyplate",
+    "american",
+    "quick",
+    "vegetarian",
+    "pies-fries-beyond",
+    "world-flavors"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fc24ecbf90d9f528576-5a36bd7b.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c68-7ea9b6d2.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bda-5fe23cf6.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b4960-b67728c7.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349c-6e8f9036.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05782-34c9f102.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0d-9e84e0fa.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf426-58b03ce0.png"
+    },
+    {
+      "name": "BBQ Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de772793e8cdd8467fb4-33abd139.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. Finely chop tomato and garlic.<br>• Roughly chop brown onion. Drain and rinse lentils.<br>• In a small bowl, combine tomato and a drizzle of white wine vinegar and olive oil. Season with salt and pepper to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69b0fde4e5990988b41a3024/step-86a28200.jpeg"
+    },
+    {
+      "text": "• <p>• In a small microwave-safe bowl, microwave garlic and 1/2 the butter in 10 second bursts until melted.<br>• Slice mini flour tortillas into wedges and place on the lined oven tray.<br>• Brush with garlic butter, then season. Toss to coat.<br>• Bake until lightly golden, 8-10 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69b0fde4e5990988b41a3024/step-091adc10.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, heat a drizzle of olive oil in a large frying pan over medium-high heat. Cook onion until just softened, 2-3 mins. Add lentils and cook, stirring, until softened, 3-4 mins.<br>• Stir in All-American spice blend and tomato paste and cook until fragrant, 1 min.<br>• Stir in the water, BBQ sauce, stock powder and remaining butter, then simmer until wilted, 2-3 mins. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69b0fde4e5990988b41a3024/step-5e34fe20.jpg"
+    },
+    {
+      "text": "• <p>• Divide tortilla chips between plates.<br>• Top with lentil mixture and sour cream. Spoon over zingy tomato and sprinkle with Cheddar cheese.<br>• Tear over coriander to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69b0fde4e5990988b41a3024/step-0453c130.jpg"
+    }
+  ]
+}

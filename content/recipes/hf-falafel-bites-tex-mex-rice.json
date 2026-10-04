@@ -1,0 +1,164 @@
+{
+  "slug": "hf-falafel-bites-tex-mex-rice",
+  "kind": "meal",
+  "title": "Spiced Mexican Rice & Spinach Falafel",
+  "subtitle": "with Charred Corn Salsa & Chipotle Sour Cream",
+  "description": "Imagine a bed of rice infused with the Mexican flavours you love, then topped with spinach falafel and a refreshing corn, cucumber and tomato salsa. Now stop imagining, because here it is!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-bites-tex-mex-rice-5fdffeb839a18b1057141a9c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-bites-tex-mex-rice-53609e72.jpg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a2e1d052c3e0861f6785ef2-c6096b9e.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 0.5,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 1,
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f5f0fd2cb9ce038b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8deae08b530b326ef12-2fea204a.png"
+    },
+    {
+      "name": "Mild Chipotle Sauce",
+      "qty": 1,
+      "product": "chipotle-in-adobo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bab011a30006c450926c7e2-8cc5cbe5.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop the brown onion and garlic. In a\n• medium saucepan, melt the butter with a dash of\n• olive oil over a medium heat. Add the onion and\n• garlic and cook, stirring, until softened,\n• 3-4 minutes. Add the Tex-Mex spice blend,\n• tomato paste (see ingredients) and vegetable\n• stock (1 cube for 2 people / 2 cubes for 4 people).\n• Stir to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdffeb839a18b1057141a9c/step-a6fcef63.jpg"
+    },
+    {
+      "text": "• Add the basmati rice and water (for the rice) to the saucepan and stir to combine. Bring to the boil, then reduce the heat to low and cover with a lid. Cook for 12 minutes, then remove from the heat and keep covered until the rice is tender and the water is absorbed, 15 minutes.\n• TIP: The rice will finish cooking in its own steam so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdffeb839a18b1057141a9c/step-85fe45d5.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, drain the sweetcorn. Finely chop the cucumber and tomato. Zest the lime to get a generous pinch, then cut into wedges. Heat a large frying pan over a high-heat. Cook the corn kernels until lightly charred, 4-5 minutes. Transfer to a medium bowl.\n• TIP: Cover the pan with a lid if the corn kernels are “popping” out.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdffeb839a18b1057141a9c/step-dc09e7a1.jpg"
+    },
+    {
+      "text": "• Add the cucumber, tomato and a drizzle of olive oil to the corn. Season with salt and pepper and toss to combine. In a small bowl, combine the sour cream, a squeeze of lime juice, lime zest, the water (for the sauce) and mild chipotle sauce.\n• TIP: If you're not keen on spice, don't add all the chipotle sauce!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdffeb839a18b1057141a9c/step-a56acf7e.jpg"
+    },
+    {
+      "text": "• Using your hands, break each spinach falafel into quarters (don't worry if they crumble!). Return the frying pan to a medium-high heat with enough olive oil to coat the base. When the oil is hot, cook the falafel, tossing, until deep golden brown,\n• 5-6 minutes. Transfer to a plate lined with paper towel and season with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdffeb839a18b1057141a9c/step-dce4ac27.jpg"
+    },
+    {
+      "text": "• Roughly chop the coriander. Divide the spiced Mexican rice between bowls. Top with the charred corn salsa and spinach falafel. Drizzle over the chipotle sour cream. Garnish with coriander. Serve with any remaining lime wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdffeb839a18b1057141a9c/step-464f3b6a.jpg"
+    }
+  ]
+}

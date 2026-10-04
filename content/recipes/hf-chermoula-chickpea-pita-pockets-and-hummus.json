@@ -1,0 +1,132 @@
+{
+  "slug": "hf-chermoula-chickpea-pita-pockets-and-hummus",
+  "kind": "meal",
+  "title": "Chermoula Chickpea Pita Pockets",
+  "subtitle": "with Hummus, Cucumber Salad & Double Fetta Yoghurt",
+  "description": "These saucy, chermoula-spiced chickpeas meet hummus and fetta yoghurt in the pita of a lifetime. Stuff the combo into pillowy pockets and you’ll be coming back for seconds (and thirds).",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-chickpea-pita-pockets-and-hummus-67e2394e7594446a7cdcbcdd",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67bd213d29e0dfdacc797f5d-7571d32b-5ee12eb5.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle eastern",
+    "quick prep",
+    "super quick",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Hummus",
+      "qty": 1,
+      "unit": "packet",
+      "product": "hummus",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723767105c9621030b4b5b-52a2c746.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Pita Bread",
+      "qty": 2,
+      "product": "pita-bread",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f829500d0527cba53a497b-b4a782b8.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 2,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237193405d840b2be3660-48f13097.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Slice cucumber into half-moons. Roughly chop capsicum.<br>• Drain and rinse chickpeas.<br>• To a small bowl, add Greek-style yoghurt and fetta cubes and mash to combine. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2394e7594446a7cdcbcdd/step-8a2ebe00.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat.<br>• Cook capsicum and chickpeas, until tender, 4-5 minutes.<br>• Reduce pan to medium heat, add chermoula spice blend and tomato paste, then cook until fragrant, 1-2 minutes.<br>• Remove pan from heat, add the water and stir to combine. Lightly mash chickpeas with a potato masher or fork (add a splash of water if the mixture looks too thick). Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2394e7594446a7cdcbcdd/step-60ab8410.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, toast or grill pita bread to your liking.<br>• In a large bowl, combine cucumber, mixed salad leaves and a drizzle of white wine vinegar and olive oil. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2394e7594446a7cdcbcdd/step-125e6120.jpg"
+    },
+    {
+      "text": "• <p>• Halve pita bread and fill with hummus, chermoula chickpeas and fetta yoghurt.<br>• Divide between plates with cucumber salad to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2394e7594446a7cdcbcdd/step-c586ac30.jpg"
+    }
+  ]
+}

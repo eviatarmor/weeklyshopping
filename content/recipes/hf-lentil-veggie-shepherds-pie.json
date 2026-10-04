@@ -1,0 +1,165 @@
+{
+  "slug": "hf-lentil-veggie-shepherds-pie",
+  "kind": "meal",
+  "title": "Lentil & Veggie Shepherd's Pie",
+  "subtitle": "with Cheesy Potato Topping",
+  "description": "A vegetarian dinner that’s comfort food at its best? Sign us up! A herby tomato and lentil filling gets a golden potato topping and plenty of melted, oozy cheese for a hearty bake that will warm you up from the inside-out.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/lentil-veggie-shepherds-pie-62956b1a1e7dd423d20f4424",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a0a339f5168ff18eaf9f0d-294a257a.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fae01355a2ab9306616d5b0-a7aba26d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "unit": "packet",
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553faaafd2cb9da068b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Kale",
+      "qty": 1,
+      "unit": "packet",
+      "product": "kale",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55593e10fd2cb9641f8b4569-3be1b03b.png"
+    },
+    {
+      "name": "Rosemary",
+      "qty": 2,
+      "unit": "sprig",
+      "product": "rosemary",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554295ffd2cb9da068b456a.png"
+    },
+    {
+      "name": "Thyme",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "thyme",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb94fd2cb9eb648b456b.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6052bd0d88686f4de443784a-92e7b6fd.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b2c4dab71d8588b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Bring a large saucepan of salted water to the boil.\n• Peel potato and cut into large chunks.\n• Cook potato in the boiling water until easily pierced with a knife, 12-15 minutes.\n• Drain potato, then return to pan. Add the butter and milk, then season generously with salt. Mash until smooth. TIP: Save time and get more fibre by leaving the potato unpeeled!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-a2873c12.jpeg"
+    },
+    {
+      "text": "• While the potato is cooking, finely chop brown onion and celery.\n• Grate carrot.\n• Finely chop garlic.\n• Tear kale leaves from the stem, then roughly chop the leaves.\n• Pick and finely chop rosemary leaves (run your fingers down the stalk to remove the leaves easily).\n• Pick thyme leaves (see ingredients).\n• Drain and rinse lentils.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-727cc5a7.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook onion, celery and carrot, stirring, until softened, 5-6 minutes.\n• Add garlic, rosemary, thyme, tomato paste and another drizzle of olive oil. Cook until fragrant, 2-3 minutes. TIP: Feel free to use less rosemary if you find it has a strong flavour.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-c35943af.jpeg"
+    },
+    {
+      "text": "• Stir through lentils, diced tomatoes with garlic & onion, the brown sugar, salt and a splash of water. Simmer until mixture is slightly reduced, 5-7 minutes.\n• Stir through kale until softened, 1-2 minutes. • Season with pepper to taste. TIP: Add another splash of water to loosen the filling, if needed.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-ea2b5f01.jpeg"
+    },
+    {
+      "text": "• Preheat grill to high.\n• Transfer lentil filling to a baking dish. Top with potato mash, spreading it out evenly.\n• Sprinkle with Cheddar cheese.\n• Grill pie, until cheese is melted, 8-10 minutes. TIP: Grills cook fast, so keep an eye on the pie!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-ab8ad75b.jpeg"
+    },
+    {
+      "text": "• Divide lentil and veggie shepherd's pie between plates to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-49342516.jpeg"
+    }
+  ]
+}

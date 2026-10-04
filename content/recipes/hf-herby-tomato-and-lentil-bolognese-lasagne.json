@@ -1,0 +1,159 @@
+{
+  "slug": "hf-herby-tomato-and-lentil-bolognese-lasagne",
+  "kind": "meal",
+  "title": "Herby Tomato & Lentil Bolognese Lasagne",
+  "subtitle": "with Homemade Béchamel Sauce",
+  "description": "The rulebook has been thrown out the window with this one. We've swapped out mince for lentils to make the base of this herby tomato lasagne and topped it with a homemade béchamel sauce. You've heard it here first, it is so good, that we might just throw the rulebook out more often.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/herby-tomato-and-lentil-bolognese-lasagne-67f866da0d0527cba53b61f0",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/676a0f23555c15a993e51c85-f71cd602-2f587d6a.jpeg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "classic",
+    "mediterranean",
+    "cuisine-spotlight"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237333405d840b2be36e0-7bc937a9.png"
+    },
+    {
+      "name": "Lasagne Sheets",
+      "qty": 1,
+      "unit": "packet",
+      "product": "lasagne-sheets",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833d1cade9b9f0acdb52a-f37a0890.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bdb-57a7fc12.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Tomato & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tomato-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/66722505967e04d996337615-b3369170.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0b2793e8cdd8467f04-c57f8585.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a5-f4dfe0a3.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6b635bf0b638cfb8bc-4741fed5.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd5b9690d86caac92524-5fbcb5a8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced.<br>• Grate carrot.<br>• Drain and rinse lentils. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9f9fc80ad488c9bcf49b/step-9855b700.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over <br>medium-high heat. Cook carrot, stirring, until <br>tender, 2-3 minutes.<br>• Add lentils and tomato &amp; herb seasoning and <br>cook, stirring until fragrant, 1 minute. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9f9fc80ad488c9bcf49b/step-aef2f110.jpg"
+    },
+    {
+      "text": "• <p>• To the pan, add diced tomatoes with garlic &amp; <br>onion, the brown sugar and water (for the red <br>sauce), stirring occasionally, until thickened,  <br>4-6 minutes.<br>• Stir through baby spinach leaves until wilted,  <br>1 minute. Season to taste with salt and pepper.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9f9fc80ad488c9bcf49b/step-81d71b20.jpg"
+    },
+    {
+      "text": "• <p>• While the lentils are cooking, in a small saucepan, <br>heat the butter over medium heat.<br>• Add the plain flour and cook, stirring until a thick <br>paste forms, 1-2 minutes.<br>• Reduce heat to medium-low, then slowly whisk in <br>the milk and water (for the white sauce) until <br>smooth. Simmer, stirring constantly, until slightly <br>thickened, 1-2 minutes.<br>• Remove from heat, then stir in Parmesan cheese. <br>Season to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9f9fc80ad488c9bcf49b/step-31e45230.jpg"
+    },
+    {
+      "text": "• <p>• Spoon roughly 1/4 of the lentil filling into a baking <br>dish, then top with a lasagne sheet. Repeat with <br>remaining filling and lasagne sheets.<br>• Finish with a final lasagne sheet, then pour over the <br>white sauce. <br>• Sprinkle with Cheddar cheese.<br>• Bake lasagne, until golden, 20-25 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9f9fc80ad488c9bcf49b/step-2a5d2f40.jpeg"
+    },
+    {
+      "text": "• <p>• Divide herby tomato and lentil bolognese lasagne <br>between bowls to serve. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9f9fc80ad488c9bcf49b/step-2db56550.jpg"
+    }
+  ]
+}

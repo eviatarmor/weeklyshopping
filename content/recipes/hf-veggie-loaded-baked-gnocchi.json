@@ -1,0 +1,173 @@
+{
+  "slug": "hf-veggie-loaded-baked-gnocchi",
+  "kind": "meal",
+  "title": "Veggie-Loaded Grilled Gnocchi",
+  "subtitle": "with Pear & Rocket Salad",
+  "description": "When potato gnocchi is smothered in cheese, then grilled until deliciously golden and oozy, the result is a mouth watering dish\nthat’s totally addictive.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-loaded-baked-gnocchi-60c8649d59910678232b6112",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5c47bfc9c445fa19580de9f3-44c68a00.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Sage",
+      "qty": 1,
+      "unit": "bag",
+      "product": "sage",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be46cfd2cb9e7648b4567.png"
+    },
+    {
+      "name": "Italian Herbs",
+      "qty": 0.5,
+      "unit": "sachet",
+      "product": "italian-herbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/58a0f5d099052d1d9d0be7a4-dc0be0ff.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Gnocchi",
+      "qty": 0.75,
+      "unit": "packet",
+      "product": "gnocchi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682ef6f8b25e643e8b4568.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 1,
+      "unit": "tin",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c2f4dab71fb718b4569.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/560b7cc8fd2cb9a5278b4568.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c9546b867b6e7c4061abd4-47237458.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop the zucchini. Finely chop the garlic.\n• Pick the sage leaves and thinly slice. Place the\n• sage leaves on a small plate and drizzle with a\n• little olive oil.\n• TIP: Drizzling sage with oil helps prevent it from\n• burning.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60c8649d59910678232b6112/step-02c1231b.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over\n• a medium-high heat. Add the zucchini, garlic,\n• Italian herbs, soffritto mix, a pinch of chilli flakes\n• (if using) and the salt. Season with pepper and\n• cook until softened, 6-7 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60c8649d59910678232b6112/step-2048ca1b.jpg"
+    },
+    {
+      "text": "• While the veggies are cooking, heat enough olive\n• oil to coat the base of a separate large frying pan\n• over medium-high heat. When the oil is hot, cook\n• the gnocchi (see ingredients) in a single layer and\n• fry, tossing occasionally, until golden, 6-8 minutes.\n• Add extra olive oil if the gnocchi sticks to the pan.\n• Season with salt and pepper.\n• TIP: Allow the undersides to become golden before\n• tossing! If the gnocchi doesn't fit in a single layer, fry\n• in batches until golden.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60c8649d59910678232b6112/step-b595bf3d.jpg"
+    },
+    {
+      "text": "• Add the tomato paste to the pan with the veggies\n• and cook, stirring, for 1 minute. Add the diced\n• tomatoes, butter, brown sugar, vegetable stock\n• powder and a pinch of pepper. Stir to combine\n• and simmer until fragrant, 5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60c8649d59910678232b6112/step-99857e0a.jpg"
+    },
+    {
+      "text": "• Preheat the grill to medium-high. Spread the\n• gnocchi in a baking dish and top with the sugo.\n• Sprinkle with the shredded Cheddar cheese and\n• sage leaves. Grill until the cheese is melted and\n• golden, 5-10 minutes. While the gnocchi is grilling,\n• thinly slice the pear. In a medium bowl, combine\n• the balsamic vinegar and a drizzle of olive oil. Add\n• the rocket leaves and toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60c8649d59910678232b6112/step-8626ff31.jpg"
+    },
+    {
+      "text": "• Divide the veggie-loaded baked gnocchi with\n• sugo between bowls. Serve with the pear and\n• rocket salad.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60c8649d59910678232b6112/step-59e7c3e4.jpg"
+    }
+  ]
+}

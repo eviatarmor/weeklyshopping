@@ -1,0 +1,149 @@
+{
+  "slug": "hf-moroccan-spiced-haloumi-and-veggie-couscous",
+  "kind": "meal",
+  "title": "Moroccan Spiced Haloumi & Veggie Couscous",
+  "subtitle": "with Roast Veg, Yoghurt Dressing & Mint",
+  "description": "Bursting with paprika, cumin and turmeric, our chermoula spice blend makes the perfect coating for squeaky, salty haloumi -\nwhich works a treat with the naturally sweet roasted veg and zesty couscous. Bring everything together with a tangy and creamy\nyoghurt dressing and sprinkle of fresh mint for an extra burst of colour and flavour.\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/moroccan-spiced-haloumi-and-veggie-couscous-61e7668a8cbe7f2d7f36dd96",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/zaatar-haloumi-couscous-7a243985.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea59c29e4275caa2553d8-ce6dd9db.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced. Cut\n• the red onion into thick wedges. Cut the beetroot\n• into small chunks. Cut the carrot into thin sticks.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e7668a8cbe7f2d7f36dd96/step-60a939f8.jpg"
+    },
+    {
+      "text": "• Place the prepped veggies on a lined oven tray.\n• Drizzle with olive oil, season with salt and pepper\n• and toss to coat. Roast until tender,\n• 25-30 minutes\n• TIP: If your oven tray is getting crowded, divide the\n• veggies between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e7668a8cbe7f2d7f36dd96/step-cadd65c5.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, combine the\n• water and vegetable stock powder in a medium\n• saucepan. Bring to the boil, then add the couscous.\n• Stir to combine. Cover with a lid and remove from\n• heat. Set aside until all the water has absorbed,\n• 5 minutes. Fluff up with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e7668a8cbe7f2d7f36dd96/step-73c47b94.jpg"
+    },
+    {
+      "text": "• While the couscous is cooking, cut the haloumi\n• into 1cm-thick slices. Place the chermoula spice\n• blend on a plate. Drizzle the haloumi with olive\n• oil, then press into the spice mixture to coat all\n• over. In a large frying pan, heat a drizzle of olive oil\n• over a medium-high heat. Cook the haloumi until\n• golden brown, 2 minutes on each side.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e7668a8cbe7f2d7f36dd96/step-a60fa467.jpg"
+    },
+    {
+      "text": "• Halve the cherry tomatoes. Roughly chop the\n• parsley. Zest the lemon to get a pinch, then cut\n• into wedges. To the saucepan with the couscous,\n• add the tomatoes, parsley and lemon zest, gently\n• stirring to combine. In a small bowl, combine the\n• Greek-style yoghurt, honey and a good squeeze\n• of lemon juice. Season to taste.\n• TIP: Add more or less lemon juice to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e7668a8cbe7f2d7f36dd96/step-1a15c634.jpg"
+    },
+    {
+      "text": "• Pick and roughly chop the mint leaves. Divide the\n• veggie couscous between bowls. Top with the roast\n• veggies and Moroccan-spiced haloumi. Drizzle with\n• the yoghurt dressing. Garnish with the mint. Serve\n• with any remaining lemon wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e7668a8cbe7f2d7f36dd96/step-61181a13.jpg"
+    }
+  ]
+}

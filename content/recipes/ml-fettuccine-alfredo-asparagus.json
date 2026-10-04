@@ -1,0 +1,110 @@
+{
+  "slug": "ml-fettuccine-alfredo-asparagus",
+  "kind": "meal",
+  "title": "Fettuccine Alfredo with Asparagus",
+  "sourceUrl": "https://www.mealime.com/recipes/fettuccine-alfredo-asparagus/1992",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/224/presentation_efff3669-42b3-4af3-bae9-75eeb7e1b8d8.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "qty": 2,
+      "product": "asparagus"
+    },
+    {
+      "name": "Vegetable Broth",
+      "qty": 235,
+      "unit": "ml",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Fettuccine Pasta",
+      "qty": 340,
+      "unit": "g",
+      "product": "fettuccine"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 55,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 235,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter (unsalted)",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot halfway with water, cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 9-10 minutes."
+    },
+    {
+      "text": "Wash asparagus and snap off woody ends. Cut diagonally into 2 inch pieces. Add to pasta during the last 2-3 minutes of cooking time."
+    },
+    {
+      "text": "Heat a sauté pan over medium heat."
+    },
+    {
+      "text": "Peel and mince garlic."
+    },
+    {
+      "text": "Add butter to pan and swirl to coat. Add garlic and cook until fragrant, 15-30 seconds."
+    },
+    {
+      "text": "Sprinkle flour into pan and whisk until combined with the butter."
+    },
+    {
+      "text": "Add broth and whisk until smooth. Then add milk and stir until sauce is thickened, 4-5 minutes."
+    },
+    {
+      "text": "Finely grate ½ cup of Parmesan."
+    },
+    {
+      "text": "Add Parmesan, salt, and pepper to sauce. Stir until smooth, then reduce heat to low until pasta is ready."
+    },
+    {
+      "text": "Drain pasta and asparagus in a colander, reserving about 1 cup of the pasta water."
+    },
+    {
+      "text": "Add pasta, asparagus, and ½ of the reserved pasta water to sauce. Toss to combine. Add more pasta water to thin out the sauce if desired."
+    },
+    {
+      "text": "Place on a plate, garnish with freshly ground pepper, and enjoy!"
+    }
+  ]
+}

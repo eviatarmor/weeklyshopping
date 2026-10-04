@@ -1,0 +1,82 @@
+{
+  "slug": "hf-turbo-plant-based-mince-rice-bowl",
+  "kind": "meal",
+  "title": "Tex-Mex Plant-Based Mince & Butter Rice",
+  "subtitle": "with Steamed Corn",
+  "description": "Thanks to enchilada laced plant-based mince, you’ll have some fusion flavours in this unrivalled rice bowl that is seriously speedy and super tasty. Hurry, this one won’t last long on the dinner table, so grab yours before it speeds away!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/turbo-plant-based-mince-rice-bowl-67f8443dcade9b9f0ace02e6",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1029_W21_AUS_Main_4_high-f95dfc3c.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "quick",
+    "prepped in 10",
+    "kid friendly",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 2,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723722105c9621030b49de-d90ccc30.png"
+    },
+    {
+      "name": "Enchilada Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "enchilada-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572373e3405d840b2be3715-ed0dfa9e.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 200,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d1b33a6ad8f0f05a86-6acc66e2.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833824264524ca978af82-b1eb7d76.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• To a medium saucepan, add the water and bring to the boil.<br>• Add basmati rice, stir, cover with a lid and reduce heat to low.<br>• Cook for 10 minutes, then remove pan from heat and keep covered until rice is tender and water is absorbed, 10 minutes. </p> <p><br>TIP: The rice will finish cooking in its own steam so don’t peek! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369e07f7d5496ac4a64c36/step-6a018d00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, cut capsicum into bite-sized chunks. Cut corn cobs in half.<br>• Transfer corn cob to a large microwave-safe plate. Cover with a damp paper towel. Microwave corn on high, until tender, 4-5 minutes. Season with saltand pepper. </p> <p><br>Little cooks: Help microwave the corn with oven gloves and under adult supervision. Be careful, the plate can get hot!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369e07f7d5496ac4a64c36/step-82325610.jpg"
+    },
+    {
+      "text": "• <p>• While the corn is steaming, in a large frying pan, heat a drizzle of olive oil over medium-high heat.</p> <p>• Cook veggie mince with capsicum, breaking up with a spoon, until just browned, 4-5 minutes.</p> <p>• Add Tex-Mex spice blend, stirring, until fragrant, 1-2 minutes.</p> <p>• Add enchilada sauce and a splash of water and cook until combined and heated through, 1-2 minutes. Season to taste.</p> <p>TIP: Add a splash more water if the sauce looks dry!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369e07f7d5496ac4a64c36/step-082ebc20.jpg"
+    },
+    {
+      "text": "• <p>• Stir the butter through the rice. Season to taste.</p> <p>• Divide butter rice and cowboy plant-based mince between bowls. Serve with steamed corn. Enjoy!</p> <p>FANCIFY ME: Roughly chop pickled jalapeños. Top plant-based mince with jalapeños and tear over coriander to garnish. Serve with light sour cream.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369e07f7d5496ac4a64c36/step-8a2be330.jpg"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "ep-cheesy-bean-enchiladas",
+  "kind": "meal",
+  "title": "Cheesy Bean Enchiladas",
+  "subtitle": "with Sour Cream & Salad",
+  "description": "Get ready to have your mind blown - this clever quesadilla technique uses the oven to get dinner on the table with minimal fuss! A cheesy Mexican filling and bright corn salsa mean that this meal gets points for style and substance.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/cheesy-bean-enchiladas-60ab8efda421d81ab22145ef",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-bean-veggie-enchiladas-81139800.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "north america"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f844ecbf90d9f528435-34de32d5.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528452-95bf4017.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f814ecbf90d9f528423-35b01b71.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f3-922cde24.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f854ecbf90d9f528437-314cd3f8.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Olive Oil",
+      "qty": 1,
+      "unit": "tin",
+      "product": "olive-oil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9d4ecbf90d9f5284b8-affb680b.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fcb4ecbf90d9f5285a7-908e420f.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fce4ecbf90d9f5285b4-c64c728d.png"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0024ecbf90d9f5286aa-533fc64c.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39ffc4ecbf90d9f528690-a3c17f9b.png"
+    },
+    {
+      "name": "BBQ Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee059901f384b099b170d36-58b68ca4.png"
+    },
+    {
+      "name": "White Wine",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0214ecbf90d9f528730-e93fccf0.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop brown onion.\n• Grate carrot.\n• Drain and rinse black beans.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ab8efda421d81ab22145ef/step-370e1248.jpg"
+    },
+    {
+      "text": "• Heat a drizzle of olive oil in a large frying pan over medium-high heat. Cook onion and carrot, stirring, until softened, 5-6 mins.\n• Add BBQ spice blend, black beans, tomato paste, the water, brown sugar and 1/2 the diced tomatoes and stir to combine. Season with salt. Simmer until thickened slightly, 2-3 mins. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ab8efda421d81ab22145ef/step-685054dd.jpg"
+    },
+    {
+      "text": "• Preheat grill to high.\n• Lay mini flour tortillas on a flat surface. Divide bean mixture between tortillas (about 1/2 cup each). Roll up tightly and place, seam-side down, in a medium baking dish, ensuring they fit snugly.\n• Pour remaining diced tomatoes over rolled tortillas. Sprinkle with cheeseand grill until warmed through and cheese is golden, 6-10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ab8efda421d81ab22145ef/step-12819b3a.jpg"
+    },
+    {
+      "text": "• Chop tomato.\n• In a medium bowl, combine tomato, salad leaves and a light drizzle of vinegar and olive oil. Season to taste and toss to combine.\n• Divide the enchiladas between plates and top with sour cream. Serve with salad.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ab8efda421d81ab22145ef/step-d09ce676.jpg"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "hf-veggie-haloumi-ribollita",
+  "kind": "meal",
+  "title": "Veggie & Haloumi Ribollita",
+  "subtitle": "with Plant-Based Pesto & Garlic Dippers",
+  "description": "This hearty plant-based veggie soup that's hailed from Tuscany is just what the doctor ordered. With tender butter beans, squeaky haloumi and with a finishing of basil pesto and crusty ciabatta, this is the type of recipe that’ll soon become a dinner-time staple.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-haloumi-ribollita-637c59f812c0d87fb40aba5e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-veggie-haloumi-ribollita-81334712.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c9546b867b6e7c4061abd4-47237458.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "box",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6052bd0d88686f4de443784a-92e7b6fd.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6048005c8ee9c4452b01d358-050426b9.png"
+    },
+    {
+      "name": "Plant-Based Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1745073db84bea0bf0e5-146aa252.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Butter Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56d6607af8b25eb76c8b4568.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "unit": "packet",
+      "product": "silverbeet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57d8c603518c8833728b4567-b410e863.png"
+    },
+    {
+      "name": "Italian Herbs",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "italian-herbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/58a0f5d099052d1d9d0be7a4-dc0be0ff.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Slice zucchini into thin rounds. Roughly chop silverbeet. Drain and rinse butter beans.\n• Cut haloumi into 1cm-thick slices. In a medium bowl, add haloumi and cover with water.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c59f812c0d87fb40aba5e/step-3f509ca9.jpg"
+    },
+    {
+      "text": "• Meanwhile, slice mini flour tortillas into strips.\n• In a small bowl, combine 1/2 the garlic paste, olive oil (1/4 cup for 2 people / 1/2 cup for 4 people).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c59f812c0d87fb40aba5e/step-b7813c9a.jpg"
+    },
+    {
+      "text": "• Spread tortilla strips evenly on a lined oven tray (don’t worry if they overlap) and brush or spread with garlic oil. Season. Bake until golden, 10-12 minutes. TIP: If your tray is crowded, toss the tortilla strips halfway through baking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c59f812c0d87fb40aba5e/step-7f4bae17.jpg"
+    },
+    {
+      "text": "• Meanwhile, heat a large saucepan over medium high heat with a drizzle of olive oil. Add haloumi, and cook, until golden brown, 1-2 minutes each side. Transfer to a plate.\n• Cook soffritto mix until softened, 2-3 minutes.\n• Add zucchini and cook until softened, 3-4 minutes. Add garlic & herb spice blend and remaining garlic paste and cook until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c59f812c0d87fb40aba5e/step-66eacbcf.jpg"
+    },
+    {
+      "text": "• Add butter beans, diced tomatoes with garlic & onion, Italian herbs, vegetable stock powder, brown sugar and water.\n• Bring to the boil, then reduce to a simmer until slightly thickened, 3-4 minutes.\n• Add zucchini, silverbeet and the plant-based butter and cook until wilted, 1-2 minutes. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c59f812c0d87fb40aba5e/step-c1c42342.jpg"
+    },
+    {
+      "text": "• Divide roast veggie ribollita between bowls.\n• Spoon over the plant-based basil pesto. Serve with the garlic dippers and haloumi. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c59f812c0d87fb40aba5e/step-fcca471a.jpg"
+    }
+  ]
+}

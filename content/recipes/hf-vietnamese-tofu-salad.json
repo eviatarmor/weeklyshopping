@@ -1,0 +1,138 @@
+{
+  "slug": "hf-vietnamese-tofu-salad",
+  "kind": "meal",
+  "title": "Vietnamese Tofu Salad",
+  "description": "Perhaps you’ve felt it in the air– the chill is gone, the sun is shining, and all this can only mean one thing; Spring is around the corner! To celebrate, tuck into to this sticky, moreish Vietnamese tofu with fresh, crunchy veggies and aromatic herbs. Welcome back, Mr. Sun!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/vietnamese-tofu-salad-55c19d884dab711f0c8b4567",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55c19d884dab711f0c8b4567.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "high fiber",
+    "lactose free",
+    "low sodium",
+    "spicy",
+    "under 30 minutes"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55fb5a1279a23cde148b4567.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 0.5,
+      "unit": "block",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e112ff8b25e1c628b4568.png"
+    },
+    {
+      "name": "Vermicelli Noodles",
+      "qty": 0.333,
+      "unit": "packet",
+      "product": "rice-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d5b864dab71ef488b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55c19833ae9270e9298b4567-f794eab5.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Long Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593b9b4dab71fb718b4568.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Cashew Nuts",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "cashews",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be8e7f8b25e0e5a8b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop the white part of the spring onion, reserving the green part. Place the chopped spring onion, olive oil, brown sugar, soy sauce, lime juice and a generous grind of black pepper in a medium bowl and stir until sugar dissolves. Set aside half of the marinade and add the water (this will become the salad dressing). Add the entire tofu block to the remaining marinade and rub to coat well. Cover with cling wrap and set aside to marinate for at least 20 minutes. Now would be a good time to prep the carrot, cucumber, mint, coriander\n• and long red chilli."
+    },
+    {
+      "text": "• To prepare the ingredients, peel the carrot and cut it into matchsticks, and cut the cucumber into half moons. Finely slice the long red chilli and coarsely chop the cashew nuts. Lastly, pick the mint and coriander leaves."
+    },
+    {
+      "text": "• Meanwhile, place the vermicelli noodles in a large heatproof bowl and cover with boiling water. Sit for 5 minutes to soften. Drain. Using kitchen scissors cut noodles into shorter lengths over the same bowl. Add the carrot, cucumber, mint, coriander and long red chilli. Slice the green part of the reserved spring onion and add to the bowl. Season the salad dressing with salt and pepper and drizzle over the noodles. Toss to coat well."
+    },
+    {
+      "text": "• Heat a medium frying pan over a medium-low heat. Add the tofu (discard any remaining marinade) and cook, turning, for 5 minutes or until caramelised on each side. Cut into 1 cm thick slices.\n• Tip: The marinade will cause the tofu to a burn a little because of the sugar content. It adds to the flavour, but keep an eye on it so that it doesn’t burn too much."
+    },
+    {
+      "text": "• To serve, divide noodle salad between plates. Top with sliced tofu and sprinkle with chopped cashews."
+    }
+  ]
+}

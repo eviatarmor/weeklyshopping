@@ -1,0 +1,164 @@
+{
+  "slug": "hf-cannellini-bean-parsley-and-dukkah-patties",
+  "kind": "meal",
+  "title": "Cannellini Bean, Parsley & Dukkah Patties",
+  "subtitle": "with Roasted Sweet Potato & Fetta Salad",
+  "description": "Here’s a new way to enjoy cannellini beans: combine them with creamy fetta and nutty dukkah, then shape them into patties!\nThe flavour doesn’t stop there – on the side you’ll have a fresh salad with chunks of spiced sweet potato and buttery toasted walnuts.\nA veggie meal with all the good stuff!\nUnfortunately, this week's lentils were in short supply, so we've replaced them with cannellini beans.\nDon't worry, the recipe will be just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cannellini-bean-parsley-and-dukkah-patties-6100e4442a971805ad6b3234",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-dukkah-patties-45c7800a.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "walnuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682d72fd2cb9bf248b4567.png"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5568698f4dab71a91d8b4569.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 2,
+      "unit": "sprig",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/606d14714f75e662fe596b02-03c06826.png"
+    },
+    {
+      "name": "Dukkah",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "dukkah-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d4c4dab7106578b456d.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png"
+    },
+    {
+      "name": "Golden Goddess Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076488201846f6f39708278-d1c2b639.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced.\n• Chop the sweet potato into bite-sized chunks.\n• Cut the beetroot into small chunks. Place on a\n• lined oven tray. Drizzle with olive oil, season\n• with salt and pepper and toss to coat. Roast until\n• tender, 20-25 minutes.\n• TIP: Beetroot stays firm when cooked. It's done\n• when you can pierce it with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6100e4442a971805ad6b3234/step-deaab7bb.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, drain and rinse the\n• cannellini beans. Finely chop the garlic. Roughly\n• chop the parsley. Thinly slice the spring onion.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6100e4442a971805ad6b3234/step-c565c890.jpg"
+    },
+    {
+      "text": "• In a medium bowl, roughly mash the cannellini\n• beans. Add the garlic, parsley, spring onion,\n• dukkah, egg, vegetable stock pot, plain flour\n• and fine breadcrumbs. Crumble in 1/2 the fetta\n• cubes and mix well. Season to taste. Using damp\n• hands, roll the mixture into small balls (three per\n• person). Place on a plate and transfer to the fridge\n• for 5 minutes.\n• TIP: Chilling the mixture helps the patties firm up!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6100e4442a971805ad6b3234/step-c0502fde.jpg"
+    },
+    {
+      "text": "• Heat a large frying pan over a medium-high heat\n• with enough olive oil to coat the base of the pan.\n• When the oil is hot, place a few cannellini balls in\n• the pan and flatten with a spatula until 1cm thick.\n• Cook until golden and cooked through,\n• 3-4 minutes each side. Transfer to a plate lined\n• with paper towel. Repeat with the remaining balls.\n• TIP: Let the patties get firm before trying to flip them\n• and add extra oil if needed to prevent sticking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6100e4442a971805ad6b3234/step-ee4ddd04.jpg"
+    },
+    {
+      "text": "• While the patties are cooking, combine the rocket\n• leaves, roasted veggies and walnuts in a large\n• bowl. Add the golden goddess dressing and toss\n• to coat.\n• TIP: Allow the roasted veggies to cool slightly before\n• adding to the bowl to keep the leaves crisp.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6100e4442a971805ad6b3234/step-ce8b3d95.jpg"
+    },
+    {
+      "text": "• Divide the cannellini bean, parsley and dukkah\n• patties and the roasted sweet potato salad\n• between bowls. Crumble the remaining fetta\n• cubes over the salad. Serve with the dill & parsley\n• mayonnaise.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6100e4442a971805ad6b3234/step-541eb920.jpg"
+    }
+  ]
+}

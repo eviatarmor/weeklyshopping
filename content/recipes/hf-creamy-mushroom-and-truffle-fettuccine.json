@@ -1,0 +1,148 @@
+{
+  "slug": "hf-creamy-mushroom-and-truffle-fettuccine",
+  "kind": "meal",
+  "title": "Italian Mushroom & Truffle Fettuccine",
+  "subtitle": "with Rocket & Pear Salad",
+  "description": "This comforting Italian dish pairs meaty mushrooms and slightly sweet truffle oil with a simple but stellar sauce. The peppery salad leaves and sweet pear are perfect for balancing out the richness of the dish.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-mushroom-and-truffle-fettuccine-67f86a534264524ca979df98",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W22_AUS_Main_6_high-bbb0c979.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "quick",
+    "classic",
+    "climate superstar",
+    "taste of italy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "product": "silverbeet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238033405d840b2be3b0d-33091177.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805105c9621030b4f0e-0bf45141.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237f3105c9621030b4ec0-bdb0fc56.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Truffle Oil",
+      "qty": 1,
+      "unit": "packet",
+      "product": "truffle-oil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723836105c9621030b4fec-d6f87edc.png"
+    },
+    {
+      "name": "Fettuccine",
+      "qty": 1,
+      "unit": "packet",
+      "product": "fettuccine",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237463405d840b2be3746-c4033651.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b7105c9621030b4d32-3ceac5f0.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237bc3405d840b2be39c5-48d979b1.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f10-3317eda7.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dda29690d86caac925ac-6e750a2c.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Bring a medium saucepan of salted water to the boil.<br>• Finely chop garlic. Roughly chop silverbeet. <br>• Thinly slice pear (see ingredients).<br>• Cook fettuccine in the boiling water until ‘al dente’, 11 minutes. Drain, reserving some pasta water (1/2 cup for 2 people / 1 cup for 4 people), then return pasta to the saucepan. <br><br>TIP: ‘Al dente’ pasta is cooked through but still slightly firm in the centre. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f837ba0d0527cba53a6207/step-2858e300.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, heat a large frying pan over high heat with the butter and a drizzle of olive oil. Cook sliced mushrooms, tossing, until browned and softened, 6-8 minutes.<br>• Add garlic and cook until fragrant, 1 minute.<br>• Reduce heat to medium. Stir in light cooking cream and vegetable stock. Simmer until thickened, 1-2 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f837ba0d0527cba53a6207/step-c2450f10.jpg"
+    },
+    {
+      "text": "• <p>• Add silverbeet, cooked fettuccine, half the Parmesan cheese (see ingredients) and half the reserved pasta water to the pan. Toss to combine.<br>• Remove pan from heat. Add a splash more pasta water to loosen the pasta, if needed. Season to taste with salt and pepper.<br>• Just before serving, in a medium bowl, combine the honey and a drizzle of balsamic vinegar and olive oil. Season to taste, then add pear and rocket leaves. Toss to coat. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f837ba0d0527cba53a6207/step-f3378620.jpg"
+    },
+    {
+      "text": "• <p>• Roughly chop parsley.<br>• Divide Italian mushroom fettuccine between bowls. <br>• Drizzle some truffle oil (if using) over the pasta to taste. <br>• Sprinkle parsley and remaining Parmesan over pasta. <br>• Serve pasta with rocket and pear salad. Enjoy!<br><br>TIP: Truffle oil has a strong flavour. Add less, or leave it out, if desired. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f837ba0d0527cba53a6207/step-83311230.jpg"
+    }
+  ]
+}

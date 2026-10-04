@@ -1,0 +1,160 @@
+{
+  "slug": "hf-crispy-asian-tofu-and-veggie-poke-bowl",
+  "kind": "meal",
+  "title": "Crispy Asian Tofu & Veggie Rice Bowl",
+  "subtitle": "with Sesame Dressing & Pickled Cucumber",
+  "description": "We love rice bowls, because they’re so easy to customise with your favourite flavours. This veggie version uses Japanese tofu, Asian greens, carrot and cucumber, with sesame dressing to tie the whole thing together.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/crispy-asian-tofu-and-veggie-poke-bowl-653737546d2a6c1b92ab74fd",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66691fe01da69cc5362c9ad0-ad20874b.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "climate superstar",
+    "couch-meals"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 0.5,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aceaa5830006c19d70ba382-01559f82.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55810642fd2cb90d7a8b4569.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56ce4d68f8b25e99678b4567-56cfcfb3.png"
+    },
+    {
+      "name": "Southeast Asian Spice Blend",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "southeast-asian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d5cc6284da29b00112c6c62-58b68ca4.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56ba8a31fd2cb99b0a8b4567.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238613405d840b2be3d19-be3b4e00.png"
+    },
+    {
+      "name": "Sesame Dressing",
+      "qty": 2,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5db11c36bdaa2069cd690dd1-014522d3.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a828205ae08b5736b5fc6f2-ce735049.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop garlic.\n• In a medium saucepan, melt the butter with a dash of olive oil over medium heat.\n• Cook garlic until fragrant, 1-2 minutes. Add basmati rice, the water and a generous pinch of salt. Stir, then bring to the boil.\n• Reduce heat to low and cover with a lid. Cook for 10 minutes, then remove from heat.\n• Keep covered until rice is tender and water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66691fe01da69cc5362c9ad0-67439e50.jpeg"
+    },
+    {
+      "text": "• While the rice is cooking, thinly slice cucumber (see ingredients) into rounds.\n• In a medium bowl, combine the vinegar and a good pinch of sugar and salt.\n• Add cucumber to pickling liquid. Add enough water to just cover cucumber. Set aside. TIP: Slicing the cucumber very thinly helps it pickle faster!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66691fe01da69cc5362c9ad0-50735bfd.jpeg"
+    },
+    {
+      "text": "• Thinly slice carrot into half-moons.\n• Roughly chop Asian greens.\n• Cut Japanese tofu into 2cm cubes.\n• In a medium bowl, combine tofu, Southeast Asian spice blend (see ingredients) and a drizzle of olive oil.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66691fe01da69cc5362c9ad0-055392ff.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook tofu, tossing, until browned, 3-4 minutes. Transfer to a plate and cover to keep warm.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66691fe01da69cc5362c9ad0-c91a9a88.jpeg"
+    },
+    {
+      "text": "• Return pan to medium-high heat with a drizzle of olive oil.\n• Cook carrot, tossing, until tender, 3 minutes. Add Asian greens and cook until just wilted, 1-2 minutes.\n• Remove pan from heat, then add sweet chilli sauce and the soy sauce, tossing the veggies to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66691fe01da69cc5362c9ad0-3b8496bd.jpeg"
+    },
+    {
+      "text": "• Thinly slice long chilli (if using). Drain pickled cucumber.\n• Divide garlic rice between bowls. Top with veggies and tofu. Drizzle over sesame dressing.\n• Garnish with pickled cucumber, chilli and crispy shallots to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66691fe01da69cc5362c9ad0-eab909b3.jpeg"
+    }
+  ]
+}

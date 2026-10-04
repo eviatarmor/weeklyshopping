@@ -1,0 +1,168 @@
+{
+  "slug": "hf-garlicky-tomato-chickpeas-harissa-rice",
+  "kind": "meal",
+  "title": "Garlicky Tomato Chickpeas & Chermoula Rice",
+  "subtitle": "with Fetta Salad, Garlic Yoghurt & Almonds",
+  "description": "In this vibrant veggie dish, hearty chickpeas and subtly sweet grated carrot soak up the garlic and herb tomato sauce like a treat.\nOur chermoula spice blend gives the rice a gorgeous golden hue, while the garlic yoghurt brings everything together, providing creaminess and tang. Don't forget to crumble the fetta over the salad before serving up (we doubt you will!).",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/garlicky-tomato-chickpeas-harissa-rice-62d6260e82c22052540cddb2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlicky-tomato-chickpeas-harissa-rice-61302932.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "quick",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea59c29e4275caa2553d8-ce6dd9db.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8deae08b530b326ef12-2fea204a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a medium saucepan, heat 1/2 the butter and a dash of olive oil over medium heat.\n• Cook chermoula spice blend until fragrant, 30 seconds. Add basmati rice, the water (for the rice) and vegetable stock pot. Stir to combine, then bring to the boil.\n• Reduce heat to low, then cover with a lid and cook for 10 minutes.\n• Remove from heat and keep covered until rice is tender and water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62d6260e82c22052540cddb2/step-617a6565.jpg"
+    },
+    {
+      "text": "• Meanwhile, finely chop garlic. Halve cherry tomatoes. Grate carrot. Drain and rinse chickpeas.\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook garlic, stirring, until fragrant, 1 minute.\n• Transfer to a small bowl. Add Greek-style yoghurt and stir to combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62d6260e82c22052540cddb2/step-55cf529f.jpg"
+    },
+    {
+      "text": "• Return frying pan to high heat with a drizzle of olive oil. Cook chickpeas and carrot, stirring, until slightly golden and tender, 4-5 minutes.\n• Reduce heat to medium. Add tomato paste and garlic & herb seasoning and cook until fragrant, 1 minute.\n• Add the water (for the sauce) and remaining butter. Simmer until thickened, 2-3 minutes. Season to taste.\n• Meanwhile, combine mixed salad leaves, cherry tomatoes and a drizzle of olive oil and white wine vinegar in a medium bowl. Scatter over the fetta cubes. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62d6260e82c22052540cddb2/step-0962c1b3.jpg"
+    },
+    {
+      "text": "• Divide garlicky tomato chickpeas and chermoula rice between bowls. Top with garlic yoghurt and sprinkle with flaked almonds.\n• Serve with fetta salad. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62d6260e82c22052540cddb2/step-cdc78851.jpg"
+    }
+  ]
+}

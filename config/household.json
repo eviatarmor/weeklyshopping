@@ -1,0 +1,8 @@
+{
+  "id": "home",
+  "name": "Home",
+  "devMembers": [
+    { "email": "alex@dev.local", "name": "Alex" },
+    { "email": "sam@dev.local", "name": "Sam" }
+  ]
+}

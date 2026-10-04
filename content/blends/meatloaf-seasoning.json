@@ -1,0 +1,51 @@
+{
+  "slug": "meatloaf-seasoning",
+  "kind": "blend",
+  "title": "Meatloaf Seasoning",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 2 garlic powder, 2 onion powder, 1 dried thyme, 1 dried basil.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Meatloaf Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Dried Thyme",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-thyme"
+    },
+    {
+      "name": "Dried Basil",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-basil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

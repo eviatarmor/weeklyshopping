@@ -1,0 +1,150 @@
+{
+  "slug": "hf-all-american-plant-based-cheeseburger",
+  "kind": "meal",
+  "title": "All-American Plant-Based Cheeseburger",
+  "subtitle": "with Caramelised Onion & Sweet Potato Fries",
+  "description": "Seasoned with our our all-American spice blend, juicy plant-based patties work a treat here with sweet caramelised onion. Complete with crisp salad leaves to cut the richness and BBQ mayo for spreading and dipping, we hope you’re hungry!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/all-american-plant-based-cheeseburger-67f846adcade9b9f0ace0def",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1002_W21_AUS_Main_2_high-4b23971e.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "american",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f83340cade9b9f0acdb254-cc369200.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "BBQ Mayo",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d63405d840b2be351c-c9417f40.png"
+    },
+    {
+      "name": "Plant-Based Burger Patty",
+      "qty": 2,
+      "product": "plant-based-burger-patty",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237cd105c9621030b4db7-84212ec4.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349d-a27df8b5.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e57-5ee04095.png"
+    },
+    {
+      "name": "Balsamic Vinegar*",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de792793e8cdd8467fbb-76f7bd39.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0e9690d86caac9265e-f52daf7d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. Cut potato into fries. • Place fries on a lined oven tray. • Drizzle with olive oil, season with salt and toss to coat. Bake until tender, 20-25 minutes. • While the fries are baking, thinly slice brown onion. In a large frying pan, heat a drizzle of olive oil over medium-high heat. Add onion and cook, stirring, until softened, 5-6 minutes. • Add the balsamic vinegar, brown sugar and a splash of water, and mix well. Reduce heat to medium and cook until dark and sticky, 3-5 minutes. Transfer to a small bowl.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f878e40d0527cba53bf283/step-52fac600.jpg"
+    },
+    {
+      "text": "• <p>• While the onions are caramelising, thinly slice tomato.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f878e40d0527cba53bf283/step-8a35e810.jpg"
+    },
+    {
+      "text": "• <p>• Wash out frying pan and return to a medium-high heat with a drizzle of olive oil. Cook plant-based burger patties until browned and heated through, 2-3 minutes each side. • In the last 1-2 minutes of cook time, sprinkle Cheddar cheese over the patties, then cover with a lid so the cheese melts. • While the patties are cooking, place bake-at home burger buns on a wire rack in the oven for 3 minutes, or until heated through. TIP: For even browning, gently press down on the patties using a spatula.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f878e40d0527cba53bf283/step-bba6e520.jpg"
+    },
+    {
+      "text": "• <p>• Slice burger buns in half. Spread each bun with some BBQ mayo. • Top with a plant-based burger patty, caramelised onion, tomato and mixed salad leaves. • Serve with the fries and remaining BBQ mayo. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f878e40d0527cba53bf283/step-0c4ef130.jpg"
+    }
+  ]
+}

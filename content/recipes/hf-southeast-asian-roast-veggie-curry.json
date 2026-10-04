@@ -1,0 +1,162 @@
+{
+  "slug": "hf-southeast-asian-roast-veggie-curry",
+  "kind": "meal",
+  "title": "Southeast Asian Roast Veggie Curry",
+  "subtitle": "with Brown Rice & Crushed Peanuts",
+  "description": "Enjoy a bowl of creamy and rich Southeast Asian curry, loaded with nutritious veggies and aromatic spices. With a sprinkling of\ncrushed peanuts to finish it all off, this delicious meal is sure to please!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/southeast-asian-roast-veggie-curry-5f964a88676693259a312ba2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/southeast-asian-roast-veggie-curry-a9070c45.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Rice",
+      "qty": 1,
+      "product": "brown-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55685f8dfd2cb99a288b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "knob",
+      "product": "ginger",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affdff8b25eee3e8b456b.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Baby Broccoli",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "broccolini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f605c79fa9f33737e6734cc-ccde7e80.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55810642fd2cb90d7a8b4569.png"
+    },
+    {
+      "name": "Southeast Asian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "southeast-asian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d5cc6284da29b00112c6c62-58b68ca4.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Long Red Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593b9b4dab71fb718b4568.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced. Rinse\n• the brown rice well. In a medium saucepan, bring\n• the rice and the water (for the rice) to the boil\n• over a high heat. Reduce the heat to medium and\n• simmer, uncovered, until the rice is soft, 25- 30\n• minutes. Drain and return to the saucepan.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f964a88676693259a312ba2/step-c2f43095.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, cut the sweet potato and\n• carrot (both unpeeled) into 1cm chunks. Place\n• the sweet potato and carrot on an oven tray\n• lined with baking paper. Drizzle with olive oil and\n• season with salt and pepper. Toss to coat, then\n• bake until tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f964a88676693259a312ba2/step-44827a65.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, finely grate the\n• garlic and ginger. Zest the lime to get a generous\n• pinch, then slice into wedges. Cut the baby\n• broccoli into thirds. Roughly chop the Asian\n• greens.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f964a88676693259a312ba2/step-e072d4eb.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil\n• over a medium-high heat. Add the garlic, ginger\n• and Southeast Asian spice blend and cook until\n• fragrant, 1 minute. Add the coconut milk and\n• baby broccoli and bring to the boil. Simmer until\n• the baby broccoli is tender, 4-5 minutes. Stir\n• through the Asian greens and cook until wilted,\n• 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f964a88676693259a312ba2/step-4f420966.jpg"
+    },
+    {
+      "text": "• Stir through the lime zest, soy sauce, brown\n• sugar, a squeeze of lime juice and the\n• roasted veggies.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f964a88676693259a312ba2/step-77ed2826.jpg"
+    },
+    {
+      "text": "• Thinly slice the long red chilli (if using). Roughly\n• chop the coriander. Divide the brown rice between\n• bowls and top with the Southeast Asian roast\n• veggie curry. Sprinkle with the crushed peanuts,\n• coriander and garnish with the red chilli. Serve\n• with any remaining lime wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f964a88676693259a312ba2/step-22296ee3.jpg"
+    }
+  ]
+}

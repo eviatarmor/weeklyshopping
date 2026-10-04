@@ -1,0 +1,154 @@
+{
+  "slug": "ep-herby-tomato-chickpeas-and-veggie-couscous",
+  "kind": "meal",
+  "title": "Herby Tomato Chickpeas & Veggie Couscous",
+  "subtitle": "with Fetta & Yoghurt",
+  "description": "This chickpea and veggie packed dinner delight will have you salivating for more! Cut through all richness and complexity of the herby flavours with a bed of fluffy, veggie-loaded couscous.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/tuscan-chickpeas-and-veggie-couscous-67f845790d0527cba53aa14c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y25_R10_W01_AUS_Main_swap_chopped_cucumber_edit_high-b5bd3810.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "everyplate",
+    "mediterranean",
+    "quick",
+    "speedy",
+    "vegetarian",
+    "high protein",
+    "low calorie",
+    "20 min or less",
+    "couscous",
+    "world-flavors"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334a4264524ca978ae5e-31828b68.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae2-bdf7aecc.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fe2be511363ed37736f3024-583bf58f.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237193405d840b2be365f-77d8cdd4.png"
+    },
+    {
+      "name": "Tomato & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tomato-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/66722505967e04d996337614-70525bf7.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a8-15fc822b.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e58-0a43aa1d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf92793e8cdd8467ee7-f43d8a80.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf426-58b03ce0.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c8-273dce73.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. In a large heatproof bowl, place couscous, the salt and butter.<br>• Add the boiling water (3/4 cup for 2P / 11/2 cups for 4P) and stir to combine. <br>• Immediately cover with a plate and leave for 5 mins. Fluff up with a fork and set aside. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69648ad430d8e7c0c766b893/step-7479b700.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, roughly chop tomato.<br>• Roughly chop cucumber.<br>• Drain and rinse chickpeas.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69648ad430d8e7c0c766b893/step-25e8b710.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat.<br>• Cook chickpeas, tossing, until tender, 2-3 mins.<br>• Add tomato &amp; herb seasoning and tomato paste and cook until fragrant, 1 min.<br>• Stir in the water and a pinch of brown sugar and simmer until slightly thickened, 1 min. Season to taste with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69648ad430d8e7c0c766b893/step-bd6be520.jpeg"
+    },
+    {
+      "text": "• <p>• Add tomato, cucumber and salad leaves to the couscous. <br>• Add a drizzle of vinegar and olive oil. Toss to combine and season to taste.<br>• Divide veggie couscous between bowls, then top with herby tomato chickpeas.<br>• Crumble over fetta cubes. Dollop with yoghurt to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69648ad430d8e7c0c766b893/step-718a8430.jpg"
+    }
+  ]
+}

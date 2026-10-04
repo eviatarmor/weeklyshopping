@@ -1,0 +1,157 @@
+{
+  "slug": "hf-easy-plant-based-mince-basil-pesto-spaghetti",
+  "kind": "meal",
+  "title": "Cheesy Plant-Based Mince & Basil Pesto Spaghetti",
+  "subtitle": "with Flaked Almonds & Citrus Garden Salad",
+  "description": "Here's the perfect dish for Meat Free Monday: our plant-based mince is the ideal substitute for beef mince, working a treat with the basil pesto-laced red sauce. Al dente spaghetti brings the two components together, and makes sure that none of the delicious sauce goes to waste.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-plant-based-mince-basil-pesto-spaghetti-63993cb8b34d4e13b0025846",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65f93c130f0082904e5c0408-768bf85e.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spaghetti",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c69774dab7182428b4568.png"
+    },
+    {
+      "name": "Orange",
+      "qty": 0.5,
+      "product": "orange",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672474f8b25e402f8b4569.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 1,
+      "unit": "packet",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60acdb75e4d10d360c114713-ddb953ab.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59812b1cc288002d7f59e5d2-11bf19a1.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/650a354f6dac61c0739b7bb7-b1080ebe.png"
+    },
+    {
+      "name": "Plant-Based Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237cdb33a6ad8f0f05a6e-12b0a0ad.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad6ac09ae08b54d160cb072-a3981ef2.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427be4dab7105578b456b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Half-fill a large saucepan with water. Add a generous pinch of salt, then bring to the boil over high heat.\n• Cook spaghetti in the boiling water until 'al dente', 10 minutes.\n• Reserve some pasta water (1/3 cup for 2 people / 2/3 cup for 4 people). Drain spaghetti, then return to saucepan. TIP: 'Al dente' pasta is cooked through but still slightly firm in the centre.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65f93c130f0082904e5c0408-955d41b7.jpeg"
+    },
+    {
+      "text": "• Peel and slice orange (see ingredients) into thin wedges.\n• Grate carrot.\n• Finely chop garlic.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65f93c130f0082904e5c0408-c086c013.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook plant-based mince, breaking up with a spoon, until just browned, 4-5 minutes.\n• Add garlic & herb seasoning and garlic and cook until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65f93c130f0082904e5c0408-5a0c927b.jpeg"
+    },
+    {
+      "text": "• Add passata, the brown sugar, vegetable stock powder, the plant-based butter and reserved pasta water. Cook until slightly thickened, 2-3 minutes.\n• Add plant-based basil pesto and cooked spaghetti. Toss to coat. Season to taste. Remove pan from heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65f93c130f0082904e5c0408-dabacaca.jpeg"
+    },
+    {
+      "text": "• In a medium bowl combine orange, carrot, mixed salad leaves and a drizzle of vinegar and olive oil. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65f93c130f0082904e5c0408-d78f1edc.jpeg"
+    },
+    {
+      "text": "• Divide plant-based mince and pesto spaghetti between plates. Top with Parmesan cheese and flaked almonds.\n• Serve with garden salad. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65f93c130f0082904e5c0408-889060ee.jpeg"
+    }
+  ]
+}

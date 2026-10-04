@@ -1,0 +1,153 @@
+{
+  "slug": "ep-glazed-sesame-crumbed-haloumi",
+  "kind": "meal",
+  "title": "Glazed Sesame Crumbed Haloumi",
+  "subtitle": "with Garlic Rice & Mixed Veggies",
+  "description": "Give the humble schnitty a twist by using haloumi! Plus mix sesame seeds into the crumb and serve it with garlicky soy veggies and fragrant jasmine rice. Don't forget the BBQ glaze for a smokey, tangy flavour kick!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/glazed-sesame-crumbed-haloumi-64d46477969a753cfcaf7797",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64d46477969a753cfcaf7797-4b58a7d4.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f2eafd2cb99d038b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "BBQ Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "bbq-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad448e130006c535073f382-452b7744.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sweet-chilli-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fbdd34290ce040f071399fd-d487bd41.png"
+    },
+    {
+      "name": "Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aceaa5830006c19d70ba382-01559f82.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be3bcf8b25e165a8b4567.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556858d3f8b25e68408b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop or crush garlic. In a medium saucepan, melt the butter with a dash of olive oil over medium heat.\n• Cook 1/2 the garlic until fragrant, 1-2 mins.\n• Add jasmine rice, the water and a generous pinch of salt and bring to the boil. Reduce heat to low and cover with a lid.\n• Cook for 12 mins, then remove from heat and keep covered until rice is tender and the water absorbed, 10-15 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d46477969a753cfcaf7797-b4e5c4ad.jpeg"
+    },
+    {
+      "text": "• Meanwhile, slice carrot into thin sticks (same size as green beans). Trim green beans.\n• In a large frying pan, heat a drizzle of olive oil over high heat. Cook carrot and green beans until slightly softened, 4-5 mins.\n• Add remaining garlic and 1/2 the soy sauce, and cook until fragrant, 30 seconds. Transfer to a plate and cover to keep warm.\n• Meanwhile, combine BBQ sauce, sweet chilli sauce and vinegar in a small bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d46477969a753cfcaf7797-6588dc8a.jpeg"
+    },
+    {
+      "text": "• Slice haloumi horizontally to get 1 piece per person.\n• In a shallow bowl, combine the plain flour, a good pinch of salt, egg and remaining soy sauce. In a second shallow bowl, place panko breadcrumbs and sesame seeds.\n• Dip haloumi into egg mixture, followed by panko mixture. Set aside on a plate. Return frying pan to medium-high heat, and add enough olive oil to coat the base.\n• When oil is hot, cook haloumi until cooked through, 2 mins each side. Transfer to a plate and set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d46477969a753cfcaf7797-c5540dea.jpeg"
+    },
+    {
+      "text": "• Divide garlic rice and veggies between bowls.\n• Top rice with crumbed haloumi. Spoon the BBQ glaze over to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d46477969a753cfcaf7797-35553d40.jpeg"
+    }
+  ]
+}

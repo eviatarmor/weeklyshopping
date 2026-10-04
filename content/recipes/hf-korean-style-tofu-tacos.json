@@ -1,0 +1,146 @@
+{
+  "slug": "hf-korean-style-tofu-tacos",
+  "kind": "meal",
+  "title": "Korean-Style Tofu Tacos",
+  "subtitle": "with Pickled Onion & Lemon Aioli",
+  "description": "A lip-smackingly good combo of garlic, soy and honey makes for some seriously tender and totally delicious tofu. Give it the taco treatment by adding a tangy aioli, bright homemade pickled onion and fresh salad ingredients, all wrapped up in soft flour tortillas for a Korean-meets-Mexican fiesta!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/korean-style-tofu-tacos-62fb14d6f1fd7c03f705a50d",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/korean-style-tofu-tacos-52ac70f9.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "korean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Garlic Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/587d5b2a4348d278953e3401-81a905dc.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a828205ae08b5736b5fc6f2-ce735049.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aceaa5830006c19d70ba382-01559f82.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56ce4d68f8b25e99678b4567-56cfcfb3.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Thinly slice red onion (see ingredients).\n• In a small bowl, combine the vinegar and a good pinch of sugar and salt.\n• Scrunch sliced onion in your hands, then add to the pickling liquid. Add just enough water to cover onion. Set aside. TIP: If you don't like pickled onion, you can cook the onion in step 4 with the chicken!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62fb14d6f1fd7c03f705a50d/step-9ab34dae.jpg"
+    },
+    {
+      "text": "• Grate carrot. Thinly slice cucumber into sticks. Thinly slice long chilli (if using). Slice lemon into wedges.\n• In a medium bowl, combine carrot, mixed salad leaves, chilli and a squeeze of lemon juice. Season with salt and pepper. Toss to coat, then set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62fb14d6f1fd7c03f705a50d/step-ef15aaa4.jpg"
+    },
+    {
+      "text": "• Finely chop garlic. Cut tofu into 2cm chunks.\n• In a small bowl, combine the soy sauce, the honey and garlic. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62fb14d6f1fd7c03f705a50d/step-7d754635.jpg"
+    },
+    {
+      "text": "• In the frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook tofu, tossing, until browned and warmed through, 3-4 minutes.\n• Add honey-soy mixture, then remove pan from heat, tossing tofu to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62fb14d6f1fd7c03f705a50d/step-3e0adfcc.jpg"
+    },
+    {
+      "text": "• Microwave mini flour tortillas on a plate in 10 second bursts until warmed through.\n• Meanwhile, combine garlic aioli and a generous squeeze of lemon juice in a small bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62fb14d6f1fd7c03f705a50d/step-d0b78996.jpg"
+    },
+    {
+      "text": "• Drain pickled onion.\n• Spread some lemon aioli over each tortilla, then top with veggies, Korean-style tofu, cucumber and pickled onion.\n• Sprinkle with crispy shallots and drizzle with remaining lemon aioli.\n• Serve with any remaining lemon wedges. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62fb14d6f1fd7c03f705a50d/step-d6092b10.jpg"
+    }
+  ]
+}

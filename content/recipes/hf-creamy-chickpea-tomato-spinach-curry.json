@@ -1,0 +1,173 @@
+{
+  "slug": "hf-creamy-chickpea-tomato-spinach-curry",
+  "kind": "meal",
+  "title": "Creamy Chickpea, Tomato & Spinach Curry",
+  "subtitle": "with Buttered-Cashew Rice, Garlic Naan & Yoghurt",
+  "description": "This golden bowl of goodness has everything you need to feel cosy and satisfied, with chickpeas and veggies cooked in a creamy, mildly\nspiced sauce plus a cooling mint yoghurt to finish it off.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-chickpea-tomato-spinach-curry-634c8020561750610e0c4a33",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-chickpea-tomato-spinach-curry-4c767e48.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Mild Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a34d4d95d3b76f915bdd14-060e389f.png"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "thickened-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/5952f6a23131006798156a12-055b0dbd.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Naan Bread",
+      "qty": 2,
+      "product": "naan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/558b5a264dab7192418b4569.png"
+    },
+    {
+      "name": "Roasted Cashews",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cashews",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55d549c679a23cd6798b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d9d8bc2d4f0c9006c3a9cef-58b68ca4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add667930006c66b57f1712-2fea204a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Tamarind Chutney",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tamarind-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/634c948e13532a61e80a77fc-77e228c6.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a medium saucepan, heat 1/2 the butter with a dash of olive oil over medium heat.\n• Add basmati rice, water (for the rice) and a generous pinch of salt, stir, then bring to the boil.\n• Reduce heat to low and cover with a lid.\n• Cook for 10 minutes, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634c8020561750610e0c4a33/step-3dd8f1f2.jpg"
+    },
+    {
+      "text": "• When the rice has 10 minutes remaining, roughly chop tomato. Drain chickpeas.\n• In a small heatproof bowl, combine 1/2 the garlic paste and a drizzle of olive oil.\n• Microwave, in 10 second bursts, until fragrant. Season with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634c8020561750610e0c4a33/step-7a833e3a.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Add tomato, chickpeas, tomato paste (see ingredients), mild curry paste, Mumbai spice blend and the remaining garlic paste and butter, cook stirring, until softened and fragrant, 3-4 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634c8020561750610e0c4a33/step-1d8cbd8f.jpg"
+    },
+    {
+      "text": "• Reduce heat to medium and stir in thickened cream, the water (for the curry) and the brown sugar, cook until combined and slightly reduced, 1-2 minutes.\n• Add baby spinach leaves, cook, stirring, until slightly wilted, 1 minute. Season.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634c8020561750610e0c4a33/step-3a542370.jpg"
+    },
+    {
+      "text": "• Meanwhile, preheat grill to high. Brush garlic oil over one side of the naan.\n• Place naan directly on an oven wire rack and bake until golden, 3-5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634c8020561750610e0c4a33/step-b0c99601.jpg"
+    },
+    {
+      "text": "• To the rice, add roasted cashew nuts, stirring to combine.\n• Divide buttered-cashew rice between bowls.\n• Spoon over creamy chickpea, tomato and spinach curry.\n• Top with Greek style yoghurt. Serve with garlic naan. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634c8020561750610e0c4a33/step-e39c7af4.jpg"
+    }
+  ]
+}

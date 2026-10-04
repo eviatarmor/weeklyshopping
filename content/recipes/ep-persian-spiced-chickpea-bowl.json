@@ -1,0 +1,149 @@
+{
+  "slug": "ep-persian-spiced-chickpea-bowl",
+  "kind": "meal",
+  "title": "Persian-Spiced Chickpea Bowl",
+  "subtitle": "with Carrot Couscous & Salad",
+  "description": "This chermoula spiced chickpea bowl will take you on a journey to the Middle East. Teamed with an exotic carrot couscous and a fresh salad, this dinner is bursting with flavour that will leave you wanting more.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/persian-spiced-chickpea-bowl-620619a431631447b901c9c0",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6645c7af7f0f25a24185c880-a158d6c6.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "middle east",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 2,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Persian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "persian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee983756a9c9a041e128222-205bcf94.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad6ac09ae08b54d160cb072-a3981ef2.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Thinly slice brown onion. Finely chop or crush garlic.\n• Roughly chop tomato. Grate carrot.\n• Drain and rinse chickpeas.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6645c7af7f0f25a24185c880-2e836d52.jpeg"
+    },
+    {
+      "text": "• In a medium saucepan, melt 1/2 the butter with a drizzle of olive oil over medium-high heat.\n• Cook 1/2 the carrot until softened, 2-3 mins. Add 1/2 the garlic and cook until fragrant, 1 min.\n• Add the water and 1/2 the vegetable stock powder and bring to the boil.\n• Stir in couscous. Cover and remove from heat. Set aside until water is absorbed, 5 mins. Fluff up with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6645c7af7f0f25a24185c880-1c422347.jpeg"
+    },
+    {
+      "text": "• Meanwhile, in a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook onion, until tender, 4-5 mins. Add remaining garlic, Persian spice blend and tomato paste and cook until fragrant, 1 min.\n• Stir in coconut milk, remaining stock powder, chickpeas and a splash of water.\n• Simmer until slightly thickened, 2-3 mins. Stir through remaining butter. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6645c7af7f0f25a24185c880-969310af.jpeg"
+    },
+    {
+      "text": "• In a medium bowl, combine tomato, spinach, remaining carrot and a drizzle of vinegar and olive oil. Season to taste.\n• Divide carrot couscous, Persian-spiced chickpeas and salad between bowls. Sprinkle with flaked almonds.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6645c7af7f0f25a24185c880-96e715e4.jpeg"
+    }
+  ]
+}

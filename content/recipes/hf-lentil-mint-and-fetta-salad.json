@@ -1,0 +1,104 @@
+{
+  "slug": "hf-lentil-mint-and-fetta-salad",
+  "kind": "meal",
+  "title": "Lentil, Mint & Fetta Salad",
+  "subtitle": "with Greens",
+  "description": "This dish is a celebration of the best of the best that’s now in season. Sweet potato and sugar snap peas are surrounded by beautiful broccoli and fresh mint – green as far as the eye can see. For the perfect summer side dish, enjoy on a picnic blanket on a sunny evening with a smattering of good company.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/lentil-mint-and-fetta-salad-587c14db4348d2098435b592",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-mint-fetta-salad-18d8b5fe.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "naturally gf",
+    "high fiber",
+    "lactose free"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "qty": 400,
+      "unit": "g",
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sugar Snap Peas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sugar-snap-peas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55822e30f8b25ef1508b4567.png"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "unit": "head",
+      "product": "broccoli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556884bc4dab711f1f8b4567.png"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "apple-cider-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/558b46eb4dab7101418b456b.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "tin",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Fetta Cheese",
+      "qty": 1,
+      "unit": "block",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be7a34dab71aa0a8b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 200°C/180°C fan-forced. Bring a kettle full of water to the boil. To prepare the ingredients, cut the sweet potato into 1 cm cubes (unpeeled), and trim and destring the sugar snap peas. Chop the broccoli into small florets, drain and rinse the lentils, pick and roughly chop the mint leaves, and crumble the fetta cheese.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c14db4348d2098435b592-0-0-a1b26f52.jpg"
+    },
+    {
+      "text": "• Toss the sweet potato in half of the olive oil and season with salt and pepper. Place in a single layer on a lined oven tray and cook in the oven for 20 minutes, or until tender.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c14db4348d2098435b592-1-0-d5bb3993.jpg"
+    },
+    {
+      "text": "• Meanwhile, place the sugar snap peas and broccoli in a heatproof bowl. Pour over the boiling water from the kettle and stand for 2-3 minutes, or until just tender. Drain and refresh under cold water."
+    },
+    {
+      "text": "• Combine the remaining oil and apple cider vinegar in a small bowl. Season to taste with salt and pepper. Add the lentils and toss to coat well in the dressing.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c14db4348d2098435b592-3-0-2e5f3ed7.jpg"
+    },
+    {
+      "text": "• In a large bowl combine the mint, sugar snap peas, broccoli, dressed lentils, sweet potato and fetta cheese.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c14db4348d2098435b592-4-0-547ac1b0.jpg"
+    },
+    {
+      "text": "• To serve, divide between bowls and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "ml-ricotta-fruit-salad-almonds",
+  "kind": "meal",
+  "title": "Ricotta Fruit Salad with Almonds",
+  "sourceUrl": "https://www.mealime.com/recipes/ricotta-fruit-salad-almonds/6958",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/790/presentation_fc75b61f-07c7-4231-be84-abc1479fad7f.jpeg",
+  "servings": 4,
+  "prepMinutes": 10,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Almonds (sliced)",
+      "qty": 1,
+      "unit": "cup",
+      "product": "almonds"
+    },
+    {
+      "name": "Bananas",
+      "qty": 2,
+      "product": "banana"
+    },
+    {
+      "name": "Kiwifruit",
+      "qty": 2,
+      "product": "kiwi-fruit"
+    },
+    {
+      "name": "Red Grapes",
+      "qty": 225,
+      "unit": "g",
+      "product": "grapes"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "qty": 425,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 120,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat a skillet over medium-high heat. Add almonds and toast, stirring often, until golden brown, 2-3 minutes. Set aside to cool."
+    },
+    {
+      "text": "In a medium bowl, whisk together ricotta, milk, and honey."
+    },
+    {
+      "text": "Wash and dry the fresh produce."
+    },
+    {
+      "text": "Halve the grapes."
+    },
+    {
+      "text": "Peel the bananas, halve lengthwise, and slice."
+    },
+    {
+      "text": "Trim off the ends and peel the kiwis; quarter lengthwise, then chop crosswise."
+    },
+    {
+      "text": "To serve, transfer ricotta mixture to bowls; top with fruit and almonds. Enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "hf-black-bean-tostadas",
+  "kind": "meal",
+  "title": "Black Bean Tostadas",
+  "subtitle": "with Sour Cream & Cheddar Cheese",
+  "description": "If you haven't turned tortillas into tostadas before, get ready for a lightbulb moment. All you need to do is bake (or fry) them until they're firm and crisp, then load 'em up with tasty toppings. For your eating pleasure tonight, we've got veggie-loaded black beans, shredded Cheddar, sour cream and coriander. Dig in!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/black-bean-tostadas-5e436fa5dc2aee7c4f6cc6f8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5e436fa5dc2aee7c4f6cc6f8-34c35149.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 1,
+      "unit": "cob",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593b834dab71c4718b456a.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695d5730006c33520e3181-cdb3da6d.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f5f0fd2cb9ce038b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced.\n• Finely chop the brown onion (see ingredients).\n• Finely chop the garlic (or use a garlic press). Cut\n• the capsicum into 1cm chunks. Slice the corn\n• kernels from the cob. Roughly chop the coriander.\n• Slice the lime (see ingredients) into wedges. Grate\n• the carrot (unpeeled). Drain and rinse the black\n• beans.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436fa5dc2aee7c4f6cc6f8/step-8d33e770.jpg"
+    },
+    {
+      "text": "• Lightly spray or brush the mini flour tortillas with\n• olive oil and spread over an oven tray lined with\n• baking paper. Using a fork, poke a few holes in the\n• tortillas to stop them puffing up as they cook. Set\n• aside.\n• TIP:You can serve the meal as tacos instead, no\n• need to prep the tortillas, just warm them in step 5.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436fa5dc2aee7c4f6cc6f8/step-5e11aafd.jpg"
+    },
+    {
+      "text": "• SPICY! The spice blend is hot, use less if you're\n• sensitive to heat. Heat a drizzle of olive oil in a\n• large frying pan over a medium-high heat. Add the\n• onion and cook until softened, 2-3 minutes. Add\n• the capsicum, corn and carrot and cook until just\n• softened, 3-4 minutes. Add the garlic and Mexican\n• Fiesta spice blend and cook until fragrant,\n• 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436fa5dc2aee7c4f6cc6f8/step-02edbc56.jpg"
+    },
+    {
+      "text": "• Add the tomato paste and water to the frying\n• pan and stir to coat. Add the black beans, then\n• reduce the heat to medium and simmer until the\n• chilli has thickened and the capsicum is tender,\n• 4-5 minutes. Season to taste.\n• TIP: Add a dash more water if you prefer a looser\n• chilli.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436fa5dc2aee7c4f6cc6f8/step-1448f633.jpg"
+    },
+    {
+      "text": "• While the chilli is simmering, place the oven tray\n• with the tortillas on the top shelf of the oven and\n• bake for 6 minutes.\n• TIP: Check on them and leave them in a little\n• longer if they aren't ready yet, you want them to be\n• golden and crisp but not burnt!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436fa5dc2aee7c4f6cc6f8/step-1bacfa9c.jpg"
+    },
+    {
+      "text": "• Take everything to the table. Build your tostadas\n• by placing a helping of the black bean chilli on\n• top of a tortilla. Sprinkle with shredded Cheddar\n• cheese, add a dollop of sour cream and garnish\n• with coriander. Serve with the lime wedges.\n• TIP: In Mexican cuisine, tostadas are piled high\n• with ingredients and eaten like an open sandwich.\n• You can serve the crisp tostadas on the side of the\n• toppings if you prefer, or just heat the tortillas and\n• eat with the filling as tacos!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436fa5dc2aee7c4f6cc6f8/step-5e2c9cce.jpg"
+    }
+  ]
+}

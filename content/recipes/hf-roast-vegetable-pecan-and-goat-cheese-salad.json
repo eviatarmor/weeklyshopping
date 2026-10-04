@@ -1,0 +1,105 @@
+{
+  "slug": "hf-roast-vegetable-pecan-and-goat-cheese-salad",
+  "kind": "meal",
+  "title": "Roast Vegetable, Pecan & Goat Cheese Salad",
+  "description": "A feast for the eyes as well as the stomach, this salad is a true celebration of the sweet and nuttiness that can be found in a savoury dish. Between creamy sweet potato and beetroot, mild chevre goat cheese and crunchy toasted pecans, you won’t be able to decide what to eat first!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-vegetable-pecan-and-goat-cheese-salad-56b270864dab71f93b8b4567",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56b270864dab71f93b8b4567.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "egg free",
+    "naturally gf",
+    "low carb",
+    "low sodium"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "qty": 400,
+      "unit": "g",
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Goat Cheese",
+      "qty": 0.5,
+      "unit": "block",
+      "product": "goat-s-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556fc48cfd2cb9001b8b456b.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Pecans",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "pecans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56b26f9dfd2cb9217c8b4567.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 3,
+      "unit": "tsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682ecb4dab710f1c8b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, To prepare the ingredients, cut the sweet potato (unpeeled) and beetroot (after it's been washed and scrubbed) into 2 cm pieces. Wash the mixed salad leaves. Finely chop the parsley and crumble the chevre goat cheese.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b270864dab71f93b8b4567/step_57614192eee2c.jpg"
+    },
+    {
+      "text": "• Toss the sweet potato and beetroot in half of the olive oil and season with salt and pepper. Place on one lined oven tray and cook in the oven for 30-35 minutes or until golden and tender.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b270864dab71f93b8b4567/step_5761419340416.jpg"
+    },
+    {
+      "text": "• Place the pecans on a second lined oven tray and add to the oven in the final 8 minutes of the vegetable cooking time, or until toasted."
+    },
+    {
+      "text": "• To make the dressing, combine the remaining olive oil, balsamic vinegar and Dijon mustard in a small jug or bowl. Season to taste with salt and pepper. Toss the mixed salad leaves, roast vegetables, parsley, pecans and chevre goat cheese in a large bowl. Drizzle with the dressing and toss to coat well."
+    },
+    {
+      "text": "• To serve, divide salad between bowls."
+    }
+  ]
+}

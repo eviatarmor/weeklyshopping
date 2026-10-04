@@ -1,0 +1,179 @@
+{
+  "slug": "hf-sesame-soy-cauliflower-rice-bowl",
+  "kind": "meal",
+  "title": "Sesame-Soy Cauliflower Rice Bowl",
+  "subtitle": "with Snow Peas & Pickled Onion",
+  "description": "This dish is all about the little differences. The roast cauliflower is finished in a frying pan with sesame, garlic and kecap manis – think caramelised edges and a sweet, sticky sauce. The rice gets a gingery boost and the cucumber is pickled to balance the rich flavours. With a fried egg on top, it's a delightful dinner that really delivers.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/sesame-soy-cauliflower-rice-bowl-5ef2ea227d8b593eda09d3d3",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5ef2ea227d8b593eda09d3d3-8ca5fbbb.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "knob",
+      "product": "ginger",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affdff8b25eee3e8b456b.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f2eafd2cb99d038b4567.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Snow Peas",
+      "qty": 1,
+      "unit": "bag",
+      "product": "snow-peas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be6a8f8b25e165a8b456a.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "rice-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816b7fd2cb99d098b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9f4e70ae08b52ab46e8422-2fea204a.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556858d3f8b25e68408b4568.png"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "kecap-manis",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56c3ee824dab71f17a8b4567.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Long Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593b9b4dab71fb718b4568.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    },
+    {
+      "name": "Garlic Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/587d5b2a4348d278953e3401-81a905dc.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Finely grate the ginger. In a medium saucepan, heat a drizzle of olive oil over a medium-high heat. Add the ginger and cook until fragrant, 1 minute. Add the water (for the rice), the jasmine rice, stir, cover with a lid and reduce the heat to low. Cook for 12 minutes, then remove the pan from the heat and keep covered until the rice is tender and all the water is absorbed, 10-15 minutes.\n• TIP: The rice will finish cooking in its own steam so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ef2ea227d8b593eda09d3d3/step-52dcfa56.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, cut the cauliflower into small florets. Place on an oven tray lined with baking paper, drizzle with olive oil and season with salt and pepper. Spread out in a single layer and bake until tender, 15-20 minutes.\n• TIP: If the cauliflower doesn't fit in a single layer, spread across two trays!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ef2ea227d8b593eda09d3d3/step-f1820489.jpg"
+    },
+    {
+      "text": "• While the cauliflower is roasting, finely chop the garlic (or use a garlic press). Thinly slice the carrot (unpeeled) into half-moons. Trim and roughly chop the snow peas. Thinly slice the red onion (see ingredients list). In a small bowl, combine the rice wine vinegar, water and a generous pinch of salt and sugar. Toss to coat, then set aside until serving.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ef2ea227d8b593eda09d3d3/step-158d6be0.jpg"
+    },
+    {
+      "text": "• In a medium frying pan, heat a drizzle of olive oil over a medium-high heat. Add the carrot and snow peas and cook until just softened, 2-3 minutes. Transfer to a plate and cover to keep warm. Return the pan to a medium-high heat with a drizzle of olive oil. Add the roasted cauliflower, garlic and sesame seeds. Cook, tossing, until fragrant, 1-2 minutes. Add the kecap manis and soy sauce and cook until coated, 1 minute. Transfer to a bowl and cover to keep warm.\n• TIP: If your pan is getting crowded, cook in batches for the best results!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ef2ea227d8b593eda09d3d3/step-25de6863.jpg"
+    },
+    {
+      "text": "• Wipe out the pan and return to a medium-high heat with a drizzle of olive oil. Crack in the eggs and fry until the yolks are cooked to your liking, 4-5 minutes. Thinly slice the spring onion and long red chilli (if using).\n• TIP: This will give soft yolks, fry for 6-7 minutes to get hard yolks.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ef2ea227d8b593eda09d3d3/step-c5a966c4.jpg"
+    },
+    {
+      "text": "• Drain the pickled onion. Divide the ginger rice between bowls and top with the cauliflower, carrot, snow peas and pickled onion. Top with the fried eggs and garnish with the spring onion, chilli (if using) and crushed peanuts. Serve with the garlic aioli.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ef2ea227d8b593eda09d3d3/step-53298c54.jpg"
+    }
+  ]
+}

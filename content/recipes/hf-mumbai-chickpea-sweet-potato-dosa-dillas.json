@@ -1,0 +1,169 @@
+{
+  "slug": "hf-mumbai-chickpea-sweet-potato-dosa-dillas",
+  "kind": "meal",
+  "title": "Mumbai Chickpea & Sweet Potato Dosa-dillas",
+  "subtitle": "with Tomato Salsa & Yoghurt",
+  "description": "We've packaged all the amazing flavours of an Indian-inspired chickpea dosa into this Mexican-style dish. Teamed with a refreshing salsa and cooling yoghurt, it's a sublime meal everyone will love.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mumbai-chickpea-sweet-potato-dosa-dillas-6090f00e66f001288402cce0",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mumbai-chickpea-sweet-potato-dosa-dillas-f8644a25.jpg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Tandoori Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tandoori-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e020af8b25ed9618b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d9d8bc2d4f0c9006c3a9cef-58b68ca4.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Cut\n• the sweet potato into small chunks and place\n• on a lined oven tray. Add a drizzle of olive oil and\n• season with salt and pepper. Toss to coat, then\n• bake until tender, 10-15 minutes. Finely chop the\n• garlic and brown onion (see ingredients). Cut\n• the capsicum into small chunks. Drain and rinse\n• the chickpeas.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6090f00e66f001288402cce0/step-e925fcaf.jpg"
+    },
+    {
+      "text": "• SPICY! This paste is spicy. Add less if you're sensitive\n• to heat! In a large frying pan, heat a drizzle of olive\n• oil over a medium-high heat. Cook the onion and\n• capsicum, stirring, until softened, 4-5 minutes.\n• Add the Mumbai spice blend, tandoori paste,\n• tomato paste and garlic and cook until fragrant,\n• 1 minute. Add the chickpeas, water, butter and\n• vegetable stock powder. Stir to combine and\n• simmer until slightly thickened, 1-2 minutes.\n• Add the roast sweet potato and stir to combine.\n• Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6090f00e66f001288402cce0/step-57ad7171.jpg"
+    },
+    {
+      "text": "• Microwave the mini flourtortillas for 10 second\n• bursts, until warmed through. Arrange the tortillas\n• over a lined oven tray. Divide the filling among the\n• tortillas, spooning it onto one half of each tortilla\n• and top with the shredded Cheddar cheese. Fold\n• the empty half of each tortilla over to enclose the\n• filling and press down with a spatula.\n• TIP: If the tortillas don't fit in a single layer, spread\n• across two trays!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6090f00e66f001288402cce0/step-37bdc49b.jpg"
+    },
+    {
+      "text": "• Brush or spray the tortillas with a drizzle of olive\n• oil. Bake until golden, 10-12 minutes. Spoon any\n• overflowing filling back into the tortillas.\n• TIP: You can place a sheet of baking paper and\n• another oven tray on top of the tortillas if they\n• unfold during cooking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6090f00e66f001288402cce0/step-063dc1be.jpg"
+    },
+    {
+      "text": "• While the dosa-dillas are baking, finely chop the\n• tomato. Roughly chop the coriander. In a medium\n• bowl, combine the white wine vinegar and a\n• drizzle of olive oil. Season. Add the tomato and\n• toss to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6090f00e66f001288402cce0/step-b2278d93.jpg"
+    },
+    {
+      "text": "• Divide the chickpea and sweet potato dosa-dillas\n• between plates. Serve with the salsa and Greek- style yoghurt. Garnish with coriander to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6090f00e66f001288402cce0/step-dc6fdd7b.jpg"
+    }
+  ]
+}

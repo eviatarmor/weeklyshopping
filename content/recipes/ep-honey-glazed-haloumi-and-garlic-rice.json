@@ -1,0 +1,143 @@
+{
+  "slug": "ep-honey-glazed-haloumi-and-garlic-rice",
+  "kind": "meal",
+  "title": "Honey-Glazed Haloumi & Garlic Rice",
+  "subtitle": "with Roast Veggie Medley & Basil Pesto",
+  "description": "Haloumi is known for its salty, savoury flavours but add a drizzle of honey to really make that flavour sing! On a bed of colourful veggies and fragrant rice this is a meal to delight.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/honey-glazed-haloumi-and-garlic-rice-631a825c5fe4247721011c71",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-glazed-haloumi-garlic-rice-ef2baf48.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528452-95bf4017.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f804ecbf90d9f52841f-bd433463.png"
+    },
+    {
+      "name": "Garlic Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee990bd16bd266f3f6ed96f-4e7ec9f7.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f7c4ecbf90d9f52840a-c66b1029.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fb04ecbf90d9f52851a-2d3dddc0.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "stengel(s)",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fb74ecbf90d9f52853b-efe0c124.png"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "red-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fe94ecbf90d9f528636-fa3f642e.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f7c4ecbf90d9f528408-7154509f.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fa64ecbf90d9f5284e6-38cad40e.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ece0ab8e7df57622d198ca8-81a905dc.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut carrot and beetroot into small chunks. Cut tomato into wedges.\n• Place veggies on lined oven tray. Sprinkle over garlic seasoning, season with salt and drizzle with olive oil. Toss to coat and spread out in a single layer. Bake until tender, 20-25 mins (beetroot stays firm when cooked, it's done when you can pierce it with a fork).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/631a825c5fe4247721011c71/step-c9757ff2.jpg"
+    },
+    {
+      "text": "• Meanwhile, finely chop or crush garlic. In a medium saucepan, melt butter with a dash of olive oil over medium heat.\n• Cook garlic until fragrant, 1-2 mins. Add basmati rice, the water and a generous pinch of salt and bring to the boil. Reduce heat to low and cover with a lid. Cook for 10 mins, then remove from heat and keep covered until rice is tender and the water is absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/631a825c5fe4247721011c71/step-4b6d3ba2.jpg"
+    },
+    {
+      "text": "• When rice has 5 mins remaining, cut haloumi into 1cm slices (you should get 3 pieces per person).\n• Heat a drizzle of olive oil in a large frying pan over medium-high heat. Cook haloumi until golden brown, 2 mins each side. Remove from heat, add honey and turn to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/631a825c5fe4247721011c71/step-7c95b108.jpg"
+    },
+    {
+      "text": "• To pan with rice, add roast veggies and a drizzle of red wine vinegar. Toss to combine. Season to taste.\n• Divide rice and roast veggies between bowls.\n• Top with haloumi, basil pesto, mayonnaise and flaked almonds.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/631a825c5fe4247721011c71/step-438b0a7e.jpg"
+    }
+  ]
+}

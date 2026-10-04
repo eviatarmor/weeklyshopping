@@ -1,0 +1,132 @@
+{
+  "slug": "hf-hellohero-herby-plant-based-crumbed-chickn-parmigiana",
+  "kind": "meal",
+  "title": "HelloHero: Herby Plant-Based Crumbed Chick'n Parmigiana",
+  "subtitle": "with Apple, Tomato & Rocket Salad",
+  "description": "With the perfect ratio of sauce and cheese to juicy crumbed chick'n tenders, here's proof that a pub-style parmy can be whipped up from the comfort of your kitchen.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/hellohero-herby-chicken-parmigiana-67f8424d0d0527cba53a95e8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66e3a121e6df74d078e467e3-bd7089a5-ef4d36fe.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "australian",
+    "air fryer friendly",
+    "air fryer easy",
+    "quick",
+    "proteinrich"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Apple",
+      "qty": 1,
+      "product": "apple",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cb3405d840b2be34d4-1a1606d4.png"
+    },
+    {
+      "name": "Herb Crumbing Mix",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c93e808e1c4145a37bc794-502287ee.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385cb33a6ad8f0f05d4c-52398feb.png"
+    },
+    {
+      "name": "Tomato Sugo",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-sugo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572382e105c9621030b4fd4-8c7d9d5f.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c7-f599f624.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a5-f4dfe0a3.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• In a large frying pan, heat enough olive oil to coat base over medium-high heat. • Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side. • Top each piece with tomato sugo (see ingredients) and then sprinkle with Cheddar cheese. Cover with a lid or foil so the cheese melts, 1 minute. • Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80b835963fcd98f40aae/step-bc67a700.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice apple into wedges. • Slice tomato into thin wedges. • Grate carrot.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80b835963fcd98f40aae/step-45d8c010.jpg"
+    },
+    {
+      "text": "• <p>• In a large bowl, combine apple, tomato, carrot, spinach &amp; rocket mix and a drizzle of vinegar and olive oil. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80b835963fcd98f40aae/step-bacf7420.jpg"
+    },
+    {
+      "text": "• <p>•Slice chick&#39;n. • Divide herby plant-based crumbed parmigiana between plates. • Sprinkle over chilli flakes (if using). • Serve with apple, tomato and rocket salad. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80b835963fcd98f40aae/step-7318a230.jpg"
+    }
+  ]
+}

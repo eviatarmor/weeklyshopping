@@ -1,0 +1,153 @@
+{
+  "slug": "ep-rustic-bean-and-veggie-pie",
+  "kind": "meal",
+  "title": "Rustic Bean & Veggie Pie",
+  "subtitle": "with Potato Topping",
+  "description": "If you're looking to up your 5-a-day then this dish is for you! We've loaded potatoes, onion, zucchini, carrot and spinach into this yummy pie and the red kidney beans provide the protein; making this a nutrient packed veggie dish!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/rustic-bean-and-veggie-pie-67f8476b4264524ca97910a9",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/657aa559a65f6d71569fc10d-15f8d12f-c7409e34.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "everyplate",
+    "british",
+    "naturally gf",
+    "vegetarian",
+    "pies-fries-beyond"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399a-6f7ad071.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561c-5667c8d1.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd1-a177488d.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237bd105c9621030b4d50-dfc0c5c5.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585c-dca9d714.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237e8b33a6ad8f0f05b12-3e497b3f.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd76635bf0b638cfb8c5-e3f33e39.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e58-0a43aa1d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e60-44b83ee2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Bring a medium saucepan of lightly salted water to boil. <br>• Peel potato and cut into large chunks.<br>• Cook potato in boiling water until easily pierced with a fork, 12-15 mins.<br>• Drain and return to saucepan. Add the milk, salt and 1/2 the butter and mash until smooth. Cover to keep warm. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6927a0a1d4fb03440163271a/step-90a29600.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, grate carrot. Thinly slice brown onion. Thinly slice zucchini into  <br>half-moons. Finely chop garlic. Drain and rinse red kidney beans.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6927a0a1d4fb03440163271a/step-6f3bc210.jpeg"
+    },
+    {
+      "text": "• <p>• Heat a drizzle of olive oil in a large frying pan over high heat. Cook carrot, onion and zucchini until softened, 6-8 mins.<br>• Reduce heat to medium. Stir in garlic &amp; herb spice blend and garlic until fragrant, 1 min.<br>• Stir in red kidney beans, passata, the stock powder, brown sugar and remaining butter and a splash of water. Simmer until slightly reduced, 1-2 mins.<br>• Stir in baby spinach and Parmesan cheese. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6927a0a1d4fb03440163271a/step-9d762f20.jpeg"
+    },
+    {
+      "text": "• <p>• Preheat grill to high.<br>• Transfer filling mixture to a baking dish and top with mash.<br>• Grill until lightly golden, 5-8 mins.<br>• Divide bean pie between plates to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6927a0a1d4fb03440163271a/step-5998cb30.jpeg"
+    }
+  ]
+}

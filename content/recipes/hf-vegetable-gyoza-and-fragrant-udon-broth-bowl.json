@@ -1,0 +1,177 @@
+{
+  "slug": "hf-vegetable-gyoza-and-fragrant-udon-broth-bowl",
+  "kind": "meal",
+  "title": "Vegetable Gyoza & Fragrant Udon Broth Bowl",
+  "subtitle": "with Jammy Eggs, Pea Pods & Chilli-Sesame Drizzle",
+  "description": "A bowl that warms you from the inside out. Plump vegetable gyoza bob in a fragrant, fiery chilli-sesame broth alongside thick, chewy udon noodles and crisp pea pods, each element soaking up that deeply savoury, aromatic base. A jammy soft-boiled egg crowns the bowl for a rich, golden finish. Cosy, flavour-packed and endlessly slurpable. We think this one may just be a new weeknight staple.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/vegetable-gyoza-and-chilli-oil-ramen-with-udon-noodle-pea-pods-and-sesame-seeds-68fedbf887218af4025020ad",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1043_W40_AU_R52744-3_main_edit2_high-39198762.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "around the world",
+    "calorie smart",
+    "quick prep",
+    "pre-prepped"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Pea Pods",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sugar-snap-peas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/62a02961d1ec4f68c30835c7-60ed00b7.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c23405d840b2be3497-766f473c.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833694264524ca978af21-1fc0d3d6.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Udon Noodles",
+      "qty": 1,
+      "unit": "packet",
+      "product": "udon-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833b04264524ca978b04f-b90518bb.png"
+    },
+    {
+      "name": "Green Vegetable Gyoza",
+      "qty": 1,
+      "unit": "packet",
+      "product": "frozen-dumplings",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/690d89c69140c7b54ff26618-180dc3af.png"
+    },
+    {
+      "name": "Hainanese Paste",
+      "qty": 1,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/68b93674f655999316ff6e65-e19dfb70.png"
+    },
+    {
+      "name": "Ginger Lemongrass Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-lemongrass-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f3b590ee9ba3270e45e88aa-3d0cbda2.png"
+    },
+    {
+      "name": "Soy Sauce Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soy-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334c0d0527cba53a49df-763086b8.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de61635bf0b638cfba5c-044a3e7a.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5e9690d86caac926cb-15e9d8b1.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddab635bf0b638cfb931-55b62157.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddec2793e8cdd8467ecc-c874928e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. Half-fill a medium saucepan with <br>boiling water.<br>• Cook the eggs in boiling water, over medium heat, <br>until soft-boiled, or to your liking, 7-8 minutes.<br>• Using tongs, remove the eggs from saucepan and <br>cool in cold water.<br>• Peel, then halve the eggs.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4fa01c1713d196bd6e052a/step-469d0600.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop garlic. <br>• Trim and thinly slice pea pods lengthways.<br>• Thinly slice carrot into sticks. <br>• Roughly chop Asian greens.<br>• In a small heatproof bowl, combine garlic, sesame <br>seeds, the soy sauce, vinegar, a good pinch of <br>sugar and a pinch of chilli flakes (if using).<br>• In a large frying pan, heat some olive oil (1/2 tbsp per <br>person) over high heat, until just smoking,  <br>30 seconds-1 minute, then carefully pour the oil <br>over the garlic mixture. Set aside.</p> <p><br>TIP: The hot oil will bubble up and ‘cook’ the garlic. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4fa01c1713d196bd6e052a/step-8de30010.jpg"
+    },
+    {
+      "text": "• <p>• Re-boil the kettle. <br>• Half-fill a large saucepan with boiling water.<br>• Cook udon noodles over medium-high heat, gently <br>stirring with a fork to separate, until tender,  <br>1-2 minutes.<br>• Drain, rinse and set aside.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4fa01c1713d196bd6e052a/step-6a99b820.jpg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with a <br>drizzle of olive oil.<br>• When the oil is hot, add vegetable gyozas, flat-side <br>down, in a single layer.<br>• Cook until starting to brown, 1-2 minutes. Add the <br>water (for the gyozas) (watch out, it may spatter!) <br>and cover with a lid (or foil).<br>• Cook until the water has evaporated and gyozas are <br>tender and softened, 4-5 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4fa01c1713d196bd6e052a/step-5a622930.jpg"
+    },
+    {
+      "text": "• <p>• When the noodles are done, return saucepan to <br>medium-high heat with a drizzle of olive oil. <br>• Cook Hainanese paste and ginger lemongrass <br>paste until fragrant, 1 minute.<br>• Add the water (for the soup), Asian greens, carrot, <br>pea pods, soy sauce mix and stock concentrate, <br>then bring to the boil.<br>• Reduce heat to low. Simmer until veggies are just <br>wilted, 2-3 minutes. <br>• Season to taste with salt and pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4fa01c1713d196bd6e052a/step-ac069040.jpg"
+    },
+    {
+      "text": "• <p>• Divide cooked noodles and halved jammy eggs <br>between bowls.<br>• Pour over broth and top with vegetable gyozas. <br>• Drizzle over chilli-sesame oil to serve. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4fa01c1713d196bd6e052a/step-7c947150.jpg"
+    }
+  ]
+}

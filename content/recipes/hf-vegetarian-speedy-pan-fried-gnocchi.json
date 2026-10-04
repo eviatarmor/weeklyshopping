@@ -1,0 +1,135 @@
+{
+  "slug": "hf-vegetarian-speedy-pan-fried-gnocchi",
+  "kind": "meal",
+  "title": "(Vegetarian) Speedy Pan-Fried Gnocchi",
+  "subtitle": "with Creamy Basil Pesto & Garden Salad",
+  "description": "What could be more comforting than a good bowl of crispy on the outside, and pillowy soft on the inside, potato gnocchi...? Well, only gnocchi that’s lightly fried and topped with creamy basil pesto sauce, obviously. Bon appetit!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/vegetarian-speedy-pan-fried-gnocchi-5aa8b16a30006c44fa64df42",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5aa8b16a30006c44fa64df42-c6a39da5.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "block",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427be4dab7105578b456b.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Roma Tomato",
+      "qty": 2,
+      "product": "roma-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57989863b2baaf083c8b4567.png"
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pine-nuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d580af8b25e246c8b4569.png"
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556860784dab71af1d8b4567.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "tub",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Gnocchi",
+      "qty": 0.75,
+      "unit": "packet",
+      "product": "gnocchi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682ef6f8b25e643e8b4568.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely grate the **Parmesan cheese**. Zest the **lemon** to get a pinch and slice into wedges. Peel and crush the **garlic**. Dice the **zucchini**. Dice the **Roma tomato**.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-13a452c0.jpg"
+    },
+    {
+      "text": "• Finely chop the **pine nuts** and the **basil** (reserve a few leaves for garnish!). In a medium bowl, combine the **Greek yoghurt**, pine nuts, basil, **Parmesan** and a pinch of **lemon zest**. Season with **black pepper**. Stir and set aside. **TIP:** Use a blender or mortar and pestle for a smoother pesto if you like.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-c0c4e476.jpg"
+    },
+    {
+      "text": "• Heat a **generous drizzle** of **olive oil** in a large frying pan over high heat. Once hot, add the **gnocchi (use suggested amount)** in a single layer and fry for **6-8 minutes**, or until golden. Season with a **pinch** of **salt** and **pepper**. **TIP:**  No need to boil the gnocchi first, it can go straight into the frying pan! **TIP:**  Make sure you don't overcrowd the pan – the gnocchi must be in a single layer to ensure even cooking. **TIP:**  Add **extra oil** if required to prevent sticking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-a4fcc943.jpg"
+    },
+    {
+      "text": "• Add the **garlic** and **zucchini** to the pan and cook for **2-3 minutes**, or until softened and fragrant. Add the **tomato** and cook for **1-2 minutes**, or until warmed through. Remove the pan from the heat and add the **basil pesto** sauce. Toss well to coat the **gnocchi**.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-aae71368.jpg"
+    },
+    {
+      "text": "• While the gnocchi are cooking, combine the **vinegar, honey** and **olive oil (3 tsp for 2 people / 1 1/2 tbs for 4 people)** in a medium bowl. Add the **mixed salad leaves** and toss to coat. **TIP:**  Add the salad leaves just before serving to prevent soggy leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-d749c765.jpg"
+    },
+    {
+      "text": "• Divide the gnocchi between bowls. Sprinkle over the **reserved basil leaves**. Serve the salad and lemon wedges on the side.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-e37861d1.jpg"
+    }
+  ]
+}

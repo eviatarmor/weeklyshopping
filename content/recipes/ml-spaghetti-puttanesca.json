@@ -1,0 +1,106 @@
+{
+  "slug": "ml-spaghetti-puttanesca",
+  "kind": "meal",
+  "title": "Spaghetti Puttanesca",
+  "sourceUrl": "https://www.mealime.com/recipes/spaghetti-puttanesca/2120",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/238/presentation_2a0d1be6-b733-40d6-a10c-50c77b8638c8.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capers",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "capers"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 820,
+      "unit": "g",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Fresh Basil",
+      "qty": 1,
+      "product": "basil"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Kalamata Olives (pitted)",
+      "qty": 1,
+      "unit": "cup",
+      "product": "olives"
+    },
+    {
+      "name": "Spaghetti Pasta",
+      "qty": 340,
+      "unit": "g",
+      "product": "spaghetti"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Crushed Red Pepper",
+      "product": "red-capsicum",
+      "pantry": true
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Oregano (dried)",
+      "product": "dried-oregano",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot halfway with water, cover, and bring to a boil. Uncover, add salt and pasta, and stir for a few seconds. Cook until desired firmness, 8-10 minutes."
+    },
+    {
+      "text": "Heat a skillet over medium heat."
+    },
+    {
+      "text": "Peel and mince garlic. Halves olives. Measure out capers."
+    },
+    {
+      "text": "Coat bottom of skillet with oil. Add garlic, olives, capers, oregano, and crushed red pepper. Stir and cook for 1-2 minutes."
+    },
+    {
+      "text": "Add tomatoes and bring to a boil. Reduce heat and simmer the sauce while the pasta cooks."
+    },
+    {
+      "text": "Wash basil. Pick leaves off the stems; discard the stems and thinly slice the leaves into ribbons."
+    },
+    {
+      "text": "Drain pasta in a colander."
+    },
+    {
+      "text": "Add pasta to sauce and drizzle with olive oil. Stir in the basil and season with salt and pepper. Toss to combine."
+    },
+    {
+      "text": "To serve, add pasta to a shallow bowl or plate and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "thai-spice-blend",
+  "kind": "blend",
+  "title": "Thai Spice Blend",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (coriander, ginger, garlic and chilli). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [
+    "Thai Spice Mix"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Ground Ginger",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

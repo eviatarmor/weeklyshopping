@@ -1,0 +1,171 @@
+{
+  "slug": "hf-plant-based-crumbed-chicken-potato-cauliflower-and-thyme-gratin",
+  "kind": "meal",
+  "title": "Plant-Based Crumbed Chick'n, Potato, Cauliflower & Thyme Gratin",
+  "subtitle": "with Pear Salad & Almonds",
+  "description": "When you top roast plant-based crumbed chick'n, potato and cauliflower with a Dijon and Parmesan-laced cream sauce, you can't go wrong. Add the finishing touch with a thyme-panko crust, plus a simple pear salad for a touch of sweetness and tang.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/potato-cauliflower-and-thyme-gratin-67f8341c4264524ca978b26e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W13_AUS_MAIN_F1_high-4f80c9cc.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "australian",
+    "healthy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349d-a27df8b5.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6b-38d72c27.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237bc3405d840b2be39c5-48d979b1.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f82e050d0527cba53a4995-36d072e9.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "thyme",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572382a3405d840b2be3c15-48ecde76.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "packet",
+      "product": "dijon-mustard",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237323405d840b2be36da-273ec690.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dda29690d86caac925ac-6e750a2c.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. • Cut potato and cauliflower into bite-sized chunks. • Place veggies in a baking dish. Drizzle with olive oil and season to taste with a generous pinch of salt and pepper. • Toss to coat, then roast until tender, 20-25 minutes. TIP: If your baking dish is crowded, divide the veggies between two dishes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834014cd9848b9dac04a2ee/step-ed9f1200.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice red onion. • Finely chop garlic. • Pick thyme leaves. • In a medium bowl, combine a generous drizzle of olive oil, thyme and panko breadcrumbs (see ingredients). Season with pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834014cd9848b9dac04a2ee/step-ff423a10.jpg"
+    },
+    {
+      "text": "• <p>• When the veggies have 10 minutes remaining, heat a large frying pan over medium-high heat with the butter and a drizzle of olive oil. • Cook onion, stirring, until softened, 4-5 minutes. • Add garlic and cook until fragrant, 1-2 minutes. • Remove pan from heat. Add Dijon mustard, vegetable stock (see ingredients), light cooking cream and Parmesan cheese. Stir to combine. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834014cd9848b9dac04a2ee/step-9ad97220.jpg"
+    },
+    {
+      "text": "• <p>• To the baking dish with roasted veggies, pour over the creamy sauce. • Sprinkle evenly with the breadcrumb mixture. • Bake until golden, 5-10 minutes. • In a large frying pan, heat enough olive oil to coat base over medium-high heat. • Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side. • Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834014cd9848b9dac04a2ee/step-06d4ff30.jpg"
+    },
+    {
+      "text": "• <p>• While the gratin is baking, thinly slice pear into wedges. • In a second medium bowl, add a drizzle of balsamic vinegar and olive oil. Season to taste, then add pear and mixed salad leaves. Toss to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834014cd9848b9dac04a2ee/step-1bf88140.jpg"
+    },
+    {
+      "text": "• <p>• Slice plant-based crumbed chicken. • Divide plant-based crumbed chicken, potato, cauliflower and thyme gratin and pear salad between plates to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834014cd9848b9dac04a2ee/step-610ac850.jpg"
+    }
+  ]
+}

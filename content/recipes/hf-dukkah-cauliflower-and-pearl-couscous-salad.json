@@ -1,0 +1,164 @@
+{
+  "slug": "hf-dukkah-cauliflower-and-pearl-couscous-salad",
+  "kind": "meal",
+  "title": "Dukkah Cauliflower & Pearl Couscous Salad",
+  "subtitle": "with Roast Veggies & Garlic Yoghurt",
+  "description": "This delightful dish is a celebration of wholesome roasted veggies with pearl couscous and fragrant mint. Add dukkah and roasted almonds for extra flavour and crunch, then top it off with a drizzle of garlicky yoghurt.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/dukkah-cauliflower-and-pearl-couscous-salad-5e7ace067a601e74921e706f",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/dukkah-cauliflower-roast-veggie-couscous-salad-789df230.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Dukkah",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "dukkah-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d4c4dab7106578b456d.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Pearl Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555bed43fd2cb95d648b4569.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55b9af2ff8b25e7d298b4567.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add540630006c5a312d1f32-01559f82.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Chop\n• the cauliflower into small florets and roughly chop\n• the stem. Place the cauliflower and a drizzle of\n• olive oil on an oven tray lined with baking paper\n• and toss to coat. Cut the sweet potato (unpeeled)\n• into 2cm chunks. Cut the beetroot (unpeeled) into\n• 1cm chunks. Cut the red onion into 2cm wedges.\n• TIP: Cut the veggies to size so they cook in time.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e7ace067a601e74921e706f/step-b117de1f.jpg"
+    },
+    {
+      "text": "• Place the sweet potato, beetroot and onion on\n• a second oven tray lined with baking paper.\n• Drizzle with olive oil and season with salt and\n• pepper.Toss to coat. Roast both trays until tender,\n• 25-30 minutes. In the last 10 minutes of cook time,\n• sprinkle the dukkah over the cauliflower and\n• roast until toasted. Set aside to cool.\n• TIP: Beetroot stays firm when cooked. It’s done\n• when you can pierce it with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e7ace067a601e74921e706f/step-ff1bcf01.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, finely chop the\n• garlic. In a large frying pan, heat a drizzle of olive\n• oil and the garlic over a medium-high heat. Cook\n• until fragrant, 1 minute. Transfer to a small bowl.\n• Add the Greek yoghurt to the garlic oil mixture\n• and whisk to combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e7ace067a601e74921e706f/step-9e52e05b.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium-high heat with\n• a drizzle of olive oil. Add the pearl couscous and\n• toast, stirring occasionally, until golden,\n• 1-2 minutes. Add the water and crumbled\n• vegetable stock (1 cube for 2 people / 2 cubes for\n• 4 people). Reduce the heat to medium and simmer,\n• stirring occasionally, until the couscous is tender\n• and the water has been absorbed, 10-12 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e7ace067a601e74921e706f/step-50635aca.jpg"
+    },
+    {
+      "text": "• While the couscous is cooking, roughly chop the\n• tomato and roasted almonds. Pick and thinly slice\n• the mint leaves. In a large bowl, combine olive oil\n• (2 tsp for 2 people / 1 tbs for 4 people), vinegar,\n• and honey. Season with salt and pepper. Add the\n• pearl couscous, tomato, mint, roasted sweet\n• potato, beetroot and red onion, and the baby\n• spinach leaves. Toss to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e7ace067a601e74921e706f/step-9bbc5479.jpg"
+    },
+    {
+      "text": "• Divide the pearl couscous salad between plates\n• and top with the dukkah cauliflower. Sprinkle with\n• any dukkah remaining on the oven tray. Spoon\n• over the garlic yoghurt and sprinkle with the\n• roasted almonds.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e7ace067a601e74921e706f/step-1cbadacf.jpg"
+    }
+  ]
+}

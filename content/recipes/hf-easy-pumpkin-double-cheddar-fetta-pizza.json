@@ -1,0 +1,143 @@
+{
+  "slug": "hf-easy-pumpkin-double-cheddar-fetta-pizza",
+  "kind": "meal",
+  "title": "Easy Pumpkin, Double Cheddar & Fetta Pizza",
+  "subtitle": "with Caramelised Onion & Rocket Salad",
+  "description": "Time for a pizza that totally beats takeaway! Top a crisp base with roasted pumpkin and zucchini plus creamy fetta, then add a fresh\ngreen salad on the side to make a meal that's isn't just delicious, but well-rounded too.\nThe recent harsh weather conditions have impacted the zucchini grown by our farmers.\nThe quality and freshness is still the same, but they may be a little smaller than usual.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-pumpkin-double-cheddar-fetta-pizza-615d0a32433192063561bc22",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-pumpkin-double-cheddar-fetta-pizza-6de7f868.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Pizza Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pasta-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55683b68fd2cb984278b4567.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/560b7cc8fd2cb9a5278b4568.png"
+    },
+    {
+      "name": "Peeled & Chopped Pumpkin",
+      "qty": 1,
+      "unit": "bag",
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc681cdae08b514cf7dbb12-50b8be5b.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Pizza Bases",
+      "qty": 2,
+      "product": "pizza-bases",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55791b34fd2cb9ea3e8b4569.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5b0bacce30006c447f4e8be1-a3981ef2.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 2,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5b0baca130006c440c5b0c42-a3981ef2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Thinly slice zucchini into rounds. Place zucchini and peeled & chopped pumpkin on a lined oven tray. Drizzle with olive oil, sprinkle with garlic & herb seasoning and season with salt and pepper. Toss to coat, then spread out in a single layer.\n• Roast until just tender, 15-20 minutes. TIP: If your oven tray is crowded, divide veggies between two trays",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/615d0a32433192063561bc22/step-8421b5bb.jpg"
+    },
+    {
+      "text": "• While veggies are roasting, thinly slice red onion.\n• In a medium frying pan, heat a drizzle of olive oil over a medium heat. Cook onion, stirring regularly, until softened, 5-6 minutes. Add balsamic vinegar (for the onions), the water and brown sugar. Mix well. Cook until dark and sticky, 3-5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/615d0a32433192063561bc22/step-ab8d3622.jpg"
+    },
+    {
+      "text": "• Lay pizza bases on a flat surface, rough side-down. Using the back of a spoon, spread pizza sauce evenly across bases. Top evenly with roastedveggies and caramelised onion. Sprinkle with shredded Cheddar cheese.\n• Place pizzas directly on a wire rack in the oven. Bake until cheese is melted and golden, 10-12 minutes.\n• Meanwhile, thinly slice pear. Place in a medium bowl, then top with rocket leaves and a drizzle of olive oil and balsamic vinegar. Toss to coat. Season to taste. TIP: Baking the pizzas directly on the wire rack helps the bases crisp up!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/615d0a32433192063561bc22/step-d619c0d4.jpg"
+    },
+    {
+      "text": "• Dress salad with a drizzle of olive oil and balsamic vinegar (for the salad). Toss to coat. Season to taste.\n• Crumble fetta cubes over the pumpkin and zucchini pizza.\n• Slice pizza, then top with some rocket salad.\n• Serve with remaining salad.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/615d0a32433192063561bc22/step-a724d766.jpg"
+    }
+  ]
+}

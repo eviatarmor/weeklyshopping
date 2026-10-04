@@ -1,0 +1,159 @@
+{
+  "slug": "ep-indian-veggie-packed-chickpea-curry",
+  "kind": "meal",
+  "title": "Indian Veggie-Packed Chickpea Curry",
+  "subtitle": "with Butter Rice & Flaked Almonds",
+  "description": "Hope you're hungry! This is an extra-big serve. Dig into this fragrant curry packed with tender veggies and chickpeas. Soak up all richness and depth of the bold curry flavours with a bed of fluffy rice.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/indian-veggie-packed-chickpea-curry-66908b8bba3419004e45a50f",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66908b8bba3419004e45a50f-32909e16.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "indian",
+    "climate hero",
+    "winter-warmers"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 2,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Curry Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "curry-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eea0d1b30539e48127973cb-b049e7e0.png"
+    },
+    {
+      "name": "Masala Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/596d898ba1e1ea6445652fe2-30d38921.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add667930006c66b57f1712-2fea204a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut carrot and zucchini into bite-sized chunks and place on the lined oven tray. Season with salt and drizzle with olive oil.\n• Toss to coat and roast until tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66908b8bba3419004e45a50f-1a8333ec.jpeg"
+    },
+    {
+      "text": "• Meanwhile, melt the butter with a dash of olive oil, in a medium saucepan over medium heat.\n• Add basmati rice, the water (for the rice) and a generous pinch of salt and bring to the boil.\n• Reduce heat to low and cover with a lid. Cook for 10 mins, then remove from heat and keep covered until rice is tender and the water absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66908b8bba3419004e45a50f-4d99a55e.jpeg"
+    },
+    {
+      "text": "• While rice is cooking, drain and rinse chickpeas.\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook chickpeas until softened, 2-3 mins.\n• Add ginger paste, curry spice blend, masala spice blend and tomato paste and cook until fragrant, 1 min. Stir in coconut milk, the stock powder and the water (for the curry) and simmer until slightly thickened, 2-3 mins.\n• Remove from heat and stir through roast veggies and baby spinach until wilted and combined. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66908b8bba3419004e45a50f-0380ff2c.jpeg"
+    },
+    {
+      "text": "• Divide rice and Indian veggie-packed chickpea curry between bowls.\n• Top with yoghurt and flaked almonds.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66908b8bba3419004e45a50f-4f46fe13.jpeg"
+    }
+  ]
+}

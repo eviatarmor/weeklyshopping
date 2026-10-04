@@ -1,0 +1,145 @@
+{
+  "slug": "ep-italian-corn-and-cheese-fritters",
+  "kind": "meal",
+  "title": "Italian Corn & Cheese Fritters",
+  "subtitle": "with Roast Potatoes & Salad",
+  "description": "Corn fritters get a boost with mild curry spices and a fresh salad on the side! Fried golden brown and oh-so-delicious, these sweet and savoury morsels bring loads of flavour and fun to the table.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/italian-corn-and-cheese-fritters-67f833f34264524ca978b1f4",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/650bc72ce5dab58ab5faeef3-1151b928-2900faac.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "everyplate",
+    "italian",
+    "vegetarian",
+    "pies-fries-beyond"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b4960-b67728c7.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237313405d840b2be36cb-a695cfe8.png"
+    },
+    {
+      "name": "Traditional Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c32-8efbf814.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5094-b270df3d.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde12793e8cdd8467eb9-1b6a727d.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271b-6bab1a34.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf52793e8cdd8467edf-72b2418f.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f11-25387a5d.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c8-273dce73.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Cut potato into bite-sized chunks and place on the lined oven tray. Season with salt and drizzle with olive oil.<br>• Toss to coat and roast until tender, 20-25 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6859e10d971405a9ee1f347f/step-6740cb00.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice brown onion. Drain sweetcorn. Grate carrot. Using a paper towel, squeeze out any moisture from the carrot.<br>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook onion until tender, 4-5 mins.<br>• In a medium bowl, combine corn, carrot, cooked onion, pesto-flavoured powder, Cheddar cheese, the plain flour, egg, milk and a pinch of pepper (if it’s too wet, add more flour).</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6859e10d971405a9ee1f347f/step-6c62f210.jpeg"
+    },
+    {
+      "text": "• <p>• Return pan to medium-high heat with enough olive oil to coat the base.<br>• When oil is hot, cook heaped spoonfuls of fritter mixture, flattening with a spatula, until golden, 3-4 mins each side (don’t flip too early!). You should get 3-4 fritters per person. Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6859e10d971405a9ee1f347f/step-c76c6d20.jpeg"
+    },
+    {
+      "text": "• <p>• Roughly chop tomato. In a second medium bowl, combine the honey and a drizzle of vinegar and olive oil. Add tomato and salad leaves and toss to coat. Season to taste.<br>• Divide fritters, potatoes and salad between plates. <br>• Serve with dill &amp; parsley mayonnaise.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6859e10d971405a9ee1f347f/step-59751f30.jpeg"
+    }
+  ]
+}

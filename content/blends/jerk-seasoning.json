@@ -1,0 +1,91 @@
+{
+  "slug": "jerk-seasoning",
+  "kind": "blend",
+  "title": "Jerk Seasoning",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 12 garlic powder, 12 dried thyme, 8 onion powder, 8 dried oregano, 4 sweet paprika, 4 white sugar, 4 ground allspice, 2 ground cinnamon, 1 white pepper, 1 cayenne pepper.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Jamaican Jerk Seasoning",
+    "Jerk Spice Blend",
+    "Mild Caribbean Jerk Seasoning",
+    "Caribbean Jerk Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic Powder",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Dried Thyme",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "dried-thyme"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "White Sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Ground Allspice",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-allspice"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "White Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "white-pepper"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

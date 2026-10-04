@@ -1,0 +1,70 @@
+{
+  "slug": "ml-pecan-maple-roasted-strawberry-oatmeal",
+  "kind": "meal",
+  "title": "Pecan & Maple Roasted Strawberry Oatmeal",
+  "sourceUrl": "https://www.mealime.com/recipes/pecan-maple-roasted-strawberry-oatmeal/7000",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/796/presentation_f0445ffe-71d5-43ec-8482-830803904953.jpeg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pecan Halves",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pecans"
+    },
+    {
+      "name": "Strawberries",
+      "qty": 905,
+      "unit": "g",
+      "product": "strawberries"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 235,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 400°F. Line a baking sheet with parchment paper."
+    },
+    {
+      "text": "Wash and dry strawberries; trim stem ends and slice."
+    },
+    {
+      "text": "Transfer strawberries to baking sheet, drizzle with maple syrup, and spread out in a single layer. Roast until softened, 10-13 minutes."
+    },
+    {
+      "text": "Roughly chop pecans."
+    },
+    {
+      "text": "Add salt and water to a medium saucepan and bring to a boil over high heat. Once boiling, stir in oats and reduce heat to medium. Cover and let simmer for 3-5 minutes or until oats reach desired consistency."
+    },
+    {
+      "text": "To serve, divide oats between bowls and top with strawberries, pecans, and milk. Enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "ml-apple-slices-cinnamon-honey-peanut-butter",
+  "kind": "meal",
+  "title": "Apple Slices with Cinnamon-Honey Peanut Butter",
+  "sourceUrl": "https://www.mealime.com/recipes/apple-slices-cinnamon-honey-peanut-butter/22301",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2529/presentation_33a8fcf0-a2f8-4847-9580-5d12d5880290.jpeg",
+  "servings": 4,
+  "prepMinutes": 10,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Gala Apples",
+      "qty": 4,
+      "product": "apple"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Natural Peanut Butter",
+      "product": "peanut-butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place peanut butter, honey, and cinnamon in a small bowl. Mash and combine with the back of a spoon until smooth. Set aside."
+    },
+    {
+      "text": "Wash, dry, quarter, and core apples; slice into wedges."
+    },
+    {
+      "text": "Divide apples between plates. Serve with cinnamon-honey peanut butter for dipping. Enjoy!"
+    }
+  ]
+}

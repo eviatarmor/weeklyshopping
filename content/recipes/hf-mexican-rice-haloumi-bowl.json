@@ -1,0 +1,167 @@
+{
+  "slug": "hf-mexican-rice-haloumi-bowl",
+  "kind": "meal",
+  "title": "Mexican Rice & Glazed Haloumi Bowl",
+  "subtitle": "with Charred Corn Salsa & Extra Sour Cream",
+  "description": "Imagine a bed of rice infused with the Mexican flavours you love, then topped with honey haloumi and a refreshing corn, cucumber and tomato salsa. Now stop imagining, because here it is!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-rice-haloumi-bowl-67e23af5c5233ff27ac0a536",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67e23af5c5233ff27ac0a536-1e2f328a-bd529f7f.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "taste latin america",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Light Sour Cream",
+      "qty": 2,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723722105c9621030b49de-d90ccc30.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833824264524ca978af82-b1eb7d76.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c78-17de963b.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd739690d86caac9255c-2ebeac3e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop brown onion and garlic. <br>• In a medium saucepan, melt the butter with a dash of olive oil over medium heat. Cook onion until softened, 3-4 minutes. <br>• SPICY! This spice blend is mild, but use less if you&#39;re sensitive to heat. Add garlic, Tex-Mex spice blend and tomato paste and cook, until fragrant, 1-2 minutes. Add basmati rice, the water and vegetable stock powder, stirring to combine. Bring to the boil, then reduce heat to low and cover with a lid. <br>• Cook for 12 minutes, then remove from heat. Keep covered until rice is tender and water is absorbed, 15 minutes. <br><br>TIP: The rice will finish cooking in its own steam, so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23af5c5233ff27ac0a536/step-c60a0400.jpg"
+    },
+    {
+      "text": "• <p>• While the rice is cooking, add haloumi to a medium bowl and cover with water to soak.<br>• Slice kernels off corn cob.<br>• Finely chop tomato and cucumber. Roughly chop coriander.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23af5c5233ff27ac0a536/step-b5675010.jpg"
+    },
+    {
+      "text": "• <p>• Heat a large frying pan over high heat. Cook corn kernels until lightly browned, 4-5 minutes.<br>• Transfer charred corn to a medium bowl.<br>• To the bowl with corn, add tomato, cucumber, coriander and a drizzle of white wine vinegar and olive oil. Toss to combine. Season to taste.<br><br>TIP: Cover the pan with a lid if the corn kernels are &#34;popping&#34; out.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23af5c5233ff27ac0a536/step-2a105820.jpg"
+    },
+    {
+      "text": "• <p>• Drain haloumi and pat dry with paper towel. Cut haloumi into 1cm-thick slices.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23af5c5233ff27ac0a536/step-d9c8f330.jpg"
+    },
+    {
+      "text": "• <p>• When the rice has 5 minutes remaining, return frying pan to medium-high heat with a drizzle of olive oil.<br>• Cook haloumi until golden brown, 1-2 minutes each side.<br>• Remove pan from heat and add a drizzle of honey, turning haloumi to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23af5c5233ff27ac0a536/step-a9617240.jpg"
+    },
+    {
+      "text": "• <p>• Divide Mexican rice between bowls. <br>• Top with charred corn salsa and haloumi. <br>• Dollop over light sour cream to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23af5c5233ff27ac0a536/step-82745750.jpg"
+    }
+  ]
+}

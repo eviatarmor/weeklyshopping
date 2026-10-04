@@ -1,0 +1,170 @@
+{
+  "slug": "hf-mexican-chickpea-fried-rice",
+  "kind": "meal",
+  "title": "Mexican Chickpea Fried Rice",
+  "subtitle": "with Cheddar, Chipotle Sour Cream & Jalapeños",
+  "description": "You thought you knew fried rice, but then we made it Mexican! This one is brimming with hearty chickpeas, vibrant veggies and\nMexican spices for some heat. Top with cheese, a refreshing coriander-spiked salsa and a dollop of the cooling sour cream.\nUnfortunately, this week’s black beans were in short supply, so we’ve replaced them with chickpeas. Don’t worry, the recipe will be just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-chickpea-fried-rice-624d0562a3fddc1a051e53ef",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-chickpea-fried-rice-517ba84d.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "spicy",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/606d14714f75e662fe596b02-03c06826.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Mild Chipotle Sauce",
+      "qty": 1,
+      "unit": "tub",
+      "product": "chipotle-in-adobo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jalapenos",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609a3915d3daac3d5406a549-e0722b6b.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695d5730006c33520e3181-cdb3da6d.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a medium saucepan, add the water and bring\n• to the boil. Add basmati rice and vegetable stock\n• powder, stir, cover with a lid and reduce heat to\n• low. Cook for 10 minutes, then remove pan from\n• heat and keep covered until rice is tender and\n• water is absorbed, 10 minutes.\n• TIP: The rice will finish cooking in its own steam, so\n• don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/624d0562a3fddc1a051e53ef/step-9d2268ea.jpg"
+    },
+    {
+      "text": "• SPICY! The chipotle sauce is mild, but use less\n• if you're sensitive to heat! Meanwhile, finely\n• chop garlic. Finely chop capsicum. Grate the\n• carrot. Thinly slice spring onion. Drain and\n• rinse chickpeas. Drain the sweetcorn. In a small\n• bowl, combine light sour cream and mild\n• chipotle sauce.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/624d0562a3fddc1a051e53ef/step-a3b9312b.jpg"
+    },
+    {
+      "text": "• Roughly chop tomato and coriander. Slice lemon\n• into wedges. In a medium bowl, combine tomato,\n• coriander and a squeeze of lemon juice. Drizzle\n• with olive oil, then toss to combine. Season with\n• salt and pepper to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/624d0562a3fddc1a051e53ef/step-d1812435.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil\n• over high heat. Cook capsicum and corn, tossing,\n• until almost tender, 3-4 minutes. Add carrot and\n• chickpeas and cook until softened, 2-3 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/624d0562a3fddc1a051e53ef/step-a7b983b4.jpg"
+    },
+    {
+      "text": "• SPICY! You might find the spice blend hot! Add less if\n• you're sensitive to heat.\n• Add garlic, Mexican Fiesta\n• spice blend and another drizzle of olive oil to the\n• pan and cook, tossing, until fragrant, 1 minute.\n• Add cooked rice and spring onion and cook,\n• stirring, until tender, 2 minutes. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/624d0562a3fddc1a051e53ef/step-c34acf71.jpg"
+    },
+    {
+      "text": "• Divide Mexican chickpea fried rice between bowls.\n• Sprinkle with shredded Cheddar cheese and\n• pickled jalapeños (if using). Top with chipotle sour\n• cream and tomato salsa. Serve with any remaining\n• lemon wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/624d0562a3fddc1a051e53ef/step-55e4cbb6.jpg"
+    }
+  ]
+}

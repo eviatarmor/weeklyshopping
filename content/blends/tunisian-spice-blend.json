@@ -1,0 +1,83 @@
+{
+  "slug": "tunisian-spice-blend",
+  "kind": "blend",
+  "title": "Tunisian Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 4 caraway seeds, 4 ground coriander, 4 smoked paprika, 4 ground turmeric, 4 chilli powder, 4 garlic powder, 1 cayenne pepper, 1 ground cinnamon, 1 black pepper.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Tunisian Spice",
+    "Tunisian Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Caraway Seeds",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "caraway-seeds"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

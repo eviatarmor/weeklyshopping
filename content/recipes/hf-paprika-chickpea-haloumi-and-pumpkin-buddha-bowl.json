@@ -1,0 +1,164 @@
+{
+  "slug": "hf-paprika-chickpea-haloumi-and-pumpkin-buddha-bowl",
+  "kind": "meal",
+  "title": "Paprika Chickpea, Haloumi & Pumpkin Buddha Bowl",
+  "subtitle": "with Spinach Slaw, Plant-Based Aioli & Almonds",
+  "description": "This bowl of nourishment will leave you feeling satisfied and energised in equal measure. Between crunchy cabbage, roasted pumpkin and tasty chermoula-spiced chickpeas and haloumi, every bite is a delight.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/paprika-chickpea-and-pumpkin-buddha-bowl-67f8424d4264524ca978fcbb",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64ebe8bd55bae2597a5a76eb-eca67555-4727c09d.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "australian",
+    "healthy",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237193405d840b2be3660-48f13097.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Paprika Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "paprika-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b63405d840b2be39a7-cb650de1.png"
+    },
+    {
+      "name": "Plant-Based Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237cb3405d840b2be3a29-6227deed.png"
+    },
+    {
+      "name": "Peeled & Chopped Pumpkin",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc681cdae08b514cf7dbb12-50b8be5b.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833494264524ca978ae45-dfaa5967.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805b33a6ad8f0f05b84-d621b5cf.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddaf9690d86caac925bc-0e86e3f2.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd609690d86caac9252c-ccf6ae55.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. • In a medium bowl, place haloumi and cover with water to soak. • Place peeled &amp; chopped pumpkin on a lined oven tray. Drizzle with olive oil, sprinkle with garlic &amp; herb seasoning and season with salt. • Toss to coat, then spread out evenly. Roast until tender, 20-25 minutes. TIP: If your oven tray is crowded, divide the pumpkin between two trays.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80d035963fcd98f40ac8/step-eeb61200.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop garlic. • Drain and rinse half the chickpeas. Drain haloumi and pat dry. Cut the haloumi into 1cm-thick slices.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80d035963fcd98f40ac8/step-9a204d10.jpg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine baby spinach leaves, shredded cabbage mix and half the plant-based aioli. • Drizzle with olive oil, then season with salt and pepper. Toss to combine.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80d035963fcd98f40ac8/step-eb523020.jpg"
+    },
+    {
+      "text": "• <p>• When the pumpkin has 10 minutes remaining, heat a medium saucepan over medium-high heat with a drizzle of olive oil. • Cook garlic, paprika spice blend and tomato paste, stirring, until fragrant, 1-2 minutes.• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook haloumi until golden brown, 1-2 minutes each side. Transfer to a plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80d035963fcd98f40ac8/step-22ac7f30.jpg"
+    },
+    {
+      "text": "• <p>• Add chickpeas, the water, the plant-based butter and the brown sugar to the paprika mixture. • Cook, stirring, until slightly thickened, 3-4 minutes. • Remove pan from heat and add the honey. Season with pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80d035963fcd98f40ac8/step-0a38bc40.jpg"
+    },
+    {
+      "text": "• <p>• Roughly chop roasted almonds. • Divide paprika chickpeas, haloumi and roasted pumpkin between bowls. Serve with slaw. • Sprinkle with almonds and top with a dollop of remaining plant-based aioli to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80d035963fcd98f40ac8/step-49b42850.jpg"
+    }
+  ]
+}

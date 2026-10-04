@@ -1,0 +1,150 @@
+{
+  "slug": "hf-roast-cauliflower-biryani",
+  "kind": "meal",
+  "title": "Roast Cauliflower Biryani",
+  "subtitle": "with Currants, Almonds & Yoghurt",
+  "description": "Curry on rice is all well and good, but when the rice itself is cooked with the curry paste? Now that’s magical. Studded with sweet\ncurrants, fresh herbs and roasted cauliflower, this Indian-inspired dish delivers flavour with every bite.\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-cauliflower-biryani-61c3bc4d9804ac3bb141e8e2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/667151d8de5ffd5651f64e31-d3f2e754.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "calorie smart",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3947-37d298e9.png"
+    },
+    {
+      "name": "Bengal Curry Paste",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e43405d840b2be356a-a47c7cfa.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d6b33a6ad8f0f05665-90e92521.png"
+    },
+    {
+      "name": "Currants",
+      "qty": 1,
+      "unit": "packet",
+      "product": "currants",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572372c3405d840b2be36b4-e4ab9d9d.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55b9af2ff8b25e7d298b4567.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238613405d840b2be3d19-be3b4e00.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220ºC/200ºC fan-forced.\n• Chop cauliflower into small florets.\n• Thickly slice carrot into half-moons.\n• Thinly slice brown onion (see ingredients).\n• Finely chop garlic.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667151d8de5ffd5651f64e31-448f7a29.jpeg"
+    },
+    {
+      "text": "• Place cauliflower and carrot on a lined oven tray. Drizzle with olive oil, sprinkle with Mumbai spice blend and season with salt and pepper.\n• Toss to coat. Roast until tender and brown around the edges, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667151d8de5ffd5651f64e31-f4c6de43.jpeg"
+    },
+    {
+      "text": "• Meanwhile, heat a drizzle of olive oil in a large saucepan over medium-high heat.\n• Cook onion, stirring, until slightly softened, 4-5 minutes.\n• Add another drizzle of olive oil, Bengal curry paste (see ingredients) and garlic and cook, stirring, until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667151d8de5ffd5651f64e31-1cf7af5f.jpeg"
+    },
+    {
+      "text": "• Add basmati rice and currants, stirring to coat.\n• Add the water and vegetable stock pot, then bring to the boil.\n• Cover and reduce heat to medium-low. Cook for 12 minutes, then remove pan from heat.\n• Keep covered until rice is tender and the water is absorbed, 15 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667151d8de5ffd5651f64e31-af5aa606.jpeg"
+    },
+    {
+      "text": "• Meanwhile, roughly chop roasted almonds. Roughly chop coriander.\n• When rice is done, stir through roasted veggies and almonds.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667151d8de5ffd5651f64e31-0becaf2c.jpeg"
+    },
+    {
+      "text": "• Thinly slice long chilli (if using).\n• Divide roast cauliflower biryani between bowls. Top with a dollop of Greek-style yoghurt.\n• Sprinkle with chilli and coriander to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667151d8de5ffd5651f64e31-485cd2dc.jpeg"
+    }
+  ]
+}

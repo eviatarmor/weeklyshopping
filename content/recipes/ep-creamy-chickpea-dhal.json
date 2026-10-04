@@ -1,0 +1,135 @@
+{
+  "slug": "ep-creamy-chickpea-dhal",
+  "kind": "meal",
+  "title": "Creamy Chickpea Dhal",
+  "subtitle": "with Flatbread Dippers",
+  "description": "Whip up a hearty bowl of mildly spiced lentils with the richness of coconut milk and for a special touch, bake up a mountain of crisp and golden flatbread dippers to round out your meal.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/creamy-chickpea-dhal-60f9225c73ae8755b109d371",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-lentil-dhal-74094dd9.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "indian",
+    "speedy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fcb4ecbf90d9f5285a7-908e420f.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f844ecbf90d9f528435-34de32d5.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528452-95bf4017.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fcc4ecbf90d9f5285ab-560eacae.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f904ecbf90d9f528470-7142aee3.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60920da79f5a865a971191ec-531ce6df.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f3-922cde24.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39ff24ecbf90d9f528660-abd39ad0.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f944ecbf90d9f528489-a1323e62.png"
+    },
+    {
+      "name": "Bengal Curry Paste",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f814ecbf90d9f528421-c8820c52.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 200°C/180°C fan-forced. Cut mini flour tortillas into 2cm strips.\n• Finely chop brown onion. Finely grate or crush garlic.\n• Grate carrot. Roughly chop tomato. Pick and roughly chop mint. Drain and rinse chickpeas.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60f9225c73ae8755b109d371/step-370e1248.jpg"
+    },
+    {
+      "text": "• Divide tortillas between the lined oven trays, arranging in a single layer.\n• Brush (or spray) with olive oil and season.\n• Bake until lightly golden and crisp, 8-10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60f9225c73ae8755b109d371/step-b69fc9ae.jpg"
+    },
+    {
+      "text": "• Meanwhile, heat butter and a drizzle of olive oil in a large saucepan over medium-high heat.\n• Cook onion until softened, 3-4 mins. Add ginger paste, garlic, Bengal curry paste (see ingredients) and tomato paste and cook until fragrant, 1-2 mins.\n• Add a drizzle more olive oil and add carrot, tomato and chickpeas. Cook, stirring, until slightly softened, 2-3 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60f9225c73ae8755b109d371/step-4d0c8c9d.jpg"
+    },
+    {
+      "text": "• Reduce heat to medium and add the salt and coconut milk to the pan. Stir to combine.\n• Cook until veggies have softened and the dhal has thickened, 4-5 mins. Add a splash of water if the dhal looks dry.\n• Season and divide between bowls. Sprinkle with mint. Serve with flatbread dippers.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60f9225c73ae8755b109d371/step-d0bb24f9.jpg"
+    }
+  ]
+}

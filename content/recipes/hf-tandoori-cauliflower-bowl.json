@@ -1,0 +1,161 @@
+{
+  "slug": "hf-tandoori-cauliflower-bowl",
+  "kind": "meal",
+  "title": "Indian-Style Curried Cauliflower",
+  "subtitle": "with Garlic Rice & Mint Raita",
+  "description": "Cook a rainbow for dinner with this beautiful curried cauliflower bowl. You may not wind up with a pot of gold, but with a tasty assortment of colourful toppings, like our easy cherry tomato salsa and creamy mint raita, you'll feel like a million bucks!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/tandoori-cauliflower-bowl-5d1c453acd4a3400091e38f8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tandoori-cauliflower-bowl-ecc9eb87.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Mild Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a34d4d95d3b76f915bdd14-060e389f.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Currants",
+      "qty": 1,
+      "unit": "packet",
+      "product": "currants",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5643d517f8b25ecd248b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea59c29e4275caa2553d8-ce6dd9db.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Roasted Cashews",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cashews",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55d549c679a23cd6798b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced. Cut\n• cauliflower into small florets. In a large bowl,\n• add cauliflower, mild curry paste and a drizzle\n• of olive oil. Season with salt and pepper. Toss\n• to coat. Transfer to a lined oven tray. Roast until\n• tender, 20-25 minutes.\n• TIP: If your oven tray is crowded, divide the\n• cauliflower between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/625f8fb6d967cc1a8228410c/step-37626bd8.jpg"
+    },
+    {
+      "text": "• While the cauliflower is roasting, finely chop garlic.\n• In a medium saucepan, melt the butter with a\n• dash of olive oil over medium heat. Cook garlic\n• until fragrant, 1-2 minutes. Add basmati rice,\n• currants, the water and vegetable stock powder\n• and bring to the boil. Reduce heat to low and cover\n• with a lid. Cook for 10 minutes, then remove from\n• heat and keep covered until rice is tender and\n• water is absorbed, 10 minutes.\n• TIP: The rice will finish cooking in its own steam so\n• don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/625f8fb6d967cc1a8228410c/step-3a23f5c3.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, roughly chop 1/2 the\n• cucumber and grate the remainder. Halve cherry\n• tomatoes. Roughly chop mint leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/625f8fb6d967cc1a8228410c/step-7421a525.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine chopped cucumber,\n• cherry tomatoes and 1/2 the mint. Drizzle with\n• olive oil and white wine vinegar. Toss to coat.\n• Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/625f8fb6d967cc1a8228410c/step-137ed626.jpg"
+    },
+    {
+      "text": "• In a small bowl, add Greek-style yoghurt, grated\n• cucumber and remaining mint. Add a drizzle of\n• olive oil, season and mix well.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/625f8fb6d967cc1a8228410c/step-470e4678.jpg"
+    },
+    {
+      "text": "• Stir baby spinach leaves through the garlic rice.\n• Divide the garlic rice between bowls and top\n• with the Indian-style curried cauliflower, cherry\n• tomato salsa and mint raita. Sprinkle with roasted\n• cashews to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/625f8fb6d967cc1a8228410c/step-e419145f.jpg"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "swedish-spice-blend",
+  "kind": "blend",
+  "title": "Swedish Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 4 garlic powder, 2 ground allspice, 2 white pepper, 1 nutmeg.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Swedish Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic Powder",
+      "qty": 1.375,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Ground Allspice",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "ground-allspice"
+    },
+    {
+      "name": "White Pepper",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "white-pepper"
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "nutmeg"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

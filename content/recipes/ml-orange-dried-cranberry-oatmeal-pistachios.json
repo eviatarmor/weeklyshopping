@@ -1,0 +1,74 @@
+{
+  "slug": "ml-orange-dried-cranberry-oatmeal-pistachios",
+  "kind": "meal",
+  "title": "Orange & Dried Cranberry Oatmeal with Pistachios",
+  "sourceUrl": "https://www.mealime.com/recipes/orange-dried-cranberry-oatmeal-pistachios/7066",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/806/presentation_498f8217-db7c-4491-8c62-8820c8f4dd4a.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Cranberries",
+      "qty": 1,
+      "unit": "cup",
+      "product": "dried-cranberries"
+    },
+    {
+      "name": "Oranges",
+      "qty": 2,
+      "product": "orange"
+    },
+    {
+      "name": "Pistachios (unsalted)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pistachios"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 235,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash and juice oranges into a medium saucepan."
+    },
+    {
+      "text": "Add salt and water to the saucepan, cover, and bring to a boil over high heat. Once boiling, stir in oats, cranberries, cinnamon, and maple syrup; reduce heat to medium-low. Cover and let simmer for 3-5 minutes or until oats reach desired consistency."
+    },
+    {
+      "text": "Roughly chop the pistachios."
+    },
+    {
+      "text": "To serve, divide oats between bowls and top with pistachios and milk. Enjoy!"
+    }
+  ]
+}

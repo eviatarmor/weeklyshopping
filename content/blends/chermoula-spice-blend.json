@@ -1,0 +1,83 @@
+{
+  "slug": "chermoula-spice-blend",
+  "kind": "blend",
+  "title": "Chermoula Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 24 ground cumin, 12 ground coriander, 6 sweet paprika, 6 chilli powder, 4 ground cinnamon, 3 ground allspice, 3 ground ginger, 1 cayenne pepper, 2 ground turmeric.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Chermoula Seasoning",
+    "Chermoula Spice",
+    "Chermoula Spice Mix"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Cumin",
+      "qty": 1.125,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Ground Allspice",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-allspice"
+    },
+    {
+      "name": "Ground Ginger",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

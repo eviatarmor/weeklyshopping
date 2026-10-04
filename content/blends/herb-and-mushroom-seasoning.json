@@ -1,0 +1,21 @@
+{
+  "slug": "herb-and-mushroom-seasoning",
+  "kind": "blend",
+  "title": "Herb & Mushroom Seasoning",
+  "description": "Homemade approximation of the HelloFresh AU sachet. Uses the Garlic & Herb Seasoning as a base plus ground porcini. One batch replaces one sachet.",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_400/hellofresh_s3/ingredient/65e4f5c51101bf67206067d2-a7a7c4af.png",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": ["hellofresh", "blend"],
+  "aliases": ["Herb and Mushroom Seasoning"],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    { "name": "Garlic & Herb Seasoning", "qty": 0.5, "unit": "sachet", "blend": "garlic-and-herb-seasoning" },
+    { "name": "Dried Porcini Mushrooms", "qty": 1, "unit": "tsp", "product": "dried-porcini-mushrooms" },
+    { "name": "Onion Powder", "qty": 0.25, "unit": "tsp", "product": "onion-powder" }
+  ],
+  "steps": [
+    { "text": "Blitz the dried porcini to a powder in a spice grinder." },
+    { "text": "Mix with the remaining ingredients. Use the whole batch wherever the recipe calls for 1 sachet." }
+  ]
+}

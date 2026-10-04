@@ -1,0 +1,169 @@
+{
+  "slug": "hf-falafel-roast-veggie-couscous",
+  "kind": "meal",
+  "title": "Falafel & Roast Veggie Couscous",
+  "subtitle": "with Pesto Yoghurt & Caramelised Onion",
+  "description": "Full of greens, goodness, and flavour with every bite, meet your new favourite veggie meal. A yoghurt-spiked pesto dressing brings all the elements of the dish together, while naturally buttery flaked almonds add that crunch we know you want.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-roast-veggie-couscous-6231779f14d8da685214c256",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spinach-falafel-couscous-bowl-63af45bc.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/624106b15c4fdf10c24ab2dc-3128bee1.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "unit": "tub",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bab011a30006c450926c7e2-8cc5cbe5.png"
+    },
+    {
+      "name": "Herbs",
+      "qty": 1,
+      "unit": "bag",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/623d7209316ebc093d5ed9db-af58fd57.png"
+    },
+    {
+      "name": "Creamy Pesto Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Mixed Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f80b4dab71922c8b4567.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced. Cut\n• capsicum into bite-sized chunks. Cut carrot into\n• small chunks. Thickly slice zucchini into half-moons. Place prepped veggies on a lined oven\n• tray. Drizzle with olive oil, sprinkle with garlic\n• & herb seasoning and toss to coat. Roast until\n• tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6231779f14d8da685214c256/step-12c8dcc6.jpg"
+    },
+    {
+      "text": "• Meanwhile, thinly slice onion. Finely chop garlic.\n• Use your hands to break each spinach falafel into\n• quarters (don't worry if they crumble!). Roughly\n• chop leaves from herbs. In a small bowl, combine\n• creamy pesto dressing and Greek-style yoghurt.\n• Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6231779f14d8da685214c256/step-f4ee0e54.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over\n• medium heat. Cook onion, stirring, until softened,\n• 5-6 minutes. Add garlic and cook until fragrant,\n• 1 minute. Reduce heat to medium. Add the\n• balsamic vinegar, brown sugar and a splash of\n• water. Mix well. Cook until dark and sticky,\n• 3-5 minutes. Transfer to a second small bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6231779f14d8da685214c256/step-1f52233c.jpg"
+    },
+    {
+      "text": "• When the veggies have 10 minutes remaining,\n• combine the water and vegetable stock powder\n• in a medium saucepan and bring to the boil. Add\n• couscous and stir to combine. Cover with a lid\n• and remove from heat. Set aside until the water\n• is absorbed, 5 minutes. Fluff up with a fork. Stir\n• through the roasted veggies and mixed leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6231779f14d8da685214c256/step-32f3aad7.jpg"
+    },
+    {
+      "text": "• While couscous is cooking, wash out frying pan,\n• then return to medium-high heat with some olive\n• oil (1/4 cup for 2 people/ 1/2 cup for 4 people).\n• When oil is hot, cook falafel, tossing, until deep\n• golden brown, 5-6 minutes. Transfer to a paper\n• towel-lined plate. Season with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6231779f14d8da685214c256/step-f5b266e0.jpg"
+    },
+    {
+      "text": "• Divide roast veggie couscous between plates. Top\n• with falafel and some caramelised onion. Drizzle\n• with pesto yoghurt. Garnish with flaked almonds\n• and herbs to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6231779f14d8da685214c256/step-6fa9f624.jpg"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "hf-zesty-haloumi-and-jewelled-couscous",
+  "kind": "meal",
+  "title": "Zesty Haloumi & Jewelled Couscous",
+  "subtitle": "with Cherry Tomato Salad & Creamy Pesto Dressing",
+  "description": "We can never say no to a carrot couscous, especially when it gets the additions of currants and honey-lemon haloumi. To cut through the richness, add an easy cherry tomato salad and a drizzle of creamy pesto dressing.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/zesty-haloumi-and-jewelled-couscous-67e36df1f8f6928425d5c49e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67c45ac6f0a31bc0c3010454-4dccf106-bc9db432.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "quick prep",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb224-afb6bdde.png"
+    },
+    {
+      "name": "Currants",
+      "qty": 1,
+      "unit": "packet",
+      "product": "currants",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334fcade9b9f0acdb28c-8ef209a1.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385cb33a6ad8f0f05d4c-52398feb.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572380e105c9621030b4f37-c66d6946.png"
+    },
+    {
+      "name": "Creamy Pesto Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723727105c9621030b4a11-a07a29dd.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572373ab33a6ad8f0f0580f-86a249e6.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f10-3317eda7.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c7-f599f624.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Cut haloumi into 1cm-thick slices and place in a medium bowl. Cover with <br>water to soak. <br>• Halve snacking tomatoes. <br>• Zest lemon to get a pinch, then slice into wedges. <br>• Grate carrot (see ingredients). <br>• In a small bowl, combine dried oregano (see ingredients), lemon zest, a <br>squeeze of lemon juice and the honey. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e36df1f8f6928425d5c49e/step-b2d36a00.jpg"
+    },
+    {
+      "text": "• <p>• In a medium saucepan, heat a drizzle of olive oil over medium-high heat.<br>• Add carrot and cook, stirring, until softened, 2-3 minutes. Add the water <br>and vegetable stock (see ingredients) and bring to the boil.<br>• Add couscous and currants, stir to combine. Cover with a lid and remove <br>from heat.<br>• Set aside until the water is absorbed, 5 minutes. Fluff up with a fork. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e36df1f8f6928425d5c49e/step-f3ae7610.jpg"
+    },
+    {
+      "text": "• <p>• When couscous has 5 minutes remaining, drain haloumi and pat dry.<br>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. <br>• Cook haloumi until golden brown, 1-2 minutes each side.<br>• Remove from heat, then add the honey-lemon mixture, turning to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e36df1f8f6928425d5c49e/step-a0949d20.jpg"
+    },
+    {
+      "text": "• <p>• In a large bowl, combine snacking tomatoes, spinach &amp; rocket mix and a <br>drizzle of vinegar and olive oil. Season with salt and pepper. <br>• Divide jewelled couscous and cherry tomato salad between bowls. <br>• Top with zesty haloumi. Drizzle over creamy pesto dressing. <br>• Serve with any remaining lemon wedges. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e36df1f8f6928425d5c49e/step-4348bf30.jpg"
+    }
+  ]
+}

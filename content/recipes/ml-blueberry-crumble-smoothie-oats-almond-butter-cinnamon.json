@@ -1,0 +1,77 @@
+{
+  "slug": "ml-blueberry-crumble-smoothie-oats-almond-butter-cinnamon",
+  "kind": "meal",
+  "title": "Blueberry Crumble Smoothie with Oats, Almond Butter & Cinnamon",
+  "sourceUrl": "https://www.mealime.com/recipes/blueberry-crumble-smoothie-oats-almond-butter-cinnamon/6976",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/793/presentation_9b90e22a-8296-4be2-8810-25c8f526214c.jpeg",
+  "servings": 4,
+  "prepMinutes": 5,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Almond Milk (unsweetened)",
+      "qty": 475,
+      "unit": "ml",
+      "product": "almond-milk"
+    },
+    {
+      "name": "Bananas",
+      "qty": 4,
+      "product": "banana"
+    },
+    {
+      "name": "Frozen Blueberries",
+      "qty": 4,
+      "unit": "cup",
+      "product": "blueberries"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "qty": 1,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Natural Almond Butter",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "This recipe will make about 8 cups. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Peel bananas, break into chunks, and add to blender."
+    },
+    {
+      "text": "Add blueberries, yogurt, oats (uncooked), almond milk, almond butter, cinnamon, and honey to the blender."
+    },
+    {
+      "text": "Blend on high speed for several minutes until smooth."
+    },
+    {
+      "text": "Pour the smoothie into glasses and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "ep-jamaican-coconut-and-veggie-lentil-stew",
+  "kind": "meal",
+  "title": "Jamaican Coconut & Veggie Lentil Stew",
+  "subtitle": "with Garlic Rice & Almonds",
+  "description": "Hope you're hungry! This is an extra-big serve. This mouth-watering lentil stew bursting with rich and complex flavours and packed with veggies will taste like it's been simmering for hours but is really ready in minutes! Don't forget a scattering of almonds and chilli flakes for some extra crunch and heat.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/jamaican-coconut-and-veggie-lentil-stew-666b728af6d6f122b49fdd37",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/666b728af6d6f122b49fdd37-0fd70fe0.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "caribbean",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 2,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Jerk Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "jerk-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee047ce773b8c53a6134840-58b68ca4.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8deae08b530b326ef12-2fea204a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C. Cut carrot and zucchini into bite-sized chunks.\n• Place veggies on a lined oven tray, drizzle with olive oil and season with salt. Toss to coat.\n• Roast until tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-666b728af6d6f122b49fdd37-c5020af2.jpeg"
+    },
+    {
+      "text": "• Meanwhile, finely chop or crush garlic. In a medium saucepan, melt the butter with a dash of olive oil over medium heat.\n• Cook 1/2 the garlic until fragrant, 1-2 mins. Add basmati rice, the water (for the rice) and a generous pinch of salt, stir, then bring to the boil. Reduce heat to low and cover with a lid.\n• Cook for 10 mins, then remove from heat and keep covered until the rice is tender and the water absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-666b728af6d6f122b49fdd37-a1908cef.jpeg"
+    },
+    {
+      "text": "• When veggies have 5 mins remaining, drain and rinse lentils.\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Add tomato paste, remaining garlic, jerk seasoning and lentils and cook until fragrant, 1 min.\n• Stir in coconut milk, the stock powder and water (for the sauce). Simmer until thickened, 3-4 mins.\n• Stir through roasted veggies and baby spinach until wilted and combined. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-666b728af6d6f122b49fdd37-f56e119f.jpeg"
+    },
+    {
+      "text": "• Divide garlic rice and lentils between bowls. Top with yoghurt.\n• Sprinkle with flaked almonds and a pinch of chilli flakes (if using).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-666b728af6d6f122b49fdd37-7030ecf1.jpeg"
+    }
+  ]
+}

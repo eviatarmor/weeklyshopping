@@ -1,0 +1,54 @@
+{
+  "slug": "paprika-spice-blend",
+  "kind": "blend",
+  "title": "Paprika Spice Blend",
+  "description": "Homemade approximation of the HelloFresh AU sachet (sweet and smoked paprika with garlic). One batch replaces one sachet.",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_400/hellofresh_s3/ingredient/657237b63405d840b2be39a7-cb650de1.png",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "hellofresh",
+    "blend"
+  ],
+  "aliases": [
+    "Paprika Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.75,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

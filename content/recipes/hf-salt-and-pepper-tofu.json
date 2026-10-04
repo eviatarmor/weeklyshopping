@@ -1,0 +1,147 @@
+{
+  "slug": "hf-salt-and-pepper-tofu",
+  "kind": "meal",
+  "title": "Sweet-Soy Tofu Rice Bowl",
+  "subtitle": "with Asian Green Stir-Fry",
+  "description": "With its firm texture and slightly buttery flavour, tofu stands up perfectly to the tamarind coating in this Asian-style dish. Team with leafy Asian greens and a zingy sauce, plus fluffy rice to soak it all up.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/salt-and-pepper-tofu-67f8417f0d0527cba53a9265",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R36_W09_AUS_Main_high-aed6c364.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "chinese"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4aef-e6199145.png"
+    },
+    {
+      "name": "Soy Sauce Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soy-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334c0d0527cba53a49df-763086b8.png"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cornflour",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833404264524ca978ae10-51a1d7c1.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f2-90eac6a7.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723765105c9621030b4b49-4a970595.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Malaysian Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572378cb33a6ad8f0f0596c-a0495ac5.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c23405d840b2be3497-766f473c.png"
+    },
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8337c4264524ca978af54-8d023165.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Cracked Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd712793e8cdd8467e1c-198964f0.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddb3635bf0b638cfb93d-59b9ad8a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop garlic. In a medium saucepan, heat the butter with a dash of olive oil over medium heat. • Cook garlic until fragrant, 1-2 minutes. Add jasmine rice, the water and a generous pinch of salt, stir, then bring to the boil. • Reduce heat to low and cover with a lid. • Cook for 10 minutes, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f844270d0527cba53a9c82/step-fa942500.jpg"
+    },
+    {
+      "text": "• <p>• While the rice is cooking, roughly chop Asian greens. Trim green beans, cut into thirds. Cut Malaysian tofu into 2cm chunks. • In a medium bowl, combine cornflour, the cracked black pepper and sweet soy seasoning. Add tofu, tossing to coat. • In a small bowl, combine soy sauce mix, the honey, ginger paste and a splash of water. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f844270d0527cba53a9c82/step-e48a4310.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook green beans, stirring, until tender, 4-5 minutes. • In the last 2 minutes of cook time, add Asian greens and cook, tossing, until fragrant and wilted, 1-2 minutes. • Transfer to a bowl and cover to keep warm.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f844270d0527cba53a9c82/step-c47ecc20.jpg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with a drizzle of olive oil. Cook tofu, tossing until browned, 3-4 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f844270d0527cba53a9c82/step-c7e85230.jpg"
+    },
+    {
+      "text": "• <p>• Return green beans and Asian greens to the pan. • Add soy-ginger mixture and cook, tossing to coat, until heated through, 30 seconds.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f844270d0527cba53a9c82/step-bd294340.jpg"
+    },
+    {
+      "text": "• <p>• Divide rice between bowls. • Top with sweet soy tofu and Asian greens stir-fry, spooning over any remaining soy-ginger sauce from the pan to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f844270d0527cba53a9c82/step-81e6a550.jpg"
+    }
+  ]
+}

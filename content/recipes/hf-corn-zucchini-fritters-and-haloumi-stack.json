@@ -1,0 +1,171 @@
+{
+  "slug": "hf-corn-zucchini-fritters-and-haloumi-stack",
+  "kind": "meal",
+  "title": "Corn-Zucchini Fritters & Haloumi Stack",
+  "subtitle": "with Roast Sweet Potato Salad",
+  "description": "Laced with fresh, fragrant herbs, these sweet-and-savoury fritters are the perfect marriage of flavours and easy cooking techniques. Stack them with squeaky, salty haloumi, plus a drizzle of sweet chilli sauce to tie everything together.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/corn-zucchini-fritters-and-haloumi-stack-6462fe1fbe1a5e7a960f5799",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweetcorn-haloumi-fritters-d7adbcdd.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "over 30g protein",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/606d14714f75e662fe596b02-03c06826.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad6ac09ae08b54d160cb072-a3981ef2.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56ba8a31fd2cb99b0a8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut sweet potato into bite-sized chunks. Place on a lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to coat. Roast until tender, 20-25 minutes. TIP: If your oven tray is crowded, divide sweet potato between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462fe1fbe1a5e7a960f5799/step-bce35708.jpg"
+    },
+    {
+      "text": "• Meanwhile, thinly slice spring onion. Finely chop coriander (reserve some leaves for garnish!) and garlic. Drain sweetcorn.\n• Grate carrot and zucchini, then squeeze out any excess moisture using a paper towel.\n• Cut haloumi into 1cm-thick slices. In a medium bowl, add haloumi and cover with water to soak. TIP: Removing excess liquid from the veggies will help the fritters crisp up in the pan!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462fe1fbe1a5e7a960f5799/step-ddd296c7.jpg"
+    },
+    {
+      "text": "• In a second medium bowl, combine spring onion, chopped coriander, garlic, carrot, zucchini, corn, garlic & herb seasoning, the plain flour, the egg and the salt. TIP: Lift out some of the mixture with a spoon. If it's too wet and doesn't hold its shape, add a little more flour!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462fe1fbe1a5e7a960f5799/step-0c852d07.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat enough olive oil to coat the base over medium-high heat. When oil is hot, add heaped tablespoons of fritter mixture, in batches, and flatten with a spatula.\n• Cook until golden, 3-4 minutes each side (don't flip too early!). Transfer to a paper towel-lined plate. You should get 3-4 fritters per person. TIP: Add extra oil as needed so the fritters don't stick to the pan!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462fe1fbe1a5e7a960f5799/step-ee0d5750.jpg"
+    },
+    {
+      "text": "• Drain haloumi and pat dry.\n• Return pan to medium-high heat with a drizzle of olive oil. Cook haloumi until golden brown, 1-2 minutes each side.\n• Meanwhile, roughly chop cucumber. In a third medium bowl, combine the honey, the vinegar and a drizzle of olive oil. Season, then add mixed salad leaves, cucumber and roasted sweet potato. Toss to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462fe1fbe1a5e7a960f5799/step-7a179ddd.jpg"
+    },
+    {
+      "text": "• Divide roasted sweet potato salad between plates.\n• Stack corn-zucchini fritters and haloumi on each plate.\n• Drizzle with sweet chilli sauce. Serve sprinkled with reserved coriander to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462fe1fbe1a5e7a960f5799/step-ec17fda9.jpg"
+    }
+  ]
+}

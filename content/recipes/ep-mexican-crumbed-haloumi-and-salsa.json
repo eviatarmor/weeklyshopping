@@ -1,0 +1,139 @@
+{
+  "slug": "ep-mexican-crumbed-haloumi-and-salsa",
+  "kind": "meal",
+  "title": "Mexican Crumbed Haloumi & Salsa",
+  "subtitle": "with Garlic Rice & Mayo",
+  "description": "You love haloumi, you love crumbed coatings and you'll absolutely love these crumbed haloumi steaks. It's a combo that may surprise you but will definitely delight you - time to dig in!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/mexican-crumbed-haloumi-and-salsa-632d1266b4f6ae74ef041fe1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-corn-salsa-bcc82ad5.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "mexican"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f7c4ecbf90d9f52840a-c66b1029.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a00c4ecbf90d9f5286d7-e2796aa6.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f764ecbf90d9f5283e9-2105763d.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fb04ecbf90d9f52851a-2d3dddc0.png"
+    },
+    {
+      "name": "Spicy Taco Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "spicy-taco-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/613ecfad5defb51feb7d0ecf-ec9ffc2c.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fa14ecbf90d9f5284cc-b612d37c.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd54ecbf90d9f5285d6-7b32397f.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0214ecbf90d9f528732-e93fccf0.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ece0ab8e7df57622d198ca8-81a905dc.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop or crush garlic. In a medium saucepan, melt butter with a dash of olive oil over medium heat.\n• Cook garlic until fragrant, 1-2 mins. Add rice, the water and a generous pinch of salt and bring to the boil. Reduce heat to low and cover with a lid. Cook for 10 mins, then remove from heat and keep covered until rice is tender and the water absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/632d1266b4f6ae74ef041fe1/step-70650055.jpg"
+    },
+    {
+      "text": "• Meanwhile, drain sweetcorn. Finely chop tomato. Roughly chop baby spinach. Combine tomato and spinach in a medium bowl.\n• Cut the haloumi into 1cm-thick slices (you should get 4 pieces per person). In a shallow bowl, add the spicy taco seasoning. In a second shallow bowl, whisk the egg. In a third shallow bowl, add panko breadcrumbs.\n• Dip the haloumi slices into the spice blend, followed by egg, and finally in the panko breadcrumbs. Set aside on a plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/632d1266b4f6ae74ef041fe1/step-4f35d5aa.jpg"
+    },
+    {
+      "text": "• Heat frying pan over high heat. Cook corn until lightly browned, 4-5 mins (cover the pan with a lid if the kernels are “popping” out). Add to the tomato mixture.\n• Return frying pan to medium-high heat with enough olive oil to coat the base.\n• Cook haloumi until golden brown, 1-2 mins each side. Set aside on a paper towel-lined plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/632d1266b4f6ae74ef041fe1/step-ec76f1c4.jpg"
+    },
+    {
+      "text": "• Add a drizzle of white wine vinegar and olive oil to salsa. Season and toss.\n• Divide garlic rice between plates. Top with haloumi and salsa.\n• Serve with mayo.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/632d1266b4f6ae74ef041fe1/step-44a09781.jpg"
+    }
+  ]
+}

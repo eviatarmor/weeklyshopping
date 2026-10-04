@@ -1,0 +1,137 @@
+{
+  "slug": "hf-zucchini-fritters-with-spicy-salsa",
+  "kind": "meal",
+  "title": "Zucchini Fritters with Spicy Salsa",
+  "description": "The perfect healthy kick with a spicy twist! These zucchini and carrot fritters are so crispy and delicious you won't believe how good they are for you. Paired with a creamy fetta and rocket salad and a zingy fresh spicy relish, they're just the thing for a hearty, yet fresh dinner.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/zucchini-fritters-with-spicy-salsa-55405c7e6ced6ea43f8b4569",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55405c7e6ced6ea43f8b4569.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Sea Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c692b4dab7186428b4567.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Fetta Cheese",
+      "qty": 70,
+      "unit": "g",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be7a34dab71aa0a8b4568.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Long Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593b9b4dab71fb718b4568.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Rocket",
+      "qty": 70,
+      "unit": "g",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5565438cf8b25eb8178b4567.png"
+    },
+    {
+      "name": "Pepper",
+      "product": "black-pepper",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672254f8b25e402f8b4567.png"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Add the egg, flour, and salt to a large bowl and mi well to combine. Place the grated zucchini and carrot in a collander and squeeze as much moisture as you can, otherwise the water in the batter will prevent the fritters from combining. Combine the vegetables and half of the fetta with the batter. The result should be a light batter that will hold your veggies together as they cook but nothing too pancakey. If it's too gluggy, add a dash of milk.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405c7e6ced6ea43f8b4569/step_556dab9578035.jpg"
+    },
+    {
+      "text": "• Heat the olive oil in a non-stick frying pan over a medium heat. Use a large serving spoon to gently place a portion of the fritter mixture on to the pan. You will need to do this in a few batches so you don't overcrowd the pan. Gently cook for 3 minutes on either side and transfer to a warm resting place.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405c7e6ced6ea43f8b4569/step_556dab95aef64.jpg"
+    },
+    {
+      "text": "• In a small serving bowl combine the tomato, chilli, lemon juice, spring onions, parsley, and a good grind of salt and pepper, taste and adjust seasoning accordingly.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405c7e6ced6ea43f8b4569/step_556dab95c081e.jpg"
+    },
+    {
+      "text": "• Toss the rocket with a little olive oil and the remaining fetta and distribute evenly between the plates, top the zucchini fritters and serve with the spicy relish.\n• Did you know? We can thank the Spanish for creating this fritter technique!"
+    }
+  ]
+}

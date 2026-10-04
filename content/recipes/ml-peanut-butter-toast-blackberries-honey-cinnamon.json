@@ -1,0 +1,61 @@
+{
+  "slug": "ml-peanut-butter-toast-blackberries-honey-cinnamon",
+  "kind": "meal",
+  "title": "Peanut Butter Toast with Blackberries, Honey & Cinnamon",
+  "sourceUrl": "https://www.mealime.com/recipes/peanut-butter-toast-blackberries-honey-cinnamon/23594",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2662/presentation_7c874500-56c0-4575-a0c7-8a8cc416ff54.jpeg",
+  "servings": 4,
+  "prepMinutes": 10,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Blackberries",
+      "qty": 340,
+      "unit": "g",
+      "product": "blackberries"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "qty": 4,
+      "unit": "slice",
+      "product": "bread"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Natural Peanut Butter",
+      "product": "peanut-butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to broil on high and position rack in the upper third of the oven. (Skip this step if you are using a toaster for the bread.)"
+    },
+    {
+      "text": "Arrange bread on a baking sheet pan. Place in the oven and broil, flipping halfway through, until toasted, about 2 minutes; remove from oven. (Alternatively, you can use a toaster.)"
+    },
+    {
+      "text": "Meanwhile, wash and dry blackberries."
+    },
+    {
+      "text": "Spread 2 tablespoons peanut butter over each slice of toast. Top with blackberries, drizzle with honey, and sprinkle with cinnamon."
+    },
+    {
+      "text": "To serve, divide toast between plates and enjoy!"
+    }
+  ]
+}

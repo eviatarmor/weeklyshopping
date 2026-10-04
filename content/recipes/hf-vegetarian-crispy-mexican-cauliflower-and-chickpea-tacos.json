@@ -1,0 +1,150 @@
+{
+  "slug": "hf-vegetarian-crispy-mexican-cauliflower-and-chickpea-tacos",
+  "kind": "meal",
+  "title": "(Vegetarian) Crispy Mexican Cauliflower & Chickpea Tacos",
+  "subtitle": "with Lemon-Chipotle Aioli",
+  "description": "Cauliflower and chickpeas provide a super satisfying filling for these tacos that are as tasty as they are colourful. We’ve given them a super crispy, crunchy exterior that you’re going to love. Simply dollop with lemon chipotle aioli and get to munching. Arriba, arriba! Ándale!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/vegetarian-crispy-mexican-cauliflower-and-chickpea-tacos-5a6e7951d56afa6c86385642",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5a6e7951d56afa6c86385642-d168f380.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59ac90632c3e0855ea048e02-f273e5e8.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be3bcf8b25e165a8b4567.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a2e1d052c3e0861f6785ef2-c6096b9e.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic Aioli",
+      "qty": 1,
+      "unit": "tub",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/587d5b2a4348d278953e3401-81a905dc.png"
+    },
+    {
+      "name": "Chipotle Spice Blend",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "chipotle-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/591132d03bddb51b264649e3-28f4a071.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to **220°C/200°C fan-forced**. Chop the **cauliflower** into small 1 cm pieces. ***TIP:*** Chop the cauliflower small to ensure it cooks in the allocated time. Peel and crush the **garlic**. Transfer the cauliflower and garlic to a medium bowl and **drizzle** with **olive oil**. Add the **salt (use suggested amount)** and a **pinch** of **pepper** and toss to coat. Pick the **coriander** leaves. Slice the **lemon** into wedges. Pick the **coriander** leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-8a974caa.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine the **panko breadcrumbs**, **Tex-Mex spice blend** and a **pinch** of **pepper**. In a second medium bowl, crack the **egg** and whisk with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-f3eb804e.jpg"
+    },
+    {
+      "text": "• Place handfuls of the **cauliflower** pieces into the **whisked egg** and then into the **panko breadcrumb mixture**.  Place the crumbed cauliflower on the oven tray lined with baking paper and set aside. Repeat with the remaining cauliflower. **TIP:** Crumb handfuls of cauliflower at a time to save time!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-f60339c8.jpg"
+    },
+    {
+      "text": "• Drain and rinse the **chickpeas** and pat them dry with paper towel (or a tea towel). ***TIP:*** Patting the chickpeas dry will help them crisp up in the oven. Place the chickpeas on the tray with the cauliflower. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Toss to coat and place in the oven to cook for **15 minutes**, or until the cauliflower is golden.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-93e01626.jpg"
+    },
+    {
+      "text": "• In a small bowl, mix the **garlic aioli**, **lemon juice (2 tsp for 2 people / 4 tsp for 4 people)**, **water (check ingredients list for the amount)** and **chipotle spice blend (optional - use suggested amount)**. ***TIP:*** Add the chipotle spice blend gradually, adding more if you like the heat! Set aside.\n• Heat the **mini flour tortillas** in a sandwich press or on a plate in the microwave for **10 second** bursts, or until warmed through.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-0d1e76ff.jpg"
+    },
+    {
+      "text": "• Divide the tortillas between plates and top with the **shredded red cabbage**, chickpeas and crispy Mexican cauliflower. Top with a dollop of lemon-chipotle aioli and a sprinkle of coriander. Serve with the remaining lemon wedges on the side. **TIP**:  Fold the base of the taco and roll the sides over so the filling stays inside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-05420589.jpg"
+    }
+  ]
+}

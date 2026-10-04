@@ -1,0 +1,80 @@
+{
+  "slug": "ml-apple-avocado-green-smoothie",
+  "kind": "meal",
+  "title": "Apple Avocado Green Smoothie",
+  "sourceUrl": "https://www.mealime.com/recipes/apple-avocado-green-smoothie/6994",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/795/presentation_c8f6ab17-c10f-47f5-8ffd-434abc4a5f56.jpeg",
+  "servings": 4,
+  "prepMinutes": 5,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Almond Milk (unsweetened)",
+      "qty": 475,
+      "unit": "ml",
+      "product": "almond-milk"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado"
+    },
+    {
+      "name": "Baby Spinach",
+      "qty": 285,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Bananas",
+      "qty": 2,
+      "product": "banana"
+    },
+    {
+      "name": "Gala Apples",
+      "qty": 4,
+      "product": "apple"
+    },
+    {
+      "name": "Ginger Root",
+      "qty": 0.5,
+      "product": "ginger"
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "This recipe will make about 8 cups. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed.)"
+    },
+    {
+      "text": "Peel and quarter apples, removing seeds and stem; peel the bananas. Add both to blender."
+    },
+    {
+      "text": "Wash, dry, peel, and slice ginger. (If you have a high powered blender, you can put the chunk in whole)."
+    },
+    {
+      "text": "Halve and pit the avocados. Using a spoon, scoop the flesh into the blender."
+    },
+    {
+      "text": "Add spinach, almond milk, maple syrup, and 8 ice cubes to the blender."
+    },
+    {
+      "text": "Blend on high speed for several minutes until smooth."
+    },
+    {
+      "text": "Pour the smoothie into glasses and enjoy!"
+    }
+  ]
+}

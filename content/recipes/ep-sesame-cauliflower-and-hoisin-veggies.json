@@ -1,0 +1,139 @@
+{
+  "slug": "ep-sesame-cauliflower-and-hoisin-veggies",
+  "kind": "meal",
+  "title": "Sesame Cauliflower & Hoisin Veggies",
+  "subtitle": "with Garlic Rice",
+  "description": "Time for a veggie feast! Combine hearty vegetables plus a flavoursome sauce and serve the whole thing on fragrant garlic rice for a meal to remember.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/sesame-cauliflower-and-hoisin-veggies-60f921e791a0616c0b2fceee",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sesame-cauliflower-hoisin-veggies-4a220bba.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8b4ecbf90d9f528457-8ac4b2cb.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39ff94ecbf90d9f528682-936d8226.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f7c4ecbf90d9f52840a-c66b1029.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fae4ecbf90d9f528510-a709ebee.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528452-95bf4017.png"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "hoisin-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fb64ecbf90d9f528537-32ed361d.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0044ecbf90d9f5286b2-32ed361d.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f854ecbf90d9f528437-314cd3f8.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0214ecbf90d9f528732-e93fccf0.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9a4ecbf90d9f5284a6-5f2db70d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced. Chop cauliflower (including stalk!) into small florets.\n• Place cauliflower on a lined oven tray. Sprinkle with sesame seeds, drizzle with olive oil and season with salt. Toss to coat.\n• Roast until tender and browned around the edges, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60f921e791a0616c0b2fceee/step-1b1a3e42.jpg"
+    },
+    {
+      "text": "• Meanwhile, finely chop garlic. In a medium saucepan, melt butter with a dash of olive oil over medium heat.\n• Cook 1/2 the garlic until fragrant, 1-2 mins. Add rice, the water and a generous pinch of salt and bring to the boil.\n• Reduce heat to low and cover with a lid. Cook for 10 mins, then remove from heat and keep covered until rice is tender and the water absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60f921e791a0616c0b2fceee/step-4b6d3ba2.jpg"
+    },
+    {
+      "text": "• Trim green beans and cut in half. Cut carrot into thin sticks.\n• Heat a large frying pan over medium-high heat with a drizzle of olive oil. Stir-fry carrot, beans and a splash of water until tender, 4-5 mins.\n• Add remaining garlic and cook until fragrant, 1-2 mins.\n• Stir in hoisin, soy sauce, brown sugar, a drizzle of white wine vinegar and a splash of water. Cook until bubbling, 1-2 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60f921e791a0616c0b2fceee/step-08000b69.jpg"
+    },
+    {
+      "text": "• Stir cauliflower through the mixed veggies.\n• Divide garlic rice and veggies between bowls.\n• Top with crushed peanuts.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60f921e791a0616c0b2fceee/step-e568406a.jpg"
+    }
+  ]
+}

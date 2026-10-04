@@ -1,0 +1,64 @@
+{
+  "slug": "chipotle-spice-blend",
+  "kind": "blend",
+  "title": "Chipotle Spice Blend",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (smoky chipotle-style heat (smoked paprika and chilli)). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

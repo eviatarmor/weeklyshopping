@@ -1,0 +1,151 @@
+{
+  "slug": "ep-mexican-black-bean-burrito-bowl",
+  "kind": "meal",
+  "title": "Mexican Black Bean Burrito Bowl",
+  "subtitle": "with Spinach Salsa, Cheese & Sour Cream",
+  "description": "Burrito bowls are such a delicious invention - all those tasty Mexican flavours piled into a bowl for easy serving and eating!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/mexican-black-bean-burrito-bowl-647932854c6ad72554048d44",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-black-bean-burrito-bowl-26d7d559.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "mexican"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "box",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59812b1cc288002d7f59e5d2-11bf19a1.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/570ee00bf8b25e94768b4568-09fe544c.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8deae08b530b326ef12-2fea204a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop or crush garlic. In a medium saucepan, melt 1/2 the butter with a dash of olive oil over medium heat.\n• Cook 1/2 the garlic until fragrant, 1-2 mins. Add basmati rice, the water (for the rice) and a generous pinch of salt and bring to the boil. Reduce heat to low and cover with a lid. Cook for 10 mins, then remove from heat and keep covered until rice is tender and the water absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/647932854c6ad72554048d44/step-955ff89e.jpg"
+    },
+    {
+      "text": "• Meanwhile, roughly chop tomato. Grate carrot.\n• Drain and rinse black beans.\n• In a medium bowl, combine baby spinach, tomato and a drizzle of white wine vinegar and olive oil. Season.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/647932854c6ad72554048d44/step-77e20a57.jpg"
+    },
+    {
+      "text": "• When rice has 10 mins remaining, heat a large frying pan over medium-high heat with a drizzle of olive oil.\n• Cook carrot and black beans until tender, 3-4 mins.\n• Add Mexican seasoning and remaining garlic and cook until fragrant, 1 min.\n• Stir in passata, the water (for the sauce), vegetable stock powder and remaining butter and cook until slightly thickened, 2-3 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/647932854c6ad72554048d44/step-10cca6f1.jpg"
+    },
+    {
+      "text": "• Divide rice between bowls. Top with black bean chilli and salsa.\n• Sprinkle with Cheddar cheese and top with sour cream.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/647932854c6ad72554048d44/step-273ff18d.jpg"
+    }
+  ]
+}

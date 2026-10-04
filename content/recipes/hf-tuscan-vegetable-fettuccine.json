@@ -1,0 +1,169 @@
+{
+  "slug": "hf-tuscan-vegetable-fettuccine",
+  "kind": "meal",
+  "title": "Tuscan Vegetable & Olive Fettuccine",
+  "subtitle": "with Lemon Garlic Pangrattato",
+  "description": "We love roasted veggies. And we love pasta. So then we thought, why don't we combine the two? It needed a little something\nmore, so we added a crunchy topping of pangrattato to finish it off. Now it's your turn to take it for a twirl!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/tuscan-vegetable-fettuccine-5fdfff28a608a0561c02715a",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tuscan-vegetable-fettuccine-39c6a9d3.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Yellow Squash",
+      "qty": 1,
+      "unit": "bag",
+      "product": "yellow-squash",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baaecc8ae08b554a7287332-db00aeb3.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Fettuccine",
+      "qty": 1,
+      "unit": "packet",
+      "product": "fettuccine",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c200ef8b25e9d648b4568.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Kalamata Olives",
+      "qty": 1,
+      "unit": "packet",
+      "product": "olives",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556879cefd2cb983298b456b.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be3bcf8b25e165a8b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Italian Herbs",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "italian-herbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/58a0f5d099052d1d9d0be7a4-dc0be0ff.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Olive Oil",
+      "qty": 1,
+      "unit": "tin",
+      "product": "olive-oil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9e2ff0ae08b543ad1ff8e2-3106a226.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "tub",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baad5c6ae08b53fa4663602-34f15c81.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced.\n• Bring a medium saucepan of salted water to the\n• boil. Thinly slice the red capsicum. Thinly slice the\n• zucchini into half-moons. Cut the yellow squash\n• into 1cm chunks. Cut the red onion into 1cm\n• wedges. Spread the capsicum, zucchini, squash\n• and onion over two oven trays lined with baking\n• paper. Drizzle both trays with olive oil, season\n• with salt and pepper and toss to coat. Roast until\n• tender, 15-20 minutes.\n• TIP: Cut the veggies to size so they cook in time.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff28a608a0561c02715a/step-719452a2.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, cook the fettuccine\n• in the boiling water, stirring occasionally, until ‘al\n• dente’, 9 minutes. Reserve some pasta water (1/2\n• cup for 2 people / 1 cup for 4 people) then drain the\n• pasta and return to the pan. Drizzle with olive oil\n• to prevent sticking and set aside.\n• TIP: 'Al dente' pasta is cooked through but still\n• slightly firm in the centre.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff28a608a0561c02715a/step-d9b18ddc.jpg"
+    },
+    {
+      "text": "• While the fettuccine is cooking, zest the lemon\n• to get a generous pinch, then slice into wedges. Finely chop the garlic. Roughly chop the kalamata olives. Roughly chop the parsley.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff28a608a0561c02715a/step-18433c91.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a good drizzle of olive oil over a medium-high heat. Add the panko breadcrumbs (see ingredients) and cook, stirring, until golden brown, 3 minutes. Add the lemon zest and 1/2 the garlic and cook until fragrant,\n• 1 minute. Season with salt and pepper. Transfer to a medium bowl and stir through the parsley.\n• TIP: Add more or less lemon zest to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff28a608a0561c02715a/step-9b78773d.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium-high heat and\n• add the tomato paste, Italian herbs, olives, a\n• pinch of chilli flakes (if using) and remaining\n• garlic. Cook until fragrant, 30 seconds. Add the\n• diced tomatoes, vegetable stock pot and some\n• pasta water (1/4 cup for 2 people / 1/2 cup for 4\n• people). Season with the salt and pepper. Reduce\n• the heat to medium and simmer for 3-5 minutes.\n• Add the butter and cook until melted, 1 minute.\n• Remove from the heat and stir in the roast veggies\n• and fettuccine.\n• TIP: Add a dash more pasta water if the sauce looks\n• dry. Season to taste with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff28a608a0561c02715a/step-6c5f59ee.jpg"
+    },
+    {
+      "text": "• Divide the Tuscan vegetable fettuccine between\n• bowls. Sprinkle with the grated Parmesan cheese\n• and top with the lemon garlic pangrattato. Serve\n• with any remaining lemon wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff28a608a0561c02715a/step-bd4f6c4d.jpg"
+    }
+  ]
+}

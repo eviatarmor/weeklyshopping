@@ -1,0 +1,160 @@
+{
+  "slug": "hf-mexican-bean-capsicum-chilli-avo-crema",
+  "kind": "meal",
+  "title": "Mexican Bean-Capsicum Chilli & Avo Crema",
+  "subtitle": "with Shredded Cheddar & Baked Tortilla Chips",
+  "description": "Who knew making veggie chilli from scratch could be so easy? Complete with DIY tortilla chips - serve them straight from the oven while they're still warm - a treat for scooping up the saucy goodness and all the toppings.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-bean-capsicum-chilli-avo-crema-645a1126ab5b0f779e0eed0c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-bean-capsicum-chilli-avo-crema-c99c848b.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "spicy",
+    "good"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ffbcdde9efcbd30856deb0b-d5aa6081.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695d5730006c33520e3181-cdb3da6d.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "box",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6052bd0d88686f4de443784a-92e7b6fd.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Hot Water",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c70684dab7191428b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 4,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556551a0f8b25eaa0a8b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 200°C/180°C fan-forced.\n• Finely chop garlic. Cut capsicum into bite-sized chunks.\n• Drain and rinse black beans. Drain sweetcorn.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645a1126ab5b0f779e0eed0c/step-dbc8dad1.jpg"
+    },
+    {
+      "text": "• In a large saucepan, heat a drizzle of olive oil over medium-high heat. Cook capsicum and corn, stirring, until softened, 5-7 minutes.\n• SPICY! You may find the spice blend hot. Add less if you're sensitive to heat. Add Mexican Fiesta spice blend and garlic. Cook until fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645a1126ab5b0f779e0eed0c/step-a1e01a0f.jpg"
+    },
+    {
+      "text": "• Add diced tomatoes with garlic & onion, beans, vegetable stock powder, the brown sugar and the hot water (see ingredients). Stir to combine.\n• Bring to the boil, then reduce heat to medium and simmer until slightly thickened, 10-15 minutes.\n• Stir in the butter. Season with salt and pepper. TIP: Butter helps balance the acidity of the tomatoes!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645a1126ab5b0f779e0eed0c/step-3410a4fe.jpg"
+    },
+    {
+      "text": "• While the chilli is simmering, cut mini flour tortillas (see ingredients) into wedges.\n• Place tortilla chips on a lined oven tray. Drizzle (or spray) with olive oil. Season, then arrange in a single layer.\n• When the chilli has 10 minutes remaining, bake the chips until golden, 6-8 minutes. TIP: If your oven tray is getting crowded, spread the chips out over two oven trays",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645a1126ab5b0f779e0eed0c/step-9769cb99.jpg"
+    },
+    {
+      "text": "• Meanwhile, roughly chop coriander.\n• Slice avocado in half and scoop out flesh. Place avocado in a small bowl and mash with a fork.\n• Add sour cream and stir to combine. Season to taste. TIP: For a smoother crema, use a food processor or stick blender.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645a1126ab5b0f779e0eed0c/step-286f6967.jpg"
+    },
+    {
+      "text": "• Divide Mexican capsicum chilli between bowls.\n• Sprinkle with shredded Cheddar cheese and coriander.\n• Top with a dollop of avocado crema. Serve with baked tortilla chips. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645a1126ab5b0f779e0eed0c/step-3a67ecc0.jpg"
+    }
+  ]
+}

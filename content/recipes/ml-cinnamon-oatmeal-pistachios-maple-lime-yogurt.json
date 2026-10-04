@@ -1,0 +1,80 @@
+{
+  "slug": "ml-cinnamon-oatmeal-pistachios-maple-lime-yogurt",
+  "kind": "meal",
+  "title": "Cinnamon Oatmeal with Pistachios & Maple-Lime Yogurt",
+  "sourceUrl": "https://www.mealime.com/recipes/cinnamon-oatmeal-pistachios-maple-lime-yogurt/7810",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/874/presentation_98db7b33-4c05-4782-a96c-38c6c3c78f10.jpeg",
+  "servings": 4,
+  "prepMinutes": 12,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime"
+    },
+    {
+      "name": "Pistachios (unsalted)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pistachios"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "qty": 1,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 120,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Add salt and water to a medium saucepan, cover, and bring to a boil over high heat."
+    },
+    {
+      "text": "Wash and dry the lime; zest and juice it into a small bowl."
+    },
+    {
+      "text": "Once the water is boiling, stir in oats, cinnamon, and maple syrup; reduce heat to medium-low. Cover and let simmer for 3-5 minutes or until oats reach desired consistency."
+    },
+    {
+      "text": "Add yogurt and maple syrup to the bowl with the lime zest and juice; whisk to combine."
+    },
+    {
+      "text": "When the oats are done, stir in milk."
+    },
+    {
+      "text": "To serve, divide oats between bowls and top with lime yogurt and pistachios. Enjoy!"
+    }
+  ]
+}

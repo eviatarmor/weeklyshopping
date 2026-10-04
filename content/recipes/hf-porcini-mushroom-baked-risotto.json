@@ -1,0 +1,163 @@
+{
+  "slug": "hf-porcini-mushroom-baked-risotto",
+  "kind": "meal",
+  "title": "Extra Cheesy Baked Mushroom & Rosemary Risotto",
+  "subtitle": "with Green Beans & Rocket Salad",
+  "description": "Meaty mushrooms have an unmistakable flavour, packed with elusive umami – that savoury fifth “taste” that makes everything a little bit better. This easy extra cheesy baked risotto packs meaty mushrooms into its cheesy depths, creating a decadent dish that gets a fresh boost from a peppery rocket salad.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/porcini-mushroom-baked-risotto-67e603c6fc0ca5e036e07ac2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67c456c8f0a31bc0c301044a-1af95db4-cd4abcc3.jpeg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "naturally gf",
+    "classic",
+    "winter-warmers"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Risotto-Style Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "white-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6656647f3c6f67065179ff42-ae9b49ba.png"
+    },
+    {
+      "name": "Rosemary",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rosemary",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237f5105c9621030b4ed2-8985d5fa.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 2,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805105c9621030b4f0e-0bf45141.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723765105c9621030b4b49-4a970595.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237f3105c9621030b4ec0-bdb0fc56.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dda29690d86caac925ac-6e750a2c.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f10-3317eda7.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. <br>• Finely chop onion and garlic. <br>• Pick and finely chop rosemary.<br>• Trim green beans, then slice into thirds. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e603c6fc0ca5e036e07ac2/step-a837fd00.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat half the butter and a <br>drizzle of olive oil over medium-high heat. <br>• Cook onion and sliced mushrooms, stirring, <br>until tender and browned, 6-8 minutes. <br>• Add garlic, rosemary and risotto-style rice. <br>Cook until fragrant, 1-2 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e603c6fc0ca5e036e07ac2/step-658e2410.jpg"
+    },
+    {
+      "text": "• <p>• Add the water, vegetable stock and <br>garlic &amp; herb seasoning to the pan, then bring <br>to the boil.<br>• Transfer risotto to a baking dish. Cover tightly <br>with foil. Bake until liquid is absorbed and rice is <br>‘al dente’, 24-28 minutes. <br>• When the risotto has 10 minutes remaining, <br>remove from oven. Stir through green beans, <br>then return to oven to bake until tender.</p> <p><br>TIP: ‘Al dente’ rice is cooked through but still slightly <br>firm in the centre.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e603c6fc0ca5e036e07ac2/step-92beb520.jpg"
+    },
+    {
+      "text": "• <p>• While the risotto is baking, thinly slice cucumber<br>into half-moons. <br>• In a medium bowl combine the honey with <br>a drizzle of balsamic vinegar and olive oil. <br>Season with salt and pepper. <br>• Add rocket leaves and cucumber. Toss to coat. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e603c6fc0ca5e036e07ac2/step-fa1dce30.jpg"
+    },
+    {
+      "text": "• <p>• When risotto is ready, remove from oven <br>and stir through half the Parmesan cheese and <br>the remaining butter. <br>• Season to taste. </p> <p><br>TIP: Stir through a splash of water to loosen the <br>risotto, if needed. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e603c6fc0ca5e036e07ac2/step-ad875740.jpg"
+    },
+    {
+      "text": "• <p>• Divide baked mushroom and rosemary risotto <br>between bowls.<br>• Sprinkle over remaining Parmesan and serve <br>with rocket salad. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e603c6fc0ca5e036e07ac2/step-127c4f50.jpg"
+    }
+  ]
+}

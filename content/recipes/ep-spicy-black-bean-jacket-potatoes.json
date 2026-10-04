@@ -1,0 +1,170 @@
+{
+  "slug": "ep-spicy-black-bean-jacket-potatoes",
+  "kind": "meal",
+  "title": "Spicy Black Bean Jacket Potatoes",
+  "subtitle": "with Tomato Salad & Garlic Yoghurt",
+  "description": "Add a little spice to your weeknight with this hearty meal of Mexican beans on golden roasted spuds. It's a colourful feast that will satisfy the senses!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/spicy-black-bean-jacket-potatoes-67f8584ccade9b9f0ace6593",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6788909758a66637527fa953-ae061fca-38d717c0.jpeg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "mexican",
+    "naturally gf",
+    "spicy",
+    "classic-plates"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236da105c9621030b485f-1710602a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae2-bdf7aecc.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Spicy Taco Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "spicy-taco-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/613ecfad5defb51feb7d0ecf-ec9ffc2c.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89aa34264524ca97a5ad8-aad859cf.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e58-0a43aa1d.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e60-44b83ee2.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f11-25387a5d.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dda29690d86caac925ad-8cc98bdd.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 200°C/180°C fan-forced.<br>• Halve potato and place on the lined oven tray. Drizzle with olive oil and season with salt. Toss to coat and arrange cut-side down. <br>• Bake until golden and tender, 40-45 mins</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fee84bbf4d5de43bbeebf7/step-85725300.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, grate carrot. Roughly chop tomato and brown onion. Finely chop or crush garlic.<br>• Drain and rinse black beans.<br>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook 1/2 the garlic until fragrant, 1 min.<br>• Transfer garlic oil to a small heatproof bowl. Stir in yoghurt. Season with salt and pepper to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fee84bbf4d5de43bbeebf7/step-da0f6f10.jpeg"
+    },
+    {
+      "text": "• <p>• When potatoes have 5 mins remaining, return frying pan to medium-high heat with a drizzle of olive oil.<br>• Cook carrot, onion and black beans until tender, 2-3 mins.<br>• Add tomato paste, spicy taco seasoning (spice blend is hot! Add less if you’re sensitive to heat), the stock powder and remaining garlic and cook until fragrant, 1-2 mins. <br>• Stir in the salt, brown sugar and butter. Add the water and cook until thickened, 3-4 mins. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fee84bbf4d5de43bbeebf7/step-e83a5420.jpeg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine salad leaves, tomato, the honey and a drizzle of balsamic vinegar and olive oil. Season to taste.<br>• Divide jacket potatoes between plates. Top with spicy black beans and <br>garlic yoghurt.<br>• Serve with tomato salad.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fee84bbf4d5de43bbeebf7/step-85da4130.jpeg"
+    }
+  ]
+}

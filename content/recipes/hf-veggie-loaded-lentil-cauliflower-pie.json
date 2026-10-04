@@ -1,0 +1,186 @@
+{
+  "slug": "hf-veggie-loaded-lentil-cauliflower-pie",
+  "kind": "meal",
+  "title": "Veggie-Loaded Lentil & Cauliflower Pie",
+  "subtitle": "with Parmesan Mash & Mint-Garlic Yoghurt",
+  "description": "No-one will want to miss dinner when this irresistible veggie pie is on the menu! With a saucy chermoula-spiced lentil filling, creamy Parmesan-laced mash and mint-garlic yoghurt, it’s home cooking at its finest.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-loaded-lentil-cauliflower-pie-5eba503efb20c466cd267a63",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5eba503efb20c466cd267a63-e65801a2.jpg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555428d6fd2cb9da068b4569.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "knob",
+      "product": "ginger",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affdff8b25eee3e8b456b.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "tin",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Chermoula Spice Mix",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57f34b05b0a36043e1449a41-1603d9af.png"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 1,
+      "unit": "tin",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c2f4dab71fb718b4569.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695f03ae08b534d76c6e72-a5d378b9.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Caramelised Onion Chutney",
+      "qty": 1,
+      "unit": "tub",
+      "product": "onion-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add5af2ae08b560317a0782-4106aa11.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Bring a medium saucepan of lightly salted water to the boil. Cut the cauliflower into small florets. Chop the carrot (unpeeled) and zucchini into small chunks. Spread the cauliflower, carrot and zucchini over two oven trays lined with baking paper. Drizzle generously with olive oil, season with salt and pepper and toss to coat. Roast until tender, 15-20 minutes.\n• TIP: Cut the veggies to the correct size so they cook in the allocated time.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5eba503efb20c466cd267a63/step-b3d506bc.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, peel the potato and cut into 2cm chunks. Add the potato to the saucepan of boiling water and cook until easily pierced with a knife, 10-15 minutes. Drain and return to the saucepan. Add the milk, the salt and 1/2 the butter and mash with a potato masher or fork until smooth.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5eba503efb20c466cd267a63/step-54a3168a.jpg"
+    },
+    {
+      "text": "• While the potato is cooking, finely chop the garlic (or use a garlic press). Finely grate the ginger. Drain and rinse the lentils. In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Add the chermoula spice blend, ginger and 1/2 the garlic and cook until fragrant, 1 minute. Add the diced tomatoes, caramelised onion chutney, brown sugar, lentils, remaining butter and crumbled vegetable stock (1 cube for 2 people / 2 cubes for 4 people) and cook until slightly thickened, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5eba503efb20c466cd267a63/step-f14a6e24.jpg"
+    },
+    {
+      "text": "• Add the baby spinach leaves to the frying pan and stir through until wilted, 1 minute. Gently stir the roasted vegetables through the lentil pie filling. Preheat the grill to medium-high. Transfer the filling to a large baking dish and evenly spread with the mash. Sprinkle over the shaved Parmesan cheese. Grill the pie until lightly golden, 8-10 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5eba503efb20c466cd267a63/step-cbda3ab6.jpg"
+    },
+    {
+      "text": "• While the pie is grilling, pick and finely chop the mint leaves. Wipe out the frying pan and return to a medium-high heat with olive oil (1 tsp for 2 people / 2 tsp for 4 people) and the remaining garlic. Cook until fragrant, 1 minute. Transfer to a small bowl and add the Greek yoghurt and 1/2 the mint. Stir to combine. Season to taste with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5eba503efb20c466cd267a63/step-be1e5d41.jpg"
+    },
+    {
+      "text": "• Divide the lentil and cauliflower pie between bowls and top with the mint-garlic yoghurt. Garnish with the remaining mint.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5eba503efb20c466cd267a63/step-acec3d03.jpg"
+    }
+  ]
+}

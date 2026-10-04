@@ -1,0 +1,143 @@
+{
+  "slug": "hf-perfection-fresh-missing-fioretto-mediterranean-double-haloumi-and-roasted-lemony-fioretto-bowl",
+  "kind": "meal",
+  "title": "Lemony Double Haloumi & Roasted Fioretto Bowl",
+  "subtitle": "with Root Veggie Toss, Yoghurt & Babaganoush",
+  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. With tender stems and delicate florets, the sweet Fioretto will become the best part of this veggie bowl. When paired with Mediterranean haloumi and babaganoush you’ll be savouring each and every bite. Compliments to the Fioretto we say!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/perfection-fresh-missing-fioretto-mediterranean-double-haloumi-and-roasted-lemony-fioretto-bowl-67f859f90d0527cba53b1413",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W23_AUS_Main__1high-a165e7cd.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "healthy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 2,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572373ab33a6ad8f0f0580f-86a249e6.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379f3405d840b2be3923-beeaac14.png"
+    },
+    {
+      "name": "Fioretto",
+      "qty": 1,
+      "product": "fioretto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6837ae99d9848b9dac052b50-405ba810.png"
+    },
+    {
+      "name": "Babaganoush",
+      "qty": 1,
+      "unit": "packet",
+      "product": "babaganoush",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833794264524ca978af40-e720f807.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e1b33a6ad8f0f0567d-5b3ccb63.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385cb33a6ad8f0f05d4c-52398feb.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f10-3317eda7.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c7-f599f624.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. • In a medium bowl, place haloumi and cover with water to soak. Set aside. • Cut sweet potato and carrot into bite-sized chunks. Cut beetroot into 1cm chunks. Trim Fioretto. Halve any thicker stalks of Fioretto lengthways. Zest lemon and slice into wedges.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86925cade9b9f0acecf3f/step-1d4b5200.jpg"
+    },
+    {
+      "text": "• <p>• Place sweet potato, carrot and beetroot on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat. • Roast until tender, 25-30 minutes. Set aside to cool slightly. TIP: Beetroot stays firm when cooked. It&#39;s done when you can pierce it with a fork.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86925cade9b9f0acecf3f/step-03ca7f10.jpg"
+    },
+    {
+      "text": "• <p>• When veggies have 15 minutes remaining, place Fioretto on a second lined oven tray. Drizzle with olive oil, season with salt and toss to coat. • Roast until tender and brown around edges, 10-15 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86925cade9b9f0acecf3f/step-7378b220.jpg"
+    },
+    {
+      "text": "• <p>• When veggies have 5 minutes remaining, drain haloumi and pat dry, then cut into 1cm-thick slices. • In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook haloumi until golden brown, 1-2 minutes each side. • Remove from heat, add dried oregano, lemon zest, the honey and a splash of water, turning haloumi to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86925cade9b9f0acecf3f/step-ddc2fe30.jpg"
+    },
+    {
+      "text": "• <p>• To tray with Fioretto, squeeze over some lemon juice. • To tray with veggies, add spinach &amp; rocket mix and a drizzle of vinegar. Gently toss to combine. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86925cade9b9f0acecf3f/step-f9281b40.jpg"
+    },
+    {
+      "text": "• <p>• Divide roasted veggies between bowls. Top with Mediterranean haloumi and Fioretto. • Dollop with yoghurt and babaganoush. Tear over mint and serve with any remaining lemon wedges. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86925cade9b9f0acecf3f/step-8eef1d50.jpg"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "ep-persian-spiced-coconut-chickpeas",
+  "kind": "meal",
+  "title": "Persian-Spiced Coconut Chickpeas",
+  "subtitle": "with Garlic Rice & Zingy Chopped Salad",
+  "description": "This full-flavoured chickpea dinner delight will have you salivating for more! Soak up all the depth of the coconut and Persian-spiced flavours with a bed of fluffy garlic rice. Enjoy the addition of zingy salsa to cut through the richness.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/persian-spiced-coconut-chickpeas-67f845bc4264524ca9790911",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y26_R4019_W40_AU_EP20287-6_main_high-b8b95224.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "iranian",
+    "naturally gf",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833484264524ca978ae38-7f76b87f.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6a-9ba9c536.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a8-15fc822b.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cb-3faad567.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d6-dc62756d.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237193405d840b2be365f-77d8cdd4.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde02793e8cdd8467eb5-7e5ff03d.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd852793e8cdd8467e37-7e49020a.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e58-0a43aa1d.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde6635bf0b638cfb99a-e0af10a8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop or crush garlic. <br>• In a medium saucepan, melt half the butter with a dash of olive oil over medium heat. <br>• Cook garlic until fragrant, 1-2 mins. Add basmati rice, the water (for the rice) and a generous pinch of salt, then bring to the boil. <br>• Reduce heat to low and cover with a lid. Cook for 10 mins, then remove from heat and keep covered until rice is tender and water is absorbed, 10 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4cc569fc37702f5b7aea4a/step-15852a00.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, roughly chop cucumber, tomato and red onion. <br>• Drain and rinse chickpeas. <br>• In a medium bowl, combine the white wine vinegar and a good pinch of sugar and salt. <br>• Scrunch half the onion, then add to pickling liquid with just enough water to cover.Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4cc569fc37702f5b7aea4a/step-171fab10.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. <br>• Cook chickpeas and remaining onion, tossing, until softened, 4-5 mins. <br>• Add tomato paste and chermoula spice blend and cook until fragrant 1 min. <br>• Stir in coconut milk, the salt, water (for the chickpeas) and remaining butter and simmer until slightly thickened, 2-3 mins. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4cc569fc37702f5b7aea4a/step-26c5cf20.jpeg"
+    },
+    {
+      "text": "• <p>• Drain pickled onion. Add cucumber, tomato and a drizzle of olive oil to the drained onion. Season to taste. <br>• Divide garlic rice and Persian-spiced coconut chickpeas between bowls. Top with zingy chopped salad to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4cc569fc37702f5b7aea4a/step-b6519530.jpg"
+    }
+  ]
+}

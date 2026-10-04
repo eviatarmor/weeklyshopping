@@ -1,0 +1,142 @@
+{
+  "slug": "hf-easy-vietnamese-caramelised-tofu",
+  "kind": "meal",
+  "title": "Easy Vietnamese Caramelised Tofu",
+  "subtitle": "with Rice, Rainbow Slaw & Aioli",
+  "description": "This bountiful bowl has ‘new favourite’ written all over it! The oyster sauce and ginger paste are the key ingredients, giving a delicious flavour kick to the tofu. With a crunchy rainbow slaw and fluffy rice, you’ll happily devour this dish with speed.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-vietnamese-caramelised-beef-67f83e704264524ca978eca9",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R02_W10_AUS_Main_high-dc7bf935.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "vietnamese",
+    "quick",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f87b810d0527cba53bf38e-607398d5.png"
+    },
+    {
+      "name": "Malaysian Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572378cb33a6ad8f0f0596c-a0495ac5.png"
+    },
+    {
+      "name": "Garlic Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237513405d840b2be3793-0eee580a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4aef-e6199145.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572372e105c9621030b4a47-b6b9b6ea.png"
+    },
+    {
+      "name": "Slaw Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6667e23225297b35e64c04ea-43992441.png"
+    },
+    {
+      "name": "Oyster Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "oyster-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f854f50d0527cba53af1bb-476491f1.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde02793e8cdd8467eb4-6be7900f.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddd9635bf0b638cfb981-f7be8bee.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de61635bf0b638cfba5c-044a3e7a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddcc9690d86caac925ec-281fd6a6.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. Half-fill a medium saucepan with boiling water. <br>• Add basmati rice and a pinch of salt and cook, uncovered, over high heat until tender, 12 minutes. Drain.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6811859f5917498f8bf2dade/step-d5698c00.jpeg"
+    },
+    {
+      "text": "• <p>• While the rice is cooking, finely chop garlic. <br>• In a large bowl, combine a drizzle of vinegar and olive oil. Season with salt and pepper. Add slaw mix. Toss to combine and set aside. <br>• In a small bowl, combine oyster sauce, ginger paste, garlic, the brown sugar, soy sauce and water.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6811859f5917498f8bf2dade/step-72fa4010.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a generous drizzle of olive oil over medium-high heat. <br>• When the oil is hot, cook tofu, turning occasionally, 4-5 minutes. <br>• Add oyster sauce mixture and cook, turning to coat, until fragrant, 1 minute. Season with pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6811859f5917498f8bf2dade/step-5b2c5a20.jpeg"
+    },
+    {
+      "text": "• <p>• Divide rice between bowls. <br>• Top with Vietnamese caramelised tofu and rainbow slaw. <br>• Sprinkle over crushed peanuts and top with a dollop of garlic aioli to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6811859f5917498f8bf2dade/step-0faf9630.jpg"
+    }
+  ]
+}

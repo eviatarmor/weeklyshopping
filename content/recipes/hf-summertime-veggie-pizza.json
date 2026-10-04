@@ -1,0 +1,112 @@
+{
+  "slug": "hf-summertime-veggie-pizza",
+  "kind": "meal",
+  "title": "Summertime Veggie Pizza",
+  "subtitle": "with Chilli Oil",
+  "description": "There's something about pizza in the summertime that is irresistible. Sure, it might be hot outside, but there's always room for a slice of pizza hot out of the oven - ready to eat within 10 minutes. Enjoy this one outside, preferably pool side with a cool drink in hand.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/summertime-veggie-pizza-5668f2f64dab7160328b4569",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/summertime-veggie-pizza-534bf987.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "egg free",
+    "high protein",
+    "nut free"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wholemeal Pizza Bases",
+      "qty": 2,
+      "product": "pizza-bases",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55ff55b04dab717d588b4568.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b4efd2cb9070c8b4568.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Mushrooms",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dc4d64dab71524b8b4568.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Oregano",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555bed6a4dab71ab0a8b456a.png"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "qty": 1,
+      "unit": "block",
+      "product": "mozzarella",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/570f1a42fd2cb997108b4569.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Birdseye Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6ac94dab712d498b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced."
+    },
+    {
+      "text": "• Thinly slice the tomato. Finely slice the red onion. Thinly slice the mushrooms. Peel the zucchini into ribbons. Pick the oregano leaves. Grate the mozzarella cheese.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926e8d14d0f125ef014e51-1-0-530437e0.jpg"
+    },
+    {
+      "text": "• Place the wholemeal pizza bases onto a flat surface, rough side down, and spread each base evenly with tomato paste. Top with the tomato, red onion, mushroom, zucchini, oregano and mozzarella cheese. Season with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926e8d14d0f125ef014e51-2-0-aa770723.jpg"
+    },
+    {
+      "text": "• Place the wholemeal pizza base into the oven directly on to the wire racks. Cook for 10 minutes or until the bases are crispy.\n• Tip: The trick to faking woodfire pizza oven heat? Ditch the baking tray and cook directly on the oven racks for that authentic finish."
+    },
+    {
+      "text": "• Finely chop the birdseye chilli. Heat the olive oil in a small saucepan over a medium heat. Add the birdseye chilli and cook for 1-2 minutes or until fragrant. Remove from the heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926e8d14d0f125ef014e51-4-0-0aaba197.jpg"
+    },
+    {
+      "text": "• Drizzle the pizza with the chilli oil and cut into slices."
+    }
+  ]
+}

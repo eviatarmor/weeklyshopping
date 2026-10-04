@@ -1,0 +1,139 @@
+{
+  "slug": "ep-creamy-lentil-dhal",
+  "kind": "meal",
+  "title": "Creamy Lentil Dhal",
+  "subtitle": "with Flatbread Dippers",
+  "description": "Whip up a hearty bowl of mildly spiced lentils with the richness of coconut milk and for a special touch, bake up a mountain of crisp and golden flatbread dippers to round out your meal.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/next-level-creamy-lentil-dhal-67f8624ccade9b9f0acea422",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4010_W26_AU_EP6129-32_main_high-e75deed9.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "everyplate",
+    "indian",
+    "quick",
+    "speedy",
+    "vegetarian",
+    "20 min or less",
+    "pan-asian-plates"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae2-bdf7aecc.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Red Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/69c481769bc4efe70fc4f0b8-302f02be.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cb-3faad567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Mild North Indian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mild-north-indian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379cb33a6ad8f0f059c5-aff84dd8.png"
+    },
+    {
+      "name": "Mild Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723795b33a6ad8f0f0598f-838faee7.png"
+    },
+    {
+      "name": "Flatbread",
+      "qty": 1,
+      "product": "flatbread",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723742b33a6ad8f0f05832-312b1e84.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf426-58b03ce0.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e58-0a43aa1d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <ul>\n• <li>Preheat oven to 220°C/200°C fan-forced.</li>\n• <li>Finely chop brown onion (see ingredients). Finely chop or crush garlic. </li>\n• <li>Roughly chop tomato. </li>\n• <li>Grate carrot. </li>\n• <li>Rinse red lentils.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69bcf44be0e4e3eb769fd48b/step-b1f46900.jpeg"
+    },
+    {
+      "text": "• <ul>\n• <li>In a large saucepan, melt the butter and a drizzle of olive oil over medium-high heat.</li>\n• <li>Cook onion, carrot and tomato until softened, 3-4 mins. Add garlic, mild North Indian spice blend, mild curry paste and cook until fragrant, 1-2 mins.</li>\n• <li>Add the water, lentils and coconut milk. Stir to combine. Cover with lid, reduce heat to medium and simmer until lentils are softened, 20-25 mins (add a splash of water if the dhal looks dry).</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69bcf44be0e4e3eb769fd48b/step-ec452a10.jpeg"
+    },
+    {
+      "text": "• <ul>\n• <li>Place flatbreads on lined oven tray. Drizzle each with olive oil and season with the salt. Bake until warmed through, 4-7 mins. </li>\n• <li>Cut flatbread into 2cm strips.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69bcf44be0e4e3eb769fd48b/step-98a82b20.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>Divide dhal between bowls. Top with Greek-style yoghurt. </li>\n• <li>Serve with flatbread dippers.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69bcf44be0e4e3eb769fd48b/step-af1c4330.jpg"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "hf-spiced-chickpea-and-spring-veggie-salad",
+  "kind": "meal",
+  "title": "Spiced Chickpea & Spring Veggie Salad",
+  "subtitle": "with Harissa Yoghurt & Extra Goat Cheese",
+  "description": "This hearty paprika chickpea salad is brimming with flavour in every mouthful. With roasted sweet potato, capsicum, cucumber ribbons, harissa yoghurt and marinated goat cheese, you'll be doing a little dance with every bite.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/spiced-chickpea-and-spring-veggie-salad-67cea23dfc617b70a129fdcb",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67cea23dfc617b70a129fdcb-10b9345e.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528450-e6b2d1a6.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Harissa Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "harissa-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c26bafd2cb9dc468b4568.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 10,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Paprika Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "paprika-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b63405d840b2be39a7-cb650de1.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc68fd9ae08b52185291032-1726888f.png"
+    },
+    {
+      "name": "Marinated Goat Cheese",
+      "qty": 2,
+      "unit": "packet",
+      "product": "goat-s-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572378c3405d840b2be38bd-3d8b5b48.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut sweet potato and capsicum into bite-sized chunks.\n• Place sweet potato and capsicum on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat.\n• Roast until tender, 20-25 minutes. Allow to cool slightly. TIP: If your oven tray is crowded, divide the sweet potato between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-f9177fe8.jpeg"
+    },
+    {
+      "text": "• Meanwhile, using a vegetable peeler, peel cucumber into ribbons.\n• Slice lemon into wedges.\n• Finely chop garlic.\n• Drain and rinse chickpeas.\n• In a small bowl, combine harissa paste and Greek-style yoghurt. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-cca9e108.jpeg"
+    },
+    {
+      "text": "• While the sweet potato is cooling, in a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook chickpeas, tossing, until tender, 2-3 minutes.\n• Add the butter, paprika spice blend, garlic and a pinch of chilli flakes (if using), then cook until fragrant and slightly charred, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-32ed83e3.jpeg"
+    },
+    {
+      "text": "• In a large bowl, combine the honey, a good squeeze of lemon juice, a drizzle of olive oil and a pinch of salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-dba1d15a.jpeg"
+    },
+    {
+      "text": "• To the dressing, add roasted sweet potato, capsicum, spinach & rocket mix and cucumber. Toss to combine and season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-4d497f68.jpeg"
+    },
+    {
+      "text": "• Divide sweet potato salad between bowls, then top with spiced chickpeas.\n• Drizzle with harissa yoghurt and crumble over marinated goat cheese to garnish.\n• Serve with any remaining lemon wedges. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-2123231d.jpeg"
+    }
+  ]
+}

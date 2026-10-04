@@ -1,0 +1,63 @@
+{
+  "slug": "peri-peri-seasoning",
+  "kind": "blend",
+  "title": "Peri-Peri Seasoning",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (smoky, garlicky, citrusy chilli heat). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

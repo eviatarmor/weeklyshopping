@@ -1,0 +1,142 @@
+{
+  "slug": "hf-nid-superquick-tofu-and-kimchi-fried-rice",
+  "kind": "meal",
+  "title": "Quick Sweet Chilli Tofu & Kimchi Fried Rice",
+  "subtitle": "with Asian Greens & Sesame Seeds",
+  "description": "Kimchi - a bold and tangy Korean staple, kimchi is naturally fermented, developing a deep umami flavour with a\nspicy kick. Its punchy crunch adds instant attitude to rice bowls, noodle dishes and anything else in need of a fiery\nlittle upgrade, just like tonight’s pork and fried rice number!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-superquick-pork-and-kimchi-fried-rice-67f84b67cade9b9f0ace20ab",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1045_W26_AU_R22407-3_MAIN_2_high-39d7d66b.jpg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "korean",
+    "quick",
+    "prepped in 10",
+    "super quick",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c23405d840b2be3497-766f473c.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5093-c21ef0b3.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723751b33a6ad8f0f0586f-c1f9a051.png"
+    },
+    {
+      "name": "Plant-Based Kimchi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "kimchi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/66fe27479e82bf398e8fd738-4cbbc938.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f85ce54264524ca979869d-4ece33e3.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572381db33a6ad8f0f05bf1-f96626a0.png"
+    },
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fcb560fe44baceeadf747a-d8eaf0ce.png"
+    },
+    {
+      "name": "Microwavable Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723792105c9621030b4c4a-ac6530aa.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376c3405d840b2be3818-426a4116.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de61635bf0b638cfba5c-044a3e7a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Roughly chop Asian greens. Drain sweetcorn. • Cut Japanese tofu (see ingredients) into 2cm chunks.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/682a92d4c4a648afcacfd6a3/step-3bde5700.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook corn until slightly charred, 3-4 minutes. • Add the egg and Asian greens and cook, tossing, until wilted and egg is scrambled, 1-2 minutes. • Add microwavable basmati rice, plant-based kimchi, baby spinach leaves, garlic paste, the soy sauce and brown sugar and cook, tossing, until fragrant, 2-3 minutes. • Transfer to serving bowls, season with pepper and cover to keep warm.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/682a92d4c4a648afcacfd6a3/step-4e240f10.jpg"
+    },
+    {
+      "text": "• <p>• Wipe out frying pan and return to medium-high heat with a drizzle of olive oil. • When the oil is hot, cook tofu and sweet soy seasoning, turning occasionally, 4-5 minutes. • Add sweet chilli sauce, a splash of water and cook, turning to coat, until fragrant, 1 minute.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/682a92d4c4a648afcacfd6a3/step-97a3e620.jpg"
+    },
+    {
+      "text": "• <p>• Top kimchi fried rice with tofu to serve. Garnish with sesame seeds. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/682a92d4c4a648afcacfd6a3/step-25382530.jpg"
+    }
+  ]
+}

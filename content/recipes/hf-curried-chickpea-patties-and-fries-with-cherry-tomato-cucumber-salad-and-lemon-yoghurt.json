@@ -1,0 +1,175 @@
+{
+  "slug": "hf-curried-chickpea-patties-and-fries-with-cherry-tomato-cucumber-salad-and-lemon-yoghurt",
+  "kind": "meal",
+  "title": "Curried Chickpea Patties & Fries with Cherry Tomato-Cucumber Salad & Lemon Yoghurt",
+  "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
+  "description": "There's so much flavour packed in these patties - from the caramelised onion chutney to the Indian inspired spices - we promise you'll never look at veggie patties in the same way again!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/curried-chickpea-patties-and-fries-with-cherry-tomato-cucumber-salad-and-lemon-yoghurt-5f7bbc474e75195c9118d74e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/curried-chickpea-patties-6fdaf635.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "balanced",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555428d6fd2cb9da068b4569.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb8a4dab71aa0a8b4569.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.25,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Caramelised Onion Chutney",
+      "qty": 1,
+      "unit": "packet",
+      "product": "onion-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add5af2ae08b560317a0782-4106aa11.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1.5,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d9d8bc2d4f0c9006c3a9cef-58b68ca4.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced.\n• Cut the potato (unpeeled) into 1cm fries. Place\n• the fries on an oven tray lined with baking paper.\n• Drizzle with olive oil, season with salt and pepper\n• and toss to coat. Spread out in a single layer and\n• bake until tender, 20-25 minutes.\n• TIP: Cut the potato to size so it cooks in time.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f7bbc474e75195c9118d74e/step-42c74f13.jpg"
+    },
+    {
+      "text": "• While the fries are baking, drain and rinse the\n• chickpeas. Grate the carrot (unpeeled). Finely\n• chop the cucumber. Halve the cherry tomatoes.\n• Roughly chop the coriander. Finely chop the red\n• onion (see ingredients) and the garlic. Zest the\n• lime to get a pinch, then slice into wedges.\n• TIP: If you don't like raw red onion, no need to prep it.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f7bbc474e75195c9118d74e/step-8c914a1c.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine the drained\n• chickpeas, caramelised onion chutney and egg.\n• Mash with a potato masher until the chickpeas\n• are broken up. Add the grated carrot, garlic, plain\n• flour, fine breadcrumbs, crumbled vegetable\n• stock (1 cube for 2 people / 2 cubes for 4 people),\n• Mumbai spice blend (see ingredients), the salt,\n• a pinch of chilli flakes and 1/2 the coriander.\n• Combine until the mixture is sticking together.\n• Using damp hands, form 1/4 cup of the mixture\n• into a ball, then flatten into a 1cm-thick patty.\n• Repeat with the remaining mixture. You should get\n• 3-4 patties per person.\n• TIP: Add a little more flour if the mixture is too wet.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f7bbc474e75195c9118d74e/step-c3b03327.jpg"
+    },
+    {
+      "text": "• Heat enough olive oil to coat the base of a large\n• frying pan over a medium-high heat. When the\n• oil is hot, cook the chickpea patties, in batches,\n• until golden, 2-3 minutes each side. Add more oil\n• if needed to prevent sticking. Transfer to a paper\n• towel-lined plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f7bbc474e75195c9118d74e/step-96889bbc.jpg"
+    },
+    {
+      "text": "• In a second medium bowl, combine the cucumber,\n• cherry tomatoes, red onion (if using), the\n• remaining coriander, a squeeze of lime juice and\n• a drizzle of olive oil. Season with salt and pepper.\n• Toss to coat. In a small bowl, combine the Greek\n• yoghurt, lime zest and a squeeze of lime juice.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f7bbc474e75195c9118d74e/step-08d79042.jpg"
+    },
+    {
+      "text": "• Divide the curried chickpea patties, fries and salad\n• between plates. Serve with the lime yoghurt and\n• any remaining lime wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f7bbc474e75195c9118d74e/step-f2f139f3.jpg"
+    }
+  ]
+}

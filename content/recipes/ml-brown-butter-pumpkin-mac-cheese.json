@@ -1,0 +1,95 @@
+{
+  "slug": "ml-brown-butter-pumpkin-mac-cheese",
+  "kind": "meal",
+  "title": "Brown Butter Pumpkin Mac & Cheese",
+  "sourceUrl": "https://www.mealime.com/recipes/brown-butter-pumpkin-mac-cheese/4656",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/688/presentation_05b58df8-e83e-4df5-8232-d2f7c58ea685.jpeg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 225,
+      "unit": "g",
+      "product": "cheddar-cheese"
+    },
+    {
+      "name": "Fresh Thyme",
+      "qty": 0.5,
+      "product": "thyme"
+    },
+    {
+      "name": "Macaroni (elbow) Pasta",
+      "qty": 340,
+      "unit": "g",
+      "product": "macaroni"
+    },
+    {
+      "name": "Pure Pumpkin Purée",
+      "qty": 215,
+      "unit": "g",
+      "product": "pumpkin-puree"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 295,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter (unsalted)",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot halfway with water, cover, and bring to a boil. Uncover, add pasta and salt, and stir for a few seconds. Cook until desired firmness, 8-10 minutes."
+    },
+    {
+      "text": "While pasta is cooking, melt butter in a medium saucepan over medium-high heat. Stir, cooking until butter has browned, 3-4 minutes. Watch it carefully so that it does not burn."
+    },
+    {
+      "text": "Remove saucepan from heat, stir in flour, whisking constantly, 1 minute."
+    },
+    {
+      "text": "Return saucepan to heat, gradually stir in milk. Bring to a simmer and cook for 1 minute, stirring constantly, until thickened."
+    },
+    {
+      "text": "Wash and dry thyme. Slide leaves off the stems; discard the stems."
+    },
+    {
+      "text": "Stir in pumpkin, salt, pepper, and most of the thyme (reserve some for garnish)."
+    },
+    {
+      "text": "Grate cheese and add to saucepan. Cook, stirring occasionally, until cheese is melted."
+    },
+    {
+      "text": "When macaroni is done cooking, drain in a colander and return to the pot. Add the cheese sauce to the pot and stir to combine."
+    },
+    {
+      "text": "To serve, divide the macaroni and cheese between plates or bowls and sprinkle with fresh thyme. Enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "ml-pear-pecan-ricotta-toast",
+  "kind": "meal",
+  "title": "Pear & Pecan Ricotta Toast",
+  "sourceUrl": "https://www.mealime.com/recipes/pear-pecan-ricotta-toast/7048",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/803/presentation_5f008f43-da36-4070-b817-e1859a7d4558.jpeg",
+  "servings": 4,
+  "prepMinutes": 5,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pears",
+      "qty": 2,
+      "product": "pear"
+    },
+    {
+      "name": "Pecan Halves",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "pecans"
+    },
+    {
+      "name": "Ricotta Cheese",
+      "qty": 215,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "qty": 4,
+      "unit": "slice",
+      "product": "bread"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash, dry, and thinly slice the pears."
+    },
+    {
+      "text": "Toast bread."
+    },
+    {
+      "text": "While the bread toasts, roughly chop the pecans."
+    },
+    {
+      "text": "To serve, spread the ricotta onto the bread, drizzle with honey, and top with pear, pecans, and a sprinkle of cinnamon."
+    }
+  ]
+}

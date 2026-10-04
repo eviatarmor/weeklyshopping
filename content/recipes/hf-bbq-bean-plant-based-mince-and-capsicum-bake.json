@@ -1,0 +1,154 @@
+{
+  "slug": "hf-bbq-bean-plant-based-mince-and-capsicum-bake",
+  "kind": "meal",
+  "title": "BBQ Baked Beans & Plant-Based Mince",
+  "subtitle": "with Garlic Bread & Cheddar Cheese",
+  "description": "These baked beans and plant-based mince really live up to their name, both with their time in the oven where all the flavours mix and mingle into a moreish taste sensation and with the gooey cheese, which you can mop up with the perfectly chewy ciabatta garlic bread.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/bbq-bean-and-capsicum-bake-67f863e34264524ca979b3c4",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1009_W25_AU_R4891-19_Main_high-6d25923e.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "american",
+    "taste of america"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349d-a27df8b5.png"
+    },
+    {
+      "name": "Bbq Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "bbq-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d3b33a6ad8f0f05653-4ff2e70f.png"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b3-a59a74db.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Bake-At-Home Ciabatta",
+      "qty": 1,
+      "product": "ciabatta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56df758b4dab71036e8b456a-ec117d66.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5093-c21ef0b3.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237333405d840b2be36e0-7bc937a9.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b7105c9621030b4d32-3ceac5f0.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 200,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d1b33a6ad8f0f05a86-6acc66e2.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238123405d840b2be3b67-c2cba528.jpg"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e57-5ee04095.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89aa34264524ca97a5ad7-a1fef2fd.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. • Finely chop garlic. Roughly chop parsley. Roughly chop capsicum into bite-sized chunks. • Drain and rinse butter beans.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80dbf5ad8e6534c49285/step-ee7c0100.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook veggie mince, soffritto and capsicum, breaking up with a spoon, until just browned, 4-5 minutes. • Add 1/2 the garlic and cook until fragrant, 1 minute.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80dbf5ad8e6534c49285/step-ca342510.jpg"
+    },
+    {
+      "text": "• <p>• To pan, add cannellini beans and All-American spice blend. Cook, stirring, until fragrant, 1 minute. • Add diced tomatoes with garlic &amp; onion, the salt, BBQ sauce and water. Cook, stirring, until well combined, 2-3 minutes. Season with pepper to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80dbf5ad8e6534c49285/step-609a0420.jpg"
+    },
+    {
+      "text": "• <p>• Sprinkle bean mixture evenly with Cheddar cheese and cover with a lid (or foil). • Bake until thickened and cheese is melted, 10-12 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80dbf5ad8e6534c49285/step-98513430.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, slice bake-at-home ciabatta in half lengthways, then slice each half diagonally across. • Place the butter and remaining garlic in a small heatproof bowl. Microwave in 10 second bursts until melted. Stir through half the parsley. Season with salt and pepper. • Brush garlic butter over the cut-side of ciabatta slices. • Place ciabatta slices directly on a wire rack in the oven. Bake until golden, 5 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80dbf5ad8e6534c49285/step-8b5e3640.jpg"
+    },
+    {
+      "text": "• <p>• Divide BBQ baked beans and plant-based mince between bowls. • Garnish with remaining parsley. • Serve with garlic bread. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80dbf5ad8e6534c49285/step-b88fb450.jpg"
+    }
+  ]
+}

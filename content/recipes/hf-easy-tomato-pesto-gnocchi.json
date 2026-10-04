@@ -1,0 +1,147 @@
+{
+  "slug": "hf-easy-tomato-pesto-gnocchi",
+  "kind": "meal",
+  "title": "Easy Tomato & Red Pesto Gnocchi",
+  "subtitle": "with Semi-Dried Tomatoes, Fetta & Almonds",
+  "description": "Bring the Italian restaurant vibes to the table with this delightful pasta dish. Whip up a rich herbed tomato sauce for the fusilli, top with creamy fetta and dinner is done!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-tomato-pesto-gnocchi-633fc781741acc3c5c0fe495",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-tomato-pesto-gnocchi-138af5bd.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "easy prep",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Gnocchi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "gnocchi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682ef6f8b25e643e8b4568.png"
+    },
+    {
+      "name": "Semi-Dried Tomatoes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "semi-dried-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55f0b6e84dab711e218b4567.png"
+    },
+    {
+      "name": "Kale",
+      "qty": 1,
+      "unit": "bag",
+      "product": "kale",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55593e10fd2cb9641f8b4569-3be1b03b.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c9546b867b6e7c4061abd4-47237458.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "box",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59812b1cc288002d7f59e5d2-11bf19a1.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Red Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5c7f6716c445fa311209abc2-642e205d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Place gnocchi in a baking dish. Drizzle with olive oil (2 tbs for 2 people / 1/4 cup for 4 people). Season, toss to coat and spread out evenly.\n• Bake until golden, 15-18 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/633fc781741acc3c5c0fe495/step-5e82b318.jpg"
+    },
+    {
+      "text": "• Roughly chop semi-dried tomatoes.\n• Roughly tear kale leaves, then discard stems.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/633fc781741acc3c5c0fe495/step-ab00d07d.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over a medium-high heat.\n• Cook soffritto mix, stirring, until softened, 3-4 minutes.\n• Add garlic paste and garlic & herb seasoning and cook, stirring, until fragrant, 1-2 minutes.\n• Add passata, the water, the brown sugar and vegetable stock powder. Simmer until thickened slightly, 1-2 minutes. Add semi-dried tomatoes, kale and red pesto and cook, stirring, until kale is wilted, 1-2 minutes. Remove from heat. Stir through the butter and gnocchi.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/633fc781741acc3c5c0fe495/step-bbf9b900.jpg"
+    },
+    {
+      "text": "• Season the tomato and red pesto gnocchi to taste, then divide between bowls. Crumble over fetta cubes.\n• Sprinkle with flaked almonds to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/633fc781741acc3c5c0fe495/step-2c03a4f2.jpg"
+    }
+  ]
+}

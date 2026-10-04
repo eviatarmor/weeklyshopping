@@ -1,0 +1,151 @@
+{
+  "slug": "hf-veg-healthy-sweet-soy-tofu-and-pea-pod-poke-bowl",
+  "kind": "meal",
+  "title": "Sweet Soy Tofu & Pea Pod Poke Bowl",
+  "subtitle": "with Zesty Rice, Avocado & Sesame Dressing",
+  "description": "This week's special ingredient is Avocado - creamy, dreamy and packed with goodness! Give your avocado a gentle squeeze - ripe avocados yield slightly but aren’t mushy! If yours is firm, let it ripen on the bench (not the fridge!) until it’s just right. Add it to this poke bowl and watch it level up!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veg-healthy-sweet-soy-tofu-and-pea-pod-poke-bowl-67f8535e4264524ca9794aa2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W28_AU_R22168-3_edit_Main_high-34847580.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "healthy",
+    "over 30g protein",
+    "proteinrich"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f2-90eac6a7.png"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ca3405d840b2be34c7-a2a96259.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Pea Pods",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sugar-snap-peas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/62a02961d1ec4f68c30835c7-60ed00b7.png"
+    },
+    {
+      "name": "Sesame Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f3-78f88c67.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572381db33a6ad8f0f05bf1-f96626a0.png"
+    },
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8337c4264524ca978af54-8d023165.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723743b33a6ad8f0f05839-2d3a33ee.png"
+    },
+    {
+      "name": "Pickled Ginger",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237c5105c9621030b4d81-fc7c4d31.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723857b33a6ad8f0f05d35-e65e8b58.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Red Radish",
+      "qty": 1,
+      "product": "radish",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ec105c9621030b4e7e-0ea1eaaf.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de479690d86caac926a5-8db38531.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop garlic. <br>• In a medium saucepan, heat a drizzle of olive <br>oil over medium heat. Cook garlic until fragrant, <br>1-2 minutes. Add jasmine rice, the water and <br>a generous pinch of salt, stir, then bring to <br>the boil.<br>• Reduce heat to low and cover with a lid.<br>• Cook for 10 minutes, then remove from heat <br>and keep covered until rice is tender and water is <br>absorbed, 10 minutes. </p> <p><br>TIP: The rice will finish cooking in its own steam so <br>don&#39;t peek! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f8604a4264524ca9799b7c/step-6ea2a900.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice cucumber and <br>red radish into rounds.<br>• In a medium bowl, combine the vinegar and a <br>good pinch of sugar and salt.<br>• Add cucumber and radish to pickling liquid. Add <br>enough water to just cover veggies. Set aside. </p> <p><br>TIP: Slicing the veggies very thinly helps it pickle <br>faster!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f8604a4264524ca9799b7c/step-cf48eb10.jpg"
+    },
+    {
+      "text": "• <p>• Trim and halve pea pods lengthways. <br>• Zest lime to get a pinch, then slice into wedges. <br>• Slice avocado in half, scoop out flesh and <br>thinly slice.<br>• Cut firm tofu into 1cm chunks.<br>• In a medium bowl, combine sweet soy <br>seasoning, tofu chunks, a drizzle of olive oil<br>and a pinch of pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f8604a4264524ca9799b7c/step-8aa49c20.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a generous drizzle of <br>olive oil over medium-high heat.<br>• When the oil is hot, cook tofu, turning <br>occasionally, until golden, 5-7 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f8604a4264524ca9799b7c/step-edeb1030.jpg"
+    },
+    {
+      "text": "• <p>• Remove frying pan from heat, then add sweet <br>chilli sauce, a good squeeze of lime juice and a <br>splash of water, tossing to coat.<br>• To the rice, add lime zest, stirring to combine.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f8604a4264524ca9799b7c/step-e7f97e40.jpg"
+    },
+    {
+      "text": "• <p>• Drain pickled veggies.<br>• Divide zesty rice between bowls. Top with <br>pickled veggies, pea pods, avocado and sweet <br>soy tofu.<br>• Drizzle over sesame dressing and garnish with <br>pickled ginger. <br>• Serve with any remaining lime wedges. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f8604a4264524ca9799b7c/step-3827f750.jpg"
+    }
+  ]
+}

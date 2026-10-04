@@ -1,0 +1,52 @@
+{
+  "slug": "ml-peanut-butter-banana-roll-up-strawberries",
+  "kind": "meal",
+  "title": "Peanut Butter Banana Roll-Up with Strawberries",
+  "sourceUrl": "https://www.mealime.com/recipes/peanut-butter-banana-roll-up-strawberries/7460",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/860/presentation_d0b1604a-de06-436c-b17c-91e8cd634234.jpeg",
+  "servings": 4,
+  "prepMinutes": 7,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 4,
+      "product": "banana"
+    },
+    {
+      "name": "Large Flour Tortillas",
+      "qty": 4,
+      "product": "wraps"
+    },
+    {
+      "name": "Strawberries",
+      "qty": 225,
+      "unit": "g",
+      "product": "strawberries"
+    },
+    {
+      "name": "Natural Peanut Butter",
+      "product": "peanut-butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Lay tortillas on a flat surface. Using a spatula, spread peanut butter evenly over one side of each tortilla."
+    },
+    {
+      "text": "Peel bananas and place one on the side of each tortilla. Roll the tortilla up around the banana and slice into pieces."
+    },
+    {
+      "text": "Wash, dry, and halve strawberries."
+    },
+    {
+      "text": "Divide rolls and strawberries onto plates. Enjoy!"
+    }
+  ]
+}

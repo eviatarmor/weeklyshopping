@@ -1,0 +1,151 @@
+{
+  "slug": "hf-cheesy-beef-burger-truffle-mayo",
+  "kind": "meal",
+  "title": "Cheesy Plant-Based Crumbed Chick'n Burger & Truffle Mayo",
+  "subtitle": "with Sweet Potato Fries",
+  "description": "Get your napkins ready – this is one seriously juicy burger! We've loaded it with flavour, from the rosemary caramelised onion to the truffle mayo and Parmesan crisp, so that every bite will take you to your happy place.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-beef-burger-truffle-mayo-67e2391cf8f6928425d5c30c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67bd20b529e0dfdacc797f5b-0a2be869-6b7acdd4.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Rosemary",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rosemary",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237f5105c9621030b4ed2-8985d5fa.png"
+    },
+    {
+      "name": "Italian Truffle Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376e3405d840b2be3824-fcdd4368.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fca2ffa3ffaf7fe874d029-59cf431d.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e57-5ee04095.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0e9690d86caac9265e-f52daf7d.png"
+    },
+    {
+      "name": "Balsamic Vinegar*",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de792793e8cdd8467fbb-76f7bd39.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. <br>• Cut sweet potato into fries. <br>• Place fries on a lined oven tray. Drizzle with olive oil and season with salt. Toss to coat, then bake until tender, 20-25 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2391cf8f6928425d5c30c/step-eb350c00.jpg"
+    },
+    {
+      "text": "• <p>• While the fries are baking, pick and finely chop rosemary leaves.<br>• Thinly slice brown onion.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2391cf8f6928425d5c30c/step-b45d7110.jpg"
+    },
+    {
+      "text": "• <p>• Place Parmesan cheese in even circles (about the same size as your buns, 1 per person) on a second lined oven tray. <br>• Bake until the cheese is golden and crisp at the edges, 6-8 minutes. <br>• Remove from the oven and set aside. The Parmesan crisps will harden as they cool. <br><br>TIP: Keep an eye on the crisps, they can burn quickly!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2391cf8f6928425d5c30c/step-1d32a220.jpg"
+    },
+    {
+      "text": "• <p>• While the crisps are baking, heat a drizzle of olive oil in a large frying pan over medium-high heat. Cook onion and remaining rosemary, stirring, until softened, 4-5 minutes. <br>• Add the balsamic vinegar, brown sugar and a splash of water and mix well. Cook until dark and sticky, 3-5 minutes. Transfer to a small bowl.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2391cf8f6928425d5c30c/step-04916830.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat enough olive oil to coat base over medium-high heat.<br>• Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side. <br>• Meanwhile, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes. Thinly slice the tomato.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2391cf8f6928425d5c30c/step-9c307c40.jpg"
+    },
+    {
+      "text": "• <p>• Divide the sweet potato fries between plates. <br>• Spread the bases with the Italian truffle mayonnaise and top with mixed salad leaves, sliced tomato, plant-based crumbed chicken, Parmesan crisps and rosemary caramelised onion to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e2391cf8f6928425d5c30c/step-2e38da50.jpg"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "hf-perfection-fresh-buzz-worthy-turkish-chickpea-pasta-and-kumato-salsa",
+  "kind": "meal",
+  "title": "Trendy Manti-Inspired Chickpea Pasta",
+  "subtitle": "with Kumato Salsa & Goat Cheese",
+  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. These super sweet, yet super versatile tomato variety carries the perfect sweetness ratio to level up any dish. When paired with paprika chickpeas and pasta, this Kumato salsa number will have you savouring each and every bite. Compliments to the Kumato we say!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/perfection-fresh-buzz-worthy-turkish-chickpea-pasta-and-kumato-salsa-689bd85a1597ca6331097b19",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W44_AU_R46493-4_Main_high-0f9f897e.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "hellofresh",
+    "turkish",
+    "vegetarian",
+    "classic",
+    "pasta-noodles",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Paprika Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "paprika-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b63405d840b2be39a7-cb650de1.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833494264524ca978ae45-dfaa5967.png"
+    },
+    {
+      "name": "Orecchiette",
+      "qty": 1,
+      "unit": "packet",
+      "product": "orecchiette",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f834d94264524ca978b556-62739b51.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b7105c9621030b4d32-3ceac5f0.png"
+    },
+    {
+      "name": "Marinated Goat Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "goat-s-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572378c3405d840b2be38bd-3d8b5b48.png"
+    },
+    {
+      "name": "Kumato",
+      "qty": 2,
+      "product": "kumato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723774105c9621030b4b97-1e4c24a5.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237193405d840b2be3660-48f13097.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Half-fill a large saucepan with water, add a generous <br>pinch of salt, then bring to the boil over high heat.<br>• Cook orecchiette in boiling water until ‘al dente’, <br>11 minutes.<br>• Reserve some pasta water(see ingredients). Drain <br>orecchiette, then return to saucepan with a drizzle <br>of olive oil. </p> <p><br>TIP: ‘Al dente’ pasta is cooked through but still slightly <br>firm in the centre.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bd85a1597ca6331097b19/step-f403d500.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, roughly chop Kumato, cucumber, <br>parsley and roasted almonds.<br>• Finely chop garlic.<br>• Slice lemon into wedges.<br>• Drain and rinse chickpeas. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bd85a1597ca6331097b19/step-d7791310.jpg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine Kumato, cucumber, <br>parsley, a drizzle of olive oil and a good squeeze of <br>lemon juice. Season to taste with salt and pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bd85a1597ca6331097b19/step-a60a5820.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil and <br>garlic over medium-high heat until fragrant, <br>1 minute. Transfer to a small heatproof bowl.<br>• Add Greek-style yoghurt to garlic oil mixture and <br>combine. Season to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bd85a1597ca6331097b19/step-c0803a30.jpg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with the <br>butter and a drizzle of olive oil.<br>• Cook chickpeas until slightly browned, <br>2-3 minutes.<br>• Add tomato paste and paprika spice blend and <br>cook until fragrant, 1 minute.<br>• Stir in the reserved pasta water until combined,<br>1 minute. Season to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bd85a1597ca6331097b19/step-3496d440.jpg"
+    },
+    {
+      "text": "• <p>• Divide orecchiette between bowls.<br>• Spoon over paprika chickpeas and Kumato salsa. <br>• Crumble over marinated goat cheese, drizzle with <br>garlic yoghurt and some goat cheese oil and sprinkle <br>with almonds.<br>• Serve with any remaining lemon wedges. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bd85a1597ca6331097b19/step-81fbff50.jpg"
+    }
+  ]
+}

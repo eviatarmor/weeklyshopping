@@ -1,0 +1,78 @@
+{
+  "slug": "ep-ep-double-haloumi-and-onion-ring-burger",
+  "kind": "meal",
+  "title": "Double Haloumi & Onion Ring Burger",
+  "subtitle": "with Hand-Cut Fries & Smokey Aioli",
+  "description": "Easy homemade onion rings elevate this simple haloumi burger into a delicious fast food copycat! You'll want to add them to everything, and with our simple method, you totally can!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/ep-double-haloumi-and-onion-ring-burger-67f839884264524ca978cf87",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65ea4869bbb0ffe7102d1f15-71195462-9b540152.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "everyplate",
+    "american",
+    "vegetarian",
+    "burgers-rolls"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Bake-At-Home Continental Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f784ecbf90d9f5283f5-d55da12a.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 2,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c3-662d4bcd.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Smokey Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723809105c9621030b4f19-7e5158fb.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. In a medium bowl, place haloumi and cover with water to soak. Cut potato into fries. <br>• Place fries on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat. <br>• Bake until tender, 20-25 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68d9e7de1d20e752a6dbc54e/step-afbd6f00.jpeg"
+    },
+    {
+      "text": "• <p>• While fries are baking, slice brown onion into 1cm rounds, then separate into rings. <br>• In a medium bowl, combine the plain flour and a generous pinch of pepper. Add onion, tossing to coat. <br>• In a large frying pan, heat a generous drizzle of olive oil over medium-high heat. <br>• When oil is hot, shake off excess flour and cook onion (in batches), turning occasionally, until browned and slightly crispy, 5-7 mins. Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68d9e7de1d20e752a6dbc54e/step-fafc0410.jpeg"
+    },
+    {
+      "text": "• <p>• Drain haloumi and pat dry. Slice haloumi horizontally to get 1 piece per person. <br>• Wash and dry frying pan, then return to medium-high heat with a drizzle of olive oil. <br>• Cook haloumi until golden brown, 2 mins each side. Cook in batches if necessary. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68d9e7de1d20e752a6dbc54e/step-84be9820.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, halve continental rolls and bake directly on a wire oven rack until heated through, 2-3 mins. <br>• Spread continental rolls with some smokey aioli. Top with salad leaves, haloumi and onion rings. <br>• Serve with fries and remaining aioli.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68d9e7de1d20e752a6dbc54e/step-676b1e30.jpeg"
+    }
+  ]
+}

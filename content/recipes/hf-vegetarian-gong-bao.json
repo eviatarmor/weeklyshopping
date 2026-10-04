@@ -1,0 +1,134 @@
+{
+  "slug": "hf-vegetarian-gong-bao",
+  "kind": "meal",
+  "title": "Vegetarian Gong Bao",
+  "description": "We are busy celebrating Chinese New Year here in HF HQ and to get in the spirit we have created this great Chinese dish to share with you all. This year celebrates the year of the Sheep in Chinese astrology – what animal are you? Will you have good fortune this year?",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/vegetarian-gong-bao-53eac3bcff604dba788b4568",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/53eac3bcff604dba788b4568.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "chinese",
+    "naturally gf",
+    "under 30 minutes"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "qty": 150,
+      "unit": "g",
+      "product": "white-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b0028fd2cb9ba598b456a.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "knob",
+      "product": "ginger",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affdff8b25eee3e8b456b.png"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55fb5a1279a23cde148b4567.png"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "rice-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816b7fd2cb99d098b4567.png"
+    },
+    {
+      "name": "Caster Sugar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682769fd2cb986228b4568.png"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556534e8f8b25eaa0a8b4567.png"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 250,
+      "unit": "g",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542791fd2cb925058b4569.png"
+    },
+    {
+      "name": "Cashew Nuts",
+      "qty": 25,
+      "unit": "g",
+      "product": "cashews",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be8e7f8b25e0e5a8b4569.png"
+    },
+    {
+      "name": "Bok Choy",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "bok-choy",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/556827da4dab71b7178b456e-0307b083.png"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Place the rice into a sieve and rinse it with cold tap water. The water will initially become cloudy, continue to rinse until the water becomes clear enough (it doesn't need to be crystal). Bringe a large pot of salted water to the boil. Add the rice and cook it for 10-12 minutes or until soft. Drain.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/53eac3bcff604dba788b4568/step_55682c5fc1dcb.jpg"
+    },
+    {
+      "text": "• Remove the seed from the chili (or leave them in if you like it hot!) dice it and then combine with the peeled and crushed garlic, peeled and finely chopped ginger, and roughly chopped spring onion. Whisk together the soy sauce, vinegar, and caste sugar.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/53eac3bcff604dba788b4568/step_55682c5fd09f5.jpg"
+    },
+    {
+      "text": "• Heat the vegetable oil in a wok or large frying pan to a high temperature. Add the sliced mushrooms and fry or about 30-60 seconds until glossy. Remove the slotted spoon and set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/53eac3bcff604dba788b4568/step_55682c5fe4166.jpg"
+    },
+    {
+      "text": "• Return the won to the heat and add the chili, garlic, ginger, and spring onions. Return the mushrooms and the sauce to the wok and cook for further minute, then stir in the cashews and remove from the heat. Remove the gong bao from the pan and then throw the bok choy into the pan, cooking for 1-2 minutes or until it's just cooked but still crisp!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/53eac3bcff604dba788b4568/step_55682c60018de.jpg"
+    },
+    {
+      "text": "• Divide the rice between bowls and serve the gong bao on top with side of the bok choy."
+    }
+  ]
+}

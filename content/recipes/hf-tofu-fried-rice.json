@@ -1,0 +1,105 @@
+{
+  "slug": "hf-tofu-fried-rice",
+  "kind": "meal",
+  "title": "Tofu Fried Rice",
+  "description": "We just had to use this yellow curry paste again, and we know you’re going to love it. Stirring through a bit of this stuff means a tasty fried rice with no boring bits in sight! It’s a mild, fragrant blend, but if you’re a bit sheepish about spice, try adding half of the mixture first and adjusting the spice level as you see fit. Enjoy this fresh take on an old takeaway classic, complete with delicious Thai tofu throughout.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/tofu-fried-rice-56723366fd2cb93a6e8b4567",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56723366fd2cb93a6e8b4567.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "egg free",
+    "lactose free",
+    "under 30 minutes",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f2eafd2cb99d038b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 4,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "vegetable-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556534e8f8b25eaa0a8b4567.png"
+    },
+    {
+      "name": "Thai Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/567231fff8b25ecc1d8b4569-2d7f560c.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Green Capsicum",
+      "qty": 1,
+      "product": "green-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5672329cfd2cb9446e8b4567.png"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Yellow Curry Paste",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e136afd2cb94b468b4567.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• To prepare the ingredients, cube the Thai tofu. Peel the carrot, and finely dice it and the green capsicum. Finely slice the spring onion and separate the white and green parts. Dice the tomato and cut the lime into wedges."
+    },
+    {
+      "text": "• Place the Jasmine rice into a sieve and rinse it with cold tap water until the water runs clear. Place the rice and the water in a medium saucepan over a high heat and bring to the boil. Reduce the heat to medium and simmer for 10-12 minutes or until rice is soft. Drain well."
+    },
+    {
+      "text": "• Meanwhile, heat the vegetable oil in a large wok or frying pan over a high heat. Add the Thai tofu and cook for 1-2 minutes or until just golden. Remove from the pan and set aside. Add the carrot, green capsicum and the white parts of the spring onion. Stir fry for 2-3 minutes or until just tender. Add in the yellow curry paste and cook, stirring for 1 minute or until fragrant. Add the rice, tofu, tomato and the green parts of the spring onion and stir until evenly coated in the paste. Squeeze in the juice of half of the lime wedges. Remove from the heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56723366fd2cb93a6e8b4567/step_56723567d6bf5.jpg"
+    },
+    {
+      "text": "• To serve, divide the fried rice between bowls. Serve with the remaining lime wedges."
+    }
+  ]
+}

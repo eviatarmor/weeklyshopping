@@ -1,0 +1,148 @@
+{
+  "slug": "hf-mediterranean-falafel-and-veggie-couscous",
+  "kind": "meal",
+  "title": "Mediterranean Falafel & Veggie Couscous",
+  "subtitle": "with Kalamata Olives & Tartare Dressing",
+  "description": "Have a ball with dinner – a ball of lightly spiced chickpeas blended with parsley and coriander, that is! Yep, we’re talking about\nfalafels! With couscous, herby yoghurt dressing and bright veggies, they make a dinner that's got the lot.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-falafel-and-veggie-couscous-607e5521e4bc5112d348e9d1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-falafel-roast-veggie-couscous-bowl-520c178b.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Kalamata Olives",
+      "qty": 1,
+      "unit": "packet",
+      "product": "olives",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556879cefd2cb983298b456b.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "unit": "tub",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bab011a30006c450926c7e2-8cc5cbe5.png"
+    },
+    {
+      "name": "Tartare Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tartare-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5b14bf5b30006c72cd24dea2-bb59aae3.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd96fae08b531076e2e52-2fea204a.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5b028883ae08b51132187102-2fea204a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced.\n• Slice the capsicum into thin strips. Cut the red\n• onion into thick wedges. Slice the zucchini into\n• half-moons. Place the capsicum, red onion and\n• zucchini on a lined oven tray. Drizzle with olive oil\n• and season with salt and pepper. Toss to coat and\n• roast until tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607e5521e4bc5112d348e9d1/step-836a21de.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, add the water (for\n• the couscous) to a medium saucepan, crumble\n• in the vegetable stock (1 cube for 2 people /\n• 2 cubes for 4 people) and bring to the boil. Add the\n• couscous and stir to combine. Cover with a lid and\n• remove from the heat. Set aside until the water has\n• absorbed, 5 minutes. Fluff up with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607e5521e4bc5112d348e9d1/step-738c2f0d.jpg"
+    },
+    {
+      "text": "• While the couscous is cooking, roughly chop the\n• parsley. Finely chop the garlic. Zest the lemon to\n• get a generous pinch and cut into wedges. Roughly\n• chop the kalamata olives. Heat a generous drizzle\n• of olive oil in a large frying pan over medium-high heat, add the garlic and cook until fragrant,\n• 1 minute. Transfer to a small bowl and set aside\n• to cool.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607e5521e4bc5112d348e9d1/step-c4bfa8ec.jpg"
+    },
+    {
+      "text": "• Use your hands to break each spinach falafel into\n• quarters (don't worry if they crumble!). Return the\n• frying pan to a medium-high heat with olive oil\n• (1/4 cup for 2 people/ 1/2 cup for 4 people). When\n• the oil is hot, cook the falafel, tossing, until deep\n• golden brown, 5-6 minutes. Transfer to a plate\n• lined with paper towel.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607e5521e4bc5112d348e9d1/step-416b490b.jpg"
+    },
+    {
+      "text": "• While the falafels are cooking, add a generous\n• squeeze of lemon juice, lemon zest, olives,\n• the roasted veggies and 1/2 the parsley to the\n• couscous. Toss to combine and set aside. Add\n• the tartare sauce, water (for the dressing) and\n• Greek-style yoghurt to the garlic. Stir to combine\n• and season to taste.\n• TIP: Add less olives if you find them too salty!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607e5521e4bc5112d348e9d1/step-f721be97.jpg"
+    },
+    {
+      "text": "• Divide the Mediterranean roast veggie couscous\n• between bowls. Top with the falafels. Drizzle over\n• the tartare dressing. Garnish with the remaining\n• parsley. Serve with the remaining lemon wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607e5521e4bc5112d348e9d1/step-f5faf43c.jpg"
+    }
+  ]
+}

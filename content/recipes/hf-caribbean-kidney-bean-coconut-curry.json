@@ -1,0 +1,135 @@
+{
+  "slug": "hf-caribbean-kidney-bean-coconut-curry",
+  "kind": "meal",
+  "title": "Caribbean Kidney Bean Coconut Curry",
+  "subtitle": "with Zesty Rice & Coriander",
+  "description": "Short in time but mighty in flavour, this coconut curry comes loaded with all of the tasty Caribbean flavours, yet without the hassle. Team tender veg with red kidney beans and jerk seasoning alongside a fluffy, zesty rice that is whipped up in no time.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/caribbean-kidney-bean-coconut-curry-67dacec58cac41d48147149b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67dacec58cac41d48147149b-41a0ed3a-ff11fade.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "creole/cajun",
+    "calorie smart",
+    "quick prep",
+    "super quick",
+    "quick",
+    "prepped in 10"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cc-5fcd32e0.png"
+    },
+    {
+      "name": "Trimmed Green Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5dc26f56a9a1a656d72a73c6-0339a2a2.png"
+    },
+    {
+      "name": "Mild Caribbean Jerk Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "jerk-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237953405d840b2be38e7-9e558bad.png"
+    },
+    {
+      "name": "Microwavable Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723792105c9621030b4c4a-ac6530aa.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723857b33a6ad8f0f05d35-e65e8b58.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237e8b33a6ad8f0f05b13-25b8f524.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 15,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de7c9690d86caac92705-e4e999db.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Roughly chop capsicum. Slice lime into wedges. <br>• Drain and rinse red kidney beans. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67dacec58cac41d48147149b/step-92da7b00.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. <br>• Cook trimmed green beans and capsicum until tender, 4-5 minutes. <br>• Add mild Caribbean jerk seasoning and cook until fragrant, 1 minute. <br>• Stir in kidney beans, coconut milk, vegetable stock and the water. <br>Simmer until thickened, 2-3 minutes. <br>• Remove from heat, then stir in baby spinach leaves until wilted. Season with salt and pepper to taste. <br><br>TIP: Add a splash more water if the curry looks too thick. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67dacec58cac41d48147149b/step-5e0f8f10.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, microwave basmati rice until steaming, 2-3 minutes. <br>• Stir in the butter and a squeeze of lime juice until coated. Season to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67dacec58cac41d48147149b/step-707bbc20.jpg"
+    },
+    {
+      "text": "• <p>• Divide Caribbean kidney bean coconut curry between bowls. Garnish with torn coriander. <br>• Serve with zesty rice and any remaining lime wedges. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67dacec58cac41d48147149b/step-85998e30.jpg"
+    }
+  ]
+}

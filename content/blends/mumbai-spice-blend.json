@@ -1,0 +1,66 @@
+{
+  "slug": "mumbai-spice-blend",
+  "kind": "blend",
+  "title": "Mumbai Spice Blend",
+  "description": "Homemade approximation of the HelloFresh AU sachet (warm Indian curry spices). One batch replaces one sachet.",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_400/hellofresh_s3/ingredient/5d9d8bc2d4f0c9006c3a9cef-58b68ca4.png",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "hellofresh",
+    "blend"
+  ],
+  "aliases": [
+    "Mumbai Spice Mix"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Ground Ginger",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

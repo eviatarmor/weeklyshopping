@@ -1,0 +1,137 @@
+{
+  "slug": "ep-thai-coconut-veggie-curry",
+  "kind": "meal",
+  "title": "Thai Coconut Veggie Curry",
+  "subtitle": "with Rice & Peanuts",
+  "description": "Get the fragrant flavours of Thailand in this nourishing and veggie-packed curry. Served over fluffy rice, it's a hearty dinner that will leave you feeling great!\n\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious! *",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/thai-coconut-veggie-curry-61b1462901c0dc188646254b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/malaysian-veggie-curry-bbd17fa3.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "thai",
+    "most loved"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a00b4ecbf90d9f5286d3-023ad5f9.png"
+    },
+    {
+      "name": "Turnip",
+      "qty": 1,
+      "product": "turnip",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61db8de574b4c33e4d661c97-11bcbb8c.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f7c4ecbf90d9f52840a-c66b1029.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fc34ecbf90d9f52857a-7cbce945.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0174ecbf90d9f528706-7478f5de.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0044ecbf90d9f5286b2-32ed361d.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f944ecbf90d9f528489-a1323e62.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f854ecbf90d9f528437-314cd3f8.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9a4ecbf90d9f5284a6-5f2db70d.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01e4ecbf90d9f528723-471f721a.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "bag",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f744ecbf90d9f5283df-789ff4a4.png"
+    },
+    {
+      "name": "Thai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "thai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61441549aa02c40e52555a96-38a7709b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Cut sweet potato into small chunks. Cut turnip into large chunks.\n• Place sweet potato and turnip on the lined oven tray. Drizzle with olive oil and season with salt and pepper. Toss to coat and roast until tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b1462901c0dc188646254b/step-611e5e91.jpg"
+    },
+    {
+      "text": "• Meanwhile, in a medium saucepan, bring water (for the rice) to the boil. Add basmati rice and a pinch of salt. Stir, cover with a lid and reduce heat to low. Cook for 10 mins, then remove pan from heat and keep covered until rice is tender and water is absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b1462901c0dc188646254b/step-c0335468.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of oil over medium-high heat. Cook garlic and Thai spice blend until fragrant, 1 min. Add vegetable stock, soy sauce, lime zest, coconut milk, brown sugar, simmer until thickened, 4 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b1462901c0dc188646254b/step-a31688c9.jpg"
+    },
+    {
+      "text": "• Slice lime into wedges.\n• Add Asian greens to curry and stir until wilted, 1-2 mins. Stir in roast veggies. Remove from heat and add a generous squeeze of lime. Season to taste.\n• Divide rice and veggie curry between bowls. Sprinkle with peanuts. Serve with any remaining lime wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b1462901c0dc188646254b/step-7f231afd.jpg"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "greek-spice-blend",
+  "kind": "blend",
+  "title": "Greek Spice Blend",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (oregano, mint and garlic Greek blend). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Dried Mint",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-mint"
+    },
+    {
+      "name": "Dried Marjoram",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-marjoram"
+    },
+    {
+      "name": "Dried Parsley",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-parsley"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "hf-marrakesh-eggplant",
+  "kind": "meal",
+  "title": "Marrakesh Eggplant",
+  "description": "Both eggplants and couscous are thirsty little things – they’re just waiting for a delicious flavour profile that they can suck up and bring to life! This Marrakesh inspired medley is enlivened with a myriad of North African flavours – you’ll be transported to the bazaar from the first bite.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/marrakesh-eggplant-552f35a66ced6e3e4f8b4571",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/552f35a66ced6e3e4f8b4571.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "north african"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55593f374dab71c4718b456d-2f13fa1f.png"
+    },
+    {
+      "name": "Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553facf4dab7105578b4569.png"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b4efd2cb9070c8b4568.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "red-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55673568f8b25ecc2f8b4567.png"
+    },
+    {
+      "name": "White Wine",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be791f8b25e165a8b456b.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 150,
+      "unit": "g",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 150,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6ef2f8b25ee4718b4568.png"
+    },
+    {
+      "name": "Yoghurt",
+      "qty": 1,
+      "unit": "tub",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543078fd2cb9da068b456e.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Pepper",
+      "product": "black-pepper",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672254f8b25e402f8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a large pan heat the olive oil over a medium-high heat. Add the red onion and the garlic and cook for 2 minutes, being careful not to burn the garlic. Add the eggplant to the pan and cook for 5 minutes on each side until golden and soft - you may need to add extra olive oil because of how thirsty eggplant tends to be!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f35a66ced6e3e4f8b4571/step_556eb179af698.jpg"
+    },
+    {
+      "text": "• Add the cumin to the pan and stir for 1 minute or until fragrant. Now add the tomatoes, chickpeas, red wine vinegar, and the white wine, cover the pot with a lid and cook for 10 minutes or until the tomatoes have softened and everything has fused together. Season with salt and pepper along the way.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f35a66ced6e3e4f8b4571/step_556eb179c085c.jpg"
+    },
+    {
+      "text": "• Place the couscous in a bowl and pour the boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap, leave to sit for 5 minutes. Remove wrap and then begin to fluff the couscous with a fork. Season well with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f35a66ced6e3e4f8b4571/step_556eb179d3834.jpg"
+    },
+    {
+      "text": "• Divide the couscous and eggplant braise between bowls, top with a dollop of yoghurt and then garnish with a good sprinkle of fresh coriander and some lemon juice for a nice fresh taste. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f35a66ced6e3e4f8b4571/step_556eb179e989a.jpg"
+    }
+  ]
+}

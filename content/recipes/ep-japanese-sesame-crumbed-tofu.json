@@ -1,0 +1,171 @@
+{
+  "slug": "ep-japanese-sesame-crumbed-tofu",
+  "kind": "meal",
+  "title": "Japanese Sesame-Crumbed Tofu",
+  "subtitle": "with Sushi Rice, Teriyaki Mayo & Salad",
+  "description": "Who said meat-free dishes can't be satisfying and salivating? Enjoy crisp, golden tofu drizzled with umami mayo, and teamed with home-made sushi rice plus a vibrant salad for an unforgettable feast!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/japanese-sesame-crumbed-tofu-67f85ece4264524ca979929b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4009_W07_AU_EP18695-11_Main_high-0b62589d.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "everyplate",
+    "japanese",
+    "vegetarian",
+    "rice",
+    "pan-asian-plates"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833504264524ca978ae87-fcba044f.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376c3405d840b2be3817-0fbe9a3f.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833484264524ca978ae39-3a323f5a.png"
+    },
+    {
+      "name": "Japanese Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237683405d840b2be3800-e5321787.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/68c21150f655999316008e3a-93c1dd06.png"
+    },
+    {
+      "name": "Teriyaki Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "teriyaki-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f835930d0527cba53a532c-724b11f2.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fc8393fe44baceeadf71fe-d023a894.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a6-42b1319f.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271b-6bab1a34.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddc59690d86caac925e1-edc606d1.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f11-25387a5d.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fef317ba6118bd6bcb9339-8f0e75c3.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de272793e8cdd8467f3f-c1d72c56.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb1-a24832e8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• In a medium saucepan, bring the water (for the rice) to the boil.<br>• Add jasmine rice, stir, cover with a lid and reduce heat to low.<br>• Cook for 10 mins, then remove the pan from heat and keep covered until rice is tender and water absorbed, 10 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69115cb5806404b7ebc5afe3/step-694ed300.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, grate carrot.<br>• Thinly slice tomato into wedges.<br>• In a shallow bowl, combine the plain flour and a pinch of salt and pepper. In a second shallow bowl, whisk the egg. In a third shallow bowl, combine sesame seeds and panko breadcrumbs (see ingredients).<br>• Dip Japanese tofu steaks into flour mixture to coat, then into egg and finally in breadcrumb mixture. Set aside on a plate.<br>• In a small bowl, combine teriyaki seasoning, the soy sauce, honey and water (for the sauce).</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69115cb5806404b7ebc5afe3/step-8328ec10.jpeg"
+    },
+    {
+      "text": "• <p>• Heat a large frying pan over medium-high heat with enough olive oil to coat <br>the base.<br>• Cook crumbed tofu in batches until golden and cooked through, 2-4 mins each side. Transfer to a paper towel-lined plate.<br>• Wipe out frying pan and return to medium heat.<br>• Add teriyaki mixture, stirring, until heated and bubbling, 1-2 mins. Transfer to another small bowl.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69115cb5806404b7ebc5afe3/step-9da2f020.jpeg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine salad leaves, carrot, tomato and Japanese-style dressing. Season to taste.<br>• Stir the mayonnaise into the teriyaki mixture until combined.<br>• Once rice is done, stir in the vinegar and a pinch of white sugar until <br>well combined. <br>• Cut tofu into strips (if desired).<br>• Divide sushi rice and salad between bowls. Top with sesame-crumbed Japanese tofu. Drizzle with teriyaki mayo to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69115cb5806404b7ebc5afe3/step-b7853e30.jpg"
+    }
+  ]
+}

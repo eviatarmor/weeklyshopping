@@ -1,0 +1,164 @@
+{
+  "slug": "hf-cheat-s-veggie-fetta-samosa-parcels",
+  "kind": "meal",
+  "title": "Cheat's Veggie Samosa Parcels",
+  "subtitle": "with Coriander Raita",
+  "description": "Who doesn’t love a crunchy samosa? Crispy, warming, filling yet easy, they’re always a crowd pleaser. This cheat’s version takes no time at all, and is cooled down with the addition of a creamy coriander raita and cucumber salad.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheat-s-veggie-fetta-samosa-parcels-5aebfab6ae08b50ab91fcc31",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheat-s-veggie-fetta-samosa-parcels-163884b3.jpg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555428d6fd2cb9da068b4569.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Curry Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "curry-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c5a164dab71f63f8b4568.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Fetta Cheese",
+      "qty": 1,
+      "unit": "block",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be7a34dab71aa0a8b4568.png"
+    },
+    {
+      "name": "Filo Pastry",
+      "qty": 8,
+      "product": "filo-pastry",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56de3e604dab7115448b4567.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "tub",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "white-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be69ef8b25ec35c8b4568.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad6ac09ae08b54d160cb072-a3981ef2.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/180°C  fan-forced. Thinly slice the brown onion. Cut the carrot (unpeeled) into 1 cm cubes. TIP:  Cut the carrot to the correct size to ensure it cooks in the allocated time. Grate the potato (unpeeled). Peel and crush the garlic. Melt the butter.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aebfab6ae08b50ab91fcc31/step-cfbe9d06.jpg"
+    },
+    {
+      "text": "• Heat a good drizzle of olive oil in a large frying pan over a medium-high heat. Add the onion, carrot and potato and cook, stirring occasionally, for 8-10 minutes, or until tender. TIP:  Add a dash of water if the filling is sticking to the pan! Add the garlic and curry powder and cook, stirring, for 1-2 minutes, or until fragrant. Remove from the heat, add the salt (see ingredients list), crumble in the fetta and gently stir to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aebfab6ae08b50ab91fcc31/step-9e936b73.jpg"
+    },
+    {
+      "text": "• Lay 1 sheet of filo pastry flat on a clean surface. Brush the filo with some of the melted butter, then lay another sheet on top. Spoon the samosa filling (1/4 for 2 people / 1/8 for 4 people) on one side of the pastry. Fold the long edges into the centre, and then fold in the left short edge. Keep folding to enclose filling, ending seam-side down. Repeat with the remaining mixture and remaining filo sheets to make 4 samosas for 2 people / 8 samosas for 4 people.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aebfab6ae08b50ab91fcc31/step-3562669a.jpg"
+    },
+    {
+      "text": "• Place the parcels, seam-side down, on an oven tray lined with baking paper. Brush each parcel with some of the melted butter and season with a pinch of salt and pepper. Bake for 10-15 minutes, or until golden.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aebfab6ae08b50ab91fcc31/step-cedb7d97.jpg"
+    },
+    {
+      "text": "• While the samosa parcels are baking, finely chop the coriander. In a small bowl, combine the coriander and Greek yoghurt. Season with a pinch of salt, sugar and pepper. Set aside.  Cut the cucumber into 1 cm chunks. In a  medium bowl, combine olive oil (1 tbs for 2  people / 2 tbs for 4 people), the vinegar and the honey. Add the cucumber and mixed salad leaves and toss to coat.  TIP:  Toss the salad just before serving to keep the leaves crisp.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aebfab6ae08b50ab91fcc31/step-56895e74.jpg"
+    },
+    {
+      "text": "• Divide the cheat's veggie samosas and salad between plates. Serve with a dollop of coriander raita.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aebfab6ae08b50ab91fcc31/step-6922c5a8.jpg"
+    }
+  ]
+}

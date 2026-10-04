@@ -1,0 +1,65 @@
+{
+  "slug": "ml-crunchy-peanut-butter-apple-oatmeal",
+  "kind": "meal",
+  "title": "Crunchy Peanut Butter & Apple Oatmeal",
+  "sourceUrl": "https://www.mealime.com/recipes/crunchy-peanut-butter-apple-oatmeal/7232",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/831/presentation_f0dd97fe-41e3-4ff5-b532-0a97a5a45727.jpeg",
+  "servings": 4,
+  "prepMinutes": 12,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Gala Apples",
+      "qty": 2,
+      "product": "apple"
+    },
+    {
+      "name": "Peanuts (roasted unsalted)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "peanuts"
+    },
+    {
+      "name": "Natural Peanut Butter",
+      "product": "peanut-butter",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Add salt and water to the saucepan, cover, and bring to a boil over high heat. Once boiling, stir in oats and maple syrup. Cover and let simmer, on low, 3-5 minutes, or until oats reach desired consistency."
+    },
+    {
+      "text": "Wash and dry apples, then core and medium dice."
+    },
+    {
+      "text": "Roughly chop peanuts."
+    },
+    {
+      "text": "When oats are done, stir in peanut butter."
+    },
+    {
+      "text": "To serve, divide oats between bowls and top with chopped apples and peanuts. Enjoy!"
+    }
+  ]
+}

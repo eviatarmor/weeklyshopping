@@ -1,0 +1,171 @@
+{
+  "slug": "hf-lentil-parsley-and-dukkah-patties",
+  "kind": "meal",
+  "title": "Lentil, Parsley & Dukkah Patties",
+  "subtitle": "with Roasted Sweet Potato & Fetta Salad",
+  "description": "Here’s a new way to enjoy lentils: combine them with tasty fetta and mild dukkah, then shape them into patties! The flavour\ndoesn’t stop there – on the side you’ll have a fresh salad with chunks of spiced sweet potato and toasted walnuts. This is a\nveggie meal with all the good stuff.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/lentil-parsley-and-dukkah-patties-5c5a681cc445fa1471069c42",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-dukkah-patties-45c7800a.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "walnuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682d72fd2cb9bf248b4567.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "tin",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/606d14714f75e662fe596b02-03c06826.png"
+    },
+    {
+      "name": "Dukkah",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "dukkah-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d4c4dab7106578b456d.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "tub",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 2,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "tub",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png"
+    },
+    {
+      "name": "Golden Goddess Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076488201846f6f39708278-d1c2b639.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced. Chop\n• the sweet potato into bite-sized chunks. Cut the\n• beetroot into small chunks. Place on a lined oven\n• tray. Drizzle with olive oil, season with salt and\n• toss to coat. Roast until tender, 20-25 minutes. In\n• the last 5 minutes of cook time, add the walnuts\n• to the side of the oven tray and bake until fragrant\n• and toasted.\n• TIP: Beetroot stays firm when cooked. It’s done\n• when you can pierce it with a fork.\n• TIP: Beetroot stays firm when cooked. It’s done\n• when you can pierce it with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607633b7f8f65514340ff8a6/step-b799daea.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, drain and rinse the\n• lentils. Finely chop the garlic. Roughly chop the\n• parsley. Thinly slice the spring onion.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607633b7f8f65514340ff8a6/step-abfade3b.jpg"
+    },
+    {
+      "text": "• In a medium bowl, roughly mash the lentils using\n• a potato masher. Add the garlic, parsley, spring\n• onion, dukkah, egg, vegetable stock pot, plain\n• flour and fine breadcrumbs. Crumble in 1/2 the\n• fetta cubes and mix well. Season to taste. Using\n• damp hands, roll the mixture into small balls (you\n• should get 3 per person). Place the balls on a plate\n• and transfer to the fridge for 5 minutes.\n• TIP: Chilling the mixture helps the patties firm up!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607633b7f8f65514340ff8a6/step-e6866605.jpg"
+    },
+    {
+      "text": "• Heat a large frying pan over a medium-high heat\n• and add enough oil to coat the base. When the oil\n• is hot, place a few lentil balls in the pan and flatten\n• with a spatula until 1cm thick. Cook until golden\n• and cooked through, 3-4 minutes each side.\n• Transfer to a plate lined with paper towel. Repeat\n• with the remaining balls.\n• TIP: Let the patties get firm before trying to flip\n• them and add extra oil if needed to prevent sticking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607633b7f8f65514340ff8a6/step-d715c9a2.jpg"
+    },
+    {
+      "text": "• While the patties are cooking, combine the mixed\n• salad leaves, sweet potato, beetroot and\n• walnuts in a large bowl. Just before serving, add\n• the golden goddess dressing and toss to coat.\n• TIP: Allow the roasted veggies to cool slightly before\n• adding to the bowl to keep the leaves crisp.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607633b7f8f65514340ff8a6/step-ce8b3d95.jpg"
+    },
+    {
+      "text": "• Divide the sweet potato salad and dukkah\n• patties between bowls. Crumble the remaining\n• fetta cubes over the salad. Serve with the dill &\n• parsley mayonnaise.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/607633b7f8f65514340ff8a6/step-541eb920.jpg"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "hf-cheesy-kidney-bean-quesadillas",
+  "kind": "meal",
+  "title": "Extra Cheesy Kidney Bean Quesadillas",
+  "subtitle": "with Chipotle Sour Cream & Salsa",
+  "description": "Red kidney beans and Cheddar unite to make a hearty and delicious filling for these quesadillas. Simply spoon the filling onto tortillas, fold them in half, then bake. These Latin flavours are so good, you’ll be making this one on repeat.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-kidney-bean-quesadillas-67e385fc822813b6e6e5dad4",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67c516f2c7d7f8f46885c6bf-f0eb7937-98d7d8de.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "spicy",
+    "taste latin america",
+    "classic"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 2,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6b-38d72c27.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237e8b33a6ad8f0f05b13-25b8f524.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723722105c9621030b49de-d90ccc30.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c67-51fe1580.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Mild Chipotle Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chipotle-in-adobo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723795b33a6ad8f0f05996-f607b9b1.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723791105c9621030b4c44-b094ccb8.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddfe2793e8cdd8467ef4-aade1d48.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. <br>• Finely chop garlic. <br>• Slice corn kernels off the cob. <br>• Drain and rinse red kidney beans. <br>• Place kidney beans in a bowl and roughly mash with a fork. <br>• Finely chop red onion. <br>• In a medium bowl, combine the vinegar, half the onion and a good pinch of sugar and salt. Add just enough water to cover the onion, then set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e385fc822813b6e6e5dad4/step-e0197800.jpg"
+    },
+    {
+      "text": "• <p>• Heat a large frying pan over high heat. Cook corn, until lightly charred, 3-4 minutes. <br>• SPICY! You may find the spice blend hot! Add less if you&#39;re sensitive to heat. Reduce heat to medium-high, then add a drizzle of olive oil and garlic, red kidney beans and remaining onion. Cook until softened, 2-3 minutes. Add a drizzle more olive oil (if needed), tomato paste and Mexican Fiesta spice blend and cook until fragrant, 1 minute. <br>• Add the water and stir to combine. Simmer until thickened, 1-2 minutes. Season with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e385fc822813b6e6e5dad4/step-d05a0810.jpg"
+    },
+    {
+      "text": "• <p>• Microwave mini flourtortillas on a microwave-safe plate in 10 second bursts until warmed through. Arrange on a lined oven tray. <br>• Divide the bean mixture among the tortillas, spooning it onto one half of each tortilla, then top with Cheddar cheese. <br>• Fold the other half of each tortilla over to close and press down gently with a spatula. Brush with a drizzle of olive oil (or spray with olive oil spray).</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e385fc822813b6e6e5dad4/step-d367cc20.jpg"
+    },
+    {
+      "text": "• <p>• Bake quesadillas until the cheese is melted and the tortillas are golden, 10-12 minutes. Spoon any overflowing filling back into the quesadillas. <br><br>TIP: You can place a sheet of baking paper and a second oven tray on top of the quesadillas if they unfold during cooking.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e385fc822813b6e6e5dad4/step-67426c30.jpg"
+    },
+    {
+      "text": "• <p>• While the quesadillas are baking, finely chop cucumber and tomato. <br>• Drain pickled onion, then top with the cucumber, tomato and a drizzle of olive oil. Season, toss to coat and set aside. <br>• SPICY! The chipotle sauce is mild, but use less if you&#39;re sensitive to heat! In a small bowl, combine the mild chipotle sauce and light sour cream.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e385fc822813b6e6e5dad4/step-b4b71240.jpg"
+    },
+    {
+      "text": "• <p>• Divide the quesadillas between plates.<br>• Serve with chipotle sour cream and salsa. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e385fc822813b6e6e5dad4/step-0f58aa50.jpg"
+    }
+  ]
+}

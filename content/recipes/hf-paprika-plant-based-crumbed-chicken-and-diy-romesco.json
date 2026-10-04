@@ -1,0 +1,154 @@
+{
+  "slug": "hf-paprika-plant-based-crumbed-chicken-and-diy-romesco",
+  "kind": "meal",
+  "title": "Paprika Plant-Based Crumbed Chick'n & DIY Romesco",
+  "subtitle": "Take your cooking skills to the next level!",
+  "description": "Here to challenge your inner chef, our ‘skill up’ recipes will take you from zero to hero. Turn up the heat by blitzing up a homemade romesco sauce. When roasted capsicum meets garlic, almonds and chilli in the food processor, the Spanish sauce created is equally rich and delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/paprika-chicken-schnitzel-and-diy-romesco-67f84e590d0527cba53acaa2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66ce785c475572dc3fb72996-e6b792a1-b2e83cec.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "spanish",
+    "around the world",
+    "over 30g protein",
+    "proteinrich"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8441e0d0527cba53a9c2e-1ad70688.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Paprika Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "paprika-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b63405d840b2be39a7-cb650de1.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fca451a3ffaf7fe874d03a-07c63015.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f53405d840b2be35ee-e95ce245.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a5-f4dfe0a3.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd89635bf0b638cfb8ed-3c30529b.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e57-5ee04095.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. • In a baking dish, place capsicum and garlic cloves (no need to peel!). • Drizzle with olive oil, then bake until slightly charred and tender, 20-25 minutes. • Remove from the oven, cover with foil and set aside to rest for 5 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06f4f5ad8e6534c44381/step-2bd5c700.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, cut sweet potato into bite-sized chunks. • Finely chop celery. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06f4f5ad8e6534c44381/step-3fc9e010.jpg"
+    },
+    {
+      "text": "• <p>• Place sweet potato on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat. • Roast until tender, 20-25 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06f4f5ad8e6534c44381/step-644a8820.jpg"
+    },
+    {
+      "text": "• <p>• While the capsicum is resting, in a large frying pan, heat enough olive oil to coat base over medium-high heat. • Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side. Sprinkle with paprika spice blend. • Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06f4f5ad8e6534c44381/step-470b8530.jpg"
+    },
+    {
+      "text": "• <p>• Carefully peel capsicum and garlic, removing any stems and seeds. • Transfer capsicum and garlic to a food processor, then add roasted almonds, the white wine vinegar, salt, a pinch of chilli flakes (if using) and olive oil (1/4 cup for 2 people / 1/2 cup for 4 people). • Blitz until desired consistency. TIP: If you don&#39;t have a food processor, finely chop ingredients to form a chunky, rustic sauce!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06f4f5ad8e6534c44381/step-f56e9540.jpg"
+    },
+    {
+      "text": "• <p>• In a large bowl, combine celery, mixed salad leaves and a drizzle of white wine vinegar and olive oil. Season with salt and pepper. • Divide roast sweet potatoes, celery salad and paprika plant-based crumbed chicken between plates. • Serve with DIY romesco sauce. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06f4f5ad8e6534c44381/step-8024e450.jpg"
+    }
+  ]
+}

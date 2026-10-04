@@ -1,0 +1,150 @@
+{
+  "slug": "hf-mediterranean-veggie-and-haloumi-soup",
+  "kind": "meal",
+  "title": "Mediterranean Veggie & Haloumi Soup",
+  "subtitle": "with Crumbled Fetta & Flaked Almonds",
+  "description": "Soups are such a dinner-time staple as they are always brimming with warm and homey flavours. Packed into this soup are several veggies. haloumi and crumbly cheese, waiting to be slurped up by you!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-veggie-soup-67f853840d0527cba53ae871",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W29_AU_R7113-6_Main_swap_broccoli_edit_high-e4d54e8b.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "air fryer easy",
+    "air fryer friendly",
+    "naturally gf",
+    "prepped in 10",
+    "calorie smart",
+    "under 40g carbs",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572380e105c9621030b4f37-c66d6946.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "product": "silverbeet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238033405d840b2be3b0d-33091177.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "broccoli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384eb33a6ad8f0f05d04-2ef7951c.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Cut carrot, potato and zucchini into bite-sized chunks. • Set air fryer to 200°C. Place veggies into the air fryer basket, season with salt, drizzle with olive oil and toss to coat. • Cook for 10 minutes. Shake the basket, then cook until tender, a further 5-10 minutes. TIP: No air fryer? Prep carrot, potato, zucchini as above. Place prepped veggies on a lined oven tray with a drizzle of olive oil. Season with salt and toss to coat. Roast until tender, 15-20 minutes. • In a medium bowl, place haloumi and cover with water to soak. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43dd42dc4b928199fc56/step-c4c70100.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop garlic. • Thinly slice silverbeet. • Halve snacking tomatoes. • Drain haloumi and pat dry. Cut the haloumi into 1cm-thick slices.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43dd42dc4b928199fc56/step-96aa3910.jpg"
+    },
+    {
+      "text": "• <p>• When the veggies have 5 minutes cook time remaining, in a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook haloumi until golden brown, 1-2 minutes each side. Transfer to a plate. • Return frying pan to medium-high heat with a drizzle of olive oil. • Cook tomato paste, garlic &amp; herb seasoning and garlic, stirring until fragrant, 30 seconds. Add the water, salt and the brown sugar, then bring to a simmer and cook until reduced, 2-4 minutes. • Add roasted veggies, snacking tomatoes and silverbeet and cook until wilted, 2-3 minutes. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43dd42dc4b928199fc56/step-10625120.jpg"
+    },
+    {
+      "text": "• <p>• Divide Mediterranean veggie soup between bowls. • Crumble over fetta cubes. Top with flaked almonds, haloumi and a pinch of chilli flakes (if using) to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d43dd42dc4b928199fc56/step-b795e830.jpg"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "hf-pesto-zucchini-fetta-risotto",
+  "kind": "meal",
+  "title": "Pesto, Zucchini & Fetta Risotto",
+  "subtitle": "with Toasted Sunflower Seeds",
+  "description": "This silky risotto is jam packed with the goodness of greenery, from zucchini to spinach to pesto. Of course, no risotto would be complete without cheese, so some crumbled fetta adorns this dish, but there’s also an unexpected crunch in the form of toasted sunflower seeds. We think you’re going to love it!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/pesto-zucchini-fetta-risotto-587c3a9a9df1815bce2359f2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-zucchini-fetta-risotto-74fa79f7.jpg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1,
+      "unit": "l",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6ef2f8b25ee4718b4568.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "arborio-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427854dab7105578b456a.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 0.5,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Traditional Pesto",
+      "qty": 1,
+      "unit": "tub",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56272514f8b25ea65d8b4567.png"
+    },
+    {
+      "name": "Fetta Cheese",
+      "qty": 1,
+      "unit": "block",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be7a34dab71aa0a8b4568.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sunflower-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55e69f99fd2cb9f53f8b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• To prepare the ingredients, crumble the vegetable stock, finely chop the brown onion, peel and crush the garlic, and rinse the arborio rice well. Trim and cut the green beans into 1 cm pieces, grate the zucchini and remove the excess moisture, crumble the fetta cheese, and zest and cut the lemon into wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a9a9df1815bce2359f2-0-0-e4ab230b.jpg"
+    },
+    {
+      "text": "• Add the vegetable stock and the boiling water to a medium saucepan and place over a low heat to keep warm."
+    },
+    {
+      "text": "• Heat the olive oil and butter in a large saucepan over a medium heat. Add the brown onion and cook for 3 minutes, or until the onion is soft. Add the garlic and arborio rice, stirring to coat the grains, and toast for 1 minute. Reduce to medium-low heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a9a9df1815bce2359f2-2-0-3f860e13.jpg"
+    },
+    {
+      "text": "• Add the simmering stock to the rice mixture, 1 cup at a time, and stir continuously until the stock has been absorbed and the rice is cooked ‘al dente’. Add the green beans and zucchini with the last cup of stock and stir until the stock has been absorbed. Stir through the baby spinach leaves until wilted. Remove from the heat and stir through the traditional pesto, fetta cheese, and lemon zest, and season generously with cracked black pepper.\n• Tip: It may seem like there is a lot of liquid but the key to risotto is taking the time to let the rice absorb the stock.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a9a9df1815bce2359f2-3-0-7ff60f32.jpg"
+    },
+    {
+      "text": "• When the rice is almost cooked, place a small frying pan over a medium-high heat. Add the sunflower seeds and cook, tossing occasionally, for 1 minute, or until toasted.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a9a9df1815bce2359f2-4-0-82f3680d.jpg"
+    },
+    {
+      "text": "• To serve, divide the risotto between bowls, sprinkle with toasted sunflower seeds and serve with lemon wedges."
+    }
+  ]
+}

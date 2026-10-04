@@ -1,0 +1,135 @@
+{
+  "slug": "ep-indian-lentil-and-cauliflower-pie",
+  "kind": "meal",
+  "title": "Indian Lentil & Cauliflower Pie",
+  "subtitle": "with Cheesy Mash Topping",
+  "description": "We've taken a classic cottage pie and made it veggie, with fragrant Indian spices and hearty vegetables for a comforting meal you'll crave again and again.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/indian-lentil-and-cauliflower-pie-62a284e94615751ac801d776",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-lentil-cauliflower-pie-78a502f0.jpg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "indian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fe44ecbf90d9f52861a-a7aba26d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "tin",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Curry Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "curry-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eea0d1b30539e48127973cb-b049e7e0.png"
+    },
+    {
+      "name": "Masala Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/596d898ba1e1ea6445652fe2-30d38921.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Cut cauliflower into small florets (including the stalk!). Cut carrot into half\u0002moons. Place on a lined oven tray.\n• Drizzle with olive oil and season with salt and pepper. Toss to coat. Roast until tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63f7f5633beeeb34260e1186/step-abfed9f0.jpg"
+    },
+    {
+      "text": "• Meanwhile, boil the kettle. Peel potato and cut into large chunks. Half-fill a medium saucepan with boiling water.\n• Cook potato in boiling water, over high heat, until easily pierced with a knife, 10-15 mins.\n• Drain and return to saucepan. Add the milk, butter and a generous pinch of salt and mash until smooth.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63f7f5633beeeb34260e1186/step-f71d2a36.jpg"
+    },
+    {
+      "text": "• Finely chop brown onion. Drain and rinse lentils.\n• In a large frying pan heat a drizzle of olive oil over medium-high heat. Cook onion until softened, 4-5 mins.\n• Stir in lentils, garlic, curry spice blend, masala spice blend and tomato paste and cook until fragrant, 1 min. Add the water, baby spinach and roasted veggies and cook until thickened, 1 min.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63f7f5633beeeb34260e1186/step-50626bef.jpg"
+    },
+    {
+      "text": "• Preheat grill to high. Transfer lentil mixture to a baking dish and top with potato mash. Sprinkle with Cheddar cheese.\n• Grill until lightly golden, 5-7 mins.\n• Divide Indian lentil cauliflower pie between plates to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63f7f5633beeeb34260e1186/step-645424e9.jpg"
+    }
+  ]
+}

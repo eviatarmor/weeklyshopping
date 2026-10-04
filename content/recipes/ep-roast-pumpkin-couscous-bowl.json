@@ -1,0 +1,132 @@
+{
+  "slug": "ep-roast-pumpkin-couscous-bowl",
+  "kind": "meal",
+  "title": "Roast Pumpkin Couscous Bowl",
+  "subtitle": "with Herby Mayo & Fetta",
+  "description": "Packed with goodness and lots of flavour, this couscous based bowl topped with fragrant roasted veggies is a meal full of wonder!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/roast-pumpkin-couscous-bowl-67f837ee4264524ca978c86e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/664f046e2ae3a5972f828c45-83b2e3e0-298c624b.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "everyplate",
+    "greek",
+    "vegetarian",
+    "couscous"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334a4264524ca978ae5e-31828b68.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237313405d840b2be36cb-a695cfe8.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238583405d840b2be3cf5-a747322d.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561c-5667c8d1.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd1-a177488d.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585c-dca9d714.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fe2be511363ed37736f3024-583bf58f.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf92793e8cdd8467ee7-f43d8a80.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c8-273dce73.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Peel and cut pumpkin into wedges. <br>• Cut carrot and zucchini into bite-sized chunks. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68f1ad18c310625e1718d662/step-72151c00.jpeg"
+    },
+    {
+      "text": "• <p>• Place pumpkin on a lined oven tray. Drizzle with olive oil, sprinkle with garlic &amp; herb spice blend and season with salt. Toss to coat.<br>• Place carrot and zucchini on a second lined oven tray. Drizzle with olive oil and season with salt. Toss to coat.<br>• Roast veggies until tender, 20-25 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68f1ad18c310625e1718d662/step-95216b10.jpeg"
+    },
+    {
+      "text": "• <p>• When veggies have 10 mins remaining, boil the kettle. To a large heatproof bowl, add couscous and the stock powder.<br>• Add the boiling water (3/4 cup for 2P / 1 1/2 cups for 4P) and butter, then stir to combine. Immediately cover with a plate and leave for 5 mins. Fluff up with a fork and set aside.<br>• When veggies are done, add roasted carrot and zucchini to couscous. Add baby spinach and a drizzle of vinegar. Toss to combine. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68f1ad18c310625e1718d662/step-cb5f9d20.jpeg"
+    },
+    {
+      "text": "• <p>• Divide roast veggie couscous between bowls. Top with roast pumpkin.<br>• Crumble over fetta cubes.<br>• Top with a dollop of dill &amp; parsley mayonnaise to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68f1ad18c310625e1718d662/step-0cf70c30.jpeg"
+    }
+  ]
+}

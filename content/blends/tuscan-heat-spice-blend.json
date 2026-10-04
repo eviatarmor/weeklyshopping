@@ -1,0 +1,65 @@
+{
+  "slug": "tuscan-heat-spice-blend",
+  "kind": "blend",
+  "title": "Tuscan Heat Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 4 dried basil, 2 dried rosemary, 2 dried oregano, 2 garlic powder, 1 cayenne pepper, 1 ground fennel.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Tuscan Heat Spice",
+    "Tuscan Heat Seasoning",
+    "Tuscan Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Basil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-basil"
+    },
+    {
+      "name": "Dried Rosemary",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-rosemary"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    },
+    {
+      "name": "Ground Fennel",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-fennel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "ml-grilled-peanut-butter-banana-sandwich",
+  "kind": "meal",
+  "title": "Grilled Peanut Butter & Banana Sandwich",
+  "sourceUrl": "https://www.mealime.com/recipes/grilled-peanut-butter-banana-sandwich/27560",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3115/presentation_96c6b18a-225d-4a17-9fef-42b1521c67b7.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 4,
+      "product": "banana"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "qty": 8,
+      "unit": "slice",
+      "product": "bread"
+    },
+    {
+      "name": "Natural Peanut Butter",
+      "product": "peanut-butter",
+      "pantry": true
+    },
+    {
+      "name": "Virgin Coconut Oil",
+      "product": "coconut-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and slice bananas crosswise into thin slices."
+    },
+    {
+      "text": "Preheat a large skillet over medium heat."
+    },
+    {
+      "text": "While the skillet heats up, place the bread slices on a flat surface. Spread bread with peanut butter, top half with banana slices, then close the sandwiches with the remaining slices."
+    },
+    {
+      "text": "Once the skillet is hot, add oil and swirl to coat the bottom. Place sandwiches in the skillet and cook until the bottoms are golden brown, 2-4 minutes."
+    },
+    {
+      "text": "Remove the sandwiches to a plate and add more oil to the skillet. Return sandwiches to the skillet, browned-side up, and cook until golden brown on the other side and warmed through, 2-4 minutes more. Transfer to a cutting board and slice in half."
+    },
+    {
+      "text": "To serve, divide sandwiches between plates and enjoy!"
+    }
+  ]
+}

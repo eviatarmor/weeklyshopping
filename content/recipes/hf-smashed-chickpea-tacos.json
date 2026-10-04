@@ -1,0 +1,143 @@
+{
+  "slug": "hf-smashed-chickpea-tacos",
+  "kind": "meal",
+  "title": "Smashed Tex-Mex Chickpea Tacos",
+  "subtitle": "with Corn, Cheddar & Pickled Onion",
+  "description": "Change up your taco order with this legume-packed version, which makes the most of hearty chickpeas for a filling, flavourful meal. Complete with pickled onion for zing, smokey aioli for creaminess, and cucumber for crunch, you can't go wrong here.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/smashed-chickpea-tacos-613717ce7ee1ce1c5b0a27db",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/smashed-chickpea-tacos-05e7cbf4.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "rice-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816b7fd2cb99d098b4567.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 1,
+      "unit": "cob",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593b834dab71c4718b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Smokey Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a827bf430006c6eac0b6fa2-b3f5ddf8.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a2e1d052c3e0861f6785ef2-c6096b9e.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Thinly slice red onion (see ingredients).\n• In a small bowl, combine the rice wine vinegar and a good pinch of sugar and salt. Scrunch the sliced onion in your hands, then add to pickling liquid. Add enough water to just cover onion, then set aside.\n• Drain and rinse chickpeas. Slice kernels off corn cob. Finely chop garlic. Roughly chop cucumber.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62b157f1a2482eb31d009a5d/step-5752b728.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat the butter and a drizzle of olive oil over medium high heat. Cook corn, stirring, until browned, 3-4 minutes.\n• Add garlic, Tex-Mex spice blend (see ingredients) and tomato paste. Cook until fragrant, 1 minute. Add chickpeas and the water. Simmer until slightly thickened, 3 minutes.\n• Lightly mash chickpeas until slightly broken up and sauce is thickened. Season with salt and pepper to taste. TIP: The spice blend is mild, but use less if you're sensitive to heat! TIP: Add a splash more water to loosen up the sauce, if needed.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62b157f1a2482eb31d009a5d/step-430b99fd.jpg"
+    },
+    {
+      "text": "• Microwave mini flour tortillas on a plate in 10 second bursts until warmed through.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62b157f1a2482eb31d009a5d/step-d0b78996.jpg"
+    },
+    {
+      "text": "• Drain pickled onion.\n• Spread each tortilla with some smokey aioli, then fill with a helping of mixed salad leaves, smashed chickpeas and cucumber. Top with shredded Cheddar Cheese and some pickled onion.\n• Serve with any remaining smokey aioli. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62b157f1a2482eb31d009a5d/step-4287d9bb.jpg"
+    }
+  ]
+}

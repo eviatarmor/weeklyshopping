@@ -1,0 +1,67 @@
+{
+  "slug": "za-atar-blend",
+  "kind": "blend",
+  "title": "Za'atar Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 1 dried thyme, 1 sesame seeds, 1 ground sumac, 0.5 dried oregano, 0.5 dried marjoram, 0.5 black pepper.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Za'atar",
+    "Zaatar",
+    "Za'atar Spice Blend",
+    "Za’atar Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Thyme",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "dried-thyme"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "sesame-seeds"
+    },
+    {
+      "name": "Ground Sumac",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "ground-sumac"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Dried Marjoram",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "dried-marjoram"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "hf-falafel-haloumi-and-chermoula-roast-veggie-toss",
+  "kind": "meal",
+  "title": "Falafel, Haloumi & Chermoula Roast Veggie Toss",
+  "subtitle": "with Herby Yoghurt, Fetta & Almonds",
+  "description": "Hearty spinach falafel and haloumi is the star of this colourful dish, with the chermoula-spiced roasted veg coming in at a close second.\nwe've also halved the potato quantity and added carrot and capsicum to keep the carbs in check. Tie it all together with a herby\nyoghurt, pickled cucumber, plus crumbled fetta, to make it even better. Don't forget the flaked almond garnish for some crunch!\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-and-chermoula-roast-veggie-toss-67f8426e0d0527cba53a966e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-middle-eastern-roast-veggies-f4357305-9b92a3e8.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle eastern",
+    "naturally gf",
+    "classic"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237313405d840b2be36cc-b22a9ebf.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385cb33a6ad8f0f05d4c-52398feb.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "unit": "packet",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f83405cade9b9f0acdb607-55e802f8.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237f3105c9621030b4ec0-bdb0fc56.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. • In a medium bowl, place haloumi and cover with water to soak.<br>• Cut potato, carrot and capsicum into bite-sized chunks. <br>• Place prepped veggies on a lined oven tray. Drizzle with olive oil, sprinkle with chermoula spice blend and season with a pinch of pepper. Toss to coat. • Roast until tender, 25-30 minutes. Set aside to cool slightly.</p> <p>TIP: If your oven tray is crowded, divide the veggies between two trays.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67feecb774fbaa381a1e110b/step-bdbf4100.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice cucumber into half moons (see ingredients). Drain haloumi and pat dry. Cut the haloumi into 1cm-thick slices. <br>• In a small bowl, combine the vinegar and a good pinch of sugar and salt. <br>• Add cucumber to pickling liquid. Add just enough water to cover the cucumber. Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67feecb774fbaa381a1e110b/step-ff15e210.jpg"
+    },
+    {
+      "text": "• <p>• When the veggies have 10 minutes remaining, use your hands to break each spinach falafel into quarters (don&#39;t worry if they crumble!). <br>• In a large frying pan, heat some olive oil (1/4 cup for 2 people/ 1/2 cup for 4 people) over medium high heat. When oil is hot, cook falafel pieces, tossing, until deep golden brown, 4-6 minutes. <br>• Season generously, then transfer to a paper towel-lined plate. <br>• Return frying pan to medium-high heat with a drizzle of olive oil. <br>• Cook haloumi until golden brown, 1-2 minutes each side. Transfer to a plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67feecb774fbaa381a1e110b/step-22cc9c20.jpg"
+    },
+    {
+      "text": "• <p>• In a second small bowl, combine Greek-style yoghurt, dill &amp; parsley mayonnaise and a splash of the pickling liquid. Season to taste. Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67feecb774fbaa381a1e110b/step-bd568930.jpg"
+    },
+    {
+      "text": "• <p>• Drain pickled cucumber. <br>• Transfer the slightly cooled roasted veggies to a bowl. <br>• Add salad leaves and pickled cucumber. Drizzle with a little olive oil. Gently toss to combine.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67feecb774fbaa381a1e110b/step-a9b5c940.jpg"
+    },
+    {
+      "text": "• <p>• Divide Middle Eastern roast veggies between bowls. Top with falafel, haloumi, some herby yoghurt and crumbled fetta cubes. <br>• Sprinkle with flaked almonds to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67feecb774fbaa381a1e110b/step-436a0c50.jpg"
+    }
+  ]
+}

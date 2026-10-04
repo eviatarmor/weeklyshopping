@@ -1,0 +1,149 @@
+{
+  "slug": "hf-nid-roasted-cauliflower-and-spiced-lentil-couscous-bowl",
+  "kind": "meal",
+  "title": "Roast Cauliflower & Lentil-Couscous Bowl",
+  "subtitle": "with Garlic Yoghurt",
+  "description": "Chermoula roasted cauliflower is the flavour combo you didn't know you needed in your life. Add it to a tender lentil-loaded couscous and dinner will be done in a dash!\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-roasted-cauliflower-and-spiced-lentil-couscous-bowl-67f83ec24264524ca978ed65",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W30_AU_R23729-2_MAIN_high-67d484e4.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle eastern",
+    "air fryer easy",
+    "air fryer friendly",
+    "quick",
+    "calorie smart",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833494264524ca978ae45-dfaa5967.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb224-afb6bdde.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bdb-57a7fc12.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Set your air fryer to 200°C. <br>• Cut cauliflower into small florets.<br>• In a large bowl combine cauliflower with a <br>drizzle of olive oil and chermoula spice blend. <br>Toss to coat.<br>• Place cauliflower into the air fryer basket and <br>cook for 6-8 minutes. Allow to cool slightly. <br>TIP: No air fryer? Prep cauliflower as above and add <br>to a microwave-safe plate with a splash of water. <br>Cover with damp paper towel. Microwave on high <br>for 3 minutes. Heat a large frying pan over <br>medium-high heat with a drizzle of olive oil. Drain <br>excess water from cauliflower. Add cauliflower to <br>pan and cook, until softened and browned, <br>4-5 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977df6326cd47f1a599ec/step-e8255200.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice onion (see ingredients).<br>• Roughly chop cucumber and roasted almonds. <br>• Finely chop garlic. <br>• Drain and rinse lentils.<br>• In a small microwave-safe bowl, combine half <br>the garlic and a drizzle of olive oil. Microwave in <br>10 second bursts, until fragrant, 1 minute.<br>• Add Greek-style yoghurt to garlic oil, stirring to <br>combine. Season to taste with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977df6326cd47f1a599ec/step-e0d77510.jpg"
+    },
+    {
+      "text": "• <p>• In a medium saucepan, heat a drizzle of olive oil<br>over medium-high heat.<br>• Cook onion, stirring, until softened, 4-5 minutes.<br>• Add the remaining garlic and lentils and cook, <br>stirring until fragrant, 1 minute.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977df6326cd47f1a599ec/step-8f0e4920.jpg"
+    },
+    {
+      "text": "• <p>• To the pan with lentils, add the water and stock <br>concentrate and bring to the boil.<br>• Add couscous, stir to combine. Cover with a lid <br>and remove from heat.<br>• Set aside until water is absorbed, 5 minutes. <br>Fluff up with a fork</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977df6326cd47f1a599ec/step-000a8a30.jpg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine mixed salad leaves, <br>cucumber and a drizzle of olive oil and white <br>wine vinegar. Season to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977df6326cd47f1a599ec/step-ec4d8740.jpg"
+    },
+    {
+      "text": "• <p>• Divide lentil-couscous between bowls.<br>• Top with salad and roast cauliflower.<br>• Drizzle over garlic yoghurt. <br>• Sprinkle over roasted almonds to serve. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681977df6326cd47f1a599ec/step-ee169950.jpg"
+    }
+  ]
+}

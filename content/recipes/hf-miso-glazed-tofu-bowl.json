@@ -1,0 +1,182 @@
+{
+  "slug": "hf-miso-glazed-tofu-bowl",
+  "kind": "meal",
+  "title": "Miso Glazed Tofu & Garlic Rice",
+  "subtitle": "with Baby Broccoli & Japanese Mayo",
+  "description": "Enjoy a dinner that's packed with flavour in every bite. From a miso-infused sweet and savoury glaze on tasty Japanese tofu to buttery garlic rice and sautéed veggies, this bowl is a medley of flavour, colour and texture.\nThe recent harsh weather conditions have impacted the cucumbers/zucchinis grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/miso-glazed-tofu-bowl-5d41338c265a5e000951729e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/teriyaki-sesame-tofu-f3dd59bc.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Baby Broccoli",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "broccolini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f605c79fa9f33737e6734cc-ccde7e80.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Miso Paste",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "miso-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d75b9fd2cb9c4078b4568.png"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "rice-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816b7fd2cb99d098b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 3,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Mixed Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc51ae08b5079019d682-b58fd997.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/557e7fd8f8b25e9c678b4567.png"
+    },
+    {
+      "name": "Long Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6054065fc1ea152f7f26d184-cbd3c452.png"
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "sesame-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ba1bb40ae08b5649c55ebc2-0d123300.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56ce4d68f8b25e99678b4567-56cfcfb3.png"
+    },
+    {
+      "name": "Japanese Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8deae08b530b326ef12-2fea204a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop the garlic. In a medium saucepan,\n• melt the butter with a dash of olive oil over\n• a medium heat. Add the garlic and cook until\n• fragrant, 1-2 minutes. Add the basmati rice,\n• water (for the rice) and the salt, stir and bring to\n• the boil. Reduce the heat to low and cover with a\n• lid. Cook for 10 minutes, then remove from the\n• heat and keep covered until the rice is tender and\n• the water is absorbed, 10 minutes.\n• TIP: The rice will finish cooking in its own steam so\n• don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60d03e5cf1672661311e48da/step-9905531c.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, trim the baby broccoli\n• and cut into thirds, slicing any thicker stalks in half.\n• Thinly slice the carrot into half-moons. Thinly slice\n• the cucumber into half-moons. Cut the Japanese\n• tofu into 1cm cubes. In a small bowl, combine the\n• miso paste (see ingredients), rice wine vinegar,\n• brown sugar, water (for the sauce) and mixed\n• sesame seeds. In a second small bowl, combine\n• the Japanese dressing and mayonnaise.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60d03e5cf1672661311e48da/step-83ba796a.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil\n• over a medium-high heat. Add the baby broccoli,\n• carrot and then a dash of water and cook, tossing\n• occasionally, until tender, 5-6 minutes. Season\n• with salt. Transfer to a bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60d03e5cf1672661311e48da/step-076456ef.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium-high heat with\n• a drizzle of olive oil. Cook the tofu, tossing, until\n• golden, 2 minutes. Add the miso glaze and cook,\n• stirring, until well coated and thickened slightly,\n• 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60d03e5cf1672661311e48da/step-6d726970.jpg"
+    },
+    {
+      "text": "• Thinly slice the long red chilli (if using). When the\n• rice is done, stir through the sesame oil (if using).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60d03e5cf1672661311e48da/step-d89f2a2e.jpg"
+    },
+    {
+      "text": "• Divide the garlic rice between bowls. Top with the\n• miso glazed tofu, cucumber, baby broccoli and\n• carrot. Spoon over the Japanese mayonnaise and\n• sprinkle with chilli.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60d03e5cf1672661311e48da/step-34069ee8.jpg"
+    }
+  ]
+}

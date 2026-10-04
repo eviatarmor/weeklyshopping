@@ -1,0 +1,142 @@
+{
+  "slug": "hf-sweet-potato-and-lentil-dhal",
+  "kind": "meal",
+  "title": "Indian Sweet Potato & Lentil Dhal",
+  "subtitle": "with Flatbreads, Yoghurt & Fresh Chilli",
+  "description": "Creamy and coconutty, this Indian dish gets a wholesome boost from hearty lentils and a touch of tang from the yoghurt. Scoop up all the satisfying goodness with the warm toasted flatbreads.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-potato-and-lentil-dhal-678d88bfd98f53c0641be503",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66f62d398add623f42215f45-3d8c0497.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Mild North Indian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mild-north-indian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/596d897005346810d765df82-58b68ca4.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d9d8bc2d4f0c9006c3a9cef-58b68ca4.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Flatbread",
+      "qty": 4,
+      "product": "flatbread",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff4f722fe8c861e672af192-fabc78b5.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Drain and rinse lentils.\n• Cut sweet potato into small chunks.\n• Place sweet potato on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat. Roast until tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-678d88bfd98f53c0641be503-79feab92.jpeg"
+    },
+    {
+      "text": "• Meanwhile, heat a drizzle of olive oil in a medium saucepan over medium-high heat.\n• Cook ginger paste, mild North Indian spice blend, Mumbai spice blend and tomato paste, stirring until fragrant, 1 minute.\n• Add the water and coconut milk, stirring to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-678d88bfd98f53c0641be503-e7d74ecf.jpeg"
+    },
+    {
+      "text": "• Add lentils to saucepan. Bring to the boil, then reduce heat to medium.\n• Cover with a lid and cook, stirring occasionally, until lentils are softened, 4-6 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-678d88bfd98f53c0641be503-ee8f77bd.jpeg"
+    },
+    {
+      "text": "• When the dhal has 15 minutes remaining, drizzle (or brush) a flatbread with olive oil.\n• Heat a large frying pan over medium-high heat. Cook flatbread until golden and warmed through, 1-2 minutes each side.\n• Transfer to a paper towel-lined plate. Repeat with remaining flatbreads and olive oil.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-678d88bfd98f53c0641be503-cb740fa3.jpeg"
+    },
+    {
+      "text": "• Stir roasted sweet potato and baby spinach leaves through dhal. Season to taste. TIP: Add a splash of water to loosen the dhal, if needed.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-678d88bfd98f53c0641be503-50fc3c8e.jpeg"
+    },
+    {
+      "text": "• Thinly slice long chilli (if using).\n• Divide Indian sweet potato and lentil dhal between bowls.\n• Top with a dollop of Greek-style yoghurt, sprinkle with chilli and tear over coriander.\n• Serve with flatbreads. Enjoy",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-678d88bfd98f53c0641be503-30da0143.jpeg"
+    }
+  ]
+}

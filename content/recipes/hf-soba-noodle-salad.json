@@ -1,0 +1,148 @@
+{
+  "slug": "hf-soba-noodle-salad",
+  "kind": "meal",
+  "title": "Soba Noodle Salad",
+  "description": "Zaru soba is a popular Japanese summer salad. The cold noodles are traditionally served in a bamboo basket. This has got be to one of our favourite dinners - easily prepared ahead of time and delicious hot or cold. We highly recommend some wasabi to really make it sing!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/soba-noodle-salad-54daca106ced6e8b0d8b4567",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/54daca106ced6e8b0d8b4567.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "asian",
+    "under 30 minutes"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "knob",
+      "product": "ginger",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affdff8b25eee3e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55fb5a1279a23cde148b4567.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "rice-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816b7fd2cb99d098b4567.png"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556534e8f8b25eaa0a8b4567.png"
+    },
+    {
+      "name": "Tofu",
+      "qty": 1,
+      "unit": "block",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816f2f8b25ed5348b4569.png"
+    },
+    {
+      "name": "Soba Noodles",
+      "qty": 100,
+      "unit": "g",
+      "product": "soba-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556817394dab710f138b4568.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Snow Peas",
+      "qty": 200,
+      "unit": "g",
+      "product": "snow-peas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be6a8f8b25e165a8b456a.png"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Pepper",
+      "product": "black-pepper",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672254f8b25e402f8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Peel and grate the ginger and peel and crush the garlic. In a small bowl combine the ginger, garlic, soy sauce, honey, rice wine vinegar, and vegetable oil. Cube tofu. Place the tofu cubes in a dish then drizzle them with the dressing. Cover with cling wrap and sit them in the fridge while you prepare the noodles.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54daca106ced6e8b0d8b4567/step_55681a61a8833.jpg"
+    },
+    {
+      "text": "• Bring a large pot of water to the boil and begin to cook the soba noodles (remember to weigh out the correct amount first!) for about 2 minutes or until just tender. Drain and rinse well under cold running water. This will stop them from sticking together. In a separate pot, blanch the carrots and snow peas in boiling water for 2-3 minutes or until the vegetables are tender but still crunchy. Drain, then toss through the spring onions.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54daca106ced6e8b0d8b4567/step_55681a61dca58.jpg"
+    },
+    {
+      "text": "• Heat a dash of vegetable oil in a large frying pan over a high heat and cook the tofu, reserving the sauce, for 6-8 minutes until cooked. In a large bowl, toss the tofu with the noodles, vegetables and reserved sauce to coat everything in the delicious flavours."
+    },
+    {
+      "text": "• Tear the mint leaves. Serve up the noodle salad with a fresh squeeze of lemon juice and top with the cucumber and mint leaves.\n• Did you know? Soba noodles are the most popular noodles in Tokyo and are traditionally slurped - so dig in and make some noise with this noodle number!"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "ml-chocolate-quinoa-porridge-pear",
+  "kind": "meal",
+  "title": "Chocolate Quinoa Porridge with Pear",
+  "sourceUrl": "https://www.mealime.com/recipes/chocolate-quinoa-porridge-pear/7406",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/852/presentation_6612c69c-4eb5-4b44-89d3-e5592fcb6f96.jpeg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Almond Milk (unsweetened)",
+      "qty": 710,
+      "unit": "ml",
+      "product": "almond-milk"
+    },
+    {
+      "name": "Pears",
+      "qty": 2,
+      "product": "pear"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "cup",
+      "product": "quinoa"
+    },
+    {
+      "name": "Cocoa Powder",
+      "product": "cocoa-powder",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Combine quinoa, almond milk, maple syrup, cocoa powder, and salt in a medium saucepan. Whisk to combine and bring to a boil over high heat."
+    },
+    {
+      "text": "Once the quinoa mixture comes to a boil, reduce heat to low, allow to cool slightly, and cover with a lid. Cook until most of the liquid is absorbed, about 20 minutes."
+    },
+    {
+      "text": "During the last 5 minutes of cook time, wash, dry, and thinly slice the pears."
+    },
+    {
+      "text": "To serve, divide chocolate quinoa between bowls and top with pear. Enjoy!"
+    }
+  ]
+}

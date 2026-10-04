@@ -1,0 +1,140 @@
+{
+  "slug": "hf-plant-based-mince-and-basil-pesto-risotto",
+  "kind": "meal",
+  "title": "Plant-Based Mince & Garlicky Basil Pesto Risotto",
+  "subtitle": "with Green Veggies & Parmesan",
+  "description": "Brimming with smokey veggie mince, rich basil pesto and sharp Parmesan, every mouthful of this Italian dish delivers an explosion of flavour. Sit back while it bakes, before cosying up with a big bowl of this deliciousness.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/plant-based-mince-and-basil-pesto-risotto-67f8439e0d0527cba53a9ac8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bacon-basil-pesto-risotto-c524da63-e81dd08d.jpg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "australian",
+    "winter-warmers",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plant-Based Mince",
+      "qty": 200,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d1b33a6ad8f0f05a86-6acc66e2.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723765105c9621030b4b49-4a970595.png"
+    },
+    {
+      "name": "Risotto-Style Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "white-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6656647f3c6f67065179ff42-ae9b49ba.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cf3405d840b2be34f2-d1e5703e.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. • Finely chop brown onion (see ingredients). Trim green beans and cut into thirds. • Zest lemon to get a pinch, then slice into wedges.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84a414264524ca9791bd2/step-fca44900.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook onion and veggie mince, breaking up with a spoon, until onion is softened and veggie mince is browned, 4-5 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84a414264524ca9791bd2/step-8c90a410.jpg"
+    },
+    {
+      "text": "• <p>• Add arborio rice and garlic &amp; herb seasoning, stirring to coat. • Add the water, lemon zest and vegetable stock, then bring to the boil.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84a414264524ca9791bd2/step-4bb66d20.jpg"
+    },
+    {
+      "text": "• <p>• Transfer risotto mixture to a baking dish and cover tightly with foil. Bake for 20 minutes. • Stir through a splash of water and green beans. Bake until liquid is absorbed, beans are tender and rice is ‘al dente’, a further 5-8 minutes. TIP: &#39;Al dente&#39; rice is cooked through but still slightly firm in the centre.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84a414264524ca9791bd2/step-366c3a30.jpg"
+    },
+    {
+      "text": "• <p>• When the risotto is ready, stir through Parmesan cheese, basil pesto, baby spinach leaves, the butter and a squeeze of lemon juice. • Once the baby spinach is slightly wilted, season with pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84a414264524ca9791bd2/step-a4a48c40.jpg"
+    },
+    {
+      "text": "• <p>• Divide plant-based mince and basil pesto risotto between bowls. • Serve with any remaining lemon wedges. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84a414264524ca9791bd2/step-10d2b650.jpg"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "hf-bbq-butter-bean-capsicum-bake",
+  "kind": "meal",
+  "title": "BBQ Cannellini Bean & Capsicum Bake",
+  "subtitle": "with Cheese, Jalapeños & Herby Garlic Bread",
+  "description": "These baked beans really live up to their name, both with their time in the oven where all the flavours mix and mingle into a moreish taste sensation, and with the gooey cheese, which you can mop up with the perfectly chewy ciabatta garlic bread.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/bbq-butter-bean-capsicum-bake-64352cdb415799bf430d5b33",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/667206a484cee959c7f21268-0ee15a98.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "north america",
+    "climate superstar",
+    "couch-meals",
+    "winter-delights"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528450-e6b2d1a6.png"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5568698f4dab71a91d8b4569.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c9546b867b6e7c4061abd4-47237458.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add596030006c5d9d4af082-58b68ca4.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59812b1cc288002d7f59e5d2-11bf19a1.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "BBQ Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "bbq-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad448e130006c535073f382-452b7744.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b2c4dab71d8588b4569.png"
+    },
+    {
+      "name": "Bake-At-Home Ciabatta",
+      "qty": 1,
+      "product": "ciabatta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56df758b4dab71036e8b456a-ec117d66.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jalapenos",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609a3915d3daac3d5406a549-e0722b6b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Finely chop garlic.\n• Roughly chop parsley.\n• Roughly chop capsicum into bite-sized chunks.\n• Drain and rinse cannellini beans.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667206a484cee959c7f21268-13cf0d30.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook soffritto mix and capsicum, stirring, until softened, 6-7 minutes.\n• Add half the garlic and cook until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667206a484cee959c7f21268-31ca4a1e.jpeg"
+    },
+    {
+      "text": "• Add cannellini beans, All-American spice blend and tomato paste to the pan. Cook until fragrant, 1 minute.\n• Add passata, the salt, BBQ sauce and the water. Cook, stirring, until well combined, 2-3 minutes.\n• Add baby spinach leaves, stirring until wilted. Season with pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667206a484cee959c7f21268-874cdfca.jpeg"
+    },
+    {
+      "text": "• Transfer bean mixture to a baking dish.\n• Sprinkle evenly with Cheddar cheese.\n• Bake until thickened and cheese is melted, 10-12 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667206a484cee959c7f21268-46340fbb.jpeg"
+    },
+    {
+      "text": "• Meanwhile, slice bake-at-home ciabatta in half, lengthways.\n• Place the butter and remaining garlic in a small microwave-safe bowl. Microwave in 10 second bursts until melted.\n• Stir through half the parsley. Season with salt and pepper.\n• Brush garlic butter over the cut-side of ciabatta slices.\n• Place ciabatta slices directly on a wire rack in the oven. Bake until golden, 5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667206a484cee959c7f21268-2e249f1b.jpeg"
+    },
+    {
+      "text": "• Divide BBQ baked cannellini beans between bowls.\n• Garnish with remaining parsley. Sprinkle with pickled jalapeños (if using).\n• Serve with herby garlic bread. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667206a484cee959c7f21268-fc17beb6.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "ml-minty-pear-mango-banana-green-smoothie",
+  "kind": "meal",
+  "title": "Minty Pear, Mango & Banana Green Smoothie",
+  "sourceUrl": "https://www.mealime.com/recipes/minty-pear-mango-banana-green-smoothie/10646",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1251/presentation_bbc6b02c-cf24-4497-9c4f-5e4a62450e83.jpeg",
+  "servings": 4,
+  "prepMinutes": 10,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Spinach",
+      "qty": 140,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Bananas",
+      "qty": 2,
+      "product": "banana"
+    },
+    {
+      "name": "Edamame",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "frozen-edamame"
+    },
+    {
+      "name": "English Cucumber",
+      "qty": 1,
+      "product": "cucumber"
+    },
+    {
+      "name": "Fresh Mint",
+      "qty": 1,
+      "product": "mint"
+    },
+    {
+      "name": "Frozen Mangoes",
+      "qty": 1,
+      "unit": "cup",
+      "product": "mango"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime"
+    },
+    {
+      "name": "Pears",
+      "qty": 2,
+      "product": "pear"
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "This recipe will make about 8 cups. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Wash and dry the fresh produce. (Skip the spinach if it came pre-washed)."
+    },
+    {
+      "text": "Roughly chop cucumber; transfer to a blender along with cold water and maple syrup. Blend until smooth."
+    },
+    {
+      "text": "Core and roughly chop pears; add to the blender."
+    },
+    {
+      "text": "Juice lime into the blender."
+    },
+    {
+      "text": "Pick mint leaves off the stems; discard stems and add leaves to the blender."
+    },
+    {
+      "text": "Peel the bananas, break into chunks and add to the blender along with the spinach."
+    },
+    {
+      "text": "Add 8 ice cubes, edamame, and mango to the blender. Blend on high speed for several minutes until smooth."
+    },
+    {
+      "text": "Pour the smoothie into glasses and enjoy!"
+    }
+  ]
+}

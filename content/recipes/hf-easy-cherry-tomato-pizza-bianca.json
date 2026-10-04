@@ -1,0 +1,135 @@
+{
+  "slug": "hf-easy-cherry-tomato-pizza-bianca",
+  "kind": "meal",
+  "title": "Easy Cherry Tomato Pizza Bianca",
+  "subtitle": "with Zucchini, Pesto & Rocket Salad",
+  "description": "Pizza bianca or \"white pizza\" in Italian, refers to pizza without the tomato sauce. We've topped ours with a combination of cheeses\nand a few simple ingredients that don't need much to shine.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-cherry-tomato-pizza-bianca-614a96e65444a979d13a9a4c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cherry-tomato-zucchini-pizza-bianca-060633b9.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb8a4dab71aa0a8b4569.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5dbfb5acd7ecfc1364030f65-1650ad62.png"
+    },
+    {
+      "name": "Pizza Bases",
+      "qty": 2,
+      "product": "pizza-bases",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55791b34fd2cb9ea3e8b4569.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/560b7cc8fd2cb9a5278b4568.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d57b7f8b25e246c8b4568.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baad5c6ae08b53fa4663602-34f15c81.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Halve cherry tomatoes. Thinly slice zucchini into rounds. Cut red onion into thin wedges. Place on a lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to combine.\n• Roast until just tender, 10-15 minutes. TIP: If your oven tray is crowded, divide the veggies between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614a96e65444a979d13a9a4c/step-067608f5.jpg"
+    },
+    {
+      "text": "• When veggies have 5 minutes remaining, finely chop garlic.\n• In a medium frying pan, heat a drizzle of olive oil over a medium-high heat. Cook garlic until fragrant, 1 minute. Add light cooking cream and cook until slightly thickened, 2-3 minutes. Season, then set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614a96e65444a979d13a9a4c/step-a0b26f76.jpg"
+    },
+    {
+      "text": "• Lay pizza bases on a flat surface, rough side-down. Using the back of a spoon, spread white sauce evenly across pizza bases. Top evenly with roasted veggies. Sprinkle with grated Parmesan cheese and shredded Cheddar cheese.\n• Place directly on wire racks in oven. Bake until cheese is melted and golden, 10-12 minutes.\n• Meanwhile, thinly slice pear. In a medium bowl, combine honey and a drizzle of balsamic vinegar and olive oil. Season to taste. TIP: Placing the pizzas directly onto the wire racks helps the base to crisp up!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614a96e65444a979d13a9a4c/step-5e075769.jpg"
+    },
+    {
+      "text": "• To the bowl with the dressing, add pear and rocket leaves. Toss to coat.\n• Dollop basil pesto over pizza, then divide between plates.\n• Serve with rocket and pear salad.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614a96e65444a979d13a9a4c/step-b61e6662.jpg"
+    }
+  ]
+}

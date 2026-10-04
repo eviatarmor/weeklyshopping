@@ -1,0 +1,150 @@
+{
+  "slug": "hf-roast-zucchini-and-pesto-ricotta-spaghetti",
+  "kind": "meal",
+  "title": "Roast Zucchini & Pesto-Ricotta Spaghetti",
+  "subtitle": "with Cherry Tomato, Parmesan & Pine Nut Salad",
+  "description": "Sun-drenched Italian flavours in a bowl. Smokey charred zucchini is tossed through silky spaghetti, topped with pillowy dollops of ricotta and a generous drizzle of fragrant basil pesto. On the side, a bright salad of baby spinach and peppery rocket is scattered with sweet cherry tomatoes, shaved Parmesan and crunchy pine nuts — the perfect fresh contrast to every creamy, herb-laced forkful. Simple ingredients, knockout results.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-zucchini-and-pesto-ricotta-spaghetti-6a4f9fcbc80ad488c9bcf4f9",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1021_W40_AU_R56656-3_main_add_green_peste_ricotta_edit_high-ab36217c.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "classic"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd2-a68e0a9e.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572380e105c9621030b4f37-c66d6946.png"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spaghetti",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238123405d840b2be3b61-50b39e44.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385cb33a6ad8f0f05d4c-52398feb.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pine-nuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237c6105c9621030b4d87-3f9c0288.png"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 1,
+      "product": "ricotta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237f53405d840b2be3abf-ad8572e8.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cf3405d840b2be34f2-d1e5703e.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dda29690d86caac925ac-6e750a2c.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Slice zucchini into thin rounds.<br>• Place zucchini on a lined tray. Drizzle with olive oil, <br>season with salt and toss to coat. Roast until tender, <br>20-25 minutes.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fcbc80ad488c9bcf4f9/step-d1240e00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, boil the kettle.<br>• Finely chop garlic.<br>• Zest lemon to get a pinch, then slice into wedges.<br>• Halve snacking tomatoes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fcbc80ad488c9bcf4f9/step-886de310.jpg"
+    },
+    {
+      "text": "• <p>• When the zucchini has 10 minutes remaining,  <br>half-fill a large saucepan with boiling water and add <br>a generous pinch of salt.<br>• Cook spaghetti over high heat, until ‘al dente’,  <br>9 minutes.<br>• Reserve some pasta water (see ingredients).<br>• Drain spaghetti, then return to saucepan.  <br>TIP: ‘Al dente’ pasta is cooked through but still slightly <br>firm in the centre</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fcbc80ad488c9bcf4f9/step-f6548e20.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a good drizzle of olive oil <br>over medium-high heat.<br>• Cook garlic until fragrant, 1 minute. Add light <br>cooking cream, stock concentrate and the <br>reserved pasta water, then simmer until slightly <br>thickened, 2-3 minutes.<br>• Remove pan from heat, then stir through roasted <br>zucchini, lemon zest, a generous squeeze of lemon <br>juice, the butter and cooked spaghetti until <br>combined. Season with pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fcbc80ad488c9bcf4f9/step-e6f5bd30.jpg"
+    },
+    {
+      "text": "• <p>• Just before serving, in a large bowl, combine <br>spinach &amp; rocket mix, tomatoes, Parmesan <br>cheese, pine nuts and a drizzle of balsamic <br>vinegar. Season to taste with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fcbc80ad488c9bcf4f9/step-aa36f440.jpg"
+    },
+    {
+      "text": "• <p>• Divide roasted zucchini spaghetti between bowls. <br>• Dollop over small spoonfuls of ricotta and  <br>basil pesto.<br>• Serve with cherry tomato, Parmesan and pine nut <br>salad and any remaining lemon wedges. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fcbc80ad488c9bcf4f9/step-f7267250.jpg"
+    }
+  ]
+}

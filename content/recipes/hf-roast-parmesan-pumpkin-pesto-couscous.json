@@ -1,0 +1,152 @@
+{
+  "slug": "hf-roast-parmesan-pumpkin-pesto-couscous",
+  "kind": "meal",
+  "title": "Roast Parmesan Pumpkin & Pesto Couscous",
+  "subtitle": "with Roast Veggies & Dill-Parsley Mayo",
+  "description": "This dish is all about the pumpkin! Its golden yellow flesh develops a fabulous sweet and nutty flavour when roasted, a lovely contrast against the sharp and salty Parmesan and the bright and herby basil pesto in the couscous.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-parmesan-pumpkin-pesto-couscous-645088ff95796aec7a0094b7",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-parmesan-pumpkin-pesto-couscous-63beb4a0.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "climate superstar",
+    "winter faves"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Peeled & Chopped Pumpkin",
+      "qty": 1,
+      "unit": "bag",
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc681cdae08b514cf7dbb12-50b8be5b.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d57b7f8b25e246c8b4568.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695f03ae08b534d76c6e72-a5d378b9.png"
+    },
+    {
+      "name": "Nan's Special Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "nans-special-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5e38f86b18fdef7c4e43caa6-58b68ca4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut zucchini into small chunks.\n• Thinly slice capsicum.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645088ff95796aec7a0094b7/step-76513718.jpg"
+    },
+    {
+      "text": "• Place peeled & chopped pumpkin on a lined oven tray. Sprinkle with garlic & herb seasoning. Drizzle with olive oil and toss to coat.\n• Roast until tender, 25-30 minutes.\n• In the last 5 minutes, remove tray from oven. Sprinkle with shaved Parmesan cheese and bake until golden and crispy, 5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645088ff95796aec7a0094b7/step-5e5fe2dd.jpg"
+    },
+    {
+      "text": "• Meanwhile, place capsicum and zucchini on a second lined oven tray.\n• Sprinkle over Nan's special seasoning. Drizzle with olive oil, season with salt and toss to coat.\n• Roast until tender, 25-30 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645088ff95796aec7a0094b7/step-e9b5c4b2.jpg"
+    },
+    {
+      "text": "• When the veggies have 10 minutes remaining, in a large saucepan heat the butter over medium-high heat.\n• Add the water and vegetable stock powder and bring to the boil.\n• Add couscous and stir to combine. Cover with a lid and remove from heat.\n• Set aside until the water has absorbed, 5 minutes. Fluff up with fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645088ff95796aec7a0094b7/step-b3045c0d.jpg"
+    },
+    {
+      "text": "• To the saucepan with the couscous, add baby spinach leaves, roasted zucchini and capsicum and basil pesto.\n• Gently toss to combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645088ff95796aec7a0094b7/step-8bcc3f7a.jpg"
+    },
+    {
+      "text": "• Divide pesto couscous with roasted veggies between bowls. Top with roast Parmesan pumpkin.\n• Top with dill & parsley mayonnaise and flaked almonds to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/645088ff95796aec7a0094b7/step-26ba798b.jpg"
+    }
+  ]
+}

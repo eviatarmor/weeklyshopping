@@ -1,0 +1,86 @@
+{
+  "slug": "ml-egg-avocado-tomato-english-muffin-sandwich-chili-garlic-aioli",
+  "kind": "meal",
+  "title": "Egg, Avocado & Tomato English Muffin Sandwich with Chili-Garlic Aioli",
+  "sourceUrl": "https://www.mealime.com/recipes/egg-avocado-tomato-english-muffin-sandwich-chili-garlic-aioli/31073",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3479/presentation_1a2d855e-da00-43f8-94e3-381fd6c84d06.jpeg",
+  "servings": 4,
+  "prepMinutes": 12,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado"
+    },
+    {
+      "name": "English Muffins",
+      "qty": 4,
+      "product": "english-muffins"
+    },
+    {
+      "name": "Hard-Cooked Eggs (peeled)",
+      "qty": 4,
+      "product": "eggs"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Chili-Garlic Sauce",
+      "product": "chilli-garlic-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Mayonnaise",
+      "product": "mayonnaise",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place yogurt, mayo, chili-garlic sauce, and salt in a small bowl. Stir to combine the aioli and set aside."
+    },
+    {
+      "text": "Wash, dry, and slice tomatoes crosswise into thin rounds. Place on a plate."
+    },
+    {
+      "text": "Wash, dry, halve, and pit avocado; using a spoon, scoop out the flesh and slice crosswise into thin half-moons. Add to the plate with the tomato."
+    },
+    {
+      "text": "Slice eggs crosswise and add to the plate. Season tomato, avocado, and eggs with salt and pepper."
+    },
+    {
+      "text": "Split and toast muffins (if desired)."
+    },
+    {
+      "text": "To assemble the sandwiches, spread muffin halves with aioli. Layer the bottom halves with avocado, tomato, and egg, then close with the top halves."
+    },
+    {
+      "text": "To serve, divide sandwiches between plates and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "hf-double-veggie-potstickers-and-sesame-miso-rainbow-salad",
+  "kind": "meal",
+  "title": "Double Veggie Potstickers & Sesame-Miso Salad",
+  "subtitle": "with Garlic Chilli Oil & Crispy Shallots",
+  "description": "Flavour is guaranteed in this Asian fusion dish. With veggie potstickers, miso rainbow salad and an easy garlic chilli oil, this umami dish easily gets our tick of approval.\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/double-veggie-potstickers-and-sesame-miso-rainbow-salad-67f86c0fcade9b9f0acee209",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/672834ee16186c0f34b4f74d-11768c14-09e26c1d.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "quick",
+    "calorie smart",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Gyoza",
+      "qty": 2,
+      "unit": "packet",
+      "product": "frozen-dumplings",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f834a64264524ca978b4bc-47fcd24e.png"
+    },
+    {
+      "name": "Deluxe Salad Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "deluxe-salad-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723730105c9621030b4a4d-5eda6252.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728105c9621030b4a1d-2346b24b.png"
+    },
+    {
+      "name": "Sesame Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f3-78f88c67.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Miso Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "miso-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833684264524ca978af14-0ead0bf1.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddb3635bf0b638cfb93d-59b9ad8a.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddd49690d86caac925fe-2466ad25.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Thinly slice cucumber into rounds. Slice lemon into wedges. • In a large bowl, combine miso paste, sesame dressing, the honey and a squeeze of lemon juice. Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c0fcade9b9f0acee200/step-06acf100.jpg"
+    },
+    {
+      "text": "• <p>• In a small heatproof bowl, combine garlic paste, the low sodium soy sauce, brown sugar and a pinch of chilli flakes (if using). • In a large frying pan, heat olive oil (1 tbs for 2 people / 2 tbs for 4 people) over high heat, until just smoking, 30 seconds - 1 minute, then carefully pour the oil over the garlic mixture. Set aside. TIP: The hot oil will bubble up and &#39;cook&#39; the garlic.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c0fcade9b9f0acee200/step-300ed010.jpg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with a drizzle of olive oil. • When the oil is hot, add vegetable gyoza, flat-side down, in a single layer. • Cook until starting to brown, 1-2 minutes. Add the water (watch out, it may spatter!) and cover with foil or a lid. Cook in batches if your pan is getting crowded. • Cook until the water has evaporated and gyoza are tender and softened, 4-5 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c0fcade9b9f0acee200/step-373e2820.jpeg"
+    },
+    {
+      "text": "• <p>• To bowl with miso dressing, add deluxe salad mix, mixed salad leaves and cucumber, tossing to coat. Season to taste. • Divide sesame miso rainbow salad between bowls. Top with veggie potstickers. • Garnish with crispy shallots. Serve with garlic chilli oil and remaining lemon wedges. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c0fcade9b9f0acee200/step-44ee3b30.jpg"
+    }
+  ]
+}

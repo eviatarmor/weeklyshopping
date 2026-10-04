@@ -1,0 +1,130 @@
+{
+  "slug": "ep-baked-pumpkin-risotto",
+  "kind": "meal",
+  "title": "Mushroom & Spinach Risotto",
+  "subtitle": "with Parmesan & Almonds",
+  "description": "It's risotto season again and we've got our bowls ready! Hearty mushrooms plus fragrant garlic give this cheesy bowl a flavour boost and the sprinkling of golden almonds on top takes it to the next level!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/baked-pumpkin-risotto-60fa32dbe088b95c6b25fc49",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/baked-mushroom-risotto-4b9a35ee.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "italian",
+    "prep in 10"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ac468ac30006c0ef8159bd2-62f5390a.png"
+    },
+    {
+      "name": "Garlic Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee990bd16bd266f3f6ed96f-4e7ec9f7.png"
+    },
+    {
+      "name": "Italian Herbs",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "italian-herbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/58a0f5d099052d1d9d0be7a4-dc0be0ff.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "arborio-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427854dab7105578b456a.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Finely chop brown onion.\n• Finely chop or crush garlic.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-650bc82e92f5adee543bd05a-87a4b1d4.jpeg"
+    },
+    {
+      "text": "• Heat a drizzle of olive oil in a large frying pan over medium-high heat. Cook onion and mushrooms until softened, 5-6 mins.\n• Add garlic and cook until fragrant, 1 min.\n• Add garlic seasoning, Italian herbs, the water, arborio rice and vegetable stock powder. Bring to boil, then remove from heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-650bc82e92f5adee543bd05a-7e98bad1.jpeg"
+    },
+    {
+      "text": "• Transfer risotto to a large baking dish.\n• Cover tightly with foil and bake until liquid is absorbed and rice is ‘al dente’, 24-28 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-650bc82e92f5adee543bd05a-39c6042a.jpeg"
+    },
+    {
+      "text": "• Stir fetta cubes, the butter and baby spinach through risotto.\n• Add a splash of water to loosen risotto if needed. Season to taste.\n• Divide risotto between bowls. Sprinkle with flaked almonds.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-650bc82e92f5adee543bd05a-b3141343.jpeg"
+    }
+  ]
+}

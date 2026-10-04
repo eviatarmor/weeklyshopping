@@ -1,0 +1,56 @@
+import { expect, test, type Browser, type Page } from "@playwright/test";
+
+/** Each dev user gets its own browser context, like two phones. */
+async function openAs(browser: Browser, email: string, baseURL: string): Promise<Page> {
+  const context = await browser.newContext();
+  await context.addCookies([{ name: "dev_user", value: email, url: baseURL }]);
+  const page = await context.newPage();
+  await page.goto("/");
+  await expect(page.getByRole("heading", { name: "Shopping" })).toBeVisible();
+  return page;
+}
+
+test("items sync live between two people", async ({ browser, baseURL }) => {
+  const alex = await openAs(browser, "alex@dev.local", baseURL!);
+  const sam = await openAs(browser, "sam@dev.local", baseURL!);
+  const item = `Test item ${Date.now()}`;
+
+  const input = alex.getByRole("textbox", { name: "Add item" });
+  await input.fill(item);
+  await input.press("Enter");
+  // Close the suggestions dropdown so it doesn't cover the list.
+  await input.press("Escape");
+  await expect(alex.getByRole("listitem").filter({ hasText: item })).toBeVisible();
+
+  // Appears on the other phone without a reload.
+  await expect(sam.getByText(item)).toBeVisible({ timeout: 3_000 });
+
+  // Checking it off on one phone moves it to the trolley on the other.
+  await sam.getByRole("checkbox", { name: `Check ${item}` }).click();
+  await expect(alex.getByRole("checkbox", { name: `Uncheck ${item}` })).toBeVisible({ timeout: 3_000 });
+
+  // Clean up so the shared dev list doesn't grow forever.
+  await alex.getByRole("listitem").filter({ hasText: item }).getByRole("button", { name: item }).click();
+  await alex.getByRole("button", { name: "Delete" }).click();
+  await expect(sam.getByText(item)).toBeHidden({ timeout: 3_000 });
+});
+
+test("recipe ingredients go through the pantry check onto the list", async ({ browser, baseURL }) => {
+  const page = await openAs(browser, "alex@dev.local", baseURL!);
+  await page.getByRole("link", { name: "Recipes" }).click();
+  await page.getByPlaceholder(/Search .*recipes/).fill("White Bean Pie");
+  await page.getByRole("link", { name: /Creamy Mushroom & White Bean Pie/ }).click();
+  await page.getByRole("button", { name: "Add ingredients to list" }).click();
+
+  const dialog = page.getByRole("dialog");
+  await expect(dialog.getByText("Already have any of these?")).toBeVisible();
+  // Herb & Mushroom Seasoning is a blend: make it from scratch instead of buying the sachet.
+  await dialog.getByRole("button", { name: "Make it" }).first().click();
+  await expect(dialog.getByText("Dried Porcini Mushrooms")).toBeVisible();
+
+  await dialog.getByRole("button", { name: /Add \d+ items? to list/ }).click();
+  await expect(page.getByText(/Added \d+ item/)).toBeVisible();
+
+  await page.goto("/");
+  await expect(page.getByText("for Creamy Mushroom & White Bean Pie").first()).toBeVisible();
+});

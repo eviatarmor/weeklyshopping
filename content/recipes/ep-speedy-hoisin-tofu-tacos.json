@@ -1,0 +1,137 @@
+{
+  "slug": "ep-speedy-hoisin-tofu-tacos",
+  "kind": "meal",
+  "title": "Speedy Hoisin Tofu Tacos",
+  "subtitle": "with Asian Slaw",
+  "description": "Quick and tasty, just dinner should be! These fusion tacos combine umami-rich tofu with soft tortillas and fresh salad for a feast of cuisines!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/speedy-hoisin-tofu-tacos-67f83dc34264524ca978e8f5",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65ea4a1fbbb0ffe7102d1f1a-65456fab-496fcad8.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "everyplate",
+    "chinese",
+    "quick",
+    "vegetarian",
+    "speedy",
+    "pan-asian-plates",
+    "20 min or less"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c68-7ea9b6d2.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805b33a6ad8f0f05b85-2fe10bcd.png"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "hoisin-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237613405d840b2be37cf-daaa1e3d.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723743b33a6ad8f0f05838-94b38e28.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833530d0527cba53a4a24-433090ea.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a6-42b1319f.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de61635bf0b638cfba5d-7bacd1e2.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e60-44b83ee2.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddbe635bf0b638cfb95a-68dc241a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddcc9690d86caac925ed-2de78e22.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb1-a24832e8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Grate carrot.<br>• Using paper towel, pat tofu dry and cut into 1cm chunks.<br>• In a medium bowl, combine tofu, the plain flour, sweet soy seasoning and a pinch of salt and pepper.<br>• In a small bowl, combine hoisin sauce, the soy sauce, brown sugar, vinegar <br>and water. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/691aa0341d103273ffd52d77/step-80f2d500.jpeg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a generous drizzle of olive oil over medium-high heat.<br>• When the oil is hot, shake excess flour off the tofu and cook, turning occasionally, until golden, 4-6 mins.<br>• Reduce heat to medium and add in sauce mixture, gently tossing to coat, <br>30 seconds.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/691aa0341d103273ffd52d77/step-888fb910.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, in a large bowl, combine shredded cabbage mix, carrot and a drizzle of the vinegar and olive oil. Season.<br>• Microwave mini flour tortillas on a microwave-safe plate in 10 second bursts until warmed through.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/691aa0341d103273ffd52d77/step-013a7120.jpeg"
+    },
+    {
+      "text": "• <p>• Divide tortillas between plates. <br>• Spread with the mayonnaise, then top with Asian slaw and hoisin tofu to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/691aa0341d103273ffd52d77/step-5fdfac30.jpeg"
+    }
+  ]
+}

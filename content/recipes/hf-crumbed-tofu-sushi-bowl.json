@@ -1,0 +1,172 @@
+{
+  "slug": "hf-crumbed-tofu-sushi-bowl",
+  "kind": "meal",
+  "title": "Crumbed Tofu 'Sushi' Bowl",
+  "subtitle": "with Garlic-Ginger Rice & Wasabi Mayo",
+  "description": "Enjoy all the flavour and fun of sushi without the fuss in this easy deconstructed dish. Start with garlic-ginger rice, add crisp panko-crumbed tofu, sesame-flavoured greens and crisp cucumber, then drizzle with wasabi mayo to tie it all together.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/crumbed-tofu-sushi-bowl-5e4360ecf3eb0311303fb682",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crumbed-tofu-sushi-bowl-89604280.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Ginger",
+      "qty": 1,
+      "unit": "knob",
+      "product": "ginger",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affdff8b25eee3e8b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Wasabi Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5abaeb9430006c07a16b9411-bea0f337.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad45825ae08b55df01b9912-2fea204a.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/557e7fd8f8b25e9c678b4567.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56ce4d68f8b25e99678b4567-56cfcfb3.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be3bcf8b25e165a8b4567.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556858d3f8b25e68408b4568.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55fb5a1279a23cde148b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely grate the ginger. Finely grate the garlic (or use a garlic press). In a medium saucepan, heat the butter and a dash of olive oil over a medium heat. Add the garlic and ginger and cook until fragrant, 1-2 minutes. Add the basmati rice, water (for the rice) and the salt, stir, and bring to the boil. Reduce the heat to low and cover with a lid. Cook for 10 minutes, then remove from the heat and keep covered until the rice is tender and the water has absorbed, 10 minutes.\n• TIP: The rice will finish cooking in its own steam so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436f6ae0d90372b362e448/step-e315365b.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, trim and halve the green beans. Thinly slice the capsicum. Thinly slice the cucumber. Slice the lemon (see ingredients list) into wedges. In a small bowl, combine the wasabi mayonnaise (if using) and water (for the mayo).\n• TIP: Wasabi has a strong horseradish flavour so use less if you aren't a fan or add a little plain mayo from the pantry to mellow the flavour.\n• TIP: Adding water to the wasabi mayo will make it easier to drizzle.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436f6ae0d90372b362e448/step-e6aa55d4.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine the plain mayonnaise and the pieces of Japanese tofu. Toss to coat. In a second medium bowl, combine the panko breadcrumbs and sesame seeds, then add the mayo-coated tofu to coat. Transfer to a plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436f6ae0d90372b362e448/step-9affb61a.jpg"
+    },
+    {
+      "text": "• When the rice has 10 minutes cook time remaining, heat enough oil to coat the base of a large frying pan over a medium-high heat. When the oil is hot, add the crumbed tofu and cook until golden, 2-3 minutes each side. Transfer to a plate lined with paper towel and season with salt and pepper.\n• TIP: Turn the tofu gently to prevent crumbs from falling off!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436f6ae0d90372b362e448/step-f9a10f32.jpg"
+    },
+    {
+      "text": "• Wipe out the frying pan with paper towel and return to a medium-high heat with a drizzle of olive oil. Add the green beans and cook until nearly tender, 3-4 minutes. Add the capsicum and cook until wilted, 1-2 minutes. Season with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436f6ae0d90372b362e448/step-16c9633f.jpg"
+    },
+    {
+      "text": "• Divide the garlic & ginger rice between bowls. Top with the crumbed tofu, sesame greens, cucumber and drizzle with the wasabi mayo (if using). Squeeze over the lemon wedges and drizzle with a little soy sauce to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5e436f6ae0d90372b362e448/step-ef0adb59.jpg"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "ep-spicy-black-bean-loaded-fries",
+  "kind": "meal",
+  "title": "Spicy Black Bean Loaded Fries",
+  "subtitle": "with Sour Cream",
+  "description": "Get a load of this! Delicious golden fries piled high with spicy beans and veggie and a drizzle of sour cream. It's a feast for all the senses!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/spicy-black-bean-loaded-fries-67f83c22cade9b9f0acdde40",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6768aedd555c15a993e4e151-0816aab4-cae9228f.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "everyplate",
+    "mexican",
+    "vegetarian",
+    "naturally gf",
+    "spicy",
+    "pies-fries-beyond"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236da105c9621030b485f-1710602a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bab-e8da1b4d.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fc24ecbf90d9f528576-5a36bd7b.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Spicy Taco Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "spicy-taco-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/613ecfad5defb51feb7d0ecf-ec9ffc2c.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5094-b270df3d.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92531-6c19cc26.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e60-44b83ee2.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e58-0a43aa1d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. Cut potato into fries.<br>• Place on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat.<br>• Bake until tender, 20-25 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68783048c30d33981f9a4725/step-b16f3200.jpeg"
+    },
+    {
+      "text": "• <p>• Finely chop or crush garlic. Thinly slice spring onion. <br>• Grate carrot. Drain sweetcorn.<br>• Drain and rinse black beans.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68783048c30d33981f9a4725/step-a2513d10.jpeg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat.<br>• Cook corn, black beans and carrot until tender, 3-4 mins. Add garlic, tomato paste and spicy taco seasoning (the spice blend is hot, use less if you’re sensitive to heat!) and cook, tossing until fragrant, 1-2 mins.<br>• Stir in the water, brown sugar, butter and salt. Simmer until slightly reduced, <br>1-2 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68783048c30d33981f9a4725/step-288dc820.jpeg"
+    },
+    {
+      "text": "• <p>• Divide fries between plates. <br>• Top with spicy black beans and dollop with sour cream.<br>• Sprinkle with spring onion to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68783048c30d33981f9a4725/step-5ffc8930.jpeg"
+    }
+  ]
+}

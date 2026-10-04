@@ -1,0 +1,154 @@
+{
+  "slug": "hf-mexican-corn-fritters-and-sweet-potato-fries",
+  "kind": "meal",
+  "title": "Loaded Mexican Corn Fritters & Smokey Slaw",
+  "subtitle": "with Sweet Potato Fries & Lime Sour Cream",
+  "description": "Add some heat and zing to juicy corn fritters by lacing the mixture with our Mexican Fiesta spice blend, plus fresh lime zest and coriander. Serve with some equally moreish sides and a serving of cooling, tangy lime sour cream to tie it all together.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-corn-fritters-and-sweet-potato-fries-67f85619cade9b9f0ace5827",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W44_AU_R5915-5_Main_high-da198ae0.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "hellofresh",
+    "mexican",
+    "healthy",
+    "vegetarian",
+    "spicy",
+    "classic-plates",
+    "latin-american-faves"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Slaw Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6667e23225297b35e64c04ea-43992441.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723791105c9621030b4c44-b094ccb8.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723857b33a6ad8f0f05d35-e65e8b58.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Smokey Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723809105c9621030b4f1a-a5f34873.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723722105c9621030b49de-d90ccc30.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde12793e8cdd8467eb8-982f1f99.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf52793e8cdd8467ede-ab9ca8fe.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Cut sweet potato into fries.<br>• Place fries on a lined oven tray. Drizzle with olive <br>oil, season with salt and toss to coat.<br>• Bake until tender, 20-25 minutes. <br>TIP: If your oven tray is crowded, divide the fries <br>between two trays. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bcecf06d399ea41bbd607/step-1fc15300.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, zest lime to get a generous pinch, then <br>slice into wedges.<br>• Slice cucumber into half-moons. <br>• Roughly chop coriander. <br>• Slice kernels off the corn cob. <br>• Roughly chop baby spinach leaves. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bcecf06d399ea41bbd607/step-c5595b10.jpg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine slaw mix, cucumber, <br>smokey aioli and a drizzle of olive oil.<br>• Season to taste with salt and pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bcecf06d399ea41bbd607/step-8825e120.jpg"
+    },
+    {
+      "text": "• <p>• SPICY! This spice blend is hot! Add less if you’re <br>sensitive to heat. In a second medium bowl, <br>combine lime zest, coriander (reserve a pinch <br>for garnish!), corn, spinach and Mexican Fiesta <br>spice blend. <br>• Add the plain flour, egg, Cheddar cheese and <br>the milk. Season to taste and mix well to combine. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bcecf06d399ea41bbd607/step-b7190330.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat enough olive oil to coat <br>the base over medium-high heat.<br>• When oil is hot, add heaped tablespoons of fritter<br>mixture in batches and flatten with a spatula. <br>• Cook until golden, 3-4 minutes each side (don’t flip <br>too early!).<br>• Transfer to a paper towel-lined plate. You should get <br>3-4 fritters per person. <br>TIP: Add extra olive oil to the pan between batches <br>as needed. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bcecf06d399ea41bbd607/step-81b8ab40.jpg"
+    },
+    {
+      "text": "• <p>• In a small bowl, combine light sour cream and a <br>good squeeze of lime juice.<br>• Divide loaded Mexican corn fritters, sweet potato <br>fries and smokey slaw between plates.<br>• Garnish with reserved coriander.<br>• Serve with lime sour cream and any remaining lime <br>wedges. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689bcecf06d399ea41bbd607/step-7d82c550.jpg"
+    }
+  ]
+}

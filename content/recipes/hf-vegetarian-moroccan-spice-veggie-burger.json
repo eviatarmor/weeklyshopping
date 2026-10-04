@@ -1,0 +1,160 @@
+{
+  "slug": "hf-vegetarian-moroccan-spice-veggie-burger",
+  "kind": "meal",
+  "title": "(Vegetarian) Moroccan Spice Veggie Burger",
+  "subtitle": "with Beetroot-Walnut Mayo",
+  "description": "Sink your teeth into this one and celebrate the versatility of the humble kidney bean! Packed with spices, fresh parsley and topped with a delicious beetroot-walnut mayo – this recipe ensures no one misses out on the joys of tucking into a juicy, satisfying (not to mention healthy!) veggie burger.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/vegetarian-moroccan-spice-veggie-burger-5a949ec930006c7d62502be2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5a949ec930006c7d62502be2-2f305d3c.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b0039fd2cb99c598b4570.png"
+    },
+    {
+      "name": "Roma Tomato",
+      "qty": 1,
+      "product": "roma-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57989863b2baaf083c8b4567.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Cos Lettuce",
+      "qty": 1,
+      "unit": "head",
+      "product": "cos-lettuce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c70bb4dab7199428b4567.png"
+    },
+    {
+      "name": "Souk Market Spice Blend",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "souk-market-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a52fc0cc2880005ca058331-c6096b9e.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556858d3f8b25e68408b4568.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "tub",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/557e7fd8f8b25e9c678b4567.png"
+    },
+    {
+      "name": "Beetroot & Walnut Relish",
+      "qty": 1,
+      "unit": "tub",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/57d8b3c1d804b5b0298b4568-06a4ef2d.png"
+    },
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56d65695fd2cb942198b4568-18054ddf.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to **180°C/160°C fan-forced**. Drain and rinse the **red kidney beans** and place in a large bowl. Peel and crush the **garlic**. Finely chop the **parsley** leaves. Finely slice the **Roma tomato**. Finely slice the **cucumber**. Grate the **carrot (unpeeled)**. Roughly chop the **cos lettuce**.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a949ec930006c7d62502be2/step-0b6d21c6.jpg"
+    },
+    {
+      "text": "• Using a potato masher or a fork, mash the **kidney beans** as much as you can. Add the **garlic, Souk Market spice blend (use suggested amount), 1/2** the **parsley**, the **sesame seeds, salt (use suggested amount), egg** and **fine breadcrumbs (use suggested amount)** to the large bowl with the kidney beans. Mix well then shape the bean mixture into patties slightly larger than your buns (you should get 1 patty per person). Set aside on a plate, ready to cook.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a949ec930006c7d62502be2/step-1bfb8a7e.jpg"
+    },
+    {
+      "text": "• In a small bowl, combine the **mayonnaise** and **beetroot, walnut and pomegranate dip**. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a949ec930006c7d62502be2/step-97af4855.jpg"
+    },
+    {
+      "text": "• Heat a **good drizzle** of **olive oil** in a large frying pan over a medium-high heat. Cook the patties for **4-5 minutes** on each side, or until golden on the outside and firm.\n• **TIP**:  Don’t be tempted to flip your veggie patty early, letting it form a crust will prevent it from breaking apart when you flip it!\n• In the last **5 minutes** of the veggie patty cooking time, place the **bake-at-home burger buns** directly onto a wire rack in the oven for **3 minutes**, or until heated through. Slice in half.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a949ec930006c7d62502be2/step-ec7fb1b4.jpg"
+    },
+    {
+      "text": "• While the patties are cooking, combine the **vinegar** and **olive oil (1 tbs for 2 people / 2 tbs for 4 people)** in a medium bowl. Reserve **1/4** of each of the **tomato, cucumber, carrot and cos lettuce** for the burgers, and add the remaining to the medium bowl, along with the **parsley**. Toss to coat. **TIP**:  Toss your salad just prior to serving to prevent soggy leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a949ec930006c7d62502be2/step-bebab8db.jpg"
+    },
+    {
+      "text": "• Add a handful of cos lettuce to the base of the burger bun. Add a Moroccan spice veggie patty and spread over some of the beetroot-walnut mayo. Top with the remaining tomato, cucumber and carrot. Serve the salad on the side.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a949ec930006c7d62502be2/step-3b2c414c.jpg"
+    }
+  ]
+}

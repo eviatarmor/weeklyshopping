@@ -1,0 +1,137 @@
+{
+  "slug": "ep-sweet-soy-tofu-stir-fry",
+  "kind": "meal",
+  "title": "Sweet Soy Tofu Stir-Fry",
+  "subtitle": "with Garlic Rice",
+  "description": "Tofu is such an MVP - it takes on the flavours of whatever you throw at it! Here we've started with marinated tofu and added sweet chilli plus soy for a flavour explosion. Add a bunch of colourful veggies and dinner is served.\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such,\nwhat you receive maybe slightly different to what’s pictured. Don’t worry, your recipe will be just as tasty!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/sweet-soy-tofu-stir-fry-61e4ed63c0f289428227bdc5",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-chilli-tofu-veggie-stir-fry-21eb8dbc.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f7c4ecbf90d9f52840a-c66b1029.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39ff24ecbf90d9f528660-abd39ad0.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f744ecbf90d9f5283df-789ff4a4.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0264ecbf90d9f528748-4066951c.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fe94ecbf90d9f528634-a7ec92d5.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60920da79f5a865a971191ec-531ce6df.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0044ecbf90d9f5286b2-32ed361d.png"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 1,
+      "unit": "packet",
+      "product": "kecap-manis",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fbb4ecbf90d9f528554-c7295538.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f994ecbf90d9f5284a4-586bdf0e.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fba4ecbf90d9f52854d-f7be9e80.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop or crush garlic. In a medium saucepan, melt butter with a dash of olive oil over medium heat.\n• Cook 1/2 the garlic until fragrant, 1-2 mins. Add water, rice and a pinch of salt and bring to the boil. Reduce heat to low and cover with a lid.\n• Cook for 10 mins, then remove from heat and keep covered until rice is tender and water absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e4ed63c0f289428227bdc5/step-404ed7c3.jpg"
+    },
+    {
+      "text": "• Meanwhile, quarter each piece of tofu.\n• Roughly chop Asian greens. Thinly slice zucchini into half-moons. Thinly slice the red onion.\n• In a small bowl, combine ginger paste, soy sauce, kecap manis, remaining garlic and a pinch of pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e4ed63c0f289428227bdc5/step-48af61fe.jpg"
+    },
+    {
+      "text": "• Heat a large frying pan over medium-high heat with a drizzle of olive oil. Cook tofu, tossing, until browned and warmed through, 3-4 mins. Transfer to a plate.\n• Return frying pan to high heat with a drizzle of olive oil. Stir-fry zucchini and onion until tender, 4-5 mins. Add the Asian greens and cook until softened, 1-2 mins. Return tofu to pan and add the kecap mixture. Cook, tossing, until heated through, 1 min.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e4ed63c0f289428227bdc5/step-f1a2d846.jpg"
+    },
+    {
+      "text": "• Divide garlic rice between bowls.\n• Top with sweet soy tofu, veggies and crispy shallots.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61e4ed63c0f289428227bdc5/step-cf9b8e80.jpg"
+    }
+  ]
+}

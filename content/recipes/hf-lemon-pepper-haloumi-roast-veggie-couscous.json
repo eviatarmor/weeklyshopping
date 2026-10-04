@@ -1,0 +1,148 @@
+{
+  "slug": "hf-lemon-pepper-haloumi-roast-veggie-couscous",
+  "kind": "meal",
+  "title": "Lemon Pepper Haloumi & Roast Veggie Couscous",
+  "subtitle": "with Creamy Pesto & Almonds",
+  "description": "The Mediterranean is home to all things sun, sea, and glorious dishes like this! Brimming with squeaky haloumi, fluffy couscous, a rainbow of veggies and crunchy golden almonds, escape the ordinary with tonight's treat of a dinner.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/lemon-pepper-haloumi-roast-veggie-couscous-62e1f5b82acc17ec740bcc70",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-haloumi-roast-veggie-couscous-6ecd44b7.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Creamy Pesto Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Lemon Pepper Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "lemon-pepper-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/596418d0d0d6bd7825103f93-7bfd2f3e.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Chicken-Style Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chicken-style-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6091f4c01eabbc7d2152da2d-f2aa7d2a.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6ef2f8b25ee4718b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut carrot and sweet potato into bite-sized chunks. Cut brown onion into thick wedges. Cut beetroot into small chunks.\n• Place prepped veggies on a lined oven tray. Drizzle with olive oil, sprinkle over garlic & herb seasoning and toss to coat.\n• Roast until tender, 20-25 minutes. TIP: If your oven tray is crowded, divide the veggies between two trays. TIP: Beetroot stays firm when cooked. It's done when you can pierce it with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62e1f5b82acc17ec740bcc70/step-d6199100.jpg"
+    },
+    {
+      "text": "• Meanwhile, combine creamy pesto dressing and the water (for the dressing) in a small bowl. Set aside.\n• Cut haloumi into 1cm-thick slices.\n• In a medium bowl, combine lemon pepper seasoning and a drizzle of olive oil. Add haloumi, tossing to coat. Set aside. Little cooks: Take charge by combining the pesto and the water!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62e1f5b82acc17ec740bcc70/step-9d18f7b0.jpg"
+    },
+    {
+      "text": "• Boil the kettle.\n• In a second medium bowl, add couscous, the butter and chicken-style stock powder.\n• Add the boiling water (3/4 cup for 2 people / 1 1/2 cups for 4 people). Stir to combine.\n• Immediately cover with plate and leave for 5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62e1f5b82acc17ec740bcc70/step-7f482b4b.jpg"
+    },
+    {
+      "text": "• Fluff up couscous with a fork.\n• Gently stir roasted veggies through couscous. Cover to keep warm. Little cooks: Under adult supervision, help fluff up the couscous.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62e1f5b82acc17ec740bcc70/step-a64c0d37.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook haloumi until golden brown, 1-2 minutes each side.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62e1f5b82acc17ec740bcc70/step-522d4b7a.jpg"
+    },
+    {
+      "text": "• Divide roast veggie couscous between bowls. Top with Mediterranean pork.\n• Sprinkle with flaked almonds. Drizzle with the creamy pesto to serve. Enjoy! Little cooks: Add the finishing touches by sprinkling the almonds and drizzling the pesto on top!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62e1f5b82acc17ec740bcc70/step-7a0cf943.jpg"
+    }
+  ]
+}

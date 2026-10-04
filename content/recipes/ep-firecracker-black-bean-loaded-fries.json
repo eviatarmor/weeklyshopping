@@ -1,0 +1,141 @@
+{
+  "slug": "ep-firecracker-black-bean-loaded-fries",
+  "kind": "meal",
+  "title": "Mexican Fiesta Black Bean Loaded Fries",
+  "subtitle": "with Coriander & Sour Cream",
+  "description": "Get a load of this! Delicious golden fries piled high with spicy beans and veggie and a drizzle of sour cream. It's a feast for all the senses!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/spicy-black-bean-loaded-fries-67f83c22cade9b9f0acdde40",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4007_W19_AU_EP14101-30_edit_cori_Main_edit_remove_red_onion_edit_high-12c0f3b4.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "everyplate",
+    "mexican",
+    "vegetarian",
+    "naturally gf",
+    "high protein",
+    "low calorie",
+    "pies-fries-beyond"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236da105c9621030b485f-1710602a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fc24ecbf90d9f528576-5a36bd7b.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a5-46d60eb4.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723791105c9621030b4c43-4c42da2f.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05782-34c9f102.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92531-6c19cc26.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e60-44b83ee2.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e58-0a43aa1d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <ul>\n• <li>Preheat oven to 240°C/220°C fan-forced. Cut potato into fries.</li>\n• <li>Place on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat.</li>\n• <li>Bake until tender, 20-25 mins.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69b7355dd378378da7aae308/step-0e107200.jpeg"
+    },
+    {
+      "text": "• <ul>\n• <li>Finely chop or crush garlic. </li>\n• <li>Thinly capsicum and brown onion (see ingredients).</li>\n• <li>Roughly chop coriander.</li>\n• <li>Drain and rinse black beans.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69b7355dd378378da7aae308/step-a4ca9d10.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>In a large frying pan, heat a drizzle of olive oil over medium-high heat.</li>\n• <li>Cook capsicum, black beans and onion until tender, 3-4 mins. Add garlic, tomato paste and Mexican fiesta spice blend (SPICY! Use less if you’re sensitive to heat) and cook, tossing until fragrant, 1-2 mins.</li>\n• <li>Stir in the water, brown sugar, butter and salt. Simmer until slightly reduced, 1-2 mins.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69b7355dd378378da7aae308/step-41811920.jpg"
+    },
+    {
+      "text": "• <ul>\n• <li>Divide fries between plates.</li>\n• <li>Top with Mexican Fiesta black beans and sour cream.</li>\n• <li>Sprinkle with coriander to serve.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69b7355dd378378da7aae308/step-540c9330.jpg"
+    }
+  ]
+}

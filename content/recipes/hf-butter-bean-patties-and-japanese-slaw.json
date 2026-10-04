@@ -1,0 +1,157 @@
+{
+  "slug": "hf-butter-bean-patties-and-japanese-slaw",
+  "kind": "meal",
+  "title": "Butter Bean Patties & Japanese Slaw",
+  "subtitle": "with Sesame Wedges & Soy Mayo",
+  "description": "These super-satisfying veggie patties are packed full of flavour and they’re perfect for an easy mid-week meal. The secret ingredient is our famous caramelised onion chutney which balances out the rich, savoury flavour of the butter beans. Bring it all together with a fresh Japanese slaw, hearty sesame wedges and a dollop of soy mayo.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/butter-bean-patties-and-japanese-slaw-63369612610d1e2d6b0fb644",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/butter-bean-patties-japanese-slaw-a3902ea2.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "asian",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fae01355a2ab9306616d5b0-a7aba26d.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556858d3f8b25e68408b4568.png"
+    },
+    {
+      "name": "Butter Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56d6607af8b25eb76c8b4568.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Caramelised Onion Chutney",
+      "qty": 1,
+      "unit": "packet",
+      "product": "onion-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add5af2ae08b560317a0782-4106aa11.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "bag",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/557e7fd8f8b25e9c678b4567.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Slaw Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9dc42cae08b5710b4755e2-c0ea3fc3.png"
+    },
+    {
+      "name": "Japanese Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut potato into wedges.\n• Place wedges on a lined oven tray. Season with salt, drizzle with olive oil, sprinkle over sesame seeds and toss to coat.\n• Bake until tender, 20-25 minutes. TIP: If your oven tray is crowded, divide the wedges between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369612610d1e2d6b0fb644/step-358f9074.jpg"
+    },
+    {
+      "text": "• Meanwhile, drain and rinse butter beans.\n• Grate carrot.\n• Roughly chop cucumber, then transfer to a medium bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369612610d1e2d6b0fb644/step-017b0676.jpg"
+    },
+    {
+      "text": "• In a second medium bowl, add butter beans, caramelised onion chutney and the egg. Mash with a potato masher until the butter beans are broken up.\n• Add grated carrot, the plain flour, fine breadcrumbs, shredded Cheddar cheese, garlic & herb seasoning and a pinch of salt and pepper. Combine until the mixture is sticking together.\n• Using damp hands, form heaped spoonfuls of the mixture into balls, flattening each ball into a 1cm-thick patty. You should get 4-5 patties per person. TIP: Add a little more flour if the mixture is too wet.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369612610d1e2d6b0fb644/step-49821796.jpg"
+    },
+    {
+      "text": "• Heat enough olive oil to coat the base of a large frying pan over a medium-high heat.\n• When the oil is hot, cook patties until golden, 3-4 minutes each side.\n• Transfer to a paper-towel lined plate. TIP: Don’t flip before the time is up to ensure your patties can set. TIP: Add more oil if needed to prevent sticking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369612610d1e2d6b0fb644/step-ef46f004.jpg"
+    },
+    {
+      "text": "• While the patties are cooking, to the bowl with the cucumber, add slaw mix, Japanese dressing and a drizzle of olive oil. Toss to coat and season to taste.\n• In a small bowl, combine mayonnaise with a drizzle of soy sauce.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369612610d1e2d6b0fb644/step-f80ff33b.jpg"
+    },
+    {
+      "text": "• Divide butter bean patties, sesame wedges and Japanese slaw between plates.\n• Serve with soy mayo. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369612610d1e2d6b0fb644/step-6649322c.jpg"
+    }
+  ]
+}

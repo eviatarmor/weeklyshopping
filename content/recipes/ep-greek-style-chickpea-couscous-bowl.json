@@ -1,0 +1,159 @@
+{
+  "slug": "ep-greek-style-chickpea-couscous-bowl",
+  "kind": "meal",
+  "title": "Greek-Style Chickpea Couscous Bowl",
+  "subtitle": "with Cucumber Salad & Fetta",
+  "description": "Hearty chickpeas simmered in a herby tomato sauce work a treat in this couscous bowl. Just top with tangy fetta and flaked almonds, serve with a crisp cucumber salad, and dinner is served!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/greek-style-chickpea-couscous-bowl-6167b7ecb865fe7ca43f8cfa",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/greek-style-chickpea-couscous-bowl-17a35237.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "mediterranean",
+    "speedy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f834ecbf90d9f52842d-471f721a.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0174ecbf90d9f528706-7478f5de.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f984ecbf90d9f52849c-0e0812fe.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f904ecbf90d9f528470-7142aee3.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f3-922cde24.png"
+    },
+    {
+      "name": "Garlic Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee990bd16bd266f3f6ed96f-4e7ec9f7.png"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.5,
+      "unit": "sachet",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9f4ecbf90d9f5284c3-a906ba01.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9a4ecbf90d9f5284a7-cdcf75ad.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fce4ecbf90d9f5285b4-c64c728d.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0214ecbf90d9f528732-e93fccf0.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fe2be511363ed37736f3024-583bf58f.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fa64ecbf90d9f5284e6-38cad40e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle. Finely chop or crush garlic.\n• In a medium saucepan, heat 1/2 the butter with a drizzle of olive oil over medium-high heat. Cook garlic until fragrant, 1 min.\n• Stir in the boiling water, vegetable stock and couscous.\n• Cover with lid and remove from heat. Set aside until water has absorbed, 5 mins. Fluff up with a fork and season with pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61d7f9236c005a3c98561fdb/step-7e6f258c.jpg"
+    },
+    {
+      "text": "• Meanwhile, drain and rinse chickpeas. In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook tomato paste, garlic seasoning, dried oregano (see ingredients) and chickpeas, until fragrant, 1-2 mins.\n• Reduce heat to medium, then stir in the water and a pinch of sugar and cook until slightly thickened 2-4 mins.\n• Remove from heat. Stir in remaining butter.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61d7f9236c005a3c98561fdb/step-c786a20a.jpg"
+    },
+    {
+      "text": "• Roughly chop cucumber and tomato.\n• In a medium bowl, combine cucumber, tomato, mixed salad leaves, a drizzle of white wine vinegar and olive oil. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61d7f9236c005a3c98561fdb/step-2cf83785.jpg"
+    },
+    {
+      "text": "• Divide couscous, chickpeas, and cucumber salad between bowls.\n• Spoon over any sauce from the pan.\n• Crumble over fetta. Top with flaked almonds.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61d7f9236c005a3c98561fdb/step-94d90964.jpg"
+    }
+  ]
+}

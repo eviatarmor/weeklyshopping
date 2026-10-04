@@ -1,0 +1,176 @@
+{
+  "slug": "hf-hoisin-tofu-veggie-stir-fry",
+  "kind": "meal",
+  "title": "Hoisin Tofu & Veggie Stir-Fry",
+  "subtitle": "with Garlic Rice & Sesame Aioli",
+  "description": "Busting with crowd-pleasing Asian flavours, everyone will be happily getting their daily dose of veg with this tender tofu dish.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/hoisin-tofu-veggie-stir-fry-62bbbe79f177a690be021d54",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64d082cc7befbd431bc7536d-e98784dd.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "chinese",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f2eafd2cb99d038b4567.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e112ff8b25e1c628b4568.png"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "hoisin-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c0b0ff8b25e74628b4569.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556858d3f8b25e68408b4568.png"
+    },
+    {
+      "name": "Garlic Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/587d5b2a4348d278953e3401-81a905dc.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a828205ae08b5736b5fc6f2-ce735049.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5acd7a08ae08b524b87d2502-3cf223c1.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55fb5a1279a23cde148b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8deae08b530b326ef12-2fea204a.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "bag",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55810642fd2cb90d7a8b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop garlic.\n• In a medium saucepan, melt the butter with a dash of olive oil over medium heat. Cook garlic until fragrant, 1-2 minutes.\n• Add jasmine rice, the water (for the rice) and a good pinch of salt. Bring to the boil.\n• Reduce heat to low and cover with a lid. Cook for 12 minutes, then remove from heat.\n• Keep covered until rice is tender and water is absorbed, 10-15 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d082cc7befbd431bc7536d-db96aa00.jpeg"
+    },
+    {
+      "text": "• While the rice is cooking, thinly slice carrot into half-moons.\n• Trim and halve green beans.\n• Roughly chop Asian greens.\n• Cut lemon into wedges.\n• Cut firm tofu into 1cm chunks.\n• In a medium bowl, combine the plain flour and a pinch of salt. Add tofu, gently tossing to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d082cc7befbd431bc7536d-6b737498.jpeg"
+    },
+    {
+      "text": "• In a small bowl, combine hoisin sauce, the soy sauce, the water (for the sauce), the brown sugar, a squeeze of lemon juice and half the sesame seeds.\n• In a second small bowl, combine garlic aioli, remaining sesame seeds and a small splash of water.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d082cc7befbd431bc7536d-2ab75e9f.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook carrot and green beans, tossing, until softened, 4-5 minutes.\n• Add Asian greens and cook until softened, 1-2 minutes.\n• Transfer to a plate and cover to keep warm.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d082cc7befbd431bc7536d-d8ffd7b0.jpeg"
+    },
+    {
+      "text": "• Return frying pan to medium-high heat with a good drizzle of olive oil. When oil is hot, cook tofu, turning occasionally, until golden, 5-7 minutes.\n• Remove from heat, then add hoisin mixture. Stir, then return cooked veggies to pan, tossing to coat. Season with pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d082cc7befbd431bc7536d-7182bb9f.jpeg"
+    },
+    {
+      "text": "• Divide garlic rice between bowls.\n• Top with hoisin tofu and veggie stir-fry.\n• Drizzle with sesame aioli and sprinkle with crispy shallots.\n• Serve with any remaining lemon wedges. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d082cc7befbd431bc7536d-41ff4934.jpeg"
+    }
+  ]
+}

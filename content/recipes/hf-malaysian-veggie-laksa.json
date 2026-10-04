@@ -1,0 +1,145 @@
+{
+  "slug": "hf-malaysian-veggie-laksa",
+  "kind": "meal",
+  "title": "Malaysian Veggie Laksa",
+  "subtitle": "with Flat Noodles & Roasted Peanuts",
+  "description": "If you're looking for some Meatless Monday inspo, this is it! In our vegetarian take on the fragrant noodle soup, we've teamed a\ncreamy coconut broth with a healthy squeeze of lemon juice to lift and balance the lovely complex flavours.\nThis recipe is under 650kcal per serving.\nUnfortunately, this week's udon noodles were in short supply, so we've replaced them with flat noodles. Don't worry, the recipe will be just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/malaysian-veggie-laksa-6141a82f4e16bd1789711de8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/malaysian-veggie-laksa-2c2a2b72.jpg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "asian",
+    "quick",
+    "quick prep",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Flat Noodles",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rice-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5e5f1a8ce30ed70a08745527-a7c888cb.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "bag",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55810642fd2cb90d7a8b4569.png"
+    },
+    {
+      "name": "Southeast Asian Spice Blend",
+      "qty": 1.5,
+      "unit": "sachet",
+      "blend": "southeast-asian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d5cc6284da29b00112c6c62-58b68ca4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle.\n• Thinly slice carrot and capsicum.\n• Roughly chop Asian greens.\n• Slice lemon into wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6141a82f4e16bd1789711de8/step-f2fa6057.jpg"
+    },
+    {
+      "text": "• In a large saucepan, heat a drizzle of olive oil over a medium-high heat.\n• Cook capsicum and carrot until tender, 3-5 minutes. Add garlic paste and Southeast Asian spice blend (see ingredients) and cook, stirring, until fragrant, 1-2 minutes.\n• Add the water, coconut milk and vegetable stock powder. Bring to a boil, then reduce heat to medium. Simmer until slightly thickened, 3-5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6141a82f4e16bd1789711de8/step-4282ac32.jpg"
+    },
+    {
+      "text": "• Add the flat noodles and cook, until tender, 3-4 minutes. In the last minute of cook time, gently stir the noodles with a fork to separate.\n• Stir in Asian greens, soy sauce and brown sugar, until combined and heated through.\n• Remove from heat. Squeeze in some lemon juice to taste. TIP: Add a splash of water if the laksa looks too thick.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6141a82f4e16bd1789711de8/step-fc43da9d.jpg"
+    },
+    {
+      "text": "• Divide Malaysian veggie laksa between bowls.\n• Tear over coriander and sprinkle with crushed peanuts.\n• Serve with any remaining lemon wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6141a82f4e16bd1789711de8/step-3cdb75cb.jpg"
+    }
+  ]
+}

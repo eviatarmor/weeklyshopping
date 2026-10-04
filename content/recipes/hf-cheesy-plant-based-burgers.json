@@ -1,0 +1,138 @@
+{
+  "slug": "hf-cheesy-plant-based-burgers",
+  "kind": "meal",
+  "title": "Cheesy Plant-Based & Sticky Onion Burger",
+  "subtitle": "with Crisp Green Salad",
+  "description": "Top tonight’s perfectly seasoned plant-based patties with melty Cheddar and sticky caramelised onion... and you’ll be sitting down to a dish that’s a contender for the ‘Best Burger Ever’.\nWe’ve replaced the tomato in this recipe with cucumber due to local\ningredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-beef-burgers-67f843200d0527cba53a98c2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-beef-burgers-257d32b0-9951813a.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "australian",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f83340cade9b9f0acdb254-cc369200.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Plant-Based Burger Patty",
+      "qty": 2,
+      "product": "plant-based-burger-patty",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237cd105c9621030b4db7-84212ec4.png"
+    },
+    {
+      "name": "Aussie Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "aussie-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0562f-5323858f.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e57-5ee04095.png"
+    },
+    {
+      "name": "Balsamic Vinegar*",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de792793e8cdd8467fbb-76f7bd39.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 200°C/180°C fan-forced. • Thinly slice brown onion and tomato. Little cooks: Don your goggles and have a go at peeling off the onion&#39;s outer layer!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d8096f5ad8e6534c49254/step-ac12ab00.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook onion, stirring regularly, until softened, 5-6 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d8096f5ad8e6534c49254/step-8d9fef10.jpeg"
+    },
+    {
+      "text": "• <p>• Add the balsamic vinegar, brown sugar and a splash of water. Mix well. Cook until dark and sticky, 3-5 minutes. • Transfer to a small bowl.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d8096f5ad8e6534c49254/step-9bd83820.jpeg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with a drizzle of olive oil. • Cook plant-based burger patties until browned and heated through, 2-3 minutes each side.TIP: For even browning, gently press down on the patties using a spatula.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d8096f5ad8e6534c49254/step-ad55b630.jpeg"
+    },
+    {
+      "text": "• <p>• Transfer plant-based burger patties to a lined oven tray. Sprinkle with Cheddar cheese. Bake until patties are cooked through and cheese is melted, 3-4 minutes. • Meanwhile, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes. • In a medium bowl, combine mixed salad leaves (reserve a handful for the burgers!) and a drizzle of olive oil. Season to taste. Little cooks: Help sprinkle the cheese over the patties (be careful, the patties are hot!).</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d8096f5ad8e6534c49254/step-cde58740.jpeg"
+    },
+    {
+      "text": "• <p>• Spread each burger bun with mayonnaise. Top with a cheesy plant-based burger patty, some caramelised onion, tomato slices and remaining salad leaves. • Serve with green salad. Enjoy! Little cooks: Take the lead and help build the burgers!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d8096f5ad8e6534c49254/step-88eaf950.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "hf-veggie-gratin",
+  "kind": "meal",
+  "title": "Veggie Gratin",
+  "subtitle": "with Cannelini Beans & a Cheesy Crumb",
+  "description": "Gratin originated in French cuisine and is a culinary technique in which an ingredient is topped with a browned crust. In this recipe we have used our HelloFresh favourite panko breadcrumbs and Parmesan cheese to give this dish an indulgent crust.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-gratin-587c143d9df18146fd044f02",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/rainbow-veggie-gratin-1d6ae4b8.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "egg free",
+    "nut free"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5568698f4dab71a91d8b4569.png"
+    },
+    {
+      "name": "Kale",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "kale",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55593e10fd2cb9641f8b4569-3be1b03b.png"
+    },
+    {
+      "name": "Rosemary",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "rosemary",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554295ffd2cb9da068b456a.png"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 1,
+      "unit": "tin",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c2f4dab71fb718b4569.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be3bcf8b25e165a8b4567.png"
+    },
+    {
+      "name": "Fetta Cheese",
+      "qty": 0.5,
+      "unit": "block",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be7a34dab71aa0a8b4568.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 0.5,
+      "unit": "block",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427be4dab7105578b456b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely slice the red onion, peel and crush the garlic, and peel and dice the carrot. Drain and rinse the cannellini beans, destem and roughly chop the kale, pick and roughly chop the rosemary leaves, crumble the fetta cheese, and finely grate the Parmesan cheese."
+    },
+    {
+      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Add the red onion, garlic and carrot. Cook for 5-6 minutes, or until softened. Add the cannellini beans, chopped kale and rosemary. Cook for 3 minutes, or until the kale has wilted and softened. Add the diced tomatoes and simmer on a low heat for 5 minutes to heat through. Transfer to a medium baking dish.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c143d9df18146fd044f02-1-0-20ebee8e.jpg"
+    },
+    {
+      "text": "• Meanwhile, combine the panko breadcrumbs, crumbled fetta cheese and grated Parmesan cheese in a medium bowl. Season with salt and pepper. Top the vegetables with the crumb mixture. Transfer the dish to the oven to bake for 10-15 minutes, or until golden.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c143d9df18146fd044f02-2-0-253a110b.jpg"
+    },
+    {
+      "text": "• To serve, spoon the gratin between dishes. Enjoy!"
+    }
+  ]
+}

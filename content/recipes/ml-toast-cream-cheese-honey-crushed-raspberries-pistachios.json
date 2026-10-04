@@ -1,0 +1,76 @@
+{
+  "slug": "ml-toast-cream-cheese-honey-crushed-raspberries-pistachios",
+  "kind": "meal",
+  "title": "Toast with Cream Cheese, Honey-Crushed Raspberries & Pistachios",
+  "sourceUrl": "https://www.mealime.com/recipes/toast-cream-cheese-honey-crushed-raspberries-pistachios/20001",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2301/presentation_56f30f08-eb40-4177-9bdf-ed3b5c65cfa1.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cream Cheese",
+      "qty": 150,
+      "unit": "g",
+      "product": "cream-cheese"
+    },
+    {
+      "name": "Pistachios (unsalted)",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "pistachios"
+    },
+    {
+      "name": "Raspberries",
+      "qty": 340,
+      "unit": "g",
+      "product": "raspberries"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "qty": 8,
+      "unit": "slice",
+      "product": "bread"
+    },
+    {
+      "name": "Cardamom (ground)",
+      "product": "ground-cardamom",
+      "pantry": true
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to broil on high and position rack in the upper third of the oven."
+    },
+    {
+      "text": "Wash and dry raspberries; place in a medium bowl along with honey, cardamom, and cinnamon. Using a fork or potato masher, gently crush the raspberries until they reach a chunky, jam-like consistency. Set aside."
+    },
+    {
+      "text": "Arrange bread on a large baking sheet pan. Place in the oven and broil, flipping halfway through, until toasted, 2-3 minutes. Remove from oven."
+    },
+    {
+      "text": "Meanwhile, roughly chop pistachios."
+    },
+    {
+      "text": "Spread cream cheese over the toast, then top with crushed raspberries and pistachios."
+    },
+    {
+      "text": "To serve, divide toasts between plates and enjoy!"
+    }
+  ]
+}

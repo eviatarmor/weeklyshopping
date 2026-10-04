@@ -1,0 +1,174 @@
+{
+  "slug": "hf-garlicky-tomato-chickpeas-and-harissa-rice",
+  "kind": "meal",
+  "title": "Garlicky Tomato Chickpeas & Harissa Rice",
+  "subtitle": "with Salad & Fetta-Yoghurt Sauce",
+  "description": "In this vibrant veggie dish, hearty chickpeas and sweet grated carrot soak up the garlic and herb tomato sauce like a treat.\nThe mildy spiced harissa rice boasts the perfect balance of sweet and smoky flavours, and the fetta-yoghurt brings everything\ntogether, providing creaminess and tang. Don't forget the sprinkle of roasted almonds for some crunch!\nUnfortunately, this week's black beans were in short supply, so we've replaced them with chickpeas. Don't worry, the recipe will be just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/garlicky-tomato-chickpeas-and-harissa-rice-61dd0f20219d460794245011",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlicky-tomato-chickpeas-harissa-rice-b8491d59.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "quick",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Harissa Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "harissa-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c26bafd2cb9dc468b4568.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea59c29e4275caa2553d8-ce6dd9db.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55b9af2ff8b25e7d298b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8deae08b530b326ef12-2fea204a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5b02806d30006c09bd78b472-c43f66ed.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a medium saucepan, melt the butter (for the rice) with a dash of olive oil over a medium heat. Add harissa paste and cook until fragrant, 1 minute. Add basmati rice, the water (for the rice) and vegetable stock pot. Stir to combine, then bring to the boil.\n• Reduce heat to low, then cover with a lid and cook for 10 minutes.\n• Remove from heat and keep covered until rice is tender and water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61dd0f20219d460794245011/step-0dc0de80.jpg"
+    },
+    {
+      "text": "• While rice is cooking, finely chop garlic. Halve cherry tomatoes. Grate carrot. Drain and rinse chickpeas.\n• In a large frying pan, heat a drizzle of olive oil and 1/2 the garlic over a medium-high heat. Cook, stirring, until fragrant, 1 minute.\n• Transfer garlic oil mixture to a small bowl. Add fetta cubes, mashing to combine. Stir in Greek-style yoghurt. Season with pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61dd0f20219d460794245011/step-69e86bef.jpg"
+    },
+    {
+      "text": "• Return frying pan to a high heat with a drizzle of olive oil. Cook chickpeas and carrot, stirring, until slightly golden and tender, 4-5 minutes. Reduce heat to medium. Add tomato paste, garlic & herb seasoning and remaining garlic and cook until fragrant, 1 minute.\n• Add the water (for the sauce) and butter (for the sauce). Simmer until thickened, 3-4 minutes. Season with salt and pepper to taste.\n• Meanwhile, combine baby spinach leaves, cherry tomatoes and a drizzle of white wine vinegar and olive oil in a medium bowl. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61dd0f20219d460794245011/step-4900a1c5.jpg"
+    },
+    {
+      "text": "• Roughly chop roasted almonds.\n• Divide harissa rice between bowls. Top with garlicky tomato chickpeas and a dollop of fetta-yoghurt sauce. Sprinkle with almonds.\n• Serve with salad.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61dd0f20219d460794245011/step-19421376.jpg"
+    }
+  ]
+}

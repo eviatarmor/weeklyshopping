@@ -1,0 +1,156 @@
+{
+  "slug": "hf-sweet-soy-pumpkin-and-garlic-rice",
+  "kind": "meal",
+  "title": "Honey-Soy Pumpkin & Ginger Greens Bowl",
+  "subtitle": "with Garlic Rice & Sesame Dressing",
+  "description": "If you can't go past the honey soy combo, wait till you try it on roasted pumpkin! It works a treat - especially when sprinkled with fragrant sesame seeds and teamed with zingy Asian greens and baby broccoli. Serve with our nutty sesame dressing to bring it all together. \nThis recipe is under 650kcal per serving.\nDue to local availability, the ingredients you receive\nmay be a little different to what's pictured. It'll be just\nas delicious, just follow your recipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-soy-pumpkin-and-garlic-rice-67f858d0cade9b9f0ace695f",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W44_AU_R6468-11_Main_high-3be9984c.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "hellofresh",
+    "korean",
+    "classic",
+    "vegetarian",
+    "noodle-stir-fry",
+    "pan-asian-plates"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Asian Greens",
+      "qty": 2,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c23405d840b2be3497-766f473c.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f2-90eac6a7.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238583405d840b2be3cf6-9b48336b.png"
+    },
+    {
+      "name": "Sesame Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f3-78f88c67.png"
+    },
+    {
+      "name": "Mixed Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6667e1a5fa88201a253bbf6e-888da2e4.png"
+    },
+    {
+      "name": "Sesame Oil Blend",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-oil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237fdb33a6ad8f0f05b73-ab01e755.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4aef-e6199145.png"
+    },
+    {
+      "name": "Baby Broccoli",
+      "qty": 1,
+      "product": "broccolini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cf3405d840b2be34e0-8d5c76d3.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de6e9690d86caac926ef-89cab033.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddb3635bf0b638cfb93d-59b9ad8a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. <br>• Cut pumpkin into 1cm-thick wedges.<br>• Place pumpkin on a lined oven tray. Drizzle with <br>olive oil, season with salt and pepper and toss <br>to coat.<br>• Roast for 15 minutes (it will finish roasting in <br>step 4!). <br>TIP: Peel the pumpkin, if preferred! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68709912c30d33981f992d7c/step-e3e4b300.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop garlic.<br>• In a medium saucepan, heat the butter over <br>medium heat. Cook half the garlic until fragrant, <br>1-2 minutes.<br>• Add the water and a generous pinch of salt, then <br>bring to the boil.<br>• Add jasmine rice. Stir, cover with a lid and reduce <br>heat to low. Cook for 10 minutes, then remove <br>from heat.<br>• Keep covered until rice is tender and water is <br>absorbed, 10 minutes. <br>TIP: The rice will finish cooking in its own steam, so <br>don’t peek! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68709912c30d33981f992d7c/step-3aef3510.jpg"
+    },
+    {
+      "text": "• <p>• While rice is cooking, roughly chop Asian greens.<br>• Trim baby broccoli. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68709912c30d33981f992d7c/step-baefe020.jpg"
+    },
+    {
+      "text": "• <p>• In a small bowl, combine the soy sauce and honey.<br>• Drizzle roasted pumpkin with the honey-soy<br>mixture, then sprinkle with mixed sesame seeds.<br>• Roast pumpkin until golden and tender, a further <br>5-10 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68709912c30d33981f992d7c/step-23162730.jpg"
+    },
+    {
+      "text": "• <p>• While the pumpkin is finishing, heat a large frying <br>pan over medium-high heat with sesame oil blend.<br>• Cook baby broccoli until just tender, 5-6 minutes.<br>• Add Asian greens, ginger paste and remaining <br>garlic and cook, stirring, until greens are slightly <br>wilted, 1-2 minutes.<br>• Season to taste, then remove from heat. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68709912c30d33981f992d7c/step-0ca6d240.jpg"
+    },
+    {
+      "text": "• <p>• Divide garlic rice between bowls. <br>• Top with ginger greens and honey-soy pumpkin, <br>spooning over any sauce from the oven tray. <br>• Drizzle over sesame dressing. <br>• Tear over coriander leaves to serve. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68709912c30d33981f992d7c/step-674c0550.jpg"
+    }
+  ]
+}

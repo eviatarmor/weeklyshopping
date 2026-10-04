@@ -1,0 +1,85 @@
+{
+  "slug": "ep-crumbed-tofu-and-katsu-sauce",
+  "kind": "meal",
+  "title": "Crumbed Tofu & Stir-Fried Veggies",
+  "subtitle": "with Golden Curry Sauce & Garlic Rice",
+  "description": "Golden crumbed tofu combined with our signature new katsu sauce makes for a delicious dinner with a totally Japanese twist.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/crumbed-tofu-and-katsu-sauce-67f8424ecade9b9f0acdfcc5",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/657aa548a65f6d71569fc10a-607b0f11-6e843b7f.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "japanese",
+    "kid friendly",
+    "rice"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f83a730d0527cba53a7071-9cd6b51f.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fdf899d2847d730ba0879b-4deeca38.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd1-a177488d.png"
+    },
+    {
+      "name": "Japanese Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "katsu-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237743405d840b2be3847-6e47a903.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723743b33a6ad8f0f05838-94b38e28.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop or crush garlic. In a medium saucepan, heat 1/2 the butter with a dash of olive oil over medium heat. <br>• Cook 1/2 the garlic until fragrant, 1-2 mins. Add jasmine rice, the water (for the rice) and a generous pinch of salt, stir, then bring to the boil. <br>• Reduce heat to low and cover with a lid. <br>• Cook for 10 mins, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6859e1ce971405a9ee1f37ae/step-21707c00.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice carrot and zucchini into half-moons. <br>• Pat firm tofu fry with a paper towel. Cut into 1cm steaks. <br>• In a shallow bowl, combine the plain flour and salt. In a second shallow bowl, whisk the egg. In a third shallow bowl, place panko breadcrumbs. Dip tofu into flour to coat, then into egg, and finally in breadcrumbs. Set aside on a plate. <br>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook carrot and zucchini, until tender, 4-5 mins. <br>• Add remaining garlic and cook, stirring, until fragrant, 1 min. Season to taste. Transfer to a bowl and cover to keep warm.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6859e1ce971405a9ee1f37ae/step-589a2710.jpeg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with enough olive oil to coat the base. <br>• Cook crumbed tofu in batches until golden and cooked through, 3-5 mins each side. Transfer to a paper towel-lined plate. <br>• Wipe out frying pan and return to medium-high heat. Cook Japanese curry paste and the water (for the sauce), stirring to combine, until slightly reduced, 2-3 mins. <br>• Add the brown sugar and remaining butter and stir until melted and combined, 1 min.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6859e1ce971405a9ee1f37ae/step-3b12d220.jpeg"
+    },
+    {
+      "text": "• <p>• Divide rice and veggies between bowls. Top with tofu. <br>• Pour over golden curry sauce to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6859e1ce971405a9ee1f37ae/step-03953330.jpeg"
+    }
+  ]
+}

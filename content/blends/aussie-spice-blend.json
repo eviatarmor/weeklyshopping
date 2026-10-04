@@ -1,0 +1,67 @@
+{
+  "slug": "aussie-spice-blend",
+  "kind": "blend",
+  "title": "Aussie Spice Blend",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (paprika, garlic, onion and herbs). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [
+    "Aussie Spice Mix",
+    "Aussie Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Dried Thyme",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-thyme"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

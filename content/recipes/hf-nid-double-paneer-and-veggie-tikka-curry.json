@@ -1,0 +1,150 @@
+{
+  "slug": "hf-nid-double-paneer-and-veggie-tikka-curry",
+  "kind": "meal",
+  "title": "Double Pan-Seared Paneer & Veggie Tikka Curry",
+  "subtitle": "with Rapid Rice & Coriander",
+  "description": "In 4 short steps, watch this delightful curry appear before your eyes. Brimming with capsicum, onion and passata, as well as some staple paneer, this tikka curry gets a major tick of approval.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-paneer-and-veggie-tikka-curry-67fdfc67d2847d730ba087b3",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R09_W10_AUS_Main_high-e11623d8.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "hellofresh",
+    "indian",
+    "air fryer friendly",
+    "classic",
+    "naturally gf",
+    "high protein",
+    "quick",
+    "vegetarian",
+    "south/southeastasian",
+    "noodle-stir-fry"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3947-37d298e9.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Mild North Indian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mild-north-indian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379cb33a6ad8f0f059c6-3aeaf42e.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237bd105c9621030b4d51-e907be7f.png"
+    },
+    {
+      "name": "Paneer Cheese",
+      "qty": 2,
+      "product": "paneer",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/681c54aaf5ad8e6534c47192-5c348e8f.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dda0635bf0b638cfb911-4f82f7a6.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89aa34264524ca97a5ad7-a1fef2fd.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. Half-fill a medium saucepan with boiling water.<br>• Add basmati rice and a pinch of salt and cook, uncovered, over high heat until tender, 12 minutes. Drain and return to the saucepan.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689c198283f90c073aba9fa0/step-01cfdd00.jpg"
+    },
+    {
+      "text": "• <p>• Cut paneer into 2cm cubes. <br>• Heat a large frying pan with a drizzle of olive oil over medium-high heat and cook paneer, tossing, until golden brown, 3-5 minutes. Set aside on a plate.<br>• While paneer is cooking, finely chop brown onion and garlic. <br>• Roughly chop capsicum. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689c198283f90c073aba9fa0/step-7df89110.jpg"
+    },
+    {
+      "text": "• <p>• Return the frying pan to medium-high heat with a drizzle of olive oil. Add onion and capsicum and cook, tossing, until softened, 4-5 minutes.<br>• Add mild North Indian spice blend, Mumbai spice blend and garlic and cook until fragrant, 1 minute.<br>• Add passata, the water, brown sugar and butter and simmer until slightly thickened, 1-2 minutes.<br>• Remove pan from heat, then add baby spinach leaves, Greek-style yoghurt and return paneer to the pan. Stir until combined. Season with salt and pepper to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689c198283f90c073aba9fa0/step-03753620.jpg"
+    },
+    {
+      "text": "• <p>• Divide rapid rice and paneer and veggie tikka curry between bowls.<br>• Tear over coriander to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689c198283f90c073aba9fa0/step-177e7f30.jpg"
+    }
+  ]
+}

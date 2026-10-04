@@ -1,0 +1,164 @@
+{
+  "slug": "hf-street-style-buttery-paneer-pav-bhaji",
+  "kind": "meal",
+  "title": "Street-Style Buttery Paneer Pav Bhaji",
+  "subtitle": "with Spiced Mashed Veg, Toasted Buns & Mango Chutney",
+  "description": "Transport your tastebuds straight to the bustling streets of Mumbai with this iconic comfort dish. We’ve given the classic textile-mill staple a delicious upgrade, pairing a rich, buttery paneer with a deeply spiced, comforting vegetable mash. Scoop it all up with toasted rolls, then cut through the richness with a burst of fresh coriander and a zesty squeeze of citrus.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/street-style-buttery-paneer-pav-bhaji-692ce01a126207051adc9582",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1008_W35_AU_R54638-3main_high-435e6f09.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "takeout-favorites",
+    "cuisine-spotlight",
+    "classic"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6b-38d72c27.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Paneer Cheese",
+      "qty": 1,
+      "product": "paneer",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/681c54aaf5ad8e6534c47192-5c348e8f.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3947-37d298e9.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Bake-At-Home Burger Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f83340cade9b9f0acdb254-cc369200.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Mango Chutney",
+      "qty": 1,
+      "product": "mango-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6a1ce62156363d596eb64740-3449536d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddcb635bf0b638cfb975-7e1541d4.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de84635bf0b638cfba92-748620bb.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddb09690d86caac925c0-69695781.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. <br>• Peel potato and cut into large chunks. <br>• Cut cauliflower into small florets. <br>• Finely chop red onion (see ingredients) and garlic. <br>• Thinly slice long chilli (if using).  <br>• Slice lemon into wedges. <br>• Cut paneer into 1cm chunks.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fc16e4158183d5d9196/step-146ad700.jpg"
+    },
+    {
+      "text": "• <p>• Half-fill a large saucepan with boiling water.  <br>• Cook potato and cauliflower in the boiling  <br>water over high heat until easily pierced with a fork,  <br>15-20 minutes. <br>• Drain and return to the pan. Add half Mumabi spice <br>blend, the butter (for the mash) and a good pinch <br>of salt. Mash until smooth.   <br>TIP: Save time and get more fibre by leaving the potato <br>unpeeled! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fc16e4158183d5d9196/step-c81eec10.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over <br>medium-hight heat. <br>• Cook half the chopped onion, stirring regularly, <br>until softened, 5-6 minutes.  <br>• In the last minute, add tomato paste and garlic, <br>stirring until fragrant.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fc16e4158183d5d9196/step-0b0d2720.jpg"
+    },
+    {
+      "text": "• <p>• Reduce heat to medium, add paneer, the remaining <br>Mumbai spice blend and the water. Simmer, gently <br>stirring occasionally, until paneer is heated through <br>and tender, 3-4 minutes.  <br>• Add mashed veggies and the softened butter. Stir <br>to combine.  <br>• Remove from heat and add a generous squeeze of <br>lemon juice.   <br>TIP: Add a splash more water if the bhaji looks too <br>thick. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fc16e4158183d5d9196/step-661ff430.jpg"
+    },
+    {
+      "text": "• <p>• Just before serving, halve bake-at-home burger <br>buns and toast or grill to your liking.  <br>• Spread the butter (for the bread) over cut sides of <br>the buns. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fc16e4158183d5d9196/step-dd36c340.jpg"
+    },
+    {
+      "text": "• <p>• Divide paneer bhaji between bowls.  <br>• Top with red onion and chilli. Tear over coriander. <br>• Serve with toasted buns, mango chutney and any <br>remaining lemon wedges. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4f9fc16e4158183d5d9196/step-1c255f50.jpg"
+    }
+  ]
+}

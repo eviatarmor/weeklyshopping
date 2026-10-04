@@ -1,0 +1,168 @@
+{
+  "slug": "hf-baked-gnocchi-with-walnuts",
+  "kind": "meal",
+  "title": "Baked Gnocchi with Walnuts",
+  "description": "In need of a big warm hug, pair of ugg boots and a nice fluffy blanket? Or simply need some carbs to get through the rest of the week? This gooey yummy gnocchi dish had comfort food written all over it. Put your feet up and enjoy!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/baked-gnocchi-with-walnuts-5252b1b1301bbf46038b473b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5252b1b1301bbf46038b473b.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Walnuts",
+      "qty": 40,
+      "unit": "g",
+      "product": "walnuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682d72fd2cb9bf248b4567.png"
+    },
+    {
+      "name": "Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543078fd2cb9da068b456e.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427be4dab7105578b456b.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 100,
+      "unit": "ml",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Buffalo Mozarella",
+      "qty": 1,
+      "unit": "ball",
+      "product": "mozzarella",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682df5f8b25e643e8b4567.png"
+    },
+    {
+      "name": "HelloFresh Nutmeg",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "nutmeg",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e34f8b25e723e8b4567.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682ecb4dab710f1c8b4568.png"
+    },
+    {
+      "name": "Gnocchi",
+      "qty": 500,
+      "unit": "g",
+      "product": "gnocchi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682ef6f8b25e643e8b4568.png"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556555fafd2cb9c3608b456c.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 20,
+      "unit": "g",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55654359f8b25eaa0a8b4568.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b4efd2cb9070c8b4568.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Pepper",
+      "product": "black-pepper",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672254f8b25e402f8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/ 180°C fan-forced."
+    },
+    {
+      "text": "• Spread the walnuts on a lined baking tray and bake in the oven to 2-3 minutes or until golden brown, then set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b1301bbf46038b473b/step_5568358f418b4.jpg"
+    },
+    {
+      "text": "• Place the yoghurt, parmesan, milk, and mozarella in a saucepan and stir over a high heat for 3-4 minutes until melted. Whisk in the nutmeg, flour, and mustard Season with salt and pepper, then turn off heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b1301bbf46038b473b/step_5568358f51497.jpg"
+    },
+    {
+      "text": "• Cook gnocchi according to packet instructions. You want to make sure you wait until all of the gnocchi is floating before draining it. Otherwise you run the risk of it being chewy!"
+    },
+    {
+      "text": "• Add the beaten egg to the cheese sauce with the walnuts and finely chopped parsley, stirring to combine. Divide the gnocchi evenly between ovenproof dishes or bowls, pour the sauce over the top and sprinkle with the breadcrumbs. Place int the oven for 8-10 minutes or until golden.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b1301bbf46038b473b/step_5568358f64f06.jpg"
+    },
+    {
+      "text": "• Serve the baked gnocchi with a side of baby spinach tossed with the sliced tomato and chopped cucumber, and drizzled with balsamic vinegar."
+    }
+  ]
+}

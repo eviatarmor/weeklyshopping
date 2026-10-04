@@ -1,0 +1,160 @@
+{
+  "slug": "hf-nid-brie-and-mushroom-risotto",
+  "kind": "meal",
+  "title": "Oven-Baked Brie & Mushroom Risotto",
+  "subtitle": "with Caramelised Pears & Silverbeet",
+  "description": "This risotto is loaded with all of the good stuff. Meaty stuffed mushrooms, charred onion and the best of all, double cream brie. Serve it all up with caramelised pears and you'll have a risotto worth drooling over.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-brie-and-mushroom-risotto-680592ceba6118bd6bcc82b1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W27_AU_R43628-2_Main_F2_high-e4da4122.jpg",
+  "servings": 2,
+  "prepMinutes": 60,
+  "tags": [
+    "hellofresh",
+    "italian",
+    "vegetarian",
+    "classic",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237bc3405d840b2be39c5-48d979b1.png"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "product": "silverbeet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238033405d840b2be3b0d-33091177.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Double Cream Brie",
+      "qty": 1,
+      "product": "brie",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59ed30c6c288004d24584ca1-8612f98a.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805105c9621030b4f0e-0bf45141.png"
+    },
+    {
+      "name": "Herb & Mushroom Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "herb-and-mushroom-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65e4f5c51101bf67206067d2-a7a7c4af.png"
+    },
+    {
+      "name": "Risotto-Style Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "white-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6656647f3c6f67065179ff42-ae9b49ba.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Balsamic Vinegar*",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de792793e8cdd8467fbb-76f7bd39.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fc836efe44baceeadf71f6-097eb730.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fc8393fe44baceeadf71fd-8811b00e.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced.<br>• Thinly slice onion (see ingredients). <br>• Thinly slice pear into wedges. <br>• Thinly slice silverbeet. <br>• Slice lemon into wedges. <br>• Finely chop garlic.<br>• Roughly chop double cream Brie. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681431aa80e0f84c774d70f4/step-887cc700.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil<br>over medium-high heat. Cook onion and sliced<br>mushrooms, tossing, until tender, 6-8 minutes.<br>• Add herb &amp; mushroom seasoning and garlic<br>and cook until fragrant, 1 minute. <br>• Add risotto-style rice and stir to coat. <br>• Add the water (for the rice) and stock <br>concentrate.<br>• Bring to the boil, then remove from heat. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681431aa80e0f84c774d70f4/step-0f66ec10.jpg"
+    },
+    {
+      "text": "• <p>• Transfer risotto to a baking dish.<br>• Cover tightly with foil and bake until liquid is <br>absorbed and rice is ‘al dente’, 24-28 minutes. </p> <p><br>TIP: ‘Al dente’ rice is cooked through but still slightly <br>firm in the centre. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681431aa80e0f84c774d70f4/step-c2dda820.jpg"
+    },
+    {
+      "text": "• <p>• When risotto has 10 minutes remaining, wash <br>out frying pan and return to medium-high heat <br>with the butter.<br>• Cook pear wedges, turning occasionally, until <br>softened, 2-3 minutes. <br>• Reduce heat to medium-low, then carefully add <br>the balsamic vinegar, brown sugar and water <br>(for the pear) and cook until dark and sticky, <br>3-5 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681431aa80e0f84c774d70f4/step-108ed730.jpg"
+    },
+    {
+      "text": "• <p>• Remove risotto from oven and stir through the <br>chopped Brie until melted. <br>• Stir in silverbeet, a good squeeze of lemon <br>juice, until combined and slightly wilted. Season <br>withh salt and pepper to taste. Stir through a <br>splash of water to loosen risotto, if needed. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681431aa80e0f84c774d70f4/step-48a4fc40.jpg"
+    },
+    {
+      "text": "• <p>• Divide oven-baked brie and mushroom risotto <br>between bowls. Top with caramelised pears. <br>• Serve with any remaining lemon wedges. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681431aa80e0f84c774d70f4/step-d0636150.jpg"
+    }
+  ]
+}

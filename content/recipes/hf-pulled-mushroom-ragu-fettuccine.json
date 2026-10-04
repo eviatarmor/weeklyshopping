@@ -1,0 +1,162 @@
+{
+  "slug": "hf-pulled-mushroom-ragu-fettuccine",
+  "kind": "meal",
+  "title": "Pulled Mushroom Ragu & Fettuccine",
+  "subtitle": "with Garlic-Rosemary Pangrattato & Pear Salad",
+  "description": "Craving a big bowl of pasta with slow-cooked flavours that comes together fast? Our rich ragu and fettuccine dish uses one of our new\nveggie alternative proteins - a plant-based slow braised meat, made primarily from mushrooms - for absolute decadence with every bite!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/pulled-mushroom-ragu-fettuccine-6045529d470a101ca61ddd95",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pulled-mushroom-ragu-fettuccine-01fdd04f.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/560b7cc8fd2cb9a5278b4568.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Rosemary",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "rosemary",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554295ffd2cb9da068b456a.png"
+    },
+    {
+      "name": "Plant-Based Slow Braised Meat",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60231da7c0c6f51ec35dba3d-f4595bf7.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be3bcf8b25e165a8b4567.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Fettuccine",
+      "qty": 1,
+      "unit": "packet",
+      "product": "fettuccine",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c200ef8b25e9d648b4568.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Olive Oil",
+      "qty": 1,
+      "unit": "tin",
+      "product": "olive-oil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9e2ff0ae08b543ad1ff8e2-3106a226.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 2,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Italian Herbs",
+      "qty": 0.5,
+      "unit": "sachet",
+      "product": "italian-herbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/58a0f5d099052d1d9d0be7a4-dc0be0ff.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baad5c6ae08b53fa4663602-34f15c81.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc68fd9ae08b52185291032-1726888f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Bring a large saucepan of salted water to the boil.\n• Thinly slice the pear. Finely chop the garlic and\n• brown onion. Grate the carrot. Pick and finely\n• chop the rosemary. Roughly chop the plant-based slow braised meat. In a large frying pan,\n• heat a drizzle of olive oil over a medium-high heat.\n• Add the panko breadcrumbs (see ingredients)\n• and toast, tossing, until golden, 2-3 minutes. Add\n• the rosemary and 1/3 of the garlic and cook until\n• fragrant, 1 minute. Transfer to a bowl and season\n• to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6045529d470a101ca61ddd95/step-f47253ea.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium-high heat with\n• a drizzle of olive oil. Add the onion and carrot and\n• cook until softened, 6-8 minutes. Add the garlic\n• & herb seasoning and remaining garlic and cook\n• until fragrant, 1 minute. Add a drizzle of olive oil\n• and the plant-based slow braised meat and\n• cook, until broken down and slightly browned,\n• 3-5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6045529d470a101ca61ddd95/step-ba6c694e.jpg"
+    },
+    {
+      "text": "• While the veggies are cooking, cook the fettuccine\n• in the boiling water until 'al dente', 9 minutes.\n• Reserve some pasta water (1/2 cup for 2 people\n• / 1 cups for 4 people), drain, then return to the\n• saucepan with a drizzle with olive oil to prevent\n• the fettuccine sticking together.\n• TIP: 'Al dente' pasta is cooked through but still\n• slightly firm in the centre.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6045529d470a101ca61ddd95/step-67f69c75.jpg"
+    },
+    {
+      "text": "• Add the diced tomatoes with garlic & olive oil,\n• butter, reserved pasta water, vegetable stock\n• (2 cubes for 2 people / 4 cubes for 4 people) and\n• Italian herbs (see ingredients) to the frying pan.\n• Stir to combine. Reduce the heat to medium and\n• simmer until slightly thickened, 2-3 minutes.\n• TIP: Add a splash more reserved pasta water if the\n• sauce looks dry!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6045529d470a101ca61ddd95/step-2ee5333e.jpg"
+    },
+    {
+      "text": "• Add the cooked fettuccine and 1/2 the grated\n• Parmesan cheese to the ragu. Toss to coat and\n• season to taste. In a large bowl, combine a drizzle\n• of balsamic vinegar and olive oil. Season with\n• salt and pepper. Add the pear and spinach &\n• rocket mix. Toss to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6045529d470a101ca61ddd95/step-0e24fae7.jpg"
+    },
+    {
+      "text": "• Divide the pulled mushroom ragu and fettuccine\n• between bowls. Sprinkle over the garlic-rosemary\n• pangrattato and the remaining Parmesan cheese.\n• Serve with the pear salad.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6045529d470a101ca61ddd95/step-d4314e0a.jpg"
+    }
+  ]
+}

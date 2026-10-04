@@ -1,0 +1,12 @@
+# Copy to terraform.tfvars (gitignored) and fill in. Never commit the real file.
+cloudflare_api_token = "..."
+account_id           = "..."
+team_name            = "weeklyshopping"
+workers_subdomain    = "your-subdomain"
+google_client_id     = "....apps.googleusercontent.com"
+google_client_secret = "..."
+
+household_members = [
+  { email = "first.person@gmail.com", name = "First" },
+  { email = "second.person@gmail.com", name = "Second" },
+]

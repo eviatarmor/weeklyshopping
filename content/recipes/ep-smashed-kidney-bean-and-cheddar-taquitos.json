@@ -1,0 +1,145 @@
+{
+  "slug": "ep-smashed-kidney-bean-and-cheddar-taquitos",
+  "kind": "meal",
+  "title": "Smashed Kidney Bean & Cheddar Taquitos",
+  "subtitle": "with Cucumber Salsa & Yoghurt",
+  "description": "Who said veggie dishes had to be boring? Bring some colour and crunch to your table tonight with these bean and veggie loaded tortillas, topped with a vibrant cucumber salsa.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/smashed-kidney-bean-and-cheddar-taquitos-67de33ec33388b05bf552a04",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y25_R4007_CW19_AU_Main_R_high-0bb1a246.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "mexican",
+    "spicy",
+    "tacos-enchilada"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Spicy Taco Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "spicy-taco-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/613ecfad5defb51feb7d0ecf-ec9ffc2c.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c68-7ea9b6d2.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae2-bdf7aecc.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a8-15fc822b.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b4960-b67728c7.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237e8b33a6ad8f0f05b12-3e497b3f.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92531-6c19cc26.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0d-9e84e0fa.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat grill to high. Grate carrot. Finely chop cucumber. Thinly slice onion. Finely chop or crush garlic.<br>• Drain and rinse red kidney beans. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67de33ec33388b05bf552a04/step-99af9400.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook carrot and onion until tender, 3-4 mins.<br>• Add spicy taco seasoning (see ingredients), tomato paste and garlic, stirring until fragrant, 1-2 mins.<br>• Stir in kidney beans, the stock powder, water and the butter and simmer, until slightly reduced, 1-2 mins. Season with salt and pepper to taste. (Add more water if the mixture looks dry!) Lightly mash kidney beans with a fork.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67de33ec33388b05bf552a04/step-b4713c10.jpg"
+    },
+    {
+      "text": "• <p>• Preheat grill to medium-high.<br>• Lay mini flourtortillas on a chopping board. Spoon kidney bean mixture down the centre and sprinkle over Cheddar cheese.<br>• Roll tortillas up tightly and place, seam-side down, in a baking dish, ensuring they fit snugly. Brush or spray with olive oil and grill until warmed through and golden, 5-8 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67de33ec33388b05bf552a04/step-f7187920.jpg"
+    },
+    {
+      "text": "• <p>• In a small bowl, combine cucumber and a drizzle of white wine vinegar and olive oil. Season.<br>• Divide smashed kidney bean taquitos between plates. Dollop over Greek-style yoghurt. Top with cucumber salsa to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67de33ec33388b05bf552a04/step-2edb2e30.jpg"
+    }
+  ]
+}

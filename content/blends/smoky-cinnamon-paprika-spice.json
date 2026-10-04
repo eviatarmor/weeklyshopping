@@ -1,0 +1,71 @@
+{
+  "slug": "smoky-cinnamon-paprika-spice",
+  "kind": "blend",
+  "title": "Smoky Cinnamon Paprika Spice",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 1 ground cloves, 8 onion powder, 8 ground cinnamon, 6 smoked paprika, 16 mustard powder, 24 sweet paprika, 24 white sugar.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Smokey Cinnamon Paprika Spice",
+    "Smoky Cinnamon Paprika Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Cloves",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-cloves"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Mustard Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "mustard-powder"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.875,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "White Sugar",
+      "qty": 0.875,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

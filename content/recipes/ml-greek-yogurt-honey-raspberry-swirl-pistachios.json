@@ -1,0 +1,56 @@
+{
+  "slug": "ml-greek-yogurt-honey-raspberry-swirl-pistachios",
+  "kind": "meal",
+  "title": "Greek Yogurt with Honey-Raspberry Swirl & Pistachios",
+  "sourceUrl": "https://www.mealime.com/recipes/greek-yogurt-honey-raspberry-swirl-pistachios/22439",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2542/presentation_e358ca9b-8f22-40c0-911d-8cdbbb1a8585.jpeg",
+  "servings": 4,
+  "prepMinutes": 8,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pistachios (unsalted)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pistachios"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "qty": 3,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Raspberries",
+      "qty": 340,
+      "unit": "g",
+      "product": "raspberries"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash and dry raspberries. Place in a medium bowl along with honey and cinnamon. Using a fork or potato masher, gently crush the raspberries until they reach a chunky, jam-like consistency. Set aside."
+    },
+    {
+      "text": "Roughly chop pistachios."
+    },
+    {
+      "text": "To serve, divide yogurt between bowls. Top with crushed raspberries, then swirl with the yogurt using a spoon. Sprinkle with pistachios and enjoy!"
+    }
+  ]
+}

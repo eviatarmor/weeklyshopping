@@ -1,0 +1,144 @@
+{
+  "slug": "hf-vegetarian-moroccan-style-haloumi",
+  "kind": "meal",
+  "title": "(Vegetarian) Moroccan-Style Haloumi",
+  "subtitle": "with Freekeh & Yoghurt Dressing",
+  "description": "Freekeh is roasted so it has a wonderful depth of flavour. When paired with Moroccan spiced haloumi (is haloumi our favourite cheese? We can’t decide, but when we take a bite of this we think it might be), it really results in something truly delicious.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/vegetarian-moroccan-style-haloumi-5af2a12730006c6dd11109c2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5af2a12730006c6dd11109c2-3e819425.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "moroccan",
+    "low calorie"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Roma Tomato",
+      "qty": 1,
+      "product": "roma-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57989863b2baaf083c8b4567.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "block",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Freekeh",
+      "qty": 1.5,
+      "unit": "packet",
+      "product": "freekeh",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/58d1f12b3bddb552546e2c72-b9e77a0f.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 0.5,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "tub",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Chermoula Spice Mix",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57f34b05b0a36043e1449a41-1603d9af.png"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "tsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd98330006c2f2b6ba242-2fea204a.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ae6cf9f30006c0f1d0b6ed3-2fea204a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a medium saucepan, bring the water (for the freekeh) to the boil. Finely chop the mint leaves. Cut the haloumi lengthways into 1 cm slices. Finely chop the Roma tomato. Finely chop the cucumber. Thinly slice the spring onion.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5af2a12730006c6dd11109c2/step-dd8ad82a.jpg"
+    },
+    {
+      "text": "• Rinse the freekeh (see ingredients list). TIP:  Use the suggested amount of freekeh so the dish is balanced, just the way we planned! Add the freekeh to the saucepan of boiling water and crumble in the vegetable stock cube (check ingredients list for the amount). Simmer for 10-12 minutes, or until tender. Drain and set aside. TIP:  The freekeh is ready when it has softened but still retains some bite.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5af2a12730006c6dd11109c2/step-dae601d2.jpg"
+    },
+    {
+      "text": "• While the freekeh is cooking, combine the Greek yoghurt, honey, 1/2 the mint and the water (for the yoghurt) in a small bowl. Squeeze in some lemon juice (2 tsp for 2 people / 1 tbs for 4 people). TIP:  Feel free to add more or less lemon juice, depending on your taste. Slice the remaining lemon into wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5af2a12730006c6dd11109c2/step-9a4c5726.jpg"
+    },
+    {
+      "text": "• In a medium bowl, place the haloumi and the chermoula spice blend. Add a drizzle of olive oil and toss to coat the haloumi. Heat a drizzle of olive oil in a medium frying pan over a medium-high heat. Add the haloumi and cook for 2 minutes on each side, or until golden brown. TIP:  Don’t worry if the spice chars slightly in the pan, it will add a smoky flavour to the dish.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5af2a12730006c6dd11109c2/step-ad267e31.jpg"
+    },
+    {
+      "text": "• In a large bowl, add the freekeh, tomato, cucumber and spring onion. Toss to combine. Season to taste with salt and pepper.  TIP:  Seasoning is key here, so taste, season with salt and pepper and taste again - keeping in mind that haloumi is salty!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5af2a12730006c6dd11109c2/step-b4ace241.jpg"
+    },
+    {
+      "text": "• Divide the freekeh between bowls and top with the haloumi. Drizzle over the yoghurt dressing and serve any remaining lemon wedges on the side. DTIP:  For the low calorie option, serve with 1/2 the yoghurt dressing. Garnish with the remaining mint.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5af2a12730006c6dd11109c2/step-f1fd102d.jpg"
+    }
+  ]
+}

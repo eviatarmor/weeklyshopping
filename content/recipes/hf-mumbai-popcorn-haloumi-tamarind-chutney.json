@@ -1,0 +1,152 @@
+{
+  "slug": "hf-mumbai-popcorn-haloumi-tamarind-chutney",
+  "kind": "meal",
+  "title": "Mumbai Popcorn Haloumi & Tamarind Chutney",
+  "subtitle": "with Cucumber Salsa & Garlic Rice",
+  "description": "The best part about this recipe is that you can pack a little bit of each ingredient onto your fork and enjoy all of the flavours in one\nhit! Start by adding some of our go-to basmati rice as the foundation, some colourful cucumber salsa to follow, then pop on top some\nMumbai-spiced popcorn haloumi to complete the stack. Now all that is left is for you to devour it before we do!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mumbai-popcorn-haloumi-tamarind-chutney-6358b56c88b83589f60746a3",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mumbai-popcorn-haloumi-tamarind-chutney-6c3a93fc.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "cornflour",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/558b43cffd2cb9a64e8b456c-3cf223c1.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Tamarind Chutney",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tamarind-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/634c948e13532a61e80a77fc-77e228c6.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d9d8bc2d4f0c9006c3a9cef-58b68ca4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a medium saucepan, heat the butter with a dash of olive oil over medium heat.\n• Cook garlic paste until fragrant, 1-2 minutes. Add basmati rice, the water and a generous pinch of salt, stir, then bring to the boil.\n• Reduce heat to low and cover with a lid. Cook for 10 minutes, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6358b56c88b83589f60746a3/step-29b12594.jpg"
+    },
+    {
+      "text": "• While rice is cooking, roughly chop tomato and cucumber.\n• Cut haloumi into bite-sized pieces.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6358b56c88b83589f60746a3/step-c4fed3f9.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine tomato, cucumber, mixed salad leaves and a drizzle of white wine vinegar and olive oil. Season with a pinch of salt and pepper.\n• In another medium bowl, combine haloumi and cornflour (see ingredients).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6358b56c88b83589f60746a3/step-1f15e7d2.jpg"
+    },
+    {
+      "text": "• When rice has 10 minutes remaining, in a large frying pan, heat enough olive oil to cover the base over medium-high heat.\n• When oil is hot, shake excess cornflour off and cook haloumi, tossing, until golden brown, 2-4 minutes.\n• Transfer to a paper towel-lined plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6358b56c88b83589f60746a3/step-c2e8c5fa.jpg"
+    },
+    {
+      "text": "• Wipe out frying pan and return to medium-high heat with a drizzle of olive oil.\n• Cook Mumbai spice blend and ginger paste, stirring, until fragrant, 1 minute.\n• Stir in coconut milk and simmer until slightly reduced, 1-2 minutes.\n• Add cooked haloumi and toss to coat. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6358b56c88b83589f60746a3/step-d5c0d378.jpg"
+    },
+    {
+      "text": "• Divide garlic rice between bowls.\n• Top with popcorn haloumi and spoon over Mumbai sauce.\n• Serve with tamarind chutney and cucumber salad. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6358b56c88b83589f60746a3/step-64db6e22.jpg"
+    }
+  ]
+}

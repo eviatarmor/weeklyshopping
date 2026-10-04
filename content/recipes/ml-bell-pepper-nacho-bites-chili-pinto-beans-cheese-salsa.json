@@ -1,0 +1,78 @@
+{
+  "slug": "ml-bell-pepper-nacho-bites-chili-pinto-beans-cheese-salsa",
+  "kind": "meal",
+  "title": "Bell Pepper Nacho Bites with Chili Pinto Beans, Cheese & Salsa",
+  "sourceUrl": "https://www.mealime.com/recipes/bell-pepper-nacho-bites-chili-pinto-beans-cheese-salsa/23321",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2608/presentation_1274b499-a661-4eee-8a72-0f9e4d9adc8d.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Green Capsicum",
+      "qty": 3,
+      "product": "green-capsicum"
+    },
+    {
+      "name": "Pinto Beans",
+      "qty": 850,
+      "unit": "g",
+      "product": "green-beans"
+    },
+    {
+      "name": "Salsa",
+      "qty": 1,
+      "unit": "cup",
+      "product": "salsa"
+    },
+    {
+      "name": "Shredded Cheese (Mexican blend)",
+      "qty": 1,
+      "unit": "cup",
+      "product": "cheddar-cheese"
+    },
+    {
+      "name": "Chili Powder",
+      "product": "chilli-powder",
+      "pantry": true
+    },
+    {
+      "name": "Oregano (dried)",
+      "product": "dried-oregano",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to broil on high and position rack in the upper third of the oven. Line a baking sheet pan with aluminum foil to make clean-up easier (optional)."
+    },
+    {
+      "text": "Wash, dry, and cut bell peppers lengthwise into quarters; remove and discard the seeds and white membrane. Slice each quarter crosswise into 3-4 pieces to make the \"chips.\""
+    },
+    {
+      "text": "Arrange bell pepper chips, skin-side down, in a single layer on the baking sheet."
+    },
+    {
+      "text": "Drain and rinse beans in a colander. Place in a medium bowl, add spices, and stir to combine."
+    },
+    {
+      "text": "Divide seasoned beans between bell pepper chips, then top with cheese."
+    },
+    {
+      "text": "Place baking sheet in the oven and broil until beans are warmed through and cheese is melted, 3-5 minutes. Remove from oven."
+    },
+    {
+      "text": "To serve, divide the \"nachos\" between plates and top with salsa. Enjoy!"
+    }
+  ]
+}

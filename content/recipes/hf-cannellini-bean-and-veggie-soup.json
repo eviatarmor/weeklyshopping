@@ -1,0 +1,138 @@
+{
+  "slug": "hf-cannellini-bean-and-veggie-soup",
+  "kind": "meal",
+  "title": "Cannellini Bean & Roast Veggie Soup",
+  "subtitle": "with Garlic Ciabatta & Parsley",
+  "description": "Golden and crispy garlic ciabatta is meant to be used for dipping and dunking and what better pairing could we have created, than by whipping up this cannellini bean soup with a number of hidden veggies for these ciabatta delights?\nWe’ve replaced the plant-based basil pesto in this recipe with fresh parsley due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cannellini-bean-and-veggie-soup-67f833ec4264524ca978b1e4",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R30_W44_AUS_Main_high-a50f5339.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "healthy",
+    "quick",
+    "winter-warmers",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b3-a59a74db.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Bake-At-Home Ciabatta",
+      "qty": 1,
+      "product": "ciabatta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56df758b4dab71036e8b456a-ec117d66.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377cb33a6ad8f0f05912-eb4ddad5.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b7105c9621030b4d32-3ceac5f0.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237bd105c9621030b4d51-e907be7f.png"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "thyme",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572382a3405d840b2be3c15-48ecde76.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd2-a68e0a9e.png"
+    },
+    {
+      "name": "Savoury Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "savoury-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385a3405d840b2be3cfb-99d8e2a7.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 15,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddaf9690d86caac925bc-0e86e3f2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Slice zucchini into half-moons.<br>• Cut capsicum into bite-size chunks.<br>• Roughly chop leek. Pick thyme leaves.<br>• Place prepped veggies on a lined oven tray, drizzle with olive oil, season <br>with salt and toss to coat. Roast until tender, 15-20 minutes.<br>• Finely chop garlic.<br>• Drain and rinse cannellini beans. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6839594ef7d5496ac4a6f3f9/step-50f96500.jpeg"
+    },
+    {
+      "text": "• <p>• Heat a large saucepan over medium-high heat with a drizzle of olive oil.<br>• Add cannellini beans, savoury seasoning, thyme and half the garlic, then <br>cook until fragrant, 1-2 minutes.<br>• Add passata, stock concentrate and the water, then simmer, stirring <br>occasionally, until reduced, 5-6 minutes.<br>• Remove from heat and stir through roasted veggies. Season with pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6839594ef7d5496ac4a6f3f9/step-b62db710.jpg"
+    },
+    {
+      "text": "• <p>• While soup is cooking, slice bake-at-home ciabatta in half lengthways.<br>• Place the plant-based butter and remaining garlic in a small <br>microwave-safe bowl and microwave in 10 second bursts until softened. <br>Season with salt.<br>• Brush garlic butter over the cut sides of ciabatta.<br>• Place on a second lined oven tray and bake until golden, 5 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6839594ef7d5496ac4a6f3f9/step-68c16d20.jpeg"
+    },
+    {
+      "text": "• <p>• Divide cannellini bean and roast veggie soup between bowls.<br>• Serve with garlic ciabatta.<br>• Tear over parsley to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6839594ef7d5496ac4a6f3f9/step-a02e6e30.jpg"
+    }
+  ]
+}

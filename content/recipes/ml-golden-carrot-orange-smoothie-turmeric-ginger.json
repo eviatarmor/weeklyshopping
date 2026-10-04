@@ -1,0 +1,78 @@
+{
+  "slug": "ml-golden-carrot-orange-smoothie-turmeric-ginger",
+  "kind": "meal",
+  "title": "Golden Carrot Orange Smoothie with Turmeric & Ginger",
+  "sourceUrl": "https://www.mealime.com/recipes/golden-carrot-orange-smoothie-turmeric-ginger/7358",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/847/presentation_7a8ae7ea-d35b-42a4-8a2b-334755cf96d9.jpeg",
+  "servings": 4,
+  "prepMinutes": 12,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Almond Milk (unsweetened)",
+      "qty": 710,
+      "unit": "ml",
+      "product": "almond-milk"
+    },
+    {
+      "name": "Carrots",
+      "qty": 4,
+      "product": "carrot"
+    },
+    {
+      "name": "Cashews (roasted unsalted)",
+      "qty": 1,
+      "unit": "cup",
+      "product": "cashews"
+    },
+    {
+      "name": "Frozen Mangoes",
+      "qty": 2,
+      "unit": "cup",
+      "product": "mango"
+    },
+    {
+      "name": "Ginger Root",
+      "qty": 2,
+      "product": "ginger"
+    },
+    {
+      "name": "Oranges",
+      "qty": 4,
+      "product": "orange"
+    },
+    {
+      "name": "Turmeric (ground)",
+      "product": "ground-turmeric",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "This recipe will make about 8 cups. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Wash and dry the fresh produce."
+    },
+    {
+      "text": "Peel the oranges; remove the white pith, and cut into chunks. Add to blender."
+    },
+    {
+      "text": "Peel the carrots and ginger, and cut into chunks. Add to blender."
+    },
+    {
+      "text": "Add mango, almond milk, cashews, turmeric, and 4 ice cubes."
+    },
+    {
+      "text": "Blend on high speed for several minutes until smooth."
+    },
+    {
+      "text": "Pour the smoothie into glasses and enjoy!"
+    }
+  ]
+}

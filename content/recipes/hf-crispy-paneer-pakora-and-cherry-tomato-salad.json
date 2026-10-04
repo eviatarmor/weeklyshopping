@@ -1,0 +1,162 @@
+{
+  "slug": "hf-crispy-paneer-pakora-and-cherry-tomato-salad",
+  "kind": "meal",
+  "title": "Crispy Paneer Pakora & Cherry Tomato Salad",
+  "subtitle": "with Green Chutney & Tamarind Drizzle",
+  "description": "Coated in a spiced flour batter and fried to golden perfection, these crispy paneer pakoras bring India’s ultimate street-food favourite straight to your plate. Paired with a refreshing cucumber salad, fiery chilli-spiked green chutney and a sweet-sour tamarind drizzle, every bite is a crunch-filled explosion of heat, tang and cool balance.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/desi-paneer-pakora-salad-692cd5961ca49f0d8bd363b8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1021_W39_AU_R54636-4main_edit_sauce_high-215d2035.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "calorie smart",
+    "cuisine-spotlight",
+    "around the world"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6b-38d72c27.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572380e105c9621030b4f37-c66d6946.png"
+    },
+    {
+      "name": "Paneer Cheese",
+      "qty": 1,
+      "product": "paneer",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/681c54aaf5ad8e6534c47192-5c348e8f.png"
+    },
+    {
+      "name": "Basic Sponge Mix",
+      "qty": 0.25,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d2105c9621030b4833-4077bed3.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3947-37d298e9.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Gourmet Leaf Mix",
+      "qty": 1,
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/68a7a9a53928a374e6c4688c-407c9068.png"
+    },
+    {
+      "name": "Tamarind Chutney",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tamarind-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/634c948e13532a61e80a77fc-77e228c6.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd782793e8cdd8467e24-2416da91.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd852793e8cdd8467e36-d10a2ca3.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de11635bf0b638cfb9d8-ec91bc31.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/683ff3b06329c8e5b722b713-5c3f4f87.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Thinly slice red onion (see ingredients).<br>• In a medium bowl, combine the white wine vinegar <br>and a good pinch of sugar and salt.<br>• Scrunch sliced onion in your hands, then add it <br>to pickling liquid. Add enough water to just cover <br>onion. Set aside.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4708b0acda55604b6d18a8/step-b5483500.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, slice cucumber into thin half-moons.<br>• Slice lemon into wedges. Finely chop garlic.<br>• Thinly slice long chilli (if using). Roughly chop <br>coriander. Halve snacking tomatoes.<br>• Cut paneer into 3cm-thick slices. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4708b0acda55604b6d18a8/step-07b8dd10.jpg"
+    },
+    {
+      "text": "• <p>• In a second medium bowl, combine basic sponge <br>mix (see ingredients), Mumbai spice blend and <br>the salt. Gradually add the water (for the batter) to <br>make a batter (it should be thick but pourable).<br>• Heat a large frying pan over medium-high heat with <br>enough olive oil to coat the base.<br>• When oil is hot, dip paneer into batter to coat and <br>immediately transfer to pan.<br>• Cook pakora in batches until golden, 2-4 minutes <br>each side. Transfer to a paper towel-lined plate and <br>season with a pinch of salt.<br>TIP: Add extra oil if needed so the pakora does not stick <br>to the pan.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4708b0acda55604b6d18a8/step-ee1f1f20.jpg"
+    },
+    {
+      "text": "• <p>• Crush long chilli (if using), garlic, half the coriander <br>and a pinch of salt with a pestle and mortar until it <br>resembles a fine paste.<br>• Transfer to a small bowl, then add Greek-style <br>yoghurt, a generous squeeze of lemon juice and a <br>splash of water. Stir until well combined.<br>TIP: Some like it hot, but if you don’t just hold back on <br>the chilli. <br>TIP: If you don’t have a pestle and mortar, finely chop <br>ingredients to form a chunky, rustic sauce! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4708b0acda55604b6d18a8/step-028a7130.jpg"
+    },
+    {
+      "text": "• <p>• Drain pickled onion.<br>• In a large bowl, combine gourmet leaf mix, pickled <br>onion, cucumber, tomatoes and a drizzle of olive <br>oil. Season to taste with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4708b0acda55604b6d18a8/step-afcd6840.jpg"
+    },
+    {
+      "text": "• <p>• Divide cherry tomato salad between plates.<br>• Top with crispy paneer pakora.<br>• Drizzle over green chutney and tamarind chutney.<br>• Garnish with remaining coriander and serve with <br>any remaining lemon wedges. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4708b0acda55604b6d18a8/step-9350a350.jpg"
+    }
+  ]
+}

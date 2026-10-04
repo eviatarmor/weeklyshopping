@@ -1,0 +1,170 @@
+{
+  "slug": "hf-roast-cauliflower-and-turnip-biryani",
+  "kind": "meal",
+  "title": "Roast Cauliflower & Turnip Biryani",
+  "subtitle": "with Currants, Almonds & Yoghurt",
+  "description": "Biryani – the fragrant rice dish hailing from the Indian subcontinent – gets a twist with this vibrant vegetarian version. Complete\nthe dish with roasted almonds and crispy shallots for crunch, yoghurt for creaminess and tang, and coriander for some zing - all of which complement the mildly spiced roast veg.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-cauliflower-and-turnip-biryani-627dc9b0ac1dc1965a073980",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roasted-eggplant-biryani-62f0b181.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Turnip",
+      "qty": 1,
+      "product": "turnip",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61b2b7a0d0e52e60ba73aae0-11bcbb8c.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Currants",
+      "qty": 1,
+      "unit": "packet",
+      "product": "currants",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5643d517f8b25ecd248b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55b9af2ff8b25e7d298b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a828205ae08b5736b5fc6f2-ce735049.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Mild North Indian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mild-north-indian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/596d897005346810d765df82-58b68ca4.png"
+    },
+    {
+      "name": "Bengal Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56de2bfb4dab715c428b4569-a466620b.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/200°C fan-forced.\n• Chop cauliflower into small florets.\n• Peel turnip, then cut into bite-sized chunks.\n• Thinly slice brown onion (see ingredients).\n• Thinly slice carrot into rounds.\n• Finely chop garlic.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/627dc9b0ac1dc1965a073980/step-bad69842.jpg"
+    },
+    {
+      "text": "• Place cauliflower and turnip on a lined oven tray.\n• Drizzle generously with olive oil, sprinkle with mild North Indian spice blend and season with salt and pepper. Toss to coat.\n• Roast until tender, 20-25 minutes. TIP: If your oven tray is crowded, divide the veggies between two oven trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/627dc9b0ac1dc1965a073980/step-8104300e.jpg"
+    },
+    {
+      "text": "• Meanwhile, heat a large saucepan over medium-high heat with a drizzle of olive oil.\n• Cook onion and carrot, stirring, until onion is softened, 5 minutes.\n• Add Bengal curry paste, ginger paste and garlic and cook, stirring, until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/627dc9b0ac1dc1965a073980/step-0bede831.jpg"
+    },
+    {
+      "text": "• Add basmati rice and currants, stirring to coat. Add the water and vegetable stock powder, then bring to the boil.\n• Cover, reduce heat to medium-low and simmer until rice is tender and water is absorbed, 16-18 minutes. TIP: Add a little extra water if the liquid is absorbed before the rice is tender!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/627dc9b0ac1dc1965a073980/step-a781887a.jpg"
+    },
+    {
+      "text": "• While the biryani is cooking, roughly chop roasted almonds.\n• When the biryani is ready, add baby spinach leaves and stir through until just wilted. Stir through almonds and roast veggies.\n• Season to taste with salt and pepper. TIP: Seasoning is key in this dish! Taste and season with more salt and pepper if needed.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/627dc9b0ac1dc1965a073980/step-f595204d.jpg"
+    },
+    {
+      "text": "• Divide roast cauliflower and turnip biryani between bowls.\n• Top with a dollop of Greek-style yoghurt.\n• Sprinkle with crispy shallots.\n• Tear over coriander leaves to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/627dc9b0ac1dc1965a073980/step-5b24b99f.jpg"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "ep-texan-bean-and-veggie-rice",
+  "kind": "meal",
+  "title": "Texan Bean & Veggie Rice Bake",
+  "subtitle": "with Baby Spinach & Cheddar Cheese",
+  "description": "This veggie sensation pairs rice with beans and veggies and pops the whole thing under the grill (loaded with cheese of course) for a comforting bowl of flavour spiked with smokey, BBQ flavours.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/texan-black-bean-and-veggie-rice-67f84130cade9b9f0acdf85b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4007_W17_AU_EP14723-22_Main_high-b7b9eca5.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "everyplate",
+    "american",
+    "vegetarian",
+    "naturally gf",
+    "high protein",
+    "low calorie",
+    "world-flavors",
+    "rice"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b4960-b67728c7.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833484264524ca978ae38-7f76b87f.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236da105c9621030b485f-1710602a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561c-5667c8d1.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349c-6e8f9036.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5094-b270df3d.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bab-e8da1b4d.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a5-46d60eb4.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde02793e8cdd8467eb5-7e5ff03d.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fef317ba6118bd6bcb9339-8f0e75c3.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb1-a24832e8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• In a medium saucepan, add the water (for the rice) and bring to the boil.<br>• Add basmati rice, stir, cover with a lid and reduce heat to low.<br>• Cook for 10 mins, then remove pan from heat and keep covered until rice is tender and the water absorbed, 10 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6971adc8384e652ce6a551cd/step-5cf7e500.jpeg"
+    },
+    {
+      "text": "• <p>• When rice has 10 mins remaining, preheat grill to high.<br>• Roughly chop capsicum. Drain sweetcorn. Drain and rinse black beans. Thinly slice spring onion (see ingredients).<br>• In a large frying pan, heat a drizzle of olive oil over medium-high heat.<br>• Cook capsicum, corn and black beans until slightly tender, 3-4 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6971adc8384e652ce6a551cd/step-77db6a10.jpg"
+    },
+    {
+      "text": "• <p>• Add tomato paste and All-American spice blend to frying pan and cook until fragrant, 1 min.<br>• Stir in the water (for the sauce) and stock powder. Simmer until slightly thickened, 1-2 mins.<br>• Remove from heat, then add baby spinach and cooked rice, gently stirring to combine. Season with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6971adc8384e652ce6a551cd/step-80744220.jpg"
+    },
+    {
+      "text": "• <p>• Transfer rice mixture to a baking dish. Sprinkle with Cheddar cheese.<br>• Grill until lightly golden, 6-8 mins.<br>• Divide Texan bean and veggie rice bake between plates.<br>• Sprinkle with spring onion and serve with the mayonnaise.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6971adc8384e652ce6a551cd/step-dd5c3430.jpg"
+    }
+  ]
+}

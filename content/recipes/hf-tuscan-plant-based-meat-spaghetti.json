@@ -1,0 +1,147 @@
+{
+  "slug": "hf-tuscan-plant-based-meat-spaghetti",
+  "kind": "meal",
+  "title": "Tuscan Plant-Based Meat Spaghetti",
+  "subtitle": "with Roast Veggies & Garlic Pangrattato",
+  "description": "'Pangrattato' is Italian for breadcrumb and it adds a delicious, traditional crunch when sprinkled over pasta. We've teamed a\ntraditional tomato sauce with plant-based slow braised 'meat' and roasted veggies for a meal that looks every bit as good as it tastes.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/tuscan-plant-based-meat-spaghetti-614060c9bf00467b7343a94c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tuscan-plant-based-meat-spaghetti-da1d23c2.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Herb Crumbing Mix",
+      "qty": 0.5,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c93e808e1c4145a37bc794-502287ee.png"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spaghetti",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c69774dab7182428b4568.png"
+    },
+    {
+      "name": "Plant-Based Pulled Beef",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/616911df3e92f677980f6a53-93f22bbe.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "unit": "stalk",
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553faaafd2cb9da068b4567.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "box",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6052bd0d88686f4de443784a-92e7b6fd.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baad5c6ae08b53fa4663602-34f15c81.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced.\n• Thinly slice the capsicum. Cut the carrot into small\n• chunks. Cut the red onion into thin wedges. Divide\n• the veggies between two lined oven trays. Drizzle\n• with olive oil, season with salt and pepper and\n• toss to coat. Roast until tender,\n• 20-25 minutes.\n• TIP: Cut the veggies to the correct size so they cook\n• in the allocated time.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614060c9bf00467b7343a94c/step-e90a8ce3.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, bring a medium\n• saucepan of salted water to the boil. Finely chop\n• the garlic. In a large frying pan, heat a good drizzle\n• of olive oil over a medium-high heat. Add the\n• herb crumbing mix (see ingredients) and stir\n• until golden brown, 3 minutes. Add 1/2 the garlic\n• and cook until fragrant, 1 minute. Transfer to a\n• medium bowl. Season.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614060c9bf00467b7343a94c/step-d5e783dd.jpg"
+    },
+    {
+      "text": "• Cook the spaghetti in the boiling water, stirring\n• occasionally, until al dente, 9 minutes. Reserve\n• some pasta water (1/2 cup for 2 people / 1 cup for\n• 4 people), then drain the pasta and return to the\n• pan. Drizzle with olive oil to prevent sticking.\n• TIP: 'Al dente' pasta is cooked through but still\n• slightly firm in the centre.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614060c9bf00467b7343a94c/step-d9b18ddc.jpg"
+    },
+    {
+      "text": "• While the spaghetti is cooking, finely chop the celery. Roughly chop the plant-based pulled beef. Return the frying pan to a medium-high heat with a drizzle of olive oil. Cook the plant-based meat, tossing until browned, 3-5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614060c9bf00467b7343a94c/step-bb9e4f16.jpg"
+    },
+    {
+      "text": "• Add the celery to the frying pan and cook until\n• softened, 1 minute. Add the tomato paste, garlic\n• & herb seasoning and remaining garlic to the\n• frying pan. Cook, stirring, until fragrant, 1 minute.\n• Add the diced tomatoes with garlic & onion and\n• some pasta water (1/4 cup for 2 people /\n• 1/2 cup for 4 people). Add the salt and a pinch of\n• pepper. Reduce the heat to medium, then simmer\n• until the sauce has thickened slightly, 3-5 minutes.\n• Remove from heat. Stir through the butter, roast\n• veggies and spaghetti.\n• TIP: Add a dash more pasta water if the sauce looks\n• dry.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614060c9bf00467b7343a94c/step-bcd99ce2.jpg"
+    },
+    {
+      "text": "• Divide the Tuscan pork spaghetti between bowls.\n• Serve with a sprinkle of the garlic pangrattato and\n• the grated Parmesan cheese.\n• TIP: Store extra pangrattato in an airtight container.\n• It's great sprinkled over eggs the next day!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614060c9bf00467b7343a94c/step-524280db.jpg"
+    }
+  ]
+}

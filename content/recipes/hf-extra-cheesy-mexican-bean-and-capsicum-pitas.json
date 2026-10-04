@@ -1,0 +1,137 @@
+{
+  "slug": "hf-extra-cheesy-mexican-bean-and-capsicum-pitas",
+  "kind": "meal",
+  "title": "Extra Cheesy Mexican Bean & Capsicum Pitas",
+  "subtitle": "with Cucumber Salad, Yoghurt & Corn",
+  "description": "Pita bread truly are our little pockets of heaven and these ones are no different. Loaded with Mexican Fiesta-spiced beans and a capsicum filling, all that's missing is a sprinkling of cheese. Oh wait, we have that too! Don't forget the side salad and corn on the cob.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/extra-cheesy-mexican-bean-and-capsicum-pitas-67d81b0118d6e477003fc9d1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67d81b0118d6e477003fc9d1-cbdd864e-5b056a90.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "quick prep",
+    "quick",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723722105c9621030b49de-d90ccc30.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723791105c9621030b4c44-b094ccb8.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Pita Bread",
+      "qty": 2,
+      "product": "pita-bread",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f829500d0527cba53a497b-b4a782b8.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237e8b33a6ad8f0f05b13-25b8f524.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Slice cucumber into half-moons. Roughly chop capsicum. Halve corn cob.<br>• Drain and rinse red kidney beans.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67d81b0118d6e477003fc9d1/step-c7cdec00.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat.<br>• Cook capsicum, until tender, 4-5 minutes.<br>• Reduce pan to medium heat, add red kidney beans, Mexican Fiesta spice blend and tomato paste, and cook until fragrant, 1-2 minutes.<br>• Remove pan from heat, add the water and stir to combine.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67d81b0118d6e477003fc9d1/step-b56dc610.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, transfer corn cobs to a large microwave-safe plate. Cover with a damp paper towel. Microwave corn on high, until tender, 4-5 minutes.<br>• Microwave pita bread on a microwave-safe plate for 1 minute, until warmed through.<br>• In a large bowl, combine cucumber, mixed salad leaves and a drizzle of white wine vinegar and olive oil. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67d81b0118d6e477003fc9d1/step-d9f7fb20.jpg"
+    },
+    {
+      "text": "• <p>• Halve pita bread and fill with bean mixture, Cheddar cheese and Parmesan cheese.<br>• Toast cheesy Mexican bean and capsicum pita pockets in a sandwich press as desired.<br>• Divide between plates with corn cobs and cucumber salad. Serve with light sour cream. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67d81b0118d6e477003fc9d1/step-1e4dc130.jpg"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "creole-spice-blend",
+  "kind": "blend",
+  "title": "Creole Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 1 sweet paprika, 1 onion powder, 1 garlic powder, 1 dried oregano, 1 dried basil, 0.5 dried thyme, 0.5 black pepper, 0.5 white pepper, 1.5 cayenne pepper.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Creole Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Dried Basil",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "dried-basil"
+    },
+    {
+      "name": "Dried Thyme",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-thyme"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "White Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "white-pepper"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "qty": 0.625,
+      "unit": "tsp",
+      "product": "cayenne-pepper"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "ep-mediterranean-bean-and-fetta-mini-wraps",
+  "kind": "meal",
+  "title": "Mediterranean Bean & Fetta Mini Wraps",
+  "subtitle": "with Salad",
+  "description": "These tortillas may be mini but they're packed with mighty flavour! Kidney beans and onion soak up the complex and herby Tuscan flavours, whilst carrot and salad leaves add a refreshing crunch for a satisfying mouthful!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/tuscan-bean-and-fetta-mini-wraps-67f84a51cade9b9f0ace1c86",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y24_R09_W51_AUS_Main_high-3ac33962.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "mediterranean",
+    "quick",
+    "speedy",
+    "20 min or less",
+    "less mess meals",
+    "climate hero",
+    "tacos-enchilada"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237e8b33a6ad8f0f05b12-3e497b3f.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c68-7ea9b6d2.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2c-6397d662.png"
+    },
+    {
+      "name": "Mediterranean Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mediterranean-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723861b33a6ad8f0f05d6a-b94f6e29.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fe2be511363ed37736f3024-583bf58f.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92531-6c19cc26.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0d-9e84e0fa.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb1-a24832e8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Grate carrot. Roughly chop brown onion. Finely chop or crush garlic.<br>• Drain and rinse kidney beans. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bd30d0527cba53abc3e/step-3a149900.jpeg"
+    },
+    {
+      "text": "• <p>• Heat a large frying pan over medium-high heat with a drizzle of olive oil.<br>• Cook onion and kidney beans until tender, 4-5 mins.<br>• Add tomato paste and Mediterranean seasoning and cook until fragrant, 1-2 mins.<br>• Reduce heat to medium, then stir in the water and butter and cook until slightly thickened, 1 min. Season with salt and pepper to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bd30d0527cba53abc3e/step-b7f27010.jpeg"
+    },
+    {
+      "text": "• <p>• In a large bowl, combine carrot, salad leaves and drizzle of olive oil and white wine vinegar. Season to taste.<br>• Microwave mini flourtortillas on a microwave-safe plate in 10 second bursts until warmed through.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bd30d0527cba53abc3e/step-53238d20.jpeg"
+    },
+    {
+      "text": "• <p>• Build mini wraps by spreading tortillas with the mayonnaise, then filling with <br>salad and Mediterranean beans.<br>• Crumble with fetta cubes to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f84bd30d0527cba53abc3e/step-dd275530.jpeg"
+    }
+  ]
+}

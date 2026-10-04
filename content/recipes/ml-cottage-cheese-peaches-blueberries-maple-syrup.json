@@ -1,0 +1,50 @@
+{
+  "slug": "ml-cottage-cheese-peaches-blueberries-maple-syrup",
+  "kind": "meal",
+  "title": "Cottage Cheese with Peaches, Blueberries & Maple Syrup",
+  "sourceUrl": "https://www.mealime.com/recipes/cottage-cheese-peaches-blueberries-maple-syrup/26000",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2928/presentation_c4a5a2ec-bbcd-40d1-871b-6c7efb6d70a1.jpeg",
+  "servings": 4,
+  "prepMinutes": 8,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "qty": 170,
+      "unit": "g",
+      "product": "blueberries"
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 3,
+      "unit": "cup",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Peaches",
+      "qty": 2,
+      "product": "peach"
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash, dry, and quarter peaches lengthwise (around the pit); twist quarters to separate, then remove and discard pits. Medium dice the flesh."
+    },
+    {
+      "text": "Wash and dry blueberries."
+    },
+    {
+      "text": "To serve, divide cottage cheese, peaches, and blueberries between bowls. Drizzle with maple syrup and enjoy!"
+    }
+  ]
+}

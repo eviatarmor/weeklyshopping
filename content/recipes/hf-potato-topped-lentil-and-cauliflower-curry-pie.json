@@ -1,0 +1,154 @@
+{
+  "slug": "hf-potato-topped-lentil-and-cauliflower-curry-pie",
+  "kind": "meal",
+  "title": "Potato-Topped Lentil & Cauli Curry Pie",
+  "subtitle": "with Tomato Salad & Coriander",
+  "description": "This one is in a league of its own. we've taken your favourite parts of a curry, switched out the meat for hearty lentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty concoction!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/potato-topped-lentil-and-cauliflower-curry-pie-67f84c044264524ca97921d1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y23_R08_W37_AUS_Main_coriander_edit_high-50546b20.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "hellofresh",
+    "thai",
+    "classic",
+    "naturally gf",
+    "vegetarian",
+    "springtime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cc-5fcd32e0.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bdb-57a7fc12.png"
+    },
+    {
+      "name": "Mild Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723795b33a6ad8f0f05990-f295acd2.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf52793e8cdd8467ede-ab9ca8fe.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de61635bf0b638cfba5c-044a3e7a.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. <br>• Bring a large saucepan of salted water to <br>the boil.<br>• Cut cauliflower(see ingredients) into small <br>florets. Cut carrot into bite-sized chunks.<br>• Place veggies in a large baking dish. Drizzle with <br>olive oil, season with salt and toss to coat.<br>• Roast until browned and tender, 20-25 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685b5c53971405a9ee1f88bd/step-91e4cd00.jpeg"
+    },
+    {
+      "text": "• <p>• While the veggies are roasting, peel potato and <br>cut into bite-sized chunks. Cook potato in the <br>boiling water, until easily pierced with a fork, <br>10-15 minutes.<br>• Drain and return to the pan. Add the butter and <br>milk to the potato and season generously with <br>salt. Mash until smooth. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685b5c53971405a9ee1f88bd/step-4bc22810.jpeg"
+    },
+    {
+      "text": "• <p>• While the potato is cooking, thinly slice<br>brown onion.<br>• Roughly chop tomato.<br>• Drain and rinse lentils. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685b5c53971405a9ee1f88bd/step-26718320.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil<br>over medium-high heat. Add onion and cook, <br>until tender, 4-5 minutes.<br>• SPICY! The curry paste is mild, use less if you’re <br>sensitive to heat! Add mild curry paste and the <br>soy sauce and cook stirring until fragrant,<br>1-2 minutes.<br>• Reduce heat to medium. Add coconut milk<br>and drained lentils and simmer until thickened, <br>2-3 minutes. Season to taste with salt<br>and pepper.<br>TIP: Add a splash of water if the curry looks too <br>thick. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685b5c53971405a9ee1f88bd/step-8c4c9c30.jpeg"
+    },
+    {
+      "text": "• <p>• When the veggies are roasted, remove from the <br>oven and transfer the lentil curry to the baking <br>dish. Stir to combine.<br>• Top with potato mash and spread out evenly. <br>Bake until lightly golden, 5-8 minutes.<br>• Meanwhile, in a medium bowl, combine tomato, <br>mixed salad leaves, a drizzle of white wine<br>vinegar and olive oil. Toss to coat and season <br>to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685b5c53971405a9ee1f88bd/step-34a89440.jpeg"
+    },
+    {
+      "text": "• <p>• Divide the potato-topped lentil and cauli curry <br>pie between plates. <br>• Tear over coriander. <br>• Serve with tomato salad. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/685b5c53971405a9ee1f88bd/step-6499ec50.jpg"
+    }
+  ]
+}

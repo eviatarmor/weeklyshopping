@@ -1,0 +1,49 @@
+{
+  "slug": "ml-strawberry-cream-cheese-sandwich",
+  "kind": "meal",
+  "title": "Strawberry & Cream Cheese Sandwich",
+  "sourceUrl": "https://www.mealime.com/recipes/strawberry-cream-cheese-sandwich/24086",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2696/presentation_1f70497d-a6fe-4cfa-b9fc-94e62777fb43.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cream Cheese",
+      "qty": 150,
+      "unit": "g",
+      "product": "cream-cheese"
+    },
+    {
+      "name": "Strawberries",
+      "qty": 300,
+      "unit": "g",
+      "product": "strawberries"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "qty": 8,
+      "unit": "slice",
+      "product": "bread"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place cream cheese on the counter and let soften slightly while you prepare the strawberries."
+    },
+    {
+      "text": "Wash, dry, trim, and cut strawberries lengthwise into ½-inch thick slices. Set aside."
+    },
+    {
+      "text": "Place bread on a flat surface. Divide cream cheese between the slices and spread out in an even layer. Cover half of the slices with strawberries, then close sandwiches with remaining bread slices."
+    },
+    {
+      "text": "To serve, cut sandwiches in half and divide between plates. Enjoy!"
+    }
+  ]
+}

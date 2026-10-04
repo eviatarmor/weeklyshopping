@@ -1,0 +1,168 @@
+{
+  "slug": "hf-thai-style-satay-tofu-and-veggie-red-curry",
+  "kind": "meal",
+  "title": "Satay Tofu & Veggie Thai Red Curry",
+  "subtitle": "with Garlic Rice & Pickled Onion",
+  "description": "Tender tofu is one of our favourite ingredients for soaking up bold Thai flavours. In this plant-based dish, the peanutty\nMalaysian tofu works a treat with the creamy, zingy sauce and fluffy rice.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-style-satay-tofu-and-veggie-red-curry-65404ab47ab5c897ad152327",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65404ab47ab5c897ad152327-4ea7ae2f.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "thai",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Bamboo Shoots",
+      "qty": 0.5,
+      "unit": "tin",
+      "product": "bamboo-shoots"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aceaa5830006c19d70ba382-01559f82.png"
+    },
+    {
+      "name": "Mild Thai Red Curry Paste",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "red-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5733bc7ef8b25ef2718b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add667930006c66b57f1712-2fea204a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Malaysian Tofu",
+      "qty": 1,
+      "unit": "block",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564c060b79a23c164f8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop garlic. In a medium saucepan, heat the butter with a dash of olive oil over medium heat.\n• Cook half the garlic until fragrant, 1-2 minutes. Add basmati rice, the water (for the rice) and a generous pinch of salt. Stir, then bring to the boil.\n• Reduce heat to low and cover with a lid.\n• Cook for 10 minutes, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65404ab47ab5c897ad152327-85ffd6aa.jpeg"
+    },
+    {
+      "text": "• Meanwhile, thinly slice carrot into half-moons.\n• Cut bamboo shoots (see ingredients) into bite-sized chunks.\n• Thinly slice red onion.\n• Cut Malaysian tofu into 2cm chunks.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65404ab47ab5c897ad152327-a33dbb79.jpeg"
+    },
+    {
+      "text": "• In a small bowl, combine the vinegar and a good pinch of sugar and salt.\n• Scrunch half of the sliced onion in your hands, then add it to pickling liquid. Add enough water to just cover onion. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65404ab47ab5c897ad152327-37ba6304.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat.\n• Cook tofu, tossing, until browned, 3-4 minutes. Transfer to a bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65404ab47ab5c897ad152327-a2acd0b8.jpeg"
+    },
+    {
+      "text": "• Return frying pan to high heat with a drizzle of olive oil. Cook carrot, bamboo shoots and the remaining onion, stirring, until softened, 4-5 minutes.\n• Reduce heat to medium, then add the remaining garlic and mild Thai red curry paste (see ingredients) and cook until fragrant, 1-2 minutes.\n• Add coconut milk, the water (for the curry), soy sauce, brown sugar and tofu and simmer until slightly thickened, 2-3 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65404ab47ab5c897ad152327-72920fd3.jpeg"
+    },
+    {
+      "text": "• Drain the pickled onion.\n• Divide garlic rice between bowls and spoon over Thai-style tofu and veggie red curry.\n• Top with pickled onion, a dollop of Greek-style yoghurt and crushed peanuts to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65404ab47ab5c897ad152327-e784cd17.jpeg"
+    }
+  ]
+}

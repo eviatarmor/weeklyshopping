@@ -1,0 +1,164 @@
+{
+  "slug": "hf-tuscan-veggie-bean-soup",
+  "kind": "meal",
+  "title": "Tuscan Veggie Bean Soup",
+  "subtitle": "with Cheesy Pesto Toasts",
+  "description": "Settle in for a cosy night with this hearty bean and tomato soup. Full of colourful veggies and classic Italian flavours, the meal gets an extra boost with addictive cheesy pesto toasts on the side.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/tuscan-veggie-bean-soup-5d6f39a75b4ab900086b8678",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tuscan-veggie-bean-soup-93bff082.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "low calorie"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "unit": "stalk",
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553faaafd2cb9da068b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Rustic Herb Spice Blend",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "rustic-herb-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a092db32c3e085c0c6541d2-172dc93a.png"
+    },
+    {
+      "name": "Fennel Seeds",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "fennel-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/558b46d24dab716e418b456a.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b0039fd2cb99c598b4570.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Olive Oil",
+      "qty": 1,
+      "unit": "tin",
+      "product": "olive-oil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9e2ff0ae08b543ad1ff8e2-3106a226.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 2,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Bake-At-Home Ciabatta",
+      "qty": 1,
+      "product": "ciabatta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56df758b4dab71036e8b456a-ec117d66.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d57b7f8b25e246c8b4568.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baad5c6ae08b53fa4663602-34f15c81.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop the red onion and celery. Thinly slice the carrot (unpeeled) into half-moons. Finely chop the garlic (or use a garlic press).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-c6b16ef8.jpg"
+    },
+    {
+      "text": "• In a large pot or saucepan, heat a good drizzle of olive oil over a medium-high heat. When the oil is hot, add the onion, celery and carrot and cook, stirring occasionally, until softened, 5-6 minutes. Add a drizzle more olive oil, the garlic, rustic herb spice blend (see ingredients list), a pinch of fennel seeds and a pinch of chilli flakes (if using). Cook, stirring, until fragrant, 2 minutes.\n• TIP: Fennel and chilli are strong flavours, add as much or as little as you like!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-98b76ef1.jpg"
+    },
+    {
+      "text": "• Pour the red kidney beans (including the liquid!) into the pan with the veggies. Add the diced tomatoes with garlic & olive oil and the water. Crumble in the vegetable stock cubes (2 cubes for 2 people / 4 cubes for 4 people), then add the brown sugar and stir to combine. Simmer until slightly reduced, 15 minutes.\n• TIP: Adding the bean soaking liquid helps to thicken the soup.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-6342b8c9.jpg"
+    },
+    {
+      "text": "• While the soup is simmering, preheat the grill to high. Slice the ciabatta in half and place, cut-side up, on an oven tray. Spread with the basil pesto and sprinkle with the grated Parmesan cheese. When the soup has 5 minutes cook time remaining, place the ciabatta under the grill until the cheese is melted and bubbling, 3-5 minutes.\n• TIP: Keep an eye on the toasts as they can burn fast!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-93e84b56.jpg"
+    },
+    {
+      "text": "• Just before serving the soup, add the baby spinach leaves and stir until just wilted.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-f4759c29.jpg"
+    },
+    {
+      "text": "• Divide the Tuscan veggie bean soup between bowls. Serve with the cheesy pesto toasts.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-22daee4c.jpg"
+    }
+  ]
+}

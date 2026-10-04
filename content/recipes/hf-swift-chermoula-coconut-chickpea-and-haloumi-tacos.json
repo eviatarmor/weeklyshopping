@@ -1,0 +1,143 @@
+{
+  "slug": "hf-swift-chermoula-coconut-chickpea-and-haloumi-tacos",
+  "kind": "meal",
+  "title": "Swift Chermoula-Coconut Chickpea & Haloumi Tacos",
+  "subtitle": "with Yoghurt & Parsley",
+  "description": "Thanks to saucy chermoula chickpeas, you’ll have some fusion flavours for these unrivalled haloumi tacos that are super speedy and totally iconic. Hurry, this one won’t last long, so grab yours before it speeds away!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/swift-chermoula-coconut-chickpea-tacos-67f8544b0d0527cba53aedb4",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R09_W12_AUS_backgr_edit__Main_high-42124a31.jpg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle eastern",
+    "quick",
+    "prepped in 10",
+    "super quick",
+    "quick prep",
+    "street food"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237193405d840b2be3660-48f13097.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cc-5fcd32e0.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723751b33a6ad8f0f0586f-c1f9a051.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c67-51fe1580.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b7105c9621030b4d32-3ceac5f0.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop brown onion. • Drain and rinse chickpeas. • In a medium bowl, place haloumi and cover with water to soak</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369ddef7d5496ac4a64c20/step-05e0d700.jpg"
+    },
+    {
+      "text": "• <p>• Drain haloumi and pat dry. Cut the haloumi into 1cm-thick slices. • In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook haloumi until golden brown, 1-2 minutes each side. Transfer to a plate. • Return frying pan to medium-high heat with a drizzle of olive oil. Cook onion, stirring, until softened, 3-5 minutes. • Add garlic paste, chermoula spice blend, tomato paste and chickpeas. Cook, stirring until fragrant, 2-4 minutes. • Add coconut milk and vegetable stock. Cook, stirring, until slightly thickened, 2-3 minutes. • Remove from heat. Stir in the butter until melted, then lightly mash chickpeas. Season with salt and pepper to taste. TIP: The butter helps balance out the acidity of the tomato paste!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369ddef7d5496ac4a64c20/step-b09d9410.jpg"
+    },
+    {
+      "text": "• <p>• While the chickpeas are cooking, thinly slice cucumber into half-moons. • In a medium bowl, combine a drizzle of white wine vinegar and olive oil. Season to taste, then add mixed salad leaves and cucumber. Toss to coat. • Microwave mini flourtortillas on a microwave-safe plate in 10 second bursts, until warmed through.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369ddef7d5496ac4a64c20/step-a7fe9d20.jpg"
+    },
+    {
+      "text": "• <p>• Fill tortillas with a helping of salad and chermoula-coconut chickpeas and haloumi. • Top with a dollop of Greek-style yoghurt. • Tear over parsley to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68369ddef7d5496ac4a64c20/step-8855ab30.jpg"
+    }
+  ]
+}

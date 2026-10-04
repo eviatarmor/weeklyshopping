@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "weeklyshopping",
+  "main": "./src/worker/index.ts",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  // Preview URLs would bypass the Access app on the main hostname, so keep them off.
+  "preview_urls": false,
+  "assets": {
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/trpc/*"]
+  },
+  "durable_objects": {
+    "bindings": [{ "name": "HOUSEHOLD", "class_name": "HouseholdDO" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["HouseholdDO"] }],
+  "vars": {
+    // Optional overrides; normally read from config/access.json (written by Terraform).
+    "ACCESS_TEAM_DOMAIN": "",
+    "ACCESS_AUD": "",
+    // Only honoured on localhost while Access is not configured. Set to "true" in .dev.vars.
+    "DEV_AUTH": "false"
+  },
+  "observability": { "enabled": true }
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "hf-haloumi-and-zesty-veggie-couscous",
+  "kind": "meal",
+  "title": "Haloumi & Zesty Veggie Couscous",
+  "subtitle": "with Fetta Yoghurt",
+  "description": "Delicate and flaky haloumi serves as the perfect accompaniment to a refreshing lemony couscous salad and a generous drizzle of creamy, fetta yoghurt. Tear over some mint for a tasteful herby hit!\nWe’ve replaced the cucumber in this recipe with radish due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/barramundi-and-zesty-veggie-couscous-67f85d2f0d0527cba53b27b3",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R36_W51_AUS_edit_capers__Main_high-3e08bae5.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "quick",
+    "dietitian approved",
+    "quick prep",
+    "proteinrich"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f87b810d0527cba53bf38d-c0444d52.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fc74a8fe44baceeadf71a8-23b4ac8b.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379f3405d840b2be3923-beeaac14.png"
+    },
+    {
+      "name": "Red Radish",
+      "qty": 1,
+      "product": "radish",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ec105c9621030b4e7e-0ea1eaaf.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop garlic. • In a medium bowl, place haloumi and cover with water to soak. • Zest lemon to get a pinch, then slice into wedges. • In a medium saucepan, heat a drizzle of olive oil over medium-high heat. • Cook garlic until fragrant, 1 minute. Add the water and lemon zest, then bring to the boil. • Add couscous and stir to combine. Cover with a lid and remove from heat. • Set aside until water is absorbed, 5 minutes. Fluff up with a fork.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834016da756d38d6af3073f/step-aeee0f00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, drain haloumi and pat dry. Cut the haloumi into 1cm-thick slices. • In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook haloumi until golden brown, 1-2 minutes each side. Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834016da756d38d6af3073f/step-367db910.jpg"
+    },
+    {
+      "text": "• <p>• Roughly chop tomato and cucumber. • To the pan with couscous, add tomato, cucumber, baby spinach leaves and a drizzle of white wine vinegar and olive oil. Toss to combine and season to taste. • To a small bowl, squeeze lemon juice, then add fetta cubes and Greek-style yoghurt. Stir to combine.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834016da756d38d6af3073f/step-b8962920.jpg"
+    },
+    {
+      "text": "• <p>• Divide zesty veggie couscous between bowls. • Top with haloumi. • Drizzle with fetta yoghurt and tear over mint to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6834016da756d38d6af3073f/step-26dc4e30.jpg"
+    }
+  ]
+}

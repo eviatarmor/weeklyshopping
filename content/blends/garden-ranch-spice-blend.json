@@ -1,0 +1,72 @@
+{
+  "slug": "garden-ranch-spice-blend",
+  "kind": "blend",
+  "title": "Garden Ranch Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 2 dried parsley, 1 dried dill, 2 garlic powder, 2 onion powder, 2 dried onion flakes, 1 black pepper, 1 dried chives.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Garden Ranch Seasoning",
+    "Ranch Spice Blend",
+    "Ranch Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Parsley",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-parsley"
+    },
+    {
+      "name": "Dried Dill",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-dill"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Dried Onion Flakes",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-onion-flakes"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dried Chives",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-chives"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

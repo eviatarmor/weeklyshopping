@@ -1,0 +1,134 @@
+{
+  "slug": "ep-indian-chickpea-patties",
+  "kind": "meal",
+  "title": "Indian Chickpea Patties",
+  "subtitle": "with Tomato Salad & Fries",
+  "description": "We know you love a good veggie patty, so we've upped the flavour with masala seasoning and fresh parsley in these chickpea delights. Serve with oven-baked fries and fresh salad to round out the meal. Oh, and bonus: garlic aioli for dipping!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/indian-chickpea-patties-6184743b5e07e119ca183417",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-chickpea-patties-14e1d375.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "indian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fe44ecbf90d9f52861a-a7aba26d.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f904ecbf90d9f528470-7142aee3.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528452-95bf4017.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd74ecbf90d9f5285e0-f38cbfcd.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fa14ecbf90d9f5284cc-b612d37c.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fdf4ecbf90d9f528604-03891dce.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fa54ecbf90d9f5284e0-6c5d6d9b.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0174ecbf90d9f528706-7478f5de.png"
+    },
+    {
+      "name": "Masala Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ecdf37821ad0c48fa420134-b284d5d2.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0214ecbf90d9f528732-e93fccf0.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fce4ecbf90d9f5285b4-c64c728d.png"
+    },
+    {
+      "name": "Garlic Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fab4ecbf90d9f5284fd-9da5628e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced. Cut potato into fries. Place on the lined oven tray.\n• Drizzle with olive oil and season with a pinch of salt and pepper.\n• Toss to coat, spread out evenly and bake until tender, 20-25 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6184743b5e07e119ca183417/step-7e0185ae.jpg"
+    },
+    {
+      "text": "• Meanwhile, drain and rinse chickpea. Grate carrot. Roughly chop parsley.\n• In a medium bowl, place chickpeas and egg. Mash with potato masher.\n• Stir in carrot, plain flour, fine breadcrumbs, vegetable stock, masala seasoning, parsley and a generous pinch of salt and pepper until the mixture is sticking together. Add a little more flour if mixture is too wet.\n• Using damp hands, form heaped spoonfuls of the mixture into balls, then flatten into 1cm-thick patties. You should get 3-4 patties per person.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6184743b5e07e119ca183417/step-97315444.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat enough oil to coat the base over medium-high heat.\n• When oil is hot, cook patties in batches until golden, 2-3 mins each side (don't flip too early!).\n• Transfer to plate lined with paper towel.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6184743b5e07e119ca183417/step-33ab1f6a.jpg"
+    },
+    {
+      "text": "• Meanwhile, roughly chop tomato.\n• In a medium bowl, combine a drizzle of white wine vinegar and olive oil. Season with salt and pepper.\n• Add tomato and mixed salad leaves. Toss to coat.\n• Divide patties, fries and salad between plates. Serve with garlic aioli.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6184743b5e07e119ca183417/step-31d3f2ce.jpg"
+    }
+  ]
+}

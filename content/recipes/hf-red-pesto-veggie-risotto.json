@@ -1,0 +1,145 @@
+{
+  "slug": "hf-red-pesto-veggie-risotto",
+  "kind": "meal",
+  "title": "Red Pesto & Veggie Risotto",
+  "subtitle": "with Parmesan Cheese",
+  "description": "Our red pesto - made with chargrilled capsicum, sun-dried tomato, Parmesan, basil and garlic - adds a rich depth of flavour to this veggie risotto. Top it off with a sprinkle of Parmesan, and you have a dish that delivers deliciousness with every mouthful.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/red-pesto-veggie-risotto-61f8bd2724ebc0620b24f338",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/red-pesto-veggie-risotto-83e49ba5.jpg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "unit": "bag",
+      "product": "thyme",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb94fd2cb9eb648b456b.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "arborio-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427854dab7105578b456a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 2,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Red Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5c7f6716c445fa311209abc2-642e205d.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695f03ae08b534d76c6e72-a5d378b9.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Finely chop brown onion. Finely chop garlic. Pick thyme leaves.\n• Trim green beans, then roughly chop. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475964378869f89b209a256/step-28f5577d.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat 1/2 the butter with a drizzle of olive oil over medium-high heat.\n• Cook onion, stirring, until softened, 5 minutes.\n• Add garlic and thyme and cook until fragrant, 1 minute.\n• Add arborio rice, stirring to coat. Add the water (2 cups for 2 people / 4 cups for 4 people) and vegetable stock pot. Bring to the boil.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475964378869f89b209a256/step-e78bc662.jpg"
+    },
+    {
+      "text": "• Transfer risotto mixture to a baking dish. Cover tightly with foil, then bake for 20 minutes.\n• Remove risotto from oven. Stir through green beans and a splash of water.\n• Re-cover with foil, then bake until liquid is absorbed, beans are tender and rice is 'al dente', a further 5-8 minutes. TIP: 'Al dente' rice is cooked through but still slightly firm in the centre.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475964378869f89b209a256/step-3340c49f.jpg"
+    },
+    {
+      "text": "• Meanwhile, slice lemon into wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475964378869f89b209a256/step-b780d7ef.jpg"
+    },
+    {
+      "text": "• When the risotto is ready, stir through 1/2 the shaved Parmesan cheese, red pesto, a squeeze of lemon juice and remaining butter.\n• Stir through baby spinach leaves until wilted. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475964378869f89b209a256/step-88cfeb4b.jpg"
+    },
+    {
+      "text": "• Divide red pesto and veggie risotto between bowls.\n• Sprinkle with remaining Parmesan and a pinch of chilli flakes (if using).\n• Serve with any remaining lemon wedges. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475964378869f89b209a256/step-a8f6cc5b.jpg"
+    }
+  ]
+}

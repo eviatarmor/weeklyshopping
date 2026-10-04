@@ -1,0 +1,156 @@
+{
+  "slug": "hf-chermoula-cauliflower-and-bulgur-wheat-with-dill-and-parsley-mayo-and-lemon-hazelnut-topping",
+  "kind": "meal",
+  "title": "Chermoula Cauliflower & Bulgur Wheat with Dill & Parsley Mayo & Lemon Hazelnut Topping",
+  "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
+  "description": "This nutritionally balanced dish is a celebration of wholesome roasted veggies with bulgur wheat and fresh mint. Add chermoula\nspices for extra flavour, then top it off with herby mayo and a sprinkle of zesty hazelnuts.\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-cauliflower-and-bulgur-wheat-with-dill-and-parsley-mayo-and-lemon-hazelnut-topping-6087a1797d0a2d62370b7d6d",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chermoula-cauliflower-freekeh-bowl-3ed11fb3.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east",
+    "balanced",
+    "quick prep",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 3.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "tub",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png"
+    },
+    {
+      "name": "Roasted Hazelnuts",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a274c412c3e083ea66ab712-adc27356.png"
+    },
+    {
+      "name": "Currants",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "currants",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5643d517f8b25ecd248b4567.png"
+    },
+    {
+      "name": "Bulgur Wheat",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60af436993df84485c4db2d3-705c704f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a large saucepan, combine the bulgur wheat, water and vegetable stock pot. Bring to the boil then cook over a medium-high heat until tender, 30-35 minutes. Once the water has been absorbed, transfer to a bowl.\n• TIP: The bulgur wheat will finish cooking in its own\n• steam so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6087a1797d0a2d62370b7d6d/step-8cd39c01.jpg"
+    },
+    {
+      "text": "• While the bulgur wheat is cooking, cut the\n• cauliflower into small florets. Cut the carrot and\n• zucchini into bite-sized chunks. Slice the red onion\n• into thick wedges. Place the veggies, chermoula\n• spice blend and the salt on a lined oven tray. Add\n• a drizzle of olive oil and season with pepper. Toss\n• to coat. Roast until tender, 25-30 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6087a1797d0a2d62370b7d6d/step-7609350f.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, roughly chop\n• the roasted hazelnuts. Roughly chop the baby\n• spinach leaves. Zest the lemon to get a generous\n• pinch and slice into wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6087a1797d0a2d62370b7d6d/step-4134a74c.jpg"
+    },
+    {
+      "text": "• Heat a medium frying pan over a medium-high\n• heat. Add the hazelnuts and lemon zest and toast\n• until fragrant, 1-2 minutes. Season with a pinch\n• of salt and pepper. Transfer to a small bowl and\n• set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6087a1797d0a2d62370b7d6d/step-b4831bd4.jpg"
+    },
+    {
+      "text": "• Add the roasted veggies, currants and spinach to\n• the bulgur wheat and stir to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6087a1797d0a2d62370b7d6d/step-82526bb4.jpg"
+    },
+    {
+      "text": "• Pick and thinly slice the mint leaves (see\n• ingredients). Divide the chermoula veggies and\n• bulgur wheat between bowls. Drizzle with the dill\n• and parsley mayonnaise and sprinkle with the\n• hazelnut crumb. Garnish with the mint. Serve with\n• remaining lemon wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6087a1797d0a2d62370b7d6d/step-9cdff713.jpg"
+    }
+  ]
+}

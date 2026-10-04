@@ -1,0 +1,138 @@
+{
+  "slug": "hf-tofu-and-curried-egg-noodles",
+  "kind": "meal",
+  "title": "Tofu & Curried Egg Noodles",
+  "subtitle": "with Veggies & Crispy Shallots",
+  "description": "It's easy to make a curried noodle dish when you have a can of coconut milk, plus our katsu and ginger pastes handy. Top the saucy noodles with tofu that's crisp on the outside and tender on the inside, thanks to a quick cornflour coating.\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/tofu-and-curried-egg-noodles-6374895cf2957726d00103b1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crispy-tofu-curried-egg-noodles-3946e12f.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "quick",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Egg Noodles",
+      "qty": 1,
+      "unit": "packet",
+      "product": "egg-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593b5df8b25ea41f8b4569.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "cornflour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/57fb2aaa4cdfb5463715df62-3cf223c1.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Katsu Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "katsu-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/604807498c7d13264249801f-452b7744.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56ba8a31fd2cb99b0a8b4567.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a828205ae08b5736b5fc6f2-ce735049.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56ce4d68f8b25e99678b4567-56cfcfb3.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle. Half-fill a medium saucepan with boiling water.\n• Cook egg noodles over medium-high heat, stirring occasionally with a fork to separate, until tender, 4-5 minutes. Drain, rinse and set aside.\n• Meanwhile, slice carrot and zucchini into half-moons.\n• Cut Japanese tofu into bite-sized chunks.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6374895cf2957726d00103b1/step-a60b0816.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine tofu, cornflour, the salt and a pinch of pepper.\n• In a large frying pan, heat a generous drizzle of olive oil over medium-high heat. When oil is hot, shake excess flour off tofu and cook, tossing, until browned, 3-4 minutes.\n• Transfer tofu to a paper towel-lined plate. Cover to keep warm.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6374895cf2957726d00103b1/step-386a99b2.jpg"
+    },
+    {
+      "text": "• Wipe out frying pan, then return pan to high heat with a drizzle of olive oil. Cook carrot and zucchini until tender, 4-5 minutes.\n• Add ginger paste and cook until fragrant, 1 minute.\n• Stir in katsu paste, coconut milk and the soy sauce until combined and heated through, 2-3 minutes.\n• Add cooked noodles and the baby spinach leaves. Cook, stirring, until spinach is wilted, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6374895cf2957726d00103b1/step-1dcbb2df.jpg"
+    },
+    {
+      "text": "• Divide curried egg noodles and crispy tofu between bowls.\n• Drizzle with sweet chilli sauce. Sprinkle with crispy shallots to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6374895cf2957726d00103b1/step-a8191bbf.jpg"
+    }
+  ]
+}

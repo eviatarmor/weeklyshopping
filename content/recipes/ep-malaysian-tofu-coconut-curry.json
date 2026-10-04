@@ -1,0 +1,137 @@
+{
+  "slug": "ep-malaysian-tofu-coconut-curry",
+  "kind": "meal",
+  "title": "Malaysian Tofu & Bean Coconut Curry",
+  "subtitle": "with Garlic Rice & Coriander",
+  "description": "Mild spices, rich coconut and crunchy green beans team up in this tofu curry that brings all the flavour with none of the heat!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/malaysian-tofu-coconut-curry-61e760d5a691d079977aa473",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/655fd1f2cdfd1895a62c3150-2203cc4d.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f2eafd2cb99d038b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Malaysian Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564c060b79a23c164f8b4567.png"
+    },
+    {
+      "name": "Malaysian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "malaysian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee07645a64f1517c4387bb4-93d1ac24.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop or crush garlic. In a medium saucepan, melt the butter with a dash of olive oil over medium heat.\n• Cook 1/2 the garlic until fragrant, 1-2 mins. Add jasmine rice, the water and a generous pinch of salt and bring to the boil. Reduce heat to low and cover with a lid. Cook for 12 mins, then remove from heat and keep covered until rice is tender and the water absorbed, 12 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-655fd1f2cdfd1895a62c3150-5afc0bb4.jpeg"
+    },
+    {
+      "text": "• Meanwhile, thinly slice carrot into half-moons. Trim and halve green beans.\n• Cut tofu into 1cm cubes. In a medium bowl, combine tofu, 1/2 the Malaysian spice blend (add less if you're sensitive to heat!) and a drizzle of olive oil. Season with salt and pepper and toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-655fd1f2cdfd1895a62c3150-08203138.jpeg"
+    },
+    {
+      "text": "• Heat a drizzle of olive oil in a large frying pan over medium-high heat. Cook tofu, turning, until browned, 3-4 mins. Transfer to a bowl.\n• Wipe out frying pan then return to medium-high heat. Add carrot, beans and a splash of water. Stir-fry until softened, 3-4 mins. Stir in remaining garlic, ginger paste and remaining spice with a drizzle of olive oil. Cook until fragrant, 1 min.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-655fd1f2cdfd1895a62c3150-0836cc5f.jpeg"
+    },
+    {
+      "text": "• Return tofu to pan. Add coconut milk, the soy sauce and brown sugar and stir until well combined.\n• Simmer until reduced slightly, 2-3 mins. Season to taste.\n• Divide rice between bowls and top with tofu curry. Sprinkle with torn coriander to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-655fd1f2cdfd1895a62c3150-8086c461.jpeg"
+    }
+  ]
+}

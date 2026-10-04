@@ -1,0 +1,73 @@
+{
+  "slug": "middle-eastern-spice-blend",
+  "kind": "blend",
+  "title": "Middle Eastern Spice Blend",
+  "description": "From the r/hellofresh DIY spice blend master list, scaled so one batch (about 3 tsp) replaces one sachet. Original ratio: 5 sweet paprika, 3 garlic powder, 2 ground turmeric, 2 ground coriander, 2 black pepper, 1 ground allspice, 2.5 salt.",
+  "sourceUrl": "https://www.reddit.com/r/hellofresh/comments/giy5tc/hello_fresh_diy_spice_blends/",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend",
+    "reddit"
+  ],
+  "aliases": [
+    "Middle Eastern Spice Sachet",
+    "Middle Eastern Spice Mix",
+    "Middle Eastern Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.875,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Allspice",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "ground-allspice"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever a recipe calls for 1 sachet."
+    },
+    {
+      "text": "To keep a jar: multiply every amount by the same number (e.g. ×8 fills a small spice jar)."
+    }
+  ]
+}

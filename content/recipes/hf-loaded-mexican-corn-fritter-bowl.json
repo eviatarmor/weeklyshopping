@@ -1,0 +1,183 @@
+{
+  "slug": "hf-loaded-mexican-corn-fritter-bowl",
+  "kind": "meal",
+  "title": "Loaded Mexican Corn Fritters & Guacamole",
+  "subtitle": "with Rice & Tomato Salsa",
+  "description": "These gloriously bright fritters are both crunchy and sweet and they’re offset perfectly by an A-team of tangy sour cream, guacamole and zesty salsa. If you fancy it, you could also break out your favourite hot sauce for these bad boys!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/loaded-mexican-corn-fritter-bowl-67f8531fcade9b9f0ace4445",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1009_W41_AU_R5249-9_Main_high-95a3896e.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "classic",
+    "naturally gf",
+    "spicy",
+    "classic-plates",
+    "latin-american-faves"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ca3405d840b2be34c7-a2a96259.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bac-092c7dc3.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723791105c9621030b4c44-b094ccb8.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5093-c21ef0b3.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddec2793e8cdd8467ec8-55ae4756.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf52793e8cdd8467ede-ab9ca8fe.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop garlic. <br>• In a large saucepan, melt the butter with a dash of <br>olive oil over a medium heat. Add garlic and cook <br>until fragrant, 1-2 minutes. <br>• Add basmati rice, the water and a generous pinch <br>of salt, stir, then bring to the boil. Reduce heat to <br>low and cover with a lid. <br>• Cook for 10 minutes, then remove from heat <br>and keep covered until rice is tender and water is <br>absorbed, 10 minutes. <br>TIP: The rice will finish cooking in its own steam so don’t <br>peek! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/687dd765c30d33981f9b228e/step-93c39100.jpg"
+    },
+    {
+      "text": "• <p>• While the rice is cooking, thinly slice spring onion. <br>• Roughly chop coriander. <br>• Finely chop tomato and cucumber. <br>• Drain sweetcorn.<br>• Cut lemon into wedges. <br>• In a medium bowl, combine tomato and cucumber, <br>a squeeze of lemon juice and a drizzle of olive oil. <br>Season with salt and pepper. Set aside. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/687dd765c30d33981f9b228e/step-c7d53e10.jpg"
+    },
+    {
+      "text": "• <p>• Scoop out flesh of avocado and place in a second <br>medium bowl. Roughly mash with the back of a fork. <br>• Add a squeeze of lemon juice. Season to taste, then <br>mix well. Set aside. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/687dd765c30d33981f9b228e/step-74998f20.jpg"
+    },
+    {
+      "text": "• <p>• SPICY! The spice blend is hot, use less if you’re <br>sensitive to heat. In a large bowl, combine <br>sweetcorn, Cheddar cheese, spring onion, <br>coriander, Mexican Fiesta spice blend, stock <br>concentrate, the plain flour, egg and milk. <br>TIP: Lift out some of the mixture with a spoon. If it’s too <br>wet and doesn’t hold its shape, add a little more flour! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/687dd765c30d33981f9b228e/step-7dc4da30.jpg"
+    },
+    {
+      "text": "• <p>• Heat a large frying pan over medium-high heat with <br>enough olive oil to coat the base. <br>• When the oil is hot, add heaped tablespoons of <br>the fritter mixture in batches and flatten with a <br>spatula. Cook until golden, 3-4 minutes each side <br>(don’t flip too early!). Transfer to a plate lined with <br>paper towel. You should get 3-4 fritters per person. <br>TIP: Add extra olive oil between batches as needed.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/687dd765c30d33981f9b228e/step-2f5c8d40.jpg"
+    },
+    {
+      "text": "• <p>• Divide rice between bowls. <br>• Top with the loaded Mexican corn fritters, <br>guacamole, tomato salsa and light sour cream. <br>• Serve with any remaining lemon wedges. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/687dd765c30d33981f9b228e/step-bad51b50.jpg"
+    }
+  ]
+}

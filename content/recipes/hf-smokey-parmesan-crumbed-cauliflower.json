@@ -1,0 +1,126 @@
+{
+  "slug": "hf-smokey-parmesan-crumbed-cauliflower",
+  "kind": "meal",
+  "title": "Cosy Double Parmesan-Crumbed Cauliflower",
+  "subtitle": "with Fries & Apple-Almond Salad",
+  "description": "Try our new trick for crumbed cauliflower, where garlic aioli acts as the glue for a flavourful mix of panko breadcrumbs, spices and sharp Parmesan. Serve with hand cut fries and an almond-adorned salad for a hearty meal that is equal parts comfy and cosy! \nEveryone’s favourite feline movie star Garfield is drooling over this delicious recipe, so we know you’ll love it too. This recipe could be your ticket to winning big so get cosy, dig in and enjoy! Don't miss The Garfield Movie, exclusively in cinemas.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/smokey-parmesan-crumbed-cauliflower-5e719d90890edc6b891000e5",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/662769246904e640b524e106-5d1cbf2d.png",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "quick prep",
+    "cosy-comforts"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Garlic Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237513405d840b2be3793-0eee580a.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ba3405d840b2be39b2-10afbe06.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349d-a27df8b5.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 2,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Apple",
+      "qty": 1,
+      "product": "apple",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/576b321b4dab71d7168b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "unit": "drizzle",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Cut potato into fries.\n• Place fries on a lined oven tray. Drizzle with olive oil and toss to coat.\n• Bake until tender, 25-30 minutes. TIP: If your oven tray is crowded, divide the fries between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-662769246904e640b524e106-1d8a8c8e.jpeg"
+    },
+    {
+      "text": "• Meanwhile, cut cauliflower into small florets.\n• In a medium bowl, add half the garlic aioli. In a second medium bowl, combine panko breadcrumbs, all-American spice blend, garlic & herb seasoning, half the Parmesan cheese and a good drizzle of olive oil.\n• Toss a handful of cauliflower in the aioli until well coated. Transfer to breadcrumb mixture and toss to coat. Transfer to a second lined oven tray, then repeat with remaining cauliflower.\n• Spread cauliflower out in a single layer. Bake until golden, 20-25 minutes. TIP: Cut the cauliflower to the correct size so it cooks in the allocated time.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-662769246904e640b524e106-2d5197cc.jpeg"
+    },
+    {
+      "text": "• While the cauliflower is baking, thinly slice apple into wedges. Grate carrot.\n• In a medium bowl, combine a drizzle of balsamic vinegar and olive oil. Season, then add mixed salad leaves, apple and carrot. Toss to coat.\n• In a small bowl, combine remaining aioli with a splash of water.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-662769246904e640b524e106-78973138.jpeg"
+    },
+    {
+      "text": "• Divide Parmesan-crumbed cauliflower, fries and apple salad between plates.\n• Drizzle aioli over cauliflower. Sprinkle remaining cheese over cauliflower.\n• Sprinkle flaked almonds over salad to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-662769246904e640b524e106-cd59a31f.jpeg"
+    }
+  ]
+}

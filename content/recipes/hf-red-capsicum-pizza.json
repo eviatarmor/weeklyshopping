@@ -1,0 +1,98 @@
+{
+  "slug": "hf-red-capsicum-pizza",
+  "kind": "meal",
+  "title": "Red Capsicum Pizza",
+  "subtitle": "with Mozzarella & Rocket",
+  "description": "When it comes to amazing weeknight pizzas, we only see red! Red capsicum, smoky and sweet, red onion and Kalamata olives on a rich red tomato base. Pop on your favourite Split Enz track and enjoy the hint of pine nuts and gooey mozzarella that complete this super simple pizza you won’t want to share.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/red-capsicum-pizza-587c44072e69d766271f6153",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/red-capsicum-pizza-with-mozzarella-and-rocket-b4b3b503.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "egg free",
+    "high protein"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wholemeal Pizza Bases",
+      "qty": 2,
+      "product": "pizza-bases",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55ff55b04dab717d588b4568.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55681f18fd2cb977228b4568.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Kalamata Olives",
+      "qty": 1,
+      "unit": "tub",
+      "product": "olives",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556879cefd2cb983298b456b.png"
+    },
+    {
+      "name": "Pine Nuts",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "pine-nuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d580af8b25e246c8b4569.png"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "qty": 1,
+      "unit": "block",
+      "product": "mozzarella",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/570f1a42fd2cb997108b4569.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 0.5,
+      "unit": "bag",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, thinly slice the red capsicum and red onion, halve the kalamata olives (check for pits), and grate the mozzarella cheese."
+    },
+    {
+      "text": "• Place the wholemeal pizza bases on a flat surface, rough side down, and spread evenly with the tomato paste using the back of a spoon. Top with the red capsicum, red onion, kalamata olives, pine nuts and mozzarella cheese. Place in the oven directly onto the wire racks and cook for 10-15 minutes, or until the cheese has melted and the bases are crispy.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c44072e69d766271f6153-1-0-67806470.jpg"
+    },
+    {
+      "text": "• Meanwhile, in a large bowl toss the rocket leaves in the olive oil and season with salt and pepper."
+    },
+    {
+      "text": "• Serve the pizza with the dressed rocket. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c44072e69d766271f6153-3-0-3446534e.jpg"
+    }
+  ]
+}

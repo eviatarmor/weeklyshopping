@@ -1,0 +1,134 @@
+{
+  "slug": "ep-broccoli-and-capsicum-noodle-stir-fry",
+  "kind": "meal",
+  "title": "Broccoli & Capsicum Noodle Stir-Fry",
+  "subtitle": "with Crushed Peanuts & Fried Egg",
+  "description": "Slurp up some tender udon noodles coated in a sweet and tangy sauce, stir fried with colourful veggies. don't forget to top with a fried egg for a flavourful meat-free dinner winner.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/broccoli-and-capsicum-noodle-stir-fry-67f83f744264524ca978f0a6",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/663c7ced92f430b61ffd6522-bc09fc3f-39e8efef.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "everyplate",
+    "chinese",
+    "quick",
+    "speedy",
+    "vegetarian",
+    "20 min or less",
+    "pasta-noodles",
+    "pan-asian-plates"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6a-9ba9c536.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572372e105c9621030b4a46-be70de7c.png"
+    },
+    {
+      "name": "Udon Noodles",
+      "qty": 1,
+      "unit": "packet",
+      "product": "udon-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833b04264524ca978b049-4b169d1d.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a5-46d60eb4.png"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "product": "broccoli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384eb33a6ad8f0f05d05-c1365f94.png"
+    },
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833530d0527cba53a4a24-433090ea.png"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "hoisin-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237613405d840b2be37cf-daaa1e3d.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271b-6bab1a34.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0e9690d86caac9265f-9bd017a5.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de61635bf0b638cfba5d-7bacd1e2.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92531-6c19cc26.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Boil the kettle. Half-fill a medium saucepan with boiling water.<br>• Cook udon noodles over medium-high heat, gently stirring with a fork to separate, until tender, 1-2 mins.<br>• Drain, rinse and set aside. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6948a1c439d4849fb457840a/step-adfd8200.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, in a large frying pan, heat a drizzle of olive oil over medium-high heat.<br>• Fry the eggs until cooked to your liking , 4-5 mins. Transfer to a plate and cover to keep warm.<br>• While eggs are frying, chop broccoli (including stalk!) into small florets. Thinly slice carrot into rounds. Thinly slice capsicum and red onion.<br>• In a small bowl, combine sweet soy seasoning, hoisin sauce, the brown sugar and water.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6948a1c439d4849fb457840a/step-1c9a1810.jpeg"
+    },
+    {
+      "text": "• <p>• Wipe out frying pan and return to high heat with a drizzle of olive oil.<br>• Stir-fry broccoli, carrot, capsicum and onion in batches until tender, 5-6 mins.<br>• Remove pan from heat, add cooked noodles and return all veggies to the pan. Stir in hoisin sauce mixture and the soy sauce, toss until combined. Season with salt and pepper to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6948a1c439d4849fb457840a/step-954a4020.jpeg"
+    },
+    {
+      "text": "• <p>• Divide broccoli and capsicum noodle stir-fry between bowls.<br>• Top with fried egg. Sprinkle with crushed peanuts to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6948a1c439d4849fb457840a/step-b628a330.jpeg"
+    }
+  ]
+}

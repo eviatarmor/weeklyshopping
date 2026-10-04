@@ -1,0 +1,177 @@
+{
+  "slug": "hf-southeast-asian-tofu-coconut-curry",
+  "kind": "meal",
+  "title": "Curry Night: Southeast Asian Tofu Curry",
+  "subtitle": "with Ginger-Garlic Rice & Crushed Peanuts",
+  "description": "This golden tofu dish comes together in four surprisingly simple steps, partly thanks to some shortcut ingredients. Wait\ntill you try the coconut sauce; it's creamy and umami with a touch of sweetness and zing, and the chewy udon soak it up beautifully.\nDue to recent sourcing\nchallenges, we’ve\nreplaced bamboo shoots\nwith zucchini and red\nonion with brown\nonion, which may be a\nlittle different to what’s\npictured. Don’t worry,\nyour recipe will be just\nas delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/southeast-asian-tofu-coconut-curry-61dd11719b00982f207c467f",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/southeast-asian-tofu-coconut-curry-725e0106.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "asian",
+    "climate superstar",
+    "easy prep",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6048005c8ee9c4452b01d358-050426b9.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56ce4d68f8b25e99678b4567-56cfcfb3.png"
+    },
+    {
+      "name": "Southeast Asian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "southeast-asian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d5cc6284da29b00112c6c62-58b68ca4.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add667930006c66b57f1712-2fea204a.png"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "cornflour",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/558b43cffd2cb9a64e8b456c-3cf223c1.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop garlic.\n• In a medium saucepan, heat the plant-based butter with a dash of olive oil over medium heat. Cook ginger paste and garlic until fragrant, 1-2 minutes.\n• Add basmati rice, the water (for the rice) and a generous pinch of salt. Stir, then bring to the boil.\n• Reduce heat to low and cover with a lid. Cook for 10 minutes, then remove from heat.\n• Keep covered until rice is tender and water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63158dd574431fc09c078f4a/step-29b12594.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, thinly slice carrot and zucchini into half-moons. Thinly slice brown onion (see ingredients).\n• Cut Japanese tofu into 2cm chunks.\n• In a medium bowl, combine cornflour and a pinch of salt and pepper. Add tofu, tossing to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63158dd574431fc09c078f4a/step-56904d85.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a generous drizzle of olive oil over medium-high heat. Shake excess flour off tofu.\n• Cook tofu, stirring, until browned on all sides, 3-4 minutes. Transfer to a paper towel-lined plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63158dd574431fc09c078f4a/step-f335a429.jpg"
+    },
+    {
+      "text": "• Wipe out frying pan, then return to medium-high heat with a drizzle of olive oil. Stir-fry the onion, carrot and zucchini until tender, 5-6 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63158dd574431fc09c078f4a/step-1737c233.jpg"
+    },
+    {
+      "text": "• Add Southeast Asian spice blend to the veggies in the pan and cook, stirring, until fragrant, 1 minute.\n• Stir in coconut milk, the water (for the curry), the soy sauce and brown sugar. Simmer until slightly thickened, 1-2 minutes.\n• Return tofu to pan. Add baby spinach leaves and cook, stirring, until spinach is wilted.\n• Remove from heat. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63158dd574431fc09c078f4a/step-184ef364.jpg"
+    },
+    {
+      "text": "• Divide Southeast Asian tofu and coconut curry and ginger-garlic rice between bowls.\n• Sprinkle with crushed peanuts to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63158dd574431fc09c078f4a/step-575184e3.jpg"
+    }
+  ]
+}

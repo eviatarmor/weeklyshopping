@@ -1,0 +1,151 @@
+{
+  "slug": "ep-baked-tomato-and-zucchini-risotto",
+  "kind": "meal",
+  "title": "Baked Tomato & Zucchini Risotto",
+  "subtitle": "with Baby Spinach & Flaked Almonds",
+  "description": "Oven baked and oh-so-easy, this cheesy risotto will totally hit the spot and have everyone asking for more!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/baked-tomato-and-zucchini-risotto-67f841840d0527cba53a9291",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/672d85ac1cd01ca44ffc085d-cb64fce4-eb837d45.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "everyplate",
+    "italian",
+    "naturally gf",
+    "vegetarian",
+    "rice"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tomato-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/66722505967e04d996337614-70525bf7.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833564264524ca978aec4-6fe4b4c1.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561c-5667c8d1.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399a-6f7ad071.png"
+    },
+    {
+      "name": "Risotto-Style Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "white-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6656647f3c6f67065179ff41-8e45b4bc.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd1-a177488d.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f0592f-be003035.png"
+    },
+    {
+      "name": "Arborio Rice",
+      "unit": "packet",
+      "product": "arborio-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c2105c9621030b47fc-a492b438.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf426-58b03ce0.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de332793e8cdd8467f59-a0462d01.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced.<br>• Thinly slice brown onion. Finely chop or crush garlic.<br>• Cut tomato into thin wedges. Cut zucchini into rounds. Cut lemon into wedges. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68b0eb7f45a3b6207f7e46ff/step-f8914000.jpeg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook onion until softened, 3-4 mins.<br>• Stir in tomato &amp; herb seasoning, the stock powder, water and risotto rice. Bring to the boil, then remove from heat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68b0eb7f45a3b6207f7e46ff/step-8954d010.jpeg"
+    },
+    {
+      "text": "• <p>• Transfer risotto to a large baking dish.<br>• Cover tightly with foil and bake until liquid is absorbed and rice is ‘al dente’, <br>24-28 mins.<br>• When risotto has 8 mins remaining, wipe out frying pan, then return to medium\u0002high heat with a drizzle of olive oil. Cook tomato and zucchini, tossing, until softened, 4-5 mins.<br>• Add garlic and cook until fragrant, 1 min.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68b0eb7f45a3b6207f7e46ff/step-1cc0e320.jpeg"
+    },
+    {
+      "text": "• <p>• Stir Parmesan cheese, the butter, a squeeze of lemon juice and baby spinach through risotto until spinach has wilted. Add a splash of water to loosen if needed.<br>• Gently stir through cooked veggies. Season with salt and pepper to taste.<br>• Divide risotto between bowls. Sprinkle with the chilli flakes (if using) and <br>flaked almonds.<br>• Serve with remaining lemon wedges.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68b0eb7f45a3b6207f7e46ff/step-81c05030.jpeg"
+    }
+  ]
+}

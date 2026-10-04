@@ -1,0 +1,108 @@
+{
+  "slug": "hf-stuffed-fetta-and-thyme-mushrooms",
+  "kind": "meal",
+  "title": "Stuffed Fetta & Thyme Mushrooms",
+  "subtitle": "with Fresh Rocket",
+  "description": "These glorious bundles of joy won’t fail to impress! Salty fetta and kalamata olives, smokey paprika and earthy thyme are the perfect ingredients to bring out the flavours of your roasted mushrooms. You won’t believe how cheffy these little parcels turn out – whip ’em out if you’re looking to impress!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/stuffed-fetta-and-thyme-mushrooms-585723be4348d2520960f792",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/stuffed-fetta-thyme-mushrooms-67c00820.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "egg free",
+    "nut free"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Kalamata Olives",
+      "qty": 1,
+      "unit": "tub",
+      "product": "olives",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556879cefd2cb983298b456b.png"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "smoked-paprika",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c1bf8b25e921f8b456d.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be3bcf8b25e165a8b4567.png"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "thyme",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb94fd2cb9eb648b456b.png"
+    },
+    {
+      "name": "Fetta Cheese",
+      "qty": 1,
+      "unit": "block",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be7a34dab71aa0a8b4568.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Field Mushrooms",
+      "qty": 4,
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55687e5e4dab71d51e8b456c.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200ºC/180ºC fan-forced. To prepare the ingredients, finely chop the brown onion and thyme. Peel and crush the garlic, and pit and dice the kalamata olives. Crumble the fetta cheese, leave the field mushroom cups whole and slice the stems, and wash the rocket leaves.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585723be4348d2520960f792-0-0-7d73dd0c.jpg"
+    },
+    {
+      "text": "• Combine the brown onion, garlic, kalamata olives, smoked paprika, panko breadcrumbs, thyme, fetta cheese and olive oil in a large bowl. Add in the chopped mushroom stems and season well with salt and pepper to taste. Mix until well combined.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585723be4348d2520960f792-1-0-c108295f.jpg"
+    },
+    {
+      "text": "• Arrange the mushroom cups side up on a lined baking tray. Generously spoon the filling into each mushroom, drizzle over some olive oil and place the tray into the preheated oven. Bake for 20-25 minutes, or until the topping is golden.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585723be4348d2520960f792-2-0-4d43a168.jpg"
+    },
+    {
+      "text": "• To serve, divide the mushrooms between plates with the rocket leaves on the side. Simple and delicious!"
+    }
+  ]
+}

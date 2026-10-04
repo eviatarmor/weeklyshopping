@@ -1,0 +1,48 @@
+{
+  "slug": "ml-peanut-butter-banana-honey-tortilla-roll-ups",
+  "kind": "meal",
+  "title": "Peanut Butter, Banana & Honey Tortilla Roll-Ups",
+  "sourceUrl": "https://www.mealime.com/recipes/peanut-butter-banana-honey-tortilla-roll-ups/23630",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2664/presentation_3c7be14d-fe1b-446a-ac4e-85f67d2d5a70.jpeg",
+  "servings": 4,
+  "prepMinutes": 8,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 2,
+      "product": "banana"
+    },
+    {
+      "name": "Large Flour Tortillas",
+      "qty": 2,
+      "product": "wraps"
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Natural Peanut Butter",
+      "product": "peanut-butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place tortillas on a cutting board. Spread peanut butter evenly over each tortilla, then drizzle with honey."
+    },
+    {
+      "text": "Peel bananas and place at one end of each tortilla. Roll each tortilla up around the banana, then slice crosswise into 1-inch rounds."
+    },
+    {
+      "text": "To serve, divide roll-ups between plates. Enjoy!"
+    }
+  ]
+}

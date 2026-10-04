@@ -1,0 +1,103 @@
+{
+  "slug": "hf-pumpkin-pasta-burnt-butter-sauce",
+  "kind": "meal",
+  "title": "Roast Pumpkin Pasta",
+  "subtitle": "with Walnuts & Burnt Butter Sauce",
+  "description": "This wholegrain pasta is a symphony of subtle flavours and textures; you’re going to love it. Sweet, caramelised pumpkin creates a creaminess all by itself, while browned butter provides a nutty base for the crispy sage and toasted walnuts. All that’s left to do is to finish with some fresh Parmesan cheese.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/pumpkin-pasta-burnt-butter-sauce-569f1f41fd2cb901118b4567",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/569f1f41fd2cb901118b4567.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "high fiber",
+    "low sodium",
+    "under 30 minutes"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spiral Pasta",
+      "qty": 200,
+      "unit": "g",
+      "product": "fusilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55fb5b034dab71d74f8b4568-70eee6fb.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 400,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be349fd2cb95d648b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Sage",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "sage",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be46cfd2cb9e7648b4567.png"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "walnuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682d72fd2cb9bf248b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 0.75,
+      "unit": "block",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427be4dab7105578b456b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• To prepare the ingredients, thinly slice the brown onion. Peel the pumpkin and cut it into 1 cm cubes. Tear the sage leaves. Finely grate the Parmesan cheese and wash the baby spinach.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/569f1f41fd2cb901118b4567/step_569f21097da54.jpg"
+    },
+    {
+      "text": "• Bring a large saucepan of salted water to a boil. Add the wholemeal fusilli pasta and cook for 10 minutes or until ‘al dente’. Drain well and return to the saucepan off the heat."
+    },
+    {
+      "text": "• Meanwhile, heat half of the olive oil in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for 3 minutes or until soft. Remove the onion from the frying pan.Heat the remaining oil in the same frying pan and add the pumpkin. Cook, without stirring, for 4 minutes or until it starts to caramelise on the bottom. Give the pan a shake to redistribute the pumpkin and then continue cooking for a further 4 minutes. Add the cooked onion, butter, sage and walnuts and continue cooking until the butter begins to brown and the sage crisps up (about 1-2 minutes). Remove from the heat and stir through the wholemeal spirals with the baby spinach (it will wilt as you stir it through).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/569f1f41fd2cb901118b4567/step_569f2109a55af.jpg"
+    },
+    {
+      "text": "• Add the freshly grated Parmesan cheese and toss to coat well. Season to taste with salt and pepper and dress with extra olive oil to coat."
+    }
+  ]
+}

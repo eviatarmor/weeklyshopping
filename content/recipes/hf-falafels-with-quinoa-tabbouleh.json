@@ -1,0 +1,99 @@
+{
+  "slug": "hf-falafels-with-quinoa-tabbouleh",
+  "kind": "meal",
+  "title": "Falafels with Quinoa Tabbouleh",
+  "subtitle": "& Hummus",
+  "description": "This falafel dish is a testament to the wisdom of traditional Middle Eastern cooking, with a twist. We’ve thrown in some quinoa instead of the traditional burghul and we think you’ll love it. Falafels are delicious but thirsty little creatures, so don’t be afraid to be generous with hummus and lemon.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/falafels-with-quinoa-tabbouleh-564c088cfd2cb9c3098b4568",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/564c088cfd2cb9c3098b4568.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "lebanese",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Falafels",
+      "qty": 1,
+      "unit": "packet",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55b9adfaf8b25e81298b4567.png"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "quinoa",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbf69f8b25ee4738b4567.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6ef2f8b25ee4718b4568.png"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 0.5,
+      "unit": "punnet",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb8a4dab71aa0a8b4569.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Hummus",
+      "qty": 1,
+      "unit": "tub",
+      "product": "hummus",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e76f8b25e68108b4568.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, rinse the quinoa. Halve the tomatoes, dice the cucumber, and finely chop the  parsley. Slice the lemon into wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c088cfd2cb9c3098b4568/step_564c09d1f1406.jpg"
+    },
+    {
+      "text": "• Place the quinoa in a small saucepan and cover with the boiling water. Bring to the boil. Simmer for 12-15 minutes or until the quinoa is tender. Drain. Transfer to a large bowl and stir through the cherry tomato, cucumber, parsley and red onion. Drizzle with some olive oil and season to taste with salt and pepper. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c088cfd2cb9c3098b4568/step_56e9d7d8e6d52.jpg"
+    },
+    {
+      "text": "• Meanwhile, place the falafels on the prepared oven tray. Cook in the oven for 5-10 minutes or until heated through.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c088cfd2cb9c3098b4568/step_56e9d7d910834.jpg"
+    },
+    {
+      "text": "• To serve, divide the quinoa tabbouleh between bowls and top with the falafels and hummus. Squeeze with the lemon wedges and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "slug": "hf-creamy-lentil-veggie-dhal",
+  "kind": "meal",
+  "title": "Bengali Coconut Lentil & Veggie Dhal",
+  "subtitle": "with Chilli Tortillas & Yoghurt",
+  "description": "Dhal is always delicious but this version raises the bar, with a creamy coconut base, mild spices and loads of veggies to keep\nthings interesting. The flatbreads are delightful for dipping - make them as mild or spicy as you'd like.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-lentil-veggie-dhal-61f9fa807f66ba6620393d5f",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65235c2de4436936d49a4522-e338fd32.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "climate superstar",
+    "diwali"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Red Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/556c5a3bf8b25ea3688b4568-6b48f527.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Brown Mustard Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "mustard-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5c1b4696e3f339243621b652-a73b9d6c.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.66,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Bengal Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56de2bfb4dab715c428b4569-a466620b.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop brown onion and garlic.\n• Rinse red lentils.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65235c2de4436936d49a4522-7a8e29ae.jpeg"
+    },
+    {
+      "text": "• In a large saucepan, heat the butter and a drizzle of olive oil over medium-high heat. Cook onion, stirring, until softened, 3-4 minutes.\n• Add ginger paste and garlic and cook until fragrant, 1 minute.\n• Add a drizzle more oil, then add Bengal curry paste, tomato paste and brown mustard seeds. Cook, stirring, until fragrant, 2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65235c2de4436936d49a4522-330daf4e.jpeg"
+    },
+    {
+      "text": "• Add the water, the salt, lentils and coconut milk. Stir well to combine. Cover with a lid, then reduce heat to medium and simmer, stirring occasionally, until the lentils are softened, 20-25 minutes.\n• Meanwhile, grate carrot. Roughly chop tomato.\n• When the dhal has 10 minutes remaining, remove the lid and stir through carrot and tomato. Continue cooking until the lentils and veggies are softened. TIP: Add a splash of water if the dhal looks dry.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65235c2de4436936d49a4522-563b00c1.jpeg"
+    },
+    {
+      "text": "• Heat some olive oil (2 tbs for 2 people / 1/4 cup for 4 people) in a medium frying pan over medium-high heat. Add a pinch of chilli flakes (if using) and a pinch of salt and cook until fragrant, 1 minute. Transfer chilli oil to a small bowl.\n• Brush some chilli oil over both sides of each mini flourtortilla.\n• Return pan to a medium-high heat. Cook tortillas, until golden, 1 minute each side.\n• Transfer to a plate lined with paper towel. Repeat with the remaining tortillas.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65235c2de4436936d49a4522-02a65e2c.jpeg"
+    },
+    {
+      "text": "• When the dhal is ready, stir through baby spinach leaves until just wilted, 1 minute. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65235c2de4436936d49a4522-2d88b4c6.jpeg"
+    },
+    {
+      "text": "• Divide the coconut lentil dhal between bowls.\n• Top with Greek-style yoghurt and tear over mint.\n• Serve with chilli flatbreads. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65235c2de4436936d49a4522-2975e332.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "hf-chermoula-pumpkin-and-haloumi-couscous-salad",
+  "kind": "meal",
+  "title": "Chermoula Pumpkin, Haloumi & Rainbow Veg Couscous",
+  "subtitle": "with Chimichurri & Plant-Based Smokey Aioli",
+  "description": "Naturally sweet roasted pumpkin and haloumi works a treat with the paprika, cumin, turmeric and pepper in our chermoula spice blend. It's even better with the roast veggie-loaded couscous - complete with crunchy flaked almonds, a dollop of herby chimichurri and a dollop of smokey aioli, which you'd never know is plant-based!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-pumpkin-and-haloumi-couscous-salad-62fdfcbbdc23d8eec50a28f3",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a048c60ac954f02b194b81-a918b57f.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "south american"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be349fd2cb95d648b4567.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528450-e6b2d1a6.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6ef2f8b25ee4718b4568.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chimichurri",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6087b729690cc71eea1fc279-91038a78.png"
+    },
+    {
+      "name": "Plant-Based Smokey Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60e785d5eac2635cbc3b67c5-6354652b.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut butternut pumpkin into thin wedges.\n• Place pumpkin on a lined oven tray. Drizzle with olive oil, sprinkle with chermoula spice blend and season with salt and pepper. Toss to coat.\n• Slice haloumi into 1cm-thick slices. In a medium bowl, add haloumi and cover with water. TIP: Peel the pumpkin, if you prefer!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a048c60ac954f02b194b81-f5f2eeff.jpeg"
+    },
+    {
+      "text": "• Cut capsicum into bite-sized chunks.\n• Cut beetroot into 1cm chunks.\n• Cut red onion into thick wedges.\n• Place capsicum, beetroot and onion on a second lined oven tray. Drizzle with olive oil, sprinkle with garlic & herb seasoning and season with salt. Toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a048c60ac954f02b194b81-8e7c8fac.jpeg"
+    },
+    {
+      "text": "• Spread the pumpkin and veggies out in a single layer.\n• Roast until tender, 20-25 minutes.\n• While the veggies have 10 minutes remaining, drain haloumi and pat dry. In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook haloumi until golden brown, 1-2 minutes each side. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a048c60ac954f02b194b81-3ccd8ada.jpeg"
+    },
+    {
+      "text": "• When the veggies have 5 minutes remaining, boil the kettle.\n• In a large heatproof bowl, combine couscous and vegetable stock powder. Add the boiling water (3/4 cup for 2 people / 1 1/2 cups for 4 people). Stir to combine. • Immediately cover with a plate and leave for 5 minutes.\n• Fluff up with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a048c60ac954f02b194b81-1c2b222a.jpeg"
+    },
+    {
+      "text": "• When the couscous is ready, top with baby spinach leaves, roasted capsicum, beetroot and onion.\n• Drizzle with white wine vinegar and olive oil. Gently toss to combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a048c60ac954f02b194b81-3642e91c.jpeg"
+    },
+    {
+      "text": "• Divide couscous salad between plates. Top couscous salad with chermoula pumpkin and haloumi.\n• Dollop over chimichurri sauce and plant-based smokey aioli.\n• Sprinkle with flaked almonds to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a048c60ac954f02b194b81-f7df174e.jpeg"
+    }
+  ]
+}

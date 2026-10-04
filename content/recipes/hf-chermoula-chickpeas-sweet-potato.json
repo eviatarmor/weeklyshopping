@@ -1,0 +1,182 @@
+{
+  "slug": "hf-chermoula-chickpeas-sweet-potato",
+  "kind": "meal",
+  "title": "Chermoula Chickpeas & Sweet Potato",
+  "subtitle": "with Couscous & Fetta-Yoghurt Sauce",
+  "description": "Mild Moroccan spices mingle with hearty chickpeas in a sweet, velvety tomato sauce in this surprisingly simple vegetarian\nmeal. Topped with a fetta-spiked yoghurt for tang and creaminess, plus flaked almonds for crunch, there's nothing missing\nhere!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-chickpeas-sweet-potato-6487ed9298db3bf5567d3ca1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chermoula-spiced-chickpeas-5f0278ba.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea5b8399c9158e21a1fda-673e0e85.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Fetta Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be7a34dab71aa0a8b4568.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aceaa5830006c19d70ba382-01559f82.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan forced.\n• Cut sweet potato into bite-sized chunks.\n• Place sweet potato on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat.\n• Roast until tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6487ed9298db3bf5567d3ca1-6c69e659.jpeg"
+    },
+    {
+      "text": "• While sweet potato is roasting, thinly slice red onion.\n• In a small bowl, combine the vinegar and a good pinch of sugar and salt. Scrunch half the onion in your hands, then add it to the pickling liquid. Add enough water to just cover onion, then set aside.\n• Finely chop garlic. Roughly chop baby spinach leaves.\n• Drain and rinse chickpeas.\n• Halve snacking tomatoes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6487ed9298db3bf5567d3ca1-5a4b49df.jpeg"
+    },
+    {
+      "text": "• In a medium saucepan, heat a drizzle of olive oil over medium-high heat. Cook half the garlic, until fragrant, 1 minute.\n• Add the water and vegetable stock powder and bring to the boil. Add couscous and another drizzle of olive oil. Stir to combine, cover with a lid and remove from heat. Set aside until water is absorbed, 5 minutes.\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook remaining garlic, stirring, until fragrant, 1 minute. Transfer to a small bowl.\n• Add fetta cubes, mashing to combine. Stir in Greek-style yoghurt. Season with pepper.\n• Fluff couscous up with a fork and set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6487ed9298db3bf5567d3ca1-3c80c0bb.jpeg"
+    },
+    {
+      "text": "• Return frying pan to medium-high heat with a drizzle of olive oil. Cook remaining onion, stirring, until softened, 3-4 minutes.\n• Add chermoula spice blend and cook until fragrant, 1 minute. Add chickpeas and cook, stirring, until softened, 2-3 minutes.\n• Add the butter, the brown sugar and tomato paste, stirring to combine. Simmer until thickened, 2-3 minutes. Season to taste. Stir through roasted sweet potato. TIP: Add a dash of water to loosen the mixture, if you'd like!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6487ed9298db3bf5567d3ca1-98dbdc23.jpeg"
+    },
+    {
+      "text": "• While chickpea mixture is simmering, roughly chop parsley.\n• Drain pickled onion.\n• In a medium bowl, combine parsley, pickled onion, snacking tomatoes and a drizzle of olive oil. Season to taste and set aside.\n• To the saucepan with couscous, stir through baby spinach. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6487ed9298db3bf5567d3ca1-05d12096.jpeg"
+    },
+    {
+      "text": "• Divide couscous between bowls. Top with chermoula-spiced chickpeas and sweet potato and a helping of salad.\n• Dollop over the fetta-yoghurt sauce. Sprinkle with flaked almonds to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6487ed9298db3bf5567d3ca1-751aab13.jpeg"
+    }
+  ]
+}

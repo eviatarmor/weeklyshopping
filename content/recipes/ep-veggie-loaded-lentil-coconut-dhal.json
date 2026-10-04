@@ -1,0 +1,156 @@
+{
+  "slug": "ep-veggie-loaded-lentil-coconut-dhal",
+  "kind": "meal",
+  "title": "Veggie-Loaded Lentil Coconut Dhal",
+  "subtitle": "with Double Yoghurt, Flatbread Dippers & Almonds",
+  "description": "Hope you're hungry! This is an extra-big serve. Packed with veggies and bursting with aromatic spices, the delectable smell of this dhal will bring everyone to the table in a hurry. Serve this creamy creation alongside some flatbread dippers to soak up all the rich goodness.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/veggie-loaded-lentil-coconut-dhal-66a31629bf24f4adc725ee5c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a31629bf24f4adc725ee5c-e407e572.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "indian",
+    "20 min or less",
+    "asian-food"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 2,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Masala Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/596d898ba1e1ea6445652fe2-30d38921.png"
+    },
+    {
+      "name": "Curry Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "curry-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eea0d1b30539e48127973cb-b049e7e0.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 2,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Finely grate or crush garlic. Finely chop brown onion. Grate carrot. Roughly chop tomato.\n• Drain and rinse lentils.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a31629bf24f4adc725ee5c-5c178bd7.jpeg"
+    },
+    {
+      "text": "• Cut mini flourtortillas into 2cm strips and place on the lined oven tray.\n• Drizzle or spray generously with olive oil and season with salt and pepper. Toss to coat.\n• Bake until lightly golden, 8-10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a31629bf24f4adc725ee5c-18ba52e3.jpeg"
+    },
+    {
+      "text": "• Meanwhile, melt the butter and a drizzle of oil in a large saucepan over high heat.\n• Cook onion, carrot and tomato until softened, 3-4 mins.\n• Add lentils, masala spice blend, curry spice blend, garlic and tomato paste and cook until fragrant, 1-2 mins.\n• Reduce heat to medium and stir in the water, stock powder and coconut milk and simmer, until slightly thickened, 4-5 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a31629bf24f4adc725ee5c-329ba3a0.jpeg"
+    },
+    {
+      "text": "• Stir through baby spinach until wilted and combined.\n• Divide veggie-loaded lentil dhal between bowls. Top with yoghurt and flaked almonds. Serve with flatbread dippers.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a31629bf24f4adc725ee5c-96e01112.jpeg"
+    }
+  ]
+}

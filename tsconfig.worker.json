@@ -1,0 +1,19 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "lib": [
+      "ES2023"
+    ],
+    "types": [
+      "vite/client",
+      "./src/worker/worker-configuration.d.ts"
+    ]
+  },
+  "include": [
+    "src/worker",
+    "src/server",
+    "src/shared",
+    "drizzle",
+    "content"
+  ]
+}

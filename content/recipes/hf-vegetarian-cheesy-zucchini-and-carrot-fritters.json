@@ -1,0 +1,150 @@
+{
+  "slug": "hf-vegetarian-cheesy-zucchini-and-carrot-fritters",
+  "kind": "meal",
+  "title": "(Vegetarian) Cheesy Zucchini & Carrot Fritters",
+  "subtitle": "with Cucumber Pepita Salad & Dill Mayo",
+  "description": "They say love is the glue that holds a family together, but we’ve done extensive field research and have discovered that it is, in fact, cheese. Gather your loved ones and stack these fritters high. It’s like a delicious game of Jenga that everyone will want to play.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/vegetarian-cheesy-zucchini-and-carrot-fritters-5acd771a30006c23b5279792",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5acd771a30006c23b5279792-2d7b9090.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "low calorie",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a713e6f30006c192c245ea4-b0b6fbbd.png"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a8ef8b25ec71f8b4569.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5acd7a08ae08b524b87d2502-3cf223c1.png"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "tub",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564bfa4dfd2cb921098b4567.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Pepitas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pepitas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c757a4dab71b9428b4567.png"
+    },
+    {
+      "name": "Chives",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "chives",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ba74dab71c5718b456a.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Grate the **zucchini** and squeeze out the excess moisture with clean hands or a clean tea towel. **TIP:** Removing the excess moisture from the zucchini is important to ensure your fritter batter is the right consistency and not too wet. Grate the **carrot** (unpeeled). Thinly slice the **spring onion**. Finely chop the **chives**.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd771a30006c23b5279792/step-8df7fe20.jpg"
+    },
+    {
+      "text": "• In a large bowl, whisk the **eggs**. Add the **zucchini**, **carrot**, **grated Cheddar cheese**, **spring onion** and **chives** to the bowl with the eggs and stir well to combine. Add the **plain flour**, **salt (use suggested amount)** and a **pinch** of **pepper**. Stir to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd771a30006c23b5279792/step-581653d8.jpg"
+    },
+    {
+      "text": "• Heat a medium frying pan over a medium-high heat. Add the **pepitas** and toast, stirring, for **3-4 minutes**, or until browned. Transfer to a plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd771a30006c23b5279792/step-06093bee.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium-high heat and add enough **olive oil** to coat the base. Once hot, add a heaped tablespoon of the fritter mixture and gently spread to be 1 cm thick. Cook for **3-4 minutes** on each side, or until golden. **TIP:** You can cook a few fritters at once. **TIP:**  Don't flip before the time is up to ensure your fritters can set. Set aside on a plate lined with a paper towel to soak up excess oil. Repeat with the remaining mixture. **TIP:** Add extra oil if needed to prevent the fritters from sticking to the pan.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd771a30006c23b5279792/step-4234bf3c.jpg"
+    },
+    {
+      "text": "• Thinly slice the **cucumber** into thin discs. Juice 1/2 the **lemon** to get **2 tsp for 2 people / 1 tbs for 4 people**. Cut the remaining lemon into wedges. In a large bowl, combine the lemon juice, **honey** and **olive oil (1 tbs for 2 people / 2 tbs for 4 people)**. Season to taste with a **pinch** of **salt** and **pepper**. Add the cucumber, **mixed salad leaves** and toasted **pepitas** to the bowl and toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd771a30006c23b5279792/step-132dcb91.jpg"
+    },
+    {
+      "text": "• Divide the cucumber-pepita salad and fritters between plates. Top with a spoonful of the **dill & parsley** mayonnaise and serve the remaining lemon wedges on the side. TIP:  Serve without the mayo for the low calorie option!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd771a30006c23b5279792/step-3cde48d0.jpg"
+    }
+  ]
+}

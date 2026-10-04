@@ -1,0 +1,64 @@
+{
+  "slug": "ml-savory-cottage-cheese-cucumber-tomato-sesame-seeds",
+  "kind": "meal",
+  "title": "Savory Cottage Cheese with Cucumber, Tomato & Sesame Seeds",
+  "sourceUrl": "https://www.mealime.com/recipes/savory-cottage-cheese-cucumber-tomato-sesame-seeds/25994",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2927/presentation_2ec44094-5949-4ad3-8d01-7398e3ee4f4c.jpeg",
+  "servings": 4,
+  "prepMinutes": 8,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cottage Cheese",
+      "qty": 3,
+      "unit": "cup",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "English Cucumber",
+      "qty": 1,
+      "product": "cucumber"
+    },
+    {
+      "name": "Grape Tomatoes",
+      "qty": 1,
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash, dry, and halve tomatoes lengthwise. Place in a medium bowl."
+    },
+    {
+      "text": "Wash, dry, trim, and medium dice cucumber. Add to the bowl with the tomatoes and stir to combine."
+    },
+    {
+      "text": "To serve, divide cottage cheese, tomato, and cucumber between bowls. Drizzle with oil, then sprinkle with sesame seeds, salt, and pepper. Enjoy!"
+    }
+  ]
+}

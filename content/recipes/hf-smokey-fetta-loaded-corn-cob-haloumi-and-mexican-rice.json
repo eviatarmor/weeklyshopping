@@ -1,0 +1,138 @@
+{
+  "slug": "hf-smokey-fetta-loaded-corn-cob-haloumi-and-mexican-rice",
+  "kind": "meal",
+  "title": "Smokey Fetta Loaded Corn Cob, Haloumi & Mexican Rice",
+  "subtitle": "with Coriander",
+  "description": "These loaded corn cobs are quickly becoming HelloFresh royalty. Roasted with Mexican spice, then loaded with smokey aioli and fetta, you’ll have the tastiest accompaniment to a veggie-loaded rice that has its own spicy kick!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/smokey-fetta-loaded-corn-cob-haloumi-and-mexican-rice-66e3b6b9e6df74d078e468ef",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66e3b6b9e6df74d078e468ef-5e695265.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "quick prep",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55653dcffd2cb96f418b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695d5730006c33520e3181-cdb3da6d.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 2,
+      "unit": "cob",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593b834dab71c4718b456a.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Smokey Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723809105c9621030b4f1a-a5f34873.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced. To a medium bowl, add haloumi and cover with water to soak. Thinly slice leek. Roughly chop baby spinach leaves.\n• In a medium saucepan, heat the butter with a dash of olive oil over medium-high heat.\n• Cook leek until softened, 4-5 minutes.\n• Stir in tomato paste and Mexican fiesta spice blend (reserving a pinch for the corn) and cook, until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b6b9e6df74d078e468ef-e4b49b44.jpeg"
+    },
+    {
+      "text": "• Meanwhile, cut corn cobs in half. Place on a lined oven tray.\n• Drizzle with olive oil, season with salt, a pinch of Mexican fiesta spice blend and toss to coat.\n• Roast until tender and slightly charred, 15-20 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b6b9e6df74d078e468ef-8eee3142.jpeg"
+    },
+    {
+      "text": "• To pan with leek, add basmati rice, the water and vegetable stock powder, stir, then bring to the boil.\n• Reduce heat to low and cover with a lid.\n• Cook for 10 minutes, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 minutes.\n• When rice has 5 minutes remaining, drain haloumi and pat dry. Cut into 1cm-thick slices.\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook haloumi until golden brown, 1-2 minutes each side.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b6b9e6df74d078e468ef-2b25eba3.jpeg"
+    },
+    {
+      "text": "• To pan with rice, stir in chopped spinach, until combined.\n• Divide Mexican spiced rice between bowls. Top with roasted corn cobs and seared haloumi. Drizzle over smokey aioli. Crumble over fetta cubes.\n• Tear over coriander. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b6b9e6df74d078e468ef-fe08f89a.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "hf-dutch-carrots-and-pearl-couscous-salad",
+  "kind": "meal",
+  "title": "Dutch Carrots & Pearl Couscous Salad",
+  "subtitle": "with Fetta Yoghurt & Golden Dressing",
+  "description": "This bountiful bowl comes loaded with delicious couscous, tender Dutch carrots, Greek-style fetta yoghurt and crunchy flaked almonds. You’ve got texture, flavour and crunch in every bite!\nThis recipe is under 650kcal per serving.\nWe’ve replaced the pearl couscous in this recipe with couscous due to local ingredient availability. It’ll be just as delicious, just\nfollow your recipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/dutch-carrots-and-pearl-couscous-salad-674cd864a0d670a6c9690a5a",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/674cd864a0d670a6c9690a5a-904fdcbd.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Dutch Carrots",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/62f344acb21dd6cb2e016b82-2983ac8e.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Red Radish",
+      "qty": 2,
+      "product": "radish",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/63508cf112ed51e7b806e2b4-b10546b2.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc68fd9ae08b52185291032-1726888f.png"
+    },
+    {
+      "name": "Golden Goddess Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076488201846f6f39708278-d1c2b639.png"
+    },
+    {
+      "name": "Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad6ac09ae08b54d160cb072-a3981ef2.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Trim green tops from Dutch carrots and scrub carrots clean.\n• Place carrots on a lined oven tray. Sprinkle with chermoula spice blend (see ingredients), drizzle with olive oil and toss to coat.\n• Roast until golden and tender, 20-25 minutes.\n• Once roasted, remove tray from the oven, drizzle over the honey and toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd864a0d670a6c9690a5a-7471e66b.jpeg"
+    },
+    {
+      "text": "• Meanwhile, in a medium saucepan, add the water and bring to the boil.\n• Add couscous and stir to combine. Cover with a lid and remove from heat.\n• Set aside, until the water is absorbed, 5 minutes. Fluff up with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd864a0d670a6c9690a5a-acd0716e.jpeg"
+    },
+    {
+      "text": "• While the couscous is cooking, thinly slice red radish.\n• Finely chop garlic.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd864a0d670a6c9690a5a-d814e67a.jpeg"
+    },
+    {
+      "text": "• To a small microwave-safe bowl, add the garlic and a drizzle of olive oil. Microwave in 10 second bursts until fragrant.\n• Add Greek-style yoghurt and fetta cubes to garlic oil mixture and mash. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd864a0d670a6c9690a5a-bcc69b6c.jpeg"
+    },
+    {
+      "text": "• Just before serving, in a large bowl, combine couscous, radish, spinach & rocket mix, golden goddess dressing and a drizzle of vinegar and olive oil. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd864a0d670a6c9690a5a-872f66bf.jpeg"
+    },
+    {
+      "text": "• Divide couscous salad between bowls.\n• Top with Dutch carrots and fetta yoghurt.\n• Garnish with flaked almonds to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd864a0d670a6c9690a5a-79e7348b.jpeg"
+    }
+  ]
+}

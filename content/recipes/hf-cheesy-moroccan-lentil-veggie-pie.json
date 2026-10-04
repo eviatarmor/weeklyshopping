@@ -1,0 +1,161 @@
+{
+  "slug": "hf-cheesy-moroccan-lentil-veggie-pie",
+  "kind": "meal",
+  "title": "Moroccan Lentil Veggie & Cheesy Pie",
+  "subtitle": "with Garlic Mash Topping & Flaked Almonds",
+  "description": "This one is in a league of its own. We've taken your favourite parts of a stir-fry, switched out the meat for hearty\nlentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty concoction!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-moroccan-lentil-veggie-pie-667b5a5b438760e4ef4144d8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/667b5a5b438760e4ef4144d8-c366bdcb.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east",
+    "couch-meals",
+    "winter-delights"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fae01355a2ab9306616d5b0-a7aba26d.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/650a354f6dac61c0739b7bb7-b1080ebe.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Plant-Based Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61ca9d55931630641e107ff3-0fc164c5.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238123405d840b2be3b67-c2cba528.jpg"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cc-5fcd32e0.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723747105c9621030b4aa1-7e50a14e.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b2c4dab71d8588b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle. Half-fill a large saucepan with boiling water, then add a generous pinch of salt. Peel potato and cut into large chunks.\n• Cook potato in the boiling water, over high heat, until easily pierced with a fork, 12-15 minutes. Drain.\n• Return saucepan to medium-high heat with the plant-based butter and a drizzle of olive oil. Cook garlic paste until fragrant, 1 minute.\n• Remove from heat then return potato and add the plant-based milk. Season generously with salt. Mash until smooth. Cover to keep warm. TIP: Save time and get more fibre by leaving the potato unpeeled.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667b5a5b438760e4ef4144d8-0afd85f6.jpeg"
+    },
+    {
+      "text": "• While potato is boiling, preheat grill to high.\n• Slice zucchini into thin half-moons.\n• Trim and roughly chop green beans.\n• Drain and rinse lentils.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667b5a5b438760e4ef4144d8-88d0c95c.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over high heat.\n• Cook zucchini, green beans and soffritto mix, until tender, 4-5 minutes.\n• Reduce heat to medium then add tomato paste, chermoula spice blend and lentils. Cook until fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667b5a5b438760e4ef4144d8-df4e823c.jpeg"
+    },
+    {
+      "text": "• To lentils, stir in coconut milk, the water, salt and a pinch of the brown sugar. Simmer, until slightly thickened, 2-3 minutes. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667b5a5b438760e4ef4144d8-0cfb2943.jpeg"
+    },
+    {
+      "text": "• Transfer filling to a baking dish and evenly spread garlic mash potato over the top with a drizzle of olive oil. Sprinkle over Cheddar cheese.\n• Grill until lightly golden, 8-10 minutes. TIP: Drizzling with olive oil helps the topping to crisp and brown!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667b5a5b438760e4ef4144d8-4dcffbd0.jpeg"
+    },
+    {
+      "text": "• Divide Moroccan lentil veggie and cheesy pie between plates.\n• Top with flaked almonds to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667b5a5b438760e4ef4144d8-5958837a.jpeg"
+    }
+  ]
+}

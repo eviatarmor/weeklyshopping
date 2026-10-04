@@ -1,0 +1,39 @@
+{
+  "slug": "ml-apple-wedges-mozzarella-cheese",
+  "kind": "meal",
+  "title": "Apple Wedges with Mozzarella Cheese",
+  "sourceUrl": "https://www.mealime.com/recipes/apple-wedges-mozzarella-cheese/24113",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/24113/presentation_ddb3b5e8-b30b-4c03-9549-a1cbbe72d3a0.jpeg",
+  "servings": 4,
+  "prepMinutes": 10,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Gala Apples",
+      "qty": 2,
+      "product": "apple"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "qty": 150,
+      "unit": "g",
+      "product": "mozzarella"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash, dry, quarter, and core apples. Slice each apple into 8 wedges."
+    },
+    {
+      "text": "Cut cheese into 16 slices."
+    },
+    {
+      "text": "To serve, pair apple wedges with cheese slices and divide between plates. Enjoy!"
+    }
+  ]
+}

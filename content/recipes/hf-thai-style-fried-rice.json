@@ -1,0 +1,185 @@
+{
+  "slug": "hf-thai-style-fried-rice",
+  "kind": "meal",
+  "title": "Thai Red Curry Veggie Fried Rice",
+  "subtitle": "with Lime, Coriander & Cashews",
+  "description": "Add warming red curry paste and zingy ginger, lemongrass and lime to fried rice, and you have a Thai twist on a\nclassic dish that tastes totally new. Top it with a chilli fried egg to bring it all together.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-style-fried-rice-5d81b924d0472f4e0a584735",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-style-fried-rice-dfa3e1ed.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "thai",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "bag",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55810642fd2cb90d7a8b4569.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 0.5,
+      "unit": "sprig",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/606d14714f75e662fe596b02-03c06826.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Ginger Lemongrass Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-lemongrass-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f3b590ee9ba3270e45e88aa-3d0cbda2.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556555fafd2cb9c3608b456c.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Crispy Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a828205ae08b5736b5fc6f2-ce735049.png"
+    },
+    {
+      "name": "Roasted Cashews",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cashews",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55d549c679a23cd6798b4567.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    },
+    {
+      "name": "Mild Thai Red Curry Paste",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "red-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5733bc7ef8b25ef2718b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle.\n• Half-fill a medium saucepan with the boiled water. Add basmati rice and a pinch of salt and cook, uncovered, over high heat until tender, 10 minutes.\n• Drain, then set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62872a01075b64b42609dba4/step-9d2268ea.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, finely chop carrot, capsicum and garlic. Roughly chop Asian greens.\n• Roughly chop coriander. Thinly slice spring onion.\n• Zest lime to get a good pinch, then slice into wedges. Thinly slice long chilli (if using).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62872a01075b64b42609dba4/step-537f1130.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over high heat.\n• Stir-fry carrot and capsicum until tender, 5-6 minutes.\n• Add Asian greens, garlic and ginger lemongrass paste and cook until softened and fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62872a01075b64b42609dba4/step-ae9f8ad5.jpg"
+    },
+    {
+      "text": "• Add mild Thai red curry paste (see ingredients), the brown sugar and vegetable stock powder to the pan. Cook, stirring regularly, until excess moisture is evaporated, 2-3 minutes.\n• Add cooked rice, stirring, until combined and heated through, 2 minutes.\n• Remove pan from heat. Stir through spring onion, 1/2 the coriander, a generous squeeze of lime juice and the salt. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62872a01075b64b42609dba4/step-52f59fa5.jpg"
+    },
+    {
+      "text": "• In a medium frying pan, heat a drizzle of olive oil over high heat.\n• When oil is hot, crack the eggs into the pan. Cook until egg whites are firm and yolks are cooked to your liking, 2-3 minutes.\n• Sprinkle with a pinch of chilli flakes (if using).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62872a01075b64b42609dba4/step-a99933a2.jpg"
+    },
+    {
+      "text": "• Divide Thai red curry veggie fried rice between bowls. Top with chilli fried egg.\n• Garnish with crispy shallots, roasted cashews, another pinch of chilli flakes (if using) and remaining coriander.\n• Serve with remaining lime wedges. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62872a01075b64b42609dba4/step-4d5830a6.jpg"
+    }
+  ]
+}

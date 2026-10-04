@@ -1,0 +1,139 @@
+{
+  "slug": "hf-cheesy-black-bean-loaded-taquitos",
+  "kind": "meal",
+  "title": "Cheesy Black Bean Loaded Taquitos",
+  "subtitle": "with Charred Corn Salsa & Enchilada Sauce",
+  "description": "Taquitos, the close relative of enchiladas are in town tonight and we're excited for their stay. By switching beef to beans, you can still get all of your favourite Mexican flavours in this delicious veggie meal! Dig in!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-black-bean-loaded-taquitos-6784770ef2efe8ce60991657",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6784770ef2efe8ce60991657-0e154e26.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "quick prep",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c9546b867b6e7c4061abd4-47237458.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695d5730006c33520e3181-cdb3da6d.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/650a354f6dac61c0739b7bb7-b1080ebe.png"
+    },
+    {
+      "name": "Enchilada Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "enchilada-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f571fd2cb9cf038b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Plant-Based Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6087ced877cc7513912c1b8b-b3f5ddf8.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b2c4dab71d8588b4569.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced. Drain sweetcorn. Drain and rinse black beans.\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook soffritto mix until tender, 4-5 minutes.\n• SPICY! You may find the spice blend hot! Add less if sensitive to heat. Add garlic paste and Mexican Fiesta spice blend, stirring, until fragrant, 1 minute.\n• Add beans, baby spinach leaves, the water, the brown sugar and the plant-based butter and cook, stirring until thickened, 2-3 minutes.\n• Remove from heat. Stir through half the enchilada sauce, until combined.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6784770ef2efe8ce60991657-070810f2.jpeg"
+    },
+    {
+      "text": "• Lay mini flour tortillas on a chopping board. Spoon filling down the centre.\n• Roll tortilla up tightly and place, seam-side down, evenly spaced on the lined oven tray. Drizzle with olive oil and season with salt and pepper. Sprinkle with Cheddar cheese.\n• Bake until golden and starting to crisp, 8-10 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6784770ef2efe8ce60991657-f9c5a1f4.jpeg"
+    },
+    {
+      "text": "• Meanwhile, wipe out pan and return to medium-high heat with a drizzle of olive oil.\n• Cook corn kernels until lightly browned, 4-5 minutes. Transfer to a small bowl. Toss to combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6784770ef2efe8ce60991657-d588d78b.jpeg"
+    },
+    {
+      "text": "• Divide black bean loaded taquitos between plates.\n• Top with remaining enchilada sauce and corn salsa.\n• Drizzle over plant-based aioli to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6784770ef2efe8ce60991657-c2e14944.jpeg"
+    }
+  ]
+}

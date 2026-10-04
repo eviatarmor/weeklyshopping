@@ -1,0 +1,156 @@
+{
+  "slug": "hf-honey-roast-pumpkin-creamy-onion-risoni",
+  "kind": "meal",
+  "title": "Honey Roasted Pumpkin & Creamy Leek Risoni",
+  "subtitle": "with Gourmet Garden Basil & Fetta",
+  "description": "Gourmet Garden’s Aussie grown basil is lightly dried for a fresher flavour and lasts four weeks once opened. This delectable\ningredient is stirred through creamy, veggie-packed risoni for a herby and hearty meal to dig into!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-roast-pumpkin-creamy-onion-risoni-65cbfb683dbfdc1d2e0c555c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66b2e0fda0c907afd08f524d-554c920a.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be349fd2cb95d648b4567.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.5,
+      "unit": "sachet",
+      "product": "dried-oregano",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56a011a24dab718d418b4567.png"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55653dcffd2cb96f418b4567.png"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "unit": "packet",
+      "product": "silverbeet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57d8c603518c8833728b4567-b410e863.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Nan's Special Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "nans-special-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5e38f86b18fdef7c4e43caa6-58b68ca4.png"
+    },
+    {
+      "name": "Risoni",
+      "qty": 1,
+      "unit": "packet",
+      "product": "risoni",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c484dab71c4718b456b.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5dbfb5acd7ecfc1364030f65-1650ad62.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Lightly Dried Basil",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "dried-basil",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/668b3708018283f1f439755b-31f1517a.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Slice pumpkin into thin wedges.\n• Cut red onion and tomato into wedges.\n• Place pumpkin on a lined oven tray, sprinkle over dried oregano (see ingredients), drizzle with olive oil and season with salt. Toss to coat.\n• Roast until tender, 20-25 minutes. TIP: Peel the pumpkin if you prefer!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66b2e0fda0c907afd08f524d-259f8607.jpeg"
+    },
+    {
+      "text": "• Place red onion and tomato on a second lined oven tray.\n• Drizzle with olive oil and season with salt. Toss to coat. Roast until tender, 15-20 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66b2e0fda0c907afd08f524d-2ea0544e.jpeg"
+    },
+    {
+      "text": "• While veggies are roasting, thinly slice leek.\n• Roughly chop silverbeet.\n• Finely chop garlic.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66b2e0fda0c907afd08f524d-2d660496.jpeg"
+    },
+    {
+      "text": "• In a large saucepan, heat a drizzle of olive oil over medium-high heat.\n• Cook leek, stirring, until softened, 4-5 minutes.\n• Add silverbeet, Nan's special seasoning and garlic and cook until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66b2e0fda0c907afd08f524d-75a02391.jpeg"
+    },
+    {
+      "text": "• To pan, stir in risoni, vegetable stock pot, light cooking cream and the water. Bring to the boil, then reduce the heat to medium and simmer, stirring occasionally, until the risoni is 'al dente' and the water is absorbed, 12-15 minutes.\n• Gently stir the roast veggies and Gourmet Garden lightly dried basil (see ingredients) through the risoni. TIP: Add a splash more water if the risoni looks dry!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66b2e0fda0c907afd08f524d-c19b1231.jpeg"
+    },
+    {
+      "text": "• Divide creamy leek risoni between bowls.\n• Top with roasted pumpkin. Drizzle the honey over the roast pumpkin.\n• Crumble over fetta cubes to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66b2e0fda0c907afd08f524d-dcb2d329.jpeg"
+    }
+  ]
+}

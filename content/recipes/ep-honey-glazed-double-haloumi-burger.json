@@ -1,0 +1,77 @@
+{
+  "slug": "ep-honey-glazed-double-haloumi-burger",
+  "kind": "meal",
+  "title": "Honey-Glazed Double Haloumi Burger",
+  "subtitle": "with Tomato Relish & Potato Crisps",
+  "description": "Sweet and salty haloumi, a quick tomato relish and crisp potato rounds - this is a burger and chips with a twist!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/honey-glazed-haloumi-burger-67f8335f0d0527cba53a4ac7",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67a09a81a78fa8026d274491-068985d5-94c0c143.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "everyplate",
+    "italian",
+    "vegetarian",
+    "burgers-rolls"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Haloumi",
+      "qty": 2,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c3-662d4bcd.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561c-5667c8d1.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Bake-At-Home Continental Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f784ecbf90d9f5283f5-d55da12a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. <br>• Slice haloumi horizontally to get 1 piece per person. Transfer to a medium bowl and cover with water to soak. <br>• Thinly slice potato into rounds. <br>• Place potato rounds on lined oven tray. Drizzle with olive oil, season with salt and toss to coat. <br>• Bake until tender, 20-25 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68f1ad31a267a9c2fb0025f1/step-e5879c00.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice brown onion (see ingredients). Roughly chop tomato. • In a large frying pan, heat a drizzle of olive oil over medium-high heat. <br>• Cook onion and tomato, stirring, until softened, 5-6 mins. Reduce heat to medium. <br>• Add the balsamic vinegar, brown sugar and water and mix well. Cook until dark and sticky, 3-5 mins. Transfer to a small bowl.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68f1ad31a267a9c2fb0025f1/step-1b783f10.jpeg"
+    },
+    {
+      "text": "• <p>• Drain haloumi and pat dry. <br>• Wash out frying pan and return to medium-high heat with a drizzle of olive oil. <br>• Cook haloumi until golden brown, 2 mins each side (cook in batches if your pan is getting crowded). <br>• Remove from heat, then add the honey, turning to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68f1ad31a267a9c2fb0025f1/step-1eadb120.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, halve continental rolls and bake directly on a wire oven rack until heated through, 2-3 mins. <br>• Top continental rolls with the mayonnaise, tomato relish, haloumi and baby spinach. <br>• Serve with potato crisps.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68f1ad31a267a9c2fb0025f1/step-24861d30.jpeg"
+    }
+  ]
+}

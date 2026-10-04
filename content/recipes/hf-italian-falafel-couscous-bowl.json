@@ -1,0 +1,161 @@
+{
+  "slug": "hf-italian-falafel-couscous-bowl",
+  "kind": "meal",
+  "title": "Italian Falafel & Couscous Bowl",
+  "subtitle": "with Roasted Veggies & Red Pesto Dressing",
+  "description": "What's a quick and easy way to bring a rich and tasty flavour to a dish? Add our moreish red pesto dressing that adds an extra\nburst of flavour with every bite! Teamed with spinach falafel, crunchy almonds and roasted veggies, this dish is all kinds of yum.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/italian-falafel-couscous-bowl-603c1c8020b0101648119b6e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/italian-falafel-couscous-bowl-73c0d4d4.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "unit": "tub",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bab011a30006c450926c7e2-8cc5cbe5.png"
+    },
+    {
+      "name": "Red Pesto",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5c7f6716c445fa311209abc2-642e205d.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/557e7fd8f8b25e9c678b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5b028883ae08b51132187102-2fea204a.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd96fae08b531076e2e52-2fea204a.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced.\n• Cut the capsicum into bite-sized chunks. Cut the\n• carrot into small chunks. Cut the zucchini into\n• thick half-moons. Place the veggies on a lined\n• oven tray. Drizzle with olive oil and season with\n• salt and pepper. Toss to coat, then roast until\n• tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/603c1c8020b0101648119b6e/step-d32ce51c.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, thinly slice the red\n• onion. Finely chop the garlic. Zest the lemon to\n• get a pinch and slice into wedges. Use your hands\n• to break each spinach falafel into quarters (don't\n• worry if they crumble!). In a small bowl, combine\n• the red pesto, mayonnaise and water (for the\n• dressing). Heat a large frying pan over a medium\u0002high heat. Add the flaked almonds and toast,\n• tossing, until golden, 2-3 minutes. Transfer to\n• a plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/603c1c8020b0101648119b6e/step-11836ea6.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium heat with the\n• butter and a drizzle of olive oil. Cook the onion,\n• stirring, until softened, 5-6 minutes. Add the garlic\n• and cook until fragrant, 1-2 minutes. Transfer to a\n• small bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/603c1c8020b0101648119b6e/step-1f52233c.jpg"
+    },
+    {
+      "text": "• While the onion is cooking, heat a medium\n• saucepan over a medium heat with a drizzle of\n• olive oil. Add the water (for the couscous) and\n• crumbled vegetable stock (1 cube for 2 people\n• / 2 cubes for 4 people). Bring to the boil. Add the\n• couscous and stir to combine. Cover with a lid and\n• remove from the heat. Set aside until all the water\n• is absorbed, 5 minutes. Fluff up with a fork and stir\n• through the roasted veggies, lemon zest and a\n• squeeze of lemon juice.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/603c1c8020b0101648119b6e/step-c1c1b20a.jpg"
+    },
+    {
+      "text": "• While the couscous is cooking, return the frying\n• pan to a medium-high heat with enough olive\n• oil to coat the base. When the oil is hot, cook\n• the falafels, tossing, until deep golden brown,\n• 5-6 minutes. Transfer to a plate lined with paper\n• towel. Season.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/603c1c8020b0101648119b6e/step-f5b266e0.jpg"
+    },
+    {
+      "text": "• Roughly chop the parsley leaves. Divide the\n• couscous between bowls and top with the falafels\n• and cooked onions. Drizzle over the pesto dressing\n• and garnish with the flaked almonds and parsley.\n• Serve with any remaining lemon wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/603c1c8020b0101648119b6e/step-fa2b521c.jpg"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "hf-mozzarella-cauli-bites-and-garden-salad-bowl",
+  "kind": "meal",
+  "title": "Mozzarella-Cauli Bites & Garden Salad Bowl",
+  "subtitle": "with Sweet Potato Fries & Chilli Jam",
+  "description": "These golden mozzarella cauliflower bites are made for dunking straight into sticky chilli jam. Served alongside crunchy sweet potato fries and a fresh garden salad to cut through the gooey richness, this vegetarian bowl is pure comfort on a plate.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mozzarella-cauli-bites-and-garden-salad-bowl-6965bd87e6255ccadc13d115",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1059_W37_AU_R55910-4main_high-17853526.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "australian",
+    "classic"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Mozzarella Cauliflower Bites",
+      "qty": 1
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237313405d840b2be36cc-b22a9ebf.png"
+    },
+    {
+      "name": "Chilli Jam",
+      "qty": 1,
+      "product": "jam",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6a2a421091ca82626cee50e5-818b7a34.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572380e105c9621030b4f37-c66d6946.png"
+    },
+    {
+      "name": "Gourmet Leaf Mix",
+      "qty": 1,
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/68a7a9a53928a374e6c4688c-407c9068.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c7-f599f624.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. Cut sweet potato into fries.<br>• Place on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat.<br>• Bake until tender, 20-25 minutes.<br>TIP: If your oven tray is crowded, divide fries between two trays. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a46016dd3d3e0dadd377a74/step-c94e9500.jpg"
+    },
+    {
+      "text": "• <p>• When fries have 15 minutes remaining, place mozzarella cauliflower bites on a <br>second lined oven tray.<br>• Bake until browned and heated through, 10-15 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a46016dd3d3e0dadd377a74/step-89591a10.jpg"
+    },
+    {
+      "text": "• <p>• While mozzarella bites are baking, roughly chop cucumber and halve snacking <br>tomatoes.<br>• In a medium bowl, combine gourmet leaf mix, cucumber, tomatoes and a <br>drizzle of olive oil and vinegar. Season to taste with salt and pepper. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a46016dd3d3e0dadd377a74/step-d1553720.jpg"
+    },
+    {
+      "text": "• <p>• Divide sweet potato fries, mozzarella-cauli bites and garden salad between bowls.<br>• Serve with dill &amp; parsley mayonnaise and chilli jam. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a46016dd3d3e0dadd377a74/step-ebd6a130.jpg"
+    }
+  ]
+}

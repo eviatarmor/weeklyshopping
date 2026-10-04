@@ -1,0 +1,87 @@
+{
+  "slug": "hf-seared-haloumi-and-garlic-greens",
+  "kind": "meal",
+  "title": "Roast Haloumi & Garlic Greens",
+  "subtitle": "with Lemony Yoghurt",
+  "description": "If you haven't noticed, roasts are kind of our thing! In tonight's version, haloumi gets nice and juicy in the frying pan before it roasts up golden perfection in the oven. With some zesty veggies on the side and a lemony yoghurt, this one is light, bright and tasty!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/gfyf-roast-lamb-rump-and-garlic-greens-67f86373cade9b9f0aceabbc",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1025__W24_AUS__Main__4high-c57ea6a6.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "australian",
+    "naturally gf",
+    "quick prep",
+    "proteinrich"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f87b810d0527cba53bf38d-c0444d52.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c4-d66d088a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd2-a68e0a9e.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Baby Broccoli",
+      "qty": 1,
+      "product": "broccolini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cf3405d840b2be34e0-8d5c76d3.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Cut haloumi into 1cm-thick slices.</p> <p>• In a medium bowl, place haloumi and cover with water to soak.</p> <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat.</p> <p>• Cook haloumi until golden brown, 1-2 minutes each side. Transfer to a plate to rest,</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06e535963fcd98f3ba24/step-03bffc00.jpg"
+    },
+    {
+      "text": "• <p>• Slice lemon into wedges. Finely chop garlic. Thinly slice zucchini into sticks.</p> <p>• Trim baby broccoli and halve any large stalks lengthways. </p> <p>• In a small bowl, combine Greek style yoghurt and a squeeze of lemon juice. Season.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06e535963fcd98f3ba24/step-ec189010.jpg"
+    },
+    {
+      "text": "• <p>• Wipe out frying pan and return to medium-high heat with a drizzle of olive oil.</p> <p>• Cook baby broccoli and zucchini, tossing, until tender, 5-6 minutes.</p> <p>• Add garlic and cook until fragrant.</p> <p>• Remove from heat then add a good squeeze of lemon juice. Season with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06e535963fcd98f3ba24/step-8bfe4d20.jpg"
+    },
+    {
+      "text": "• <p>• Divide seared haloumi and garlic greens between plates. • Serve with lemony yoghurt and any remaining lemon wedges. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681b06e535963fcd98f3ba24/step-84273330.jpg"
+    }
+  ]
+}

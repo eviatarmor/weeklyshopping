@@ -1,0 +1,151 @@
+{
+  "slug": "hf-thai-red-tofu-veggie-curry",
+  "kind": "meal",
+  "title": "Thai Red Tofu & Veggie Curry",
+  "subtitle": "with Peanuts, Lime & Jasmine Rice",
+  "description": "If you're after a Thai curry without the heat, this veggie version is for you! It's still full of flavour too, thanks to peanutty tofu,\nzingy ginger paste, mild red curry paste and creamy coconut milk. Don't forget to add the peanuts for crunch, and a squeeze of lime to cut the richness.\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-red-tofu-veggie-curry-61c189adf9795e252f695ed3",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-red-tofu-veggie-curry-728eb3e7.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "thai"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55a5f2eafd2cb99d038b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Baby Broccoli",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "broccolini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f605c79fa9f33737e6734cc-ccde7e80.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Malaysian Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/564c060b79a23c164f8b4567.png"
+    },
+    {
+      "name": "Mild Thai Red Curry Paste",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "red-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5733bc7ef8b25ef2718b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Add the water to a medium saucepan and bring to the boil. Add the jasmine rice, stir, cover with a lid and reduce the heat to low. Cook for 12 minutes, then remove the pan from the heat and keep covered until the rice is tender and all the water is absorbed, 10-15 minutes.\n• TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-9cd8a26a.jpg"
+    },
+    {
+      "text": "• While the rice is cooking, finely chop the garlic.\n• Trim the baby broccoli and slice in half. Thinly slice\n• the carrot and zucchini into half-moons. Cut the\n• Malaysian tofu into 2cm chunks.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-67a8ec0a.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Cook the tofu until browned through, 3-4 minutes. Transfer to a bowl and cover to keep warm.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-9613d1f2.jpg"
+    },
+    {
+      "text": "• SPICY! This is a mild curry paste, but add less\n• if you're sensitive to heat. Return the pan to a\n• medium-high heat with a drizzle of olive oil.\n• Stir-fry the baby broccoli, carrot and zucchini\n• until just softened, 4-5 minutes. Add the garlic,\n• ginger paste and mild Thai red curry paste (see\n• ingredients) and cook until fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-c5ac9a6c.jpg"
+    },
+    {
+      "text": "• Add the coconut milk and simmer until slightly thickened, 2-3 minutes. Stir in the soy sauce and brown sugar. Return the tofu to the pan and stir to combine and heat through.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-27036d5a.jpg"
+    },
+    {
+      "text": "• Slice the lime into wedges. Divide the rice between bowls and spoon over the Thai red tofu and veggie curry. Garnish with the crushed peanuts and serve with the lime wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-19ffb197.jpg"
+    }
+  ]
+}

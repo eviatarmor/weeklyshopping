@@ -1,0 +1,152 @@
+{
+  "slug": "hf-one-pot-mexican-black-bean-risoni-stew",
+  "kind": "meal",
+  "title": "One-Pot Mexican Black Bean & Risoni Stew",
+  "subtitle": "with Tortilla Chips & Cheddar Cheese",
+  "description": "Even meat lovers will approve of this stick-to-your ribs veggie soup. The black beans and rice-shaped risoni pasta make it extra hearty while two of our trusty seasonings together add a rich and fiery depth of flavour - which the cooling sour cream cuts through like a treat. Bring it altogether with a sprinkle of cheese, plus a good handful of crushed corn chips in lieu of croutons.\nUnfortunately, this\nweek's corn chips were\nin short supply, so we've\nreplaced them with\ntortilla chips. Don't\nworry, the recipe will\nbe just as delicious!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/one-pot-mexican-black-bean-risoni-stew-63369713755dc4e3e00c1162",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/one-pot-mexican-black-bean-risoni-soup-11abcb4e.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "easy prep",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 0.5,
+      "unit": "tin",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60c9546b867b6e7c4061abd4-47237458.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Risoni",
+      "qty": 1,
+      "unit": "packet",
+      "product": "risoni",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c484dab71c4718b456b.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695d5730006c33520e3181-cdb3da6d.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "tub",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eb10c7a3e95350bbf5337cd-de6c3494.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a2e1d052c3e0861f6785ef2-c6096b9e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 200°C/180°C fan-forced. Slice mini flourtortillas into quarters.\n• Divide between two lined oven trays (don't worry if they overlap).\n• Drizzle with olive oil, turn tortilla quarters to coat and season with salt. Bake until lightly golden and crispy, 8-10 minutes.\n• Meanwhile, roughly chop tomato.\n• Drain and rinse black beans (see ingredients).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369713755dc4e3e00c1162/step-0898a556.jpg"
+    },
+    {
+      "text": "• In a large saucepan, heat a drizzle of olive oil over medium-high heat.\n• Cook soffritto mix, stirring occasionally, until softened, 4-5 minutes.\n• SPICY! The spice blend is hot, use less if you're sensitive to heat. Add tomato, black beans, Mexican Fiesta spice blend, Tex-Mex spice blend and garlic paste and cook until fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369713755dc4e3e00c1162/step-a5c91e5a.jpg"
+    },
+    {
+      "text": "• Stir in vegetable stock powder, risoni, the water and the brown sugar until combined. Bring to a boil, then reduce heat to medium.\n• Cover with a lid and simmer until soup is thickened and risoni is tender, 10 minutes.\n• Remove from heat. Stir in baby spinach leaves and the butter until spinach is wilted, 1 minute. Season to taste. TIP: Stir the soup every 3-4 minutes to mix the ingredients well.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369713755dc4e3e00c1162/step-2cb8132b.jpg"
+    },
+    {
+      "text": "• Divide one-pot Mexican black bean and risoni stew between bowls.\n• Sprinkle with shredded Cheddar cheese. Top with light sour cream.\n• Top with tortilla chips to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63369713755dc4e3e00c1162/step-9772ede3.jpg"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "hf-zucchini-and-cheddar-fritters",
+  "kind": "meal",
+  "title": "Cheesy Zucchini Fritters & Veggie Salad",
+  "subtitle": "with Birch & Waite Green Goddess Dressing & Yoghurt",
+  "description": "Bursting with garden herbs, zesty lemon and garlic, this stellar Green Goddess dressing transforms a good salad into a spectacular one and pairs perfectly with our cheesy veggie-loaded fritters. Gluten free*, with no added preservatives, no artificial colours or flavours, you’ll never want another salad dressing ever again!\n*Birch & Waite Green Goddess Dressing is gluten free, however, please be aware that the rest of the ingredients in this recipe may contain gluten.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/zucchini-and-cheddar-fritters-66f62e9a8add623f42215f53",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66f62e9a8add623f42215f53-821993bf.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528450-e6b2d1a6.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affc7f8b25ef53e8b456b.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 2,
+      "unit": "sprig",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/606d14714f75e662fe596b02-03c06826.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542b2c4dab71d8588b4569.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Green Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/670752ec8f30fe7039d46388-c709e4ee.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Pepitas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pepitas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c757a4dab71b9428b4567.png"
+    },
+    {
+      "name": "Babaganoush",
+      "qty": 1,
+      "unit": "packet",
+      "product": "babaganoush",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6035b011f601b07fac1f122d-c2e8f57a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Cut sweet potato, capsicum and red onion into bite-sized chunks.\n• Place prepped veggies on a lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to coat.\n• Roast until tender, 20-25 minutes. Set aside to cool slightly. TIP: If your oven tray is crowded, divide the veggies between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62e9a8add623f42215f53-4c9ba79f.jpeg"
+    },
+    {
+      "text": "• Meanwhile, grate zucchini and carrot, then squeeze out any excess moisture with a paper towel.\n• Thinly slice spring onion. TIP: Removing excess liquid from the veggies will help the fritters crisp up in the pan!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62e9a8add623f42215f53-77d03b45.jpeg"
+    },
+    {
+      "text": "• In a medium bowl, combine zucchini, carrot, spring onion, Cheddar cheese, the plain flour, vegetable stock pot and the egg.\n• Add the salt and a pinch of pepper and chilli flakes (if using). Mix well. TIP: Lift out some of the mixture with a spoon. If it's too wet and doesn't hold its shape, add a little more flour!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62e9a8add623f42215f53-3689c85e.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat enough olive oil to coat the base over medium-high heat.\n• When oil is hot, add heaped tablespoons of the fritter mixture, in batches and flatten with a spatula. Cook until golden, 3-4 minutes each side (don't flip too early!). You should get 3-4 fritters per person.\n• Transfer to a paper towel-lined plate. TIP: Add extra olive oil between batches as needed.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62e9a8add623f42215f53-7e0c0992.jpeg"
+    },
+    {
+      "text": "• While the fritters are cooking, add green goddess dressing to a medium bowl.\n• Season, then add mixed salad leaves, pepitas and the slightly cooled roast veggies. Gently toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62e9a8add623f42215f53-951badcf.jpeg"
+    },
+    {
+      "text": "• Divide zucchini, carrot and Cheddar fritters and roast veggie salad between plates.\n• Serve with babaganoush and Greek style yoghurt. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66f62e9a8add623f42215f53-7e371003.jpeg"
+    }
+  ]
+}

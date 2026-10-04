@@ -1,0 +1,161 @@
+{
+  "slug": "hf-mexican-bean-nachos",
+  "kind": "meal",
+  "title": "Mexican Bean Nachos",
+  "subtitle": "with Oven-Baked Tortilla Chips & Tomato Salsa",
+  "description": "This feisty bean dish is packed full of goodness. The secret to its amazing flavour? Plentiful toppings like tangy chipotle sauce,\ncooling sour cream and our new tomato salsa which go perfectly with the veggie-packed bean mixture.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-bean-nachos-60ee60161afbf376a85e7a3a",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-bean-nachos-dd4544e9.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b0039fd2cb99c598b4570.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Warm Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55e69cf6f8b25ec2548b4567.png"
+    },
+    {
+      "name": "Mild Chipotle Sauce",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "chipotle-in-adobo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Tomato Salsa",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salsa",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60da8f6e419c51068a5936e3-4cbfa01f.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a2e1d052c3e0861f6785ef2-c6096b9e.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jalapenos",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609a3915d3daac3d5406a549-e0722b6b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/180°C fan-forced. Cut\n• the mini flourtortillas into 3cm wedges. Thinly\n• slice the brown onion. Cut the capsicum into\n• small chunks. Drain the sweetcorn. Finely chop the\n• garlic. Drain and rinse the red kidney beans. Grate\n• the zucchini.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ee60161afbf376a85e7a3a/step-86dbf36c.jpg"
+    },
+    {
+      "text": "• Place the tortilla wedges on a lined oven tray.\n• Drizzle with olive oil, season with salt and pepper,\n• then toss to coat. Bake until golden, 8-10 minutes.\n• TIP: If the tortilla wedges don't fit in one layer,\n• spread them over 2 oven trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ee60161afbf376a85e7a3a/step-26872221.jpg"
+    },
+    {
+      "text": "• SPICY! You may find the spice blend hot! Feel free\n• to add less, depending on your taste. While the\n• tortillas are baking, heat a drizzle of olive oil in a\n• large frying pan over a medium-high heat. Add the\n• onion, capsicum and corn and cook, stirring often,\n• until softened, 4-5 minutes. Add the garlic,\n• Tex-Mex spice blend and tomato paste and cook,\n• stirring, until fragrant, 1-2 minutes. Add the red\n• kidney beans and zucchini and cook until tender,\n• 2-3 minutes. Season with pepper to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ee60161afbf376a85e7a3a/step-10f26a4a.jpg"
+    },
+    {
+      "text": "• Stir through the warm water. Simmer the bean\n• mixture until it has thickened, 3-4 minutes. Add a\n• splash of water if the mixture seems dry. Sprinkle\n• the shredded Cheddar cheese over the bean\n• mixture. Cover with a lid or foil and cook until the\n• cheese has melted, 2-3 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ee60161afbf376a85e7a3a/step-7a2fa716.jpg"
+    },
+    {
+      "text": "• While the cheese is melting, roughly chop\n• the coriander.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ee60161afbf376a85e7a3a/step-f3f6e65a.jpg"
+    },
+    {
+      "text": "• Divide the oven-baked tortilla chips between\n• plates. Top with the Mexican bean mixture, light\n• sour cream and tomato salsa. Drizzle over the\n• mild chipotle sauce (if using). Serve sprinkled with\n• the pickled jalapeños (if using) and coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60ee60161afbf376a85e7a3a/step-8ec36c7d.jpg"
+    }
+  ]
+}

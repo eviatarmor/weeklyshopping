@@ -1,0 +1,162 @@
+{
+  "slug": "hf-byop-crumbed-sweet-soy-plant-based-crumbed-chicken-bento-bar",
+  "kind": "meal",
+  "title": "Crumbed Sweet Soy Plant-Based Crumbed Chick'n Bento Bar",
+  "subtitle": "with Cheat's Sushi Rice & Golden Curry Sauce",
+  "description": "Create your perfect bento bowl for dinner tonight with crumbed sweet soy plant-based crumbed chick'n, carrot ribbon salad and cheat's rice and all your favourite toppings - like cucumber rounds, sesame seeds and golden curry sauce. Fresh, customisable and full of flavour!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/byop-crumbed-sweet-soy-pork-bento-bar-67f8670c0d0527cba53b6320",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1041_W27_AU_R22294-3_MAIN_high-96912cd3.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Soy Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "sweet-soy-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fcb560fe44baceeadf747a-d8eaf0ce.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fca451a3ffaf7fe874d039-730c31a5.png"
+    },
+    {
+      "name": "Japanese Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "katsu-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237743405d840b2be3848-e702b67b.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fca451a3ffaf7fe874d03a-07c63015.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f85ce54264524ca979869d-4ece33e3.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cc-5fcd32e0.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271a-1c13407d.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a5-f4dfe0a3.png"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "qty": 0.25,
+      "unit": "tbsp",
+      "product": "rice-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de309690d86caac9268e-c1140cee.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd939690d86caac9259e-a3fb519d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Add the water to a medium saucepan and bring to the boil. • Add jasmine rice, stir, cover with a lid and reduce heat to low. • Cook for 10 minutes, then remove the pan from heat and keep covered until rice is tender and all the water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340175f7d5496ac4a5fe2a/step-bad5ca00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice cucumber into rounds. Using a vegetable peeler, slice carrot into ribbons.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340175f7d5496ac4a5fe2a/step-b2888610.jpg"
+    },
+    {
+      "text": "• <p>• Heat a large frying pan over medium-high heat with enough olive oil to coat the base. • Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side. • Add sweet soy seasoning and cook, turning to coat, until fragrant, 1 minute. • Transfer to a plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340175f7d5496ac4a5fe2a/step-27920820.jpg"
+    },
+    {
+      "text": "• <p>• Wash out frying pan and return to medium-high heat. • Stir in katsu paste and coconut milk until slightly thickened, 2-3 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340175f7d5496ac4a5fe2a/step-578b8130.jpg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine carrot ribbons, mixed salad leaves, a drizzle of white wine vinegar and olive oil. Season to taste. • Once rice is done, add the vinegar (for the rice) and a pinch of sugar. Stir to combine.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340175f7d5496ac4a5fe2a/step-8dfd8e40.jpg"
+    },
+    {
+      "text": "• <p>• Slice crumbed chick&#39;n. • Bring everything to the table. • Build your own plate with crumbed sweet soy plant-based crumbed chicken, cheat&#39;s sushi rice, cucumber rounds, carrot ribbon salad, golden curry sauce and sesame seeds. • If you&#39;ve selected an add on bundle, serve with garlic and chilli Asian greens. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68340175f7d5496ac4a5fe2a/step-6a302850.jpg"
+    }
+  ]
+}

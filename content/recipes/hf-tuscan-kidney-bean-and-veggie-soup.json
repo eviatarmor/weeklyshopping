@@ -1,0 +1,148 @@
+{
+  "slug": "hf-tuscan-kidney-bean-and-veggie-soup",
+  "kind": "meal",
+  "title": "Tuscan Kidney Bean & Veggie Soup",
+  "subtitle": "with Cheesy Pesto Toast & Goat Cheese",
+  "description": "Settle in for a cosy night with this hearty bean and tomato soup. Full of colourful veggies and classic Italian flavours, the meal gets an extra boost with addictive cheesy pesto toasts on the side.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/tuscan-kidney-bean-and-veggie-soup-67f8552acade9b9f0ace524a",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W39_AU_R5018-14_Main__4high-a60c001f.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "classic-plates",
+    "mediterranean",
+    "quick",
+    "winter-warmers"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Bake-At-Home Ciabatta",
+      "qty": 1,
+      "product": "ciabatta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56df758b4dab71036e8b456a-ec117d66.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399b-aaaafd3a.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cf3405d840b2be34f2-d1e5703e.png"
+    },
+    {
+      "name": "Italian Herbs",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "italian-herbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237683405d840b2be37fa-043dffb3.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238123405d840b2be3b67-c2cba528.jpg"
+    },
+    {
+      "name": "Marinated Goat Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "goat-s-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572378c3405d840b2be38bd-3d8b5b48.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237333405d840b2be36e0-7bc937a9.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237e8b33a6ad8f0f05b13-25b8f524.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop garlic.<br>• In a large pot or saucepan, heat a good drizzle of olive oil over medium-high heat. <br>• When oil is hot, add soffritto mix and cook, stirring occasionally, until softened, <br>2-3 minutes.<br>• Add a drizzle more olive oil, garlic, Italian herbs (see ingredients) and a pinch <br>of chilli flakes (if using). Cook, stirring until fragrant, 2 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68743aab5a587f17f4587e82/step-85303a00.jpg"
+    },
+    {
+      "text": "• <p>• Pour red kidney beans (including the liquid!) into the pan with the veggies.<br>• Add diced tomatoes with garlic &amp; onion, the water, stock concentrate and the <br>brown sugar and stir to combine.<br>• Simmer until slightly reduced, 15 minutes. <br>TIP: The bean liquid helps season and thicken the soup! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68743aab5a587f17f4587e82/step-30a47010.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, preheat the grill to high. Slice bake-at-home ciabatta in half <br>lengthways and place, cut-side up, on a lined oven tray. Spread with basil pesto<br>and sprinkle with Parmesan cheese.<br>• When the soup has 5 minutes cook time remaining, place ciabatta under the <br>grill, until the cheese is melted and bubbling, 3-5 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68743aab5a587f17f4587e82/step-cc6fe820.jpg"
+    },
+    {
+      "text": "• <p>• Just before serving the soup, add baby spinach leaves and stir until just wilted. <br>• Divide the Tuscan veggie bean soup between bowls. <br>• Crumble with marinated goat cheese.<br>• Serve with cheesy pesto toast. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68743aab5a587f17f4587e82/step-41e54a30.jpg"
+    }
+  ]
+}

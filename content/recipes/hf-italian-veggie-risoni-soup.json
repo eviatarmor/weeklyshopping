@@ -1,0 +1,159 @@
+{
+  "slug": "hf-italian-veggie-risoni-soup",
+  "kind": "meal",
+  "title": "Italian Kale & Risoni Soup",
+  "subtitle": "with Homemade Garlic Bread & Parsley",
+  "description": "Rice-shaped risoni pasta transforms this vibrant veggie soup into a hearty main. The Italian herbs add a rich depth of flavour that complements the garlic ciabatta; served straight from the oven, it's perfectly chewy, and perfect for dunking.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/italian-veggie-risoni-soup-630844783b68df899b0dd9c6",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/italian-veggie-risoni-soup-ee83927d.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "italian",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Kale",
+      "qty": 1,
+      "unit": "bag",
+      "product": "kale",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55593e10fd2cb9641f8b4569-3be1b03b.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "box",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6052bd0d88686f4de443784a-92e7b6fd.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Risoni",
+      "qty": 1,
+      "unit": "packet",
+      "product": "risoni",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c484dab71c4718b456b.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    },
+    {
+      "name": "Bake-At-Home Ciabatta",
+      "qty": 1,
+      "product": "ciabatta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56df758b4dab71036e8b456a-ec117d66.png"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be69ef8b25ec35c8b4568.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "unit": "packet",
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553faaafd2cb9da068b4567.png"
+    },
+    {
+      "name": "Italian Herbs",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "italian-herbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/58a0f5d099052d1d9d0be7a4-dc0be0ff.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5baad5c6ae08b53fa4663602-34f15c81.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Remove the butter from fridge (to soften for garlic bread).\n• Finely chop carrot and celery. Finely chop garlic.\n• Thinly slice kale, discarding any larger pieces of stalk.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/630844783b68df899b0dd9c6/step-fc239c81.jpg"
+    },
+    {
+      "text": "• In a large pot or saucepan, heat a drizzle of olive oil over medium-high heat. Cook carrot, celery and a pinch of salt, stirring, until tender, 5-6 minutes.\n• Add Italian herbs and 1/2 the garlic and cook until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/630844783b68df899b0dd9c6/step-80e2d8a6.jpg"
+    },
+    {
+      "text": "• Add diced tomatoes with garlic & onion, the water, risoni, vegetable stock pot and a pinch of chilli flakes (if using). Stir to combine, then bring to the boil.\n• Reduce heat to medium and simmer until soup is thickened and risoni is tender, 10 minutes. TIP: Stir the soup every 3-4 minutes to mix the ingredients well.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/630844783b68df899b0dd9c6/step-fb86278e.jpg"
+    },
+    {
+      "text": "• While soup is simmering, cut bake-at-home ciabatta into slices, 2cm apart, cutting almost to the base but not the whole way through.\n• In a small bowl, combine remaining garlic and 1/2 the butter. Season with salt and pepper.\n• Spread garlic butter between each slice of ciabatta. Bake on a lined oven tray until warmed through, 5-10 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/630844783b68df899b0dd9c6/step-2500c528.jpg"
+    },
+    {
+      "text": "• Stir kale through soup until wilted, 2 minutes.\n• Stir through the sugar and remaining butter.\n• Tear in parsley (reserve some for garnish!).\n• Season to taste. TIP: Butter and sugar help to balance the acidity from the tomatoes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/630844783b68df899b0dd9c6/step-f6f73232.jpg"
+    },
+    {
+      "text": "• Divide Italian kale and risoni soup between bowls.\n• Top with grated Parmesan cheese and reserved parsley.\n• Serve with homemade garlic bread. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/630844783b68df899b0dd9c6/step-f7310115.jpg"
+    }
+  ]
+}

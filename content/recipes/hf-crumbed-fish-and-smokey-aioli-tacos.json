@@ -1,0 +1,99 @@
+{
+  "slug": "hf-crumbed-fish-and-smokey-aioli-tacos",
+  "kind": "meal",
+  "title": "Plant-Based Crumbed Chick'n & BBQ Mayo Tacos",
+  "subtitle": "with Slaw & Cucumber",
+  "description": "Our newest protein on the market is deliciously tender plant-based crumbed Chick'n. This fish dish works a treat with slaw and BBQ mayo and will change the way you want your fish forever. Chick'n tacos for the win!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/crumbed-fish-and-smokey-aioli-tacos-67e23aaa7594446a7cdcbce5",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/660ba6b4fc49d1f9cc477634-2a9494e1-c09edfd0.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "north america",
+    "air fryer friendly",
+    "kid friendly",
+    "over 30g protein",
+    "quick",
+    "air fryer easy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c67-51fe1580.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Slaw Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6667e23225297b35e64c04ea-43992441.png"
+    },
+    {
+      "name": "BBQ Mayo",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d63405d840b2be351c-c9417f40.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Thinly slice cucumber into rounds. <br>• Roughly chop baby spinach leaves.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23aaa7594446a7cdcbce5/step-f8921c00.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat enough olive oil to coat base over medium-high heat.<br>• Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side. <br>• Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23aaa7594446a7cdcbce5/step-27bbbb10.jpg"
+    },
+    {
+      "text": "• <p>• While the plant-based crumbed chicken is cooking, in a large bowl, combine slaw mix, half the BBQ Mayo and a drizzle of white wine vinegar. Season, then toss to coat. <br>• Heat mini flour tortillas on a microwave-safe plate in the microwave in 10 second bursts, until warmed through.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23aaa7594446a7cdcbce5/step-3fb0b620.jpg"
+    },
+    {
+      "text": "• <p>• Slice plant-based crumbed chicken. <br>• Spread remaining BBQ mayo over tortillas. <br>• Top each tortilla with slaw, cucumber and plant-based crumbed chicken to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23aaa7594446a7cdcbce5/step-4d907330.jpg"
+    }
+  ]
+}

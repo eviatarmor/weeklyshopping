@@ -1,0 +1,141 @@
+{
+  "slug": "hf-falafel-and-spiced-roast-veggie-couscous",
+  "kind": "meal",
+  "title": "Falafel & Spiced Roast Veggie Couscous",
+  "subtitle": "with Mint Yoghurt & Toasted Almonds",
+  "description": "What's a quick and easy way to bring a rich and tasty flavour to a dish? Add our moreish red pesto dressing that adds an extra burst of flavour with every bite! Teamed with spinach falafel, crunchy almonds and roasted veggies, this dish is all kinds of yum.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-and-spiced-roast-veggie-couscous-5f83e5477c013702a8138249",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/ftc-falafel-lemony-couscous-4360a022.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east",
+    "calorie smart"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Ras El Hanout",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "ras-el-hanout",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556db9fcf8b25ecd738b4567.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fac4f8b25e390d8b4568.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554275cfd2cb9db798b456a.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "unit": "tub",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bab011a30006c450926c7e2-8cc5cbe5.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 220°C/200°C fan-forced. Cut\n• the sweet potato and beetroot (both unpeeled)\n• into 1cm chunks. Cut the capsicum into 2cm\n• chunks. Place the sweet potato, beetroot and\n• capsicum on an oven tray lined with baking paper.\n• Drizzle with olive oil and sprinkle with the ras el\n• hanout, then season with salt and pepper. Toss to\n• coat and bake until tender, 25-30 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f83e5477c013702a8138249/step-d32ce51c.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, zest the lemon to\n• get a good pinch, then slice into wedges. Pick and\n• roughly chop the mint leaves. Roughly chop the\n• baby spinach leaves. Heat a large frying pan over\n• a medium-high heat. Add the flaked almonds and\n• toast, tossing, until golden, 2-3 minutes. Set aside\n• in a small bowl. In a medium bowl, combine a\n• generous squeeze of lemon juice, mint (reserving\n• a pinch for a garnish), Greek yoghurt, a drizzle of\n• olive oil and a pinch of salt.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f83e5477c013702a8138249/step-8bc30b63.jpg"
+    },
+    {
+      "text": "• In a medium saucepan, add the water, crumbled\n• vegetable stock (1 cube for 2 people / 2 cubes\n• for 4 people) and bring to the boil. Add the\n• couscous and stir to combine, cover with a lid\n• and remove from the heat. Leave until all the\n• water is absorbed, 5 minutes. Fluff up with a\n• fork and gently stir through the butter. Set aside\n• uncovered.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f83e5477c013702a8138249/step-738c2f0d.jpg"
+    },
+    {
+      "text": "• While the couscous is cooking, use your hands to\n• break each spinach falafel into quarters (don't\n• worry if they crumble!). Return the frying pan\n• to a medium-high heat with enough olive oil to\n• coat the base of the pan. When the oil is hot, cook\n• the falafel, tossing, until deep golden brown,\n• 5-6 minutes. Transfer to a plate lined with paper\n• towel.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f83e5477c013702a8138249/step-dce4ac27.jpg"
+    },
+    {
+      "text": "• Add the roasted veggies, lemon zest and spinach\n• to the pan with the couscous. Gently toss to\n• combine and season to taste.\n• TIP: Use as much or little lemon zest as you like\n• depending on your taste preference.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f83e5477c013702a8138249/step-3d3b07e6.jpg"
+    },
+    {
+      "text": "• Divide the roast veggie couscous between bowls.\n• Top with the falafel. Spoon over some of the mint\n• yoghurt and serve the rest on the side. Garnish\n• with the flaked almonds and reserved mint. Serve\n• with any remaining lemon wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f83e5477c013702a8138249/step-30adf8c9.jpg"
+    }
+  ]
+}

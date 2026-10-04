@@ -1,0 +1,58 @@
+{
+  "slug": "sweet-mustard-spice-mix",
+  "kind": "blend",
+  "title": "Sweet Mustard Spice Mix",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (sweet and tangy mustard blend). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mustard Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "mustard-powder"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.75,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

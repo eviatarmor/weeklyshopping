@@ -1,0 +1,153 @@
+{
+  "slug": "hf-fiery-black-bean-tortilla-stack",
+  "kind": "meal",
+  "title": "Fiery Black Bean Tortilla Stack",
+  "subtitle": "with Jalapéno Salsa & Sour Cream",
+  "description": "Here it is! Our special tortilla stack brimming with black beans and veggies coated in our Mexican Fiesta spice blend, plus layers of oozy melted cheese. Take the deliciousness to new heights and serve it with a refreshing salsa and a dollop of sour cream.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/fiery-black-bean-tortilla-stack-67f83bf40d0527cba53a76f3",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W45_AU_R5314-12_Main__3high-70d49545.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "around the world",
+    "handhelds",
+    "latin-american-faves",
+    "spicy",
+    "taste of mexico"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236da105c9621030b4860-0f3775ea.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c67-51fe1580.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b509a-0c1a75d6.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Corn",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723722105c9621030b49de-d90ccc30.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723791105c9621030b4c44-b094ccb8.png"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jalapenos",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237c7105c9621030b4d93-a0ec1bc9.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced.<br>• Finely chop brown onion.<br>• Thinly slice capsicum into strips.<br>• Drain and rinse black beans. <br>• Slice kernels off the corn cob. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689beecf83f90c073aba9cea/step-e2223f00.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over <br>medium-high heat. Cook onion and capsicum, <br>stirring, until softened, 5-6 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689beecf83f90c073aba9cea/step-09467410.jpg"
+    },
+    {
+      "text": "• <p>• To the pan, add corn and black beans and cook, <br>stirring, until softened, 2-3 minutes. <br>• SPICY! You may find the spice blend hot. Add less if <br>you’re sensitive to heat. Add Mexican Fiesta spice <br>blend and tomato paste and cook until fragrant, <br>1-2 minutes.<br>• Stir in the water, then simmer until slightly <br>thickened, 1-2 minutes. Season with salt and <br>pepper. Divide mixture into equal portions. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689beecf83f90c073aba9cea/step-1935f420.jpg"
+    },
+    {
+      "text": "• <p>• Place one mini flourtortilla on an oven tray. Top <br>with one portion of the bean mixture and spread in <br>an even layer. Sprinkle with a little Cheddar cheese<br>(save some for the top!), then top with another <br>tortilla. Add the next portion of bean mixture on <br>top, then sprinkle with cheese and top with another <br>tortilla. Repeat until all tortillas and bean mixture<br>have been used up.<br>• Sprinkle remaining Cheddar cheese over the top. <br>Bake until cheese is melted and golden, <br>10-12 minutes. <br>TIP: If you’re cooking for 4 or 6 people, build two or <br>three stacks. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689beecf83f90c073aba9cea/step-2adc7030.jpg"
+    },
+    {
+      "text": "• <p>• While the stack is baking, roughly chop tomato, <br>cucumber and pickled jalapeños (if using).<br>• In a medium bowl, combine a drizzle of white wine<br>vinegar and olive oil. Season to taste, then add <br>cucumber, tomato and jalapeños. Toss to coat. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689beecf83f90c073aba9cea/step-f3c86240.jpg"
+    },
+    {
+      "text": "• <p>• Using a bread knife, cut tortilla stack into wedges <br>(like a cake!) and divide between plates.<br>• Top with light sour cream. <br>• Serve with jalapeño salsa. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/689beecf83f90c073aba9cea/step-3c0b5650.jpg"
+    }
+  ]
+}

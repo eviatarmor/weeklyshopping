@@ -1,0 +1,80 @@
+{
+  "slug": "hf-roast-plant-based-crumbed-chicken-and-red-pesto",
+  "kind": "meal",
+  "title": "Roast Plant-Based Crumbed Chicken & Red Pesto",
+  "subtitle": "with Balsamic Green Bean Salad",
+  "description": "Roast chick'n served with a vibrant red pesto sauce and a tangy balsamic green bean salad is on the menu tonight. With a perfect balance of savoury, fresh and zesty flavours, this one comes from our kitchen with love, right into yours!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-plant-based-crumbed-chicken-and-red-pesto-67bd23d88b4d4424a2089908",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67bd23d88b4d4424a2089908-4e20c738.jpeg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 1,
+      "unit": "packet",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 2,
+      "unit": "packet",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723765105c9621030b4b49-4a970595.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5c5a154be3f33968325d1922-079acee4.png"
+    },
+    {
+      "name": "Red Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ed105c9621030b4e84-d4203c07.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a large frying pan, heat enough olive oil to coat base over medium-high heat.\n• Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side.\n• Transfer to a paper towel-lined plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67bd23d88b4d4424a2089908-98c28463.jpeg"
+    },
+    {
+      "text": "• Transfer lamb, fat-side up, to lined oven tray.\n• Roast for 15-20 minutes for medium or until cooked to your liking.\n• Remove from oven and rest for 10 minutes. TIP: The meat will keep cooking as it rests!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67bd23d88b4d4424a2089908-c3e984cc.jpeg"
+    },
+    {
+      "text": "• Trim green beans.\n• Wipe out frying pan and return to medium-high heat with a drizzle of olive oil.\n• Cook green beans, tossing regularly, until tender, 4-5 minutes. Transfer to a bowl and set aside to cool.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67bd23d88b4d4424a2089908-d82531b7.jpeg"
+    },
+    {
+      "text": "• To bowl with green beans, add rocket and balsamic vinaigrette dressing. Toss to combine and season.\n• Slice plant-based crumbed chicken.\n• Divide plant-based crumbed chicken and balsamic green bean salad between plates. Top plant-based crumbed chicken with red pesto. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67bd23d88b4d4424a2089908-245a9fed.jpeg"
+    }
+  ]
+}

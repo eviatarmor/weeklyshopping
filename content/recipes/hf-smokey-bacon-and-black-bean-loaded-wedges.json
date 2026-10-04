@@ -1,0 +1,161 @@
+{
+  "slug": "hf-smokey-bacon-and-black-bean-loaded-wedges",
+  "kind": "meal",
+  "title": "Cheesy Mexican Bean & Veggie Loaded Wedges",
+  "subtitle": "with Corn & Pickled Onion Salsa",
+  "description": "In our kitchen, we love Latin flavours, especially these loaded wedges that require no cutlery in order to devour these delights. With black beans, we’ve got ample protein, which pairs with the crispy wedges and cherry tomato salsa, so well!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/smokey-bacon-and-black-bean-loaded-wedges-67e23947f8f6928425d5c30f",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67bd155d8b4d4424a20896e3-a954fd34-d6c7e2fe.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "spicy",
+    "taste latin america",
+    "naturally gf"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6b-38d72c27.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236da105c9621030b4860-0f3775ea.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572380e105c9621030b4f37-c66d6946.png"
+    },
+    {
+      "name": "Plant-Based Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60624d630ea10b6d197e849c-f7aa6352.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5093-c21ef0b3.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723791105c9621030b4c44-b094ccb8.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd852793e8cdd8467e36-d10a2ca3.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddaf9690d86caac925bc-0e86e3f2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. <br>• Cut potato into wedges.<br>• Place wedges on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat.<br>• Bake until tender, 20-25 minutes.<br>• In the last 5 minutes of cook time, remove potatoes from oven. Sprinkle with Cheddar cheese and bake until the cheese melts.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23947f8f6928425d5c30f/step-71860a00.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice red onion (1//2 / 1)<br>• In a small bowl, combine the white wine vinegar and a good pinch of sugar and salt.<br>• Scrunch half of the sliced onion in your hands, then add it to pickling liquid. Add enough water to just cover onion. Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23947f8f6928425d5c30f/step-10885e10.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop garlic. Halve snacking tomatoes. <br>• Drain sweetcorn. <br>• Drain and rinse black beans.<br>• Grate carrot.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23947f8f6928425d5c30f/step-5d4cc520.jpg"
+    },
+    {
+      "text": "• <p>• In large frying pan, heat a drizzle of olive oil over medium-high heat. Cook carrot and remaining <br>onion, stirring, until tender, 3-4 minutes. <br>• Add black beans and cook, stirring, until tender, 2 minutes.<br>• SPICY! You may find the spice blend hot! Add less if you&#39;re sensitive to heat. Add tomato paste, <br>garlic and Mexican Fiesta spice blend and cook until fragrant, 1-2 minutes.<br>• Stir through the water and plant-based butter. Simmer until sauce is thickened, 1-2 minutes. Season to taste.<br><br>TIP: Add another splash of water if the mixture seems dry.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23947f8f6928425d5c30f/step-6498b030.jpeg"
+    },
+    {
+      "text": "• <p>• Drain pickled onion, reserving a splash of the pickling liquid.<br>• In a medium bowl, combine corn, snacking tomatoes, pickled onion, a drizzle of olive oil and the reserved pickling liquid. Toss to combine and season.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23947f8f6928425d5c30f/step-74644a40.jpeg"
+    },
+    {
+      "text": "• <p>• Divide cheesy potato wedges between plates.<br>• Top with black beans, corn and pickled onion salsa and plant-based mayonnaise.<br>• Tear over coriander to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67e23947f8f6928425d5c30f/step-a1e7f750.jpg"
+    }
+  ]
+}

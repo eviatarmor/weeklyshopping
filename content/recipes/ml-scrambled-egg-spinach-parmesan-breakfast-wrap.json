@@ -1,0 +1,86 @@
+{
+  "slug": "ml-scrambled-egg-spinach-parmesan-breakfast-wrap",
+  "kind": "meal",
+  "title": "Scrambled Egg, Spinach & Parmesan Breakfast Wrap",
+  "sourceUrl": "https://www.mealime.com/recipes/scrambled-egg-spinach-parmesan-breakfast-wrap/7018",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/798/presentation_a6bbc7c5-f30c-4e55-9e44-13fdbc7a31b8.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Spinach",
+      "qty": 140,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Eggs",
+      "qty": 8,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Large Flour Tortillas",
+      "qty": 4,
+      "product": "wraps"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 55,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter (unsalted)",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Crushed Red Pepper",
+      "product": "red-capsicum",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Wash and dry the spinach (skip this step if the spinach came pre-washed)."
+    },
+    {
+      "text": "Preheat a skillet over medium heat."
+    },
+    {
+      "text": "Break the eggs into a medium bowl and add spices; whisk together."
+    },
+    {
+      "text": "Once the skillet is hot, add butter and swirl to coat the bottom; add the spinach and cook, stirring constantly, until wilted, 1-2 minutes."
+    },
+    {
+      "text": "Pour the egg mixture into the skillet. Scramble the eggs using a combination of stirring and flipping, making sure to bring in all the mixture from the edges of the pan. Cook until the eggs are no longer runny."
+    },
+    {
+      "text": "Finely grate Parmesan."
+    },
+    {
+      "text": "Remove the skillet from the heat. Sprinkle the eggs with the Parmesan; stir to combine."
+    },
+    {
+      "text": "Place tortillas on a flat surface and top with egg mixture. Tightly roll to close. Enjoy!"
+    }
+  ]
+}

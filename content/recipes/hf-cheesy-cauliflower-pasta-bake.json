@@ -1,0 +1,153 @@
+{
+  "slug": "hf-cheesy-cauliflower-pasta-bake",
+  "kind": "meal",
+  "title": "Cheesy Cauliflower Pasta Bake",
+  "subtitle": "with Fresh Thyme & Pear Salad",
+  "description": "Dig into this rich, creamy bake packed with tender cauliflower, al dente pasta and most importantly... a generous scattering of golden cheese! Team with a simple yet satisfying salad for a trio of dishes with something for everyone. \nWe’ve replaced the\ntomato in this recipe\nwith pear due to local\ningredient availability,\nas a result of the recent\nheavy rainfall. It’ll be just\nas delicious, just follow\nyour recipe card!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-loaded-cauliflower-pasta-bake-67f85a1a4264524ca97975e8",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1021_W24_AUS_Main__2high-458f795b.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "british",
+    "around the world"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "thyme",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572382a3405d840b2be3c15-48ecde76.png"
+    },
+    {
+      "name": "Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "thickened-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572382bb33a6ad8f0f05c3c-9ca8f8ec.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Fusilli",
+      "qty": 1,
+      "product": "fusilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723750105c9621030b4ac5-adbac6e1.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237bc3405d840b2be39c5-48d979b1.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a5-f4dfe0a3.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6b635bf0b638cfb8bc-4741fed5.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. <br>• Boil the kettle.<br>• Chop cauliflower into small florets including <br>the stalk.<br>• Place cauliflower on a lined oven tray. Drizzle <br>with olive oil and season with salt and pepper.<br>• Toss to coat. Roast until tender and brown <br>around the edges, 20-25 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f856860d0527cba53afd8c/step-1baa6a00.jpg"
+    },
+    {
+      "text": "• <p>• Half-fill a medium saucepan with boiling water <br>and a generous pinch of salt. Cook fusilli in the <br>boiling water until ‘al dente’, 12 minutes.<br>• Reserve some pasta water (1/3 cup for 2 people <br>/ 2/3 cup for 4 people). Drain fusilli, drizzle with <br>olive oil and set aside. </p> <p><br>TIP: ‘Al dente’ pasta is cooked through but still <br>slightly firm in the centre.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f856860d0527cba53afd8c/step-e81ad610.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop garlic. <br>• Pick thyme leaves. <br>• Slice pear(see ingredients) into thin wedges. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f856860d0527cba53afd8c/step-7a981e20.jpg"
+    },
+    {
+      "text": "• <p>• Return the saucepan to medium-high heat with <br>a drizzle of olive oil. Add the butter, plain flour, <br>garlic and garlic &amp; herb seasoning and cook <br>until fragrant, 1-2 minutes.<br>• Stir in thickened cream, the milk, vegetable <br>stock and the reserved pasta water, then <br>simmer until slightly thickened, 1-2 minutes.<br>• Remove from heat, then stir through roasted <br>cauliflower, thyme and cooked pasta. Season <br>with pepper.<br>• Transfer pasta to a baking dish. Top with <br>Cheddar cheese. Bake until cheese is melted <br>and golden, 8-10 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f856860d0527cba53afd8c/step-2499a630.jpg"
+    },
+    {
+      "text": "• <p>• While pasta is baking, in a medium bowl, <br>combine a drizzle of white wine vinegar and <br>olive oil. Season with salt and pepper.<br>• Add mixed salad leaves and pear. Toss <br>to combine. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f856860d0527cba53afd8c/step-56350740.jpg"
+    },
+    {
+      "text": "• <p>• Divide cheesy cauliflower pasta bake between <br>plates. Serve with pear salad. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f856860d0527cba53afd8c/step-b8d6d950.jpg"
+    }
+  ]
+}

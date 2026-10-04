@@ -1,0 +1,154 @@
+{
+  "slug": "hf-creamy-mushroom-and-white-bean-pie",
+  "kind": "meal",
+  "title": "Creamy Mushroom & White Bean Pie",
+  "subtitle": "with Cheesy Mashed Potato Topping & Chilli",
+  "description": "We thought we'd give your average shepherd's pie a makeover! By swapping mince to cannellini beans, watch as the beans and potato topping soak up the herby filling to perfection. We've also paired it with some hidden veg to bring in some freshness and fresh chilli to serve!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-mushroom-and-white-bean-pie-66e3b3ffe6df74d078e468d5",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66e3b3ffe6df74d078e468d5-ef9e3207.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fae01355a2ab9306616d5b0-a7aba26d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5568698f4dab71a91d8b4569.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238613405d840b2be3d19-be3b4e00.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ac468ac30006c0ef8159bd2-62f5390a.png"
+    },
+    {
+      "name": "Herb & Mushroom Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "herb-and-mushroom-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65e4f5c51101bf67206067d1-58339e93.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5dbfb5acd7ecfc1364030f65-1650ad62.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427be4dab7105578b456b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle. Half-fill a large saucepan with boiling water, then add a generous pinch of salt.\n• Peel potato and cut into large chunks.\n• Cook potato in the boiling water, over high heat, until easily pierced with a fork, 12-15 minutes. Drain and return to the pan.\n• Add the butter and milk to potato and season with salt. Mash until smooth. TIP: Save time and get more fibre by leaving the potato unpeeled.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b3ffe6df74d078e468d5-646ff7d6.jpeg"
+    },
+    {
+      "text": "• Meanwhile, preheat grill to high.\n• Finely chop brown onion and garlic.\n• Grate carrot.\n• Drain and rinse cannellini beans.\n• Finely chop long chilli.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b3ffe6df74d078e468d5-86d2cc87.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook sliced mushrooms, stirring, until slightly browned and softened, 2-3 minutes.\n• Add carrot and onion and cook, until tender, 4-5 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b3ffe6df74d078e468d5-3515be2a.jpeg"
+    },
+    {
+      "text": "• Add cannellini beans, garlic, herb & mushroom seasoning and a drizzle of olive oil to pan, then cook, stirring until fragrant and slightly tender, 2 minutes.\n• Stir in light cooking cream, the water and vegetable stock powder and simmer, until slightly reduced, 1-2 minutes.\n• Remove from heat, add baby spinach leaves, stirring, until wilted. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b3ffe6df74d078e468d5-ae94c947.jpeg"
+    },
+    {
+      "text": "• Transfer mushroom filling into a baking dish and evenly spread mashed potato over the top. Sprinkle with Parmesan cheese.\n• Grill until lightly golden, 8-10 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b3ffe6df74d078e468d5-8eb8cea7.jpeg"
+    },
+    {
+      "text": "• Divide creamy mushroom, white bean and herb pie between plates.\n• Sprinkle chilli (if using) to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66e3b3ffe6df74d078e468d5-6dd583e4.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "ep-golden-veggie-fritters",
+  "kind": "meal",
+  "title": "Golden Veggie Fritters",
+  "subtitle": "with Wedges & Garden Salad",
+  "description": "Cheesy, golden and loaded with veggies - these are fritters made for savouring! Enjoy this fresh, fast and flavourful dinner!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/golden-veggie-fritters-67f849930d0527cba53ab3c2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y25_R4015_W22_AUS_Main_7_low-5a7ac9bd.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "australian",
+    "pies-fries-beyond"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b4960-b67728c7.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5094-b270df3d.png"
+    },
+    {
+      "name": "All-Purpose Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-purpose-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee05c5a1f384b099b170d37-fbbee569.png"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572381db33a6ad8f0f05bf0-e75399db.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd1-a177488d.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde12793e8cdd8467eb9-1b6a727d.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de869690d86caac9271b-6bab1a34.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf52793e8cdd8467edf-72b2418f.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f11-25387a5d.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de5d9690d86caac926c8-273dce73.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb1-a24832e8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced. Cut potato into wedges and place on the lined oven tray.<br>• Drizzle with olive oil and season with salt.<br>• Toss to coat and bake until tender, 20-25 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f846a2cade9b9f0ace0d97/step-7d882500.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, grate carrot and zucchini. Drain sweetcorn. Squeeze excess moisture out of carrot and zucchini using a paper towel or clean cloth.<br>• In a medium bowl, combine carrot, zucchini, sweetcorn, Cheddar cheese, the plain flour, egg, milk and all-purpose seasoning.<br>• Lift out some of the mixture with a spoon, if it’s too wet and doesn’t hold its shape, add more flour.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f846a2cade9b9f0ace0d97/step-7e154f10.jpg"
+    },
+    {
+      "text": "• <p>• Heat a large frying pan over medium-high heat with enough olive oil to coat <br>the base.<br>• When oil is hot, cook fritters in batches, flattening each with a spatula, until golden, 3-4 mins each side. (Don&#39;t flip the fritters too early to ensure they set.)<br>• Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f846a2cade9b9f0ace0d97/step-184b2a20.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, roughly chop tomato.<br>• In a second medium bowl, combine the mayonnaise and honey with a drizzle of vinegar and olive oil. Add tomato and salad leaves. Toss to coat and season withh salt and pepper.<br>• Divide fritters, wedges and garden salad between plates.<br>• Drizzle with sweet chilli sauce to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f846a2cade9b9f0ace0d97/step-bb8c5130.jpg"
+    }
+  ]
+}

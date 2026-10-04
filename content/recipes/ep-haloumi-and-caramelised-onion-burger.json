@@ -1,0 +1,103 @@
+{
+  "slug": "ep-haloumi-and-caramelised-onion-burger",
+  "kind": "meal",
+  "title": "Haloumi & Caramelised Onion Burger",
+  "subtitle": "with Potato Wedges & Herby Mayo",
+  "description": "Who said meat-free meals can't be marvellous?! Chow down on tender haloumi, generous veggies and golden wedges for a veggie dinner that ticks all the boxes!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/haloumi-and-caramelised-onion-burger-67f843e7cade9b9f0ace0195",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6629ab8d4973a916e18c1133-9640713f-d3d48177.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "everyplate",
+    "american",
+    "vegetarian",
+    "burgers-rolls",
+    "world-flavors"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6a-9ba9c536.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c3-662d4bcd.png"
+    },
+    {
+      "name": "Dill & Parsley Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237313405d840b2be36cb-a695cfe8.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Bake-At-Home Continental Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f784ecbf90d9f5283f5-d55da12a.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Balsamic Vinegar*",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de792793e8cdd8467fbc-1c01279c.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e60-44b83ee2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <ul>\n• <li>Preheat oven to 240°C/220°C fan-forced. </li>\n• <li>Cut potato into wedges. </li>\n• <li>Place on lined oven tray. Drizzle with olive oil, season with a pinch of salt and toss to coat. </li>\n• <li>Bake until tender, 20-25 mins. </li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69a13e15e7bff1dd159f6ce6/step-703f6e00.jpeg"
+    },
+    {
+      "text": "• <ul>\n• <li>While fries are baking, thinly slice red onion.</li>\n• <li>In a large frying pan, heat a drizzle of olive oil over medium-high heat.</li>\n• <li>Cook onion, stirring regularly, until softened, 5-6 mins. Reduce heat to medium.</li>\n• <li>Add the balsamic vinegar, brown sugar and a splash of water and mix well. Cook until dark and sticky, 2-4 mins. Transfer to a small bowl.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69a13e15e7bff1dd159f6ce6/step-2ee3f610.jpeg"
+    },
+    {
+      "text": "• <ul>\n• <li>Pat haloumi dry, then slice horizontally to get 1 piece per person.</li>\n• <li>Wash and dry frying pan and return to medium-high heat with a drizzle of olive oil. </li>\n• <li>Cook haloumi until golden, 2 mins each side.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69a13e15e7bff1dd159f6ce6/step-dca24f20.jpeg"
+    },
+    {
+      "text": "• <ul>\n• <li>Meanwhile, halve continental rolls and bake directly on a wire oven rack until heated through, 2-3 mins.</li>\n• <li>Spread roll bases with dill &amp; parsley mayonnaise. Top with caramelised onions, haloumi and salad leaves.</li>\n• <li>Serve with wedges and your favourite dipping sauce.</li>\n• </ul>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69a13e15e7bff1dd159f6ce6/step-68a82a30.jpeg"
+    }
+  ]
+}

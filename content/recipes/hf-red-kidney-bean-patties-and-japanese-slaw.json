@@ -1,0 +1,157 @@
+{
+  "slug": "hf-red-kidney-bean-patties-and-japanese-slaw",
+  "kind": "meal",
+  "title": "Red Kidney Bean Patties & Japanese Slaw",
+  "subtitle": "with Sesame Wedges & Soy Mayo",
+  "description": "These super-satisfying veggie patties are packed full of flavour and they’re perfect for a easy mid-week meal. The secret ingredient\nis our famous caramelised onion chutney which balances out the rich, savoury flavour of the kidney beans. Bring it all together\nwith a fresh Japanese slaw, hearty sesame wedges and a dollop of soy mayo.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/red-kidney-bean-patties-and-japanese-slaw-6475b167d7b6ef458c0278a2",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/butter-bean-patties-japanese-slaw-56954fa0.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555428d6fd2cb9da068b4569.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556858d3f8b25e68408b4568.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Onion Chutney",
+      "qty": 1,
+      "unit": "packet",
+      "product": "onion-chutney",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/637efebcf19ca4dc120d3a66-4106aa11.png"
+    },
+    {
+      "name": "Pear",
+      "qty": 1,
+      "product": "pear",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/560b7cc8fd2cb9a5278b4568.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Fine Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/55542b01fd2cb9da068b456b-007510db.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5da6679b0c043a04a960a9d3-172dc93a.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59ac90632c3e0855ea048e02-f273e5e8.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/557e7fd8f8b25e9c678b4567.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Red Kidney Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b0039fd2cb99c598b4570.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Japanese Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut potato into wedges.\n• Place wedges on a lined oven tray. Season with salt, drizzle with olive oil, sprinkle over sesame seeds and toss to coat.\n• Bake until tender, 20-25 minutes. TIP: If your oven tray is crowded, divide the wedges between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475b167d7b6ef458c0278a2/step-12f227f2.jpg"
+    },
+    {
+      "text": "• Meanwhile, drain and rinse red kidney beans.\n• Grate carrot.\n• Thinly slice pear, then transfer to a medium bowl.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475b167d7b6ef458c0278a2/step-7420ad1b.jpg"
+    },
+    {
+      "text": "• In a second medium bowl, add red kidney beans, onion chutney and the egg. Mash with a potato masher until the red kidney beans are broken up.\n• Add grated carrot, the plain flour, fine breadcrumbs, shredded Cheddar cheese, garlic & herb seasoning and a pinch of salt and pepper. Combine until the mixture is sticking together.\n• Using damp hands, form heaped spoonfuls of the mixture into balls, flattening each ball into a 1cm-thick patty. You should get 4-5 patties per person. TIP: Add a little more flour if the mixture is too wet.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475b167d7b6ef458c0278a2/step-0412c003.jpg"
+    },
+    {
+      "text": "• Heat enough olive oil to coat the base of a large frying pan over medium-high heat.\n• When the oil is hot, cook patties until golden, 3-4 minutes each side. Transfer to a paper towel-lined plate. TIP: Don’t flip before the time is up to ensure your patties can set. TIP: Add more oil if needed to prevent sticking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475b167d7b6ef458c0278a2/step-2efe8138.jpg"
+    },
+    {
+      "text": "• While the patties are cooking, to the bowl with the pear, add shredded cabbage mix, Japanese style dressing and a drizzle of olive oil. Toss to coat and season to taste.\n• In a small bowl, combine mayonnaise with a drizzle of the soy sauce.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475b167d7b6ef458c0278a2/step-89b3e4da.jpg"
+    },
+    {
+      "text": "• Divide kidney bean patties, sesame wedges and Japanese slaw between plates.\n• Serve with soy mayo. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475b167d7b6ef458c0278a2/step-0e9c51ee.jpg"
+    }
+  ]
+}

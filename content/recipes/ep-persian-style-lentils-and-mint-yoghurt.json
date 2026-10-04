@@ -1,0 +1,150 @@
+{
+  "slug": "ep-persian-style-lentils-and-mint-yoghurt",
+  "kind": "meal",
+  "title": "Persian-Style Lentils & Mint Yoghurt",
+  "subtitle": "with Garlic Rice",
+  "description": "The chermoula-style spice will add a rich depth of flavour to your lentil curry. Add a dollop of mint infused yoghurt for a refreshing burst!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/persian-style-lentils-and-mint-yoghurt-67f842910d0527cba53a96be",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6571646b38e51a4a51a2ff63-5f66d625-539c42d0.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "middle eastern",
+    "quick",
+    "naturally gf",
+    "spicy",
+    "climate hero",
+    "pies-fries-beyond"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cb-3faad567.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379f3405d840b2be3922-7ce27c70.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561c-5667c8d1.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5045-a3312fa7.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae2-bdf7aecc.png"
+    },
+    {
+      "name": "Persian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "persian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee983756a9c9a041e128222-205bcf94.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bda-5fe23cf6.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833484264524ca978ae38-7f76b87f.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf52793e8cdd8467edf-72b2418f.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 60,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92531-6c19cc26.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop or crush garlic. In a medium saucepan, melt 1/2 the butter with a dash of olive oil over medium heat.<br>• Cook 1/2 the garlic until fragrant, 1-2 mins. Add basmati rice, the water and a generous pinch of salt and bring to the boil. Reduce heat to low and cover with a lid.<br>• Cook for 10 mins, then remove from heat and keep covered until rice is tender and the water absorbed, 10 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fc5b65fe44baceeadf712e/step-a8d09600.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop brown onion. Grate carrot. Drain and rinse lentils.<br>• In a large saucepan, heat a drizzle of olive oil over a medium-high heat.<br>• Cook onion and carrot until softened, 4-5 mins. Stir in Persian spice blend and remaining garlic, and cook until fragrant, 1-2 mins.<br>• Add lentils and cook until tender, 2-3 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fc5b65fe44baceeadf712e/step-a7756310.jpeg"
+    },
+    {
+      "text": "• <p>• Reduce heat to medium and add coconut milk and the stock powder. Cook until slightly thickened, 2-3 mins.<br>• Stir in baby spinach and the remaining butter. Season with pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fc5b65fe44baceeadf712e/step-5addd320.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, roughly chop mint. In a small bowl, combine mint and yoghurt. Season to taste.<br>• Divide garlic rice and lentils between plates.<br>• Top with mint yoghurt.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67fc5b65fe44baceeadf712e/step-5aff1730.jpeg"
+    }
+  ]
+}

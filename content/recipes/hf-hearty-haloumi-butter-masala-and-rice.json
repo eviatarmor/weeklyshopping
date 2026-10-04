@@ -1,0 +1,153 @@
+{
+  "slug": "hf-hearty-haloumi-butter-masala-and-rice",
+  "kind": "meal",
+  "title": "Hearty Haloumi Butter Masala & Rice",
+  "subtitle": "with Baby Spinach & Almonds",
+  "description": "In our vegetarian version of the popular Indian curry, we've used grilled haloumi in place of chicken and the result is top-notch. The hardy cheese is perfect for soaking up the creamy spiced sauce and fluffy rice, giving you the cosiest bowl on the market!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/hearty-haloumi-butter-masala-and-rice-674cd7e0a0d670a6c9690a54",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/674cd7e0a0d670a6c9690a54-0b5b85db.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "quick",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "White Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "white-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d5c46fd2cb937078b4567.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d9d8bc2d4f0c9006c3a9cef-58b68ca4.png"
+    },
+    {
+      "name": "Mild North Indian Spice Blend",
+      "qty": 0.5,
+      "unit": "sachet",
+      "blend": "mild-north-indian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/596d897005346810d765df82-58b68ca4.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5dbfb5acd7ecfc1364030f65-1650ad62.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd96fae08b531076e2e52-2fea204a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a medium saucepan, add the water (for the rice) and a generous pinch of salt and bring to the boil. Rinse and drain white rice.\n• Add rice. Stir, cover with a lid and reduce heat to low. Cook for 10 minutes, then remove from heat. Keep covered, until rice is tender and water is absorbed, 10 minutes.\n• While the rice is cooking, cut haloumi into bite-sized chunks. Transfer haloumi to a medium bowl, then add enough water to cover. TIP: The rice will finish cooking in its own steam, so don’t peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd7e0a0d670a6c9690a54-812fb930.jpeg"
+    },
+    {
+      "text": "• Roughly chop brown onion. Thinly slice carrot into half-moons. Finely chop garlic. Drain haloumi, then pat dry.\n• In a large frying pan, heat a generous drizzle of olive oil over medium-high heat. When oil is hot, cook haloumi, tossing occasionally, until golden brown, 2-4 minutes. Transfer to a paper towel-lined plate.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd7e0a0d670a6c9690a54-23cd8a6f.jpeg"
+    },
+    {
+      "text": "• Return frying pan to medium-high heat with a drizzle of olive oil. Cook onion and carrot, tossing, until golden, 4-5 minutes. Add garlic, tomato paste, Mumbai spice blend, mild North Indian spice blend (see ingredients) and the honey and cook until fragrant, 1 minute.\n• Reduce heat to medium, then stir in light cooking cream and the water (for the sauce). Return haloumi to the pan. Simmer until thickened, 2-3 minutes. Remove pan from heat, then stir in the butter, a pinch of pepper and baby spinach leaves, until spinach is just wilted, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd7e0a0d670a6c9690a54-c8d97af7.jpeg"
+    },
+    {
+      "text": "• Divide rice between bowls.\n• Top with hearty haloumi masala.\n• Garnish with flaked almonds to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd7e0a0d670a6c9690a54-84e1a273.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "ml-toast-goat-cheese-raspberries-honey",
+  "kind": "meal",
+  "title": "Toast with Goat Cheese, Raspberries & Honey",
+  "sourceUrl": "https://www.mealime.com/recipes/toast-goat-cheese-raspberries-honey/22391",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2539/presentation_189f5919-9023-4429-99ce-54f4728d27e6.jpeg",
+  "servings": 4,
+  "prepMinutes": 7,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Goat Cheese",
+      "qty": 115,
+      "unit": "g",
+      "product": "goat-s-cheese"
+    },
+    {
+      "name": "Raspberries",
+      "qty": 170,
+      "unit": "g",
+      "product": "raspberries"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "qty": 4,
+      "unit": "slice",
+      "product": "bread"
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to broil on high and position rack in the upper third of the oven. (Skip this step if you are using a toaster for the bread.)"
+    },
+    {
+      "text": "Arrange bread on a baking sheet pan. Place in the oven and broil, flipping halfway through, until toasted, about 2 minutes; remove from oven. (Alternatively, you can use a toaster.)"
+    },
+    {
+      "text": "Meanwhile, wash and dry raspberries."
+    },
+    {
+      "text": "Divide goat cheese between toast slices and spread out in an even layer. Top with raspberries and drizzle with honey."
+    },
+    {
+      "text": "To serve, divide toast between plates and enjoy!"
+    }
+  ]
+}

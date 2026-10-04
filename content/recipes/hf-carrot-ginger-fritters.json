@@ -1,0 +1,165 @@
+{
+  "slug": "hf-carrot-ginger-fritters",
+  "kind": "meal",
+  "title": "Carrot-Ginger Fritters",
+  "subtitle": "with Asian-Style Sweet Potato Salad & Coconut Sweet Chilli Mayo",
+  "description": "These golden fritters are full of bright and flavoursome ingredients, with a hint of zingy ginger to make your tastebuds sing!\nServe with a super satisfying salad, studded with roasted sesame sweet potato nuggets, and you have a brand new meal that\nyou'll crave again and again. Don't forget to top the fritters with the tropical mayo before digging in.\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/carrot-ginger-fritters-64acb870ce6b1bd057254e13",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64acb870ce6b1bd057254e13-2d8b1246.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "calorie smart",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/606d14714f75e662fe596b02-03c06826.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea5b8399c9158e21a1fda-673e0e85.png"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556875054dab71691e8b4569.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Spinach & Rocket Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "spinach-rocket-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bc68fd9ae08b52185291032-1726888f.png"
+    },
+    {
+      "name": "Coconut Sweet Chilli Mayonnaise",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mayonnaise",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59dc1d44c2880043436b56c2-107fb982.png"
+    },
+    {
+      "name": "Southeast Asian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "southeast-asian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d5cc6284da29b00112c6c62-58b68ca4.png"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59c870fc2c3e083453117432-e177f737.png"
+    },
+    {
+      "name": "Japanese Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png"
+    },
+    {
+      "name": "Long Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/554b00044dab71a9058b456a-1fa52d04.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut sweet potato into bite-sized chunks.\n• Place sweet potato on a lined oven tray. Season with salt and pepper and drizzle with olive oil.\n• Toss to coat, then roast until tender, 20-25 minutes. Set aside to cool slightly.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64acb870ce6b1bd057254e13-834da2f3.jpeg"
+    },
+    {
+      "text": "• Meanwhile, grate carrot, squeezing out any excess moisture using a paper towel.\n• Finely chop garlic and long chilli (if using).\n• Thinly slice spring onion.\n• Thinly slice cucumber into rounds.\n• Halve snacking tomatoes. TIP: Removing the excess liquid from the carrot will help the fritters crisp up in the pan.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64acb870ce6b1bd057254e13-a4b1c5f9.jpeg"
+    },
+    {
+      "text": "• In a medium bowl, whisk the egg.\n• Add carrot, spring onion, chilli, Southeast Asian spice blend, garlic, ginger paste, the plain flour, the salt and a good pinch of pepper. Mix well to combine. TIP: Lift out some of the mixture with a spoon. If it's too wet and doesn't hold its shape, add a little more flour.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64acb870ce6b1bd057254e13-8202365b.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat enough olive oil to coat the base over medium-high heat.\n• When oil is hot, add heaped tablespoons of fritter mixture in batches, flattening with a spatula. Cook until golden, 3-4 minutes each side (don't flip too early!).\n• Transfer to a paper towel-lined plate. You should get 3-4 fritters per person.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64acb870ce6b1bd057254e13-70ceaf84.jpeg"
+    },
+    {
+      "text": "• While the fritters are cooking, in a large bowl, combine spinach & rocket mix, cucumber, tomatoes and sweet potato.\n• Just before serving, add crushed peanuts and Japanese style dressing. Gently toss to coat. Season salad to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64acb870ce6b1bd057254e13-db2367b5.jpeg"
+    },
+    {
+      "text": "• Divide the carrot-ginger fritters and salad between plates.\n• Top the fritters with coconut sweet chilli mayonnaise to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64acb870ce6b1bd057254e13-104cacb2.jpeg"
+    }
+  ]
+}

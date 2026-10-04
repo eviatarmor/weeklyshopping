@@ -1,0 +1,146 @@
+{
+  "slug": "hf-bbq-baked-beans-and-garlic-bread",
+  "kind": "meal",
+  "title": "BBQ Baked Beans & Garlic Bread",
+  "subtitle": "with Cheddar Cheese",
+  "description": "These baked beans really live up to their name, both with their time in the oven where all the flavours mix and mingle into a moreish taste sensation and with the gooey cheese, which you can mop up with the perfectly chewy ciabatta garlic bread.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/bbq-baked-beans-and-garlic-bread-67f83f37cade9b9f0acdf0d4",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67a0188d9e3e3f5847289872-f323fe0a-5f665055.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "american"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5093-c21ef0b3.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "packet",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b7105c9621030b4d32-3ceac5f0.png"
+    },
+    {
+      "name": "Bbq Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "bbq-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236d3b33a6ad8f0f05653-4ff2e70f.png"
+    },
+    {
+      "name": "All-American Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-american-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c33405d840b2be349d-a27df8b5.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237333405d840b2be36e0-7bc937a9.png"
+    },
+    {
+      "name": "Bake-At-Home Ciabatta",
+      "qty": 1,
+      "product": "ciabatta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56df758b4dab71036e8b456a-ec117d66.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238123405d840b2be3b67-c2cba528.jpg"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b3-a59a74db.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd982793e8cdd8467e57-5ee04095.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Finely chop garlic.<br>• Roughly chop parsley.<br>• Drain and rinse cannellini beans.<br>• Drain sweetcorn. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68198ff26326cd47f1a59ab6/step-ff13d600.jpg"
+    },
+    {
+      "text": "• <p>• In a large ovenproof saucepan, heat a drizzle of <br>olive oil over medium-high heat.<br>• Cook soffritto mix and sweetcorn, stirring, until <br>softened, 6-7 minutes.<br>• Add half the garlic and cook until fragrant, <br>1 minute. </p> <p><br>TIP: Cover the pan with a lid if the corn kernels are <br>‘popping’ out </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68198ff26326cd47f1a59ab6/step-08145c10.jpg"
+    },
+    {
+      "text": "• <p>• SPICY! This is a mild spice blend, but use less <br>if you’re sensitive to heat! To the pan, add <br>cannellini beans and All-American spice blend. <br>Cook, stirring until fragrant, 1 minute.<br>• Add diced tomatoes with garlic &amp; onion, the <br>salt, BBQ sauce and water. Cook, stirring, <br>until well combined, 2-3 minutes. Season with <br>pepper to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68198ff26326cd47f1a59ab6/step-9625d820.jpg"
+    },
+    {
+      "text": "• <p>• Sprinkle bean mixture evenly with Cheddar<br>cheese and cover with a lid (or foil).<br>• Bake until thickened and cheese is melted, <br>10-12 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68198ff26326cd47f1a59ab6/step-4f7c4f30.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, slice bake-at-home ciabatta in <br>half lengthways, then slice each half diagonally <br>across.<br>• Place the butter and remaining garlic in a <br>small microwave-safe bowl. Microwave in <br>10 second bursts, until melted. Stir through half <br>the parsley. Season with salt and pepper.<br>• Brush garlic butter over the cut-side of ciabatta <br>slices.<br>• Place ciabatta slices directly on a wire rack in <br>the oven. Bake until golden, 5 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68198ff26326cd47f1a59ab6/step-9ba47240.jpg"
+    },
+    {
+      "text": "• <p>• Divide BBQ baked beans between bowls.<br>• Garnish with remaining parsley.<br>• Serve with garlic bread. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/68198ff26326cd47f1a59ab6/step-8ce1cf50.jpg"
+    }
+  ]
+}

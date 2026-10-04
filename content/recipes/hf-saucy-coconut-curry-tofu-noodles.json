@@ -1,0 +1,159 @@
+{
+  "slug": "hf-saucy-coconut-curry-tofu-noodles",
+  "kind": "meal",
+  "title": "Saucy Red Curry Noodles & Spiced Tofu",
+  "subtitle": "with Veggies & Coriander",
+  "description": "Sometimes you just want something a little saucier with a bit of heat! This dish is sure to please with its exotic combo of spices, veggies and coconut cream. Just add some chewy and soft udon noodles to carry all the incredible flavour.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/saucy-coconut-curry-tofu-noodles-5f2a29457ff1dd1eeb42d867",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/saucy-coconut-curry-tofu-noodles-ad084b96.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "asian",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 1,
+      "unit": "bag",
+      "product": "green-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542907fd2cb9070c8b4567.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c39f8b25e931f8b4568.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Firm Tofu",
+      "qty": 1,
+      "unit": "block",
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e112ff8b25e1c628b4568.png"
+    },
+    {
+      "name": "Southeast Asian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "southeast-asian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d5cc6284da29b00112c6c62-58b68ca4.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "qty": 0.5,
+      "unit": "tin",
+      "product": "red-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5e448894328cbc18c105ec39-f5de9baf.png"
+    },
+    {
+      "name": "Coconut Cream",
+      "qty": 0.5,
+      "unit": "tin",
+      "product": "coconut-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/578ffaeeb5793fa02e8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad458ed30006c5f085195b2-e35a259a.png"
+    },
+    {
+      "name": "Udon Noodles",
+      "qty": 1,
+      "unit": "packet",
+      "product": "udon-noodles",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556844504dab71d81c8b456b.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop the garlic (or use a garlic press). Cut\n• the carrot (unpeeled) into half-moons. Trim the\n• green beans and slice into thirds. Roughly chop\n• the capsicum. Zest the lime (see ingredients list) and cut into wedges.\n• Roughly chop the coriander.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f2a29457ff1dd1eeb42d867/step-0d82e332.jpg"
+    },
+    {
+      "text": "• Cut the firm tofu into 2cm cubes. In a medium bowl combine the tofu, Southeast Asian spice blend, the salt and season with pepper. Toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f2a29457ff1dd1eeb42d867/step-83e3e5ea.jpg"
+    },
+    {
+      "text": "• Heat a good drizzle of olive oil in a large frying\n• pan over a medium-high heat. Add the tofu and\n• cook, turning, until browned all over, 3-4 minutes.\n• Transfer to a plate lined with a paper towel.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f2a29457ff1dd1eeb42d867/step-6b054938.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium-high heat with a drizzle of oil. Add the green beans, carrot and capsicum and cook until softened, 3-4 minutes. Add the garlic, lime zest and Thai red curry paste (see ingredients list) and cook until fragrant, 1 minute.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f2a29457ff1dd1eeb42d867/step-263d9958.jpg"
+    },
+    {
+      "text": "• Add the coconut cream (see ingredients list), water, brown sugar, soy sauce and udon noodles to the veggies. Bring to the boil and then simmer until slightly thickened, 2 minutes. Stir through a squeeze of lime juice and remove from the heat.\n• TIP: Use a fork to separate the noodles.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f2a29457ff1dd1eeb42d867/step-8666b1c2.jpg"
+    },
+    {
+      "text": "• Divide the coconut curry noodles between bowls\n• and top with the tofu. Sprinkle over the coriander.\n• Serve with remaining lime wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f2a29457ff1dd1eeb42d867/step-3ebaffca.jpg"
+    }
+  ]
+}

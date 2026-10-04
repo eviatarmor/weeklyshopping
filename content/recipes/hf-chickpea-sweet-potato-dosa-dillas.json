@@ -1,0 +1,166 @@
+{
+  "slug": "hf-chickpea-sweet-potato-dosa-dillas",
+  "kind": "meal",
+  "title": "Chickpea & Sweet Potato Dosa-Dillas",
+  "subtitle": "with Tomato Salsa & Yoghurt",
+  "description": "In this fun fusion dish, cook up a veggie filling with flavours reminiscent of an Indian dosa, then spoon it into cheesy tortillas... don't knock this creative combo till you try it!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/chickpea-sweet-potato-dosa-dillas-64474c9b0f8cf9dc0303d5f0",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chickpea-sweet-potato-dosa-dillas-ec5f40b8.jpg",
+  "servings": 2,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "climate superstar"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593a9bf8b25e921f8b456b.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Tandoori Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tandoori-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e020af8b25ed9618b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea5b8399c9158e21a1fda-673e0e85.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d9d8bc2d4f0c9006c3a9cef-58b68ca4.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced. Cut sweet potato into small chunks.\n• Place sweet potato on a lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to coat. Bake until tender, 10-15 minutes.\n• Meanwhile, finely chop garlic. Drain and rinse chickpeas.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/64474c9b0f8cf9dc0303d5f0/step-ed7af935.jpg"
+    },
+    {
+      "text": "• SPICY! The tandoori paste is mild, but use less if you're sensitive to heat. In a large frying pan, heat a drizzle of olive oil over medium-high heat. Add Mumbai spice blend, tandoori paste, tomato paste and garlic and cook until fragrant, 1 minute.\n• Stir through the water, chickpeas, the butter and vegetable stock powder. Simmer until slightly thickened, 1-2 minutes.\n• Stir through roasted sweet potato and the baby spinach leaves. Remove pan from heat. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/64474c9b0f8cf9dc0303d5f0/step-e8ef89bb.jpg"
+    },
+    {
+      "text": "• Arrange mini flourtortillas over a second lined oven tray. Divide filling among tortillas, spooning it onto one half of each tortilla.\n• Top with shredded Cheddar cheese. Fold the empty half of each tortilla over to enclose filling and press down with a spatula. TIP: If the tortillas don't fit in a single layer, spread across two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/64474c9b0f8cf9dc0303d5f0/step-84062707.jpg"
+    },
+    {
+      "text": "• Brush or spray tortillas with a drizzle of olive oil.\n• Bake dosa-dillas until golden, 10-12 minutes.\n• Spoon any overflowing filling back into dosa-dillas. TIP: Place a sheet of baking paper and another oven tray on top of the dosa-dillas if they unfold during cooking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/64474c9b0f8cf9dc0303d5f0/step-32cf4436.jpg"
+    },
+    {
+      "text": "• Meanwhile, halve snacking tomatoes. Roughly chop coriander.\n• In a medium bowl, combine a drizzle of the white wine vinegar and olive oil. Add tomato and stir to combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/64474c9b0f8cf9dc0303d5f0/step-f84ba1df.jpg"
+    },
+    {
+      "text": "• Divide chickpea and sweet potato dosa-dillas between plates. Top with salsa and coriander.\n• Serve with Greek-style yoghurt. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/64474c9b0f8cf9dc0303d5f0/step-7ea18f05.jpg"
+    }
+  ]
+}

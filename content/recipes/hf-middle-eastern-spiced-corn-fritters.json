@@ -1,0 +1,158 @@
+{
+  "slug": "hf-middle-eastern-spiced-corn-fritters",
+  "kind": "meal",
+  "title": "Middle Eastern-Spiced Corn Fritters",
+  "subtitle": "with Roast Potato, Golden Goddess Salad & Almonds",
+  "description": "Props to our ras el hanout and chermoula spice blends; they're all you need to give tonight's fritters some Middle Eastern vibes. Mint is the other 'secret' ingredient in the fritter mixture, imparting a subtly sweet and refreshing flavour. Round out the dish with roast potato chunks, a simple yet delightful salad, and of course, creamy garlic sauce for some dipping action.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/middle-eastern-spiced-corn-fritters-63e9e40c8301206c2d0684f4",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/middle-eastern-spiced-corn-fritters-e4db5cda.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fe44ecbf90d9f52861a-a7aba26d.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "unit": "sprig",
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/606d14714f75e662fe596b02-03c06826.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682e754dab710f1c8b4567.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556555fafd2cb9c3608b456c.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea5b8399c9158e21a1fda-673e0e85.png"
+    },
+    {
+      "name": "Golden Goddess Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076488201846f6f39708278-d1c2b639.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Garlic Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6010ba627cbfc9495e5b74ab-64152cd8.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Baby Cos Lettuce",
+      "qty": 0.5,
+      "unit": "head",
+      "product": "cos-lettuce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6322f23f0dc40b378a001491-f566b79a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut potato into bite-sized chunks.\n• Place potato on a lined oven tray. Drizzle with olive oil, season with salt and toss to coat.\n• Roast until tender, 20-25 minutes. TIP: If your oven tray is crowded, divide the potato between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e9e40c8301206c2d0684f4/step-0ddec3f1.jpg"
+    },
+    {
+      "text": "• Meanwhile, drain sweetcorn. Thinly slice spring onion. Pick and roughly chop mint leaves.\n• In a medium bowl, combine corn, spring onion, mint, shredded Cheddar cheese, the plain flour and chermoula spice blend. Add the egg, milk, vegetable stock powder and a pinch of pepper. Mix well. TIP: Lift out some of the mixture with a spoon. If it's too wet and doesn't hold its shape, add a little more flour!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e9e40c8301206c2d0684f4/step-96924c66.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat enough olive oil to coat the base over medium-high heat.\n• When oil is hot, add heaped tablespoons of the fritter mixture, in batches, flattening with a spatula. Cook until golden, 3-4 minutes each side (don't flip too early!).\n• Transfer to a paper towel-lined plate. You should get 3-4 fritters per person. TIP: Add extra olive oil between batches as needed",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e9e40c8301206c2d0684f4/step-df1fe769.jpg"
+    },
+    {
+      "text": "• While the fritters are cooking, halve snacking tomatoes.\n• Finely shred baby cos lettuce (see ingredients).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e9e40c8301206c2d0684f4/step-03b0c936.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine tomato, cos lettuce and golden goddess dressing.\n• Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e9e40c8301206c2d0684f4/step-238a8715.jpg"
+    },
+    {
+      "text": "• Divide Middle Eastern-spiced corn fritters, roast potato and cherry tomato salad between plates.\n• Sprinkle over flaked almonds.\n• Serve with garlic sauce. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63e9e40c8301206c2d0684f4/step-4a5d521f.jpg"
+    }
+  ]
+}

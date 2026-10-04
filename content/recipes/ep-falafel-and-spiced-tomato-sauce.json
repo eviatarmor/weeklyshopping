@@ -1,0 +1,144 @@
+{
+  "slug": "ep-falafel-and-spiced-tomato-sauce",
+  "kind": "meal",
+  "title": "Falafel & Spiced Tomato Sauce",
+  "subtitle": "with Couscous & Salsa",
+  "description": "We've got your dinner in a flash! This meat-free delight is not only full flavour it's simple to make and it will be on your table in 20 minutes flat.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/falafel-and-spiced-tomato-sauce-6170d6befc819363c5542a12",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-spiced-tomato-sauce-9301c041.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "middle east",
+    "speedy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Spinach Falafel",
+      "qty": 1,
+      "unit": "tub",
+      "product": "falafel",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0074ecbf90d9f5286c0-d175ab05.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f984ecbf90d9f52849c-0e0812fe.png"
+    },
+    {
+      "name": "Chicken-Style Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chicken-style-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60fa74feead88b1b5c77be93-f2aa7d2a.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f834ecbf90d9f52842d-471f721a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f764ecbf90d9f5283e9-2105763d.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f844ecbf90d9f528435-34de32d5.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f3-922cde24.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9a4ecbf90d9f5284a7-cdcf75ad.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0214ecbf90d9f528732-e93fccf0.png"
+    },
+    {
+      "name": "Persian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "persian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee983756a9c9a041e128222-205bcf94.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01e4ecbf90d9f528724-471f721a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle.\n• Cut falafel into quarters. In a large frying pan, heat olive oil (1/4 cup for 2P / 1/2 cup for 4P) over medium-high heat.\n• Cook the falafel until golden, 5-6 mins. Transfer to a paper towel-lined plate. Cover to keep warm.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6170d6befc819363c5542a12/step-c5524c1b.jpg"
+    },
+    {
+      "text": "• Meanwhile, place couscous and chicken stock in a medium heatproof bowl.\n• Add the boiling water. Stir to combine, immediately cover with a plate and leave for 5 mins.\n• Add baby spinach and toss to combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6170d6befc819363c5542a12/step-90def707.jpg"
+    },
+    {
+      "text": "• Finely chop brown onion. Finely chop or crush garlic.\n• Wipe out and return frying pan to medium-high heat with a drizzle of olive oil. Cook onion until softened, 4-5 mins.\n• Add Persian spice blend, garlic and tomato paste and cook until fragrant, 1 min.\n• Stir in the water and the butter and cook until bubbling, 1-2 mins. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6170d6befc819363c5542a12/step-bf37417e.jpg"
+    },
+    {
+      "text": "• Chop tomato and cucumber.\n• In a medium bowl, combine tomato, cucumber and a drizzle of white wine vinegar and olive oil. Season to taste.\n• Divide the couscous, falafel and salsa between bowls. Spoon the spiced tomato sauce over the falafel.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6170d6befc819363c5542a12/step-c90e1e27.jpg"
+    }
+  ]
+}

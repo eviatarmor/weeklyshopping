@@ -1,0 +1,138 @@
+{
+  "slug": "hf-creamy-mediterranean-bean-and-pesto-stew",
+  "kind": "meal",
+  "title": "Herby Bean, Zucchini & Pesto Stew",
+  "subtitle": "with Spinach & Garlic Ciabatta Dippers",
+  "description": "This one-pot wonder is sure to have you smiling from ear to ear. Herb and mushroom seasoned cannellini beans and veggies do the most by soaking up the creamy, pesto stew to perfection and you can thank us for the garlic dippers, as well. We know you love to sink and dunk’em!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-mediterranean-bean-and-pesto-stew-67f856b90d0527cba53aff8a",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/656d37d538e51a4a51a2f857-b3ae7d69-871e7eef.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bake-At-Home Ciabatta",
+      "qty": 1,
+      "product": "ciabatta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56df758b4dab71036e8b456a-ec117d66.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cannellini-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b3-a59a74db.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd2-a68e0a9e.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pesto",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cf3405d840b2be34f2-d1e5703e.png"
+    },
+    {
+      "name": "Soffritto Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "soffritto-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238123405d840b2be3b67-c2cba528.jpg"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Herb & Mushroom Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "herb-and-mushroom-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65e4f5c51101bf67206067d2-a7a7c4af.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddea635bf0b638cfb9a5-f4dfe0a3.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Cut zucchini into bite-sized chunks. <br>• Finely chop garlic. <br>• Drain and rinse cannellini beans.<br>• In a large saucepan, heat a drizzle of olive oil over high heat. Cook zucchini and soffritto mix, stirring occasionally, until softened, 4-5 minutes.<br>• Add cannellini beans and cook, until softened, 1-2 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83fed4264524ca978f2c1/step-82fff500.jpg"
+    },
+    {
+      "text": "• <p>• Add herb &amp; mushroom seasoning, the plain flour and half the garlic and cook, stirring until fragrant, 1 minute.<br>• Stir in light cooking cream, vegetable stock (see ingredients) and the water.<br>• Reduce heat to medium and simmer, until thickened, 2-3 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83fed4264524ca978f2c1/step-bb9e2d10.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, cut bake-at-home ciabatta into slices. Toast or grill ciabatta to your liking.<br>• In a small microwave-safe bowl, microwave the butter and remaining garlic in 10 second bursts, until melted and fragrant.<br>• Brush garlic butter over ciabatta, then cut into slices. Season with salt and pepper to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83fed4264524ca978f2c1/step-c0585d20.jpg"
+    },
+    {
+      "text": "• <p>• Remove saucepan from heat, then stir through baby spinach leaves until wilted. Season with pepper.<br>• Divide herby bean and veggie stew between bowls. Top with basil pesto.<br>• Serve with garlic ciabatta dippers. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83fed4264524ca978f2c1/step-7a085b30.jpg"
+    }
+  ]
+}

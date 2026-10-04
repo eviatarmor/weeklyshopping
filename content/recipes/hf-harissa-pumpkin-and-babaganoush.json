@@ -1,0 +1,158 @@
+{
+  "slug": "hf-harissa-pumpkin-and-babaganoush",
+  "kind": "meal",
+  "title": "Harissa Pumpkin & Babaganoush",
+  "subtitle": "with Gourmet Garden Parsley & Fetta",
+  "description": "Gourmet Garden’s Aussie grown parsley is lightly dried for a fresher flavour, and lasts four weeks once opened. It’s perfect for Mediterranean cuisine including pasta, dressings, soups and chicken. Enjoy this versatile herb cooked through a colourful and\naromatic serving of veggie-loaded rice - the ideal bed for tender, delicately spiced pumpkin pieces.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/harissa-pumpkin-and-babaganoush-66ce7737475572dc3fb72994",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66ce7737475572dc3fb72994-ae37df8c.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be349fd2cb95d648b4567.png"
+    },
+    {
+      "name": "Harissa Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "harissa-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c26bafd2cb9dc468b4568.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Garlic Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "garlic-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723751b33a6ad8f0f0586f-c1f9a051.png"
+    },
+    {
+      "name": "Lightly Dried Parsley",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "dried-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/668b3873018283f1f439755f-c33c10d7.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Currants",
+      "qty": 1,
+      "unit": "packet",
+      "product": "currants",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5643d517f8b25ecd248b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea59c29e4275caa2553d8-ce6dd9db.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55b9af2ff8b25e7d298b4567.png"
+    },
+    {
+      "name": "Babaganoush",
+      "qty": 1,
+      "unit": "packet",
+      "product": "babaganoush",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6035b011f601b07fac1f122d-c2e8f57a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced. Cut pumpkin into 1 cm-thick wedges.\n• Place pumpkin on a lined oven tray. Season with salt and drizzle with olive oil and toss to coat.\n• Roast until tender, 20-25 minutes.\n• In the last 5 minutes, brush harissa paste over pumpkin and roast until browned. TIP: Peel the pumpkin if you prefer and scrape out the seeds, if necessary! TIP: If your oven tray is crowded, divide between two trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66ce7737475572dc3fb72994-83f081dc.jpeg"
+    },
+    {
+      "text": "• Meanwhile, in a medium saucepan, heat the butter with a dash of olive oil over medium heat.\n• Add garlic paste, Gourmet Garden lightly dried parsley (see ingredients) and chermoula spice blend and cook, until fragrant, 1-2 minutes. Add basmati rice, currants, the water and vegetable stock powder, stir, and bring to the boil.\n• Reduce heat to low and cover with a lid.\n• Cook for 10 minutes, then remove from heat and keep covered until the rice is tender and the water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66ce7737475572dc3fb72994-c3223d38.jpeg"
+    },
+    {
+      "text": "• While rice is cooking, halve snacking tomatoes. Roughly chop baby spinach leaves and roasted almonds.\n• Once rice is done, gently stir in snacking tomatoes, baby spinach and almonds until combined. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66ce7737475572dc3fb72994-42d0e1d8.jpeg"
+    },
+    {
+      "text": "• Divide spiced jewelled rice between bowls. Top with harissa pumpkin, babaganoush and Greek-style yoghurt.\n• Crumble over fetta cubes to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66ce7737475572dc3fb72994-837c6ee2.jpeg"
+    }
+  ]
+}

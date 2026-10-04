@@ -1,0 +1,57 @@
+{
+  "slug": "ml-yogurt-banana-split-strawberries-peanuts",
+  "kind": "meal",
+  "title": "Yogurt Banana Split with Strawberries & Peanuts",
+  "sourceUrl": "https://www.mealime.com/recipes/yogurt-banana-split-strawberries-peanuts/30779",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/3449/presentation_15458c8b-e771-4077-a71f-0c44a0a17d89.jpeg",
+  "servings": 4,
+  "prepMinutes": 10,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 4,
+      "product": "banana"
+    },
+    {
+      "name": "Peanuts (roasted unsalted)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "peanuts"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "qty": 2,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Strawberries",
+      "qty": 455,
+      "unit": "g",
+      "product": "strawberries"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roughly chop peanuts. Place on a plate."
+    },
+    {
+      "text": "Wash, dry, trim, and thinly slice strawberries. Add to the plate with the peanuts, keeping them separate."
+    },
+    {
+      "text": "Peel bananas and halve lengthwise. Divide between plates or bowls."
+    },
+    {
+      "text": "Use an ice cream scoop or measuring cup to portion yogurt over the bananas, then top with sliced strawberries."
+    },
+    {
+      "text": "To serve, sprinkle \"banana splits\" with peanuts and enjoy!"
+    }
+  ]
+}

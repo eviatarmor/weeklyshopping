@@ -1,0 +1,54 @@
+{
+  "slug": "mediterranean-seasoning",
+  "kind": "blend",
+  "title": "Mediterranean Seasoning",
+  "description": "Homemade approximation of the HelloFresh AU sachet (oregano, basil and thyme with garlic). One batch replaces one sachet.",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_400/hellofresh_s3/ingredient/64802a28963a9cd58c31480c-342aa911.png",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "hellofresh",
+    "blend"
+  ],
+  "aliases": [
+    "Mediterranean Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Oregano",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Dried Basil",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-basil"
+    },
+    {
+      "name": "Dried Thyme",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-thyme"
+    },
+    {
+      "name": "Dried Rosemary",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "dried-rosemary"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

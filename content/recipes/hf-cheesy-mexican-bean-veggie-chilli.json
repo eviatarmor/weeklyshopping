@@ -1,0 +1,157 @@
+{
+  "slug": "hf-cheesy-mexican-bean-veggie-chilli",
+  "kind": "meal",
+  "title": "Cheesy Mexican Bean & Veggie Chilli",
+  "subtitle": "with Sour Cream &  Baked Tortilla Chips",
+  "description": "Who knew making veggie chilli from scratch could be so easy? Complete with DIY tortilla chips, serve them straight from the oven while\nthey're still warm - a treat for scooping up the saucy goodness and all the toppings.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-mexican-bean-veggie-chilli-6181f4c0a611b50e063c09ef",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-mexican-bean-veggie-chilli-6b538b1d.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60a355cdccdf4a74c951da6c-09a871dc.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Hot Water",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c70684dab7191428b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 4,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 1,
+      "unit": "tin",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593c2f4dab71fb718b4569.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 2,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Mexican Fiesta Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a695d5730006c33520e3181-cdb3da6d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°/180°C fan-forced. Finely chop the brown onion. Finely chop the carrot and capsicum. Finely chop the garlic. Drain and rinse the black beans.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-a7062cd2.jpg"
+    },
+    {
+      "text": "• SPICY! You may find the spice blend hot! Add less if you're sensitive to heat.\n• In a deep frying pan or large saucepan, heat a drizzle of olive oil over a medium-high heat. Cook the onion, carrot and capsicum, stirring, until softened, 5-7 minutes. Add the Mexican Fiesta spice blend and garlic and cook until fragrant, 1-2 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-8a45817c.jpg"
+    },
+    {
+      "text": "• Add the diced tomatoes, black beans, vegetable stock powder, brown sugar and the hot water (2 tbs for 2 people / 1/4 cup for 4 people) to the pan. Stir to combine. Bring to the boil, then reduce the heat to medium and simmer until slightly thickened, 10-15 minutes. Stir in the butter. Season with salt and pepper.\n• TIP: Butter helps balance the acidity of the tomatoes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-a9a44747.jpg"
+    },
+    {
+      "text": "• While the chilli is simmering, cut the mini flour tortillas (see ingredients) into wedges. Place on a lined oven tray. Drizzle (or spray) with olive oil, then season. Arrange in a single layer and bake until golden, 6-8 minutes.\n• TIP: If your oven tray is getting crowded, spread the chips out over two oven trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-40a428f1.jpg"
+    },
+    {
+      "text": "• While the tortilla chips are baking, roughly chop the coriander.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-b94b35c3.jpg"
+    },
+    {
+      "text": "• Divide the Mexican bean and veggie chilli between bowls. Sprinkle with the shredded Cheddar cheese and coriander. Top with a dollop of light sour cream. Serve with the baked tortilla chips.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-e5236ad9.jpg"
+    }
+  ]
+}

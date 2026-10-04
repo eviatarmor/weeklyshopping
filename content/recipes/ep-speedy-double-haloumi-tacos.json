@@ -1,0 +1,81 @@
+{
+  "slug": "ep-speedy-double-haloumi-tacos",
+  "kind": "meal",
+  "title": "Speedy Double Haloumi Tacos",
+  "subtitle": "with Creamy Slaw & Caramelised Onion",
+  "description": "Salty haloumi, sweet honey and smokey aioli all wrapped up in a soft tortilla shell. This meal has a bit of everything for a veggie meal that totally satisfies.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/speedy-haloumi-tacos-67f839dc0d0527cba53a6c9e",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/655fd03bcdfd1895a62c3144-7970d92d-0e38b2ed.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "tags": [
+    "everyplate",
+    "american",
+    "quick",
+    "speedy",
+    "vegetarian",
+    "20 min or less"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 2,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572375f3405d840b2be37c3-662d4bcd.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723805b33a6ad8f0f05b85-2fe10bcd.png"
+    },
+    {
+      "name": "Smokey Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723809105c9621030b4f19-7e5158fb.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379a105c9621030b4c68-7ea9b6d2.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Thinly slice brown onion. <br>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. <br>• Cook onion, stirring, until softened, 4-5 mins. Reduce heat to medium. <br>• Stir in the balsamic vinegar, brown sugar and a splash of water. Cook until dark and sticky, 3-5 mins. Transfer to a bowl and set aside. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6927a097d4fb0344016326f6/step-4262de00.jpg"
+    },
+    {
+      "text": "• <p>• Pat haloumi dry, then slice into 1cm-thick slices.<br>• Wipe out frying pan and return over medium-high heat with a drizzle of olive oil. <br>• Cook haloumi, in batches, until golden brown, 1-2 mins each side. <br>• Remove from heat. Add the honey, turning to coat. Transfer to a plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6927a097d4fb0344016326f6/step-4bbfbb10.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, microwave mini flour tortillas on a microwave-safe plate in 10 second bursts until warmed through. <br>• In a large bowl, combine salad leaves, cabbage mix, smokey aioli and a drizzle of white wine vinegar and olive oil. Season to taste with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6927a097d4fb0344016326f6/step-8871ba20.jpg"
+    },
+    {
+      "text": "• <p>• Fill tortillas with creamy slaw, haloumi and caramelised onions to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6927a097d4fb0344016326f6/step-d64ca330.jpg"
+    }
+  ]
+}

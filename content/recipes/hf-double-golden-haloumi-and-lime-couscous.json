@@ -1,0 +1,151 @@
+{
+  "slug": "hf-double-golden-haloumi-and-lime-couscous",
+  "kind": "meal",
+  "title": "Double Golden Haloumi & Lime Couscous",
+  "subtitle": "with Roast Veggies & Mint Yoghurt",
+  "description": "Loaded with lush roast veg and zesty couscous, and brought together with a dollop of mint yoghurt, this golden-crusted\nhaloumi dish is a delight with every bite!\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/double-golden-haloumi-and-lime-couscous-66849d185b2f7760fe3adf46",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65811df834da163846f0830d-58393848.jpeg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mediterranean",
+    "feel-likeachampion"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 1,
+      "product": "beetroot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593de94dab71d3718b456a.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Nan's Special Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "nans-special-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5e38f86b18fdef7c4e43caa6-58b68ca4.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 2,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Lime",
+      "qty": 0.5,
+      "product": "lime",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672ad3f8b25e472f8b4569.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5553fa974dab7105578b4568.png"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556722494dab71a90d8b4567.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6ef2f8b25ee4718b4568.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556816a5f8b25ec1348b4568.png"
+    },
+    {
+      "name": "Golden Goddess Dressing",
+      "qty": 1,
+      "unit": "packet",
+      "product": "salad-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6076488201846f6f39708278-d1c2b639.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan forced.\n• Cut beetroot into 1cm chunks.\n• Slice carrot into bite-sized chunks.\n• Place prepped veggies on a lined oven tray. Drizzle with olive oil, sprinkle with Nan's special seasoning and season with salt and pepper. Toss to coat, spread out evenly, then roast until tender, 25-30 minutes. TIP: Beetroot stays firm when cooked. It's done when you can pierce it with a fork.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66849d185b2f7760fe3adf46-70dbd8fc.jpeg"
+    },
+    {
+      "text": "• Meanwhile, cut haloumi into 1cm-thick slices.\n• In a medium bowl, add haloumi and cover with water. Set aside.\n• Finely chop garlic.\n• Pick and finely slice mint leaves.\n• Roughly chop baby spinach leaves.\n• Slice lime into wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66849d185b2f7760fe3adf46-f6b75b8b.jpeg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook garlic, stirring, until fragrant, 1 minute. Transfer to a small heatproof bowl.\n• Allow to cool for 5 minutes, then stir in the Greek-style yoghurt and half the mint. Season to taste, then set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66849d185b2f7760fe3adf46-b9bf0be9.jpeg"
+    },
+    {
+      "text": "• To a large heatproof bowl, add couscous and salt. Add the boiling water (3/4 cup for 2 people / 11/2 cups for 4 people). Immediately cover and leave for 5 minutes.\n• Fluff up with a fork and set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66849d185b2f7760fe3adf46-29603dfd.jpeg"
+    },
+    {
+      "text": "• While couscous is cooking, drain haloumi and pat dry. Return frying pan to medium-high heat with a drizzle of olive oil. When oil is hot, cook haloumi, in batches, until golden brown, 1-2 minutes each side.\n• Remove pan from heat, then add the honey, turning haloumi to coat. Set aside.\n• Gently stir the roasted veggies through the couscous, then add baby spinach leaves and a generous squeeze of lime juice. Stir to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66849d185b2f7760fe3adf46-70ebe64c.jpeg"
+    },
+    {
+      "text": "• Divide lime couscous between bowls.\n• Top with golden haloumi. Spoon over the mint yoghurt.\n• Drizzle over golden goddess dressing.\n• Garnish with remaining mint.\n• Serve with any remaining lime wedges. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66849d185b2f7760fe3adf46-5bbd6852.jpeg"
+    }
+  ]
+}

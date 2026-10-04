@@ -1,0 +1,103 @@
+{
+  "slug": "hf-haloumi-burger",
+  "kind": "meal",
+  "title": "Haloumi Burger",
+  "subtitle": "with Hummus & Red Capsicum Relish",
+  "description": "Just call this burger the hit machine, because it’s full of all the greats! Beautiful smoky capsicum and cherry tomatoes are way better than any ketchup, and with favourites like crispy haloumi and creamy hummus, don’t be surprised if you feel like dancing the night away.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-burger-56de49cd4dab71f1448b4567",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56de49cd4dab71f1448b4567.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55681f18fd2cb977228b4568.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 0.5,
+      "unit": "punnet",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beb8a4dab71aa0a8b4569.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "balsamic-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555beba0f8b25e0e5a8b456a.png"
+    },
+    {
+      "name": "Bake-At-Home Wholemeal Burger Buns",
+      "qty": 2,
+      "unit": "block",
+      "product": "bread-rolls",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56de4a71f8b25ebc448b4567-ffcabcf3.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 0.5,
+      "unit": "block",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "rocket",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5667b4b3fd2cb9f9348b4568.png"
+    },
+    {
+      "name": "Hummus",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "hummus",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e76f8b25e68108b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare ingredients, halve the cherry tomatoes, cut haloumi into 1 cm thick slices and wash the rocket leaves."
+    },
+    {
+      "text": "• Using a sharp knife, cut off the four sides of the red capsicum and discard the core. Place the capsicum pieces skin side up on the lined oven tray and brush with half of the olive oil. Season with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56de49cd4dab71f1448b4567/step_56de4cfd21f58.jpg"
+    },
+    {
+      "text": "• In a small bowl, toss the cherry tomatoes, balsamic vinegar and a dash of the remaining olive oil. Season with salt and pepper and place along side the capsicum on the prepared oven tray. Roast the vegetables in the oven for 20 minutes or until the skin of the capsicum has blistered and the tomatoes have collapsed. Place the capsicum in a medium bowl,\n• cover with cling wrap and set aside for 10 minutes (this will help the skins slide off).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56de49cd4dab71f1448b4567/step_56de4cfd32cf7.jpg"
+    },
+    {
+      "text": "• Peel the capsicum skins off and discard. Slice the roasted capsicum into thin strips and combine with the roasted tomatoes. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56de49cd4dab71f1448b4567/step_56de4cfd590fd.jpg"
+    },
+    {
+      "text": "• Place the bake-at-home wholemeal burger buns in the oven form 5 minutes or until baked. Remove and halve horizontally."
+    },
+    {
+      "text": "• Heat a lightly greased medium frying pan over a medium-high heat. Add the haloumi slices and cook for 1-2 minutes on each side or until golden."
+    },
+    {
+      "text": "• Fill the burger buns with the haloumi, roasted capsicum and tomatoes, rocket leaves and hummus. Enjoy!"
+    }
+  ]
+}

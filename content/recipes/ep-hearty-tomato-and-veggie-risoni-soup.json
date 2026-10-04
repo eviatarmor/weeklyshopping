@@ -1,0 +1,143 @@
+{
+  "slug": "ep-hearty-tomato-and-veggie-risoni-soup",
+  "kind": "meal",
+  "title": "Hearty Tomato & Veggie Risoni Soup",
+  "subtitle": "with Parmesan Cheese",
+  "description": "This rich vegetable delight is the dish of your Italian dreams. Teamed with risoni pasta and a dash of cheese, it's warm, it's hearty and it's just like Nonna used to make!\nKeep an eye out...\nDue to recent sourcing challenges, we’ve swapped zucchini for celery, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/hearty-tomato-and-veggie-risoni-soup-62a2814a9ed0d3e2b5038bf0",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/hearty-tomato-veggie-risoni-soup-22f6ddce.jpg",
+  "servings": 2,
+  "prepMinutes": 22,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f844ecbf90d9f528435-34de32d5.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528452-95bf4017.png"
+    },
+    {
+      "name": "Celery",
+      "qty": 1,
+      "unit": "stalk",
+      "product": "celery",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8b4ecbf90d9f528459-ac05f3f6.png"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 1,
+      "unit": "tin",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f9d4ecbf90d9f5284b6-7984cb37.png"
+    },
+    {
+      "name": "Garlic Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee990bd16bd266f3f6ed96f-4e7ec9f7.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0174ecbf90d9f528706-7478f5de.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f904ecbf90d9f528473-118523fc.png"
+    },
+    {
+      "name": "Water",
+      "qty": 2.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f854ecbf90d9f528437-314cd3f8.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f764ecbf90d9f5283e9-2105763d.png"
+    },
+    {
+      "name": "Risoni",
+      "qty": 1,
+      "unit": "packet",
+      "product": "risoni",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fed4ecbf90d9f528649-7b623be8.png"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fad4ecbf90d9f52850c-fbdaa2ee.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop brown onion and garlic.\n• Thinly slice carrot into half-moons. Finely chop celery.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62a2814a9ed0d3e2b5038bf0/step-6caf7f0d.jpg"
+    },
+    {
+      "text": "• In a large pot or saucepan, heat a good drizzle of olive oil over high heat.\n• Cook onion, carrot and celery, stirring, until tender, 4-6 mins.\n• Add garlic and cook until fragrant, 1 min.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62a2814a9ed0d3e2b5038bf0/step-a1c76404.jpg"
+    },
+    {
+      "text": "• Add diced tomatoes, risoni, garlic seasoning, vegetable stock powder, chilli flakes (if using) the water and the brown sugar.\n• Stir to combine, then bring to a boil.\n• Reduce heat to medium-high and simmer, stirring frequently, until risoni is 'al-dente', 12-20 mins.\n• Stir through the butter and spinach until wilted and season.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62a2814a9ed0d3e2b5038bf0/step-689d389f.jpg"
+    },
+    {
+      "text": "• Divide tomato & veggie risoni soup between bowls.\n• Top with grated Parmesan cheese.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62a2814a9ed0d3e2b5038bf0/step-a321f1c8.jpg"
+    }
+  ]
+}

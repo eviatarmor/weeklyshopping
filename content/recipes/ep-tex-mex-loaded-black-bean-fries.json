@@ -1,0 +1,134 @@
+{
+  "slug": "ep-tex-mex-loaded-black-bean-fries",
+  "kind": "meal",
+  "title": "Tex-Mex Loaded Black Bean Fries",
+  "subtitle": "with Cheese, Spicy Mayo & Tomato Salsa",
+  "description": "Enjoy a bowl of fries but looking for something more exciting? Why not try our black bean and salsa loaded fries bursting with Tex-Mex spices?! Don’t forget a drizzle of spicy mayo for an extra spike of heat.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/tex-mex-loaded-black-bean-fries-67f842eb4264524ca978fe85",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4007_W09_AU_EP20026-17_Main_high-746cc9f4.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "everyplate",
+    "american",
+    "naturally gf",
+    "vegetarian",
+    "high protein",
+    "low calorie",
+    "pies-fries-beyond"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b4960-b67728c7.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "packet",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236da105c9621030b485f-1710602a.png"
+    },
+    {
+      "name": "Sriracha",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sriracha",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723815b33a6ad8f0f05bc6-d5d73c6c.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df8-a9ef8648.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385d105c9621030b5099-cf66fe3f.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a8-15fc822b.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f834dd4264524ca978b575-257b89ef.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "BBQ Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de772793e8cdd8467fb4-33abd139.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89aa34264524ca97a5ad8-aad859cf.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb1-a24832e8.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0d-9e84e0fa.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 240°C/220°C fan-forced.<br>• Cut potato into fries and place on the lined oven tray. Season with salt and drizzle with olive oil.<br>• Toss to coat and bake until tender, 20-25 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69925461212f41a9d46b6f87/step-a3470900.jpeg"
+    },
+    {
+      "text": "• <p>• Finely chop cucumber and tomato.<br>• Thinly slice brown onion (see ingredients).<br>• Drain and rinse black beans.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69925461212f41a9d46b6f87/step-fe3ba010.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat.<br>• Cook onion, until tender, 4-5 mins. Add black beans, tossing, until softened, 2-3 mins.<br>• Reduce heat to medium, add Tex-Mex spice blend and cook until fragrant, 1 min.<br>• Stir in the BBQ sauce and water and simmer until slightly reduced, 1-2 mins. Season with salt and pepper.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69925461212f41a9d46b6f87/step-8242f620.jpg"
+    },
+    {
+      "text": "• <p>• In a small bowl, combine sriracha (SPICY! Use less if preferred) and the mayonnaise.<br>• In a medium bowl, combine tomato, cucumber and a drizzle of white wine vinegar and olive oil. Season.<br>• Divide fries between plates. Top with black bean mixture. Sprinkle with Cheddar cheese.<br>• Top with tomato salsa. Drizzle with spicy mayo to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69925461212f41a9d46b6f87/step-2cd26930.jpg"
+    }
+  ]
+}

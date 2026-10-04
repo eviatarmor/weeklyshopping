@@ -1,0 +1,146 @@
+{
+  "slug": "hf-byop-loaded-plant-based-mince-burrito-bowl-bar",
+  "kind": "meal",
+  "title": "Loaded Plant-Based Mince Burrito Bowl Bar",
+  "subtitle": "with Guacamole, Sour Cream & Cheese",
+  "description": "This week’s special ingredient is Avocado - creamy, dreamy and packed with goodness! Give your avocado a gentle squeeze - ripe avocados yield slightly but aren’t mushy! If yours is firm, let it ripen on the bench (not the fridge!) until it’s just right.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/byop-loaded-plant-based-mince-burrito-bowl-bar-67f83c2fcade9b9f0acddea0",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1041_W23_AUS_Main_high-23306e28.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723709105c9621030b495f-afe4ffa4.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833824264524ca978af82-b1eb7d76.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237ea105c9621030b4e6b-38d72c27.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ca3405d840b2be34c7-a2a96259.png"
+    },
+    {
+      "name": "Light Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56f200304dab71a6268b4567-2e1cc514.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 200,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d1b33a6ad8f0f05a86-6acc66e2.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723780b33a6ad8f0f05930-d184ca41.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572385c105c9621030b5093-c21ef0b3.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde02793e8cdd8467eb4-6be7900f.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd852793e8cdd8467e36-d10a2ca3.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddac635bf0b638cfb935-a71089b3.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• To a medium saucepan, add the water (for the rice) and bring to the boil. • Add basmati rice, stir, cover with a lid and reduce heat to low. • Cook for 10 minutes, then remove pan from heat and keep covered until rice is tender and water is absorbed, 10 minutes. TIP: The rice will finish cooking in its own steam so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83e000d0527cba53a8533/step-fb420e00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice red onion (see ingredients). • In a small bowl, combine the white wine vinegar and a good pinch of sugar and salt. • Scrunch sliced onion in your hands, then add it to pickling liquid. Add enough water to just cover onion. Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83e000d0527cba53a8533/step-2ed73110.jpg"
+    },
+    {
+      "text": "• <p>• Slice avocado in half and scoop out flesh. Slice lemon into wedges. • In a medium bowl, mash avocado with a squeeze of lemon juice and a drizzle of olive oil until smooth. Season to taste and set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83e000d0527cba53a8533/step-ce365920.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over medium-high heat. • Cook veggie mince, breaking up with a spoon, until just browned, 4-5 minutes. • Add Tex-Mex spice blend and tomato paste, and cook, stirring, until fragrant, 1 minute. • Add the water (for the mince), and simmer until slightly thickened, 1 minute. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83e000d0527cba53a8533/step-e536d830.jpg"
+    },
+    {
+      "text": "• <p>• While the mince is cooking, finely chop tomato. • In a medium bowl, combine tomato with a drizzle of olive oil and a squeeze of lemon juice. Season.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83e000d0527cba53a8533/step-d391e840.jpg"
+    },
+    {
+      "text": "• <p>• Drain pickled onion. Bring everything to the table. • Build your own plate with rice, Tex-Mex plant-based mince, guacamole, pickled onion, zingy tomato, Cheddar cheese and sour cream. • Serve with any remaining lemon wedges. • If you&#39;ve selected an add on bundle, serve with roasted corn cobs. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f83e000d0527cba53a8533/step-99e3ce50.jpg"
+    }
+  ]
+}

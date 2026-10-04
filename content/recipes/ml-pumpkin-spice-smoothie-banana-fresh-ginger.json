@@ -1,0 +1,84 @@
+{
+  "slug": "ml-pumpkin-spice-smoothie-banana-fresh-ginger",
+  "kind": "meal",
+  "title": "Pumpkin Spice Smoothie with Banana & Fresh Ginger",
+  "sourceUrl": "https://www.mealime.com/recipes/pumpkin-spice-smoothie-banana-fresh-ginger/8832",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/1019/presentation_e8b90b94-932f-4f01-9e51-8a906090ec36.jpeg",
+  "servings": 4,
+  "prepMinutes": 6,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 2,
+      "product": "banana"
+    },
+    {
+      "name": "Ginger Root",
+      "qty": 2,
+      "product": "ginger"
+    },
+    {
+      "name": "Pure Pumpkin Purée",
+      "qty": 850,
+      "unit": "g",
+      "product": "pumpkin-puree"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 710,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Cardamom (ground)",
+      "product": "ground-cardamom",
+      "pantry": true
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Cloves (ground)",
+      "product": "cloves",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg (ground)",
+      "product": "nutmeg",
+      "pantry": true
+    },
+    {
+      "name": "Pure Maple Syrup",
+      "product": "maple-syrup",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "This recipe will make about 8 cups. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Wash, dry, peel, and mince ginger; place in a blender."
+    },
+    {
+      "text": "Peel the bananas, break into chunks, and add to the blender."
+    },
+    {
+      "text": "Add pumpkin purée, milk, maple syrup, spices, and 8 ice cubes to the blender."
+    },
+    {
+      "text": "Blend on high speed for several minutes until smooth."
+    },
+    {
+      "text": "Pour the smoothie into glasses. Top with a sprinkle of cinnamon and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "tomato-and-herb-seasoning",
+  "kind": "blend",
+  "title": "Tomato & Herb Seasoning",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (Italian herbs with sweet paprika standing in for tomato powder). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [
+    "Tomato and Herb Seasoning",
+    "Herby Tomato Seasoning"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Dried Basil",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-basil"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "White Sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

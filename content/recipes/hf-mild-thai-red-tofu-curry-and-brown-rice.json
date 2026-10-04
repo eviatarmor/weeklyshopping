@@ -1,0 +1,117 @@
+{
+  "slug": "hf-mild-thai-red-tofu-curry-and-brown-rice",
+  "kind": "meal",
+  "title": "Mild Thai Red Tofu Curry & Rice",
+  "subtitle": "with Asian Greens & Zucchini",
+  "description": "Who needs takeaway when you can whip up this creamy curry with a kick. Our Thai red curry paste is the not so secret ingredient, adding a depth of flavour that's the perfect ratio of savoury to sweet.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mild-thai-red-tofu-curry-and-brown-rice-67f858d50d0527cba53b0cd7",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1037_W23_AUS_Main_high-b6ff2496.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "thai",
+    "plant based"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c23405d840b2be3497-766f473c.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fca451a3ffaf7fe874d039-730c31a5.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371e105c9621030b49cc-5fcd32e0.png"
+    },
+    {
+      "name": "Malaysian Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572378cb33a6ad8f0f0596c-a0495ac5.png"
+    },
+    {
+      "name": "Mild Thai Red Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "red-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723798b33a6ad8f0f059b3-1a25968c.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384d3405d840b2be3cd2-a68e0a9e.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de61635bf0b638cfba5c-044a3e7a.png"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd749690d86caac92560-e590f5d9.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Half-fill a medium saucepan with water. Add brown rice and a generous pinch of salt. • Bring to a boil over high heat and cook, uncovered, until tender, 25-30 minutes. Drain and return to saucepan.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c4e4264524ca979eb21/step-bd208400.jpg"
+    },
+    {
+      "text": "• <p>• While the rice is cooking, roughly chop Asian greens. • Cut Malaysian tofu (see ingredients) into 2cm chunks.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c4e4264524ca979eb21/step-0ffedb10.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a generous drizzle of olive oil over medium-high heat. When the oil is hot, cook tofu, turning occasionally, 4-5 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c4e4264524ca979eb21/step-2c314b20.jpg"
+    },
+    {
+      "text": "• <p>• SPICY! This is a mild paste, but use less if you&#39;re sensitive to heat! Reduce heat to medium-high. Add mild Thai red curry paste and garlic paste, cook, stirring, until coated and fragrant, 1 minute. • Add coconut milk, the soy sauce, brown sugar, Asian greens and a splash of water and stir to combine.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c4e4264524ca979eb21/step-49c0b130.jpg"
+    },
+    {
+      "text": "• <p>• Reduce heat to low and simmer until the tofu is cooked through and the veggies are tender, 3-4 minutes. Add a dash more water if the curry looks dry!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c4e4264524ca979eb21/step-dac41840.jpg"
+    },
+    {
+      "text": "• <p>• Divide brown rice between bowls. • Top with mild Thai red tofu curry. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/67f86c4e4264524ca979eb21/step-a6405850.jpg"
+    }
+  ]
+}

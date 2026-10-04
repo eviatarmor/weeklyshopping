@@ -1,0 +1,150 @@
+{
+  "slug": "hf-japanese-tofu-and-pea-pod-stir-fry",
+  "kind": "meal",
+  "title": "Japanese Tofu & Pea Pod Stir-Fry",
+  "subtitle": "with Rice, Spring Onion & Sesame Seeds",
+  "description": "Bursting with crowd-pleasing Asian flavours, everyone will be happily getting their daily dose of veg with this tender tofu and rice dish.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/umami-tofu-and-pea-pod-stir-fry-67f85bf90d0527cba53b1f98",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1030_W25_AU_R10482-10_main_TD__Main___edit__high-1c838df9.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "japanese",
+    "classic",
+    "plant based",
+    "low calorie"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Asian Greens",
+      "qty": 1,
+      "unit": "packet",
+      "product": "asian-greens",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c23405d840b2be3497-766f473c.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334d0d0527cba53a49f2-90eac6a7.png"
+    },
+    {
+      "name": "Pea Pods",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sugar-snap-peas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/62a02961d1ec4f68c30835c7-60ed00b7.png"
+    },
+    {
+      "name": "Plant-Based Asian Mushroom Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "oyster-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/618219fbf7a2b25be10c7cf4-12f08769.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bac-092c7dc3.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376c3405d840b2be3818-426a4116.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236ed3405d840b2be35a6-c92d2cff.png"
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833694264524ca978af21-1fc0d3d6.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddf92793e8cdd8467ee6-ee013fc3.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddaf9690d86caac925bc-0e86e3f2.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0e9690d86caac9265e-f52daf7d.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de272793e8cdd8467f3e-cc5f1499.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddc59690d86caac925e0-fe3370f8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Add the water to a medium saucepan and bring to <br>the boil.<br>• Add jasmine rice, stir, cover with a lid and reduce <br>heat to low.<br>• Cook for 10 minutes, then remove from heat <br>and keep covered until rice is tender and water is <br>absorbed, 10 minutes.<br>• Add the plant-based butter and stir to combine. <br>Season to taste with salt and pepper. <br>TIP: The rice will finish cooking in its own steam so  <br>don’t peek!  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a44cc0866926770e8cd2cde/step-31094200.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, trim and roughly chop pea pods. <br>• Thinly slice capsicum into strips. <br>• Roughly chop Asian greens. <br>• Thinly slice spring onion. <br>• Cut Japanese tofu into quarters.<br>• In a small bowl, combine plant-based Asian <br>mushroom sauce, the brown sugar, vinegar, soy <br>sauce and a splash of water.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a44cc0866926770e8cd2cde/step-6148c610.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan, heat a drizzle of olive oil over <br>medium-high heat. Cook capsicum and pea pods, <br>until tender, 4-5 minutes. Transfer to a plate.  </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a44cc0866926770e8cd2cde/step-bd7e8920.jpg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with <br>a drizzle of olive oil. Cook tofu, tossing, until <br>browned, 3-4 minutes. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a44cc0866926770e8cd2cde/step-135ae230.jpg"
+    },
+    {
+      "text": "• <p>• Reduce heat to low. To the pan with tofu, add the <br>sauce mixture and return the veggies to the pan.<br>• Add Asian greens and toss until wilted and <br>combined, 1-2 minutes. Season to taste. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a44cc0866926770e8cd2cde/step-e70ea240.jpg"
+    },
+    {
+      "text": "• <p>• Divide rice and Japanese tofu and pea pod stir-fry <br>between bowls.<br>• Top stir-fry with spring onion and sesame seeds <br>to serve. Enjoy! </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a44cc0866926770e8cd2cde/step-aabde050.jpg"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "hf-indian-style-coconut-lentil-nachos",
+  "kind": "meal",
+  "title": "Indian-Style Coconut Lentil Nachos",
+  "subtitle": "with Tomato-Corn Salsa & Mint Yoghurt",
+  "description": "We've combined the flavours of Indian cuisine with the textures and fun of a nachos bowl. From the creamy coconut\nlentils to the sweet and juicy salsa and cooling mint yoghurt, scoop up all the deliciousness with the oven-baked\ntortilla chips. Cutlery optional!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/indian-style-coconut-lentil-nachos-636067bf030fc8057d0fc635",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-style-coconut-lentil-nachos-863c4ffe.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "indian",
+    "good"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "punnet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/61aea5b8399c9158e21a1fda-673e0e85.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Tandoori Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tandoori-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e020af8b25ed9618b4567.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "tin",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 200°C/180°C fan-forced.\n• Thinly slice brown onion. Halve snacking tomatoes. Roughly chop coriander. Pick and thinly slice mint leaves. Finely chop garlic.\n• Cut mini flourtortillas into wedges.\n• Grate carrot. Drain sweetcorn. Drain and rinse lentils.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-e82396e7.jpg"
+    },
+    {
+      "text": "• In a medium bowl, combine coriander, tomato and corn and a drizzle of the white wine vinegar and olive oil. Season.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-3aa116db.jpg"
+    },
+    {
+      "text": "• In a small bowl, combine mint, Greek-style yoghurt and a small drizzle of olive oil. Season with salt and pepper.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-0e761ddc.jpg"
+    },
+    {
+      "text": "• Spread tortilla wedges in a single layer on a lined oven tray. Drizzle (or spray) with olive oil. Season, then toss to coat.\n• Bake until golden, 8-10 minutes. TIP: If the tortilla wedges don't fit in a single layer, divide them between two oven trays.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-2a9f487e.jpg"
+    },
+    {
+      "text": "• Meanwhile, in a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook carrot and onion, stirring, until softened, 3-4 minutes.\n• Add lentils and cook until heated through, 2 minutes.\n• Add garlic and tandoori paste and cook, stirring, until fragrant, 1-2 minutes.\n• Stir in tomato paste and coconut milk and simmer until thickened, 2-3 minutes. Season to taste. TIP: Add a splash of water to loosen the mixture, if needed.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-874688bd.jpg"
+    },
+    {
+      "text": "• Divide coconut lentils and tortilla chips between plates.\n• Top lentils with salsa and a dollop of mint yoghurt to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-d926e7fa.jpg"
+    }
+  ]
+}

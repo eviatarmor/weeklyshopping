@@ -1,0 +1,167 @@
+{
+  "slug": "hf-morroccan-plant-based-mince-haloumi-and-spinach-rice",
+  "kind": "meal",
+  "title": "Moroccan Plant-Based Mince, Haloumi & Spinach Rice",
+  "subtitle": "with Cucumber-Mint Salsa & Almonds",
+  "description": "Our plant-based mince looks, cooks and tastes a lot like the real deal, and stands up well to the cumin, paprika and turmeric in our chermoula spice blend. The spinach-laced basmati provides a touch of sweetness to enhance the Moroccan flavours and might be the yummiest way to get your greens in.\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/morroccan-plant-based-mince-haloumi-and-spinach-rice-66848f295b2f7760fe3adf3b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66848f295b2f7760fe3adf3b-ab1432a0.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east",
+    "quick prep",
+    "feel-likeachampion"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/57988165d54525853d8b4567.png"
+    },
+    {
+      "name": "Currants",
+      "qty": 1,
+      "unit": "packet",
+      "product": "currants",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5643d517f8b25ecd248b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8aeae08b530db6dd5a4-2fea204a.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 1,
+      "unit": "packet",
+      "product": "plant-based-mince",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60acdb75e4d10d360c114713-ddb953ab.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.66,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cd8deae08b530b326ef12-2fea204a.png"
+    },
+    {
+      "name": "Plant-Based Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/650a354f6dac61c0739b7bb7-b1080ebe.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Baby Capsicum",
+      "qty": 2,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65ce96e55d0250930594e7b7-19786db6.png"
+    },
+    {
+      "name": "Mint",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mint",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55543080f8b25e390d8b456c.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be69ef8b25ec35c8b4568.png"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 1,
+      "unit": "packet",
+      "product": "haloumi",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542e54f8b25e68108b4567.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop garlic.\n• In a medium saucepan, heat a drizzle of olive oil over medium heat.\n• Cook half the garlic until fragrant, 1-2 minutes. Add basmati rice, currants the water (for the rice) and a generous pinch of salt. Stir, then bring to boil.\n• Reduce heat to low and cover with a lid. Cook for 10 minutes, then remove from heat. Keep covered until rice is tender and water is absorbed, 10 minutes.\n• Stir through baby spinach leaves until wilted.\n• Cut haloumi into 1cm-thick slices. In a medium bowl, add haloumi and cover with water. TIP: The rice will finish cooking in its own steam, so don't peek!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66848f295b2f7760fe3adf3b-89124fde.jpeg"
+    },
+    {
+      "text": "• When the rice has 10 minutes remaining, heat a large frying pan over medium-high heat with a drizzle of olive oil.\n• Cook plant-based mince, breaking up with a spoon, until just browned, 4-5 minutes.\n• Reduce heat to medium, then add tomato paste, chermoula spice blend and remaining garlic. Cook until fragrant, 1 minute.\n• Stir in the water (for the sauce), the plant-based butter and a pinch of brown sugar. Simmer until slightly thickened, 1-2 minutes.\n• Season with salt and pepper to taste. Remove from heat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66848f295b2f7760fe3adf3b-5facb9f1.jpeg"
+    },
+    {
+      "text": "• Meanwhile, roughly chop cucumber, tomato and mint leaves.\n• In a medium bowl, combine cucumber, tomato and mint. Add a drizzle of olive oil and the white wine vinegar. Toss to coat. Season to taste.\n• Drain haloumi and pat dry. In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook haloumi until golden brown, 1-2 minutes each side.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66848f295b2f7760fe3adf3b-70618c0d.jpeg"
+    },
+    {
+      "text": "• Divide spinach rice between bowls. Top with Moroccan plant-based mince, haloumi and cucumber mint salsa.\n• Sprinkle with flaked almonds to serve. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66848f295b2f7760fe3adf3b-eec97615.jpeg"
+    }
+  ]
+}

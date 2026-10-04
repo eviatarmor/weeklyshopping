@@ -1,0 +1,150 @@
+{
+  "slug": "ep-mediterranean-chickpea-tacos",
+  "kind": "meal",
+  "title": "Mediterranean Chickpea Tacos",
+  "subtitle": "with Garlic Fetta Yoghurt",
+  "description": "You can't go wrong when a meal when it is served in a warm tortilla and these Mediterranean chickpea tacos are no exception! The chickpeas are infused with the classic flavours of the Med. Simply team them up with fresh tomato and mint and this is one yummy parcel of goodness.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/mediterranean-chickpea-tacos-61fb5d9aa424b1719250d015",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-chickpea-tacos-b8e32dc3.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "mediterranean"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f844ecbf90d9f528435-34de32d5.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f2-580edd63.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f904ecbf90d9f528470-7142aee3.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fe2be511363ed37736f3024-583bf58f.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f3-922cde24.png"
+    },
+    {
+      "name": "All-Purpose Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "all-purpose-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ee05c5a1f384b099b170d37-fbbee569.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0174ecbf90d9f528706-7478f5de.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01a4ecbf90d9f528715-471f721a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0214ecbf90d9f528732-e93fccf0.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fce4ecbf90d9f5285b4-c64c728d.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fcb4ecbf90d9f5285a7-908e420f.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fae4ecbf90d9f52850e-20d17568.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f854ecbf90d9f528437-314cd3f8.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop brown onion. Finely chop or crush garlic. Slice tomato into thin half-moons.\n• Drain and rinse chickpeas.\n• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook 1/2 the garlic until fragrant, 1 minute. Transfer to a small bowl.\n• Crumble in fetta cubes and mash to combine. Add yoghurt and stir to combine.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61fb5d9aa424b1719250d015/step-f2c4c1cc.jpg"
+    },
+    {
+      "text": "• Return frying pan to a medium-high heat with a drizzle of olive oil.\n• Cook onion, until tender, 3-4 mins.\n• Cook chickpeas, remaining garlic, tomato paste, all-purpose seasoning, until fragrant, 1-2 mins.\n• Reduce heat to medium. Cook vegetable stock, the water and a pinch of brown sugar until slightly thickened 1-2 mins.\n• Remove from heat. Stir in butter and lightly mash chickpeas until slightly broken up.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61fb5d9aa424b1719250d015/step-6a52c0d8.jpg"
+    },
+    {
+      "text": "• Meanwhile, in a medium bowl, combine a drizzle of white wine vinegar and olive oil. Season with salt and pepper.\n• Add mixed salad leaves and toss to coat.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61fb5d9aa424b1719250d015/step-6429ee4a.jpg"
+    },
+    {
+      "text": "• Microwave mini flour tortillas on a plate for 10 seconds bursts until warmed through.\n• Build tacos by filling tortillas with salad, tomato and chickpeas.\n• Top with garlic fetta yoghurt.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61fb5d9aa424b1719250d015/step-be6ac32b.jpg"
+    }
+  ]
+}

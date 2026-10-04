@@ -1,0 +1,102 @@
+{
+  "slug": "ep-herby-tomato-and-mushroom-spaghetti",
+  "kind": "meal",
+  "title": "Herby Mushroom & Tomato Spaghetti",
+  "subtitle": "with Baby Spinach",
+  "description": "A fragrant and flavourful herby spice blend takes this mushroom pasta to new heights, yet it's oh-so-easy to whip up on a weeknight!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/herby-tomato-and-mushroom-spaghetti-651e4192a19829649acd92db",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65d6dc66bb774993318afdce-3d5b982d.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "italian",
+    "20 min or less"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spaghetti",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c69774dab7182428b4568.png"
+    },
+    {
+      "name": "Sliced Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ac468ac30006c0ef8159bd2-62f5390a.png"
+    },
+    {
+      "name": "Herby Tomato Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tomato-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3//ingredient/645dae26a8fc5668dbf8e4d8-9da8d228.png"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-passata",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59812b1cc288002d7f59e5d2-11bf19a1.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be0694dab71ab0a8b4567.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556daf844dab71da4a8b4568.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Boil the kettle.\n• Half-fill a medium saucepan with boiling water. Cook spaghetti in boiling water, over high heat, until ‘al dente’, 10 mins.\n• Reserve some pasta water (1/2 cup for 2P / 1 cup for 4P) then drain and return to pan. Drizzle with a little olive oil to prevent sticking.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65d6dc66bb774993318afdce-7294cd09.jpeg"
+    },
+    {
+      "text": "• Meanwhile, heat a drizzle of olive oil in a large frying pan over medium-high heat.\n• Cook mushrooms until browned and softened, 6-8 mins.\n• Add herby tomato seasoning and cook until fragrant, 1 min.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65d6dc66bb774993318afdce-671c7906.jpeg"
+    },
+    {
+      "text": "• Stir in passata, the brown sugar, butter and the reserved pasta water and cook until slightly thickened, 2-3 mins.\n• Add cooked spaghetti and baby spinach, tossing until combined. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65d6dc66bb774993318afdce-30a00174.jpeg"
+    },
+    {
+      "text": "• Divide herby tomato and mushroom spaghetti between bowls. Top with a pinch of chilli flakes (if using).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65d6dc66bb774993318afdce-75c3b7ca.jpeg"
+    }
+  ]
+}

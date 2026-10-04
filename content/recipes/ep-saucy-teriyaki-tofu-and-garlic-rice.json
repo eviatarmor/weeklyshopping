@@ -1,0 +1,158 @@
+{
+  "slug": "ep-saucy-teriyaki-tofu-and-garlic-rice",
+  "kind": "meal",
+  "title": "Saucy Teriyaki Tofu & Garlic Rice",
+  "subtitle": "with Cucumber Salad",
+  "description": "Load up a forkful of tangy and umami tofu, crisp veg and fluffy garlic rich and get ready to enjoy moreish mouthfuls of this veggie delight!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/saucy-teriyaki-tofu-and-garlic-rice-67f85b89cade9b9f0ace7aef",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4009_W06_AU_EP18977-17_edit_Main_high-525b8417.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "everyplate",
+    "japanese",
+    "quick",
+    "vegetarian",
+    "rice",
+    "pan-asian-plates"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c91-89dbe073.png"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833504264524ca978ae87-fcba044f.png"
+    },
+    {
+      "name": "Japanese Tofu",
+      "qty": 1,
+      "product": "tofu",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572376c3405d840b2be3817-0fbe9a3f.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce3-c5c2c406.png"
+    },
+    {
+      "name": "Teriyaki Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "teriyaki-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f835930d0527cba53a532c-724b11f2.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a8-15fc822b.png"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238193405d840b2be3bab-e8da1b4d.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fc8393fe44baceeadf71fe-d023a894.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de61635bf0b638cfba5d-7bacd1e2.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67fef317ba6118bd6bcb9339-8f0e75c3.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddb3635bf0b638cfb93e-de79af05.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0d-9e84e0fa.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddda2793e8cdd8467eb1-a24832e8.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de332793e8cdd8467f59-a0462d01.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Finely chop or crush garlic. In a medium saucepan, melt the butter with a dash of olive oil over medium heat.<br>• Cook garlic until fragrant, 1-2 mins. Add the water (for the rice) and a generous pinch of salt and bring to the boil. Stir in jasmine rice, cover with a lid and reduce heat to low.<br>• Cook for 10 mins, then remove from heat and keep covered until rice is tender and water is absorbed, 10 mins. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69311a6d8a52ddcac84ce4b7/step-6c935400.jpg"
+    },
+    {
+      "text": "• <p>• Cut Japanese tofu into 2cm chunks.<br>• Thinly slice cucumber into rounds. Thinly slice spring onion (see ingredients).<br>• In a small bowl, combine teriyaki seasoning, the chilli flakes (if using), soy sauce, water (for the sauce) and honey. Set aside.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69311a6d8a52ddcac84ce4b7/step-0b025710.jpg"
+    },
+    {
+      "text": "• <p>• When the rice has 5 mins remaining, heat a large frying pan over medium-high heat with a drizzle of olive oil.<br>• Cook tofu, tossing, until browned, 3-4 mins.<br>• Reduce heat to medium, stir in teriyaki sauce mixture and cook until bubbling, 1-2 mins. Toss to coat.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69311a6d8a52ddcac84ce4b7/step-609c7420.jpg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine salad leaves, cucumber and a drizzle of white wine vinegar and olive oil. Season with salt and pepper.<br>• Divide garlic rice and cucumber salad between bowls.<br>• Top with saucy teriyaki tofu. Spoon over any remaining glaze from pan. Drizzle with the mayonnaise and garnish with spring onion to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/69311a6d8a52ddcac84ce4b7/step-80ebab30.jpg"
+    }
+  ]
+}

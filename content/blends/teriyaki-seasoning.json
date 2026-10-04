@@ -1,0 +1,47 @@
+{
+  "slug": "teriyaki-seasoning",
+  "kind": "blend",
+  "title": "Teriyaki Seasoning",
+  "description": "Homemade approximation of the HelloFresh/EveryPlate sachet (sweet garlic-ginger powder; add a splash of soy sauce when cooking). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "aliases": [
+    "Teriyaki Spice Blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Ground Ginger",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "onion-powder"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

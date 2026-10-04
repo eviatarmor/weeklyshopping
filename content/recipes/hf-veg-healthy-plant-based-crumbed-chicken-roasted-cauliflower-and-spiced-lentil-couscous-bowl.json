@@ -1,0 +1,152 @@
+{
+  "slug": "hf-veg-healthy-plant-based-crumbed-chicken-roasted-cauliflower-and-spiced-lentil-couscous-bowl",
+  "kind": "meal",
+  "title": "Chermoula Cauliflower, Plant-Based Crumbed Chick'n & Lentil-Couscous Bowl",
+  "subtitle": "with Garlic Yoghurt & Almonds",
+  "description": "Chermoula roasted cauliflower and plant-basec rumbed chick'n is the flavour combo you didn't know you needed in your life. Add it to a tender lentil-loaded couscous and dinner will be done in a dash!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/veg-healthy-roasted-cauliflower-and-spiced-lentil-couscous-bowl-67f86bce0d0527cba53b836b",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W23_AUS_Main_high-0fa17981.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle eastern",
+    "healthy",
+    "proteinrich"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236f1b33a6ad8f0f056b9-4974b343.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572377e105c9621030b4bdb-57a7fc12.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723703b33a6ad8f0f056d7-0f766998.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a1105c9621030b4c92-30884979.png"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833494264524ca978ae45-dfaa5967.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb224-afb6bdde.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723759105c9621030b4ae3-16e3e562.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723728b33a6ad8f0f057a9-7eebcb42.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd619690d86caac92530-f507d4f5.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd602793e8cdd8467e0c-b489413f.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220ºC/200ºC fan-forced. Chop cauliflower (including stalk!) into small florets. <br>• Place cauliflower on a lined oven tray. Drizzle with olive oil, sprinkle with chermoula spice blend, season with salt and toss to coat. <br>• Spread out evenly, then roast until tender and brown around edges, 20-25 minutes.</p> <p>TIP: If your oven tray is crowded, divide between two trays.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681185ae05fc1830ec44f0ee/step-4ed7ae00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, thinly slice brown onion (see ingredients). <br>• Roughly chop cucumber and roasted almonds. Finely chop garlic. Drain and rinse lentils. <br>• In a small microwave-safe bowl, combine half the garlic and a drizzle of olive oil. Microwave in 10 second bursts, until fragrant, 1 minute. <br>• Add Greek-style yoghurt to garlic oil, stirring to combine. Season with salt and pepper to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681185ae05fc1830ec44f0ee/step-6c418c10.jpg"
+    },
+    {
+      "text": "• <p>• In a large frying pan over medium-high heat, heat enough olive oil to coat th the base.<br>• Cook plant-based crumbed chick&#39;n until golden and heated through, 2-3 minutes on each side. <br>• Transfer to a paper towel-lined plate.<br>• In a medium saucepan, heat a drizzle of olive oil over medium-high heat. <br>• Cook brown onion, stirring, until softened, 4-5 minutes. <br>• Add the remaining garlic and lentils and cook, stirring until fragrant, 1 minute.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681185ae05fc1830ec44f0ee/step-841a7d20.jpg"
+    },
+    {
+      "text": "• <p>• To the pan with lentils, add the water and vegetable stock and bring to the boil. <br>• Add couscous, stir to combine. Cover with a lid and remove from heat. <br>• Set aside until the water is absorbed, 5 minutes. Fluff up with a fork.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681185ae05fc1830ec44f0ee/step-bfb14930.jpg"
+    },
+    {
+      "text": "• <p>• In a medium bowl, combine mixed salad leaves, cucumber and a drizzle of olive oil and white wine vinegar. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681185ae05fc1830ec44f0ee/step-1b2a1c40.jpg"
+    },
+    {
+      "text": "• <p>• Slice plant-based crumbed chicken.<br>• Divide spiced lentil-couscous between bowls. <br>• Top with salad and roasted cauliflower. <br>• Drizzle over Greek-style yoghurt. Sprinkle over roasted almonds to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681185ae05fc1830ec44f0ee/step-a4be5050.jpg"
+    }
+  ]
+}

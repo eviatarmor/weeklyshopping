@@ -1,0 +1,141 @@
+{
+  "slug": "hf-chipotle-black-bean-tacos",
+  "kind": "meal",
+  "title": "Chipotle Black Bean Tacos",
+  "subtitle": "with Corn Slaw & Garlic Aioli",
+  "description": "Transform black beans into something special by spiking them with our Tex-Mex spice blend and mild chipotle sauce. Stuff the bean mixture into warm flour tortillas, top with a creamy slaw (and some jalapeños if you'd like some heat), and dinner is done!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/chipotle-black-bean-tacos-6226fc7bad61e6588d6acab1",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chipotle-black-bean-tacos-9aaadbdc.jpg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "mexican",
+    "quick",
+    "easy prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/624106b15c4fdf10c24ab2dc-3128bee1.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Herbs",
+      "qty": 1,
+      "unit": "bag",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/623d7209316ebc093d5ed9db-af58fd57.png"
+    },
+    {
+      "name": "Pickled Jalapeños",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jalapenos",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609a3915d3daac3d5406a549-e0722b6b.png"
+    },
+    {
+      "name": "Sweetcorn",
+      "qty": 1,
+      "unit": "tin",
+      "product": "corn-cob",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a9cdd15ae08b533a33b15e2-7349a1e7.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556dbcfd4dab713f4b8b4568.png"
+    },
+    {
+      "name": "Mild Chipotle Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chipotle-in-adobo",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
+    },
+    {
+      "name": "Shredded Cabbage Mix",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coleslaw-mix",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/59ac90632c3e0855ea048e02-f273e5e8.png"
+    },
+    {
+      "name": "Garlic Aioli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/587d5b2a4348d278953e3401-81a905dc.png"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556d6dd0f8b25ee2718b456a.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Tex-Mex Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a2e1d052c3e0861f6785ef2-c6096b9e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Finely chop onion and garlic. Roughly chop herbs. Grate the carrot.\n• Drain the sweetcorn.\n• Heat a large frying pan over high heat. Cook corn kernels until lightly browned, 4-5 minutes. Transfer to a medium bowl. TIP: Cover the pan with a lid if the corn kernels are \"popping\" out.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/622822c255a06a4826062d9a/step-bd594911.jpg"
+    },
+    {
+      "text": "• Return frying pan to medium heat with a drizzle of olive oil. Cook onion and carrot, stirring, until tender, 3-4 minutes.\n• SPICY! The spice blend and chipotle sauce are mild, but use less if you're sensitive to heat. Add garlic, Tex-Mex spice blend and tomato paste and cook until fragrant, 1 minute. Add black beans (including the liquid!) and mild chipotle sauce. Cook until slightly thickened, 2-3 minutes.\n• Remove pan from heat. Lightly mash with a fork or potato masher. TIP: The black bean liquid helps season and thicken the beans!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/622822c255a06a4826062d9a/step-1a2db6c8.jpg"
+    },
+    {
+      "text": "• While beans are cooking, combine corn, shredded cabbage mix and coriander. Add garlic aioli and a drizzle of white wine vinegar. Season with salt, then toss to coat.\n• Microwave mini flour tortillas on a plate in 10 second bursts, until warmed",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/622822c255a06a4826062d9a/step-fbea17c5.jpg"
+    },
+    {
+      "text": "• Roughly chop pickled jalapeños (if using).\n• Fill each tortilla with a helping of chipotle black beans and herby corn slaw.\n• Sprinkle with jalapeños to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/622822c255a06a4826062d9a/step-9d79eb41.jpg"
+    }
+  ]
+}

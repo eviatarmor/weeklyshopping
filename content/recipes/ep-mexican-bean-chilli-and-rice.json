@@ -1,0 +1,141 @@
+{
+  "slug": "ep-mexican-bean-chilli-and-rice",
+  "kind": "meal",
+  "title": "Mexican Bean Chilli & Rice",
+  "subtitle": "with Zesty Sour Cream - FTC",
+  "description": "Veggie-lovers unite! This hearty and mild chilli is packed with black beans and vegetables, with a zesty sour cream to brighten up your bowl.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/mexican-bean-chilli-and-rice-5f4f3a3e881d705d0f58bd10",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-black-bean-chilli-rice-0d19ec65.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "mexican"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fd34ecbf90d9f5285cb-2e1bc6b6.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01e4ecbf90d9f528723-471f721a.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f7c4ecbf90d9f52840a-c66b1029.png"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fe94ecbf90d9f528634-a7ec92d5.png"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f8a4ecbf90d9f528450-e6b2d1a6.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0264ecbf90d9f528748-4066951c.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39faa4ecbf90d9f5284fb-3a8e669d.png"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 1,
+      "unit": "tin",
+      "product": "black-beans",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f814ecbf90d9f528423-35b01b71.png"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fc04ecbf90d9f52856e-ae27442b.png"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sour-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0024ecbf90d9f5286aa-533fc64c.png"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39fc74ecbf90d9f528592-06142e99.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 15,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f874ecbf90d9f528441-10d0b09a.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0124ecbf90d9f5286f3-922cde24.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a01e4ecbf90d9f528724-471f721a.png"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "cube",
+      "product": "vegetable-stock",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec3a0164ecbf90d9f528704-6d9f9ef5.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• In a medium saucepan, bring the water (for the rice) to the boil. Add basmati rice, stir, cover with a lid and reduce heat to low.\n• Cook for 10 mins, then remove pan from heat and keep covered until the rice is tender and the water has absorbed, 10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f4f3a3e881d705d0f58bd10/step-4b6d3ba2.jpg"
+    },
+    {
+      "text": "• Meanwhile, thinly slice red onion. Cut capsicum into 1cm pieces. Grate zucchini. Finely chop or crush garlic. Drain and rinse black beans. Zest lime to get a pinch and slice into wedges.\n• In a small bowl, combine lime zest, a squeeze of lime juice and sour cream. Season to taste. Set aside.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f4f3a3e881d705d0f58bd10/step-e2be7fe0.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook onion and capsicum until softened, 4-5 mins.\n• Add zucchini and black beans. Cook until tender, 2-3 mins.\n• Stir in Mexican seasoning, the butter, tomato paste and garlic and cook until fragrant, 1 min.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f4f3a3e881d705d0f58bd10/step-69fffe11.jpg"
+    },
+    {
+      "text": "• Add water (for the sauce) and crumbled stock (1 cube for 2P / 2 cubes for 4P). Reduce heat to low and simmer until slightly thickened, 3-4 mins. Season to taste.\n• Divide rice between bowls and top with black bean chilli.\n• Serve with zesty sour cream and lime wedges.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5f4f3a3e881d705d0f58bd10/step-4328136b.jpg"
+    }
+  ]
+}

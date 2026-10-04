@@ -1,0 +1,141 @@
+{
+  "slug": "hf-mediterranean-veggie-soup",
+  "kind": "meal",
+  "title": "Mediterranean Veggie Soup",
+  "subtitle": "with Double Crumbled Fetta & Flaked Almonds",
+  "description": "Soups are such a dinner-time staple as they are always brimming with warm and homey flavours. Packed into this soup are several veggies and crumbly cheese, waiting to be slurped up by you!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-veggie-soup-67f839004264524ca978cd10",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W29_AU_R7113-6_Main_swap_broccoli_edit_high-d34cae97.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "hellofresh",
+    "italian",
+    "air fryer friendly",
+    "naturally gf",
+    "prepped in 10",
+    "vegetarian",
+    "calorie smart",
+    "under 40g carbs",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572383ab33a6ad8f0f05c72-533297ad.png"
+    },
+    {
+      "name": "Fetta Cubes",
+      "qty": 2,
+      "unit": "packet",
+      "product": "feta",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ff50bb6a6e10d49db2ec8c9-eb306f22.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Snacking Tomatoes",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572380e105c9621030b4f37-c66d6946.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "sachet",
+      "product": "chilli-flakes",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572370b105c9621030b4978-67b06158.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237d9105c9621030b4df9-f9e4d83e.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585d-58aa3d67.png"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "product": "silverbeet",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238033405d840b2be3b0d-33091177.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "unit": "packet",
+      "product": "broccoli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384eb33a6ad8f0f05d04-2ef7951c.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f89b780d0527cba53bf425-cb3261c2.png"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd9f2793e8cdd8467e5f-d0a8613e.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Cut carrot, potato and zucchini into bite-sized chunks. • Set air fryer to 200°C. Place veggies into the air fryer basket, season with salt, drizzle with olive oil and toss to coat. • Cook for 10 minutes. Shake the basket, then cook until tender, a further 5-10 minutes. TIP: No air fryer? Prep carrot, potato, zucchini as above. Place prepped veggies and snacking tomatoes on a lined oven tray with a drizzle of olive oil. Season with salt and toss to coat. Roast until tender, 15-20 minutes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d439642dc4b928199fc21/step-a38f3c00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, finely chop garlic. • Thinly slice silverbeet. • Halve snacking tomatoes.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d439642dc4b928199fc21/step-dbb20210.jpg"
+    },
+    {
+      "text": "• <p>• When the veggies have 5 minutes cook time remaining, heat a medium saucepan over medium-high heat with a drizzle of olive oil. • Cook tomato paste, garlic &amp; herb seasoning and garlic, stirring, until fragrant, 30 seconds. Add the water, vegetable stock powder and the brown sugar, then bring to a simmer and cook until reduced, 2-4 minutes. • Add roasted veggies, snacking tomatoes and silverbeet and cook until wilted, 2-3 minutes. Season to taste.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/683d439642dc4b928199fc21/step-ce2d0620.jpg"
+    },
+    {
+      "text": "• <p>• Divide Mediterranean veggie soup between bowls. • Crumble over fetta cubes. Top with flaked almonds and a pinch of chilli flakes (if using) to serve. Enjoy!</p>"
+    }
+  ]
+}

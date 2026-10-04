@@ -1,0 +1,88 @@
+{
+  "slug": "hf-6-ingredient-peri-peri-crumbed-chickn-sandwich",
+  "kind": "meal",
+  "title": "Peri-Peri Crumbed Chick'n Sandwich",
+  "subtitle": "with Hand-Cut Sweet Potato Wedges & Smokey Aioli",
+  "description": "Ditch the cutlery and get a little handsy with your dinner tonight as you tuck into this decadent plant-based crumbed chick'n sammie. With peri-peri beef, some smokey aioli and hand-cut wedges, you’ve got one good looking dinner on the menu!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/6-ingredient-peri-peri-beef-steak-sandwich-67f84ee4cade9b9f0ace2f57",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1029_W25_AU_R21650-3_edit_Main_F1_high-a07030ec.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "portuguese",
+    "prepped in 10",
+    "kid friendly",
+    "quick prep"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Cos Lettuce",
+      "qty": 1,
+      "product": "cos-lettuce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236c73405d840b2be34c1-ec9dd160.png"
+    },
+    {
+      "name": "Peri-Peri Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "peri-peri-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f833444264524ca978ae1f-24f1cd72.png"
+    },
+    {
+      "name": "Plant-Based Crumbed Chicken",
+      "qty": 300,
+      "unit": "g",
+      "product": "whole-chicken",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6126ff473b4d1a423e04d534-8c36adef.png"
+    },
+    {
+      "name": "Sliced Sourdough",
+      "qty": 4,
+      "product": "sourdough",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/680b52b505fc1830ec444bb4-1eae837e.png"
+    },
+    {
+      "name": "Smokey Aioli",
+      "qty": 2,
+      "unit": "packet",
+      "product": "aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723809105c9621030b4f1a-a5f34873.png"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238223405d840b2be3bdf-4ec868b1.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• See ‘Top Steak Tips!’ (below left). Preheat oven to 240°C/220°C fan-forced. <br>• Cut sweet potato into wedges.<br>• Place wedges on lined oven tray. Drizzle with olive oil, season with salt and toss to coat. Bake until tender, 20-25 minutes.</p> <p><br>ELEVATE ME: If you’ve added extra ingredients to you recipe, sprinkle Cheddar cheese over wedges in the last 5 minutes of bake time and cook until cheese is melted and golden. </p> <p><br>TIP: If your oven tray is crowded, divide between two trays. </p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80efb511ee4a266ae29d/step-ebfdfc00.jpg"
+    },
+    {
+      "text": "• <p>• Meanwhile, trim ends of baby cos lettuce and separate leaves.</p> <p>• Heat a large frying pan over medium-high heat with enough olive oil to coat the base. <br>• Cook plant-based crumbed chicken until golden and heated through, 2-3 minutes on each side.</p> <p>• Add peri-peri seasoning, a pinch of salt  and cook, turning to coat, until fragrant, 1 minute.</p> <p>• Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80efb511ee4a266ae29d/step-11516510.jpg"
+    },
+    {
+      "text": "• <p>• Toast or grill sourdough to your liking.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80efb511ee4a266ae29d/step-b562b120.jpg"
+    },
+    {
+      "text": "• <p>• Spread half the smokey aioli over toasted sourdough slices. Fill with lettuce leaves and peri-peri chick&#39;n.</p> <p>• Serve with wedges and remaining smokey aioli.</p> <p>• FANCIFY ME: Thinly slice spring onion. Slice avocado in half, scoop out flesh and thinly slice. Fill sandwich with avocado slices. Sprinkle spring onion over cheesy wedges. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681d80efb511ee4a266ae29d/step-46435c30.jpg"
+    }
+  ]
+}

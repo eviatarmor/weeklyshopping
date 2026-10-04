@@ -1,0 +1,140 @@
+{
+  "slug": "ep-cheesy-broccoli-pasta-bake",
+  "kind": "meal",
+  "title": "Cheesy Broccoli Pasta Bake",
+  "subtitle": "with Baby Spinach & Chilli Flakes",
+  "description": "Dig into this easy, cheesy veggie-loaded pasta bake for a simple and salivating meal. Why not add a sprinkle of chilli flakes for a welcome kick of heat?!",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/cheesy-broccoli-and-dijon-pasta-bake-67f856984264524ca9795f09",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y25_R4007_W16_AUS_Main_high-81a3be03.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "british"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05935-b4252252.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "qty": 1,
+      "unit": "packet",
+      "product": "parmesan",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237b53405d840b2be399a-6f7ad071.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561c-5667c8d1.png"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "product": "broccoli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384eb33a6ad8f0f05d05-c1365f94.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ad-c3df117a.png"
+    },
+    {
+      "name": "Fusilli",
+      "qty": 1,
+      "product": "fusilli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723750105c9621030b4ac4-a154cbff.png"
+    },
+    {
+      "name": "Garlic & Herb Seasoning",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "garlic-and-herb-seasoning",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572374fb33a6ad8f0f0585c-dca9d714.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92597-f8d7ad4e.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b9-ebddeb26.png"
+    },
+    {
+      "name": "Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde32793e8cdd8467ec1-bf8d81f8.jpg"
+    },
+    {
+      "name": "Milk",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6b635bf0b638cfb8bd-3a499ec6.png"
+    },
+    {
+      "name": "Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de322793e8cdd8467f57-e6d40486.png"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "chilli-flakes",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de332793e8cdd8467f59-a0462d01.png"
+    },
+    {
+      "name": "Stock Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de2d2793e8cdd8467f4d-f617f263.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• Preheat oven to 220°C/200°C fan-forced. Chop broccoli (including stalk!) into small florets. Slice onion into wedges. <br>• Place broccoli and onion on a lined oven tray. Drizzle with olive oil and season with salt. Toss to coat. <br>• Roast until tender, 15-20 mins.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4478ef66926770e8cd23d3/step-c594b200.jpeg"
+    },
+    {
+      "text": "• <p>• Meanwhile, boil the kettle. Half-fill a medium saucepan with boiling water. <br>• Cook fusilli in boiling water over high heat, until ‘al dente’, 11 mins. <br>• Reserve some pasta water (1/4 cup for 2P / 1/2 cup for 4P), then drain and return to pan. Drizzle with a little olive oil to prevent sticking.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4478ef66926770e8cd23d3/step-999d0010.jpeg"
+    },
+    {
+      "text": "• <p>• When veggies are done, heat a large frying pan over medium heat with the butter and a drizzle of olive oil. <br>• Cook garlic &amp; herb seasoning and the plain flour until fragrant, 1 min. <br>• Stir in cooking cream, the stock powder, milk, mustard and reserved pasta water. Simmer until slightly thickened, 1-2 mins. <br>• Add cooked pasta, roasted veggies and baby spinach, stirring to combine.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4478ef66926770e8cd23d3/step-33d9e620.jpeg"
+    },
+    {
+      "text": "• <p>• Preheat grill to high. <br>• Transfer pasta to a baking dish. Sprinkle with Parmesan cheese. Grill until golden, 5-10 mins. <br>• Divide pasta bake between bowls. Sprinkle with the chilli flakes (if using) to serve.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6a4478ef66926770e8cd23d3/step-00559830.jpeg"
+    }
+  ]
+}

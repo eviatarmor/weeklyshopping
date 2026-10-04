@@ -1,0 +1,157 @@
+{
+  "slug": "hf-chermoula-chickpea-veggie-stew",
+  "kind": "meal",
+  "title": "Chermoula Chickpea & Veggie Stew",
+  "subtitle": "with Freekeh, Garlic Yoghurt & Almonds",
+  "description": "Take chickpea stew to the next level by adding creamy coconut milk, plus sweet and earthy roasted veggies. Serve on a bed of freekeh, an ancient grain that adds a lovely nutty flavour and al dente texture. Top with the yoghurt for some tang, and the almonds for some crunch.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-chickpea-veggie-stew-61f9fc572cefe43adc5123c0",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chermoula-chickpea-veggie-stew-1ab6b6a2.jpg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "middle east"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Freekeh",
+      "qty": 1,
+      "unit": "packet",
+      "product": "freekeh",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/58d1f12b3bddb552546e2c72-b9e77a0f.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "unit": "portion",
+      "product": "cauliflower",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554305d4dab7106578b456e.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554affd44dab71c8058b456b.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 0.5,
+      "unit": "tin",
+      "product": "chickpeas",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5554306cfd2cb9070c8b456a.png"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bag",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555427a0f8b25e5c0c8b456b.png"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fc48eb159b39f20f77550c2-3fed1f06.png"
+    },
+    {
+      "name": "Diced Tomatoes with Garlic & Onion",
+      "qty": 1,
+      "unit": "box",
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6052bd0d88686f4de443784a-92e7b6fd.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Vegetable Stock Pot",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stock-pot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5f73dce63e6c215d432ace3b-b7192187.png"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55593ab9fd2cb9531f8b456c.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/559e05da4dab718f588b4568.png"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 1,
+      "unit": "packet",
+      "product": "yoghurt",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredients/56e904284dab7107518b4567-01f6373a.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. In a large saucepan, heat a drizzle of olive oil over a medium-high heat. Toast the freekeh, stirring occasionally, until golden, 1-2 minutes. Half-fill the saucepan with water, then add a good pinch of salt. Bring to the boil, then simmer, uncovered, until tender, 30-35 minutes. Drain the freekeh, then rinse and return to the pan over a medium heat. Add the butter and stir until melted.\n• TIP: The freekeh is cooked when it has softened but still retains some bite.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9fc572cefe43adc5123c0/step-8324736d.jpg"
+    },
+    {
+      "text": "• While the freekeh is cooking, cut the carrot into bite-sized chunks. Cut the cauliflower into small florets. Place the prepped veggies on a lined oven tray. Drizzle with olive oil and season with salt and pepper. Toss to coat. Roast until tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9fc572cefe43adc5123c0/step-04925880.jpg"
+    },
+    {
+      "text": "• While the veggies are roasting, finely chop the garlic. Thinly slice the brown onion. Drain and rinse the chickpeas (see ingredients).",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9fc572cefe43adc5123c0/step-86dbf36c.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil and the garlic over a medium-high heat. Cook until fragrant, 1 minute. Transfer to a small bowl. Add the Greek-style yoghurt to the garlic oil mixture. Stir to combine. Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9fc572cefe43adc5123c0/step-0391b170.jpg"
+    },
+    {
+      "text": "• Return the frying pan to a medium-high heat with a drizzle of olive oil. Cook the onion, stirring, until softened, 3-4 minutes. Add the chermoula spice blend and cook until fragrant, 1 minute. Add the chickpeas, diced tomatoes with garlic & onion, coconut milk and vegetable stock pot. Bring to the boil and cook until slightly reduced, 3-4 minutes. Stir through the baby spinach leaves and roasted veggies.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9fc572cefe43adc5123c0/step-5aee8fdb.jpg"
+    },
+    {
+      "text": "• Roughly chop the parsley. Divide the freekeh between bowls. Top with the chermoula chickpea and veggie stew. Dollop over the garlic yoghurt. Sprinkle with the flaked almonds and parsley to serve.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9fc572cefe43adc5123c0/step-fb559b9f.jpg"
+    }
+  ]
+}

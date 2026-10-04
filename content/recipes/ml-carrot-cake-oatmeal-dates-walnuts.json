@@ -1,0 +1,95 @@
+{
+  "slug": "ml-carrot-cake-oatmeal-dates-walnuts",
+  "kind": "meal",
+  "title": "Carrot Cake Oatmeal with Dates & Walnuts",
+  "sourceUrl": "https://www.mealime.com/recipes/carrot-cake-oatmeal-dates-walnuts/18582",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2173/presentation_b60a22d3-9e60-4989-9c92-3766981796e2.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "qty": 4,
+      "product": "carrot"
+    },
+    {
+      "name": "Medjool Dates (pitted)",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "medjool-dates"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 0.6666666666666666,
+      "unit": "cup",
+      "product": "walnuts"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 235,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Brown Sugar",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Cloves (ground)",
+      "product": "cloves",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg (ground)",
+      "product": "nutmeg",
+      "pantry": true
+    },
+    {
+      "name": "Oats (quick cooking)",
+      "product": "rolled-oats",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place water and salt in a medium saucepan, cover, and bring to a boil over high heat."
+    },
+    {
+      "text": "Meanwhile, wash, dry, trim, and peel carrots; coarsely grate."
+    },
+    {
+      "text": "Roughly chop dates."
+    },
+    {
+      "text": "Once the water is boiling, stir in carrots, dates, oats, and spices. Reduce heat to low, cover, and let simmer, stirring occasionally, until oatmeal reaches desired consistency, 3-5 minutes."
+    },
+    {
+      "text": "While the oatmeal cooks, roughly chop walnuts."
+    },
+    {
+      "text": "Divide oatmeal between bowls; top with walnuts and sprinkle with sugar. Serve with milk and enjoy!"
+    }
+  ]
+}

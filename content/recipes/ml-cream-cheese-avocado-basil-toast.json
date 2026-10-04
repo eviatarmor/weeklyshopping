@@ -1,0 +1,74 @@
+{
+  "slug": "ml-cream-cheese-avocado-basil-toast",
+  "kind": "meal",
+  "title": "Cream Cheese, Avocado & Basil Toast",
+  "sourceUrl": "https://www.mealime.com/recipes/cream-cheese-avocado-basil-toast/24002",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2690/presentation_437683a6-512d-4616-983a-7ed5c184efad.jpeg",
+  "servings": 4,
+  "prepMinutes": 12,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado"
+    },
+    {
+      "name": "Cream Cheese",
+      "qty": 150,
+      "unit": "g",
+      "product": "cream-cheese"
+    },
+    {
+      "name": "Fresh Basil",
+      "qty": 0.5,
+      "product": "basil"
+    },
+    {
+      "name": "Whole Grain Bread",
+      "qty": 4,
+      "unit": "slice",
+      "product": "bread"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to broil on high and position rack in the upper third of the oven. (Skip this step if you are using a toaster for the bread.)"
+    },
+    {
+      "text": "Arrange bread on a baking sheet pan. Place in the oven and broil, flipping halfway through, until toasted, about 2 minutes; remove from oven. (Alternatively, you can use a toaster.)"
+    },
+    {
+      "text": "Meanwhile, wash, dry, halve, and pit avocado; using a spoon, scoop out the flesh and slice lengthwise into thin pieces."
+    },
+    {
+      "text": "Wash, dry, and pick basil leaves off the stems; roll up crosswise and thinly slice into ribbons."
+    },
+    {
+      "text": "Divide cream cheese between toast slices and spread out in an even layer. Top with avocado, then season with salt and pepper."
+    },
+    {
+      "text": "To serve, divide toast between plates, sprinkle with basil, and drizzle with oil. Enjoy!"
+    }
+  ]
+}

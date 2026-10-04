@@ -1,0 +1,151 @@
+{
+  "slug": "hf-potato-topped-thai-red-curry-lentil-pie",
+  "kind": "meal",
+  "title": "Potato Topped Thai Red Curry Lentil Pie",
+  "subtitle": "with Cucumber Salad & Coriander",
+  "description": "This one is in a league of its own. We've taken your favourite parts of a curry, switched out the meat for\nhearty lentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty\nconcoction!\nThis recipe is under 650kcal per serving.",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/potato-topped-thai-red-curry-lentil-pie-638573a5ba777f39780033b9",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/potato-topped-thai-red-curry-lentil-pie-2f165692.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hellofresh",
+    "thai",
+    "calorie smart",
+    "climate superstar",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542c50fd2cb9da068b456c.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Potato",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5fae01355a2ab9306616d5b0-a7aba26d.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55682dacf8b25e483c8b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55672be1f8b25eac2f8b4568.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    },
+    {
+      "name": "Lentils",
+      "qty": 1,
+      "unit": "tin",
+      "product": "brown-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542d64fd2cb925058b456a.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/609b1b0f1ea45f265b6d3fda-531ce6df.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 1,
+      "unit": "bag",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56553304f8b25ee47e8b4567.png"
+    },
+    {
+      "name": "Vinegar",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "white-wine-vinegar",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ad6ac09ae08b54d160cb072-a3981ef2.png"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "qty": 0.5,
+      "unit": "tin",
+      "product": "red-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5e448894328cbc18c105ec39-f5de9baf.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat the oven to 240°C/220°C fan-forced. Bring a large saucepan of salted water to the boil.\n• Cut zucchini and carrot into bite-sized chunks.\n• Place veggies in a large baking dish. Drizzle with olive oil, season with salt and toss to coat. Roast until browned and tender, 20-25 minutes.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638573a5ba777f39780033b9/step-8e90243d.jpg"
+    },
+    {
+      "text": "• While zucchini is roasting, peel potato and cut into bite-sized chunks. Cook in the boiling water until easily pierced with a knife, 10-15 minutes. Drain and return to the pan.\n• Add the butter and milk to the potato and season generously with salt. Mash until smooth.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638573a5ba777f39780033b9/step-be9fa7b6.jpg"
+    },
+    {
+      "text": "• While the potato is cooking, thinly slice brown onion. Roughly chop cucumber and coriander. Drain and rinse lentils.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638573a5ba777f39780033b9/step-cb4be046.jpg"
+    },
+    {
+      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Add onion and cook, until tender, 4-5 minutes.\n• SPICY! The curry paste is spicy so use a little less if you prefer your curry mild. Add ginger paste and Thai red curry paste (see ingredients) and cook stirring, until fragrant, 1-2 minutes.\n• Reduce the heat to medium. Add coconut milk, drained lentils and a pinch of sugar, and simmer until thickened, 2-3 minutes. Season to taste. TIP: Add a splash of water if the curry looks too thick.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638573a5ba777f39780033b9/step-a933c200.jpg"
+    },
+    {
+      "text": "• When the veggies are roasted, remove from the oven and transfer the lentil curry to the baking dish. Stir to combine.\n• Top with potato and spread out evenly. Bake until lightly golden, 5-8 minutes.\n• Meanwhile, in a medium bowl, combine cucumber, mixed salad leaves, a drizzle of vinegar and olive oil. Toss to coat and season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638573a5ba777f39780033b9/step-0f7366ea.jpg"
+    },
+    {
+      "text": "• Divide the potato topped Thai red curry lentil pie between plates.\n• Serve with the cucumber salad. Top the pie with coriander. Enjoy!",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638573a5ba777f39780033b9/step-9bdab984.jpg"
+    }
+  ]
+}

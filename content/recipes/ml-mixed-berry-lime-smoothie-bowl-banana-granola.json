@@ -1,0 +1,90 @@
+{
+  "slug": "ml-mixed-berry-lime-smoothie-bowl-banana-granola",
+  "kind": "meal",
+  "title": "Mixed Berry-Lime Smoothie Bowl with Banana & Granola",
+  "sourceUrl": "https://www.mealime.com/recipes/mixed-berry-lime-smoothie-bowl-banana-granola/17457",
+  "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2070/presentation_3fd921f8-78ef-43b2-8bbb-1358907f9b4b.jpeg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "vegetarian",
+    "mealime"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "qty": 2,
+      "product": "banana"
+    },
+    {
+      "name": "Blackberries",
+      "qty": 170,
+      "unit": "g",
+      "product": "blackberries"
+    },
+    {
+      "name": "Frozen Mixed Berries",
+      "qty": 4,
+      "unit": "cup",
+      "product": "frozen-berries"
+    },
+    {
+      "name": "Granola",
+      "qty": 320,
+      "unit": "ml",
+      "product": "muesli"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime"
+    },
+    {
+      "name": "Plain Greek Yogurt",
+      "qty": 2,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Whole Milk",
+      "qty": 235,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "product": "ground-cinnamon",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "This recipe will make about 6 cups of smoothie. Work in batches to best fit your blender."
+    },
+    {
+      "text": "Wash and dry the fresh produce."
+    },
+    {
+      "text": "Peel and thinly slice bananas; set aside."
+    },
+    {
+      "text": "Zest and juice lime into a blender."
+    },
+    {
+      "text": "Add frozen mixed berries, yogurt, milk, honey, and cinnamon to the blender."
+    },
+    {
+      "text": "Blend on high speed until smooth, 1-2 minutes."
+    },
+    {
+      "text": "To serve, divide smoothie between bowls and top with banana, blackberries, and granola. Enjoy!"
+    }
+  ]
+}

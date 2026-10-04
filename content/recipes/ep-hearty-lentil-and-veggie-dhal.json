@@ -1,0 +1,148 @@
+{
+  "slug": "ep-hearty-lentil-and-veggie-dhal",
+  "kind": "meal",
+  "title": "Hearty Lentil & Veggie Dhal",
+  "subtitle": "with Cheesy Flatbreads",
+  "description": "Extra guests at the table? We’ve doubled the ingredients with twice the protein, veggies and carbs! Order this delicious meal of hearty dhal plus gooey cheesy flatbreads for when you need to feed a crowd.",
+  "sourceUrl": "https://www.everyplate.com.au/recipes/hearty-lentil-and-veggie-dhal-644b06e204fa67af1c032d6c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/hearty-lentil-veggie-dhal-f46791ab.jpg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "everyplate",
+    "indian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be05bfd2cb9eb648b4567.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542777f8b25e5c0c8b456a.png"
+    },
+    {
+      "name": "Tomato",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a024dab7182428b4569.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/55542969f8b25e390d8b456a.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be460f8b25ec35c8b4567.png"
+    },
+    {
+      "name": "Ginger Paste",
+      "qty": 2,
+      "unit": "packet",
+      "product": "ginger-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/60920da79f5a865a971191ec-531ce6df.png"
+    },
+    {
+      "name": "Bengal Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56de2bfb4dab715c428b4569-a466620b.png"
+    },
+    {
+      "name": "Curry Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "curry-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5eea0d1b30539e48127973cb-b049e7e0.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/556c6a3cf8b25e466b8b4567.png"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/555be077f8b25e6b598b4567.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 2,
+      "unit": "sachet",
+      "product": "vegetable-stock-powder",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/56779b9ef8b25e7a508b4567.png"
+    },
+    {
+      "name": "Red Lentils",
+      "qty": 2,
+      "unit": "packet",
+      "product": "red-lentils",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/556c5a3bf8b25ea3688b4568-6b48f527.png"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 2,
+      "unit": "packet",
+      "product": "coconut-milk",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b001e4dab71aa058b456b.png"
+    },
+    {
+      "name": "Mini Flour Tortillas",
+      "qty": 12,
+      "product": "wraps",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/5806f4e2a7c72a25106f2832-8595d5ff.png"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "qty": 2,
+      "unit": "packet",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5add573430006c5c8109a9e2-b0b6fbbd.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bag",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/image/554b00454dab71a6058b456d.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• Preheat oven to 220°C/200°C fan-forced.\n• Finely chop brown onion. Roughly chop tomato. Grate carrot.\n• In a large saucepan, melt the butter and a drizzle of olive oil over medium-high heat.\n• Cook onion until softened, 3-4 mins. Add ginger paste, Bengal curry paste, curry spice blend and tomato paste and cook until fragrant, 1-2 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/644b06e204fa67af1c032d6c/step-dc932148.jpg"
+    },
+    {
+      "text": "• Stir in the water, vegetable stock powder, lentils, coconut milk, carrot and tomato.\n• Bring to a boil. Cover with lid and reduce heat to medium.\n• Simmer, stirring occasionally, until lentils are just softened, 15-20 mins. Remove the lid and simmer until thickened, 5-7 mins. (Add a splash of water if the dhal looks dry). Season to taste.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/644b06e204fa67af1c032d6c/step-00d8b859.jpg"
+    },
+    {
+      "text": "• When dhal has 15 mins remaining, divide tortillas between lined oven trays.\n• Sprinkle Cheddar cheese onto one half of each tortilla.\n• Fold each tortilla over cheese and press down with spatula. Brush or spray tortillas with a drizzle of olive oil. Season with salt and pepper.\n• Bake until lightly golden and crisp, 7-10 mins.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/644b06e204fa67af1c032d6c/step-63b89215.jpg"
+    },
+    {
+      "text": "• Divide dhal between bowls.\n• Top with torn coriander. Serve with cheesy flatbreads.",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/644b06e204fa67af1c032d6c/step-cf2869f3.jpg"
+    }
+  ]
+}

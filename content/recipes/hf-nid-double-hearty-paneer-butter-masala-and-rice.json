@@ -1,0 +1,161 @@
+{
+  "slug": "hf-nid-double-hearty-paneer-butter-masala-and-rice",
+  "kind": "meal",
+  "title": "Double Paneer Butter Masala & Rice",
+  "subtitle": "with Baby Spinach & Almonds",
+  "description": "Paneer - mild, creamy and oh-so versatile! This soft Indian cheese holds its shape when cooking, making it perfect for grilling, frying or soaking up the flavours of a rich sauce. The options are endless with this delicious vegetarian protein that’s packed with flavour potential! Add it to your curry tonight for the cosiest comfort meal!",
+  "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-hearty-haloumi-butter-masala-and-rice-67fdf2fdd2847d730ba0874c",
+  "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/674cd7e0a0d670a6c9690a54-0b5b85db-fec69d39.jpeg",
+  "servings": 2,
+  "prepMinutes": 25,
+  "tags": [
+    "hellofresh",
+    "indian",
+    "classic",
+    "naturally gf",
+    "quick",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "baby-spinach",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236cbb33a6ad8f0f0561d-53af3e4d.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8334b0d0527cba53a49da-9e1c3277.png"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657236e2105c9621030b48ae-dd464305.png"
+    },
+    {
+      "name": "Mild North Indian Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mild-north-indian-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572379cb33a6ad8f0f059c6-3aeaf42e.png"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572384f105c9621030b5046-9b9cdd55.png"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/6572371eb33a6ad8f0f05783-370f6563.png"
+    },
+    {
+      "name": "Flaked Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f8289dcade9b9f0acdb225-3929e815.png"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "product": "garlic",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238553405d840b2be3ce4-7ac5b244.png"
+    },
+    {
+      "name": "Light Cooking Cream",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cooking-cream",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/65723782b33a6ad8f0f05936-f73f14d3.png"
+    },
+    {
+      "name": "Mumbai Spice Blend",
+      "qty": 1,
+      "unit": "sachet",
+      "blend": "mumbai-spice-blend",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657237a63405d840b2be3947-37d298e9.png"
+    },
+    {
+      "name": "Paneer Cheese",
+      "qty": 2,
+      "product": "paneer",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/681c54aaf5ad8e6534c47192-5c348e8f.png"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tomato-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/657238323405d840b2be3c2d-cb0a9e1b.png"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "drizzle",
+      "product": "olive-oil",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd8e9690d86caac92596-8d532c75.png"
+    },
+    {
+      "name": "Water",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dde02793e8cdd8467eb4-6be7900f.png"
+    },
+    {
+      "name": "Water",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7ddbc635bf0b638cfb951-7ec5ce69.png"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7dd6a635bf0b638cfb8b8-264515d4.png"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true,
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/67f7de0f2793e8cdd8467f10-3317eda7.png"
+    }
+  ],
+  "steps": [
+    {
+      "text": "• <p>• In a medium saucepan, add the water (for the rice) and bring to the boil. • Add basmati rice. Stir, cover with a lid and reduce heat to low. • Cook for 10 minutes, then remove from heat. • Keep covered, until rice is tender and water is absorbed, 12 minutes.</p> <p>TIP: The rice will finish cooking in its own steam, so don&#39;t peek!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681996c66326cd47f1a59bd7/step-c1072700.jpg"
+    },
+    {
+      "text": "• <p>• While the rice is cooking, cut paneer into bite-sized chunks. • Roughly chop brown onion. Thinly slice carrot into half-moons. Finely chop garlic. • In a large frying pan, heat a generous drizzle of olive oil over medium-high heat. When oil is hot, cook paneer, tossing occasionally, in batches, until golden brown, 2-4 minutes. Transfer to a paper towel-lined plate.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681996c66326cd47f1a59bd7/step-8231bd10.jpg"
+    },
+    {
+      "text": "• <p>• Return frying pan to medium-high heat with a drizzle of olive oil. Cook onion and carrot, tossing, until golden, 4-5 minutes. Add garlic, tomato paste, Mumbai spice blend, mild North Indian spice blend (see ingredients) and the honey and cook until fragrant, 1 minute. • Reduce heat to medium, then stir in thickened cream and the water (for the sauce). Return paneer to the pan. Simmer until thickened, 2-3 minutes. Remove pan from heat, then stir in the butter, a pinch of pepper and baby spinach leaves, until spinach is just wilted, 1 minute.</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681996c66326cd47f1a59bd7/step-72810020.jpg"
+    },
+    {
+      "text": "• <p>• Divide basmati rice between bowls. Top with paneer masala. • Garnish with flaked almonds. Tear over coriander leaves to serve. Enjoy!</p>",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/681996c66326cd47f1a59bd7/step-81935e30.jpg"
+    }
+  ]
+}
