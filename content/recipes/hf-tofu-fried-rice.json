@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56723366fd2cb93a6e8b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 392,
+    "proteinG": 23.5,
+    "carbsG": 40.8,
+    "fatG": 13.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -89,17 +95,17 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, cube the Thai tofu. Peel the carrot, and finely dice it and the green capsicum. Finely slice the spring onion and separate the white and green parts. Dice the tomato and cut the lime into wedges."
+      "text": "To prepare the ingredients, cube the Thai tofu. Peel the carrot, and finely dice it and the green capsicum. Finely slice the spring onion and separate the white and green parts. Dice the tomato and cut the lime into wedges."
     },
     {
-      "text": "• Place the Jasmine rice into a sieve and rinse it with cold tap water until the water runs clear. Place the rice and the water in a medium saucepan over a high heat and bring to the boil. Reduce the heat to medium and simmer for 10-12 minutes or until rice is soft. Drain well."
+      "text": "Place the Jasmine rice into a sieve and rinse it with cold tap water until the water runs clear. Place the rice and the water in a medium saucepan over a high heat and bring to the boil. Reduce the heat to medium and simmer for 10-12 minutes or until rice is soft. Drain well."
     },
     {
-      "text": "• Meanwhile, heat the vegetable oil in a large wok or frying pan over a high heat. Add the Thai tofu and cook for 1-2 minutes or until just golden. Remove from the pan and set aside. Add the carrot, green capsicum and the white parts of the spring onion. Stir fry for 2-3 minutes or until just tender. Add in the yellow curry paste and cook, stirring for 1 minute or until fragrant. Add the rice, tofu, tomato and the green parts of the spring onion and stir until evenly coated in the paste. Squeeze in the juice of half of the lime wedges. Remove from the heat.",
+      "text": "Meanwhile, heat the vegetable oil in a large wok or frying pan over a high heat. Add the Thai tofu and cook for 1-2 minutes or until just golden. Remove from the pan and set aside. Add the carrot, green capsicum and the white parts of the spring onion. Stir fry for 2-3 minutes or until just tender. Add in the yellow curry paste and cook, stirring for 1 minute or until fragrant. Add the rice, tofu, tomato and the green parts of the spring onion and stir until evenly coated in the paste. Squeeze in the juice of half of the lime wedges. Remove from the heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56723366fd2cb93a6e8b4567/step_56723567d6bf5.jpg"
     },
     {
-      "text": "• To serve, divide the fried rice between bowls. Serve with the remaining lime wedges."
+      "text": "To serve, divide the fried rice between bowls. Serve with the remaining lime wedges."
     }
   ]
 }

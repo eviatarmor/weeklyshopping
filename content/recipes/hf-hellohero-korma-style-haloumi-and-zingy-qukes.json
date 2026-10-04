@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1039_W20_AUS_edit__Main_2_carrot_edit_high-7d07a498.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 905,
+    "proteinG": 27.1,
+    "carbsG": 78.5,
+    "fatG": 53.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

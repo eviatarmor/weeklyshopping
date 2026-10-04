@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/speedy-creamy-tomato-farfalle-a7ee95fe.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 633,
+    "proteinG": 22,
+    "carbsG": 74.1,
+    "fatG": 27.7
+  },
   "tags": [
     "vegetarian",
     "everyplate"

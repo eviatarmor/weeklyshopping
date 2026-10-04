@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Caribbean Lentils & Pineapple Salsa",
   "subtitle": "with Coconut Rice",
-  "description": "Take a journey to the Caribbean islands with this lightly spiced and hearty bowl of veggies, lentils and dreamy coconut rice.\nWith loads of flavour in every bite, this meal will take your tastebuds on a whirlwind adventure!",
+  "description": "Take a journey to the Caribbean islands with this lightly spiced and hearty bowl of veggies, lentils and dreamy coconut rice. With loads of flavour in every bite, this meal will take your tastebuds on a whirlwind adventure!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/caribbean-lentils-pineapple-salsa-5c7f4958e3f3390ca57073f2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-lentils-pineapple-salsa-97b69126.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 826,
+    "proteinG": 19.8,
+    "carbsG": 108.5,
+    "fatG": 28.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

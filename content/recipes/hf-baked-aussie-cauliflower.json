@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Baked Aussie Cauliflower",
   "subtitle": "with Roast Veggie Toss & Dill & Parsley Dressing",
-  "description": "Get ready to perform some kitchen magic, because this low-carb dish of nuts, fetta and root veggies is everything you\nnever knew you needed!",
+  "description": "Get ready to perform some kitchen magic, because this low-carb dish of nuts, fetta and root veggies is everything you never knew you needed!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/baked-aussie-cauliflower-6029e02be4d05f701711ee69",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/low-carb-baked-aussie-cauliflower-bc1cd6c7.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 470,
+    "proteinG": 12.4,
+    "carbsG": 28.6,
+    "fatG": 32.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

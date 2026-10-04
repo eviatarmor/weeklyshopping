@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy American-Spiced Plant-Based Chick'n",
   "subtitle": "with Apple Slaw & Warm Potato-Fetta Salad",
-  "description": "This crowd-pleasing meal requires zero oven time and is perfect for the warmer weather. Our All-American spice blend and\nherby mayo come in handy for amping up the flavour of the plant-based chicken and potato salad - leaving you to do very little!",
+  "description": "This crowd-pleasing meal requires zero oven time and is perfect for the warmer weather. Our All-American spice blend and herby mayo come in handy for amping up the flavour of the plant-based chicken and potato salad - leaving you to do very little!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-aussie-spiced-chicken-6178b44cc13d2e5ab665d32e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-aussie-spiced-chicken-891771d9.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 806,
+    "proteinG": 24,
+    "carbsG": 56.4,
+    "fatG": 52.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

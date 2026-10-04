@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56b28dcefd2cb9d3078b4567.jpg",
   "servings": 5,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 531,
+    "proteinG": 21.1,
+    "carbsG": 75.1,
+    "fatG": 11.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -120,21 +126,21 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely dice the brown onion and sweet potato (peeled). Peel and crush the garlic. Deseed the chilli and finely slice. Drain and rinse the cannellini beans. Wash the baby spinach. Pick the rosemary leaves and finely chop."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely dice the brown onion and sweet potato (peeled). Peel and crush the garlic. Deseed the chilli and finely slice. Drain and rinse the cannellini beans. Wash the baby spinach. Pick the rosemary leaves and finely chop."
     },
     {
-      "text": "• Heat the olive oil in a large pot or saucepan over a medium-high heat. Add the brown onion and cook for 2 minutes or until soft. Then add the sweet potato and cook for 5-10 minutes or until the vegetables have softened. Add the garlic, paprika, and birdseye chilli (leave it out if the kids don’t like the heat and simply stir through your meal in step 5) and cook for a further 2 minutes."
+      "text": "Heat the olive oil in a large pot or saucepan over a medium-high heat. Add the brown onion and cook for 2 minutes or until soft. Then add the sweet potato and cook for 5-10 minutes or until the vegetables have softened. Add the garlic, paprika, and birdseye chilli (leave it out if the kids don’t like the heat and simply stir through your meal in step 5) and cook for a further 2 minutes."
     },
     {
-      "text": "• Add the cannellini beans, diced tomatoes, tomato paste, water, brown sugar (or maple syrup), rosemary and season with salt and pepper. Reduce to a low-medium heat and simmer for 20-25 minutes, or until all of the vegetables are tender. Add 1⁄2 cup of water if the mixture is too thick. Stir through the baby spinach in the last 2 minutes of cooking until wilted.",
+      "text": "Add the cannellini beans, diced tomatoes, tomato paste, water, brown sugar (or maple syrup), rosemary and season with salt and pepper. Reduce to a low-medium heat and simmer for 20-25 minutes, or until all of the vegetables are tender. Add 1⁄2 cup of water if the mixture is too thick. Stir through the baby spinach in the last 2 minutes of cooking until wilted.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b28dcefd2cb9d3078b4567/step_56b2939fac586.jpg"
     },
     {
-      "text": "• Meanwhile place the bake-at-home torpedo rolls in the oven for 5 minutes to heat through.",
+      "text": "Meanwhile place the bake-at-home torpedo rolls in the oven for 5 minutes to heat through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b28dcefd2cb9d3078b4567/step_56b2939fc91b2.jpg"
     },
     {
-      "text": "• To serve, divide the beans between bowls and serve with the crusty bread rolls. Enjoy!"
+      "text": "To serve, divide the beans between bowls and serve with the crusty bread rolls. Enjoy!"
     }
   ]
 }

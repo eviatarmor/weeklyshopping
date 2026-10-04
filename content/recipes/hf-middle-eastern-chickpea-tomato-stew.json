@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66bc1f04e871cb97455355b5-2ad2668e.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 710,
+    "proteinG": 30.6,
+    "carbsG": 81.4,
+    "fatG": 24.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -171,7 +177,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66bc1f04e871cb97455355b5-92990793.jpeg"
     },
     {
-      "text": "• In a small bowl, combine Greek-style yoghurt, a drizzle of olive oil and half the mint. Season to taste.",
+      "text": "In a small bowl, combine Greek-style yoghurt, a drizzle of olive oil and half the mint. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66bc1f04e871cb97455355b5-e3f06c14.jpeg"
     },
     {

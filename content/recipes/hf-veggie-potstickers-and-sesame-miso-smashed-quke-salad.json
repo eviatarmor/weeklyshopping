@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Veggie Gyozas & Miso-Sesame Quke Salad",
   "subtitle": "with Garlic-Chilli Oil & Crispy Shallots",
-  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. Small in size but mighty in flavour, the crunchy Quke will become the best part of this smashed salad. When paired with veggie potstickers and garlic chilli oil, you’ll be savouring each and every bite. Compliments to the Qukes we say!\nThis recipe is under 650kcal per serving.",
+  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. Small in size but mighty in flavour, the crunchy Quke will become the best part of this smashed salad. When paired with veggie potstickers and garlic chilli oil, you’ll be savouring each and every bite. Compliments to the Qukes we say! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-potstickers-and-sesame-miso-smashed-quke-salad-67e0fc0df8f6928425d5c084",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W19_AUS_Main_high-e32b6244.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 437,
+    "proteinG": 14.7,
+    "carbsG": 56.3,
+    "fatG": 22.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

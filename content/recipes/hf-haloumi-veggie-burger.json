@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/561dedecfd2cb94e668b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 696,
+    "proteinG": 32.3,
+    "carbsG": 71.3,
+    "fatG": 27.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -87,21 +93,21 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel the sweet potato and cut into 2 cm pieces. Grate the haloumi and zucchini and squeeze out any extra moisture. Finely chop the parsley and thinly slice the green apple."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel the sweet potato and cut into 2 cm pieces. Grate the haloumi and zucchini and squeeze out any extra moisture. Finely chop the parsley and thinly slice the green apple."
     },
     {
       "text": "• Place the sweet potato in a large saucepan and cover with water. Bring to the boil and cook for 10-15 minutes or until tender. Drain and run under cold water to cool. Drain really well and return to a saucepan. Mash the sweet potato using a fork or potato masher. Measure out 1/4 cup of sweet potato mash for every patty that you will need (1 pattie per person) and place it in a medium bowl. Stir through the zucchini, haloumi, sunflower seeds, parsley and flour. Season generously with salt and pepper and shape into patties.\n• Tip: Cooked mashed potato will keep in the fridge for up to 3 days or in the freezer for up to 1 month.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/561dedecfd2cb94e668b4567/step_564d648315589.jpg"
     },
     {
-      "text": "• Heat a medium frying pan over a medium-high heat. Add a drizzle of olive oil and cook the patties for 3-4 minutes on each side or until golden.",
+      "text": "Heat a medium frying pan over a medium-high heat. Add a drizzle of olive oil and cook the patties for 3-4 minutes on each side or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/561dedecfd2cb94e668b4567/step_564d64835978d.jpg"
     },
     {
-      "text": "• Meanwhile, pop the par-baked sourdough buns in the oven to heat up. They will need about 5 minutes. Remove the buns from the oven and cut them in half."
+      "text": "Meanwhile, pop the par-baked sourdough buns in the oven to heat up. They will need about 5 minutes. Remove the buns from the oven and cut them in half."
     },
     {
-      "text": "• To assemble the burger, top the base of the burger buns with the sweet potato pattie, a small handful of mixed salad leaves, green apple slices and mayonnaise. Serve any remaining mixed salad leaves on the side."
+      "text": "To assemble the burger, top the base of the burger buns with the sweet potato pattie, a small handful of mixed salad leaves, green apple slices and mayonnaise. Serve any remaining mixed salad leaves on the side."
     }
   ]
 }

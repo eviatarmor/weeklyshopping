@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Veggie Potstickers & Sesame-Miso Salad",
   "subtitle": "with Garlic Chilli Oil & Crispy Shallots",
-  "description": "Flavour is guaranteed in this Asian fusion dish. With veggie potstickers, miso rainbow salad and an easy garlic chilli oil, this\numami dish easily gets our tick of approval.\nThis recipe is under 650kcal per serving.",
+  "description": "Flavour is guaranteed in this Asian fusion dish. With veggie potstickers, miso rainbow salad and an easy garlic chilli oil, this umami dish easily gets our tick of approval. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-potstickers-and-sesame-miso-salad-67f8537a4264524ca9794b6d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/672834ee16186c0f34b4f74d-11768c14-a6c568d4.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 444,
+    "proteinG": 15,
+    "carbsG": 57.6,
+    "fatG": 22.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/670d2d443b0f0624956a18fd-1dbf7337.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 685,
+    "proteinG": 37.4,
+    "carbsG": 61.7,
+    "fatG": 33.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -138,7 +144,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-670d2d443b0f0624956a18fd-d98bd897.jpeg"
     },
     {
-      "text": "• In a large bowl, combine roasted sweet potato, apple/pear, cucumber, mixed salad leaves and miso dressing. Season to taste.",
+      "text": "In a large bowl, combine roasted sweet potato, apple/pear, cucumber, mixed salad leaves and miso dressing. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-670d2d443b0f0624956a18fd-f3a4f857.jpeg"
     },
     {

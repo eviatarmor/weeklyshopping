@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5695d7d4f8b25e42638b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 712,
+    "proteinG": 27.6,
+    "carbsG": 54.8,
+    "fatG": 41.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -81,22 +87,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely slice the red cabbage and measure the required amount. Juice the lime. Cut the spicy tofu into thick slices. Slice the avocado and finely slice the long red chilli. Pick the coriander leaves.",
+      "text": "To prepare the ingredients, finely slice the red cabbage and measure the required amount. Juice the lime. Cut the spicy tofu into thick slices. Slice the avocado and finely slice the long red chilli. Pick the coriander leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5695d7d4f8b25e42638b4567/step_5695d95d93b0c.jpg"
     },
     {
-      "text": "• Combine the red cabbage, half of the olive oil and the lime juice in a large bowl. Season with salt and pepper and set aside.",
+      "text": "Combine the red cabbage, half of the olive oil and the lime juice in a large bowl. Season with salt and pepper and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5695d7d4f8b25e42638b4567/step_5695d95db3483.jpg"
     },
     {
-      "text": "• Heat a lightly greased medium frying pan over a medium-high heat. Add the spicy tofu and cook, stirring for 1-2 minutes, or until golden.",
+      "text": "Heat a lightly greased medium frying pan over a medium-high heat. Add the spicy tofu and cook, stirring for 1-2 minutes, or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5695d7d4f8b25e42638b4567/step_5695d95dc62ac.jpg"
     },
     {
-      "text": "• Meanwhile, heat the mini tortillas in a microwave or sandwich press."
+      "text": "Meanwhile, heat the mini tortillas in a microwave or sandwich press."
     },
     {
-      "text": "• Divide the tortillas between plates. Top with the avocado, cabbage mixture, tofu, coriander, mango mayonnaise and fresh long red chilli.",
+      "text": "Divide the tortillas between plates. Top with the avocado, cabbage mixture, tofu, coriander, mango mayonnaise and fresh long red chilli.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5695d7d4f8b25e42638b4567/step_5695d95ddf51f.jpg"
     }
   ]

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/556554d0fd2cb9fd578b4568.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 497,
+    "proteinG": 13.6,
+    "carbsG": 46.8,
+    "fatG": 24.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -89,19 +95,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced."
+      "text": "Preheat the oven to 200°C/180°C fan-forced."
     },
     {
-      "text": "• To prepare the ingredients, finely chop the red onion, grate the zucchini and carrot (peeled), and dice the tomato. Cut the tortillas into triangular quarters, the avocado into cubes, and the lime into wedges. Drain and rinse the red kidney beans. Pick the coriander leaves for garnish."
+      "text": "To prepare the ingredients, finely chop the red onion, grate the zucchini and carrot (peeled), and dice the tomato. Cut the tortillas into triangular quarters, the avocado into cubes, and the lime into wedges. Drain and rinse the red kidney beans. Pick the coriander leaves for garnish."
     },
     {
-      "text": "• Heat the olive oil in a frying pan over a medium-high heat. Add the red onion and cook for 5 minutes, or until soft. Add the HelloFresh Mexican spice mix and cook stirring for 1 minute or until fragrant. Add the red kidney beans, zucchini, carrot, and tomato and cook for 5 minutes, or until the vegetables are tender."
+      "text": "Heat the olive oil in a frying pan over a medium-high heat. Add the red onion and cook for 5 minutes, or until soft. Add the HelloFresh Mexican spice mix and cook stirring for 1 minute or until fragrant. Add the red kidney beans, zucchini, carrot, and tomato and cook for 5 minutes, or until the vegetables are tender."
     },
     {
-      "text": "• Meanwhile, brush the tortillas with some oil (or use an oil spray if you have one) and lay out flat on a baking tray. Cook in the oven for 5-6 minutes or until golden and crisp."
+      "text": "Meanwhile, brush the tortillas with some oil (or use an oil spray if you have one) and lay out flat on a baking tray. Cook in the oven for 5-6 minutes or until golden and crisp."
     },
     {
-      "text": "• To serve, divide tortillas, bean mixture, avocado, lime, and coriander between bowls."
+      "text": "To serve, divide tortillas, bean mixture, avocado, lime, and coriander between bowls."
     }
   ]
 }

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5aa8b1e230006c45507ed4e2-2c8613a1.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 650,
+    "proteinG": 24.3,
+    "carbsG": 39.3,
+    "fatG": 42
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -121,27 +127,27 @@
   ],
   "steps": [
     {
-      "text": "• Drain the **sweetcorn**. Grate the **zucchini** to get **1 cup for 2 people / 2 cups for 4 people**. Grate the **carrot** to get **1 cup for 2 people / 2 cups for 4 people**. Place the zucchini and carrot in a paper towel and squeeze out the excess moisture. Grate the **haloumi (use suggested amount)**. Finely chop the **long red chilli** (if using). Finely slice the **spring onion** (keep the white and green parts separate). Finely chop the **coriander**.",
+      "text": "Drain the **sweetcorn**. Grate the **zucchini** to get **1 cup for 2 people / 2 cups for 4 people**. Grate the **carrot** to get **1 cup for 2 people / 2 cups for 4 people**. Place the zucchini and carrot in a paper towel and squeeze out the excess moisture. Grate the **haloumi (use suggested amount)**. Finely chop the **long red chilli** (if using). Finely slice the **spring onion** (keep the white and green parts separate). Finely chop the **coriander**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b1e230006c45507ed4e2/step-ddd296c7.jpg"
     },
     {
-      "text": "• In a medium bowl, combine the **sweetcorn, haloumi, zucchini, carrot, long red chilli (if using), plain flour, egg, soy sauce** and the whites of the **spring onion**. Mix well.",
+      "text": "In a medium bowl, combine the **sweetcorn, haloumi, zucchini, carrot, long red chilli (if using), plain flour, egg, soy sauce** and the whites of the **spring onion**. Mix well.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b1e230006c45507ed4e2/step-d6820339.jpg"
     },
     {
-      "text": "• Heat enough **olive oil** to coat the base of a large frying pan over a medium-high heat. Once hot, add **1/4 cup** of the **fritter mixture** and flatten with a spatula. Repeat with the remaining mixture. Cook for **3-4 minutes** on each side, or until golden. **TIP**: Don’t flip early to ensure your fritters can set. You should get 3 fritters per person.  Set the fritters aside on a plate lined with paper towel. **DTIP**: If needed, add **extra oil** so the fritters don’t stick to the pan.",
+      "text": "Heat enough **olive oil** to coat the base of a large frying pan over a medium-high heat. Once hot, add **1/4 cup** of the **fritter mixture** and flatten with a spatula. Repeat with the remaining mixture. Cook for **3-4 minutes** on each side, or until golden. **TIP**: Don’t flip early to ensure your fritters can set. You should get 3 fritters per person. Set the fritters aside on a plate lined with paper towel. **DTIP**: If needed, add **extra oil** so the fritters don’t stick to the pan.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b1e230006c45507ed4e2/step-c8e0b5bc.jpg"
     },
     {
-      "text": "• While the fritters are frying, chop the **cucumber** into 2 cm chunks. In a medium bowl, add the **Thai lime & coriander dressing**.",
+      "text": "While the fritters are frying, chop the **cucumber** into 2 cm chunks. In a medium bowl, add the **Thai lime & coriander dressing**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b1e230006c45507ed4e2/step-12a569c8.jpg"
     },
     {
-      "text": "• Add the **rocket, cucumber** and the greens of the **spring onion** to the bowl with the dressing and toss to coat. **DTIP:** Do this just before serving to avoid soggy leaves.",
+      "text": "Add the **rocket, cucumber** and the greens of the **spring onion** to the bowl with the dressing and toss to coat. **DTIP:** Do this just before serving to avoid soggy leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b1e230006c45507ed4e2/step-5557673b.jpg"
     },
     {
-      "text": "• Divide the sweetcorn and haloumi fritters and cucumber salad between plates. Drizzle with the **sweet chilli sauce** and serve extra on the side for dipping",
+      "text": "Divide the sweetcorn and haloumi fritters and cucumber salad between plates. Drizzle with the **sweet chilli sauce** and serve extra on the side for dipping",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b1e230006c45507ed4e2/step-d83bf7b6.jpg"
     }
   ]

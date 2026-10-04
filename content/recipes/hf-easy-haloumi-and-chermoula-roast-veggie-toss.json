@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Chermoula Haloumi & Rainbow Veggie Toss",
   "subtitle": "with Garlic Drizzle",
-  "description": "A classic and colourful mix of roasted veggies and baby spinach gets a satisfying twist with squeaky haloumi and creamy garlic sauce. It's the perfect recipe for a satisfying low-carb meal!\nThis recipe is under 550kcal per serving and under 40g carbohydrates per serving.",
+  "description": "A classic and colourful mix of roasted veggies and baby spinach gets a satisfying twist with squeaky haloumi and creamy garlic sauce. It's the perfect recipe for a satisfying low-carb meal! This recipe is under 550kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-haloumi-and-chermoula-roast-veggie-toss-665ee07306fad1c074642446",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/665ee23006fad1c07464244b-d038cc80.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 787,
+    "proteinG": 42.8,
+    "carbsG": 33.2,
+    "fatG": 49.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

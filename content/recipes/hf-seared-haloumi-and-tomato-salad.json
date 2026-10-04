@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chutney-Glazed Haloumi & Tomato Salad",
   "subtitle": "with Garlic Sauce & Almonds",
-  "description": "How many haloumi are too many? The answer is you can never have enough of these haloumi! Served with all-time favourites like a capsicum salad and topped with garlic sauce and almonds, it doesn’t get any better than this.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "How many haloumi are too many? The answer is you can never have enough of these haloumi! Served with all-time favourites like a capsicum salad and topped with garlic sauce and almonds, it doesn’t get any better than this. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/lamb-meatballs-and-tomato-salad-67f854c10d0527cba53af0bb",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1037_W39_AU_R15870-9_Main_drizzled__edit_high-df4c8725.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 512,
+    "proteinG": 23.6,
+    "carbsG": 32.2,
+    "fatG": 31.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

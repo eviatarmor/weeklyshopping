@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sri-lankan-coconut-haloumi-curry-ccea55fe.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 939,
+    "proteinG": 27.2,
+    "carbsG": 81.2,
+    "fatG": 54.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

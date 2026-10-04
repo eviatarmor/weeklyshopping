@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1033_W41_AU_R18302-7_main_add_dressing_coriander_edit_high-576d835b.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 466,
+    "proteinG": 9.6,
+    "carbsG": 44.9,
+    "fatG": 27.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

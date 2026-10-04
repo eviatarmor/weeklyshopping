@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Curry-Spiced Corn Fritters",
   "subtitle": "with Sweet Potato Fries & Salad",
-  "description": "Full of flavour, these Indian-spiced corn fritters will be your new dinner hero. Team them up with crunchy sweet potato fries and a fresh side salad for a stellar dinner trifecta.\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as tasty!",
+  "description": "Full of flavour, these Indian-spiced corn fritters will be your new dinner hero. Team them up with crunchy sweet potato fries and a fresh side salad for a stellar dinner trifecta. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious! The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/curry-spiced-corn-fritters-61c41467dcc6747d1e66346f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-spiced-corn-fritters-ce21f83f.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 596,
+    "proteinG": 25.4,
+    "carbsG": 76.6,
+    "fatG": 17.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

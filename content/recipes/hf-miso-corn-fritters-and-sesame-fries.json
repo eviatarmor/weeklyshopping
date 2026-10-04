@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Miso Corn Fritters & Sesame Fries",
   "subtitle": "with Mixed Asian Salad & Roasted Peanuts",
-  "description": "From the crisp fritters and fragrant fries, to the peanutty salad and moreish miso mayo, this plate is so full of\nflavour, you’ll be hard-pressed on what to start eating first.",
+  "description": "From the crisp fritters and fragrant fries, to the peanutty salad and moreish miso mayo, this plate is so full of flavour, you’ll be hard-pressed on what to start eating first.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/miso-corn-fritters-and-sesame-fries-60ee5db0688cb51b194f9af2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/miso-corn-fritters-sesame-fries-031abfc0.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 797,
+    "proteinG": 27.8,
+    "carbsG": 85,
+    "fatG": 34.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-honey-sesame-haloumi-908362a7.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 830,
+    "proteinG": 30.8,
+    "carbsG": 72.3,
+    "fatG": 45.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

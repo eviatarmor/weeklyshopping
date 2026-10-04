@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mumbai Chickpea & Cheddar Pie",
   "subtitle": "with Tomato Salad",
-  "description": "We've brought all the mashed potato goodness and some Mumbai-spiced chickpeas together, to make the pie of a\nlifetime! All you need to finish this one off, is a bright tomato salad!\nThis recipe is under 650kcal per serving.",
+  "description": "We've brought all the mashed potato goodness and some Mumbai-spiced chickpeas together, to make the pie of a lifetime! All you need to finish this one off, is a bright tomato salad! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mumbai-chickpea-cheddar-pie-639a7f9c50c0a56c47002576",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mumbai-chickpea-cheddar-pie-fe5694f8.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 591,
+    "proteinG": 29.1,
+    "carbsG": 86.1,
+    "fatG": 46
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -160,7 +166,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/639a7f9c50c0a56c47002576/step-02ce30a7.jpg"
     },
     {
-      "text": "• Meanwhile, finely chop garlic. Grate carrot. Drain and rinse chickpeas.",
+      "text": "Meanwhile, finely chop garlic. Grate carrot. Drain and rinse chickpeas.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/639a7f9c50c0a56c47002576/step-c4d5b106.jpg"
     },
     {
@@ -176,7 +182,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/639a7f9c50c0a56c47002576/step-fcd96c65.jpg"
     },
     {
-      "text": "• Divide Mumbai chickpea & cheddar pie and tomato salad between plates to serve. Enjoy!",
+      "text": "Divide Mumbai chickpea & cheddar pie and tomato salad between plates to serve. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/639a7f9c50c0a56c47002576/step-196fe0f8.jpg"
     }
   ]

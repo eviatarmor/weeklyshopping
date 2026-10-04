@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cumin-spiced-cauliflower-a2943fef.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 581,
+    "proteinG": 15.9,
+    "carbsG": 42.5,
+    "fatG": 36.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -96,25 +102,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200ºC/180ºC fan-forced. To prepare the ingredients, rinse the pearl barley well, cut the cauliflower into florets, slice the red onion and lemon into wedges, and pick and roughly chop the parsley. Peel and crush the garlic, dice the tomato, pick the mint leaves, and crumble the fetta cheese."
+      "text": "Preheat the oven to 200ºC/180ºC fan-forced. To prepare the ingredients, rinse the pearl barley well, cut the cauliflower into florets, slice the red onion and lemon into wedges, and pick and roughly chop the parsley. Peel and crush the garlic, dice the tomato, pick the mint leaves, and crumble the fetta cheese."
     },
     {
-      "text": "• Add the pearl barley to a large saucepan of salted water and bring to the boil. Cook, stirring occasionally, for 25 minutes, or until soft in texture but slightly chewy. You may need to add more boiling water if it runs dry. Drain the pearl barley once it’s cooked and rinse in warm water. Set aside."
+      "text": "Add the pearl barley to a large saucepan of salted water and bring to the boil. Cook, stirring occasionally, for 25 minutes, or until soft in texture but slightly chewy. You may need to add more boiling water if it runs dry. Drain the pearl barley once it’s cooked and rinse in warm water. Set aside."
     },
     {
-      "text": "• Meanwhile, toss the cauliflower and red onion in a third of the olive oil, cumin and a grind of salt and pepper. Lay out on a lined oven tray and cook in the oven for 25 minutes, until golden.",
+      "text": "Meanwhile, toss the cauliflower and red onion in a third of the olive oil, cumin and a grind of salt and pepper. Lay out on a lined oven tray and cook in the oven for 25 minutes, until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c12db4348d25c722e2472-2-0-91ac96c2.jpg"
     },
     {
-      "text": "• Blend the parsley with the garlic and the remaining olive oil in a small food processor or blender (if you don’t have a blender you can achieve similar results by bashing the ingredients in a mortar and pestle). Set the dressing aside.",
+      "text": "Blend the parsley with the garlic and the remaining olive oil in a small food processor or blender (if you don’t have a blender you can achieve similar results by bashing the ingredients in a mortar and pestle). Set the dressing aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c12db4348d25c722e2472-3-0-8d258fe2.jpg"
     },
     {
-      "text": "• In a large bowl, toss the cooked pearl barley with the tomato, mint, fetta cheese and remaining parsley. Stir through the dressing and season to taste.",
+      "text": "In a large bowl, toss the cooked pearl barley with the tomato, mint, fetta cheese and remaining parsley. Stir through the dressing and season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c12db4348d25c722e2472-4-0-b75452b3.jpg"
     },
     {
-      "text": "• To serve, divide the pearl barley salad between the plates, top with the baked cauliflower and onion and serve with lemon wedges."
+      "text": "To serve, divide the pearl barley salad between the plates, top with the baked cauliflower and onion and serve with lemon wedges."
     }
   ]
 }

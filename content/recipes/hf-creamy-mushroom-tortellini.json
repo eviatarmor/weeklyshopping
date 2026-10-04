@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Mushroom Tortellini",
   "subtitle": "Youfoodz | Ready in 5 | Serves 2 or 4",
-  "description": "Ready to heat bundles perfect for on-the-go evenings. No prep. No fuss and no washing up. \n2 people subscriptions will receive 2 x single serve meals\n4 people subscriptions will receive 4 x single serve meals",
+  "description": "Ready to heat bundles perfect for on-the-go evenings. No prep. No fuss and no washing up. 2 people subscriptions will receive 2 x single serve meals 4 people subscriptions will receive 4 x single serve meals",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-mushroom-tortellini-6362de13b2dc01615a0e9d48",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6362de13b2dc01615a0e9d48-234e42f1.jpg",
   "servings": 2,
   "prepMinutes": 5,
+  "nutrition": {
+    "kcal": 466,
+    "proteinG": 15.8,
+    "carbsG": 38.3,
+    "fatG": 27.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

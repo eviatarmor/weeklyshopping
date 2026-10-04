@@ -4,7 +4,7 @@ import { blendTree, expandIngredients, type BlendRecipe, type IngredientRow } fr
 import { normalizeName } from "@/shared/normalize";
 import { parseIngredient } from "@/shared/parse-ingredient";
 import { bulletLines, htmlToText } from "../../scripts/lib/common.ts";
-import { measure } from "@/shared/measure";
+import { correctedKcal, measure } from "@/shared/measure";
 import { recipeSource } from "@/shared/sources";
 import { addQuantities, formatQty, normalizeUnit } from "@/shared/units";
 
@@ -213,5 +213,18 @@ describe("htmlToText / bulletLines (importer cleanup)", () => {
   it("keeps one bullet per sentence-ending line", () => {
     expect(bulletLines("Grate carrot.\nDrain sweetcorn.")).toBe("• Grate carrot.\n• Drain sweetcorn.");
     expect(bulletLines("Just one step.")).toBe("Just one step.");
+  });
+});
+
+describe("correctedKcal", () => {
+  it("fixes kilojoules published as calories, using the macros", () => {
+    expect(correctedKcal(2550, { proteinG: 19.4, carbsG: 107, fatG: 8.6 })).toBe(609);
+  });
+  it("keeps real calorie figures", () => {
+    expect(correctedKcal(699, { proteinG: 30, carbsG: 60, fatG: 35 })).toBe(699);
+    expect(correctedKcal(345)).toBe(345);
+  });
+  it("treats implausible single-serving values as kJ when there are no macros", () => {
+    expect(correctedKcal(2420)).toBe(578);
   });
 });

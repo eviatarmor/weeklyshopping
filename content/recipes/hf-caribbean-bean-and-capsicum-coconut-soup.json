@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Caribbean Bean & Capsicum Coconut Soup",
   "subtitle": "with Roasted Sweet Potato & Green Beans",
-  "description": "Channel the flavours of the Caribbean into a hearty soup with kidney beans and roasted sweet potato.\nCapsicum, green beans, lime, coconut and Caribbean spices bring loads of flavour and tropical vibes too. \nThis recipe is under 650kcal per serving.",
+  "description": "Channel the flavours of the Caribbean into a hearty soup with kidney beans and roasted sweet potato. Capsicum, green beans, lime, coconut and Caribbean spices bring loads of flavour and tropical vibes too. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/caribbean-bean-and-capsicum-coconut-soup-64632b6c4c69436021079cf7",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-bean-capsicum-coconut-soup-553551d8.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 745,
+    "proteinG": 27.3,
+    "carbsG": 69.5,
+    "fatG": 39.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

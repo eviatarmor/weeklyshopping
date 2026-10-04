@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Mushroom & Rosemary Fettuccine",
   "subtitle": "with Parmesan & Parsley",
-  "description": "Meaty mushrooms work a treat with aromatic rosemary and a silky, Parmesan-spiked sauce in this crowd-pleasing pasta dish. Serve with a sprinkling of parsley and lemon to cut through the richness and meet your new go-to vegetarian dish.\nDue to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
+  "description": "Meaty mushrooms work a treat with aromatic rosemary and a silky, Parmesan-spiked sauce in this crowd-pleasing pasta dish. Serve with a sprinkling of parsley and lemon to cut through the richness and meet your new go-to vegetarian dish. Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-mushroom-and-rosemary-fettuccine-67f853854264524ca9794bc8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66e3adb0e6df74d078e4689b-27eae850-b7df4561.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1020,
+    "proteinG": 32.2,
+    "carbsG": 106,
+    "fatG": 50.3
+  },
   "tags": [
     "hellofresh",
     "italian",

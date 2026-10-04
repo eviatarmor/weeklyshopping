@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Herby Tomato Lentil & Roast Veggie Stew",
   "subtitle": "with Garlic Dippers",
-  "description": "Herby tomato lentils, roast veggie goodness and garlic dippers. Here is another plant-based fave to hit\nyour dinner table! \nThis recipe is under 650kcal per serving.",
+  "description": "Herby tomato lentils, roast veggie goodness and garlic dippers. Here is another plant-based fave to hit your dinner table! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/herby-tomato-lentil-and-roast-veggie-stew-64e2c08edd7d57f2ca82c08c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64e2c08edd7d57f2ca82c08c-2bbec2cc.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 599,
+    "proteinG": 29.7,
+    "carbsG": 77.7,
+    "fatG": 15.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

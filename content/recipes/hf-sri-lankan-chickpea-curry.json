@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sri-lankan-chickpea-curry-c48b2e27.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 740,
+    "proteinG": 23.1,
+    "carbsG": 106.2,
+    "fatG": 34.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

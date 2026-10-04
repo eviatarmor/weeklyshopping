@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56554d5bf8b25e410d8b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 554,
+    "proteinG": 26.9,
+    "carbsG": 49.5,
+    "fatG": 24.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -80,18 +86,18 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato into fries (unpeeled). Finely shred the red cabbage and measure out the require amount. Halve the tofu pieces. Peel and grate the carrot. Finely slice the spring onions, and juice the lemon."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato into fries (unpeeled). Finely shred the red cabbage and measure out the require amount. Halve the tofu pieces. Peel and grate the carrot. Finely slice the spring onions, and juice the lemon."
     },
     {
-      "text": "• Toss the sweet potato fries in half of the olive oil and place on one of two lined oven trays. Season with salt and pepper. Add the BBQ tofu to the other tray. Place both trays in the oven for 35 minutes or until the sweet potato is tender. Turn the tofu halfway through cooking.",
+      "text": "Toss the sweet potato fries in half of the olive oil and place on one of two lined oven trays. Season with salt and pepper. Add the BBQ tofu to the other tray. Place both trays in the oven for 35 minutes or until the sweet potato is tender. Turn the tofu halfway through cooking.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56554d5bf8b25e410d8b4567/step_56554d5c46235.jpg"
     },
     {
-      "text": "• Meanwhile, in a large bowl combine the red cabbage, carrot and spring onion. In a small bowl combine the lemon juice, yoghurt, and Dijon mustard. Stir the yoghurt dressing through the coleslaw mix. Season generously with salt and pepper. Set aside.",
+      "text": "Meanwhile, in a large bowl combine the red cabbage, carrot and spring onion. In a small bowl combine the lemon juice, yoghurt, and Dijon mustard. Stir the yoghurt dressing through the coleslaw mix. Season generously with salt and pepper. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56554d5bf8b25e410d8b4567/step_56554d5c593c0.jpg"
     },
     {
-      "text": "• To serve, divide the slaw, tofu and sweet potato fries between plates."
+      "text": "To serve, divide the slaw, tofu and sweet potato fries between plates."
     }
   ]
 }

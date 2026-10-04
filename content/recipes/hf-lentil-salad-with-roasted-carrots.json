@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55f0c1a1fd2cb9f16b8b4568.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 392,
+    "proteinG": 16.3,
+    "carbsG": 22.5,
+    "fatG": 23.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -89,19 +95,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel the carrots and cut into batons. Finely slice the red onion and finely chop the parsley. Drain and rinse the lentils, and juice the lemon."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel the carrots and cut into batons. Finely slice the red onion and finely chop the parsley. Drain and rinse the lentils, and juice the lemon."
     },
     {
-      "text": "• Toss the carrots in half of the olive oil and place in a single layer on a lined oven tray. Season with salt and pepper. Cook in the oven for 25 minutes or until the carrots are tender and golden."
+      "text": "Toss the carrots in half of the olive oil and place in a single layer on a lined oven tray. Season with salt and pepper. Cook in the oven for 25 minutes or until the carrots are tender and golden."
     },
     {
-      "text": "• Meanwhile, heat the remaining oil in a medium frying pan over a medium-high heat. Add the red onion and cook, stirring, for 3 minutes or until the onion is soft. Add the cumin and cook, stirring, for 1 minute or until fragrant. Add the lentils and cook for 1-2 minutes, stirring, or until heated through. Add the lemon juice and then remove from the heat and transfer to a medium bowl."
+      "text": "Meanwhile, heat the remaining oil in a medium frying pan over a medium-high heat. Add the red onion and cook, stirring, for 3 minutes or until the onion is soft. Add the cumin and cook, stirring, for 1 minute or until fragrant. Add the lentils and cook for 1-2 minutes, stirring, or until heated through. Add the lemon juice and then remove from the heat and transfer to a medium bowl."
     },
     {
-      "text": "• Add the carrots, parsley, mixed salad leaves and almonds to the lentil mixture and toss to combine well. Season to taste with salt and pepper."
+      "text": "Add the carrots, parsley, mixed salad leaves and almonds to the lentil mixture and toss to combine well. Season to taste with salt and pepper."
     },
     {
-      "text": "• Divide the carrot and lentil salad between plates. Dot with the fresh goat’s curd to serve."
+      "text": "Divide the carrot and lentil salad between plates. Dot with the fresh goat’s curd to serve."
     }
   ]
 }

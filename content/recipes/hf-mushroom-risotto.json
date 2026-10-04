@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5554284cf8b25e5d0c8b456b.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 722,
+    "proteinG": 16.7,
+    "carbsG": 83.9,
+    "fatG": 30.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -102,26 +108,26 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely dice the onion and slice the mushrooms. Peel and crush the garlic. Finely chop the parsley and finely grate the Parmesan cheese."
+      "text": "To prepare the ingredients, finely dice the onion and slice the mushrooms. Peel and crush the garlic. Finely chop the parsley and finely grate the Parmesan cheese."
     },
     {
-      "text": "• In a large pot, add the vegetable stock powder and the boiling water, then place over a low heat to keep warm.",
+      "text": "In a large pot, add the vegetable stock powder and the boiling water, then place over a low heat to keep warm.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5554284cf8b25e5d0c8b456b/step_556ead640172b.jpg"
     },
     {
-      "text": "• In a large saucepan, heat the olive oil over a medium heat and sauté the brown onion for 5 minutes or until soft. Add the arborio rice, coat the grains and toast for 1 minute. Pour in the dry white wine, sprinkle in half of the mushrooms and cook for 2 minutes until the wine reduces slightly. Add a ladle of hot vegetable stock and stir continuously until the stock has been absorbed and then add another ladle. Repeat this process for approximately 25-30 minutes or until the rice is cooked ‘al dente’.",
+      "text": "In a large saucepan, heat the olive oil over a medium heat and sauté the brown onion for 5 minutes or until soft. Add the arborio rice, coat the grains and toast for 1 minute. Pour in the dry white wine, sprinkle in half of the mushrooms and cook for 2 minutes until the wine reduces slightly. Add a ladle of hot vegetable stock and stir continuously until the stock has been absorbed and then add another ladle. Repeat this process for approximately 25-30 minutes or until the rice is cooked ‘al dente’.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5554284cf8b25e5d0c8b456b/step_556ead6425816.jpg"
     },
     {
-      "text": "• Meanwhile, heat the butter in a frying pan over a medium heat. Add the garlic, the remaining mushrooms and a pinch of salt. Cook for about 5 minutes, stirring occasionally until the mushrooms are brown and juicy. Add in half of the parsley.",
+      "text": "Meanwhile, heat the butter in a frying pan over a medium heat. Add the garlic, the remaining mushrooms and a pinch of salt. Cook for about 5 minutes, stirring occasionally until the mushrooms are brown and juicy. Add in half of the parsley.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5554284cf8b25e5d0c8b456b/step_5695d693546a1.jpg"
     },
     {
-      "text": "• Scrape the mushrooms and any pan juices into the risotto, taste and season accordingly. Then add half of the Parmesan cheese and stir well.",
+      "text": "Scrape the mushrooms and any pan juices into the risotto, taste and season accordingly. Then add half of the Parmesan cheese and stir well.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5554284cf8b25e5d0c8b456b/step_556ead645b80c.jpg"
     },
     {
-      "text": "• Divide the risotto between bowls and sprinkle with the remaining Parmesan cheese and parsley."
+      "text": "Divide the risotto between bowls and sprinkle with the remaining Parmesan cheese and parsley."
     }
   ]
 }

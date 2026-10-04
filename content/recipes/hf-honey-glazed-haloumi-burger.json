@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey-Glazed Haloumi Burger",
   "subtitle": "with Dill-Parsley Sauce & Corn Cob",
-  "description": "Serve up a hearty meat-free burger with a golden \"patty\" of haloumi that's coated in a sweet honey glaze! We've added our\nfamous dill and parsley mayo and a tangy mixed leaves salad to turn this easy dinner into a taste sensation.",
+  "description": "Serve up a hearty meat-free burger with a golden \"patty\" of haloumi that's coated in a sweet honey glaze! We've added our famous dill and parsley mayo and a tangy mixed leaves salad to turn this easy dinner into a taste sensation.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-glazed-haloumi-burger-63e1f9c79321cb88550e8147",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66d6c6d84857643468f67768-a083e0a5.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 1021,
+    "proteinG": 37,
+    "carbsG": 89.8,
+    "fatG": 54.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

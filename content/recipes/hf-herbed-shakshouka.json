@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56fc9dd2f8b25e882d8b4567.jpg",
   "servings": 5,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 600,
+    "proteinG": 33.3,
+    "carbsG": 48.8,
+    "fatG": 26.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -112,10 +118,10 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 220°C/200°C fan-forced. To prepare the ingredients, finely chop the onion and crush the garlic. Cut the capsicum into 2 cm cubes. Finely chop the oregano. Drain and rinse the chickpeas. Wash the spinach. Crumble the fetta."
+      "text": "Preheat the oven to 220°C/200°C fan-forced. To prepare the ingredients, finely chop the onion and crush the garlic. Cut the capsicum into 2 cm cubes. Finely chop the oregano. Drain and rinse the chickpeas. Wash the spinach. Crumble the fetta."
     },
     {
-      "text": "• Heat the olive oil in a large ovenproof frying pan over a medium-high heat. Add the red onion and cook for 3-4 minutes until soft. Add the garlic, red capsicum and half the oregano. Cook on high for 5 minutes, stirring regularly. Add the diced tomatoes, brown sugar, hot water and chickpeas. Bring to the boil, then lower the heat and simmer for  8 minutes. Stir through the baby spinach in the last 5 minutes and then season to taste with salt and pepper. Remove the pan from the heat.\n• Tip: If you don’t have an ovenproof frying pan, transfer the mixture to a large baking dish.",
+      "text": "• Heat the olive oil in a large ovenproof frying pan over a medium-high heat. Add the red onion and cook for 3-4 minutes until soft. Add the garlic, red capsicum and half the oregano. Cook on high for 5 minutes, stirring regularly. Add the diced tomatoes, brown sugar, hot water and chickpeas. Bring to the boil, then lower the heat and simmer for 8 minutes. Stir through the baby spinach in the last 5 minutes and then season to taste with salt and pepper. Remove the pan from the heat.\n• Tip: If you don’t have an ovenproof frying pan, transfer the mixture to a large baking dish.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56fc9dd2f8b25e882d8b4567/step_56fca0c267f60.jpg"
     },
     {
@@ -123,7 +129,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56fc9dd2f8b25e882d8b4567/step_56fca0c2afca9.jpg"
     },
     {
-      "text": "• Remove the shakshouka from the oven and allow it to cool slightly. Sprinkle with the remaining oregano and serve with the warm bread rolls."
+      "text": "Remove the shakshouka from the oven and allow it to cool slightly. Sprinkle with the remaining oregano and serve with the warm bread rolls."
     }
   ]
 }

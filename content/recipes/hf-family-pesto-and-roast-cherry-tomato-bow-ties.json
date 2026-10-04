@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56981f70fd2cb9401a8b4568.jpg",
   "servings": 5,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 746,
+    "proteinG": 23.3,
+    "carbsG": 93.7,
+    "fatG": 30.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -78,11 +84,11 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, halve the cherry tomatoes. Roughly chop the broccolini and walnuts. Grate the Parmesan cheese.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, halve the cherry tomatoes. Roughly chop the broccolini and walnuts. Grate the Parmesan cheese.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56981f70fd2cb9401a8b4568/step_569820785616d.jpg"
     },
     {
-      "text": "• Toss the cherry tomatoes in the balsamic vinegar and the olive oil and place on a lined oven tray. Season with salt and pepper. Cook in the oven for 20 minutes or until blistered.",
+      "text": "Toss the cherry tomatoes in the balsamic vinegar and the olive oil and place on a lined oven tray. Season with salt and pepper. Cook in the oven for 20 minutes or until blistered.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56981f70fd2cb9401a8b4568/step_569820786b2f4.jpg"
     },
     {
@@ -90,7 +96,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56981f70fd2cb9401a8b4568/step_5698207896e27.jpg"
     },
     {
-      "text": "• Combine the farfalle pasta, traditional pesto, pasta water, broccolini and roasted tomatoes. Garnish with the crunchy walnuts and Parmesan cheese."
+      "text": "Combine the farfalle pasta, traditional pesto, pasta water, broccolini and roasted tomatoes. Garnish with the crunchy walnuts and Parmesan cheese."
     }
   ]
 }

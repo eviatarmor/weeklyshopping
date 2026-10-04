@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Rustic Roasted Veg & Pearl Couscous",
   "subtitle": "with Kale, Marinated Goat Cheese & Almonds",
-  "description": "It's easy to get your veg in when you roast them with our garlic and herb seasoning... and even easier when they're teamed with delightfully doughy, perfectly dressed pearl couscous, not to mention the MVP: marinated goat cheese for creaminess and tang.\nThis recipe is under 550kcal per serving.",
+  "description": "It's easy to get your veg in when you roast them with our garlic and herb seasoning... and even easier when they're teamed with delightfully doughy, perfectly dressed pearl couscous, not to mention the MVP: marinated goat cheese for creaminess and tang. This recipe is under 550kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/rustic-roasted-veg-and-pearl-couscous-6671474cbc5e6cd914c30b3d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6671474cbc5e6cd914c30b3d-1cff7e9f.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 527,
+    "proteinG": 20.1,
+    "carbsG": 66.5,
+    "fatG": 18.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Asian BBQ Roast Pumpkin Slaw",
   "subtitle": "with Crunchy Noodles & Japanese Dressing",
-  "description": "Keeping the calories in check has never been so tasty as it is in this dish! Asian BBQ-spiced pumpkin does the most with crunchy noodles and when paired with some stellar additions, how could anyone pass up on this delight?\nDue to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just\nfollow your recipe card!",
+  "description": "Keeping the calories in check has never been so tasty as it is in this dish! Asian BBQ-spiced pumpkin does the most with crunchy noodles and when paired with some stellar additions, how could anyone pass up on this delight? Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/asian-bbq-roast-pumpkin-slaw-67f85e5acade9b9f0ace8c82",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W34_AU_R14573-9_edit_Main_high-4646920e.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 453,
+    "proteinG": 7.5,
+    "carbsG": 31.9,
+    "fatG": 32.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

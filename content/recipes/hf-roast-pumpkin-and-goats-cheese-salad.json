@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Pumpkin & Goats Cheese Salad",
   "subtitle": "with Creamy Pesto & Garlic-Herb Croutons",
-  "description": "The best salads are a combination of flavours, textures and colours – and with golden roasted pumpkin, herby croutons,\nearthy beetroot and creamy goats cheese, this salad ticks all the boxes.",
+  "description": "The best salads are a combination of flavours, textures and colours – and with golden roasted pumpkin, herby croutons, earthy beetroot and creamy goats cheese, this salad ticks all the boxes.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-pumpkin-and-goats-cheese-salad-5df9b325682ef641205860d9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-butternut-pumpkin-goat-cheese-salad-c8e6edd6.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 661,
+    "proteinG": 20.5,
+    "carbsG": 64.6,
+    "fatG": 32.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

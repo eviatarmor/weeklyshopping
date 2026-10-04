@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Lentil Jacket Potatoes",
   "subtitle": "with Garden Salad, Cheddar & Sour Cream",
-  "description": "Give hearty lentils a boost of flavour by cooking them with a good dose of garlic, plus juicy sweetcorn and our crowd-pleasing\nTex-Mex spice blend. The result is your new favourite topping for jacket potatoes. Comfort on a plate!\nThis recipe is under 650kcal per serving.",
+  "description": "Give hearty lentils a boost of flavour by cooking them with a good dose of garlic, plus juicy sweetcorn and our crowd-pleasing Tex-Mex spice blend. The result is your new favourite topping for jacket potatoes. Comfort on a plate! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-lentil-jacket-potatoes-62d6269306119018f600d942",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65adb486553f74890680db50-897ab2c5.jpeg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 648,
+    "proteinG": 33.4,
+    "carbsG": 73.8,
+    "fatG": 21
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Cherry Tomato & Ricotta Baked Pasta",
   "subtitle": "with Baby Broccoli Salad",
-  "description": "Colder weather calls for hearty, warming pasta bakes and tonight's iteration calls for penne, spicy cherry tomatoes and double the cheese (we're talking Cheddar and creamy ricotta). Pop that in the oven while you whip up a baby broccoli salad and you have yourself the perfect winter meal. \nWe’ve replaced the fusilli in this recipe with penne due to local ingredient availability. It may be a little different to what’s pictured, but just as delicious!",
+  "description": "Colder weather calls for hearty, warming pasta bakes and tonight's iteration calls for penne, spicy cherry tomatoes and double the cheese (we're talking Cheddar and creamy ricotta). Pop that in the oven while you whip up a baby broccoli salad and you have yourself the perfect winter meal. We’ve replaced the fusilli in this recipe with penne due to local ingredient availability. It may be a little different to what’s pictured, but just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/veg-gourmet-spicy-cherry-tomato-baked-ziti-style-pasta-67f85379cade9b9f0ace45ec",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1038_W21_AUS_MAIN_high-38e37979.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 802,
+    "proteinG": 32.1,
+    "carbsG": 96.2,
+    "fatG": 29.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

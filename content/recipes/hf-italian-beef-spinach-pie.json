@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Italian Plant-Based Beef & Spinach Pie",
   "subtitle": "with Potato Topping & Parmesan",
-  "description": "We've brought all the mashed potato goodness and some tomatoey and herby 'beef' together, to make the pie of a lifetime! After this one comes out of the oven all golden and crispy, all you need is a knife and fork to dig in!\nThis recipe is under 650kcal per serving.",
+  "description": "We've brought all the mashed potato goodness and some tomatoey and herby 'beef' together, to make the pie of a lifetime! After this one comes out of the oven all golden and crispy, all you need is a knife and fork to dig in! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/italian-beef-spinach-pie-640e8b782613debd710ff826",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/italian-beef-spinach-pie-fcb464d2.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 711,
+    "proteinG": 46.8,
+    "carbsG": 35.6,
+    "fatG": 41.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -135,7 +141,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475cab85b0a022153045c33/step-0196a93d.jpg"
     },
     {
-      "text": "• Divide Italian 'beef' and spinach pie with cheesy potato topping between plates to serve. Enjoy",
+      "text": "Divide Italian 'beef' and spinach pie with cheesy potato topping between plates to serve. Enjoy",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475cab85b0a022153045c33/step-901896fe.jpg"
     }
   ]

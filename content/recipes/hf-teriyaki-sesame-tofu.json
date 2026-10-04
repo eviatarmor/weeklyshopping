@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Teriyaki & Sesame Tofu",
   "subtitle": "with Garlic Rice",
-  "description": "Keen to lift your stir-fry game? The trick is to prep all your ingredients before you start cooking, then crank up the heat and\nflash-fry everything in batches, adding the sauce right at the end. Master the technique with this teriyaki tofu dish!\nUnfortunately, this week's lime was in short supply. Some customers will receive lemon instead of lime. Don't worry, the recipe will be just as delicious!",
+  "description": "Keen to lift your stir-fry game? The trick is to prep all your ingredients before you start cooking, then crank up the heat and flash-fry everything in batches, adding the sauce right at the end. Master the technique with this teriyaki tofu dish! Unfortunately, this week's lime was in short supply. Some customers will receive lemon instead of lime. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/teriyaki-sesame-tofu-5d8acd062443210a9a06f221",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/teriyaki-sesame-tofu-49c41dac.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 768,
+    "proteinG": 26.9,
+    "carbsG": 91.2,
+    "fatG": 29.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

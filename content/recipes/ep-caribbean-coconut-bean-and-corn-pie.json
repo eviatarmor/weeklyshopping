@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-coconut-bean-corn-pie-5a7e6e35.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 578,
+    "proteinG": 22.9,
+    "carbsG": 68.6,
+    "fatG": 18.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -115,7 +121,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62da3c5beae9fe0d48004ff0/step-d5340994.jpg"
     },
     {
-      "text": "• Divide Caribbean coconut black bean & corn pie between plates.",
+      "text": "Divide Caribbean coconut black bean & corn pie between plates.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62da3c5beae9fe0d48004ff0/step-d49f142f.jpg"
     }
   ]

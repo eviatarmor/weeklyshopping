@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-japanese-tofu-tacos-837e609e.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 856,
+    "proteinG": 30.2,
+    "carbsG": 74.6,
+    "fatG": 45.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,7 +114,7 @@
   ],
   "steps": [
     {
-      "text": "• Finely chop the garlic. Cut the Japanese tofu into 1cm cubes. Grate the carrot. Slice the pear into matchsticks.",
+      "text": "Finely chop the garlic. Cut the Japanese tofu into 1cm cubes. Grate the carrot. Slice the pear into matchsticks.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/609a0019c368d9583e6d6bdb/step-83e3e5ea.jpg"
     },
     {
@@ -116,19 +122,19 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/609a0019c368d9583e6d6bdb/step-d48102e6.jpg"
     },
     {
-      "text": "• In a small bowl, combine the garlic, honey, katsu paste, mixed sesame seeds and a dash of water.",
+      "text": "In a small bowl, combine the garlic, honey, katsu paste, mixed sesame seeds and a dash of water.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/609a0019c368d9583e6d6bdb/step-286115ee.jpg"
     },
     {
-      "text": "• In a medium frying pan, heat a drizzle of olive oil over a medium-high heat. Cook the tofu, tossing, until browned, 2-4 minutes. Add the katsu glaze and cook until slightly sticky, 1-2 minutes.",
+      "text": "In a medium frying pan, heat a drizzle of olive oil over a medium-high heat. Cook the tofu, tossing, until browned, 2-4 minutes. Add the katsu glaze and cook until slightly sticky, 1-2 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/609a0019c368d9583e6d6bdb/step-005ef4e2.jpg"
     },
     {
-      "text": "• While the tofu is cooking, microwave the mini flour tortillas on a plate for 10 second bursts, until warmed through.",
+      "text": "While the tofu is cooking, microwave the mini flour tortillas on a plate for 10 second bursts, until warmed through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/609a0019c368d9583e6d6bdb/step-601495fa.jpg"
     },
     {
-      "text": "• Add the pear to the creamy slaw and toss to combine. Finely chop the long red chilli (if using). Take everything to the table. Top the tortillas with slaw, carrot, tofu and chilli. Sprinkle with crispy shallots.",
+      "text": "Add the pear to the creamy slaw and toss to combine. Finely chop the long red chilli (if using). Take everything to the table. Top the tortillas with slaw, carrot, tofu and chilli. Sprinkle with crispy shallots.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/609a0019c368d9583e6d6bdb/step-96b9b91b.jpg"
     }
   ]

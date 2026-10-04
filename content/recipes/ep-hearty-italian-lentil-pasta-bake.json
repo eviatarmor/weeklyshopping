@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6665c0dceb556d0bf27f27bf-e0dbec8c.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 1069,
+    "proteinG": 58.1,
+    "carbsG": 134.6,
+    "fatG": 26.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -129,7 +135,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6665c0dceb556d0bf27f27bf-3bf25082.jpeg"
     },
     {
-      "text": "• Divide hearty Italian lentil pasta bake and salad between plates.",
+      "text": "Divide hearty Italian lentil pasta bake and salad between plates.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6665c0dceb556d0bf27f27bf-00d83811.jpeg"
     }
   ]

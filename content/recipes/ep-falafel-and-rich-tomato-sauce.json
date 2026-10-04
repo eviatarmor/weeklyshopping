@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Falafel & Rich Tomato Sauce",
   "subtitle": "with Couscous & Salsa",
-  "description": "We've got your dinner in a flash! This meat-free delight is not only full flavour it's simple to make and it will be on your table in 20 minutes flat.\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as tasty!",
+  "description": "We've got your dinner in a flash! This meat-free delight is not only full flavour it's simple to make and it will be on your table in 20 minutes flat. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious! The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/falafel-and-rich-tomato-sauce-61c41349b18e00052a322f7a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-spiced-tomato-sauce-9301c041.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 760,
+    "proteinG": 25.9,
+    "carbsG": 93.7,
+    "fatG": 26.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

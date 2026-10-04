@@ -7,6 +7,8 @@ import { PageHeader } from "@/client/components/page-header";
 import { Chip, Segmented, Skeleton, Stars, Thumb } from "@/client/components/ui/misc";
 import { useTRPC, type RouterOutputs } from "@/client/lib/trpc";
 import { sizedImage } from "@/client/lib/images";
+import { Energy } from "@/client/features/recipes/energy";
+import { Recommended } from "@/client/features/recipes/recommended";
 
 const searchSchema = z.object({
   kind: z.enum(["meal", "blend"]).optional().catch(undefined),
@@ -158,6 +160,8 @@ function RecipesPage() {
         )}
       </PageHeader>
 
+      {kind === "meal" && !query && !tag && !source && <Recommended />}
+
       <div className="grid grid-cols-2 gap-3 px-4 pt-1 pb-6">
         {isPending && Array.from({ length: 6 }, (_, i) => <Skeleton key={i} className="aspect-[4/5]" />)}
         {visible.slice(0, shown).map((r) => (
@@ -184,6 +188,7 @@ function RecipesPage() {
                   </span>
                 )}
               </div>
+              <Energy kcal={r.kcal} className="text-xs text-muted-foreground [&_svg]:size-3" />
             </div>
           </Link>
         ))}

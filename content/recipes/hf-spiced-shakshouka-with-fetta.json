@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/556556ba4dab71a0698b456b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 750,
+    "proteinG": 35.2,
+    "carbsG": 39.7,
+    "fatG": 47.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -106,19 +112,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180ºC fan forced."
+      "text": "Preheat the oven to 200°C/180ºC fan forced."
     },
     {
-      "text": "• To prepare the ingredients, finely dice the red onion and capsicum, finely slice the long chilli, and finely chop the oregano and parsley. Peel and crush the garlic. Crumble the fetta."
+      "text": "To prepare the ingredients, finely dice the red onion and capsicum, finely slice the long chilli, and finely chop the oregano and parsley. Peel and crush the garlic. Crumble the fetta."
     },
     {
-      "text": "• In a large oven-proof pan or saucepan add the olive oil and heat over a medium-high heat. Add the red onion, garlic, long chilli, HelloFresh Cumin, brown sugar, capsicum, oregano, and half of the parsley, then cook on high for 5 minutes, or until the onion is soft. Add the diced tomatoes and a dash of hot water (not too much, we don’t want to make it soupy)! Lower the heat and simmer for 15 minutes and add more water to prevent it from drying out. Season to taste with salt and pepper."
+      "text": "In a large oven-proof pan or saucepan add the olive oil and heat over a medium-high heat. Add the red onion, garlic, long chilli, HelloFresh Cumin, brown sugar, capsicum, oregano, and half of the parsley, then cook on high for 5 minutes, or until the onion is soft. Add the diced tomatoes and a dash of hot water (not too much, we don’t want to make it soupy)! Lower the heat and simmer for 15 minutes and add more water to prevent it from drying out. Season to taste with salt and pepper."
     },
     {
-      "text": "• With a spoon make a little well in the sauce and crack one of the eggs into the well, repeat until you have added all of the eggs. Sprinkle the fetta cheese over the top and place into the oven for 7-10 minutes, or until the egg whites have set. If you don’t have an oven proof pan, you can simply just leave the shakshouka on the stove and cover it with a lid instead for the same amount of time. This is a great time to place your bread rolls into the oven as well. Bake for 5-8 minutes or until toasty."
+      "text": "With a spoon make a little well in the sauce and crack one of the eggs into the well, repeat until you have added all of the eggs. Sprinkle the fetta cheese over the top and place into the oven for 7-10 minutes, or until the egg whites have set. If you don’t have an oven proof pan, you can simply just leave the shakshouka on the stove and cover it with a lid instead for the same amount of time. This is a great time to place your bread rolls into the oven as well. Bake for 5-8 minutes or until toasty."
     },
     {
-      "text": "• Serve the shakshouka straight from the oven sprinkled with the remaining parsley and served with the warm bread rolls"
+      "text": "Serve the shakshouka straight from the oven sprinkled with the remaining parsley and served with the warm bread rolls"
     }
   ]
 }

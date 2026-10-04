@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Mexican Bean Enchiladas",
   "subtitle": "with Charred Corn Salsa",
-  "description": "Bursting with spicy beans and melty Cheddar cheese, these enchiladas are failproof and a heap of fun. Topped with a juicy corn\nsalsa, and of course, sour cream, meet your new go-to Mexican meal.",
+  "description": "Bursting with spicy beans and melty Cheddar cheese, these enchiladas are failproof and a heap of fun. Topped with a juicy corn salsa, and of course, sour cream, meet your new go-to Mexican meal.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-mexican-bean-enchiladas-60f663579aeace22817cb258",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5cdb9d979d40d20009797e90-cfd9c09e.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 750,
+    "proteinG": 28.7,
+    "carbsG": 88.4,
+    "fatG": 29.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

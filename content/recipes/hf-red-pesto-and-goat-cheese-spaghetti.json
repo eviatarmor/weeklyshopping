@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-caramelised-cherry-tomato-linguine-a5a00ad5.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 844,
+    "proteinG": 24.1,
+    "carbsG": 84.4,
+    "fatG": 43.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -95,11 +101,11 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 220°C/200°C fan-forced. Place the cherry tomatoes, balsamic vinegar and olive oil (1 tbs for 2 people / 2 tbs for 4 people) on an oven tray lined with baking paper. Season with salt and pepper and toss to combine. Roast on the top oven rack until blistered, 15-20 minutes.",
+      "text": "Preheat the oven to 220°C/200°C fan-forced. Place the cherry tomatoes, balsamic vinegar and olive oil (1 tbs for 2 people / 2 tbs for 4 people) on an oven tray lined with baking paper. Season with salt and pepper and toss to combine. Roast on the top oven rack until blistered, 15-20 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5abb40a230006c40a56b2ae2/step-4425d8e1.jpg"
     },
     {
-      "text": "• While the cherry tomatoes are roasting, bring a large saucepan of salted water to the boil. Finely chop the garlic (or use a garlic press). Pick and thinly slice the basil leaves.",
+      "text": "While the cherry tomatoes are roasting, bring a large saucepan of salted water to the boil. Finely chop the garlic (or use a garlic press). Pick and thinly slice the basil leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5abb40a230006c40a56b2ae2/step-eb5932b3.jpg"
     },
     {
@@ -115,7 +121,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5abb40a230006c40a56b2ae2/step-5e844621.jpg"
     },
     {
-      "text": "• Divide the red pesto spaghetti between bowls and crumble over the remaining goat cheese.",
+      "text": "Divide the red pesto spaghetti between bowls and crumble over the remaining goat cheese.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5abb40a230006c40a56b2ae2/step-e1fa203c.jpg"
     }
   ]

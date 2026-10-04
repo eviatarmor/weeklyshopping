@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66f529268add623f422150b8-6a91a146-062704e3.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 587,
+    "proteinG": 22.4,
+    "carbsG": 49.2,
+    "fatG": 30.7
+  },
   "tags": [
     "everyplate",
     "australian",

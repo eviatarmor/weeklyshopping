@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R4026_W40_AU_EP15682-4_Main_remove_sesame_seeds_edit_high-10405bec.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 806,
+    "proteinG": 37.9,
+    "carbsG": 58.4,
+    "fatG": 44.9
+  },
   "tags": [
     "everyplate",
     "japanese",

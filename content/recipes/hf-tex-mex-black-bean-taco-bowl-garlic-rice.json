@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Tex-Mex Black Bean Taco Bowl & Garlic Rice",
   "subtitle": "with Charred Corn Salsa & Pickled Jalapenos",
-  "description": "Tacos in a bowl might sound a little far-fetched but we’ve done the impossible. A saucy black bean mix spiced with our popular\nTex-Mex spice and cooled down by garlic-infused rice. What taco dish is complete without a salsa so whip up one in no time with\ncharred corn and cucumber. Add the tortilla chips and there you have it, tacos in a bowl!",
+  "description": "Tacos in a bowl might sound a little far-fetched but we’ve done the impossible. A saucy black bean mix spiced with our popular Tex-Mex spice and cooled down by garlic-infused rice. What taco dish is complete without a salsa so whip up one in no time with charred corn and cucumber. Add the tortilla chips and there you have it, tacos in a bowl!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/tex-mex-black-bean-taco-bowl-garlic-rice-63731802119b77e3270fde68",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tex-mex-black-bean-taco-bowl-garlic-rice-b5ea8a2f.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 993,
+    "proteinG": 34.8,
+    "carbsG": 155.1,
+    "fatG": 18.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

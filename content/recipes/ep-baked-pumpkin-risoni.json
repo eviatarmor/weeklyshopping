@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Herby Mushroom & Spinach Risoni",
   "subtitle": "with Parmesan & Almonds",
-  "description": "It's risoni season again and we've got our bowls ready! Hearty mushrooms plus fragrant garlic give this cheesy bowl a flavour boost and the sprinkling of golden almonds on top takes it to the next level!\nWe’ve replaced the arborio rice in this recipe with risoni due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "It's risoni season again and we've got our bowls ready! Hearty mushrooms plus fragrant garlic give this cheesy bowl a flavour boost and the sprinkling of golden almonds on top takes it to the next level! We’ve replaced the arborio rice in this recipe with risoni due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/baked-pumpkin-risoni-6620d524607542c1f3dcc331",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6620d524607542c1f3dcc331-be8dc503.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 537,
+    "proteinG": 16.2,
+    "carbsG": 81.7,
+    "fatG": 16.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",

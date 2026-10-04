@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Spiced Cauliflower Toss & Cheesy Croutons",
   "subtitle": "with Onion Chutney, Herby Mayo & Almonds",
-  "description": "Toss a trayful of perfectly spiced veg with peppery greens and caramelised onion chutney. Top with Parmesan-spiked croutons, our dill and parsley mayo for creaminess, plus almonds for extra crunch, and you have a vego dish sure to win everyone over. \nThis recipe is under 650kcal per serving.\nThe recent flooding\non the East Coast of\nAustralia has impacted\nour regular supply of\nfresh ingredients and as\nsuch, what you receive\nmay be slightly different\nto what’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "Toss a trayful of perfectly spiced veg with peppery greens and caramelised onion chutney. Top with Parmesan-spiked croutons, our dill and parsley mayo for creaminess, plus almonds for extra crunch, and you have a vego dish sure to win everyone over. This recipe is under 650kcal per serving. The recent flooding on the East Coast of Australia has impacted our regular supply of fresh ingredients and as such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/spiced-cauliflower-toss-and-cheesy-croutons-62158a1740eebf452833f26b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spiced-cauliflower-toss-cheesy-croutons-b0465458.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 545,
+    "proteinG": 17.1,
+    "carbsG": 59.5,
+    "fatG": 26
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

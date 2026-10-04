@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Miso-Glazed Pumpkin & Crunchy Rainbow Salad",
   "subtitle": "with Creamy Dressing & Pickled Ginger",
-  "description": "This crunchy rainbow salad has flavour, texture and colour, leaving no box unticked. A superstar salad this good, deserves some equally sensational company, so welcome to the plate; miso-glazed pumpkin. You can thank us later!\nThis recipe is under 650kcal per serving.\nDue to local availability, we’ve replaced some of your ingredients. They\nmay be a little different to what’s pictured, but just as delicious!",
+  "description": "This crunchy rainbow salad has flavour, texture and colour, leaving no box unticked. A superstar salad this good, deserves some equally sensational company, so welcome to the plate; miso-glazed pumpkin. You can thank us later! This recipe is under 650kcal per serving. Due to local availability, we’ve replaced some of your ingredients. They may be a little different to what’s pictured, but just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/miso-glazed-pumpkin-and-crunchy-rainbow-salad-66ebbbf58e45e3ca008631fe",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66ebbbf58e45e3ca008631fe-65b9928e.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 560,
+    "proteinG": 12.1,
+    "carbsG": 46.8,
+    "fatG": 34.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

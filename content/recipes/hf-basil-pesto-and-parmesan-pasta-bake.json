@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66ebbc630f7b9c1397d66d5c-24904bfa.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 913,
+    "proteinG": 27.7,
+    "carbsG": 78.6,
+    "fatG": 52.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -112,7 +118,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67159cc4ffa4e28ccb95b0f0-72ea20bd.jpeg"
     },
     {
-      "text": "• While pasta is baking, in a medium bowl, combine mixed salad leaves, snacking tomatoes, roasted almonds, balsamic vinaigrette dressing and a drizzle of olive oil. Season to taste.",
+      "text": "While pasta is baking, in a medium bowl, combine mixed salad leaves, snacking tomatoes, roasted almonds, balsamic vinaigrette dressing and a drizzle of olive oil. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67159cc4ffa4e28ccb95b0f0-e72b1e08.jpeg"
     },
     {

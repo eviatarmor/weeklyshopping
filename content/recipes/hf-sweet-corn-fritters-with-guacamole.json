@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5643df03f8b25e222e8b4567.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 452,
+    "proteinG": 13.4,
+    "carbsG": 38.6,
+    "fatG": 25.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,19 +114,19 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, lightly whisk the free-range egg. Husk and shuck the corn. Finely dice the red capsicum, finely slice the spring onion, and finely chop the coriander. Mash the avocado and juice the lemon."
+      "text": "To prepare the ingredients, lightly whisk the free-range egg. Husk and shuck the corn. Finely dice the red capsicum, finely slice the spring onion, and finely chop the coriander. Mash the avocado and juice the lemon."
     },
     {
-      "text": "• Whisk together the milk, free-range egg, plain flour, and paprika in a large bowl. Add the corn, red capsicum, and spring onion. Season with salt and pepper. Mix well. Your mixture should be sticky and hold together like pancake mixture - if it’s too runny or dry, add more flour or milk, a little at a time until you get the desired consistency."
+      "text": "Whisk together the milk, free-range egg, plain flour, and paprika in a large bowl. Add the corn, red capsicum, and spring onion. Season with salt and pepper. Mix well. Your mixture should be sticky and hold together like pancake mixture - if it’s too runny or dry, add more flour or milk, a little at a time until you get the desired consistency."
     },
     {
-      "text": "• Heat the olive oil in a non-stick frying pan over a medium heat. Place 2 tablespoons of the mixture in the pan for each fritter. Cook in batches. Cook them for 2-3 minutes or until the base is golden. Flip and then cook until golden and cooked through. Drain on paper towel lined plate, cover and keep warm as you cook the remaining fritters - add more oil to the pan if necessary."
+      "text": "Heat the olive oil in a non-stick frying pan over a medium heat. Place 2 tablespoons of the mixture in the pan for each fritter. Cook in batches. Cook them for 2-3 minutes or until the base is golden. Flip and then cook until golden and cooked through. Drain on paper towel lined plate, cover and keep warm as you cook the remaining fritters - add more oil to the pan if necessary."
     },
     {
-      "text": "• In a bowl, combine the avocado and coriander. Give it a good squeeze of lemon juice and season to your liking with salt, pepper and a little olive oil."
+      "text": "In a bowl, combine the avocado and coriander. Give it a good squeeze of lemon juice and season to your liking with salt, pepper and a little olive oil."
     },
     {
-      "text": "• Serve the fritters with the guacamole, tomato chutney and mixed salad leaves. Drizzle the mixed leaves with a little olive oil and lemon juice, if you like."
+      "text": "Serve the fritters with the guacamole, tomato chutney and mixed salad leaves. Drizzle the mixed leaves with a little olive oil and lemon juice, if you like."
     }
   ]
 }

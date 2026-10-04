@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chilli-sin-carne-4a711389.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1101,
+    "proteinG": 34.9,
+    "carbsG": 111.8,
+    "fatG": 53.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

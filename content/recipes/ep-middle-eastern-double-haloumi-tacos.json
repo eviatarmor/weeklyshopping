@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6567ba2fa66012fd8aa15ea5-37caa4d8-9ed0b3cc.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 972,
+    "proteinG": 43.3,
+    "carbsG": 60.5,
+    "fatG": 61.8
+  },
   "tags": [
     "everyplate",
     "fusion cuisine",

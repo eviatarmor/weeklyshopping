@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6552f8954c741be7da5dda95-350551ef.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 801,
+    "proteinG": 22.9,
+    "carbsG": 84.9,
+    "fatG": 40.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -98,7 +104,7 @@
   ],
   "steps": [
     {
-      "text": "• Halve snacking tomatoes.",
+      "text": "Halve snacking tomatoes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6552f8954c741be7da5dda95-49482bd7.jpeg"
     },
     {

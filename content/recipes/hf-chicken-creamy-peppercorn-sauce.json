@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Chick'n & Creamy Peppercorn Sauce",
   "subtitle": "with Potato Mash & Nutty Veggies",
-  "description": "Add some wow factor to your weeknight dinner by whipping up this rich and elegant peppercorn sauce. It works a treat on the\nseared chick'n, buttery mash and the almond-adorned roasted veg.",
+  "description": "Add some wow factor to your weeknight dinner by whipping up this rich and elegant peppercorn sauce. It works a treat on the seared chick'n, buttery mash and the almond-adorned roasted veg.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chicken-creamy-peppercorn-sauce-604ed3d2eda8d46ad32da478",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chicken-creamy-peppercorn-sauce-5cc72074.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 865,
+    "proteinG": 23.9,
+    "carbsG": 51,
+    "fatG": 62.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

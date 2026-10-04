@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Chickpea, Tomato & Spinach Curry",
   "subtitle": "with Buttered-Cashew Rice, Garlic Naan & Yoghurt",
-  "description": "This golden bowl of goodness has everything you need to feel cosy and satisfied, with chickpeas and veggies cooked in a creamy, mildly\nspiced sauce plus a cooling mint yoghurt to finish it off.",
+  "description": "This golden bowl of goodness has everything you need to feel cosy and satisfied, with chickpeas and veggies cooked in a creamy, mildly spiced sauce plus a cooling mint yoghurt to finish it off.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-chickpea-tomato-spinach-curry-634c8020561750610e0c4a33",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-chickpea-tomato-spinach-curry-4c767e48.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1092,
+    "proteinG": 35.5,
+    "carbsG": 163,
+    "fatG": 51.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

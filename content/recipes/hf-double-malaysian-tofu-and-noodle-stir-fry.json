@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W45_AU_R5250-6_Main_high-c7d620d5.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 625,
+    "proteinG": 29.2,
+    "carbsG": 61.1,
+    "fatG": 26.7
+  },
   "tags": [
     "hellofresh",
     "asian",

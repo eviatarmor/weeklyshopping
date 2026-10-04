@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/565542754dab71155c8b4567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 449,
+    "proteinG": 15.9,
+    "carbsG": 33.9,
+    "fatG": 26.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -116,23 +122,23 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, lightly whisk the egg. Husk and shuck the corn. Finely dice the red capsicum and birdseye chilli. Finely slice the spring onions and finely chop the coriander. Mash the avocado. Juice the lime and wash the mixed salad leaves.",
+      "text": "To prepare the ingredients, lightly whisk the egg. Husk and shuck the corn. Finely dice the red capsicum and birdseye chilli. Finely slice the spring onions and finely chop the coriander. Mash the avocado. Juice the lime and wash the mixed salad leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565542754dab71155c8b4567/step_565544268e045.jpg"
     },
     {
-      "text": "• Whisk together the milk, egg, plain flour, and paprika in a large bowl. Add the corn, red capsicum, and spring onion. Season with salt and pepper. Mix well. Your mixture should be sticky and hold together like pancake mixture - if it’s too runny or dry, add more flour or milk, a little at a time until you get the desired consistency.",
+      "text": "Whisk together the milk, egg, plain flour, and paprika in a large bowl. Add the corn, red capsicum, and spring onion. Season with salt and pepper. Mix well. Your mixture should be sticky and hold together like pancake mixture - if it’s too runny or dry, add more flour or milk, a little at a time until you get the desired consistency.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565542754dab71155c8b4567/step_56554426aca04.jpg"
     },
     {
-      "text": "• Heat the olive oil in a non-stick frying pan over a medium heat. Place 2 tablespoons of the mixture in the pan for each fritter. Cook in batches. Cook them for 2-3 minutes or until the base is golden. Flip and then cook until golden and cooked through. Drain on paper towel lined plate, cover with foil and keep warm as you cook the remaining fritters - add more oil to the pan if necessary.",
+      "text": "Heat the olive oil in a non-stick frying pan over a medium heat. Place 2 tablespoons of the mixture in the pan for each fritter. Cook in batches. Cook them for 2-3 minutes or until the base is golden. Flip and then cook until golden and cooked through. Drain on paper towel lined plate, cover with foil and keep warm as you cook the remaining fritters - add more oil to the pan if necessary.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565542754dab71155c8b4567/step_56554426bceb0.jpg"
     },
     {
-      "text": "• In a bowl, combine the avocado, yoghurt, birdseye chilli, and coriander. Give it a good squeeze of lime juice and season to your liking with salt, pepper and a little olive oil.",
+      "text": "In a bowl, combine the avocado, yoghurt, birdseye chilli, and coriander. Give it a good squeeze of lime juice and season to your liking with salt, pepper and a little olive oil.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565542754dab71155c8b4567/step_56554426d28b1.jpg"
     },
     {
-      "text": "• Serve the fritters with the guacamole and mixed salad leaves. Drizzle the mixed leaves with a little olive oil, if you like."
+      "text": "Serve the fritters with the guacamole and mixed salad leaves. Drizzle the mixed leaves with a little olive oil, if you like."
     }
   ]
 }

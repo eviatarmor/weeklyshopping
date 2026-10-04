@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chermoula Chickpea & Coconut Soup",
   "subtitle": "with Roast Pumpkin & Coriander",
-  "description": "Turn a veggie soup into a mouthwatering meal by simmering creamy coconut milk with chickpeas and our\ncumin, paprika and turmeric-laced chermoula spice blend. Just before serving, stir through a trayful of earthy\nroasted veg, plus greens for an extra pop of colour. Don't forget the coriander garnish for a bright finish.\nThis recipe is under 650kcal per serving.",
+  "description": "Turn a veggie soup into a mouthwatering meal by simmering creamy coconut milk with chickpeas and our cumin, paprika and turmeric-laced chermoula spice blend. Just before serving, stir through a trayful of earthy roasted veg, plus greens for an extra pop of colour. Don't forget the coriander garnish for a bright finish. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-chermoula-chickpea-soup-62bbed2bd3552d84c9015f54",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6510dfb59706eaeddf635176-3bd11630.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 570,
+    "proteinG": 23.4,
+    "carbsG": 63.5,
+    "fatG": 21.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -144,11 +150,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6510dfb59706eaeddf635176-51e9af44.jpeg"
     },
     {
-      "text": "• Add the water, coconut milk, vegetable stock powder and the brown sugar. Stir to combine, bring to a simmer, then cook until slightly reduced, 3-5 minutes.",
+      "text": "Add the water, coconut milk, vegetable stock powder and the brown sugar. Stir to combine, bring to a simmer, then cook until slightly reduced, 3-5 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6510dfb59706eaeddf635176-2f704300.jpeg"
     },
     {
-      "text": "• Remove saucepan from the heat. Add roasted veggies and baby spinach leaves, gently stirring until combined.",
+      "text": "Remove saucepan from the heat. Add roasted veggies and baby spinach leaves, gently stirring until combined.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6510dfb59706eaeddf635176-142b854f.jpeg"
     },
     {

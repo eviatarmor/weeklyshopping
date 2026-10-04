@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sesame-Crumbed Tofu & Soy Veggies",
   "subtitle": "with Ginger Rice & Peanuts",
-  "description": "You've never had tofu like this before! The sesame seed and panko coating gets lovely and golden in the pan, with the sesame\nadding a mild nutty flavour and aroma. Jazz up the rice with zingy ginger, add some peanuts for crunch, and you have a\nvegetarian dish that will exceed everyone's expectations!\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!\nUnfortunately, this week’s Asian greens were in short supply, so some customers will receive shredded cabbage instead. Don’t worry, the recipe will be just as delicious, just be sure to follow your recipe card!",
+  "description": "You've never had tofu like this before! The sesame seed and panko coating gets lovely and golden in the pan, with the sesame adding a mild nutty flavour and aroma. Jazz up the rice with zingy ginger, add some peanuts for crunch, and you have a vegetarian dish that will exceed everyone's expectations! The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious! Unfortunately, this week’s Asian greens were in short supply, so some customers will receive shredded cabbage instead. Don’t worry, the recipe will be just as delicious, just be sure to follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sesame-crumbed-tofu-soy-greens-61949aa97d68f737b70b1755",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sesame-crumbed-chicken-5f31ffb3.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 910,
+    "proteinG": 37.2,
+    "carbsG": 86.1,
+    "fatG": 44.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

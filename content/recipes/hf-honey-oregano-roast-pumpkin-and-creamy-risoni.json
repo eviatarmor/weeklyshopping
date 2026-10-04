@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65794488a65f6d71569fba9b-08e684dd.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 685,
+    "proteinG": 24.1,
+    "carbsG": 98.3,
+    "fatG": 20.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -128,15 +134,15 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-4308bb84.jpeg"
     },
     {
-      "text": "• While veggies are roasting, finely chop garlic.",
+      "text": "While veggies are roasting, finely chop garlic.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-46860b68.jpeg"
     },
     {
-      "text": "• In a large saucepan, heat a drizzle of olive oil over medium-high heat. Add Nan's special seasoning and garlic and cook until fragrant, 1 minute.",
+      "text": "In a large saucepan, heat a drizzle of olive oil over medium-high heat. Add Nan's special seasoning and garlic and cook until fragrant, 1 minute.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-9f116c5a.jpeg"
     },
     {
-      "text": "• To the saucepan, stir in risoni, vegetable stock pot, light cooking cream and the water. Bring to the boil, then reduce the heat to medium and simmer, stirring occasionally, until the risoni is 'al dente' and the water is absorbed, 12-15 minutes. TIP: Rest risoni, covered, for 5 minutes to thicken. TIP: Add a splash more water if the risoni looks dry!",
+      "text": "To the saucepan, stir in risoni, vegetable stock pot, light cooking cream and the water. Bring to the boil, then reduce the heat to medium and simmer, stirring occasionally, until the risoni is 'al dente' and the water is absorbed, 12-15 minutes. TIP: Rest risoni, covered, for 5 minutes to thicken. TIP: Add a splash more water if the risoni looks dry!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65794488a65f6d71569fba9b-052f8106.jpeg"
     },
     {

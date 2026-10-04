@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55e69fcb4dab716c368b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 684,
+    "proteinG": 18.4,
+    "carbsG": 109,
+    "fatG": 16.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -119,22 +125,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato into 1 cm cubes (unpeeled) and the lemon into wedges. Finely chop the brown onion, chilli (deseeded) and parsley. Peel and crush the garlic. Finely grate the Parmesan cheese and a little extra for garnish."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato into 1 cm cubes (unpeeled) and the lemon into wedges. Finely chop the brown onion, chilli (deseeded) and parsley. Peel and crush the garlic. Finely grate the Parmesan cheese and a little extra for garnish."
     },
     {
-      "text": "• Coat the sweet potato with half of the olive oil and a generous pinch of salt and pepper. Spread out the sweet potato evenly on a lined oven tray and bake in the oven for 20 minutes, or until soft and golden brown."
+      "text": "Coat the sweet potato with half of the olive oil and a generous pinch of salt and pepper. Spread out the sweet potato evenly on a lined oven tray and bake in the oven for 20 minutes, or until soft and golden brown."
     },
     {
-      "text": "• Meanwhile, place the vegetable stock and boiling water in a small saucepan over a low heat to keep warm."
+      "text": "Meanwhile, place the vegetable stock and boiling water in a small saucepan over a low heat to keep warm."
     },
     {
-      "text": "• Heat the butter and remaining olive oil in a medium saucepan over a medium-high heat. Add the brown onion, garlic and birdseye chilli and cook for 2 minutes or until the onion softens. Add the arborio rice and cook for a further 1 minute to coat the rice."
+      "text": "Heat the butter and remaining olive oil in a medium saucepan over a medium-high heat. Add the brown onion, garlic and birdseye chilli and cook for 2 minutes or until the onion softens. Add the arborio rice and cook for a further 1 minute to coat the rice."
     },
     {
-      "text": "• Add 1 cup of the stock mixture and stir continuously until all of the liquid has absorbed. Continue this process of adding 1 cup of stock at a time until all of the stock has absorbed and the rice is ‘al dente.’ Remove from the heat and stir through the Parmesan cheese, baby spinach and roasted sweet potato. Season to taste with salt and pepper."
+      "text": "Add 1 cup of the stock mixture and stir continuously until all of the liquid has absorbed. Continue this process of adding 1 cup of stock at a time until all of the stock has absorbed and the rice is ‘al dente.’ Remove from the heat and stir through the Parmesan cheese, baby spinach and roasted sweet potato. Season to taste with salt and pepper."
     },
     {
-      "text": "• Divide the risotto between bowls, serve with the lemon wedges and garnish with the parsley, sunflower seeds, and extra Parmesan cheese."
+      "text": "Divide the risotto between bowls, serve with the lemon wedges and garnish with the parsley, sunflower seeds, and extra Parmesan cheese."
     }
   ]
 }

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Satay-Style Tofu & Coconut Noodle Soup",
   "subtitle": "with Veggies & Fresh Chilli",
-  "description": "If you want a dish to sing, then we'd recommend getting a load of peanutty tofu and ading it to everything and anything. Tonight, we are pilling it high on a veggie-loaded noodle soup and for an extra kick, we suggest adding some fresh chilli to tie it all together.\nThis recipe is under 650kcal per serving.",
+  "description": "If you want a dish to sing, then we'd recommend getting a load of peanutty tofu and ading it to everything and anything. Tonight, we are pilling it high on a veggie-loaded noodle soup and for an extra kick, we suggest adding some fresh chilli to tie it all together. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/satay-style-tofu-and-coconut-noodle-soup-6576671ca65f6d71569faf93",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66308a8b617c8a08b401a0bf-ca9cafe5.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 649,
+    "proteinG": 22.1,
+    "carbsG": 78.4,
+    "fatG": 26
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

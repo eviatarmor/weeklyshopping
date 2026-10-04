@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mild-veggie-coconut-curry-d42c4281.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 638,
+    "proteinG": 17.7,
+    "carbsG": 56.3,
+    "fatG": 34.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

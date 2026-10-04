@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/smokey-bbq-haloumi-a1ab2fd8.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 923,
+    "proteinG": 41.1,
+    "carbsG": 47.9,
+    "fatG": 63
+  },
   "tags": [
     "vegetarian",
     "everyplate",

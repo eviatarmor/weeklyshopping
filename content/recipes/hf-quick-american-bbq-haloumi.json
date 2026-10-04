@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick American BBQ Haloumi",
   "subtitle": "with Corn Slaw & Sweet Potato Wedges",
-  "description": "Vegetarians don’t need to miss out on the smokey flavours of the American South with this flavour-packed BBQ\nhaloumi, plus all the fixins! Enjoy a taste of the good ol’ USA right here.",
+  "description": "Vegetarians don’t need to miss out on the smokey flavours of the American South with this flavour-packed BBQ haloumi, plus all the fixins! Enjoy a taste of the good ol’ USA right here.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-american-bbq-haloumi-625f91336a7d773f7a3577f4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-american-bbq-haloumi-b4cd9306.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 787,
+    "proteinG": 26.1,
+    "carbsG": 47,
+    "fatG": 53.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/559e15434dab71ed588b4568.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 602,
+    "proteinG": 30,
+    "carbsG": 68,
+    "fatG": 18.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -109,25 +115,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced."
+      "text": "Preheat the oven to 200°C/180°C fan-forced."
     },
     {
-      "text": "• To prepare the ingredients, cut the zucchini into strips and finely chop the red onion. Peel and crush the garlic, and drain and rinse the lentils. Lightly whisk the egg and slice the tomato. Wash the gem lettuce head and chop."
+      "text": "To prepare the ingredients, cut the zucchini into strips and finely chop the red onion. Peel and crush the garlic, and drain and rinse the lentils. Lightly whisk the egg and slice the tomato. Wash the gem lettuce head and chop."
     },
     {
-      "text": "• Place the zucchini fries in a single layer on a lined oven tray and toss in half of the olive oil. Season with salt and pepper. Cook in the oven for 20 minutes or until golden and tender. Add the parbaked sourdough burger buns to the oven for the last 5 minutes."
+      "text": "Place the zucchini fries in a single layer on a lined oven tray and toss in half of the olive oil. Season with salt and pepper. Cook in the oven for 20 minutes or until golden and tender. Add the parbaked sourdough burger buns to the oven for the last 5 minutes."
     },
     {
-      "text": "• Meanwhile, heat the remaining olive oil in a medium frying pan over a medium heat. Add the red onion and cook for 3 minutes or until soft. Add the garlic and tandoori paste. Cook, stirring, for 1 minute or until fragrant."
+      "text": "Meanwhile, heat the remaining olive oil in a medium frying pan over a medium heat. Add the red onion and cook for 3 minutes or until soft. Add the garlic and tandoori paste. Cook, stirring, for 1 minute or until fragrant."
     },
     {
-      "text": "• Place the lentils and the onion mixture in a bowl and mash with a potato masher. Add the breadcrumbs, egg, and plain flour and stir until well combined. Shape into patties (one per person)."
+      "text": "Place the lentils and the onion mixture in a bowl and mash with a potato masher. Add the breadcrumbs, egg, and plain flour and stir until well combined. Shape into patties (one per person)."
     },
     {
-      "text": "• Heat a little olive oil in the same frying pan over a medium-high heat. Cook the patties for 4 minutes on each side or until golden."
+      "text": "Heat a little olive oil in the same frying pan over a medium-high heat. Cook the patties for 4 minutes on each side or until golden."
     },
     {
-      "text": "• To assemble, halve the warm burger buns and layer with the tomato, gem lettuce, and lentil patty. Dollop with the yoghurt and serve with the zucchini chips."
+      "text": "To assemble, halve the warm burger buns and layer with the tomato, gem lettuce, and lentil patty. Dollop with the yoghurt and serve with the zucchini chips."
     }
   ]
 }

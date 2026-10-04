@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Express Japanese-Style Tofu Tacos",
   "subtitle": "with Sesame Cucumber Slaw",
-  "description": "Pile high soft mini tortillas with squeaky, Japanese-style tofu and sesame cucumber slaw for the ultimate midweek delight.\nThese ones are super speedy to make, you can thank us later!\nWe’ve replaced the deluxe salad mix in this recipe with slaw mix due to local ingredient availability. It may be a little different to what’s pictured, but just as delicious!",
+  "description": "Pile high soft mini tortillas with squeaky, Japanese-style tofu and sesame cucumber slaw for the ultimate midweek delight. These ones are super speedy to make, you can thank us later! We’ve replaced the deluxe salad mix in this recipe with slaw mix due to local ingredient availability. It may be a little different to what’s pictured, but just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/japanese-style-tofu-tacos-67f85e7e4264524ca979903d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W35_AU_R13119-4_Main__remove_spring_onion__carrot_edit_high-bac1c71c.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 675,
+    "proteinG": 25.5,
+    "carbsG": 60,
+    "fatG": 34.6
+  },
   "tags": [
     "hellofresh",
     "japanese",

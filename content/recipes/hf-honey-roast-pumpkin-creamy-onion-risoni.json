@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey Roasted Pumpkin & Creamy Leek Risoni",
   "subtitle": "with Gourmet Garden Basil & Fetta",
-  "description": "Gourmet Garden’s Aussie grown basil is lightly dried for a fresher flavour and lasts four weeks once opened. This delectable\ningredient is stirred through creamy, veggie-packed risoni for a herby and hearty meal to dig into!",
+  "description": "Gourmet Garden’s Aussie grown basil is lightly dried for a fresher flavour and lasts four weeks once opened. This delectable ingredient is stirred through creamy, veggie-packed risoni for a herby and hearty meal to dig into!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-roast-pumpkin-creamy-onion-risoni-65cbfb683dbfdc1d2e0c555c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66b2e0fda0c907afd08f524d-554c920a.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 674,
+    "proteinG": 23.1,
+    "carbsG": 98.2,
+    "fatG": 20
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

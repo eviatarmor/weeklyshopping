@@ -11,6 +11,7 @@ import { Button } from "@/client/components/ui/button";
 import { Badge, Segmented, Skeleton, Stars, Thumb } from "@/client/components/ui/misc";
 import { AddToListDrawer } from "@/client/features/recipes/add-to-list-drawer";
 import { BlendTree } from "@/client/features/recipes/blend-tree";
+import { Energy } from "@/client/features/recipes/energy";
 import { MeasureToggle, Quantity } from "@/client/features/recipes/quantity";
 import { useMeasureSystem } from "@/client/lib/preferences";
 import { emojiFor, sizedImage } from "@/client/lib/images";
@@ -31,7 +32,8 @@ function RecipePage() {
 
   const invalidate = () => {
     void qc.invalidateQueries({ queryKey: trpc.recipes.get.queryKey({ slug }) });
-    void qc.invalidateQueries({ queryKey: trpc.recipes.list.queryKey() });
+    // Ratings change the lists and the recommendations.
+    void qc.invalidateQueries(trpc.recipes.pathFilter());
   };
   const rate = useMutation(trpc.recipes.rate.mutationOptions({ onSuccess: invalidate, onError: (e) => toast.error(e.message) }));
   const cooked = useMutation(
@@ -102,6 +104,7 @@ function RecipePage() {
                 <Clock className="size-4" /> {recipe.prepMinutes} min
               </span>
             )}
+            <Energy kcal={recipe.kcal} />
             {avg != null && (
               <span className="flex items-center gap-1">
                 <Stars value={avg} size="sm" /> {avg.toFixed(1)}
@@ -121,6 +124,23 @@ function RecipePage() {
         </div>
 
         {recipe.description && <p className="text-sm leading-relaxed text-muted-foreground">{recipe.description}</p>}
+
+        {recipe.kcal != null && (recipe.proteinG != null || recipe.carbsG != null || recipe.fatG != null) && (
+          <section className="grid grid-cols-4 gap-2 rounded-xl border bg-card p-3 text-center">
+            {[
+              { label: "Energy", value: <Energy kcal={recipe.kcal} className="[&_svg]:hidden" /> },
+              { label: "Protein", value: recipe.proteinG != null ? `${Math.round(recipe.proteinG)} g` : "–" },
+              { label: "Carbs", value: recipe.carbsG != null ? `${Math.round(recipe.carbsG)} g` : "–" },
+              { label: "Fat", value: recipe.fatG != null ? `${Math.round(recipe.fatG)} g` : "–" },
+            ].map((n) => (
+              <div key={n.label}>
+                <div className="text-sm font-semibold">{n.value}</div>
+                <div className="text-[11px] text-muted-foreground">{n.label}</div>
+              </div>
+            ))}
+            <p className="col-span-4 text-[11px] text-muted-foreground">Per serving · estimate from {source.label}</p>
+          </section>
+        )}
 
         {!isBlend && (
           <section className="rounded-xl border bg-card p-4">

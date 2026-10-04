@@ -6,7 +6,8 @@ const recipeModules = import.meta.glob<unknown>(["../../content/recipes/*.json",
 });
 
 export type HashedRecipe = RecipeContent & { hash: string };
-export type Content = { catalog: CatalogEntry[]; catalogHash: string; recipes: HashedRecipe[] };
+/** `version` changes whenever the catalog or any recipe changes; use it as a cache key. */
+export type Content = { catalog: CatalogEntry[]; catalogHash: string; recipes: HashedRecipe[]; version: string };
 
 export function fnv1a(input: string): string {
   let hash = 0x811c9dc5;
@@ -33,7 +34,8 @@ export function loadContent(): Promise<Content> {
         return { ...parsed.data, hash: fnv1a(JSON.stringify(raw)) };
       }),
     );
-    return { catalog, catalogHash: fnv1a(JSON.stringify(catalogJson)), recipes };
+    const catalogHash = fnv1a(JSON.stringify(catalogJson));
+    return { catalog, catalogHash, recipes, version: fnv1a(catalogHash + recipes.map((r) => r.hash).join(",")) };
   })();
   return cached;
 }

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Thai Double Tofu & Pineapple Salad Bowl",
   "subtitle": "with Creamy Sweet Chilli Dressing",
-  "description": "Summer is calling which means we are in charge of providing you with only the freshest of salads that taste delicious in the heat. This salad bowl is no exception - with tender Japanese tofu, charred pineapple and baby capsicum, you’ll be feeling the heat from the sunshine and the fresh chilli!\nWe’ve replaced the baby\ncapsicum in this recipe\nwith tomato due to local\ningredient availability. It’ll\nbe just as delicious, just\nfollow your recipe card!",
+  "description": "Summer is calling which means we are in charge of providing you with only the freshest of salads that taste delicious in the heat. This salad bowl is no exception - with tender Japanese tofu, charred pineapple and baby capsicum, you’ll be feeling the heat from the sunshine and the fresh chilli! We’ve replaced the baby capsicum in this recipe with tomato due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-double-tofu-and-pineapple-salad-bowl-66e3b5afe6df74d078e468e7",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66e3b5afe6df74d078e468e7-34ce6f70.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 664,
+    "proteinG": 32.7,
+    "carbsG": 33.4,
+    "fatG": 42.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

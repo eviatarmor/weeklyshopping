@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/552f366c6ced6e9b3c8b456f.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 564,
+    "proteinG": 13.3,
+    "carbsG": 74.5,
+    "fatG": 19.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -100,11 +106,11 @@
   ],
   "steps": [
     {
-      "text": "• We want to get going on the pasta early as this is going to be a quick one to put together. So bring a large pot of salted water to the boil and add the penne. Cook the penne for 10-11 minutes or until al dente, remembering to stir regularly so the pasta separates. In the last 5 minutes, throw in the trimmed and chopped green beans and cook until just crunchy. Drain the pasta and beans then return to the pot or another bowl, dress with a little olive oil so that pasta doesn’t stick. Allow to cool.",
+      "text": "We want to get going on the pasta early as this is going to be a quick one to put together. So bring a large pot of salted water to the boil and add the penne. Cook the penne for 10-11 minutes or until al dente, remembering to stir regularly so the pasta separates. In the last 5 minutes, throw in the trimmed and chopped green beans and cook until just crunchy. Drain the pasta and beans then return to the pot or another bowl, dress with a little olive oil so that pasta doesn’t stick. Allow to cool.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f366c6ced6e9b3c8b456f/step_556eb550157ba.jpg"
     },
     {
-      "text": "• Heat some olive oil in a pan over a medium-high heat. Add the peeled and crushed garlic and the diced red onion and sauté for 3 minutes. Now add in the halved cherry tomatoes and cook gently for 3 minutes or until the skin of the tomatoes starts to blister. Remove from the pan and add the tomatoes to the pasta bowl. Add the basil and toss well to combine.",
+      "text": "Heat some olive oil in a pan over a medium-high heat. Add the peeled and crushed garlic and the diced red onion and sauté for 3 minutes. Now add in the halved cherry tomatoes and cook gently for 3 minutes or until the skin of the tomatoes starts to blister. Remove from the pan and add the tomatoes to the pasta bowl. Add the basil and toss well to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f366c6ced6e9b3c8b456f/step_556eb5503571b.jpg"
     },
     {

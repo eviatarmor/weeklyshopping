@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/greek-style-chickpea-couscous-bowl-17a35237.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 744,
+    "proteinG": 26.7,
+    "carbsG": 84.9,
+    "fatG": 29.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -22,6 +22,8 @@ export type MealimeRecipe = {
   thumbnail_image_url?: string;
   line_items: LineItem[];
   instructions: Instruction[];
+  /** Per serving; energy is kcal. */
+  nutrition?: { energy?: number; protein?: number; carbs?: number; fat?: number };
 };
 
 export async function fetchMealimeRecipe(url: string): Promise<{ recipe: MealimeRecipe; canonical: string }> {
@@ -107,6 +109,16 @@ export async function convertMealime(recipe: MealimeRecipe, sourceUrl: string, r
     ...(recipe.presentation_image_url || recipe.thumbnail_image_url ? { imageUrl: recipe.presentation_image_url ?? recipe.thumbnail_image_url } : {}),
     servings: recipe.serving_count || 2,
     ...(recipe.cooking_minutes ? { prepMinutes: recipe.cooking_minutes } : {}),
+    ...(recipe.nutrition?.energy
+      ? {
+          nutrition: {
+            kcal: Math.round(recipe.nutrition.energy),
+            ...(recipe.nutrition.protein != null ? { proteinG: Math.round(recipe.nutrition.protein * 10) / 10 } : {}),
+            ...(recipe.nutrition.carbs != null ? { carbsG: Math.round(recipe.nutrition.carbs * 10) / 10 } : {}),
+            ...(recipe.nutrition.fat != null ? { fatG: Math.round(recipe.nutrition.fat * 10) / 10 } : {}),
+          },
+        }
+      : {}),
     tags: ["mealime"],
     aliases: [],
     addedAt: today,

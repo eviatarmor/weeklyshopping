@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlicky-crumbed-haloumi-sweet-potato-fries-6a461151.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 799,
+    "proteinG": 33.7,
+    "carbsG": 60.4,
+    "fatG": 46.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

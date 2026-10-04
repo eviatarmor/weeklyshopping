@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bbq-style-kidney-bean-chilli-salsa-a8df5de6.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 746,
+    "proteinG": 26.6,
+    "carbsG": 72,
+    "fatG": 35.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

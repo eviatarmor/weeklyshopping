@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian Potato & Cauliflower Dhal",
   "subtitle": "with Garlic Tortilla Dippers",
-  "description": "Mild Indian spices work their magic with hearty lentils and creamy coconut milk in your new favourite dhal recipe. Oven-baked tortilla\ndippers work a treat for scooping up the deliciousness.",
+  "description": "Mild Indian spices work their magic with hearty lentils and creamy coconut milk in your new favourite dhal recipe. Oven-baked tortilla dippers work a treat for scooping up the deliciousness.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/indian-potato-and-cauliflower-dhal-66c53d91a0a75acc54a1808a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66c53c2ea0a75acc54a18088-657346d1.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 952,
+    "proteinG": 34.5,
+    "carbsG": 112.7,
+    "fatG": 36.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

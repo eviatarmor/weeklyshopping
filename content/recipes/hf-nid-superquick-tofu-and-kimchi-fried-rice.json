@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Sweet Chilli Tofu & Kimchi Fried Rice",
   "subtitle": "with Asian Greens & Sesame Seeds",
-  "description": "Kimchi - a bold and tangy Korean staple, kimchi is naturally fermented, developing a deep umami flavour with a\nspicy kick. Its punchy crunch adds instant attitude to rice bowls, noodle dishes and anything else in need of a fiery\nlittle upgrade, just like tonight’s pork and fried rice number!",
+  "description": "Kimchi - a bold and tangy Korean staple, kimchi is naturally fermented, developing a deep umami flavour with a spicy kick. Its punchy crunch adds instant attitude to rice bowls, noodle dishes and anything else in need of a fiery little upgrade, just like tonight’s pork and fried rice number!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-superquick-pork-and-kimchi-fried-rice-67f84b67cade9b9f0ace20ab",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1045_W26_AU_R22407-3_MAIN_2_high-39d7d66b.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 583,
+    "proteinG": 26.3,
+    "carbsG": 59.4,
+    "fatG": 25.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

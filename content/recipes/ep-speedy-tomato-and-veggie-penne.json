@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/speedy-tomato-veggie-penne-c21eb57b.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 693,
+    "proteinG": 21.2,
+    "carbsG": 91.4,
+    "fatG": 24.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

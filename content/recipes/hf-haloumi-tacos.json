@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Avocado Tacos",
   "subtitle": "with Cucumber Salad & Smokey Aioli",
-  "description": "This week’s special ingredient is Avocado - creamy, dreamy and packed with goodness! Give your avocado a gentle squeeze - ripe avocados yield slightly but aren’t mushy! If yours is firm, let it ripen on the bench (not the fridge!) until it’s just right. \nWe’ve replaced the\ntomato in this recipe with\nred radish due to local\ningredient availability,\nas a result of the recent\nheavy rainfall. It’ll be just\nas delicious, just follow\nyour recipe card!",
+  "description": "This week’s special ingredient is Avocado - creamy, dreamy and packed with goodness! Give your avocado a gentle squeeze - ripe avocados yield slightly but aren’t mushy! If yours is firm, let it ripen on the bench (not the fridge!) until it’s just right. We’ve replaced the tomato in this recipe with red radish due to local ingredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/crunchy-plant-based-chickn-tacos-67f8441acade9b9f0ace0261",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W23_AUS_Main_high-8ba0d8b1.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 770,
+    "proteinG": 26.9,
+    "carbsG": 51.8,
+    "fatG": 48.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

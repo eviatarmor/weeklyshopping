@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Superquick Caribbean Plant-Based Crumbed Chick'n & Rice",
   "subtitle": "with Chilli Pineapple Salsa & Coconut Mayo",
-  "description": "This Caribbean fusion of flavours are sure to please your taste buds, with a spicy pineapple salsa and golden plant-based crumbed chick'n to complement a bed of fluffy basmati rice. you'll quickly be transported to your happy place.\nWe’ve replaced the tomato in this recipe with red radish due to local ingredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
+  "description": "This Caribbean fusion of flavours are sure to please your taste buds, with a spicy pineapple salsa and golden plant-based crumbed chick'n to complement a bed of fluffy basmati rice. you'll quickly be transported to your happy place. We’ve replaced the tomato in this recipe with red radish due to local ingredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/superquick-caribbean-crumbed-fish-and-rice-67f8514ecade9b9f0ace3b33",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R19_W52_AUS_Main_high-e94f8729.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 891,
+    "proteinG": 24.8,
+    "carbsG": 110,
+    "fatG": 37.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

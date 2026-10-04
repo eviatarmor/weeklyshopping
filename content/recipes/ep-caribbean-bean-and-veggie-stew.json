@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/jerk-spiced-bean-stew-99d75561.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 381,
+    "proteinG": 19.1,
+    "carbsG": 39.2,
+    "fatG": 40.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -111,11 +117,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/635a8dc0dbf153277b091056/step-985cad5b.jpg"
     },
     {
-      "text": "• Remove from heat, and stir in spinach. Stir until wilted. Season to taste.",
+      "text": "Remove from heat, and stir in spinach. Stir until wilted. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/635a8dc0dbf153277b091056/step-11277568.jpg"
     },
     {
-      "text": "• Divide the bean stew between bowls. Sprinkle with flaked almonds to serve.",
+      "text": "Divide the bean stew between bowls. Sprinkle with flaked almonds to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/635a8dc0dbf153277b091056/step-39eaa73a.jpg"
     }
   ]

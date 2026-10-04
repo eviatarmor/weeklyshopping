@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Roast Capsicum Couscous",
   "subtitle": "with Creamy Pesto Dressing",
-  "description": "Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in\nthe pan, while the roast veggies crisp up in the oven. Top it all off with a dollop of creamy pesto dressing and some\nflaked almonds for crunch!\nThis recipe is under 650kcal per serving.",
+  "description": "Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while the roast veggies crisp up in the oven. Top it all off with a dollop of creamy pesto dressing and some flaked almonds for crunch! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-and-roast-capsicum-couscous-6373123d54c769809c0de8b4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-roast-capsicum-couscous-d6733965.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 648,
+    "proteinG": 26.1,
+    "carbsG": 43.1,
+    "fatG": 40.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Caribbean Beans & Coconut Rice",
   "subtitle": "with Tomato-Corn Salsa",
-  "description": "Create a Caribbean-inspired dish by simmering hearty kidney beans with some mild jerk seasoning, garlic and tomato paste. Bring the\nbowl together with fluffy coconut rice and of course, an easy tomato-corn salsa to keep things light and bright.",
+  "description": "Create a Caribbean-inspired dish by simmering hearty kidney beans with some mild jerk seasoning, garlic and tomato paste. Bring the bowl together with fluffy coconut rice and of course, an easy tomato-corn salsa to keep things light and bright.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-caribbean-bean-bowl-67847441f2efe8ce6099162f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67847441f2efe8ce6099162f-a043a5f3.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 951,
+    "proteinG": 31.2,
+    "carbsG": 106,
+    "fatG": 43.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

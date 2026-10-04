@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mild-cauliflower-silverbeet-lentil-dhal-321a4d70-6e20b10b.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 1030,
+    "proteinG": 47.2,
+    "carbsG": 87.6,
+    "fatG": 50.4
+  },
   "tags": [
     "hellofresh",
     "indian",

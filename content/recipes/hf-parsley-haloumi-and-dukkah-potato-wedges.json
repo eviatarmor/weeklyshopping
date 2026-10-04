@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Herby Haloumi & Dukkah Potato Wedges",
   "subtitle": "with Cucumber Salad & Garlic Sauce",
-  "description": "There are plenty of surprises in this meal. With dukkah wedges and parsley haloumi, you get squeak and crispiness, while the cucumber salad provides some freshness. \nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "There are plenty of surprises in this meal. With dukkah wedges and parsley haloumi, you get squeak and crispiness, while the cucumber salad provides some freshness. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/parsley-haloumi-and-dukkah-potato-wedges-652ccfa29014a94c710fba01",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/652ccfa29014a94c710fba01-acf73e08.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 613,
+    "proteinG": 26.7,
+    "carbsG": 36.6,
+    "fatG": 39.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

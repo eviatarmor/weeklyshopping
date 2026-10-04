@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Bengal Chickpea & Veggie Curry",
   "subtitle": "with Garlic Rice & Coriander",
-  "description": "This hearty, Bengali-inspired curry makes the most of mild and warming spices, which are brought together with creamy\ncoconut milk and a healthy sprinkle of vibrant coriander.\nUnfortunately, this\nweek’s chickpeas were\nin short supply, so we’ve\nreplaced them with\nlentils. Don’t worry, the\nrecipe will be just as\ndelicious, just be sure to\nfollow your recipe card!",
+  "description": "This hearty, Bengali-inspired curry makes the most of mild and warming spices, which are brought together with creamy coconut milk and a healthy sprinkle of vibrant coriander. Unfortunately, this week’s chickpeas were in short supply, so we’ve replaced them with lentils. Don’t worry, the recipe will be just as delicious, just be sure to follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-bengal-chickpea-curry-619def10c27f0251910baf72",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64d066596ea5936499250af5-83346dba.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 893,
+    "proteinG": 24.4,
+    "carbsG": 106.9,
+    "fatG": 37.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

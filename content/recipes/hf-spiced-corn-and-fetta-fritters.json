@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spiced-corn-fetta-fritters-fcc056db.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 807,
+    "proteinG": 28.7,
+    "carbsG": 79.1,
+    "fatG": 39.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -138,7 +144,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/620c6e595b24b677a0463201/step-d713b234.jpg"
     },
     {
-      "text": "• In a large bowl, combine corn, carrot, the plain flour, egg, milk, Nan's special seasoning, vegetable stock powder, shredded Cheddar cheese and a pinch of pepper. Crumble in the fetta cubes. Mix well to combine.",
+      "text": "In a large bowl, combine corn, carrot, the plain flour, egg, milk, Nan's special seasoning, vegetable stock powder, shredded Cheddar cheese and a pinch of pepper. Crumble in the fetta cubes. Mix well to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/620c6e595b24b677a0463201/step-2f153830.jpg"
     },
     {
@@ -146,11 +152,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/620c6e595b24b677a0463201/step-4a2d3c95.jpg"
     },
     {
-      "text": "• While fritters are cooking, combine a drizzle of balsamic vinegar and olive oil in a medium bowl. Season, then add apple and spinach & rocket mix. Toss to coat.",
+      "text": "While fritters are cooking, combine a drizzle of balsamic vinegar and olive oil in a medium bowl. Season, then add apple and spinach & rocket mix. Toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/620c6e595b24b677a0463201/step-79561be8.jpg"
     },
     {
-      "text": "• Divide spiced fetta and corn fritters, sweet potato fries and apple salad between plates. Drizzle fritters with dill & parsley mayonnaise. Sprinkle with flaked almonds to serve.",
+      "text": "Divide spiced fetta and corn fritters, sweet potato fries and apple salad between plates. Drizzle fritters with dill & parsley mayonnaise. Sprinkle with flaked almonds to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/620c6e595b24b677a0463201/step-653f7b24.jpg"
     }
   ]

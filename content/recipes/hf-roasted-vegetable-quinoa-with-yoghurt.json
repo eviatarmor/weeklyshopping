@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56022ee34dab712b208b4568.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 471,
+    "proteinG": 18.1,
+    "carbsG": 76.7,
+    "fatG": 8.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -97,19 +103,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato (peeled) and the baby eggplant into 2 cm cubes. Cut the red onion into wedges, and roughly chop the coriander. Lastly, zest and juice the lemon."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato (peeled) and the baby eggplant into 2 cm cubes. Cut the red onion into wedges, and roughly chop the coriander. Lastly, zest and juice the lemon."
     },
     {
-      "text": "• Place the sweet potato, baby eggplant and red onion on a lined oven tray. Toss in the olive oil and season generously with salt and pepper. Cook in the oven for 20 minutes or until the vegetables are tender and golden."
+      "text": "Place the sweet potato, baby eggplant and red onion on a lined oven tray. Toss in the olive oil and season generously with salt and pepper. Cook in the oven for 20 minutes or until the vegetables are tender and golden."
     },
     {
-      "text": "• Meanwhile, place the quinoa into a fine sieve and rinse it with cold tap water. Add the quinoa to a medium saucepan with the water and the vegetable stock and bring to the boil. Cover and reduce to a medium-low heat. Simmer gently for 12 minutes or until the quinoa is tender. Drain if any liquid remains and then fluff with a fork. Stir through the lemon zest and juice."
+      "text": "Meanwhile, place the quinoa into a fine sieve and rinse it with cold tap water. Add the quinoa to a medium saucepan with the water and the vegetable stock and bring to the boil. Cover and reduce to a medium-low heat. Simmer gently for 12 minutes or until the quinoa is tender. Drain if any liquid remains and then fluff with a fork. Stir through the lemon zest and juice."
     },
     {
-      "text": "• Stir the roast vegetables, coriander and slivered almonds through the quinoa."
+      "text": "Stir the roast vegetables, coriander and slivered almonds through the quinoa."
     },
     {
-      "text": "• To serve, divide the roasted vegetable quinoa between bowls and dollop with the yoghurt."
+      "text": "To serve, divide the roasted vegetable quinoa between bowls and dollop with the yoghurt."
     }
   ]
 }

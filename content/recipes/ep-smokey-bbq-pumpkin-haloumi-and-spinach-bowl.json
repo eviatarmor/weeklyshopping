@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y24_R26_W38_AUS_MAIN_fetta_cubes_edit_high-6accae96.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 916,
+    "proteinG": 34.2,
+    "carbsG": 81.1,
+    "fatG": 49.3
+  },
   "tags": [
     "everyplate",
     "american",

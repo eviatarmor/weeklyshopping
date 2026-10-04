@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55f9077979a23cd75e8b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 600,
+    "proteinG": 21.8,
+    "carbsG": 92.3,
+    "fatG": 11.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -110,19 +116,19 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely chop the brown onion and birdseye chilli. Dice the red capsicum and baby eggplant. Peel and crush the garlic. Finely shred the basil leaves and finely grate the pecorino cheese."
+      "text": "To prepare the ingredients, finely chop the brown onion and birdseye chilli. Dice the red capsicum and baby eggplant. Peel and crush the garlic. Finely shred the basil leaves and finely grate the pecorino cheese."
     },
     {
-      "text": "• Bring a large saucepan of water to the boil. Add the wholemeal spiral pasta and cook for 10 minutes or until ‘al dente’, stirring regularly to ensure that the pasta does not stick. Drain and return back to the saucepan."
+      "text": "Bring a large saucepan of water to the boil. Add the wholemeal spiral pasta and cook for 10 minutes or until ‘al dente’, stirring regularly to ensure that the pasta does not stick. Drain and return back to the saucepan."
     },
     {
-      "text": "• Meanwhile, heat the olive oil in a medium frying pan over a medium heat. Add the brown onion, red capsicum, and baby eggplant. Cook, stirring, for 2 minutes and then reduce the heat to medium-low and cover with a lid. Cook for 5 minutes or until the vegetables sweat and soften. Remove the lid and add the garlic and birdseye chilli (leave out the seeds if you don’t like too much heat!) and cook, stirring, for 1 minute or until fragrant."
+      "text": "Meanwhile, heat the olive oil in a medium frying pan over a medium heat. Add the brown onion, red capsicum, and baby eggplant. Cook, stirring, for 2 minutes and then reduce the heat to medium-low and cover with a lid. Cook for 5 minutes or until the vegetables sweat and soften. Remove the lid and add the garlic and birdseye chilli (leave out the seeds if you don’t like too much heat!) and cook, stirring, for 1 minute or until fragrant."
     },
     {
-      "text": "• Add the diced tomatoes and water. Bring to a simmer. Simmer for 10 minutes or until it has thickened slightly and the vegetables have softened. Stir through the capers, basil leaves and pine nuts until well combined. Season to taste with salt and pepper. Throw in the drained pasta and toss to coat well."
+      "text": "Add the diced tomatoes and water. Bring to a simmer. Simmer for 10 minutes or until it has thickened slightly and the vegetables have softened. Stir through the capers, basil leaves and pine nuts until well combined. Season to taste with salt and pepper. Throw in the drained pasta and toss to coat well."
     },
     {
-      "text": "• Divide the Vegetarian Arrabiata between bowls and top with the finely grated pecorino cheese if you like."
+      "text": "Divide the Vegetarian Arrabiata between bowls and top with the finely grated pecorino cheese if you like."
     }
   ]
 }

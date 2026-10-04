@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi, Pesto & Caramelised Onion Burger",
   "subtitle": "with Sweet Potato Wedges",
-  "description": "We’re so excited about this burger, with crispy chunks of squeaky level-one haloumi, creamy pesto and a side of sweet potato\nwedges. Let’s just say you won’t need the local pub’s menu on hand when you’ve got this recipe under your belt.",
+  "description": "We’re so excited about this burger, with crispy chunks of squeaky level-one haloumi, creamy pesto and a side of sweet potato wedges. Let’s just say you won’t need the local pub’s menu on hand when you’ve got this recipe under your belt.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-onion-burger-wedges-60b5b8d21f5315364e5e37a9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-onion-burger-wedges-469453c6.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 911,
+    "proteinG": 30.4,
+    "carbsG": 80.7,
+    "fatG": 48.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

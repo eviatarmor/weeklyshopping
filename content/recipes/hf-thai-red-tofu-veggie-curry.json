@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Thai Red Tofu & Veggie Curry",
   "subtitle": "with Peanuts, Lime & Jasmine Rice",
-  "description": "If you're after a Thai curry without the heat, this veggie version is for you! It's still full of flavour too, thanks to peanutty tofu,\nzingy ginger paste, mild red curry paste and creamy coconut milk. Don't forget to add the peanuts for crunch, and a squeeze of lime to cut the richness.\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "description": "If you're after a Thai curry without the heat, this veggie version is for you! It's still full of flavour too, thanks to peanutty tofu, zingy ginger paste, mild red curry paste and creamy coconut milk. Don't forget to add the peanuts for crunch, and a squeeze of lime to cut the richness. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-red-tofu-veggie-curry-61c189adf9795e252f695ed3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-red-tofu-veggie-curry-728eb3e7.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 847,
+    "proteinG": 28.1,
+    "carbsG": 91.9,
+    "fatG": 36.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -132,7 +138,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-67a8ec0a.jpg"
     },
     {
-      "text": "• In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Cook the tofu until browned through, 3-4 minutes. Transfer to a bowl and cover to keep warm.",
+      "text": "In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Cook the tofu until browned through, 3-4 minutes. Transfer to a bowl and cover to keep warm.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-9613d1f2.jpg"
     },
     {
@@ -140,11 +146,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-c5ac9a6c.jpg"
     },
     {
-      "text": "• Add the coconut milk and simmer until slightly thickened, 2-3 minutes. Stir in the soy sauce and brown sugar. Return the tofu to the pan and stir to combine and heat through.",
+      "text": "Add the coconut milk and simmer until slightly thickened, 2-3 minutes. Stir in the soy sauce and brown sugar. Return the tofu to the pan and stir to combine and heat through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-27036d5a.jpg"
     },
     {
-      "text": "• Slice the lime into wedges. Divide the rice between bowls and spoon over the Thai red tofu and veggie curry. Garnish with the crushed peanuts and serve with the lime wedges.",
+      "text": "Slice the lime into wedges. Divide the rice between bowls and spoon over the Thai red tofu and veggie curry. Garnish with the crushed peanuts and serve with the lime wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c189adf9795e252f695ed3/step-19ffb197.jpg"
     }
   ]

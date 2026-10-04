@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Red Pesto Haloumi",
   "subtitle": "with Panzanella-Style Salad & Garlic Aioli",
-  "description": "Our rich red pesto transforms this fuss-free meal into something special. Slather it on juicy seared haloumi,\nserve with a garlicky crouton-adorned salad, and you have a dish that brings the Italian vibes to the table.",
+  "description": "Our rich red pesto transforms this fuss-free meal into something special. Slather it on juicy seared haloumi, serve with a garlicky crouton-adorned salad, and you have a dish that brings the Italian vibes to the table.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-red-pesto-haloumi-642cd6f3bc8c6f42ea040ca3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/red-pesto-haloumi-6d8374d7.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 696,
+    "proteinG": 25.9,
+    "carbsG": 22,
+    "fatG": 56.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

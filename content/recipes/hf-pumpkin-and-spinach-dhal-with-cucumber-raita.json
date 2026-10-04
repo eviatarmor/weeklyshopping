@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/558b5b394dab716e418b456b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 793,
+    "proteinG": 34.6,
+    "carbsG": 123,
+    "fatG": 15.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -100,22 +106,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 160°C/140°C fan forced."
+      "text": "Preheat the oven to 160°C/140°C fan forced."
     },
     {
-      "text": "• To prepare the ingredients, finely chop the red onion and the chilli (deseeded). Peel the pumpkin and cut it into 2 cm cubes."
+      "text": "To prepare the ingredients, finely chop the red onion and the chilli (deseeded). Peel the pumpkin and cut it into 2 cm cubes."
     },
     {
-      "text": "• Heat the olive oil in a medium saucepan over a medium-high heat. Add the red onion and cook for 5 minutes or until the onion is soft. Add the HelloFresh Dhal Spice Blend and birdseye chilli and cook for 1 minute or until fragrant. Add the pumpkin and cook, stirring, for 1 minute."
+      "text": "Heat the olive oil in a medium saucepan over a medium-high heat. Add the red onion and cook for 5 minutes or until the onion is soft. Add the HelloFresh Dhal Spice Blend and birdseye chilli and cook for 1 minute or until fragrant. Add the pumpkin and cook, stirring, for 1 minute."
     },
     {
-      "text": "• Add the combined HelloFresh vegetable stock powder and hot water, diced tomatoes, and the lentils to the pan. Bring to the boil. Reduce heat to medium and simmer for 15-20 minutes, or until the lentils and pumpkin are tender. Stir intermittently to ensure the lentils do not stick to the base of the pan. Remove from the heat and stir through the spinach."
+      "text": "Add the combined HelloFresh vegetable stock powder and hot water, diced tomatoes, and the lentils to the pan. Bring to the boil. Reduce heat to medium and simmer for 15-20 minutes, or until the lentils and pumpkin are tender. Stir intermittently to ensure the lentils do not stick to the base of the pan. Remove from the heat and stir through the spinach."
     },
     {
-      "text": "• Meanwhile, place the naan breads on an oven tray and heat for 5-10 minutes or until heated through."
+      "text": "Meanwhile, place the naan breads on an oven tray and heat for 5-10 minutes or until heated through."
     },
     {
-      "text": "• Divide the pumpkin and spinach dhal between bowls. Top with the Cucumber Raita and serve with the warmed naan bread."
+      "text": "Divide the pumpkin and spinach dhal between bowls. Top with the Cucumber Raita and serve with the warmed naan bread."
     }
   ]
 }

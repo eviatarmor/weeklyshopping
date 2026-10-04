@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5ae12dde30006c71aa2b2902-77b42a89.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 743,
+    "proteinG": 23.3,
+    "carbsG": 79.7,
+    "fatG": 35.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -93,15 +99,15 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **240°C/220°C fan-forced**. Cut the **potato** (unpeeled) into 1 cm thick wedges. **TIP:** Cut the potato to the correct size to ensure it cooks in the allocated time! Place the potato on the oven tray lined with baking paper. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Toss to coat and roast for **25-30 minutes**, or until golden and tender.",
+      "text": "Preheat the oven to **240°C/220°C fan-forced**. Cut the **potato** (unpeeled) into 1 cm thick wedges. **TIP:** Cut the potato to the correct size to ensure it cooks in the allocated time! Place the potato on the oven tray lined with baking paper. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Toss to coat and roast for **25-30 minutes**, or until golden and tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae12dde30006c71aa2b2902/step-c3350e82.jpg"
     },
     {
-      "text": "• While the potatoes are roasting, thinly slice the **brown onion**. Heat a **drizzle** of **olive oil** in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for **5-6 minutes**, or until soft. Add the **warm water (see ingredients list)**, **brown sugar** and **1/2** of the **balsamic vinegar**, and simmer until the liquid is nearly evaporated and the mixture is slightly sticky. Season with a **pinch** of **salt** and **pepper**.",
+      "text": "While the potatoes are roasting, thinly slice the **brown onion**. Heat a **drizzle** of **olive oil** in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for **5-6 minutes**, or until soft. Add the **warm water (see ingredients list)**, **brown sugar** and **1/2** of the **balsamic vinegar**, and simmer until the liquid is nearly evaporated and the mixture is slightly sticky. Season with a **pinch** of **salt** and **pepper**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae12dde30006c71aa2b2902/step-6ad6fb7d.jpg"
     },
     {
-      "text": "• While the onion is cooking , cut the **haloumi (see ingredients list)** lengthways into 1 cm slices (you should get 2 pieces per person). Heat a **small drizzle** of **olive oil** in a second medium frying pan over a medium-high heat. **TIP:** Haloumi releases liquid as it cooks so you don't need much olive oil! Add the haloumi and cook for **2 minutes** on each side, or until golden. Transfer to a plate and set aside.",
+      "text": "While the onion is cooking , cut the **haloumi (see ingredients list)** lengthways into 1 cm slices (you should get 2 pieces per person). Heat a **small drizzle** of **olive oil** in a second medium frying pan over a medium-high heat. **TIP:** Haloumi releases liquid as it cooks so you don't need much olive oil! Add the haloumi and cook for **2 minutes** on each side, or until golden. Transfer to a plate and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae12dde30006c71aa2b2902/step-8dd27bc0.jpg"
     },
     {
@@ -109,11 +115,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae12dde30006c71aa2b2902/step-c728ffaa.jpg"
     },
     {
-      "text": "• In a medium bowl, combine the **mixed salad leaves** (keep some plain for the burgers) with the **remaining balsamic vinegar** and **olive oil (1 tbs for 2 people / 2 tbs for 4 people)**. Season to taste with a **pinch** of **salt** and **pepper**. **TIP:** Toss the salad just before serving to prevent soggy leaves.",
+      "text": "In a medium bowl, combine the **mixed salad leaves** (keep some plain for the burgers) with the **remaining balsamic vinegar** and **olive oil (1 tbs for 2 people / 2 tbs for 4 people)**. Season to taste with a **pinch** of **salt** and **pepper**. **TIP:** Toss the salad just before serving to prevent soggy leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae12dde30006c71aa2b2902/step-849ac934.jpg"
     },
     {
-      "text": "• Divide the burger buns between plates and spread a dollop of the **pesto dressing supreme** over the base. Top with a handful of mixed salad leaves, tomato slices, the haloumi and a dollop of the caramelised onion jam. Serve the golden potato wedges on the side.",
+      "text": "Divide the burger buns between plates and spread a dollop of the **pesto dressing supreme** over the base. Top with a handful of mixed salad leaves, tomato slices, the haloumi and a dollop of the caramelised onion jam. Serve the golden potato wedges on the side.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae12dde30006c71aa2b2902/step-ee8ff396.jpg"
     }
   ]

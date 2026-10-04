@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tandoori-cauliflower-bowl-ecc9eb87.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 672,
+    "proteinG": 16.6,
+    "carbsG": 91.1,
+    "fatG": 25.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

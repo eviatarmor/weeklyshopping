@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-haloumi-roast-veggie-couscous-6ecd44b7.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 885,
+    "proteinG": 30.3,
+    "carbsG": 77.4,
+    "fatG": 48.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

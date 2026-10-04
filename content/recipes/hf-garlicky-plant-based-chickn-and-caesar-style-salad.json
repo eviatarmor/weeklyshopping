@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlicky-plant-based-chickn-caesar-style-salad-85a1974d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 773,
+    "proteinG": 26.9,
+    "carbsG": 46.6,
+    "fatG": 52.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

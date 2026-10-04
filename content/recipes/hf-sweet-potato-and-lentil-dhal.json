@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66f62d398add623f42215f45-3d8c0497.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 815,
+    "proteinG": 31.9,
+    "carbsG": 96.8,
+    "fatG": 32.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -131,7 +137,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-678d88bfd98f53c0641be503-cb740fa3.jpeg"
     },
     {
-      "text": "• Stir roasted sweet potato and baby spinach leaves through dhal. Season to taste. TIP: Add a splash of water to loosen the dhal, if needed.",
+      "text": "Stir roasted sweet potato and baby spinach leaves through dhal. Season to taste. TIP: Add a splash of water to loosen the dhal, if needed.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-678d88bfd98f53c0641be503-50fc3c8e.jpeg"
     },
     {

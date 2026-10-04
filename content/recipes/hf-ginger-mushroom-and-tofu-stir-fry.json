@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5614b7a5fd2cb9f13b8b4567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 337,
+    "proteinG": 19.5,
+    "carbsG": 45.8,
+    "fatG": 6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -114,21 +120,21 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, cut the tofu into slices, and slice the long red chilli (deseeded) and mushrooms. Peel the carrot and cut into matchsticks. Trim the snow peas. Peel and grate the ginger, and peel and crush the garlic. Lastly, pick the coriander leaves."
+      "text": "To prepare the ingredients, cut the tofu into slices, and slice the long red chilli (deseeded) and mushrooms. Peel the carrot and cut into matchsticks. Trim the snow peas. Peel and grate the ginger, and peel and crush the garlic. Lastly, pick the coriander leaves."
     },
     {
-      "text": "• Place the tofu into a bowl and add in the ginger, long red chilli, garlic, and a dash of vegetable oil. Marinate for 10 minutes.",
+      "text": "Place the tofu into a bowl and add in the ginger, long red chilli, garlic, and a dash of vegetable oil. Marinate for 10 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5614b7a5fd2cb9f13b8b4567/step_5615c5b49c505.jpg"
     },
     {
-      "text": "• Place the Jasmine rice into a sieve and rinse it with cold tap water until the water becomes clear. Add it to a medium saucepan with the water and bring to the boil. Add the rice and cook it for 10-12 minutes or until the water has absorbed. Drain."
+      "text": "Place the Jasmine rice into a sieve and rinse it with cold tap water until the water becomes clear. Add it to a medium saucepan with the water and bring to the boil. Add the rice and cook it for 10-12 minutes or until the water has absorbed. Drain."
     },
     {
-      "text": "• Heat a large wok or frying pan over a high heat. Add the marinated tofu to the pan and cook for 2 minutes. Remove the tofu from the pan and set aside. No need to clean the pan, just add in the hoisin sauce, soy sauce, sugar, mushrooms, snow peas, carrot and a splash of water and cook for 1-2 minutes or until the veggies are slightly soft. Remove the wok from the heat and stir through the tofu.",
+      "text": "Heat a large wok or frying pan over a high heat. Add the marinated tofu to the pan and cook for 2 minutes. Remove the tofu from the pan and set aside. No need to clean the pan, just add in the hoisin sauce, soy sauce, sugar, mushrooms, snow peas, carrot and a splash of water and cook for 1-2 minutes or until the veggies are slightly soft. Remove the wok from the heat and stir through the tofu.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5614b7a5fd2cb9f13b8b4567/step_5615c5b4b6d46.jpg"
     },
     {
-      "text": "• Divide the rice between bowls and serve with the saucy ginger tofu and mushroom stir-fry. Garnish with coriander."
+      "text": "Divide the rice between bowls and serve with the saucy ginger tofu and mushroom stir-fry. Garnish with coriander."
     }
   ]
 }

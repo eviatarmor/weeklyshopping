@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Falafel & Middle Eastern Roast Veggie Toss",
   "subtitle": "with Herby Yoghurt, Fetta & Almonds",
-  "description": "Hearty spinach falafel is the star of this colourful dish, with the chermoula-spiced roasted veg coming in at a close second. We've also\nhalved the potato quantity and added pumpkin to keep the carbs in check. Tie it all together with a dill and parsley yoghurt, pickled onion, plus crumbled fetta, to make it even better. Don't forget the flaked almond garnish for some crunch!\nThis recipe is under 650kcal per serving.",
+  "description": "Hearty spinach falafel is the star of this colourful dish, with the chermoula-spiced roasted veg coming in at a close second. We've also halved the potato quantity and added pumpkin to keep the carbs in check. Tie it all together with a dill and parsley yoghurt, pickled onion, plus crumbled fetta, to make it even better. Don't forget the flaked almond garnish for some crunch! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-and-middle-eastern-roast-veggie-toss-634e4e7bc573bf811600b37b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-middle-eastern-roast-veggies-f4357305.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 649,
+    "proteinG": 22.8,
+    "carbsG": 49.8,
+    "fatG": 37.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

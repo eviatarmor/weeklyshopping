@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-pesto-veggie-fusilli-e3194b5a.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 938,
+    "proteinG": 27.8,
+    "carbsG": 89,
+    "fatG": 49.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

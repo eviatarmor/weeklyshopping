@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sesame-cauliflower-hoisin-veggies-4a220bba.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 633,
+    "proteinG": 15.7,
+    "carbsG": 95.2,
+    "fatG": 17.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67ce9c1dfc617b70a129fdc1-06310a71.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 1219,
+    "proteinG": 77.9,
+    "carbsG": 126.9,
+    "fatG": 52.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -100,7 +106,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67ce9c1dfc617b70a129fdc1-ad7254f3.jpeg"
     },
     {
-      "text": "• Divide plant-based crumbed chicken burgers between plates. Serve with corn cob. Enjoy!",
+      "text": "Divide plant-based crumbed chicken burgers between plates. Serve with corn cob. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67ce9c1dfc617b70a129fdc1-8baf4c9b.jpeg"
     }
   ]

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/52faeef2453bc09be58b4567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 454,
+    "proteinG": 23.1,
+    "carbsG": 51.5,
+    "fatG": 14.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -87,18 +93,18 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200 degrees C / 180 degrees C fan-forced."
+      "text": "Preheat the oven to 200 degrees C / 180 degrees C fan-forced."
     },
     {
-      "text": "• Heat some oil in a pan over a medium-high heat, add the butter, garlic, mushrooms, and thyme and sauté for 3-5 minutes or until the mushrooms just begin to soften (don't let them reduce in size too much otherwise your pizzas will look very bare). Remove from the heat and leave aside.",
+      "text": "Heat some oil in a pan over a medium-high heat, add the butter, garlic, mushrooms, and thyme and sauté for 3-5 minutes or until the mushrooms just begin to soften (don't let them reduce in size too much otherwise your pizzas will look very bare). Remove from the heat and leave aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/52faeef2453bc09be58b4567/step_55688188e2019.jpg"
     },
     {
-      "text": "• Lay out your Lebanese bread. On each pizza, evenly distribute the mushroom ragu and scatter over the gorgonzola. Place in the oven for 8-10 minutes, keep a watchful eye on them to make sure the bases don't burn!",
+      "text": "Lay out your Lebanese bread. On each pizza, evenly distribute the mushroom ragu and scatter over the gorgonzola. Place in the oven for 8-10 minutes, keep a watchful eye on them to make sure the bases don't burn!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/52faeef2453bc09be58b4567/step_5568818913d24.jpg"
     },
     {
-      "text": "• Distribute a bit of rocket over each of your pizzas, season with salt and pepper, an then dress with a dash of olive oil.",
+      "text": "Distribute a bit of rocket over each of your pizzas, season with salt and pepper, an then dress with a dash of olive oil.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/52faeef2453bc09be58b4567/step_5568818928156.jpg"
     }
   ]

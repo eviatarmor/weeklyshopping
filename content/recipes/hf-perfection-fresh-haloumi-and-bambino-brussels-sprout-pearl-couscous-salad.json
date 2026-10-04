@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Golden Haloumi & Pumpkin Pearl Couscous",
   "subtitle": "with Bambino Brussels Sprouts",
-  "description": "Brussels Sprouts - the perfect addition to your winter meals, these green buds may be small, but they’re packed full of\nflavour once roasted or sautéed. With their golden caramelised edges and nutty bite, Brussels sprouts bring richness and\ndepth to any dish, just like this haloumi, roast pumpkin and pearl couscous bowl.",
+  "description": "Brussels Sprouts - the perfect addition to your winter meals, these green buds may be small, but they’re packed full of flavour once roasted or sautéed. With their golden caramelised edges and nutty bite, Brussels sprouts bring richness and depth to any dish, just like this haloumi, roast pumpkin and pearl couscous bowl.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/perfection-fresh-missing-bambino-brussels-haloumi-and-bambino-brussels-sprout-pearl-couscous-salad-67f85496cade9b9f0ace4d7b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W32_AU_R23668-2_Main_high-56463088.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 850,
+    "proteinG": 33.6,
+    "carbsG": 66,
+    "fatG": 49.7
+  },
   "tags": [
     "hellofresh",
     "australian",

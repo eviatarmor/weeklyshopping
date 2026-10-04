@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Honey-Chipotle Haloumi",
   "subtitle": "with Mexican Roast Veggie Toss & Almonds",
-  "description": "Haloumi takes centre stage in this Mexican-style dish, which comes together in four simple steps thanks to a few\nshortcut ingredients: pre-chopped veg, a trusty spice blend for a bit of heat, and our mild chipotle sauce, which, with\na bit of honey, creates a gorgeous glaze which works a treat against the salty, squeaky cheese.\nThis recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
+  "description": "Haloumi takes centre stage in this Mexican-style dish, which comes together in four simple steps thanks to a few shortcut ingredients: pre-chopped veg, a trusty spice blend for a bit of heat, and our mild chipotle sauce, which, with a bit of honey, creates a gorgeous glaze which works a treat against the salty, squeaky cheese. This recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-honey-chipotle-haloumi-62d623daddeeb7872e036762",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-chipotle-haloumi-mexican-veggie-toss-6f88d5fb.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 397,
+    "proteinG": 23.6,
+    "carbsG": 19.8,
+    "fatG": 24.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

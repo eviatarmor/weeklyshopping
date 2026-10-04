@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mediterranean Vegetable & Chickpea Stew",
   "subtitle": "with Fetta & Olives",
-  "description": "When we first tried this bright burst of goodness, we all agreed it had that \"hug in a bowl\" kind of feeling.\nThere's wholesome chickpeas, pumpkin and capsicum, Plus a sublime basil pesto to make it a nutritionally\nbalanced meal.\nThis recipe is under 650kcal per serving.",
+  "description": "When we first tried this bright burst of goodness, we all agreed it had that \"hug in a bowl\" kind of feeling. There's wholesome chickpeas, pumpkin and capsicum, Plus a sublime basil pesto to make it a nutritionally balanced meal. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-vegetable-and-chickpea-stew-63857488787dab3cf70b8c0a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-vegetable-chickpea-stew-600ced9b.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 620,
+    "proteinG": 26.9,
+    "carbsG": 78.4,
+    "fatG": 33.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -140,7 +146,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63857488787dab3cf70b8c0a/step-4ba2e5eb.jpg"
     },
     {
-      "text": "• While the veggies are roasting, finely chop garlic. Thinly slice brown onion. Drain and rinse chickpeas.",
+      "text": "While the veggies are roasting, finely chop garlic. Thinly slice brown onion. Drain and rinse chickpeas.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63857488787dab3cf70b8c0a/step-f1f279a1.jpg"
     },
     {
@@ -148,7 +154,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63857488787dab3cf70b8c0a/step-0ed9630e.jpg"
     },
     {
-      "text": "• To the pan, add chickpeas, diced tomatoes with garlic & onion, water, honey and vegetable stock pot. Bring to a boil, then simmer for 3-4 minutes, or until slightly thickened.",
+      "text": "To the pan, add chickpeas, diced tomatoes with garlic & onion, water, honey and vegetable stock pot. Bring to a boil, then simmer for 3-4 minutes, or until slightly thickened.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63857488787dab3cf70b8c0a/step-2783226a.jpg"
     },
     {

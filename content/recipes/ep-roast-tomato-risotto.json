@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-roast-tomato-risotto-a4fdfa77.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 622,
+    "proteinG": 18.2,
+    "carbsG": 86,
+    "fatG": 20.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

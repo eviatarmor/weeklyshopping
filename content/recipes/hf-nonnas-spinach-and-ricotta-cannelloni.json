@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1017_W33_AU_R57487-5main_add_chilli_flakes_edit_high-851dc408.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 27.4,
+    "carbsG": 36.6,
+    "fatG": 25.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

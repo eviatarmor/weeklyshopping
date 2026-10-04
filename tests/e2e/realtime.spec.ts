@@ -72,3 +72,24 @@ test("meal filters don't leak into the blends tab", async ({ browser, baseURL })
   await page.getByRole("button", { name: "Meals" }).click();
   await expect(page.getByPlaceholder(/Search .*recipes/)).toHaveValue("zzz-no-such-recipe");
 });
+
+test("rating a recipe produces recommendations, and energy follows the kJ/kcal setting", async ({ browser, baseURL }) => {
+  const page = await openAs(browser, "sam@dev.local", baseURL!);
+  await page.getByRole("link", { name: "Recipes" }).click();
+  await page.getByPlaceholder(/Search .*recipes/).fill("Bengal Chickpea Curry");
+  await page.getByRole("link", { name: /Bengal Chickpea Curry/ }).first().click();
+
+  // Energy shows in kJ by default.
+  await expect(page.getByText(/\d[\d,]* kJ/).first()).toBeVisible();
+  await page.getByRole("button", { name: "5 stars" }).click();
+  await page.getByRole("button", { name: "Back" }).click();
+
+  await page.getByPlaceholder(/Search .*recipes/).fill("");
+  await expect(page.getByText("Recommended for you")).toBeVisible({ timeout: 15_000 });
+  await expect(page.getByText(/Because you liked Bengal Chickpea Curry/).first()).toBeVisible();
+
+  await page.getByRole("link", { name: "Settings" }).click();
+  await page.getByRole("button", { name: "kcal" }).click();
+  await page.getByRole("link", { name: "Recipes" }).click();
+  await expect(page.getByText(/\d[\d,]* kcal/).first()).toBeVisible();
+});

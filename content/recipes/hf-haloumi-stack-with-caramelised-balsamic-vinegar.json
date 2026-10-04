@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55e69bed79a23cde618b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 679,
+    "proteinG": 31.9,
+    "carbsG": 28.5,
+    "fatG": 46.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -80,19 +86,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the eggplant into 1 cm thick rounds, the pumpkin into 5 mm thick slices (peeled), the red capsicum into quarters (deseeded) and the haloumi into 1 cm thick slices (pat dry)."
+      "text": "Preheat oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the eggplant into 1 cm thick rounds, the pumpkin into 5 mm thick slices (peeled), the red capsicum into quarters (deseeded) and the haloumi into 1 cm thick slices (pat dry)."
     },
     {
-      "text": "• Lay the eggplant, pumpkin and capsicum slices across two lined oven trays. Spray or brush with the olive oil and cook in the oven for 30-35 minutes or until the vegetables are tender and golden."
+      "text": "Lay the eggplant, pumpkin and capsicum slices across two lined oven trays. Spray or brush with the olive oil and cook in the oven for 30-35 minutes or until the vegetables are tender and golden."
     },
     {
       "text": "• Meanwhile, place the balsamic vinegar in a small saucepan and bring to the boil. Reduce the heat to medium and add the brown sugar. Cook, stirring, until the sugar has dissolved. Gently simmer mixture for 4-5 minutes or until it’s syrupy. Remove from the heat to cool slightly. It will continue to thicken off the heat.\n• WARNING: When vinegar is being reduced it lets off a very strong vapour. Don’t put your head directly over the saucepan or it may sting our eyes."
     },
     {
-      "text": "• When the vegetables have about 5 minutes left to cook, heat a medium frying pan over a medium-high heat. Lightly grease with a little olive oil and then add the haloumi slices. Cook for 1-2 minutes on each side or until golden."
+      "text": "When the vegetables have about 5 minutes left to cook, heat a medium frying pan over a medium-high heat. Lightly grease with a little olive oil and then add the haloumi slices. Cook for 1-2 minutes on each side or until golden."
     },
     {
-      "text": "• Stack the vegetables and haloumi between plates and drizzle with the caramelised balsamic dressing. Serve with the mixed salad leaves, dressed with a little olive oil and vinegar if you like."
+      "text": "Stack the vegetables and haloumi between plates and drizzle with the caramelised balsamic dressing. Serve with the mixed salad leaves, dressed with a little olive oil and vinegar if you like."
     }
   ]
 }

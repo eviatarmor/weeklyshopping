@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/jerk-pork-caramelised-pineapple-burger-8f191d92-24569b56.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1020,
+    "proteinG": 39.1,
+    "carbsG": 98.7,
+    "fatG": 49.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

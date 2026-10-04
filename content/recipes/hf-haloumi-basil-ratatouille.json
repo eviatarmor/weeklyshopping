@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-basil-ratatouille-b1a85fe5.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 617,
+    "proteinG": 31.3,
+    "carbsG": 48.2,
+    "fatG": 30.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -116,27 +122,27 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **200°C/180°C fan-forced**. Finely slice the **red onion**. Chop the **red capsicum** into 2 cm chunks. Chop the **zucchini** into 2 cm pieces. Peel and crush the **garlic**. Pick the **basil** leaves and roughly chop.",
+      "text": "Preheat the oven to **200°C/180°C fan-forced**. Finely slice the **red onion**. Chop the **red capsicum** into 2 cm chunks. Chop the **zucchini** into 2 cm pieces. Peel and crush the **garlic**. Pick the **basil** leaves and roughly chop.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/57ba85ea77d68df22c8b4568-0-0-457acdf6.jpg"
     },
     {
-      "text": "• Heat a **drizzle** of **olive oil** in a medium frying pan. Add the **red onion**, **red capsicum** and **zucchini** and cook, stirring, for **5 minutes**, or until soft. Add **1/2** of the **garlic** and cook, stirring, for **1 minute**, or until fragrant.",
+      "text": "Heat a **drizzle** of **olive oil** in a medium frying pan. Add the **red onion**, **red capsicum** and **zucchini** and cook, stirring, for **5 minutes**, or until soft. Add **1/2** of the **garlic** and cook, stirring, for **1 minute**, or until fragrant.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/57ba85ea77d68df22c8b4568-1-0-c8c4a9d7.jpg"
     },
     {
-      "text": "• Add the **passata**, **balsamic vinegar**, **sugar** and **dried oregano** to the pan and bring to the boil. Reduce the heat to low and simmer for **15 minutes**, or until slightly thickened. Season with the **salt (use suggested amount)** and a **generous pinch** of **pepper**. Stir through the **basil** leaves.",
+      "text": "Add the **passata**, **balsamic vinegar**, **sugar** and **dried oregano** to the pan and bring to the boil. Reduce the heat to low and simmer for **15 minutes**, or until slightly thickened. Season with the **salt (use suggested amount)** and a **generous pinch** of **pepper**. Stir through the **basil** leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/57ba85ea77d68df22c8b4568-2-0-9f07b30c.jpg"
     },
     {
-      "text": "• While the ratatouille is simmering, place the **remaining garlic** and the **butter** in a small bowl and mash together using a fork. Cut slices into the **bake-at-home ciabatta**, 2 cm apart. **TIP:** Cut almost to the base but not the whole way through! Using a knife, spread the **garlic-butter** in between each slice. Wrap the bread in foil and place in the oven to bake for **10 minutes**, or until the butter has melted and the bread has warmed through.",
+      "text": "While the ratatouille is simmering, place the **remaining garlic** and the **butter** in a small bowl and mash together using a fork. Cut slices into the **bake-at-home ciabatta**, 2 cm apart. **TIP:** Cut almost to the base but not the whole way through! Using a knife, spread the **garlic-butter** in between each slice. Wrap the bread in foil and place in the oven to bake for **10 minutes**, or until the butter has melted and the bread has warmed through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/57ba85ea77d68df22c8b4568-3-0-9500bf5e.jpg"
     },
     {
-      "text": "• While the garlic bread is baking, slice the **haloumi** into 2 cm slices. Heat a **drizzle** of **olive oil** in the second medium frying pan over a medium-high heat. Add the haloumi to the pan and cook for **1 minute** on each side, or until golden brown.",
+      "text": "While the garlic bread is baking, slice the **haloumi** into 2 cm slices. Heat a **drizzle** of **olive oil** in the second medium frying pan over a medium-high heat. Add the haloumi to the pan and cook for **1 minute** on each side, or until golden brown.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/57ba85ea77d68df22c8b4568-4-0-ecf849a4.jpg"
     },
     {
-      "text": "• Divide the basil ratatouille between plates and top with the haloumi slices. Serve the garlic bread on the side.",
+      "text": "Divide the basil ratatouille between plates and top with the haloumi slices. Serve the garlic bread on the side.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/57ba85ea77d68df22c8b4568-5-0-2868504e.jpg"
     }
   ]

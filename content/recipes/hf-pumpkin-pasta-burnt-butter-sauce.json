@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/569f1f41fd2cb901118b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 853,
+    "proteinG": 25.3,
+    "carbsG": 81.4,
+    "fatG": 45
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -86,18 +92,18 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, thinly slice the brown onion. Peel the pumpkin and cut it into 1 cm cubes. Tear the sage leaves. Finely grate the Parmesan cheese and wash the baby spinach.",
+      "text": "To prepare the ingredients, thinly slice the brown onion. Peel the pumpkin and cut it into 1 cm cubes. Tear the sage leaves. Finely grate the Parmesan cheese and wash the baby spinach.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/569f1f41fd2cb901118b4567/step_569f21097da54.jpg"
     },
     {
-      "text": "• Bring a large saucepan of salted water to a boil. Add the wholemeal fusilli pasta and cook for 10 minutes or until ‘al dente’. Drain well and return to the saucepan off the heat."
+      "text": "Bring a large saucepan of salted water to a boil. Add the wholemeal fusilli pasta and cook for 10 minutes or until ‘al dente’. Drain well and return to the saucepan off the heat."
     },
     {
-      "text": "• Meanwhile, heat half of the olive oil in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for 3 minutes or until soft. Remove the onion from the frying pan.Heat the remaining oil in the same frying pan and add the pumpkin. Cook, without stirring, for 4 minutes or until it starts to caramelise on the bottom. Give the pan a shake to redistribute the pumpkin and then continue cooking for a further 4 minutes. Add the cooked onion, butter, sage and walnuts and continue cooking until the butter begins to brown and the sage crisps up (about 1-2 minutes). Remove from the heat and stir through the wholemeal spirals with the baby spinach (it will wilt as you stir it through).",
+      "text": "Meanwhile, heat half of the olive oil in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for 3 minutes or until soft. Remove the onion from the frying pan.Heat the remaining oil in the same frying pan and add the pumpkin. Cook, without stirring, for 4 minutes or until it starts to caramelise on the bottom. Give the pan a shake to redistribute the pumpkin and then continue cooking for a further 4 minutes. Add the cooked onion, butter, sage and walnuts and continue cooking until the butter begins to brown and the sage crisps up (about 1-2 minutes). Remove from the heat and stir through the wholemeal spirals with the baby spinach (it will wilt as you stir it through).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/569f1f41fd2cb901118b4567/step_569f2109a55af.jpg"
     },
     {
-      "text": "• Add the freshly grated Parmesan cheese and toss to coat well. Season to taste with salt and pepper and dress with extra olive oil to coat."
+      "text": "Add the freshly grated Parmesan cheese and toss to coat well. Season to taste with salt and pepper and dress with extra olive oil to coat."
     }
   ]
 }

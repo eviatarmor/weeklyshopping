@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian-Style Coconut Lentil Nachos",
   "subtitle": "with Tomato-Corn Salsa & Mint Yoghurt",
-  "description": "We've combined the flavours of Indian cuisine with the textures and fun of a nachos bowl. From the creamy coconut\nlentils to the sweet and juicy salsa and cooling mint yoghurt, scoop up all the deliciousness with the oven-baked\ntortilla chips. Cutlery optional!",
+  "description": "We've combined the flavours of Indian cuisine with the textures and fun of a nachos bowl. From the creamy coconut lentils to the sweet and juicy salsa and cooling mint yoghurt, scoop up all the deliciousness with the oven-baked tortilla chips. Cutlery optional!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/indian-style-coconut-lentil-nachos-636067bf030fc8057d0fc635",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-style-coconut-lentil-nachos-863c4ffe.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 713,
+    "proteinG": 26.2,
+    "carbsG": 81.6,
+    "fatG": 28.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -126,11 +132,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-e82396e7.jpg"
     },
     {
-      "text": "• In a medium bowl, combine coriander, tomato and corn and a drizzle of the white wine vinegar and olive oil. Season.",
+      "text": "In a medium bowl, combine coriander, tomato and corn and a drizzle of the white wine vinegar and olive oil. Season.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-3aa116db.jpg"
     },
     {
-      "text": "• In a small bowl, combine mint, Greek-style yoghurt and a small drizzle of olive oil. Season with salt and pepper.",
+      "text": "In a small bowl, combine mint, Greek-style yoghurt and a small drizzle of olive oil. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-647ecacc43f2626a3a6f96a4-0e761ddc.jpg"
     },
     {

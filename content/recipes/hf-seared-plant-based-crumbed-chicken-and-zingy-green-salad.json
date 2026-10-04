@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Seared Plant-Based Chick'n & Zingy Green Salad",
   "subtitle": "with Lime & Sweet Chilli Dressing",
-  "description": "Take your standard salad to new heights by teaming pea pods and cucumber with a zingy sweet chilli and lime juice dressing. Plate it up with seared chick'n and Don't forget a sprinkling of crispy shallots for some extra crunch factor.\nThis recipe is under 650kcal per serving.",
+  "description": "Take your standard salad to new heights by teaming pea pods and cucumber with a zingy sweet chilli and lime juice dressing. Plate it up with seared chick'n and Don't forget a sprinkling of crispy shallots for some extra crunch factor. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/seared-pork-steak-and-zingy-green-salad-67f85003cade9b9f0ace3453",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/678d8660d98f53c0641be4fc-4bf337dd-7a1cd416.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 412,
+    "proteinG": 21.2,
+    "carbsG": 47.4,
+    "fatG": 17.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

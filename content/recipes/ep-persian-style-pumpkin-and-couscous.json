@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/persian-pumpkin-couscous-177b4c31.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 524,
+    "proteinG": 17.7,
+    "carbsG": 63,
+    "fatG": 21.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Potato, Cauliflower & Thyme Gratin",
   "subtitle": "with Garden Salad",
-  "description": "When you top roast potato and cauliflower with a Dijon and Parmesan-laced cream sauce, you can’t go wrong. Add the finishing touch with a thyme-panko crust, plus a simple cherry tomato salad for a touch of sweetness. \nThis recipe is under 650kcal per serving.\nDue to local availability, we’ve replaced the pear with snacking tomatoes, which may be a little different to what’s pictured. You may also see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to\nmatch your recipe. Big or small, you’ll always have the right amount for dinner.",
+  "description": "When you top roast potato and cauliflower with a Dijon and Parmesan-laced cream sauce, you can’t go wrong. Add the finishing touch with a thyme-panko crust, plus a simple cherry tomato salad for a touch of sweetness. This recipe is under 650kcal per serving. Due to local availability, we’ve replaced the pear with snacking tomatoes, which may be a little different to what’s pictured. You may also see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to match your recipe. Big or small, you’ll always have the right amount for dinner.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/potato-cauliflower-and-thyme-gratin-67f8341c4264524ca978b26e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W13_AUS_MAIN_F1_high-3dd3d999.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 587,
+    "proteinG": 18.5,
+    "carbsG": 52.3,
+    "fatG": 33.5
+  },
   "tags": [
     "hellofresh",
     "australian",

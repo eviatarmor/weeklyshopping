@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-beef-rice-bake-e4ab75c7.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 854,
+    "proteinG": 30.7,
+    "carbsG": 85.4,
+    "fatG": 41
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -132,7 +138,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63d8d684f672cb88e70850de/step-6d525d0e.jpg"
     },
     {
-      "text": "• Return frying pan to medium-high heat with a drizzle of olive oil. Cook plant-based mince and carrot and, breaking up mince with a spoon, until cooked through, 5-6 minutes. TIP: For best results, drain the oil from the pan at the end of this step.",
+      "text": "Return frying pan to medium-high heat with a drizzle of olive oil. Cook plant-based mince and carrot and, breaking up mince with a spoon, until cooked through, 5-6 minutes. TIP: For best results, drain the oil from the pan at the end of this step.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63d8d684f672cb88e70850de/step-e4827bba.jpg"
     },
     {
@@ -144,7 +150,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63d8d684f672cb88e70850de/step-75742551.jpg"
     },
     {
-      "text": "• Divide cheesy Mexican 'mince' and rice bake between plates. Serve with a dollop of light sour cream. Enjoy! Little cooks: Add the finishing touch by dolloping over the sour cream!",
+      "text": "Divide cheesy Mexican 'mince' and rice bake between plates. Serve with a dollop of light sour cream. Enjoy! Little cooks: Add the finishing touch by dolloping over the sour cream!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63d8d684f672cb88e70850de/step-5acdc2cb.jpg"
     }
   ]

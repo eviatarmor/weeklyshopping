@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Lemon Pepper Plant-Based Crumbed Chick'n & Garlicky Kale Toss",
   "subtitle": "with Parmesan & Walnuts",
-  "description": "The doctor called and said you need a daily dose of greens so We've answered! Team lemon pepper plant-based crumbed chick'n with garlicky kale and green beans and for a tad extra crunch, a sprinkling of walnuts. Speedy and super tasty, you'll really enjoy this one - it’s doctor’s orders!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "The doctor called and said you need a daily dose of greens so We've answered! Team lemon pepper plant-based crumbed chick'n with garlicky kale and green beans and for a tad extra crunch, a sprinkling of walnuts. Speedy and super tasty, you'll really enjoy this one - it’s doctor’s orders! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/lemon-pepper-plant-based-crumbed-chickn-and-garlic-kale-toss-67f862640d0527cba53b45ab",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1012_W15_AUS_MAIN_high-a1b1b798.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 473,
+    "proteinG": 28.2,
+    "carbsG": 39.5,
+    "fatG": 20.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

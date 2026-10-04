@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cypriot-honey-thyme-haloumi-c8767a9a.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 531,
+    "proteinG": 24.9,
+    "carbsG": 42.3,
+    "fatG": 31.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -101,25 +107,25 @@
   ],
   "steps": [
     {
-      "text": "• Rinse the quinoa. Place the quinoa, crumbled vegetable stock cube and water in a medium saucepan, cover with a lid and bring to the boil. Remove the lid and reduce to a medium heat. Simmer for 10-15 minutes, or until the quinoa is tender and the water has absorbed (drain excess water). Return quinoa to the pan. Stir through half the olive oil."
+      "text": "Rinse the quinoa. Place the quinoa, crumbled vegetable stock cube and water in a medium saucepan, cover with a lid and bring to the boil. Remove the lid and reduce to a medium heat. Simmer for 10-15 minutes, or until the quinoa is tender and the water has absorbed (drain excess water). Return quinoa to the pan. Stir through half the olive oil."
     },
     {
-      "text": "• Pick the thyme and mint leaves. Peel the zucchini into ribbons. Trim ends of the green beans. Slice the haloumi into 5mm rectangles."
+      "text": "Pick the thyme and mint leaves. Peel the zucchini into ribbons. Trim ends of the green beans. Slice the haloumi into 5mm rectangles."
     },
     {
       "text": "• In a small bowl, thyme, honey and hot water. Set aside.\n• Did you know: The heat combined with the sugar from the honey creates something known as the Maillard Reaction. It's the golden colour on your haloumi & the flavour is amazing!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926d4bd4d92c21e85c8bc2-2-0-e0eebdd8.jpg"
     },
     {
-      "text": "• Heat the remaining olive oil in a grill pan over a high heat. Cook the zucchini ribbons for 2-3 minutes, turning halfway until charred and golden. Set aside on a plate covered with foil. Add the green beans to the pan and cook for 3-4 minutes, or until golden. Transfer to the same plate and cover.",
+      "text": "Heat the remaining olive oil in a grill pan over a high heat. Cook the zucchini ribbons for 2-3 minutes, turning halfway until charred and golden. Set aside on a plate covered with foil. Add the green beans to the pan and cook for 3-4 minutes, or until golden. Transfer to the same plate and cover.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926d4bd4d92c21e85c8bc2-3-0-562399b3.jpg"
     },
     {
-      "text": "• Add the haloumi to the pan and brush with the honey and thyme glaze. Turn and brush with the glaze every minute for 4-5 minutes, or until golden.",
+      "text": "Add the haloumi to the pan and brush with the honey and thyme glaze. Turn and brush with the glaze every minute for 4-5 minutes, or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926d4bd4d92c21e85c8bc2-4-0-6d59a759.jpg"
     },
     {
-      "text": "• Stir the mint through the quinoa. Divide the minted quinoa, vegetables and honey thyme haloumi between plates. Enjoy!"
+      "text": "Stir the mint through the quinoa. Divide the minted quinoa, vegetables and honey thyme haloumi between plates. Enjoy!"
     }
   ]
 }

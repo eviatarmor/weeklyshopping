@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Veggie Gyoza & Plant-Based Mayo",
   "subtitle": "with Sesame Sweet Potato Chunks & Japanese Mixed Leaf Salad",
-  "description": "Looking for a refreshing meal packed full of sweet and salty flavours? Velvety vegetable gyozas soaking in a zingy sauce are complemented by the nutty depth of sesame seeds and richness of sweet potato chunks.",
+  "description": "Looking for a refreshing meal packed full of sweet and salty flavours? Velvety vegetable gyozas soaking in a zingy sauce are complemented by the nutty depth of sesame seeds and richness of sweet potato chunks.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-gyoza-sesame-mayo-656fa84838e51a4a51a2fc41",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/656fb2a838e51a4a51a2fc55-95939e42.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 967,
+    "proteinG": 23.5,
+    "carbsG": 121.4,
+    "fatG": 42.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

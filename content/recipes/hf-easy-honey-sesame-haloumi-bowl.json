@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Honey-Sesame Haloumi Bowl",
   "subtitle": "with Couscous & Roasted Veggies",
-  "description": "There was complete mayhem when this dish hit our tasting table. With sweet honey on warm, salty haloumi, plus roasted\nveggies and couscous, it disappeared from the bowl in record time. Enjoy!",
+  "description": "There was complete mayhem when this dish hit our tasting table. With sweet honey on warm, salty haloumi, plus roasted veggies and couscous, it disappeared from the bowl in record time. Enjoy!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-honey-sesame-haloumi-bowl-6020bc1cdd871a68f4057ef4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-sesame-haloumi-couscous-bowl-df548f7d.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 715,
+    "proteinG": 32.3,
+    "carbsG": 71,
+    "fatG": 31
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

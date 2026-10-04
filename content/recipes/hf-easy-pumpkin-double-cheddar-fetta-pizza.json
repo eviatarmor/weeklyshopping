@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Pumpkin, Double Cheddar & Fetta Pizza",
   "subtitle": "with Caramelised Onion & Rocket Salad",
-  "description": "Time for a pizza that totally beats takeaway! Top a crisp base with roasted pumpkin and zucchini plus creamy fetta, then add a fresh\ngreen salad on the side to make a meal that's isn't just delicious, but well-rounded too.\nThe recent harsh weather conditions have impacted the zucchini grown by our farmers.\nThe quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "Time for a pizza that totally beats takeaway! Top a crisp base with roasted pumpkin and zucchini plus creamy fetta, then add a fresh green salad on the side to make a meal that's isn't just delicious, but well-rounded too. The recent harsh weather conditions have impacted the zucchini grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-pumpkin-double-cheddar-fetta-pizza-615d0a32433192063561bc22",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-pumpkin-double-cheddar-fetta-pizza-6de7f868.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 989,
+    "proteinG": 41.7,
+    "carbsG": 125,
+    "fatG": 30
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

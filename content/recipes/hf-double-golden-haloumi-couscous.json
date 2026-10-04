@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Golden Haloumi & Roast Veggie Couscous",
   "subtitle": "with Brussels Sprouts & Mint Yoghurt",
-  "description": "This week's special ingredient is Brussels Sprouts - the perfect addition to your winter meals, these green buds may be small, but they’re packed full of flavour once roasted or sautéed. With their golden caramelised edges and nutty bite, Brussels sprouts bring richness and depth to any dish - which you’ll see in tonight’s roast veggie couscous and haloumi bowl!\nDue to local availability,\nthe ingredients you receive\nmay be a little different\nto what's pictured. It'll\nbe just as delicious, just\nfollow your recipe card!\nThis recipe is under 650kcal per serving.",
+  "description": "This week's special ingredient is Brussels Sprouts - the perfect addition to your winter meals, these green buds may be small, but they’re packed full of flavour once roasted or sautéed. With their golden caramelised edges and nutty bite, Brussels sprouts bring richness and depth to any dish - which you’ll see in tonight’s roast veggie couscous and haloumi bowl! Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/double-golden-haloumi-couscous-67f865490d0527cba53b594d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1017_W38_AU_R6118-17_Main_high-b2d04dff.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 872,
+    "proteinG": 48.5,
+    "carbsG": 54.8,
+    "fatG": 50.7
+  },
   "tags": [
     "hellofresh",
     "mediterranean",

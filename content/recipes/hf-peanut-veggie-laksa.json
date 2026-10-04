@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Veggie Laksa & Crushed Peanuts",
   "subtitle": "with Green Beans & Noodles",
-  "description": "Laksa is taking centre stage tonight, with Asian veggies as its leading lady. Our version is a take on the Singaporean laksa lemak,\nand uses coconut milk and ginger paste to draw out the Asian flavours you know and love.\nThis recipe is under 650kcal per serving.",
+  "description": "Laksa is taking centre stage tonight, with Asian veggies as its leading lady. Our version is a take on the Singaporean laksa lemak, and uses coconut milk and ginger paste to draw out the Asian flavours you know and love. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/peanut-veggie-laksa-638ee59e26096eb89d052453",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-peanut-veggie-laksa-9c8ed567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 555,
+    "proteinG": 17.6,
+    "carbsG": 78.7,
+    "fatG": 43.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

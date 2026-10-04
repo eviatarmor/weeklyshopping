@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Herby Chickpea Stuffed Capsicums",
   "subtitle": "with Fetta, Double Yoghurt, Potato Wedges & Olive Salad",
-  "description": "Tender, oven-roasted capsicum is the ideal vessel for a rich, herby chickpea mixture topped with a creamy crumble of fetta. Serve alongside some crispy wedges and an olive-speckled salad for a vibrant and exciting mid-week meal packed with veg!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Tender, oven-roasted capsicum is the ideal vessel for a rich, herby chickpea mixture topped with a creamy crumble of fetta. Serve alongside some crispy wedges and an olive-speckled salad for a vibrant and exciting mid-week meal packed with veg! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/herby-chickpea-stuffed-capsicums-66d7c7e3b236b2c399e277c7",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66d7c7e3b236b2c399e277c7-0082206c.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 668,
+    "proteinG": 27.1,
+    "carbsG": 62.5,
+    "fatG": 31.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/green-olive-cheddar-frittata-fa440e01.jpg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 602,
+    "proteinG": 28.3,
+    "carbsG": 32,
+    "fatG": 39.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -99,25 +105,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel and slice the potatoes into 5 mm slices, peel and finely chop the red onion, roughly chop the green olives (check for pits) and parsley, whisk the eggs, and grate the Cheddar cheese."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel and slice the potatoes into 5 mm slices, peel and finely chop the red onion, roughly chop the green olives (check for pits) and parsley, whisk the eggs, and grate the Cheddar cheese."
     },
     {
-      "text": "• Heat a quarter of the olive oil in a medium frying pan over a medium high heat. Add the potato slices and fry for 2-3 minutes, or until softened and crispy. Remove from the pan and transfer to a lightly oiled small ovenproof dish (once all your ingredients have been added to the ovenproof dish the mix should be 4-5 cm high. If the ingredients are just covering the bottom of the dish, transfer to a smaller dish).",
+      "text": "Heat a quarter of the olive oil in a medium frying pan over a medium high heat. Add the potato slices and fry for 2-3 minutes, or until softened and crispy. Remove from the pan and transfer to a lightly oiled small ovenproof dish (once all your ingredients have been added to the ovenproof dish the mix should be 4-5 cm high. If the ingredients are just covering the bottom of the dish, transfer to a smaller dish).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58925f9d803b5049bc5e77d2-1-0-62347dd1.jpg"
     },
     {
-      "text": "• Add a quarter of the remaining olive oil and the red onion to the medium frying pan and cook for 5 minutes, or until softened, then add to the ovenproof dish.",
+      "text": "Add a quarter of the remaining olive oil and the red onion to the medium frying pan and cook for 5 minutes, or until softened, then add to the ovenproof dish.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58925f9d803b5049bc5e77d2-2-0-4a625d18.jpg"
     },
     {
-      "text": "• Add the green olives, eggs, parsley and Cheddar cheese to the ovenproof dish. Season generously with salt and pepper and stir to distribute evenly. Transfer to the oven and bake for 20-30 minutes, or until the top is golden and the eggs are set (pierce the frittata with a clean knife to check if the eggs are set – if no raw egg mix comes out on the knife, the frittata is cooked.",
+      "text": "Add the green olives, eggs, parsley and Cheddar cheese to the ovenproof dish. Season generously with salt and pepper and stir to distribute evenly. Transfer to the oven and bake for 20-30 minutes, or until the top is golden and the eggs are set (pierce the frittata with a clean knife to check if the eggs are set – if no raw egg mix comes out on the knife, the frittata is cooked.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58925f9d803b5049bc5e77d2-3-0-607cf49e.jpg"
     },
     {
-      "text": "• Meanwhile, in a medium bowl add the remaining olive oil, white wine vinegar, wholegrain mustard and sugar. Season with salt and pepper and mix well. Add the mixed salad leaves and toss to coat."
+      "text": "Meanwhile, in a medium bowl add the remaining olive oil, white wine vinegar, wholegrain mustard and sugar. Season with salt and pepper and mix well. Add the mixed salad leaves and toss to coat."
     },
     {
-      "text": "• To serve, cut the frittata into slices and serve with the mixed leaves. Enjoy!"
+      "text": "To serve, cut the frittata into slices and serve with the mixed leaves. Enjoy!"
     }
   ]
 }

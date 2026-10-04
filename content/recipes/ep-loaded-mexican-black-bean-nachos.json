@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/loaded-mexican-black-bean-nachos-5e036e06.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 757,
+    "proteinG": 28,
+    "carbsG": 78,
+    "fatG": 33.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",

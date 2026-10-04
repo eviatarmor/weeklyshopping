@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/smashed-chickpea-tacos-05e7cbf4.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 959,
+    "proteinG": 27.4,
+    "carbsG": 79.8,
+    "fatG": 55.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -132,7 +138,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62b157f1a2482eb31d009a5d/step-430b99fd.jpg"
     },
     {
-      "text": "• Microwave mini flour tortillas on a plate in 10 second bursts until warmed through.",
+      "text": "Microwave mini flour tortillas on a plate in 10 second bursts until warmed through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62b157f1a2482eb31d009a5d/step-d0b78996.jpg"
     },
     {

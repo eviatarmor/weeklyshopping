@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/563064ca79a23c5a498b4567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 378,
+    "proteinG": 13.3,
+    "carbsG": 71,
+    "fatG": 2.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -124,7 +130,7 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, drain and rinse the chickpeas. Finely chop the red onion, coriander, mint, and birdseye chilli (deseeded). Halve the cucumber and slice into half moons. Trim the snow peas and cut into matchsticks. Lastly, juice the lemon.",
+      "text": "To prepare the ingredients, drain and rinse the chickpeas. Finely chop the red onion, coriander, mint, and birdseye chilli (deseeded). Halve the cucumber and slice into half moons. Trim the snow peas and cut into matchsticks. Lastly, juice the lemon.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/563064ca79a23c5a498b4567/step_56497b591b0a6.jpg"
     },
     {
@@ -132,17 +138,17 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/563064ca79a23c5a498b4567/step_56497b593a49c.jpg"
     },
     {
-      "text": "• Cook the rice stick noodles according to the packet directions. Drain. Transfer to a large bowl. Add the remaining coriander and mint, cucumber and snow peas."
+      "text": "Cook the rice stick noodles according to the packet directions. Drain. Transfer to a large bowl. Add the remaining coriander and mint, cucumber and snow peas."
     },
     {
-      "text": "• Meanwhile, in a small bowl combine the remaining soy sauce, water, lemon juice, and brown sugar. Add the dressing to the noodles and toss to coat well."
+      "text": "Meanwhile, in a small bowl combine the remaining soy sauce, water, lemon juice, and brown sugar. Add the dressing to the noodles and toss to coat well."
     },
     {
-      "text": "• Heat some olive oil in a medium frying pan over a medium-high heat. Add the chickpea patties and cook for 3 minutes on each side or until golden and heated through.",
+      "text": "Heat some olive oil in a medium frying pan over a medium-high heat. Add the chickpea patties and cook for 3 minutes on each side or until golden and heated through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/563064ca79a23c5a498b4567/step_56497b5956f64.jpg"
     },
     {
-      "text": "• To serve, divide the noodles between bowls and top with the chickpea patties. If you have extra chilli, use it to garnish."
+      "text": "To serve, divide the noodles between bowls and top with the chickpea patties. If you have extra chilli, use it to garnish."
     }
   ]
 }

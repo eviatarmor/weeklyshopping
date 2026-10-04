@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "HelloHero: One-Pan Pesto Plant-Based Mince Couscous",
   "subtitle": "with Veggies & Creamy Pesto Dressing",
-  "description": "This robustly-flavoured recipe comes together in just one pan, and with two kinds of pesto: our sundried tomato-based red pesto, which the lemony veggie mince and couscous soak up like a treat, and our creamy basil pesto dressing for the finishing touch.\nWe’ve replaced the red pesto in this recipe with basil pesto due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "This robustly-flavoured recipe comes together in just one pan, and with two kinds of pesto: our sundried tomato-based red pesto, which the lemony veggie mince and couscous soak up like a treat, and our creamy basil pesto dressing for the finishing touch. We’ve replaced the red pesto in this recipe with basil pesto due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/one-pan-pesto-chicken-and-couscous-67f836270d0527cba53a5706",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-one-pot-chicken-couscous-c88a8df7-875964df.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 714,
+    "proteinG": 27.7,
+    "carbsG": 47.6,
+    "fatG": 44.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

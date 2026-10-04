@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "HelloHero: Plant-Based Mince Bolognese Pasta Bake",
   "subtitle": "with Garden Salad",
-  "description": "Sit back and watch how the cheesy plant-based mince bolognese goodness, bakes up to golden perfection in the oven, while you whip up an easy apple salad. Dinner done in a flash!\nWe’ve replaced the fusilli in this recipe with wholemeal fusilli due to local ingredient availability. It may be a little different to what’s pictured, but just as delicious!\nThis recipe is under 650kcal per serving.",
+  "description": "Sit back and watch how the cheesy plant-based mince bolognese goodness, bakes up to golden perfection in the oven, while you whip up an easy apple salad. Dinner done in a flash! We’ve replaced the fusilli in this recipe with wholemeal fusilli due to local ingredient availability. It may be a little different to what’s pictured, but just as delicious! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-cheesy-plant-based-mince-bolognese-pasta-bake-67f8367b0d0527cba53a58cc",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R39_W46_AUS_apple_edit__Main_high-0a1391f0.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 801,
+    "proteinG": 37.2,
+    "carbsG": 78.3,
+    "fatG": 34.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

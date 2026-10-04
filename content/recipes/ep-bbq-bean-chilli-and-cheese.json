@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/american-style-bean-chilli-yoghurt-7c87cbd8.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 883,
+    "proteinG": 32.8,
+    "carbsG": 114.6,
+    "fatG": 27.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey-Thyme Haloumi & Veggie Couscous",
   "subtitle": "with Baby Spinach Leaves & Lemon Yoghurt",
-  "description": "There was complete mayhem when this dish hit our tasting table. With sweet honey and fragrant thyme on warm, salty haloumi, plus roasted veggies and a tasty lemony yoghurt, it disappeared from the bowl in record time. Enjoy!\nThis recipe is under 650kcal per serving.",
+  "description": "There was complete mayhem when this dish hit our tasting table. With sweet honey and fragrant thyme on warm, salty haloumi, plus roasted veggies and a tasty lemony yoghurt, it disappeared from the bowl in record time. Enjoy! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-and-thyme-haloumi-couscous-67511d0e53225fdd9d2bba0f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66694d271da69cc5362c9ae6-d3c0fd08.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 575,
+    "proteinG": 28.2,
+    "carbsG": 48.5,
+    "fatG": 29.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

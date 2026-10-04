@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Tex-Mex Veggie Tacos",
   "subtitle": "with Plant-Based Meat & Corn Salsa",
-  "description": "You read that right, plant-based, slow-braised 'meat' is on the menu, and we can't wait for you to try it! Cook it\nwith mild Tex-Mex spices and chipotle sauce and be pleasantly surprised.",
+  "description": "You read that right, plant-based, slow-braised 'meat' is on the menu, and we can't wait for you to try it! Cook it with mild Tex-Mex spices and chipotle sauce and be pleasantly surprised.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-tex-mex-veggie-tacos-61414dad87a1f91b03254cc4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/meatless-monday-tacos-6b153467.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 702,
+    "proteinG": 15.1,
+    "carbsG": 74.7,
+    "fatG": 35.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -99,7 +105,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61414dad87a1f91b03254cc4/step-c64af55e.jpg"
     },
     {
-      "text": "• Add the cherry tomatoes, a drizzle of white wine vinegar, a drizzle of olive oil and a pinch of salt and pepper to the corn. Toss to combine. Set aside.",
+      "text": "Add the cherry tomatoes, a drizzle of white wine vinegar, a drizzle of olive oil and a pinch of salt and pepper to the corn. Toss to combine. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61414dad87a1f91b03254cc4/step-a6587bae.jpg"
     },
     {

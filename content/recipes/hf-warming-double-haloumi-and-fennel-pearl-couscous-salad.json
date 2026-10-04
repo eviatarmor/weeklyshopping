@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W27_AU_R23189-3_Main_roasted_haloumi_add_pesto_dressing_edit_high-9c729600.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 986,
+    "proteinG": 45.8,
+    "carbsG": 56.5,
+    "fatG": 64.1
+  },
   "tags": [
     "hellofresh",
     "australian",

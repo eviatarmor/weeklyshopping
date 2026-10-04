@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spinach-falafel-roast-veggie-medley-49e8e8fa.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 745,
+    "proteinG": 27,
+    "carbsG": 37.6,
+    "fatG": 53.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -86,7 +92,7 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 240°C/220°C fan-forced. Cut potato into bite-sized chunks. Cut carrot into half-moons.",
+      "text": "Preheat oven to 240°C/220°C fan-forced. Cut potato into bite-sized chunks. Cut carrot into half-moons.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637ffd8cde439bda2f07e53b/step-6e391cf2.jpg"
     },
     {

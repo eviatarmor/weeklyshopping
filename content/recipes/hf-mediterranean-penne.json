@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/54f798ce6ced6ed0388b456b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 566,
+    "proteinG": 0,
+    "carbsG": 16.7,
+    "fatG": 46.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -93,19 +99,19 @@
   ],
   "steps": [
     {
-      "text": "• Bring a large pot of salted water to the boil. Add the pasta to the boiling water and cook for approximately 8-10 minutes or until al dente. Drain, rinse under cold water and set aside.",
+      "text": "Bring a large pot of salted water to the boil. Add the pasta to the boiling water and cook for approximately 8-10 minutes or until al dente. Drain, rinse under cold water and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f798ce6ced6ed0388b456b/step_55687c4bd170f.jpg"
     },
     {
-      "text": "• Dice the red onion. Peel and crush the garlic, chop the parsley, pit and halve the kalamata olives, drain the artichoke hearts and wash the rocket. Heat some oil in a pan over a medium-high heat. Add the onion and the garlic, then cook for about 2 minutes or until the onion is translucent. Turn the temperature down to a low heat and add the chopped cherry tomatoes, chopped parsley, olives, and drained artichokes; cook gently for a further 3 minutes, or until the tomatoes are soft",
+      "text": "Dice the red onion. Peel and crush the garlic, chop the parsley, pit and halve the kalamata olives, drain the artichoke hearts and wash the rocket. Heat some oil in a pan over a medium-high heat. Add the onion and the garlic, then cook for about 2 minutes or until the onion is translucent. Turn the temperature down to a low heat and add the chopped cherry tomatoes, chopped parsley, olives, and drained artichokes; cook gently for a further 3 minutes, or until the tomatoes are soft",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f798ce6ced6ed0388b456b/step_55687c4be2f6e.jpg"
     },
     {
-      "text": "• Toss the drained pasta with the vegetables to combine, then throw in the rocket leaves.",
+      "text": "Toss the drained pasta with the vegetables to combine, then throw in the rocket leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f798ce6ced6ed0388b456b/step_55687c4c05093.jpg"
     },
     {
-      "text": "• To serve, crumble a little of the fetta and lightly toss through; if you think fetta makes everything better, add a little more! Season well with salt and pepper and divide the pasta amongst your bowls and enjoy!",
+      "text": "To serve, crumble a little of the fetta and lightly toss through; if you think fetta makes everything better, add a little more! Season well with salt and pepper and divide the pasta amongst your bowls and enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f798ce6ced6ed0388b456b/step_55687c4c18caa.jpg"
     }
   ]

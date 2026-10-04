@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1030_W40_AU_R10483-4_main_add_crispy_shallots_edit_high-88537714.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 721,
+    "proteinG": 26.5,
+    "carbsG": 97.4,
+    "fatG": 27.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

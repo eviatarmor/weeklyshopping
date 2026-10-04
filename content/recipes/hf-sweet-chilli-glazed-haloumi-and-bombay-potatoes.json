@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sweet Chilli-Glazed Haloumi & Bombay Potatoes",
   "subtitle": "with Orange Salad & Garlic Aioli",
-  "description": "Dive into this bowl of salty, squeaky haloumi slathered in a sweet chilli and perfectly paired with golden, spiced potatoes. Plus, juicy orange wedges scattered throughout the salad really makes this dish shine for an unexpected flavour sensation!",
+  "description": "Dive into this bowl of salty, squeaky haloumi slathered in a sweet chilli and perfectly paired with golden, spiced potatoes. Plus, juicy orange wedges scattered throughout the salad really makes this dish shine for an unexpected flavour sensation!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-chilli-glazed-haloumi-and-bombay-potatoes-660277d8b8d1e1d58ab30cf9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/660277d8b8d1e1d58ab30cf9-2dab2655.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 748,
+    "proteinG": 27.3,
+    "carbsG": 53.6,
+    "fatG": 43.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

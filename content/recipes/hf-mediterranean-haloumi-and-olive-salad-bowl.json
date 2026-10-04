@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mediterranean Haloumi & Olive Salad Bowl",
   "subtitle": "with Garlic Croutons & Creamy Pesto Dressing",
-  "description": "Freshen up your mealtimes with this tasty bowl of goodness! It’s full of veggies and flavour, with olives, haloumi and hearty garlicky croutons to round out the stellar salad. This is one salad that is made for making friends – or you can just enjoy the whole thing yourself! \nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Freshen up your mealtimes with this tasty bowl of goodness! It’s full of veggies and flavour, with olives, haloumi and hearty garlicky croutons to round out the stellar salad. This is one salad that is made for making friends – or you can just enjoy the whole thing yourself! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-haloumi-and-olive-salad-bowl-67f83426cade9b9f0acdb639",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/664e730a0ab4934df86335a1-74000d00-66b54940.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 748,
+    "proteinG": 27,
+    "carbsG": 55.8,
+    "fatG": 46
+  },
   "tags": [
     "hellofresh",
     "italian",

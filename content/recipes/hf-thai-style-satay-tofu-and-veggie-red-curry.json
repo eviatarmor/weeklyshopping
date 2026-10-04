@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Satay Tofu & Veggie Thai Red Curry",
   "subtitle": "with Garlic Rice & Pickled Onion",
-  "description": "Tender tofu is one of our favourite ingredients for soaking up bold Thai flavours. In this plant-based dish, the peanutty\nMalaysian tofu works a treat with the creamy, zingy sauce and fluffy rice.",
+  "description": "Tender tofu is one of our favourite ingredients for soaking up bold Thai flavours. In this plant-based dish, the peanutty Malaysian tofu works a treat with the creamy, zingy sauce and fluffy rice.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-style-satay-tofu-and-veggie-red-curry-65404ab47ab5c897ad152327",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65404ab47ab5c897ad152327-4ea7ae2f.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 860,
+    "proteinG": 23.8,
+    "carbsG": 97.3,
+    "fatG": 39.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

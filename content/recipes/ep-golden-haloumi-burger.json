@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4026_W15_AU_EP6406-24_Main_high-aa7962ed.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 762,
+    "proteinG": 30.8,
+    "carbsG": 74.1,
+    "fatG": 37.9
+  },
   "tags": [
     "everyplate",
     "greek",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6715acf8ffa4e28ccb95b1dd-0f132732.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 753,
+    "proteinG": 35.2,
+    "carbsG": 64.4,
+    "fatG": 36.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -142,7 +148,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6715acf8ffa4e28ccb95b1dd-b602e3de.jpeg"
     },
     {
-      "text": "• Divide the lentil shepherd's pie and garlic greens between plates. Enjoy!",
+      "text": "Divide the lentil shepherd's pie and garlic greens between plates. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6715acf8ffa4e28ccb95b1dd-a75be974.jpeg"
     }
   ]

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Pulled Mushroom Ragu & Fettuccine",
   "subtitle": "with Garlic-Rosemary Pangrattato & Pear Salad",
-  "description": "Craving a big bowl of pasta with slow-cooked flavours that comes together fast? Our rich ragu and fettuccine dish uses one of our new\nveggie alternative proteins - a plant-based slow braised meat, made primarily from mushrooms - for absolute decadence with every bite!",
+  "description": "Craving a big bowl of pasta with slow-cooked flavours that comes together fast? Our rich ragu and fettuccine dish uses one of our new veggie alternative proteins - a plant-based slow braised meat, made primarily from mushrooms - for absolute decadence with every bite!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/pulled-mushroom-ragu-fettuccine-6045529d470a101ca61ddd95",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pulled-mushroom-ragu-fettuccine-01fdd04f.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1002,
+    "proteinG": 33.3,
+    "carbsG": 123.9,
+    "fatG": 41.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

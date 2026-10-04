@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65e015a80501f0f3b91cdbfe-686f0739.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 589,
+    "proteinG": 20.9,
+    "carbsG": 61.6,
+    "fatG": 25.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -106,7 +112,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65e015a80501f0f3b91cdbfe-f3844654.jpeg"
     },
     {
-      "text": "• Build tacos by spreading the mayonnaise over tortillas then filling with salad and tofu.",
+      "text": "Build tacos by spreading the mayonnaise over tortillas then filling with salad and tofu.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65e015a80501f0f3b91cdbfe-e96e1d32.jpeg"
     }
   ]

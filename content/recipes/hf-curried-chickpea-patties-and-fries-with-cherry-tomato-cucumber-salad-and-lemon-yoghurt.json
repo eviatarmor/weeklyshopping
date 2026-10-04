@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/curried-chickpea-patties-6fdaf635.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 615,
+    "proteinG": 22.4,
+    "carbsG": 85.7,
+    "fatG": 17.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

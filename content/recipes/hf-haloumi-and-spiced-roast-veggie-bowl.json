@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Spiced Roast Veggie Bowl",
   "subtitle": "with Garlic Yoghurt Dressing",
-  "description": "Here’s a hearty vegetarian meal that brings inspiration from across the globe to your plate. Flavourful haloumi meets roasted\nveggies tossed with Middle Eastern-inspired spices, while a garlicky yoghurt dressing and roasted almonds finish it off.",
+  "description": "Here’s a hearty vegetarian meal that brings inspiration from across the globe to your plate. Flavourful haloumi meets roasted veggies tossed with Middle Eastern-inspired spices, while a garlicky yoghurt dressing and roasted almonds finish it off.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-and-spiced-roast-veggie-bowl-5bfe3d11e3f33933eb059de2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/dukkah-roast-veggies-haloumi-8ca9b489.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 694,
+    "proteinG": 34.2,
+    "carbsG": 45.3,
+    "fatG": 38.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

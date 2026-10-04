@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4026_W09_AU_EP18967-10_Main_7_add_drizzle_yoghurt_edit_high-4f766138.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 647,
+    "proteinG": 27.8,
+    "carbsG": 50.1,
+    "fatG": 37
+  },
   "tags": [
     "everyplate",
     "moroccan",

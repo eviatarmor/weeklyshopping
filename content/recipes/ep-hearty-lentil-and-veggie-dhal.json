@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/hearty-lentil-veggie-dhal-f46791ab.jpg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 871,
+    "proteinG": 33.8,
+    "carbsG": 83.4,
+    "fatG": 40.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",

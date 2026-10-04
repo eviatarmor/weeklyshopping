@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Southeast Asian Crumbed Tofu",
   "subtitle": "with Sesame Wedges, Japanese Slaw & Soy Mayo",
-  "description": "This meal is a collection of all of our favourite flavours that just seem to give off the best golden crunch. Dip tofu in our Southeast Asian spice blend that packs a punch and crisp it up to golden perfection. Pair your tofu with some golden sesame sweet potato wedges and a colourful Asian slaw - you'll thank us later!\nThis recipe is under 650kcal per serving.",
+  "description": "This meal is a collection of all of our favourite flavours that just seem to give off the best golden crunch. Dip tofu in our Southeast Asian spice blend that packs a punch and crisp it up to golden perfection. Pair your tofu with some golden sesame sweet potato wedges and a colourful Asian slaw - you'll thank us later! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/southeast-asian-crumbed-chicken-and-sesame-wedges-67f86e77cade9b9f0acef2e8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1010_W13_AUS_edit_wedges__MAIN_high-15bfa163.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 609,
+    "proteinG": 26.5,
+    "carbsG": 45.2,
+    "fatG": 34.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1033_W29_AU_R55853-7main_edit_no_pine_nuts__high-11e9e375.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 935,
+    "proteinG": 46.8,
+    "carbsG": 61.8,
+    "fatG": 54.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

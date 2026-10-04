@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian-Spiced Cauliflower Bowl",
   "subtitle": "with Couscous, Silverbeet & Mumbai Spice Sauce",
-  "description": "Couscous – the grain so nice they named it twice! Here we’ve added our favourite grain to work its magic in another delish bowl, paired with Indian-spiced veggies and a Mumbai-laced sauce. This one is extra saucy and has proven to be the perfect consistency for everything to soak up!\nThis recipe is under 650kcal per serving.",
+  "description": "Couscous – the grain so nice they named it twice! Here we’ve added our favourite grain to work its magic in another delish bowl, paired with Indian-spiced veggies and a Mumbai-laced sauce. This one is extra saucy and has proven to be the perfect consistency for everything to soak up! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/indian-spiced-cauliflower-bowl-64227820c48c491a110e73b5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-spiced-cauliflower-bowl-66227ded.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 576,
+    "proteinG": 19.5,
+    "carbsG": 77.3,
+    "fatG": 18.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -156,7 +162,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/64227820c48c491a110e73b5/step-dcef55e2.jpg"
     },
     {
-      "text": "• Add silverbeet to Mumbai spice sauce and cook, strring, until just wilted, 1-2 minutes. Season to taste. TIP: Add a splash of water if the sauce looks too thick.",
+      "text": "Add silverbeet to Mumbai spice sauce and cook, strring, until just wilted, 1-2 minutes. Season to taste. TIP: Add a splash of water if the sauce looks too thick.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/64227820c48c491a110e73b5/step-e00dc110.jpg"
     },
     {

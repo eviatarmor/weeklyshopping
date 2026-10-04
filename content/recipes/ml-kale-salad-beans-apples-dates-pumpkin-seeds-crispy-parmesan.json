@@ -6,6 +6,12 @@
   "imageUrl": "https://cdn-uploads.mealime.com/uploads/recipe_variant/thumbnail/23090/presentation_ac1e984e-69d5-486d-b216-41cb06d4a108.jpeg",
   "servings": 4,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 666,
+    "proteinG": 26.3,
+    "carbsG": 64,
+    "fatG": 37.3
+  },
   "tags": [
     "vegetarian",
     "mealime"

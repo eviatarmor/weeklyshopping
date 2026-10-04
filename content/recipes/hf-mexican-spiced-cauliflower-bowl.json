@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Spiced Cauliflower Bowl",
   "subtitle": "with Cheesy Sweet Potato Wedges & Rainbow Slaw",
-  "description": "This dish is all about the little differences. Roasted sweet potato is topped with melted cheese, cauliflower is tossed\nin Mexican spices before being baked until crisp and golden, and mayo is flavoured with chipotle. They all combine\nto make a colourful bowl that's incredibly more-ish.\nThis recipe is under 650kcal per serving.",
+  "description": "This dish is all about the little differences. Roasted sweet potato is topped with melted cheese, cauliflower is tossed in Mexican spices before being baked until crisp and golden, and mayo is flavoured with chipotle. They all combine to make a colourful bowl that's incredibly more-ish. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-spiced-cauliflower-bowl-5e3102081c03560946292aae",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-spiced-cauliflower-bowl-c4f25095.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 18.2,
+    "carbsG": 52.9,
+    "fatG": 21.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

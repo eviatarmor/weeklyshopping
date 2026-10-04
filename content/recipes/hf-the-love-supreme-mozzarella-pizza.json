@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55792307fd2cb9993a8b4568.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 915,
+    "proteinG": 39.6,
+    "carbsG": 97.2,
+    "fatG": 38
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -99,19 +105,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 220°C/200°C fan-forced."
+      "text": "Preheat the oven to 220°C/200°C fan-forced."
     },
     {
-      "text": "• To prepare the ingredients, slice the cheese, mushrooms and capsicum. Shave the zucchini into ribbons and peel and crush the garlic. Pick the basil leaves for garnish."
+      "text": "To prepare the ingredients, slice the cheese, mushrooms and capsicum. Shave the zucchini into ribbons and peel and crush the garlic. Pick the basil leaves for garnish."
     },
     {
-      "text": "• Place the pizza bases rough side down and spread each with the tomato paste and sprinkle with the HelloFresh dried herbs. Top with the buffalo mozzarella, zucchini, mushrooms, and capsicum. Combine the garlic and half of the olive oil and drizzle over the pizzas. Place in the oven and cook for 5-8 minutes, or until the mozzarella has melted. The best results are when you slide the pizza straight onto the wire racks with an oven tray underneath to catch anything that falls."
+      "text": "Place the pizza bases rough side down and spread each with the tomato paste and sprinkle with the HelloFresh dried herbs. Top with the buffalo mozzarella, zucchini, mushrooms, and capsicum. Combine the garlic and half of the olive oil and drizzle over the pizzas. Place in the oven and cook for 5-8 minutes, or until the mozzarella has melted. The best results are when you slide the pizza straight onto the wire racks with an oven tray underneath to catch anything that falls."
     },
     {
-      "text": "• Meanwhile, toss the mixed salad in the remaining olive oil and the balsamic vinegar. Season with salt and pepper."
+      "text": "Meanwhile, toss the mixed salad in the remaining olive oil and the balsamic vinegar. Season with salt and pepper."
     },
     {
-      "text": "• To serve, top the pizzas with the basil leaves and serve with the dressed salad."
+      "text": "To serve, top the pizzas with the basil leaves and serve with the dressed salad."
     }
   ]
 }

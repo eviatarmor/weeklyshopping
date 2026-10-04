@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Grilled Gnocchi & Veggies",
   "subtitle": "with Cheddar Cheese & Pear Salad",
-  "description": "Soft pillowy bundles of potato gnocchi, smothered in cheese and baked until deliciously golden and oozy. Now, if that hasn’t\ngot your mouth watering, wait until you pull this dish of bubbling goodness from your oven.",
+  "description": "Soft pillowy bundles of potato gnocchi, smothered in cheese and baked until deliciously golden and oozy. Now, if that hasn’t got your mouth watering, wait until you pull this dish of bubbling goodness from your oven.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-grilled-gnocchi-veggies-631692202174127b500ecde1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-grilled-gnocchi-veggies-da58899c.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 735,
+    "proteinG": 24.6,
+    "carbsG": 88.5,
+    "fatG": 28.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

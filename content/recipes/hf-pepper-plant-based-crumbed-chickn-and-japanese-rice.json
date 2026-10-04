@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1046_W31_AU_R11098-7_Main_add_schnitzel_edit_high-6106b393.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 889,
+    "proteinG": 33,
+    "carbsG": 130,
+    "fatG": 22.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

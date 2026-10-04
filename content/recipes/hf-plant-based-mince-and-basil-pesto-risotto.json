@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bacon-basil-pesto-risotto-c524da63-e81dd08d.jpg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 862,
+    "proteinG": 33.2,
+    "carbsG": 87.9,
+    "fatG": 40.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

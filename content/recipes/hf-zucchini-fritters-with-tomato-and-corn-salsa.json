@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/568d81d8f8b25ebc0a8b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 366,
+    "proteinG": 19.8,
+    "carbsG": 33.5,
+    "fatG": 14.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -84,25 +90,25 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, grate the zucchini and husk the corn. Quarter the cherry tomatoes and finely chop the mint. Zest the lemon and cut it into wedges. Lastly, crumble the fetta cheese and wash the rocket leaves."
+      "text": "To prepare the ingredients, grate the zucchini and husk the corn. Quarter the cherry tomatoes and finely chop the mint. Zest the lemon and cut it into wedges. Lastly, crumble the fetta cheese and wash the rocket leaves."
     },
     {
-      "text": "• Place the grated zucchini in a colander over a bowl or sink and sprinkle with a good pinch of salt. Leave for 10 minutes. The salt will help drain some of the liquid from the zucchini. This will ensure your fritters stick together well in the pan, so don't skip this step.",
+      "text": "Place the grated zucchini in a colander over a bowl or sink and sprinkle with a good pinch of salt. Leave for 10 minutes. The salt will help drain some of the liquid from the zucchini. This will ensure your fritters stick together well in the pan, so don't skip this step.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/568d81d8f8b25ebc0a8b4567/step_568d84525c309.jpg"
     },
     {
-      "text": "• Meanwhile, heat a lightly greased chargrill pan over a high heat. Add the corn cob and cook, turning occasionally, for 5 minutes or until charred. Transfer the corn cob to a chopping board and using a sharp knife cut off the corn kernels. Combine the cherry tomatoes and corn kernels in a small bowl and drizzle with a little olive oil and the juice of half of the lemon wedges. Set aside.",
+      "text": "Meanwhile, heat a lightly greased chargrill pan over a high heat. Add the corn cob and cook, turning occasionally, for 5 minutes or until charred. Transfer the corn cob to a chopping board and using a sharp knife cut off the corn kernels. Combine the cherry tomatoes and corn kernels in a small bowl and drizzle with a little olive oil and the juice of half of the lemon wedges. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/568d81d8f8b25ebc0a8b4567/step_568d845295c51.jpg"
     },
     {
-      "text": "• Place the drained zucchini in a muslin cloth or clean tea towel and squeeze out as much remaining liquid as you can. Transfer to a bowl and combine with the fetta cheese, mint, a pinch of the lemon zest (you can discard the rest) and the plain flour. The mixture should stick together really well. Form into patties (three per person)."
+      "text": "Place the drained zucchini in a muslin cloth or clean tea towel and squeeze out as much remaining liquid as you can. Transfer to a bowl and combine with the fetta cheese, mint, a pinch of the lemon zest (you can discard the rest) and the plain flour. The mixture should stick together really well. Form into patties (three per person)."
     },
     {
-      "text": "• Heat the olive oil in a large frying pan over a medium-high heat. Add the fritters and cook for 1-2 minutes on each side or until golden.",
+      "text": "Heat the olive oil in a large frying pan over a medium-high heat. Add the fritters and cook for 1-2 minutes on each side or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/568d81d8f8b25ebc0a8b4567/step_568d8452bc0d2.jpg"
     },
     {
-      "text": "• Serve on a bed of rocket leaves with the tomato and corn salsa."
+      "text": "Serve on a bed of rocket leaves with the tomato and corn salsa."
     }
   ]
 }

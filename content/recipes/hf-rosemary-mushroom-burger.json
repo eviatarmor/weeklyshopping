@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Rosemary Mushroom Burger",
   "subtitle": "with Creamy Pesto Dressing & Parmesan Crisps",
-  "description": "Use nature’s patties – large field mushroom cups – in place of meat to make these scrumptious veggie burgers. Give them a little brush with\nrosemary-infused oil and top them with oven-baked Parmesan crisps to create a dinner that's so much better than the local burger joint.",
+  "description": "Use nature’s patties – large field mushroom cups – in place of meat to make these scrumptious veggie burgers. Give them a little brush with rosemary-infused oil and top them with oven-baked Parmesan crisps to create a dinner that's so much better than the local burger joint.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/rosemary-mushroom-burger-60daa9b072d22061be1bf2a5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5fbb34e4b20d627eae3c3700-8c8fc89b.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 730,
+    "proteinG": 21.5,
+    "carbsG": 78,
+    "fatG": 35.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Aussie Haloumi & Pumpkin Wedges",
   "subtitle": "with Apple Salad & Dill & Parsley Mayo",
-  "description": "You’ve never had pumpkin quite like this before! Coating pumpkin wedges with honey then roasting them until\ngolden makes the perfect accompaniment for tasty haloumi. Add a crisp apple salad and a herby mayo to\nround out this low-carb meal.\nThis recipe is under 650kcal per serving.",
+  "description": "You’ve never had pumpkin quite like this before! Coating pumpkin wedges with honey then roasting them until golden makes the perfect accompaniment for tasty haloumi. Add a crisp apple salad and a herby mayo to round out this low-carb meal. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/aussie-haloumi-and-pumpkin-wedges-60f76fb9eb2fcd5b5029f20a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/aussie-haloumi-pumpkin-wedges-26417ce5.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 605,
+    "proteinG": 27.3,
+    "carbsG": 32.7,
+    "fatG": 39.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

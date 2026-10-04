@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cauliflower-burrito-bowl-7c1e920f.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 761,
+    "proteinG": 18.9,
+    "carbsG": 79.3,
+    "fatG": 37.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

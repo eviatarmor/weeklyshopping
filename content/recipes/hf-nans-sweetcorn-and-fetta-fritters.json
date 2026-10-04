@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spiced-corn-fetta-fritters-c185a974-38b3faa4.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 847,
+    "proteinG": 27,
+    "carbsG": 88.7,
+    "fatG": 41.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

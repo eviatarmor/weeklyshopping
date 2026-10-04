@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Zesty Crumbed Haloumi & Sweet Potato Fries",
   "subtitle": "with Pesto Fetta Salad",
-  "description": "Coat juicy haloumi with a zesty crumb for a dinner sure to please. Pop some SP wedges in the oven and whip up a\ncreamy fetta salad with sweet bursts of cherry tomato and a tangy Dijon dressing, and your sides will get a big tick of approval, too!",
+  "description": "Coat juicy haloumi with a zesty crumb for a dinner sure to please. Pop some SP wedges in the oven and whip up a creamy fetta salad with sweet bursts of cherry tomato and a tangy Dijon dressing, and your sides will get a big tick of approval, too!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/zesty-crumbed-haloumi-and-sweet-potato-fries-63f31f612e35d7c34a0efe6f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lemony-crumbed-haloumi-creamy-pesto-1974d663.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 796,
+    "proteinG": 32.5,
+    "carbsG": 63.3,
+    "fatG": 45.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -136,7 +142,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63f31f612e35d7c34a0efe6f/step-688cae30.jpg"
     },
     {
-      "text": "• In a large frying pan, heat enough olive oil to cover the base over medium-high heat. When oil is hot, cook haloumi until golden brown, 2 minutes each side. Set aside on a paper towel-lined plate.",
+      "text": "In a large frying pan, heat enough olive oil to cover the base over medium-high heat. When oil is hot, cook haloumi until golden brown, 2 minutes each side. Set aside on a paper towel-lined plate.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63f31f612e35d7c34a0efe6f/step-15712276.jpg"
     },
     {

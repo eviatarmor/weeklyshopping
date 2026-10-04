@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55a5ff1b4dab71b12c8b4568.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 648,
+    "proteinG": 23.3,
+    "carbsG": 65.8,
+    "fatG": 29.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,25 +114,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. Lightly grease a baking dish."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. Lightly grease a baking dish."
     },
     {
-      "text": "• To prepare the ingredients, dice the cherry tomatoes and the zucchini (into 1 cm pieces). Finely slice the red onion and grate the Cheddar cheese. Pick the coriander leaves and juice the lime. Lastly, drain and rinse the red kidney beans."
+      "text": "To prepare the ingredients, dice the cherry tomatoes and the zucchini (into 1 cm pieces). Finely slice the red onion and grate the Cheddar cheese. Pick the coriander leaves and juice the lime. Lastly, drain and rinse the red kidney beans."
     },
     {
-      "text": "• Combine the cherry tomatoes, lime juice and the coriander in a small bowl. Season well with salt. Set aside.",
+      "text": "Combine the cherry tomatoes, lime juice and the coriander in a small bowl. Season well with salt. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55a5ff1b4dab71b12c8b4568/step_55a6ffabe0a62.jpg"
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Add the red onion and zucchini and cook, stirring, for 5 minutes or until the onion is soft. Add the Mexican spice mix and cook, stirring, for 30 seconds. Add the red kidney beans, half of the enchilada sauce and the water and stir to combine. Bring to a boil and then reduce the heat to a medium-low heat and simmer for 10 minutes or until the sauce has thickened.",
+      "text": "Heat the olive oil in a medium frying pan over a medium-high heat. Add the red onion and zucchini and cook, stirring, for 5 minutes or until the onion is soft. Add the Mexican spice mix and cook, stirring, for 30 seconds. Add the red kidney beans, half of the enchilada sauce and the water and stir to combine. Bring to a boil and then reduce the heat to a medium-low heat and simmer for 10 minutes or until the sauce has thickened.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55a5ff1b4dab71b12c8b4568/step_55a6ffac113a8.jpg"
     },
     {
-      "text": "• Place one tortilla on a flat surface. Top with ¼ cup of the bean mixture. Roll up to close. Place, seam side down, in the prepared baking dish. Repeat with the remaining tortillas and bean mixture. Top the tortillas with the remaining enchilada sauce and sprinkle with the cheddar cheese. Place in the oven for 20 minutes or until the cheese has melted and is golden.",
+      "text": "Place one tortilla on a flat surface. Top with ¼ cup of the bean mixture. Roll up to close. Place, seam side down, in the prepared baking dish. Repeat with the remaining tortillas and bean mixture. Top the tortillas with the remaining enchilada sauce and sprinkle with the cheddar cheese. Place in the oven for 20 minutes or until the cheese has melted and is golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55a5ff1b4dab71b12c8b4568/step_55a6ffac1e716.jpg"
     },
     {
-      "text": "• To serve, divide the enchiladas between plates and top with the fresh salsa and sour cream."
+      "text": "To serve, divide the enchiladas between plates and top with the fresh salsa and sour cream."
     }
   ]
 }

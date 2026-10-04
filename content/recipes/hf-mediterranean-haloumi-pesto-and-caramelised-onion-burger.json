@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-onion-burger-wedges-469453c6.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 917,
+    "proteinG": 30.9,
+    "carbsG": 81,
+    "fatG": 48.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

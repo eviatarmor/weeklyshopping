@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-bean-baked-quesadillas-41e5e767.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 706,
+    "proteinG": 27.8,
+    "carbsG": 72.7,
+    "fatG": 29.1
+  },
   "tags": [
     "vegetarian",
     "everyplate",

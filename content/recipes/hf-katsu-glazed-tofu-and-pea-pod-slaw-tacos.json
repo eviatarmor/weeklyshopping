@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/katsu-glazed-tofu-pea-pod-slaw-tacos-259889d6.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 799,
+    "proteinG": 27.6,
+    "carbsG": 66.9,
+    "fatG": 48.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -114,7 +120,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/646c88919706808a2d01a908/step-d4d61fe7.jpg"
     },
     {
-      "text": "• In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
+      "text": "In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/646c88919706808a2d01a908/step-b1c0d17d.jpg"
     },
     {

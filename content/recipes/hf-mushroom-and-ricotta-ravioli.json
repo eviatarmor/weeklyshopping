@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_AU_CYCLE_24_Fresh_Mushroom_Ravioli__Charred_Zucchini_Main-8eac99bc.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 687,
+    "proteinG": 24.9,
+    "carbsG": 54.3,
+    "fatG": 37.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

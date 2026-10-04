@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4007_W23_AU_EP6498-31_main_high-6d376279.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 699,
+    "proteinG": 31.5,
+    "carbsG": 72.6,
+    "fatG": 28.9
+  },
   "tags": [
     "everyplate",
     "mexican",

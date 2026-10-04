@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/52faee4b453bc0b8e58b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 430,
+    "proteinG": 18,
+    "carbsG": 50.6,
+    "fatG": 12.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -89,17 +95,17 @@
   ],
   "steps": [
     {
-      "text": "• Preheat your oven to 200 degrees C/180 degrees fan-forced."
+      "text": "Preheat your oven to 200 degrees C/180 degrees fan-forced."
     },
     {
-      "text": "• In a salad bowl toss together the cauliflower florets, almonds, za'atar, and the olive oil. Place on a baking tray, season with salt and pepper and put into the oven for 15-20 minutes, or until golden brown. Remove from the oven and place back into the salad bowl, add the butter and toss until melted.",
+      "text": "In a salad bowl toss together the cauliflower florets, almonds, za'atar, and the olive oil. Place on a baking tray, season with salt and pepper and put into the oven for 15-20 minutes, or until golden brown. Remove from the oven and place back into the salad bowl, add the butter and toss until melted.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/52faee4b453bc0b8e58b4567/step_55687a730f255.jpg"
     },
     {
-      "text": "• Heat some oil in a pan over a medium-high heat, add the pearl couscous and stir to toast and coat for 1-2 minutes. Add the water and a good grind of salt and bring to a boil, reduce heat and allow to simmer for 8-10 minutes."
+      "text": "Heat some oil in a pan over a medium-high heat, add the pearl couscous and stir to toast and coat for 1-2 minutes. Add the water and a good grind of salt and bring to a boil, reduce heat and allow to simmer for 8-10 minutes."
     },
     {
-      "text": "• Add the couscous to the cauliflower mixture and stir well to combine, season with salt and pepper, and toss through the parsley. Divide between plates or bowls and enjoy!",
+      "text": "Add the couscous to the cauliflower mixture and stir well to combine, season with salt and pepper, and toss through the parsley. Divide between plates or bowls and enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/52faee4b453bc0b8e58b4567/step_55687b1534a00.jpg"
     }
   ]

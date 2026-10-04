@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Alan's Mexican Veggie Tortilla Stack",
   "subtitle": "with Tomato, Cucumber & Jalapeño Salsa",
-  "description": "When Alan suggested we create a vegetarian tortilla stack, we got right onto it. Not only because he's a nice guy, but because\nhe's our Director of Finance! So, here it is (just in time for pay day) – filled with black beans and veggies coated in our Mexican\nFiesta spice blend, plus layers of oozy melted cheese, and topped with a refreshing salsa and a dollop of sour cream.",
+  "description": "When Alan suggested we create a vegetarian tortilla stack, we got right onto it. Not only because he's a nice guy, but because he's our Director of Finance! So, here it is (just in time for pay day) – filled with black beans and veggies coated in our Mexican Fiesta spice blend, plus layers of oozy melted cheese, and topped with a refreshing salsa and a dollop of sour cream.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/alans-mexican-veggie-tortilla-stack-5e68358233edef3fe825c17b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/alan-s-mexican-veggie-tortilla-stack-a722d041.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 815,
+    "proteinG": 32.1,
+    "carbsG": 85.7,
+    "fatG": 34.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -127,7 +133,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638572ebc36c62a7a50083dc/step-af8a0388.jpg"
     },
     {
-      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook onion and carrot, stirring, until softened, 5-6 minutes.",
+      "text": "In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook onion and carrot, stirring, until softened, 5-6 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638572ebc36c62a7a50083dc/step-abb2a13d.jpg"
     },
     {

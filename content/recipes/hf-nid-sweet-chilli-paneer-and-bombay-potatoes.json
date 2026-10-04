@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sweet Chilli Paneer & Bombay Potatoes",
   "subtitle": "with Cucumber Salad & Garlic Aioli",
-  "description": "Dive into this bowl of salty, squeaky paneer slathered in sweet chilli and perfectly paired with golden, Mumbai-spiced potatoes. Plus, fresh cucumber scattered throughout the salad really makes this dish shine for an unexpected flavour sensation!\nDue to recent weather,\nyou may see a few more\npotatoes in your meal kit\nthis week! Sizes are a bit\nsmaller right now, so our\nteam picks enough to match\nyour recipe. Big or small,\nyou’ll always have the right\namount for dinner.",
+  "description": "Dive into this bowl of salty, squeaky paneer slathered in sweet chilli and perfectly paired with golden, Mumbai-spiced potatoes. Plus, fresh cucumber scattered throughout the salad really makes this dish shine for an unexpected flavour sensation! Due to recent weather, you may see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to match your recipe. Big or small, you’ll always have the right amount for dinner.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-chilli-haloumi-and-bombay-potatoes-67f845f40d0527cba53aa359",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1021_W40_AU_R43755-8_Main_high-38d9db5c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 688,
+    "proteinG": 25.7,
+    "carbsG": 43.4,
+    "fatG": 44.5
+  },
   "tags": [
     "hellofresh",
     "indian",

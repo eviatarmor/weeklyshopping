@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "All-American Chilli Bean Potatoes",
   "subtitle": "with Garden Salad",
-  "description": "Two comfort food Titan's collide in this epic dish! We give you, golden baked jacket potatoes topped with an irresistible American-style kidney bean chilli. Add a burst of freshness with a zingy tomato salad and top it all off with a helping of tasty Cheddar cheese. \nThe recent wet weather\nconditions across the East\nCoast have impacted our\nregular supply of fresh\ningredients and as such what\nyou receive may be slightly\ndifferent to what’s pictured.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "Two comfort food Titan's collide in this epic dish! We give you, golden baked jacket potatoes topped with an irresistible American-style kidney bean chilli. Add a burst of freshness with a zingy tomato salad and top it all off with a helping of tasty Cheddar cheese. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/all-american-chilli-bean-potatoes-61a83918fdd10718af7f8572",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/all-american-black-bean-chilli-potatoes-1fad6195.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 518,
+    "proteinG": 25.6,
+    "carbsG": 70.5,
+    "fatG": 9.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

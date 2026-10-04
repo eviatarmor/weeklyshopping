@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-smashed-chickpea-tacos-74d328a8.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 815,
+    "proteinG": 24.8,
+    "carbsG": 73.5,
+    "fatG": 44
+  },
   "tags": [
     "vegetarian",
     "everyplate",

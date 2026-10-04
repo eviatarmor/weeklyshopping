@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56a94e3ff8b25e1a138b4567.jpg",
   "servings": 2,
   "prepMinutes": 55,
+  "nutrition": {
+    "kcal": 490,
+    "proteinG": 17.8,
+    "carbsG": 60.1,
+    "fatG": 17.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -99,21 +105,21 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan forced. To prepare the ingredients, halve the eggplant and cherry tomatoes. Finely chop the mint, coarsely chop the roasted almonds, and roughly chop the parsley."
+      "text": "Preheat the oven to 200°C/180°C fan forced. To prepare the ingredients, halve the eggplant and cherry tomatoes. Finely chop the mint, coarsely chop the roasted almonds, and roughly chop the parsley."
     },
     {
-      "text": "• Score a criss cross pattern in the cutside of the eggplant halves. Combine the harissa paste (be careful, this can be hot!) with half of the olive oil. Rub the harissa mixture into the flesh and then place, cutside up, on one half of the prepared oven tray. Cook in the oven for 20 minutes. Toss the cherry tomatoes in the remaining olive oil and place on the other side of the prepared tray. Season with salt and pepper and place the tray back in the oven and cook for a further 20 minutes.",
+      "text": "Score a criss cross pattern in the cutside of the eggplant halves. Combine the harissa paste (be careful, this can be hot!) with half of the olive oil. Rub the harissa mixture into the flesh and then place, cutside up, on one half of the prepared oven tray. Cook in the oven for 20 minutes. Toss the cherry tomatoes in the remaining olive oil and place on the other side of the prepared tray. Season with salt and pepper and place the tray back in the oven and cook for a further 20 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56a94e3ff8b25e1a138b4567/step_56a9516e0bf6b.jpg"
     },
     {
-      "text": "• Meanwhile, combine the yoghurt and mint. Season with salt and pepper and set aside."
+      "text": "Meanwhile, combine the yoghurt and mint. Season with salt and pepper and set aside."
     },
     {
-      "text": "• Place the couscous in a heatproof bowl. Pour the boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap, leave to sit for 5 minutes. Remove the wrap and fluff the couscous with a fork. Stir through the butter, roasted almonds  and parsley. Gently stir through the roast tomatoes.",
+      "text": "Place the couscous in a heatproof bowl. Pour the boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap, leave to sit for 5 minutes. Remove the wrap and fluff the couscous with a fork. Stir through the butter, roasted almonds and parsley. Gently stir through the roast tomatoes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56a94e3ff8b25e1a138b4567/step_56a9516e4ee30.jpg"
     },
     {
-      "text": "• To serve divide the tomato couscous between plates. Top with the eggplant and a good dollop of the minted yoghurt."
+      "text": "To serve divide the tomato couscous between plates. Top with the eggplant and a good dollop of the minted yoghurt."
     }
   ]
 }

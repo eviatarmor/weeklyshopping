@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chickpea Couscous & Greek Salad Bowl",
   "subtitle": "with Cherry Tomatoes & Fetta",
-  "description": "To amp things up a notch, we've swapped your standard rice for couscous for a fluffy and fragrant delight. You've also got yourself\nsome hearty chickpeas, Greek salad with fetta, and a luscious green dressing, all of which are major flavour powerhouses that give you\na light, bright and tasty dish!\nThis recipe is under 650kcal per serving.",
+  "description": "To amp things up a notch, we've swapped your standard rice for couscous for a fluffy and fragrant delight. You've also got yourself some hearty chickpeas, Greek salad with fetta, and a luscious green dressing, all of which are major flavour powerhouses that give you a light, bright and tasty dish! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chickpea-couscous-and-greek-salad-bowl-671b12871fda05b1d5f95f05",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/671b12871fda05b1d5f95f05-b989b8e3.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 437,
+    "proteinG": 23.4,
+    "carbsG": 65,
+    "fatG": 13.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

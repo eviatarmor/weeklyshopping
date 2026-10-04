@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67a0a0e89c4cafbaaa0401d1-cc3a725f.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 801,
+    "proteinG": 30.1,
+    "carbsG": 75.5,
+    "fatG": 39.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -118,7 +124,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a0a0e89c4cafbaaa0401d1-d3338467.jpeg"
     },
     {
-      "text": "• Divide Malaysian-spiced tofu curry between bowls to serve.",
+      "text": "Divide Malaysian-spiced tofu curry between bowls to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a0a0e89c4cafbaaa0401d1-d2711e40.jpeg"
     }
   ]

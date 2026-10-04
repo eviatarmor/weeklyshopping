@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Asian-Style Roast Pumpkin & Radish Salad",
   "subtitle": "with Crunchy Noodles & Japanese Dressing",
-  "description": "Keeping the calories in check has never been so tasty as it is in this dish! BBQ roast pumpkin does the most with a\ncrunchy noodles and when paired with some stellar additions, how could anyone pass up on this delight?\nThis recipe is under 650kcal per serving.",
+  "description": "Keeping the calories in check has never been so tasty as it is in this dish! BBQ roast pumpkin does the most with a crunchy noodles and when paired with some stellar additions, how could anyone pass up on this delight? This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/asian-bbq-roast-pumpkin-salad-652de9c399e28269ac3dd291",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/652de9c399e28269ac3dd291-aebf919c.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 479,
+    "proteinG": 10.6,
+    "carbsG": 42.6,
+    "fatG": 29
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -103,7 +109,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-652de9c399e28269ac3dd291-55d47c67.jpeg"
     },
     {
-      "text": "• Just before serving, in a large bowl, combine deluxe salad mix, mixed salad leaves, cucumber, red radish, garlic aioli and Japanese style dressing. Season.",
+      "text": "Just before serving, in a large bowl, combine deluxe salad mix, mixed salad leaves, cucumber, red radish, garlic aioli and Japanese style dressing. Season.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-652de9c399e28269ac3dd291-078189c0.jpeg"
     },
     {

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Chickpea Stew",
   "subtitle": "with Roasted Sweet Potato & Couscous",
-  "description": "When we first tried this bright burst of goodness, we all agreed it had that \"hug in a bowl\" kind of feeling. There's wholesome\nchickpeas, sweet potato and silverbeet, plus a sublime sauce that soaks into the couscous. Snuggle up and enjoy!",
+  "description": "When we first tried this bright burst of goodness, we all agreed it had that \"hug in a bowl\" kind of feeling. There's wholesome chickpeas, sweet potato and silverbeet, plus a sublime sauce that soaks into the couscous. Snuggle up and enjoy!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-chickpea-stew-60b5b7e8a21e423daa2862cc",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-chickpea-stew-c3fc595f.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 961,
+    "proteinG": 25,
+    "carbsG": 95.8,
+    "fatG": 51.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

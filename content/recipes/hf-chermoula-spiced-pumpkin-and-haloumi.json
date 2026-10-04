@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6507abeaa0d3479ba2c301c0-faf59163-b8cf6e70.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1060,
+    "proteinG": 39.3,
+    "carbsG": 95.4,
+    "fatG": 57.8
+  },
   "tags": [
     "hellofresh",
     "african",

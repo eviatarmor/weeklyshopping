@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Spiced Cauliflower & Goat Cheese Salad",
   "subtitle": "with Pearl Couscous & Almonds",
-  "description": "The key to making a killer salad? Having a mixture of flavours and textures to keep your tastebuds happy, and enough hearty ingredients to leave your belly feeling satisfied. This one ticks all those boxes, and then some!\nThis recipe is under 650kcal per serving.",
+  "description": "The key to making a killer salad? Having a mixture of flavours and textures to keep your tastebuds happy, and enough hearty ingredients to leave your belly feeling satisfied. This one ticks all those boxes, and then some! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/spiced-cauliflower-and-goat-cheese-salad-5fe280950f210d3eaf1f1815",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67e0f470f8f6928425d5c05d-f5783703-a35e9176.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 594,
+    "proteinG": 23.5,
+    "carbsG": 74.1,
+    "fatG": 21.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

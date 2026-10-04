@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/persian-spiced-chickpea-bowl-8a86aae2.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 22.5,
+    "carbsG": 78.5,
+    "fatG": 21.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

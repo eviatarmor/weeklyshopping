@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey-Chipotle Cauliflower & Spiced Fries",
   "subtitle": "with Sour Cream & Chive Slaw",
-  "description": "We've swapped wings for cauliflower, and slathered the florets in a killer honey-chipotle sauce. Complete with mildly spiced fries\nand a creamy, tangy slaw, this is a dish even meat lovers will approve.\nThis recipe is under 650kcal per serving",
+  "description": "We've swapped wings for cauliflower, and slathered the florets in a killer honey-chipotle sauce. Complete with mildly spiced fries and a creamy, tangy slaw, this is a dish even meat lovers will approve. This recipe is under 650kcal per serving",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-chipotle-cauliflower-and-spiced-fries-61371700dcf1e95cfd3b1832",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-chipotle-cauliflower-spiced-fries-fabe8785.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 504,
+    "proteinG": 15.5,
+    "carbsG": 74.5,
+    "fatG": 13.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

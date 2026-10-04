@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Katsu Glazed Tofu Tacos & Aioli Slaw",
   "subtitle": "with Pear & Crushed Peanuts",
-  "description": "Get excited for dinner! These colourful handfuls are bursting with deliciousness from the sweet and tangy katsu-glazed tofu, spiked with sesame seeds for a nutty depth of flavour. \nUnfortunately, this\nweek’s crispy shallots\nwere in short supply,\nso we’ve replaced them\nwith crushed peanuts.\nDon’t worry, the recipe\nwill be just as delicious,\njust be sure to follow\nyour recipe card!",
+  "description": "Get excited for dinner! These colourful handfuls are bursting with deliciousness from the sweet and tangy katsu-glazed tofu, spiked with sesame seeds for a nutty depth of flavour. Unfortunately, this week’s crispy shallots were in short supply, so we’ve replaced them with crushed peanuts. Don’t worry, the recipe will be just as delicious, just be sure to follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-katsu-glazed-tofu-tacos-and-aioli-slaw-642279679deb0f22f20e8b0e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-tofu-katsu-tacos-774e395a.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 809,
+    "proteinG": 26.6,
+    "carbsG": 70.1,
+    "fatG": 48.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -114,7 +120,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/642279679deb0f22f20e8b0e/step-83e3e5ea.jpg"
     },
     {
-      "text": "• In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
+      "text": "In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/642279679deb0f22f20e8b0e/step-286115ee.jpg"
     },
     {

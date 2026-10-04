@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55dd5e9e4dab714c2b8b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 691,
+    "proteinG": 27.7,
+    "carbsG": 83.3,
+    "fatG": 25.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -89,22 +95,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel and cut the pumpkin into 1 cm cubes. Halve the cherry tomatoes and baby bocconcini. Cut the lemon into wedges, and pick the basil leaves."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel and cut the pumpkin into 1 cm cubes. Halve the cherry tomatoes and baby bocconcini. Cut the lemon into wedges, and pick the basil leaves."
     },
     {
-      "text": "• Heat a small frying pan over a medium heat. Add the pine nuts and cook, stirring, for 1-2 minutes or until golden and toasted. Transfer to small bowl and set aside."
+      "text": "Heat a small frying pan over a medium heat. Add the pine nuts and cook, stirring, for 1-2 minutes or until golden and toasted. Transfer to small bowl and set aside."
     },
     {
-      "text": "• Place the pumpkin on one side of a prepared oven tray and toss in half of the olive oil. Season with salt and pepper. Cook in the oven for 10 minutes. Place the cherry tomatoes in a medium bowl and toss in the balsamic vinegar and the remaining olive oil. Season with salt and pepper. Add to the other side of the oven tray and place back in the oven for a further 20 minutes."
+      "text": "Place the pumpkin on one side of a prepared oven tray and toss in half of the olive oil. Season with salt and pepper. Cook in the oven for 10 minutes. Place the cherry tomatoes in a medium bowl and toss in the balsamic vinegar and the remaining olive oil. Season with salt and pepper. Add to the other side of the oven tray and place back in the oven for a further 20 minutes."
     },
     {
-      "text": "• Meanwhile, bring a saucepan full of water to the boil. Add the risoni and cook for 8 minutes, or until tender. Drain. Return to the saucepan."
+      "text": "Meanwhile, bring a saucepan full of water to the boil. Add the risoni and cook for 8 minutes, or until tender. Drain. Return to the saucepan."
     },
     {
-      "text": "• Add the basil, baby bocconcini, baby spinach, pine nuts, pumpkin, roasted cherry tomatoes and any balsamic and oil left from the oven tray to the saucepan with the risoni. Season with salt and pepper."
+      "text": "Add the basil, baby bocconcini, baby spinach, pine nuts, pumpkin, roasted cherry tomatoes and any balsamic and oil left from the oven tray to the saucepan with the risoni. Season with salt and pepper."
     },
     {
-      "text": "• Divide the risoni between bowls and serve with the lemon wedges."
+      "text": "Divide the risoni between bowls and serve with the lemon wedges."
     }
   ]
 }

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Red Lentil, Sweet Potato & Coconut Soup",
   "subtitle": "with Tortilla Flatbreads",
-  "description": "This welcoming bowl of gently spiced sweet potato and lentils is a true giver. All it needs is a little prep, then you can walk away\nfor 20 minutes while it cooks. Add a few finishing touches, fry up some flatbreads and you're ready to roll.",
+  "description": "This welcoming bowl of gently spiced sweet potato and lentils is a true giver. All it needs is a little prep, then you can walk away for 20 minutes while it cooks. Add a few finishing touches, fry up some flatbreads and you're ready to roll.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-red-lentil-sweet-potato-and-coconut-soup-60a353fa28862b70d36b0a00",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chunky-red-lentil-sweet-potato-coconut-soup-340b83c8.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 790,
+    "proteinG": 31.3,
+    "carbsG": 96.7,
+    "fatG": 23.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

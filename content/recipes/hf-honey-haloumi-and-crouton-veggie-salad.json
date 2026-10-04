@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey Haloumi & Crouton Veggie Salad",
   "subtitle": "with Almonds & Dijon Aioli Dressing",
-  "description": "A feast for the eyes and the tastebuds, this colourful confetti of roasted veggies is sure to put you in a good mood... especially\nwhen topped with juicy, honey-coated haloumi. Tie the components together with crunchy almonds to serve!",
+  "description": "A feast for the eyes and the tastebuds, this colourful confetti of roasted veggies is sure to put you in a good mood... especially when topped with juicy, honey-coated haloumi. Tie the components together with crunchy almonds to serve!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-haloumi-and-crouton-veggie-salad-64c89981459aba500a5fae84",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64c89981459aba500a5fae84-4e5475a6.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 745,
+    "proteinG": 28.4,
+    "carbsG": 47.3,
+    "fatG": 49.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

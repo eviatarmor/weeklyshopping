@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Coconut & Ginger Tofu",
   "subtitle": "with Sesame Rice",
-  "description": "Our Malaysian tofu is coated in an irresistible peanut sauce, which gives this dish an instant flavour boost.\nWe've teamed it with steamed rice flavoured with sesame seeds so that everyone will be singing your praises!",
+  "description": "Our Malaysian tofu is coated in an irresistible peanut sauce, which gives this dish an instant flavour boost. We've teamed it with steamed rice flavoured with sesame seeds so that everyone will be singing your praises!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/coconut-ginger-tofu-sesame-rice-61145fd8d403ea634d51f4be",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/coconut-ginger-tofu-sesame-rice-43687731.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 761,
+    "proteinG": 25.2,
+    "carbsG": 84.1,
+    "fatG": 34.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

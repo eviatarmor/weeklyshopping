@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/564c088cfd2cb9c3098b4568.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 535,
+    "proteinG": 15.3,
+    "carbsG": 82.8,
+    "fatG": 15.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -81,19 +87,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, rinse the quinoa. Halve the tomatoes, dice the cucumber, and finely chop the  parsley. Slice the lemon into wedges.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, rinse the quinoa. Halve the tomatoes, dice the cucumber, and finely chop the parsley. Slice the lemon into wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c088cfd2cb9c3098b4568/step_564c09d1f1406.jpg"
     },
     {
-      "text": "• Place the quinoa in a small saucepan and cover with the boiling water. Bring to the boil. Simmer for 12-15 minutes or until the quinoa is tender. Drain. Transfer to a large bowl and stir through the cherry tomato, cucumber, parsley and red onion. Drizzle with some olive oil and season to taste with salt and pepper. Set aside.",
+      "text": "Place the quinoa in a small saucepan and cover with the boiling water. Bring to the boil. Simmer for 12-15 minutes or until the quinoa is tender. Drain. Transfer to a large bowl and stir through the cherry tomato, cucumber, parsley and red onion. Drizzle with some olive oil and season to taste with salt and pepper. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c088cfd2cb9c3098b4568/step_56e9d7d8e6d52.jpg"
     },
     {
-      "text": "• Meanwhile, place the falafels on the prepared oven tray. Cook in the oven for 5-10 minutes or until heated through.",
+      "text": "Meanwhile, place the falafels on the prepared oven tray. Cook in the oven for 5-10 minutes or until heated through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c088cfd2cb9c3098b4568/step_56e9d7d910834.jpg"
     },
     {
-      "text": "• To serve, divide the quinoa tabbouleh between bowls and top with the falafels and hummus. Squeeze with the lemon wedges and enjoy!"
+      "text": "To serve, divide the quinoa tabbouleh between bowls and top with the falafels and hummus. Squeeze with the lemon wedges and enjoy!"
     }
   ]
 }

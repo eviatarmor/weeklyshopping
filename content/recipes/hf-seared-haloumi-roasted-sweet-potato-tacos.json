@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Seared Haloumi & Roasted Potato Tacos",
   "subtitle": "with Creamy Pesto Dressing",
-  "description": "You'll be smiling all the way to the table when you dish up these show-stopping tacos. Fill them with potato wedges, squeaky\nhaloumi, caramelised onion, salad and creamy pesto dressing and enjoy the state of supreme bliss that follows!",
+  "description": "You'll be smiling all the way to the table when you dish up these show-stopping tacos. Fill them with potato wedges, squeaky haloumi, caramelised onion, salad and creamy pesto dressing and enjoy the state of supreme bliss that follows!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/seared-haloumi-roasted-sweet-potato-tacos-5db8e53c3745853eae7ce4ab",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/seared-haloumi-roasted-sweet-potato-tacos-96723d00.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 863,
+    "proteinG": 30.2,
+    "carbsG": 65.7,
+    "fatG": 50.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

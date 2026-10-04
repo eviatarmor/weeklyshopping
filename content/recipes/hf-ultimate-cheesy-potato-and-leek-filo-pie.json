@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Ultimate Cheesy Potato & Leek Filo Pie",
   "subtitle": "with Cherry Tomato Salad",
-  "description": "We've worked our magic and made a fancier veg option for you fancy folk. This creamy potato and leek pie has two types of cheese swirled within (Parmesan and fetta) and is topped with a scrunch of filo pastry. Delish!\nDue to recent weather, you may see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to match your recipe. Big or small, you’ll always have the right amount for dinner.",
+  "description": "We've worked our magic and made a fancier veg option for you fancy folk. This creamy potato and leek pie has two types of cheese swirled within (Parmesan and fetta) and is topped with a scrunch of filo pastry. Delish! Due to recent weather, you may see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to match your recipe. Big or small, you’ll always have the right amount for dinner.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/ultimate-cheesy-potato-and-leek-filo-pie-67f8429f0d0527cba53a96f4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1038_W39_AU_R21696-10_Main_F1_high-e78dd8cc.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 1200,
+    "proteinG": 37.7,
+    "carbsG": 157,
+    "fatG": 46.3
+  },
   "tags": [
     "hellofresh",
     "australian",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Seared Dukkah Haloumi",
   "subtitle": "with Veggie Fries & Rainbow Salad",
-  "description": "Fancy a gourmet low-carb meal tonight? With succulent haloumi coated in a fragrant dukkah spice blend and bright veggie fries\nand a salad to round out the meal perfectly, you're in for a treat!\nThis recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
+  "description": "Fancy a gourmet low-carb meal tonight? With succulent haloumi coated in a fragrant dukkah spice blend and bright veggie fries and a salad to round out the meal perfectly, you're in for a treat! This recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/seared-dukkah-haloumi-6660e98c0ded17193139528b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-lemon-pepper-steak-8762383e.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 478,
+    "proteinG": 21.5,
+    "carbsG": 22.8,
+    "fatG": 33.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

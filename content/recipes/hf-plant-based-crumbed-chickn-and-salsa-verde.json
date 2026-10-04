@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Crumbed Chick'n & Salsa Verde",
   "subtitle": "with Sautéed Chilli Greens & Lemon",
-  "description": "In this one-pan wonder, plant-based crumbed chick'n crisps up to perfection, created a foolproof protein for a fresh weeknight dinner. Team the tender chick'n with some garlic-chilli veggies and top it all off with a homemade salsa verde to serve. \nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "In this one-pan wonder, plant-based crumbed chick'n crisps up to perfection, created a foolproof protein for a fresh weeknight dinner. Team the tender chick'n with some garlic-chilli veggies and top it all off with a homemade salsa verde to serve. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/plant-based-crumbed-chickn-and-salsa-verde-67f84e2d4264524ca9792c68",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1036_W16_AUS_MAIN_high-5311ccd3.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 367,
+    "proteinG": 20.6,
+    "carbsG": 37.3,
+    "fatG": 13.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

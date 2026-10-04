@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Middle Eastern Veggie Freekeh Bowl with Garlic Sauce & Roasted Almonds",
   "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
-  "description": "If you haven't tried freekeh, you gotta give this a try. Stirring spiced roasted veggies through this protein-rich ancient grain brings\nit to life, while the addition of juicy currants and zesty lemon delivers a nutritionally balanced meal everyone will love.",
+  "description": "If you haven't tried freekeh, you gotta give this a try. Stirring spiced roasted veggies through this protein-rich ancient grain brings it to life, while the addition of juicy currants and zesty lemon delivers a nutritionally balanced meal everyone will love.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/middle-eastern-veggie-freekeh-bowl-with-garlic-sauce-and-roasted-almonds-60455252a98e2c61532af695",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/middle-eastern-veggie-freekeh-bowl-97a1cf64.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 435,
+    "proteinG": 13.8,
+    "carbsG": 64.7,
+    "fatG": 9.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

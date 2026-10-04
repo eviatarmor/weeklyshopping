@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mushroom & Cheddar Flatbread Pizza",
   "subtitle": "with Caramelised Onion & Rocket-Fetta Salad",
-  "description": "Why serve flatbreads plain, when you can turn them into pizzas? The crisp bases stand up perfectly to the meaty mushrooms, melty\nCheddar, and sweet and savoury onion. Serve with a subtly sweet and peppery salad, complete with crumbled fetta to make it even better!",
+  "description": "Why serve flatbreads plain, when you can turn them into pizzas? The crisp bases stand up perfectly to the meaty mushrooms, melty Cheddar, and sweet and savoury onion. Serve with a subtly sweet and peppery salad, complete with crumbled fetta to make it even better!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mushroom-cheddar-flatbread-pizza-628d889b528d7ea6b50c2c26",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mushroom-cheddar-flatbread-pizza-bfc1eb0d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 661,
+    "proteinG": 29.5,
+    "carbsG": 60.8,
+    "fatG": 32.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -134,7 +140,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/628d889b528d7ea6b50c2c26/step-b77dc26d.jpg"
     },
     {
-      "text": "• Bake flatbread pizzas until cheese is melted and golden, 12-15 minutes. TIP: Baking the flatbreads directly on the wire racks helps the bases crisp up!",
+      "text": "Bake flatbread pizzas until cheese is melted and golden, 12-15 minutes. TIP: Baking the flatbreads directly on the wire racks helps the bases crisp up!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/628d889b528d7ea6b50c2c26/step-96d72677.jpg"
     },
     {

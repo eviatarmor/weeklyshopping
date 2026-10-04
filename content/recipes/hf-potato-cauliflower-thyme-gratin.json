@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Potato, Cauliflower & Thyme Gratin",
   "subtitle": "with Pear Salad",
-  "description": "When you top roast potato and cauliflower with a Dijon and Parmesan-laced cream sauce, you can't go wrong. Add the finishing touch with a thyme-panko crust, plus a simple pear salad for a touch of sweetness and tang.\nThis recipe is under 650kcal per serving.",
+  "description": "When you top roast potato and cauliflower with a Dijon and Parmesan-laced cream sauce, you can't go wrong. Add the finishing touch with a thyme-panko crust, plus a simple pear salad for a touch of sweetness and tang. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/potato-cauliflower-thyme-gratin-67b3489a2ccb8b03ddc0f58c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67b3489a2ccb8b03ddc0f58c-2833d108.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 650,
+    "proteinG": 26.7,
+    "carbsG": 63.2,
+    "fatG": 33.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

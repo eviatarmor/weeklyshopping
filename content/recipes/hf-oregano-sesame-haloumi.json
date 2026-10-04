@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Honey-Glazed Haloumi",
   "subtitle": "with Roast Veggie Couscous & Garlic Yoghurt",
-  "description": "Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while the roast veggies crisp up in the oven. Top it all off with a dollop of super creamy garlic yoghurt!\nWe’ve replaced the baby spinach leaves in this recipe with kale due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while the roast veggies crisp up in the oven. Top it all off with a dollop of super creamy garlic yoghurt! We’ve replaced the baby spinach leaves in this recipe with kale due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/oregano-sesame-haloumi-6768d731555c15a993e4f4e1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6768d731555c15a993e4f4e1-22b4818f.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 874,
+    "proteinG": 50.2,
+    "carbsG": 55.2,
+    "fatG": 49.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

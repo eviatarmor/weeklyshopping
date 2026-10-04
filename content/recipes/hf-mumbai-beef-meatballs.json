@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mumbai-pork-meatballs-30b15604-592c859b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 593,
+    "proteinG": 29.9,
+    "carbsG": 30.4,
+    "fatG": 39.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

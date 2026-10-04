@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Dutch Carrots & Pearl Couscous Salad",
   "subtitle": "with Fetta Yoghurt & Golden Dressing",
-  "description": "This bountiful bowl comes loaded with delicious couscous, tender Dutch carrots, Greek-style fetta yoghurt and crunchy flaked almonds. You’ve got texture, flavour and crunch in every bite!\nThis recipe is under 650kcal per serving.\nWe’ve replaced the pearl couscous in this recipe with couscous due to local ingredient availability. It’ll be just as delicious, just\nfollow your recipe card!",
+  "description": "This bountiful bowl comes loaded with delicious couscous, tender Dutch carrots, Greek-style fetta yoghurt and crunchy flaked almonds. You’ve got texture, flavour and crunch in every bite! This recipe is under 650kcal per serving. We’ve replaced the pearl couscous in this recipe with couscous due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/dutch-carrots-and-pearl-couscous-salad-674cd864a0d670a6c9690a5a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/674cd864a0d670a6c9690a5a-904fdcbd.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 708,
+    "proteinG": 16,
+    "carbsG": 61.7,
+    "fatG": 19
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -134,7 +140,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd864a0d670a6c9690a5a-bcc69b6c.jpeg"
     },
     {
-      "text": "• Just before serving, in a large bowl, combine couscous, radish, spinach & rocket mix, golden goddess dressing and a drizzle of vinegar and olive oil. Season to taste.",
+      "text": "Just before serving, in a large bowl, combine couscous, radish, spinach & rocket mix, golden goddess dressing and a drizzle of vinegar and olive oil. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd864a0d670a6c9690a5a-872f66bf.jpeg"
     },
     {

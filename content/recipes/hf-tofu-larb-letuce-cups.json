@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55dd5c69fd2cb9f5208b4567.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 378,
+    "proteinG": 21.7,
+    "carbsG": 30.2,
+    "fatG": 17.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -116,19 +122,19 @@
   ],
   "steps": [
     {
-      "text": "• Bring a kettle full of water to the boil. To prepare the ingredients, cut the lime into wedges and peel and crush the garlic. Finely chop the chilli (deseeded), coriander, and mint. Roughly chop the classic tofu and cashew nuts, and finely dice the mushrooms. Grate the ginger and separate the lettuce leaves."
+      "text": "Bring a kettle full of water to the boil. To prepare the ingredients, cut the lime into wedges and peel and crush the garlic. Finely chop the chilli (deseeded), coriander, and mint. Roughly chop the classic tofu and cashew nuts, and finely dice the mushrooms. Grate the ginger and separate the lettuce leaves."
     },
     {
-      "text": "• In a small bowl combine the soy sauce, juice of half of the lime wedges, garlic, ginger, and chilli."
+      "text": "In a small bowl combine the soy sauce, juice of half of the lime wedges, garlic, ginger, and chilli."
     },
     {
-      "text": "• Place the vermicelli noodles in a large heatproof bowl and cover with the boiling water. Set aside for 5 minutes. Drain and rinse the noodles with cold tap water then return them to the same bowl. Pick up a handful of noodles over the bowl and using kitchen scissors, snip the noodles into short lengths. Set aside."
+      "text": "Place the vermicelli noodles in a large heatproof bowl and cover with the boiling water. Set aside for 5 minutes. Drain and rinse the noodles with cold tap water then return them to the same bowl. Pick up a handful of noodles over the bowl and using kitchen scissors, snip the noodles into short lengths. Set aside."
     },
     {
-      "text": "• Heat the vegetable oil in a large wok or frying pan over a medium heat. Add the mushrooms and cook, stirring, for 3 minutes or until tender. Drain any excess liquid from the pan. Add the tofu and cook breaking up with a wooden spoon until it resembles the consistency of scrambled eggs. Add the soy sauce mixture and cook, stirring, for 1-2 minutes or until fragrant. Stir through the vermicelli noodles, coriander and mint and remove from the heat."
+      "text": "Heat the vegetable oil in a large wok or frying pan over a medium heat. Add the mushrooms and cook, stirring, for 3 minutes or until tender. Drain any excess liquid from the pan. Add the tofu and cook breaking up with a wooden spoon until it resembles the consistency of scrambled eggs. Add the soy sauce mixture and cook, stirring, for 1-2 minutes or until fragrant. Stir through the vermicelli noodles, coriander and mint and remove from the heat."
     },
     {
-      "text": "• To serve, spoon the mixture into the gem lettuce cups and sprinkle with the cashew nuts. Serve with the remaining lime wedges."
+      "text": "To serve, spoon the mixture into the gem lettuce cups and sprinkle with the cashew nuts. Serve with the remaining lime wedges."
     }
   ]
 }

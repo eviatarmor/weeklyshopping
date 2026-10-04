@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian Veggie Fritters & Haloumi",
   "subtitle": "with Sweet Potato Wedges & Salad",
-  "description": "You’ve had fritters before, but have you tried golden corn fritters infused with a more-ish and mild Indian spice blend and haloumi? We didn’t think so – this is a totally delectable dish that will simply knock your socks off!",
+  "description": "You’ve had fritters before, but have you tried golden corn fritters infused with a more-ish and mild Indian spice blend and haloumi? We didn’t think so – this is a totally delectable dish that will simply knock your socks off!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/indian-veggie-fritters-67f86be14264524ca979e82c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6556a617978d3423e09ed182-9cc2b3be-c400cb3b.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1080,
+    "proteinG": 40.3,
+    "carbsG": 104,
+    "fatG": 55.8
+  },
   "tags": [
     "everyplate",
     "indian",

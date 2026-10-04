@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-nachos-5ec994e7.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 636,
+    "proteinG": 20.2,
+    "carbsG": 59.4,
+    "fatG": 31.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -102,22 +108,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, drain and rinse the lentils, peel and grate the carrot, and peel and crush the garlic. Deseed the avocado, pick and roughly chop the coriander leaves, and slice the lime into wedges."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, drain and rinse the lentils, peel and grate the carrot, and peel and crush the garlic. Deseed the avocado, pick and roughly chop the coriander leaves, and slice the lime into wedges."
     },
     {
-      "text": "• Brush the wholemeal mini pita pockets with a little olive oil (or use a spray oil) and then cut into triangles. Place the triangles onto a lined oven tray. (Note: you may need to two trays for this.) Cook for 5 minutes in the oven, or until golden (watch they don’t burn!). Remove and set aside.",
+      "text": "Brush the wholemeal mini pita pockets with a little olive oil (or use a spray oil) and then cut into triangles. Place the triangles onto a lined oven tray. (Note: you may need to two trays for this.) Cook for 5 minutes in the oven, or until golden (watch they don’t burn!). Remove and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3b48d4d92c2212765bc2-1-0-524269c6.jpg"
     },
     {
-      "text": "• Meanwhile, heat the olive oil in a medium frying pan over a medium-high heat. Add the lentils, carrot, Mexican spice mix and garlic and cook, stirring, for 4-5 minutes, or until soft and fragrant. Stir through the tomato paste and warm water. Simmer for 1-2 minutes, or until the sauce has thickened.",
+      "text": "Meanwhile, heat the olive oil in a medium frying pan over a medium-high heat. Add the lentils, carrot, Mexican spice mix and garlic and cook, stirring, for 4-5 minutes, or until soft and fragrant. Stir through the tomato paste and warm water. Simmer for 1-2 minutes, or until the sauce has thickened.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3b48d4d92c2212765bc2-2-0-f6ce0538.jpg"
     },
     {
-      "text": "• In a medium bowl mash the avocado with the coriander using a fork. Season with salt and pepper.",
+      "text": "In a medium bowl mash the avocado with the coriander using a fork. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3b48d4d92c2212765bc2-3-0-e93aecb2.jpg"
     },
     {
-      "text": "• To serve, divide the cooked pita triangles between bowls. Top with the Mexican lentils and a dollop of light sour cream. Garnish with the guacamole and a squeeze of lime. Enjoy!",
+      "text": "To serve, divide the cooked pita triangles between bowls. Top with the Mexican lentils and a dollop of light sour cream. Garnish with the guacamole and a squeeze of lime. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3b48d4d92c2212765bc2-4-0-9877cc9a.jpg"
     }
   ]

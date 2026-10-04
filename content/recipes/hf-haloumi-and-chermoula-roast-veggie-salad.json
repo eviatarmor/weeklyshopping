@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Chermoula Roast Veggie Salad",
   "subtitle": "with Garlic Aioli & Almonds",
-  "description": "A little salty and squeaky, with a touch of tang, we're big haloumi fans - especially when it's teamed with Moroccan-spiced\nroasted veg, which you'll toss with a mix of mild and peppery salad leaves to create a stellar salad.\nThis recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
+  "description": "A little salty and squeaky, with a touch of tang, we're big haloumi fans - especially when it's teamed with Moroccan-spiced roasted veg, which you'll toss with a mix of mild and peppery salad leaves to create a stellar salad. This recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-and-chermoula-roast-veggie-salad-6551c2444c741be7da5dda4c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-roast-veggie-salad-19f9d84c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 649,
+    "proteinG": 26.2,
+    "carbsG": 28.9,
+    "fatG": 46.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

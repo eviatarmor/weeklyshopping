@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/rosti-topped-lentil-pie-3a38fb29.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 624,
+    "proteinG": 21.4,
+    "carbsG": 64.7,
+    "fatG": 26.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -127,27 +133,27 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the grill to high. Bring a large saucepan of salted water to the boil. Melt the butter in a small dish.  Grate the red onion. Peel and grate the carrot. Peel and crush the garlic. Drain and rinse the lentils. Trim the ends of the green beans.",
+      "text": "Preheat the grill to high. Bring a large saucepan of salted water to the boil. Melt the butter in a small dish. Grate the red onion. Peel and grate the carrot. Peel and crush the garlic. Drain and rinse the lentils. Trim the ends of the green beans.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897efd7b32fbe493d289782-0-0-244ef25b.jpg"
     },
     {
-      "text": "• Add the potato (unpeeled) to the saucepan of boiling water and cook for 5 minutes. Remove from the pan, refresh under cold water and set aside to cool. Grate the potato and mix with 2/3 of the butter. Season with salt and pepper. Set aside. TIP:Keeping the skin on the potato ensures you're getting a full dose  of potato nutrients.",
+      "text": "Add the potato (unpeeled) to the saucepan of boiling water and cook for 5 minutes. Remove from the pan, refresh under cold water and set aside to cool. Grate the potato and mix with 2/3 of the butter. Season with salt and pepper. Set aside. TIP:Keeping the skin on the potato ensures you're getting a full dose of potato nutrients.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897efd7b32fbe493d289782-1-0-c2d96d81.jpg"
     },
     {
-      "text": "• Meanwhile, heat a medium frying pan over a medium heat. Add the slivered almonds and toast, stirring, for 1 minute, or until golden. Remove from the pan and set aside.",
+      "text": "Meanwhile, heat a medium frying pan over a medium heat. Add the slivered almonds and toast, stirring, for 1 minute, or until golden. Remove from the pan and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897efd7b32fbe493d289782-2-0-1eef6ed2.jpg"
     },
     {
-      "text": "• Heat the olive oil in the same frying pan, add the red onion and carrot and cook for 5 minutes, or until soft. Add half the garlic and the mild curry powder and cook, stirring, for 1 minute, or until fragrant. Add the crumbled vegetable stock cube, boiling water, lentils, toasted slivered almonds and currants. Simmer for 10 minutes, or until thickened slightly. To achieve a crispy top, transfer the lentil mixture to a medium baking dish and cover with a thin layer of the grated potato. Grill for 10-15 minutes, or until crispy and golden. Remove from the oven and rest for 5 minutes.",
+      "text": "Heat the olive oil in the same frying pan, add the red onion and carrot and cook for 5 minutes, or until soft. Add half the garlic and the mild curry powder and cook, stirring, for 1 minute, or until fragrant. Add the crumbled vegetable stock cube, boiling water, lentils, toasted slivered almonds and currants. Simmer for 10 minutes, or until thickened slightly. To achieve a crispy top, transfer the lentil mixture to a medium baking dish and cover with a thin layer of the grated potato. Grill for 10-15 minutes, or until crispy and golden. Remove from the oven and rest for 5 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897efd7b32fbe493d289782-3-0-c55b3539.jpg"
     },
     {
-      "text": "• Meanwhile, wipe out the frying pan with a paper towel and heat the remaining butter and garlic over a medium heat. Cook for 1 minute, or until fragrant. Add the green beans, baby spinach leaves and the milk and cook for 5 minutes, or until softened. Season to taste with salt and pepper.",
+      "text": "Meanwhile, wipe out the frying pan with a paper towel and heat the remaining butter and garlic over a medium heat. Cook for 1 minute, or until fragrant. Add the green beans, baby spinach leaves and the milk and cook for 5 minutes, or until softened. Season to taste with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897efd7b32fbe493d289782-4-0-b4a6c619.jpg"
     },
     {
-      "text": "• Spoon the pie onto plates and serve greens on the side.",
+      "text": "Spoon the pie onto plates and serve greens on the side.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897efd7b32fbe493d289782-5-0-4c4df59e.jpg"
     }
   ]

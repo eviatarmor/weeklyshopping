@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/651517131f7307dd304ae41b-19a2b3c0.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 782,
+    "proteinG": 19.3,
+    "carbsG": 92.3,
+    "fatG": 35.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -119,7 +125,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-651517131f7307dd304ae41b-fa128d98.jpeg"
     },
     {
-      "text": "• When the pumpkin has 5 mins remaining, combine slaw mix, a drizzle of vinegar and olive oil in a large bowl. Season to taste.",
+      "text": "When the pumpkin has 5 mins remaining, combine slaw mix, a drizzle of vinegar and olive oil in a large bowl. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-651517131f7307dd304ae41b-15a2a34a.jpeg"
     },
     {

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sesame-sweet-chilli-cauliflower-8824c6f9.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 647,
+    "proteinG": 22.6,
+    "carbsG": 89.5,
+    "fatG": 18.4
+  },
   "tags": [
     "vegetarian",
     "everyplate",

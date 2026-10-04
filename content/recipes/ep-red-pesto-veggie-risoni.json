@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Red Pesto Veggie Risoni",
   "subtitle": "with Parmesan Cheese",
-  "description": "Cheesy, studded with greens and flavoured with delicious red pesto, this easy baked risoni takes all the work out of this classic Italian dish*\nWe’ve replaced the basil pesto in this recipe with red pesto due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Cheesy, studded with greens and flavoured with delicious red pesto, this easy baked risoni takes all the work out of this classic Italian dish* We’ve replaced the basil pesto in this recipe with red pesto due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/red-pesto-veggie-risoni-66186fc5300be64307bdf799",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66186fc5300be64307bdf799-a88ea435.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 598,
+    "proteinG": 19.1,
+    "carbsG": 87.1,
+    "fatG": 19.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",

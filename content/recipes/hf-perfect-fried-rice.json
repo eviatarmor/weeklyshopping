@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/556557cffd2cb975618b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 284,
+    "proteinG": 15.7,
+    "carbsG": 23.6,
+    "fatG": 12.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -116,16 +122,16 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, peel and finely dice the carrot and finely dice the zucchini. Coarsely chop the mushrooms, and coriander stalks (leaves reserved). Peel and grate the ginger, and peel and crush the garlic. Finely slice the lemongrass, chilli, and spring onions. Lightly whisk the eggs."
+      "text": "To prepare the ingredients, peel and finely dice the carrot and finely dice the zucchini. Coarsely chop the mushrooms, and coriander stalks (leaves reserved). Peel and grate the ginger, and peel and crush the garlic. Finely slice the lemongrass, chilli, and spring onions. Lightly whisk the eggs."
     },
     {
-      "text": "• Place the rice into a sieve and rinse it with cold tap water. The water will initially become cloudy, continue to rinse until the water becomes clear enough (it doesn’t need to be crystal). Place the rice and water in a medium saucepan. Cover the saucepan with a lid and cook for 10-12 minutes or until soft. Set aside."
+      "text": "Place the rice into a sieve and rinse it with cold tap water. The water will initially become cloudy, continue to rinse until the water becomes clear enough (it doesn’t need to be crystal). Place the rice and water in a medium saucepan. Cover the saucepan with a lid and cook for 10-12 minutes or until soft. Set aside."
     },
     {
-      "text": "• Heat the vegetable oil in a wok over a high heat. Add the carrot, zucchini, and mushrooms. Stir fry for 2-3 minutes, or until vegetables are just tender. Add the coriander stalks, ginger, garlic, lemongrass and chilli. Stir fry for 1 minute or until fragrant. Add the soy sauce and continue stir-frying for 1 minute. Add the cooked rice and stir to combine. Create a well in the centre of the pan and pour in the egg. Allow to cook for 15-30 seconds then stir the egg through the rice mixture"
+      "text": "Heat the vegetable oil in a wok over a high heat. Add the carrot, zucchini, and mushrooms. Stir fry for 2-3 minutes, or until vegetables are just tender. Add the coriander stalks, ginger, garlic, lemongrass and chilli. Stir fry for 1 minute or until fragrant. Add the soy sauce and continue stir-frying for 1 minute. Add the cooked rice and stir to combine. Create a well in the centre of the pan and pour in the egg. Allow to cook for 15-30 seconds then stir the egg through the rice mixture"
     },
     {
-      "text": "• To serve, divide the fried rice between bowls and top with the spring onions and coriander leaves."
+      "text": "To serve, divide the fried rice between bowls and top with the spring onions and coriander leaves."
     }
   ]
 }

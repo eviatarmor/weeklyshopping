@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Golden Haloumi & Jewelled Dukkah Couscous",
   "subtitle": "with Roast Veggies & Lemon Yoghurt",
-  "description": "Taste the rainbow for dinner tonight with colourful roasted veggies and a scattering of sweet currants, all stirred through fluffy, filling couscous. Topped off with golden haloumi and a bite of dukkah, this bountiful bowl packs a punch in all the right ways.\nDue to local availability,\nthe ingredients you receive\nmay be a little different\nto what's pictured. It'll\nbe just as delicious, just\nfollow your recipe card!",
+  "description": "Taste the rainbow for dinner tonight with colourful roasted veggies and a scattering of sweet currants, all stirred through fluffy, filling couscous. Topped off with golden haloumi and a bite of dukkah, this bountiful bowl packs a punch in all the right ways. Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/dukkah-couscous-haloumi-bowl-67f85b0e4264524ca9797a8a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W37_AU_R4822-7_Main__8high-0cf7c317.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 1070,
+    "proteinG": 55.7,
+    "carbsG": 74.4,
+    "fatG": 60.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

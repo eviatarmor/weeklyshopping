@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "American Sweet Potato & Black Bean Enchiladas",
   "subtitle": "with Salsa, Yoghurt & Chipotle Sauce",
-  "description": "Thanks to tender roasted chunks of sweet potato and carrot, plus fibre-rich black beans, these tasty enchiladas bring their A-game in every single way.\nThe recent harsh weather conditions have impacted the cucumbers grown by our farmers.\nThe quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "Thanks to tender roasted chunks of sweet potato and carrot, plus fibre-rich black beans, these tasty enchiladas bring their A-game in every single way. The recent harsh weather conditions have impacted the cucumbers grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/american-sweet-potato-and-black-bean-enchiladas-60d04088d79723697473b5fc",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/american-sweet-potato-black-bean-enchiladas-238628c1.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 851,
+    "proteinG": 34.7,
+    "carbsG": 110.8,
+    "fatG": 22.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Falafel & Spiced Potato Veggie Salad",
   "subtitle": "with Tzatziki Drizzle",
-  "description": "All you need is one tray and one pan to make this Middle-Eastern inspired meal. With only four steps, dinner will be on the\ntable in practically no time. Too easy!",
+  "description": "All you need is one tray and one pan to make this Middle-Eastern inspired meal. With only four steps, dinner will be on the table in practically no time. Too easy!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-falafel-and-spiced-potato-veggie-salad-6029deb05a7a5862dc3b629f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-falafel-spiced-potato-veggie-salad-63ce545a.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 774,
+    "proteinG": 21.2,
+    "carbsG": 49.3,
+    "fatG": 60.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

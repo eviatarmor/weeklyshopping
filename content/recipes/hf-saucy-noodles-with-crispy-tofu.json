@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55822fc2fd2cb9ce498b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 16.3,
+    "carbsG": 74.7,
+    "fatG": 14.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -111,22 +117,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, peel and crush the garlic, and peel and grate the ginger. Cut the tofu into 1 cm thick strips, the Asian greens into 3 cm lengths, and the spring onions into 2 cm lengths. Trim the sugar snap peas, slice the chilli, and pick the coriander leaves."
+      "text": "To prepare the ingredients, peel and crush the garlic, and peel and grate the ginger. Cut the tofu into 1 cm thick strips, the Asian greens into 3 cm lengths, and the spring onions into 2 cm lengths. Trim the sugar snap peas, slice the chilli, and pick the coriander leaves."
     },
     {
-      "text": "• Bring a large pot of salted water to the boil. Add the noodles and cook according to the packet directions. Refresh under cold water. Drain."
+      "text": "Bring a large pot of salted water to the boil. Add the noodles and cook according to the packet directions. Refresh under cold water. Drain."
     },
     {
-      "text": "• Combine the hoisin sauce, soy sauce, half of the vegetable oil, garlic, ginger and brown sugar."
+      "text": "Combine the hoisin sauce, soy sauce, half of the vegetable oil, garlic, ginger and brown sugar."
     },
     {
-      "text": "• Heat the remaining vegetable oil in a large wok or frying pan over medium-high heat. Add the tofu and cook, turning, for 1-2 minutes, or until the tofu is golden. Remove from the pan."
+      "text": "Heat the remaining vegetable oil in a large wok or frying pan over medium-high heat. Add the tofu and cook, turning, for 1-2 minutes, or until the tofu is golden. Remove from the pan."
     },
     {
-      "text": "• Add a dash of oil to the same wok or frying pan and add the Asian greens, sugar snap peas, spring onion, half of the chilli, and a splash of water. Cook, stirring, for 1-2 minutes. Add the hoisin sauce mixture, tofu and noodles and cook, tossing until everything is heated through. Remove from the heat and stir through the remaining chilli and coriander."
+      "text": "Add a dash of oil to the same wok or frying pan and add the Asian greens, sugar snap peas, spring onion, half of the chilli, and a splash of water. Cook, stirring, for 1-2 minutes. Add the hoisin sauce mixture, tofu and noodles and cook, tossing until everything is heated through. Remove from the heat and stir through the remaining chilli and coriander."
     },
     {
-      "text": "• To serve, divide the saucy tofu noodles between plates."
+      "text": "To serve, divide the saucy tofu noodles between plates."
     }
   ]
 }

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-cherry-tomato-pasta-02dea836.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 768,
+    "proteinG": 22.5,
+    "carbsG": 81.4,
+    "fatG": 37.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

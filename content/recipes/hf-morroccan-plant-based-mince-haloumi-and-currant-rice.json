@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Morroccan Plant-Based Mince, Haloumi & Currant Rice",
   "subtitle": "with Cucumber-Mint Salsa & Almonds",
-  "description": "Our plant-based mince looks, cooks and tastes a lot like the real deal, and stands up well to the cumin, paprika and turmeric in our chermoula\nspice blend. The currant and spinach-laced basmati provides a touch of sweetness to enhance the Moroccan flavours, and might be the\nyummiest way to get your greens in. Top with a quick salsa for extra crunch, colour and a bright burst of flavour from the fresh mint.",
+  "description": "Our plant-based mince looks, cooks and tastes a lot like the real deal, and stands up well to the cumin, paprika and turmeric in our chermoula spice blend. The currant and spinach-laced basmati provides a touch of sweetness to enhance the Moroccan flavours, and might be the yummiest way to get your greens in. Top with a quick salsa for extra crunch, colour and a bright burst of flavour from the fresh mint.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/morroccan-plant-based-mince-haloumi-and-currant-rice-63d919467263bbcc79012ba9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/morroccan-plant-based-mince-currant-rice-ac420204.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 934,
+    "proteinG": 42.9,
+    "carbsG": 84.6,
+    "fatG": 45.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

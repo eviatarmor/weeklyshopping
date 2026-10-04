@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4026_W09_AU_EP18967-10_Main_7_add_drizzle_yoghurt_edit_high-3898ea75.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 913,
+    "proteinG": 45.2,
+    "carbsG": 52.3,
+    "fatG": 57.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Japanese-Style Tofu & Baby Broccoli",
   "subtitle": "with Garlic Rice & Creamy Sesame Dressing",
-  "description": "Complete with crisp and colourful baby broccoli and a bed of fragrant garlic rice to soak up all the beautiful flavours, tofu fans will be all for this seared tofu bowl.\nThis recipe is under 650kcal per serving.",
+  "description": "Complete with crisp and colourful baby broccoli and a bed of fragrant garlic rice to soak up all the beautiful flavours, tofu fans will be all for this seared tofu bowl. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/japanese-style-tofu-and-baby-broccoli-67f84e30cade9b9f0ace2c6e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1036_W21_AUS_Main_8_high-d65e1a2c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 597,
+    "proteinG": 23.4,
+    "carbsG": 73.5,
+    "fatG": 22
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlic-herb-kidney-bean-pie-43cf8bc2.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 621,
+    "proteinG": 24,
+    "carbsG": 64.8,
+    "fatG": 26.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -135,7 +141,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/636d1935322b63621003d631/step-b0cd20c8.jpg"
     },
     {
-      "text": "• Meanwhile, grate carrot. Thinly slice brown onion. Thinly slice zucchini into half-moons. Finely chop garlic. Drain and rinse red kidney beans.",
+      "text": "Meanwhile, grate carrot. Thinly slice brown onion. Thinly slice zucchini into half-moons. Finely chop garlic. Drain and rinse red kidney beans.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/636d1935322b63621003d631/step-f415a6f8.jpg"
     },
     {

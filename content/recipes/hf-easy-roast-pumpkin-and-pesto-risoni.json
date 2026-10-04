@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Roast Pumpkin & Pesto Risoni",
   "subtitle": "with Fetta & Garlic Pangrattato",
-  "description": "Cosy up to this nourishing pasta dish with flavour-packed basil pesto, fetta and roasted pumpkin. Topped with\npangrattato for added crunch, it's super special and sure to satisfy.\nThis recipe is under 650kcal per serving.",
+  "description": "Cosy up to this nourishing pasta dish with flavour-packed basil pesto, fetta and roasted pumpkin. Topped with pangrattato for added crunch, it's super special and sure to satisfy. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-roast-pumpkin-and-pesto-risoni-60ac85919e219745f0517147",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-roast-pumpkin-fetta-risoni-ec873b3c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 603,
+    "proteinG": 24.9,
+    "carbsG": 75,
+    "fatG": 20.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5668ebe04dab71b9318b4568.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 21,
+    "proteinG": 19.9,
+    "carbsG": 64.9,
+    "fatG": 21.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -87,27 +93,27 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely chop the parsley and finely dice the cucumber. Slice the haloumi. Peel and grate the carrot. Juice the lime."
+      "text": "To prepare the ingredients, finely chop the parsley and finely dice the cucumber. Slice the haloumi. Peel and grate the carrot. Juice the lime."
     },
     {
-      "text": "• In a small bowl, soak the dried cranberries in half of the boiling water for 15 minutes. Drain."
+      "text": "In a small bowl, soak the dried cranberries in half of the boiling water for 15 minutes. Drain."
     },
     {
-      "text": "• Place the couscous in a large bowl. Pour the remaining boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap. Leave to sit for 5 minutes. Remove the cling wrap and fluff the couscous with a fork."
+      "text": "Place the couscous in a large bowl. Pour the remaining boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap. Leave to sit for 5 minutes. Remove the cling wrap and fluff the couscous with a fork."
     },
     {
-      "text": "• Heat a medium frying pan over a medium-low heat. Add the pine nuts and cook until toasted. Remove immediately from the pan so they don't continue to cook."
+      "text": "Heat a medium frying pan over a medium-low heat. Add the pine nuts and cook until toasted. Remove immediately from the pan so they don't continue to cook."
     },
     {
-      "text": "• Add the pine nuts, soaked cranberries, parsley, cucumber and carrot to the couscous. Drizzle with the olive oil and lime juice. Season to taste with salt and pepper and then toss well. Set aside.",
+      "text": "Add the pine nuts, soaked cranberries, parsley, cucumber and carrot to the couscous. Drizzle with the olive oil and lime juice. Season to taste with salt and pepper and then toss well. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5668ebe04dab71b9318b4568/step_5668eceb27106.jpg"
     },
     {
-      "text": "• Place the same medium frying pan over a medium-high heat. Spray or brush lightly with olive oil. Add the haloumi and cook for 1-2 minutes on each side or until golden.",
+      "text": "Place the same medium frying pan over a medium-high heat. Spray or brush lightly with olive oil. Add the haloumi and cook for 1-2 minutes on each side or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5668ebe04dab71b9318b4568/step_5668eceb4ac4b.jpg"
     },
     {
-      "text": "• Divide the jewelled couscous between plates and top with the haloumi slices."
+      "text": "Divide the jewelled couscous between plates and top with the haloumi slices."
     }
   ]
 }

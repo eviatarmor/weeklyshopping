@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56cbb43a4dab711a368b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 543,
+    "proteinG": 25.6,
+    "carbsG": 68.7,
+    "fatG": 16.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -120,16 +126,16 @@
   ],
   "steps": [
     {
-      "text": "• To prepare ingredients, peel carrot into ribbons, cut cucumber on the diagonal, cut spring onion into match sticks and cut lime into wedges."
+      "text": "To prepare ingredients, peel carrot into ribbons, cut cucumber on the diagonal, cut spring onion into match sticks and cut lime into wedges."
     },
     {
-      "text": "• Place the brown rice into a sieve and rinse it with cold tap water until it runs clear. Place the rice and water into a medium saucepan over high heat and bring to the boil. Reduce the heat to medium and simmer for 10-12 minutes or until rice is soft. Drain well."
+      "text": "Place the brown rice into a sieve and rinse it with cold tap water until it runs clear. Place the rice and water into a medium saucepan over high heat and bring to the boil. Reduce the heat to medium and simmer for 10-12 minutes or until rice is soft. Drain well."
     },
     {
-      "text": "• Meanwhile, combine the white sugar, rice wine vinegar and half of warm water into a large shallow bowl. Stir to combine, then add in the carrot and stir again to ensure the carrot is coated in the pickling liquid. Set aside."
+      "text": "Meanwhile, combine the white sugar, rice wine vinegar and half of warm water into a large shallow bowl. Stir to combine, then add in the carrot and stir again to ensure the carrot is coated in the pickling liquid. Set aside."
     },
     {
-      "text": "• In a small bowl, combine the mayonnaise, wasabi and the remaining warm water until smooth. Set aside.",
+      "text": "In a small bowl, combine the mayonnaise, wasabi and the remaining warm water until smooth. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56cbb43a4dab711a368b4567/step_56ce4f5e65e33.jpg"
     },
     {
@@ -137,7 +143,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56cbb43a4dab711a368b4567/step_56ce4f5e75803.jpg"
     },
     {
-      "text": "• Spoon the brown rice into the two bowls, top with the tofu, cucumber, pickled carrot and spring onions. Drizzle with the wasabi mayonnaise dressing. Sprinkle with the black sesame seeds and serve with the lime wedges."
+      "text": "Spoon the brown rice into the two bowls, top with the tofu, cucumber, pickled carrot and spring onions. Drizzle with the wasabi mayonnaise dressing. Sprinkle with the black sesame seeds and serve with the lime wedges."
     }
   ]
 }

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Aussie Haloumi & Caramelised Pear Salad",
   "subtitle": "with Ciabatta Croutons",
-  "description": "Lift your salad game by spiking yours with some quick croutons, plus honey-spiked caramelised pear. Top with savoury\nseared haloumi, flavoured in the easiest (and arguably the best) way possible: with our old faithful spice blend.",
+  "description": "Lift your salad game by spiking yours with some quick croutons, plus honey-spiked caramelised pear. Top with savoury seared haloumi, flavoured in the easiest (and arguably the best) way possible: with our old faithful spice blend.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/aussie-haloumi-caramelised-pear-salad-62270d5fc440d406883fe8d2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-chicken-pear-salad-e1c24e4a.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 694,
+    "proteinG": 28.9,
+    "carbsG": 51.6,
+    "fatG": 40.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -110,7 +116,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62270d5fc440d406883fe8d2/step-d5c3d1a6.jpg"
     },
     {
-      "text": "• Cut haloumi into 1cm-thick slices. On a large plate (or in a large bowl), combine the plain flour and Aussie spice blend. Season, then add haloumi, turning to coat. Set aside.",
+      "text": "Cut haloumi into 1cm-thick slices. On a large plate (or in a large bowl), combine the plain flour and Aussie spice blend. Season, then add haloumi, turning to coat. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62270d5fc440d406883fe8d2/step-8202d682.jpg"
     },
     {
@@ -118,11 +124,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62270d5fc440d406883fe8d2/step-2f37ff3b.jpg"
     },
     {
-      "text": "• Wipe out pan and return to medium-high heat with a drizzle of olive oil. When oil is hot, cook haloumi until golden brown, 1-2 minutes each side. Meanwhile, to the bowl with the pear, add mixed salad leaves, tomatoes, croutons and mustard cider dressing. Toss to combine, then season to taste.",
+      "text": "Wipe out pan and return to medium-high heat with a drizzle of olive oil. When oil is hot, cook haloumi until golden brown, 1-2 minutes each side. Meanwhile, to the bowl with the pear, add mixed salad leaves, tomatoes, croutons and mustard cider dressing. Toss to combine, then season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62270d5fc440d406883fe8d2/step-522d4b7a.jpg"
     },
     {
-      "text": "• Divide caramelised pear salad with croutons between bowls. Top with haloumi. Sprinkle with grated Parmesan cheese to serve.",
+      "text": "Divide caramelised pear salad with croutons between bowls. Top with haloumi. Sprinkle with grated Parmesan cheese to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62270d5fc440d406883fe8d2/step-5d83da86.jpg"
     }
   ]

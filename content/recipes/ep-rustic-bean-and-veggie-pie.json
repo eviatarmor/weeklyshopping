@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/657aa559a65f6d71569fc10d-15f8d12f-c7409e34.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 634,
+    "proteinG": 31.5,
+    "carbsG": 67,
+    "fatG": 26.8
+  },
   "tags": [
     "everyplate",
     "british",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Char Siu Veggie Fried Rice",
   "subtitle": "with Fried Egg & Crispy Shallots",
-  "description": "This climate superstar is truly the talk of the town as you'll get all of the much-loved veggie fried rice flavours in a\nmeal that keeps the calories in check. Topped off with a perfect fried egg and crispy shallots for crunch, you'll be\nexperiencing sweet, savoury and salty flavours all in one go!\nThis recipe is under 650kcal per serving.",
+  "description": "This climate superstar is truly the talk of the town as you'll get all of the much-loved veggie fried rice flavours in a meal that keeps the calories in check. Topped off with a perfect fried egg and crispy shallots for crunch, you'll be experiencing sweet, savoury and salty flavours all in one go! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/char-siu-veggie-fried-rice-641a822eae967f5a15022f49",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sichuan-style-veggie-fried-rice-e5a8cfbf.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 514,
+    "proteinG": 16.6,
+    "carbsG": 88.6,
+    "fatG": 12.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

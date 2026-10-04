@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Umami Tofu & Veggie Mie Goreng",
   "subtitle": "with Fried Egg & Crispy Shallots",
-  "description": "Mie Goreng, meaning 'fried noodles', is a much-loved Indonesian street speciality that has become a favourite in homes worldwide. Our version includes tofu and it delivers the perfect ratio of sweet to salty flavours making this a truly delicious mid-week dinner.\nWe’ve replaced the broccoli florets in this recipe with green beans\ndue to local ingredient availability. It’ll be just as delicious, just follow your\nrecipe card!",
+  "description": "Mie Goreng, meaning 'fried noodles', is a much-loved Indonesian street speciality that has become a favourite in homes worldwide. Our version includes tofu and it delivers the perfect ratio of sweet to salty flavours making this a truly delicious mid-week dinner. We’ve replaced the broccoli florets in this recipe with green beans due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/pork-and-veggie-mie-goreng-67f84fbbcade9b9f0ace32de",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF220629_R05_W34_AUS_KB_Main_add_coriander_edit_high-bac8d0f8.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 672,
+    "proteinG": 31.5,
+    "carbsG": 90.2,
+    "fatG": 24.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

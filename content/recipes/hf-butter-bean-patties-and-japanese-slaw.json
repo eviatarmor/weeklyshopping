@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/butter-bean-patties-japanese-slaw-a3902ea2.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 813,
+    "proteinG": 34.8,
+    "carbsG": 84.2,
+    "fatG": 34.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

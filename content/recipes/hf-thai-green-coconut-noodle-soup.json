@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Thai Green Coconut Noodle Soup",
   "subtitle": "with Crushed Peanuts",
-  "description": "This fast one-pot noodle soup is a delicious and easy way to switch up your dinner! Green curry paste and flat noodles are the\nkey players, while makrut lime leaves and crushed peanuts add flavour and crunch.",
+  "description": "This fast one-pot noodle soup is a delicious and easy way to switch up your dinner! Green curry paste and flat noodles are the key players, while makrut lime leaves and crushed peanuts add flavour and crunch.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-green-coconut-noodle-soup-605a5db703085f3ea67c2b87",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-green-coconut-noodle-soup-36f685ce.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 915,
+    "proteinG": 22.2,
+    "carbsG": 60.4,
+    "fatG": 62.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

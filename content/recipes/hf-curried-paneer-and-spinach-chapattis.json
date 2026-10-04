@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/curried-paneer-spinach-chapattis-163db01a.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 473,
+    "proteinG": 25.9,
+    "carbsG": 16.8,
+    "fatG": 32.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -81,29 +87,29 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, cut the paneer cheese into 2 cm cubes. Finely slice the red onion, grate the zucchini, and pick the coriander leaves."
+      "text": "To prepare the ingredients, cut the paneer cheese into 2 cm cubes. Finely slice the red onion, grate the zucchini, and pick the coriander leaves."
     },
     {
-      "text": "• Bring a full kettle of water to the boil. Place the baby spinach leaves in a large bowl. Pour over the water. Set aside for 2 minutes, or until the spinach has wilted. Drain and leave to cool. Once cool, squeeze out excess water and roughly chop. Set aside.",
+      "text": "Bring a full kettle of water to the boil. Place the baby spinach leaves in a large bowl. Pour over the water. Set aside for 2 minutes, or until the spinach has wilted. Drain and leave to cool. Once cool, squeeze out excess water and roughly chop. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c13eba28e1a1218585423-1-0-083a7222.jpg"
     },
     {
-      "text": "• Meanwhile, heat half the olive oil in a medium frying pan over a medium-high heat. Season the paneer cheese generously with salt and pepper and add to the pan. Stir fry for 3-4 minutes, or until lightly golden. Remove the paneer from the pan and set aside.",
+      "text": "Meanwhile, heat half the olive oil in a medium frying pan over a medium-high heat. Season the paneer cheese generously with salt and pepper and add to the pan. Stir fry for 3-4 minutes, or until lightly golden. Remove the paneer from the pan and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c13eba28e1a1218585423-2-0-91bab68e.jpg"
     },
     {
-      "text": "• Heat the remaining olive oil in the same pan over a medium-high heat. Add the red onion and cook for 5 minutes, or until softened. Add the mild curry powder to the pan and cook for a further 1 minute, or until fragrant. Add the zucchini and the baby spinach leaves and cook for a further 3-4 minutes, or until softened.",
+      "text": "Heat the remaining olive oil in the same pan over a medium-high heat. Add the red onion and cook for 5 minutes, or until softened. Add the mild curry powder to the pan and cook for a further 1 minute, or until fragrant. Add the zucchini and the baby spinach leaves and cook for a further 3-4 minutes, or until softened.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c13eba28e1a1218585423-3-0-c9d4dc7f.jpg"
     },
     {
-      "text": "• Add the paneer and half the Greek yoghurt to the spinach mix and cook for 2 minutes, or until piping hot. Season with salt and pepper.",
+      "text": "Add the paneer and half the Greek yoghurt to the spinach mix and cook for 2 minutes, or until piping hot. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c13eba28e1a1218585423-4-0-dc7cca8f.jpg"
     },
     {
-      "text": "• Meanwhile, heat the chapati wraps for a few seconds in the microwave or a sandwich press until warm."
+      "text": "Meanwhile, heat the chapati wraps for a few seconds in the microwave or a sandwich press until warm."
     },
     {
-      "text": "• To serve, top the chapatis with the paneer mix, drizzle over the remaining yoghurt and garnish with the coriander. Enjoy!"
+      "text": "To serve, top the chapatis with the paneer mix, drizzle over the remaining yoghurt and garnish with the coriander. Enjoy!"
     }
   ]
 }

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6768a3b09bfc6de73c8e262c-22c07202-a04a6631.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 884,
+    "proteinG": 26.5,
+    "carbsG": 98.1,
+    "fatG": 40.7
+  },
   "tags": [
     "everyplate",
     "malaysisk",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sri Lankan-Spiced Coconut Lentils",
   "subtitle": "with Cauliflower-Veggie Rice",
-  "description": "When you combine hearty lentils with our mild Sri Lankan spice blend and creamy coconut\nmilk, the result is pretty magical. The ginger-infused cauli-veggie rice is perfect for soaking\nup the coconutty sauce, all while keeping the carbs down.\nThis recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
+  "description": "When you combine hearty lentils with our mild Sri Lankan spice blend and creamy coconut milk, the result is pretty magical. The ginger-infused cauli-veggie rice is perfect for soaking up the coconutty sauce, all while keeping the carbs down. This recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sri-lankan-spiced-coconut-lentils-61a74044de641e215142c64d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sri-lankan-spiced-coconut-lentils-be8798b6.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 553,
+    "proteinG": 12,
+    "carbsG": 29.8,
+    "fatG": 40.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

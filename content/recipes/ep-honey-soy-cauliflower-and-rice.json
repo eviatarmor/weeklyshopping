@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-soy-cauliflower-rice-2df0bcf0.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 624,
+    "proteinG": 14.1,
+    "carbsG": 87.1,
+    "fatG": 22.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

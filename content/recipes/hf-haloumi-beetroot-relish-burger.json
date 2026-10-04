@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Chipotle Mayo Burger",
   "subtitle": "with Spiced Sweet Potato Fries",
-  "description": "This squeaky burger gets a big \"yes, please!\" from all of our recipe testers, and for good reason. With tangy beetroot relish,\nsmokey mild chipotle mayo and a fresh touch from tomato and salad leaves, every bite is a true delight.",
+  "description": "This squeaky burger gets a big \"yes, please!\" from all of our recipe testers, and for good reason. With tangy beetroot relish, smokey mild chipotle mayo and a fresh touch from tomato and salad leaves, every bite is a true delight.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-beetroot-relish-burger-5da65c7db3183f0f1602909c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-beetroot-relish-burger-cca43ed8.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 961,
+    "proteinG": 33.9,
+    "carbsG": 96.8,
+    "fatG": 44.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/italian-veggie-black-bean-soup-8651b99e.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 459,
+    "proteinG": 22.5,
+    "carbsG": 56,
+    "fatG": 14.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",

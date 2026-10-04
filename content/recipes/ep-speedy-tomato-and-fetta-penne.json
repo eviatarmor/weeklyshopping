@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Garlicky Veggie-Loaded Fusilli",
   "subtitle": "with Fetta",
-  "description": "You need dinner, fast, and we can help! Get a load of this tasty delight with fetta, veggies and penne - it will satisfy the family and leave you with more time on the couch!\n*Due to recent sourcing challenges, we’ve replaced penne with fusilli, which may\nlook different to the picture. Don’t worry, your recipe will be just as tasty!",
+  "description": "You need dinner, fast, and we can help! Get a load of this tasty delight with fetta, veggies and penne - it will satisfy the family and leave you with more time on the couch! *Due to recent sourcing challenges, we’ve replaced penne with fusilli, which may look different to the picture. Don’t worry, your recipe will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/speedy-tomato-and-fetta-penne-67f8548e0d0527cba53aef69",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/speedy-tomato-veggie-penne-d0d779dd-89e19397.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 677,
+    "proteinG": 19.9,
+    "carbsG": 82.5,
+    "fatG": 28.8
+  },
   "tags": [
     "everyplate",
     "italian",

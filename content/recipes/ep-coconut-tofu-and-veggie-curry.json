@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/coconut-tofu-veggie-curry-da889df0.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 786,
+    "proteinG": 22.6,
+    "carbsG": 86.8,
+    "fatG": 36.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

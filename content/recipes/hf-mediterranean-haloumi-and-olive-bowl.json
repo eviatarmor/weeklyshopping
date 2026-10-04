@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mediterranean Haloumi & Olive Bowl",
   "subtitle": "with Pearl Couscous & Fetta",
-  "description": "With favourite ingredients from the sun-soaked Mediterranean region, this bowl is supercharged with flavour. From the squeaky\nhaloumi to the kalamata olives, fetta (yep, double cheese!) and pesto dressing, it's a dinner to remember.",
+  "description": "With favourite ingredients from the sun-soaked Mediterranean region, this bowl is supercharged with flavour. From the squeaky haloumi to the kalamata olives, fetta (yep, double cheese!) and pesto dressing, it's a dinner to remember.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-haloumi-and-olive-bowl-607e5996ef55d677a455bbb9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5e154fcb60f8257e2b73b81b-704c872c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 822,
+    "proteinG": 30.1,
+    "carbsG": 58.1,
+    "fatG": 50.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

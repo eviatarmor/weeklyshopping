@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/italian-lentil-veggie-soup-5d5f857f.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 440,
+    "proteinG": 20.4,
+    "carbsG": 42,
+    "fatG": 18.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

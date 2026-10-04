@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1013_W33_AU_R12379-6_Main_high-ed2bcef5.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 692,
+    "proteinG": 34.4,
+    "carbsG": 81,
+    "fatG": 23.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Bean & Veggie-Loaded Soup",
   "subtitle": "with Cheesy Tortilla Chips & Sour Cream",
-  "description": "Nothing matches chilly weather better than this tomato and red kidney bean soup. With hidden veggies and cheesy tortilla\nchips, you'll be sipping, slurping and dunking. With some coriander to garnish, this dish deserves some serious praise!",
+  "description": "Nothing matches chilly weather better than this tomato and red kidney bean soup. With hidden veggies and cheesy tortilla chips, you'll be sipping, slurping and dunking. With some coriander to garnish, this dish deserves some serious praise!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-tomato-and-bean-soup-6488199798db3bf5567d3ca6",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a9cd4c1960f8a32f0bf972-5588f253.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 764,
+    "proteinG": 32.6,
+    "carbsG": 95.9,
+    "fatG": 25.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

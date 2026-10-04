@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Veggie Minestrone",
   "subtitle": "with Basil Pesto & Parmesan Crisps",
-  "description": "Brimming with a vibrant veggie medley and hearty lentils, this pesto-adorned minestrone is comfort in a bowl - without the carb overload. And who needs croutons when you have umami Parmesan crisps?\nThis recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
+  "description": "Brimming with a vibrant veggie medley and hearty lentils, this pesto-adorned minestrone is comfort in a bowl - without the carb overload. And who needs croutons when you have umami Parmesan crisps? This recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-veggie-minestrone-61ea0c8bea0c7676e96c66b9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-veggie-minestrone-b2eb594b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 445,
+    "proteinG": 14.9,
+    "carbsG": 29,
+    "fatG": 27.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

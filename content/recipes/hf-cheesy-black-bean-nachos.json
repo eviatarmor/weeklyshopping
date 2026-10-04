@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Black Bean Nachos",
   "subtitle": "with Corn Salsa & Sour Cream",
-  "description": "Get a load of this for a veggie masterpiece that looks just as amazing as it tastes! Crunchy tortilla wedges are\npiled high with a cheese-topped black bean mix, corn salsa, sour cream, pickled onion and coriander.\nUnfortunately, this week's\nlentils were in short supply, so we've replaced\nthem with black beans. Don't worry, the recipe\nwill be just as delicious!",
+  "description": "Get a load of this for a veggie masterpiece that looks just as amazing as it tastes! Crunchy tortilla wedges are piled high with a cheese-topped black bean mix, corn salsa, sour cream, pickled onion and coriander. Unfortunately, this week's lentils were in short supply, so we've replaced them with black beans. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-black-bean-nachos-61b008ce8863b405fa6d2080",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/loaded-lentil-cheesy-nachos-4169143a.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 849,
+    "proteinG": 30.3,
+    "carbsG": 82.3,
+    "fatG": 38.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -134,7 +140,7 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. Cut the mini flour tortillas into wedges. Slice the red onion in half. Thinly slice 1/2 the onion, then finely chop the remainder. Finely chop the garlic and celery. Drain and rinse the black beans. Drain the sweetcorn. Grate the carrot. Roughly chop the chargrilled capsicum strips. In a small bowl, combine the white wine vinegar and a good pinch of sugar and salt. Scrunch the sliced onion in your hands, then add to the pickling liquid. Add enough water to just cover the onion, then set aside.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. Cut the mini flour tortillas into wedges. Slice the red onion in half. Thinly slice 1/2 the onion, then finely chop the remainder. Finely chop the garlic and celery. Drain and rinse the black beans. Drain the sweetcorn. Grate the carrot. Roughly chop the chargrilled capsicum strips. In a small bowl, combine the white wine vinegar and a good pinch of sugar and salt. Scrunch the sliced onion in your hands, then add to the pickling liquid. Add enough water to just cover the onion, then set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-d464c873.jpg"
     },
     {
@@ -154,7 +160,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-c87382de.jpg"
     },
     {
-      "text": "• Drain the pickled onion. Divide the tortilla chips between plates. Top with the cheesy black beans, light sour cream, corn salsa and pickled onion. Sprinkle with the reserved coriander to serve.",
+      "text": "Drain the pickled onion. Divide the tortilla chips between plates. Top with the cheesy black beans, light sour cream, corn salsa and pickled onion. Sprinkle with the reserved coriander to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b008ce8863b405fa6d2080/step-ccacc350.jpg"
     }
   ]

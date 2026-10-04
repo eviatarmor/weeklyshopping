@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-chilli-tofu-noodles-2b0471a7.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 610,
+    "proteinG": 28.9,
+    "carbsG": 59.7,
+    "fatG": 25.4
+  },
   "tags": [
     "vegetarian",
     "everyplate",

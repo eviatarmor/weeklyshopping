@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chermoula Cauliflower & Bulgur Wheat with Dill & Parsley Mayo & Lemon Hazelnut Topping",
   "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
-  "description": "This nutritionally balanced dish is a celebration of wholesome roasted veggies with bulgur wheat and fresh mint. Add chermoula\nspices for extra flavour, then top it off with herby mayo and a sprinkle of zesty hazelnuts.\nThis recipe is under 650kcal per serving.",
+  "description": "This nutritionally balanced dish is a celebration of wholesome roasted veggies with bulgur wheat and fresh mint. Add chermoula spices for extra flavour, then top it off with herby mayo and a sprinkle of zesty hazelnuts. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-cauliflower-and-bulgur-wheat-with-dill-and-parsley-mayo-and-lemon-hazelnut-topping-6087a1797d0a2d62370b7d6d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chermoula-cauliflower-freekeh-bowl-3ed11fb3.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 423,
+    "proteinG": 10.7,
+    "carbsG": 31.6,
+    "fatG": 26.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

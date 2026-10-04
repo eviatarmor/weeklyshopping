@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Pumpkin & Parmesan Gnocchi",
   "subtitle": "with Almond Salad",
-  "description": "Picture golden bundles of gnocchi smothered in a cheesy creamy sauce with sweet roasted veggies and drizzled with truffle oil.\nNow, if that hasn’t got your mouth watering, just wait until you tuck into the real thing.\nThe recent harsh weather conditions have impacted the zucchini grown by our farmers.\nThe quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "Picture golden bundles of gnocchi smothered in a cheesy creamy sauce with sweet roasted veggies and drizzled with truffle oil. Now, if that hasn’t got your mouth watering, just wait until you tuck into the real thing. The recent harsh weather conditions have impacted the zucchini grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-pumpkin-and-parmesan-gnocchi-6178b0c58465a62eb123d6db",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pumpkin-truffle-gnocchi-97311ccd.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 839,
+    "proteinG": 28.9,
+    "carbsG": 97,
+    "fatG": 36.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

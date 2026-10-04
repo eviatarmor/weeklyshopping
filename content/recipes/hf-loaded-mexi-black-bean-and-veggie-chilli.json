@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/black-bean-veggie-chilli-a781d55f.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 633,
+    "proteinG": 32.1,
+    "carbsG": 85.5,
+    "fatG": 18.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -113,27 +119,27 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **200°C/180°C fan-forced**. Finely chop the **brown onion**. Finely chop the **carrot** (unpeeled). Finely chop the **green capsicum**. Peel and crush the **garlic**. Drain and rinse the **black beans**.",
+      "text": "Preheat the oven to **200°C/180°C fan-forced**. Finely chop the **brown onion**. Finely chop the **carrot** (unpeeled). Finely chop the **green capsicum**. Peel and crush the **garlic**. Drain and rinse the **black beans**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58ef0890d0d6bd5ad450fed3-0-0-fc3a2a8d.jpg"
     },
     {
-      "text": "• Heat a **drizzle** of **olive oil** in a large saucepan over a medium-high heat. Add the **brown onion**, **carrot** and **green capsicum** and cook for **5 minutes**, or until softened. Add the **taco spice blend** and **garlic**  and cook for **1-2 minutes**, or until fragrant.",
+      "text": "Heat a **drizzle** of **olive oil** in a large saucepan over a medium-high heat. Add the **brown onion**, **carrot** and **green capsicum** and cook for **5 minutes**, or until softened. Add the **taco spice blend** and **garlic** and cook for **1-2 minutes**, or until fragrant.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58ef0890d0d6bd5ad450fed3-1-0-fe87585a.jpg"
     },
     {
-      "text": "• Add the **diced tomatoes**, **black beans** and **hot water (check ingredients list for the amount)** to the saucepan with the veggies. Crumble in the **vegetable stock** cube and add a **pinch** of **pepper**. Simmer for **10 minutes**, or until slightly thickened.",
+      "text": "Add the **diced tomatoes**, **black beans** and **hot water (check ingredients list for the amount)** to the saucepan with the veggies. Crumble in the **vegetable stock** cube and add a **pinch** of **pepper**. Simmer for **10 minutes**, or until slightly thickened.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58ef0890d0d6bd5ad450fed3-2-0-35098e15.jpg"
     },
     {
-      "text": "• While the chilli is cooking, slice the **mini flour tortilla** into wedges and arrange over the oven tray lined with baking paper (don’t worry if they overlap). **Spray** (or **brush**) with **olive oil** and season with a **pinch** of **salt** and **pepper**. Bake in the oven for **7-8 minutes**, or until golden.",
+      "text": "While the chilli is cooking, slice the **mini flour tortilla** into wedges and arrange over the oven tray lined with baking paper (don’t worry if they overlap). **Spray** (or **brush**) with **olive oil** and season with a **pinch** of **salt** and **pepper**. Bake in the oven for **7-8 minutes**, or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58ef0890d0d6bd5ad450fed3-3-0-f4066636.jpg"
     },
     {
-      "text": "• While the tortilla chips are baking, grate the **Cheddar cheese** and finely slice the **long green chilli (if using)**. **TIP:** Some like it hot but if you don't just hold back on the chilli.",
+      "text": "While the tortilla chips are baking, grate the **Cheddar cheese** and finely slice the **long green chilli (if using)**. **TIP:** Some like it hot but if you don't just hold back on the chilli.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58ef0890d0d6bd5ad450fed3-4-0-75a401b4.jpg"
     },
     {
-      "text": "• Divide the mexi-black bean and veggie chilli between bowls, top with a dollop of **Greek yoghurt** and sprinkle over the Cheddar cheese and the long green chilli (if using). Serve with the tortilla chips.",
+      "text": "Divide the mexi-black bean and veggie chilli between bowls, top with a dollop of **Greek yoghurt** and sprinkle over the Cheddar cheese and the long green chilli (if using). Serve with the tortilla chips.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58ef0890d0d6bd5ad450fed3-5-0-01438f27.jpg"
     }
   ]

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-quinoa-bowl-12885f17.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 485,
+    "proteinG": 21.5,
+    "carbsG": 53.2,
+    "fatG": 21.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -113,27 +119,27 @@
   ],
   "steps": [
     {
-      "text": "• Finely chop the **red capsicum**. Dice the **zucchini**. Dice the **cucumber**. Slice the **lemon** into wedges and juice until you have **1 tbs for 2 people/2 tbs for 4 people**. Finely chop the **parsley** leaves. Slice the **fetta** into cubes. **TIP:** You can crumble the fetta to save time if you like! Roughly chop the **Kalamata olives**.",
+      "text": "Finely chop the **red capsicum**. Dice the **zucchini**. Dice the **cucumber**. Slice the **lemon** into wedges and juice until you have **1 tbs for 2 people/2 tbs for 4 people**. Finely chop the **parsley** leaves. Slice the **fetta** into cubes. **TIP:** You can crumble the fetta to save time if you like! Roughly chop the **Kalamata olives**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59ac9822d56afa173943ed12-0-0-37df0e4c.jpg"
     },
     {
-      "text": "• Rinse the **quinoa** well. Place the quinoa and the **water (check ingredients list for the amount)** in a medium saucepan and crumble in the **vegetable stock** cube. Cover with a lid and bring to the boil. Once boiled, remove the lid and reduce to a medium heat. Simmer, uncovered, for **8-10 minutes**, or until the quinoa is tender, has a slight bite and the water has absorbed. Drain any excess water.",
+      "text": "Rinse the **quinoa** well. Place the quinoa and the **water (check ingredients list for the amount)** in a medium saucepan and crumble in the **vegetable stock** cube. Cover with a lid and bring to the boil. Once boiled, remove the lid and reduce to a medium heat. Simmer, uncovered, for **8-10 minutes**, or until the quinoa is tender, has a slight bite and the water has absorbed. Drain any excess water.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59ac9822d56afa173943ed12-1-0-859d1a44.jpg"
     },
     {
-      "text": "• While the quinoa is cooking, heat a medium frying pan over a medium-high heat. Add the **pepitas** and toast, stirring, for **3-4 minutes**, or until golden. Remove from the pan and set aside. Return the pan to the heat and add a **drizzle** of **olive oil**. Add the **red capsicum** and **zucchini** and cook for **5 minutes**, or until softened. Remove the pan from the heat.",
+      "text": "While the quinoa is cooking, heat a medium frying pan over a medium-high heat. Add the **pepitas** and toast, stirring, for **3-4 minutes**, or until golden. Remove from the pan and set aside. Return the pan to the heat and add a **drizzle** of **olive oil**. Add the **red capsicum** and **zucchini** and cook for **5 minutes**, or until softened. Remove the pan from the heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59ac9822d56afa173943ed12-2-0-0a5618a6.jpg"
     },
     {
-      "text": "• In a medium bowl, add the **lemon juice**, **honey**, a **drizzle** of **olive oil** and the **parsley**. Season with a **pinch** of **salt** and **pepper** and mix well.",
+      "text": "In a medium bowl, add the **lemon juice**, **honey**, a **drizzle** of **olive oil** and the **parsley**. Season with a **pinch** of **salt** and **pepper** and mix well.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59ac9822d56afa173943ed12-3-0-13a58c2e.jpg"
     },
     {
-      "text": "• Add the **quinoa**, **red capsicum** and **zucchini** into the bowl with the lemon-parsley dressing and toss to combine.",
+      "text": "Add the **quinoa**, **red capsicum** and **zucchini** into the bowl with the lemon-parsley dressing and toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59ac9822d56afa173943ed12-4-0-742035e6.jpg"
     },
     {
-      "text": "• Divide the Mediterranean quinoa between bowls and top with the cucumber, fetta, Kalamata olives and **chargrilled capsicum dip**. Sprinkle over the toasted pepitas and serve any remaining lemon wedges on the side",
+      "text": "Divide the Mediterranean quinoa between bowls and top with the cucumber, fetta, Kalamata olives and **chargrilled capsicum dip**. Sprinkle over the toasted pepitas and serve any remaining lemon wedges on the side",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59ac9822d56afa173943ed12-5-0-48b84d6a.jpg"
     }
   ]

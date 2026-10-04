@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crumbed-halloumi-caesar-style-salad-952ea58c.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 705,
+    "proteinG": 31.8,
+    "carbsG": 55.9,
+    "fatG": 38.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mumbai Popcorn Haloumi & Tamarind Chutney",
   "subtitle": "with Cucumber Salsa & Garlic Rice",
-  "description": "The best part about this recipe is that you can pack a little bit of each ingredient onto your fork and enjoy all of the flavours in one\nhit! Start by adding some of our go-to basmati rice as the foundation, some colourful cucumber salsa to follow, then pop on top some\nMumbai-spiced popcorn haloumi to complete the stack. Now all that is left is for you to devour it before we do!",
+  "description": "The best part about this recipe is that you can pack a little bit of each ingredient onto your fork and enjoy all of the flavours in one hit! Start by adding some of our go-to basmati rice as the foundation, some colourful cucumber salsa to follow, then pop on top some Mumbai-spiced popcorn haloumi to complete the stack. Now all that is left is for you to devour it before we do!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mumbai-popcorn-haloumi-tamarind-chutney-6358b56c88b83589f60746a3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mumbai-popcorn-haloumi-tamarind-chutney-6c3a93fc.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 857,
+    "proteinG": 26,
+    "carbsG": 91.8,
+    "fatG": 55
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

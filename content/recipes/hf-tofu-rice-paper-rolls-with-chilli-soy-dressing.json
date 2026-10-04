@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5252b1b8301bbff2428b4741.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 445,
+    "proteinG": 30.4,
+    "carbsG": 19.6,
+    "fatG": 23.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -94,22 +100,22 @@
   ],
   "steps": [
     {
-      "text": "• First deseed and dice the chili, peel the ginger and julienne the cucumber and the carrot. Stir together the soy sauce, lemon juice, sugar, chili, and the ginger in a small dipping bowl.",
+      "text": "First deseed and dice the chili, peel the ginger and julienne the cucumber and the carrot. Stir together the soy sauce, lemon juice, sugar, chili, and the ginger in a small dipping bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b8301bbff2428b4741/step_556824b8b10e9.jpg"
     },
     {
-      "text": "• Heat some oil in a large frying pan over medium-high heat. Pan fry the tofu for 2-3 minutes on each side until golden and warmed through.",
+      "text": "Heat some oil in a large frying pan over medium-high heat. Pan fry the tofu for 2-3 minutes on each side until golden and warmed through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b8301bbff2428b4741/step_556824b90a6f9.jpg"
     },
     {
-      "text": "• In a kettle boil 500ml water and add to a wide shallow bowl that will fit the rice paper rolls, let it cool a bit so you don't burn your fingers! Place one piece of rice paper into the warm water and soak until it becomes soft (this will take just seconds).",
+      "text": "In a kettle boil 500ml water and add to a wide shallow bowl that will fit the rice paper rolls, let it cool a bit so you don't burn your fingers! Place one piece of rice paper into the warm water and soak until it becomes soft (this will take just seconds).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b8301bbff2428b4741/step_556824b91e8c2.jpg"
     },
     {
-      "text": "• Place the rice paper sheet on a plate, add the carrot, tofu, beansprouts, cucumber and mint into the left of the rice paper, like the illustration below. Fold one side over, followed by the opposite, and then wrap the roll up as tightly as possible - as long as the paper still has enough moisture it will stick, so try to work quickly!"
+      "text": "Place the rice paper sheet on a plate, add the carrot, tofu, beansprouts, cucumber and mint into the left of the rice paper, like the illustration below. Fold one side over, followed by the opposite, and then wrap the roll up as tightly as possible - as long as the paper still has enough moisture it will stick, so try to work quickly!"
     },
     {
-      "text": "• Cook's night off! Place all of the ingredients in the centre of the table and get everyone to roll their own paper roll. The person with the worst looking roll does the washing up! Dip your roll into the soy dressing and enjoy!"
+      "text": "Cook's night off! Place all of the ingredients in the centre of the table and get everyone to roll their own paper roll. The person with the worst looking roll does the washing up! Dip your roll into the soy dressing and enjoy!"
     }
   ]
 }

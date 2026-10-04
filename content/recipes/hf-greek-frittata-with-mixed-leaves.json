@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/560b8447f8b25e261e8b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 411,
+    "proteinG": 26.1,
+    "carbsG": 11.9,
+    "fatG": 27.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -96,16 +102,16 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, zest and juice the lemon. Finely slice the red onion and tomato, halve the olives and cut the zucchini into 5 mm thick discs. Crumble the fetta cheese and pick the oregano leaves."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, zest and juice the lemon. Finely slice the red onion and tomato, halve the olives and cut the zucchini into 5 mm thick discs. Crumble the fetta cheese and pick the oregano leaves."
     },
     {
-      "text": "• In a medium jug or bowl, whisk the eggs, milk, lemon zest, oregano, and salt and pepper."
+      "text": "In a medium jug or bowl, whisk the eggs, milk, lemon zest, oregano, and salt and pepper."
     },
     {
-      "text": "• Heat the olive oil in a medium ovenproof frying pan over a medium heat. Add the red onion and cook, stirring, for 3 minutes or until softened. Add the zucchini and cook, stirring, occasionally for 3-4 minutes or until lightly golden and tender. Add the kalamata olives to the pan and using a spatula evenly distribute the onion, zucchini and olives across the base of the pan. Pour in the egg mixture and top with the slices of tomato and the crumbled fetta cheese. Transfer to the oven and cook for 10-15 minutes, or until the egg is set."
+      "text": "Heat the olive oil in a medium ovenproof frying pan over a medium heat. Add the red onion and cook, stirring, for 3 minutes or until softened. Add the zucchini and cook, stirring, occasionally for 3-4 minutes or until lightly golden and tender. Add the kalamata olives to the pan and using a spatula evenly distribute the onion, zucchini and olives across the base of the pan. Pour in the egg mixture and top with the slices of tomato and the crumbled fetta cheese. Transfer to the oven and cook for 10-15 minutes, or until the egg is set."
     },
     {
-      "text": "• Allow the frittata to cool slightly. Slice into wedges and serve with the mixed salad leaves. Drizzle the salad with olive oil and lemon juice."
+      "text": "Allow the frittata to cool slightly. Slice into wedges and serve with the mixed salad leaves. Drizzle the salad with olive oil and lemon juice."
     }
   ]
 }

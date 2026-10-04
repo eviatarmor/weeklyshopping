@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Malaysian Coconut Veggie Curry",
   "subtitle": "with Rice & Peanuts",
-  "description": "Get the fragrant flavours of Malaysia in this nourishing and veggie-packed curry. Served over fluffy rice, it's a hearty dinner that will leave you feeling great!\nDue to recent sourcing\nchallenges, we’ve swapped\ncapsicum for green beans,\nwhich may look different to\nthe picture. Don’t worry, your\nrecipe will be just as tasty.",
+  "description": "Get the fragrant flavours of Malaysia in this nourishing and veggie-packed curry. Served over fluffy rice, it's a hearty dinner that will leave you feeling great! Due to recent sourcing challenges, we’ve swapped capsicum for green beans, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
   "sourceUrl": "https://www.everyplate.com.au/recipes/malaysian-coconut-veggie-curry-6170d8c965200c66cd2223ad",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/malaysian-veggie-curry-bbd17fa3.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 873,
+    "proteinG": 14,
+    "carbsG": 92,
+    "fatG": 47.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",

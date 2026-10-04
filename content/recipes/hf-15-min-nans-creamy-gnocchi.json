@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "15-Min Nan's Creamy Gnocchi",
   "subtitle": "with Spinach & Parmesan Cheese",
-  "description": "Soft pillows of gnocchi are the perfect little parcels ready to soak up all the creamy goodness in this recipe. It is so tempting\nthat you might want to eat it straight out of the pan.",
+  "description": "Soft pillows of gnocchi are the perfect little parcels ready to soak up all the creamy goodness in this recipe. It is so tempting that you might want to eat it straight out of the pan.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/15-min-nans-creamy-gnocchi-64ec3c8535c6d7c0feec79bb",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64ec3c8535c6d7c0feec79bb-a0b9bd44.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 798,
+    "proteinG": 22.2,
+    "carbsG": 93.5,
+    "fatG": 36.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,7 +114,7 @@
   ],
   "steps": [
     {
-      "text": "• Halve snacking tomatoes.",
+      "text": "Halve snacking tomatoes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64ec3c8535c6d7c0feec79bb-ad1aa20e.jpeg"
     },
     {

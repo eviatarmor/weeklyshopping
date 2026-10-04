@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Baked Pumpkin Risotto",
   "subtitle": "with Sage Brown Butter & Parmesan",
-  "description": "This rich, creamy risotto comes together in the oven, leaving you free to create a quick and flavourful sage brown butter to stir\nthrough at the end. This easy addition takes this vegetarian meal to the next level – taste it and see!",
+  "description": "This rich, creamy risotto comes together in the oven, leaving you free to create a quick and flavourful sage brown butter to stir through at the end. This easy addition takes this vegetarian meal to the next level – taste it and see!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/baked-pumpkin-risotto-607e4629a1cc2667ac7acb73",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/baked-pumpkin-risotto-a870305d.jpg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 799,
+    "proteinG": 26.8,
+    "carbsG": 101.5,
+    "fatG": 27.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

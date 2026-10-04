@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pumpkin-lentil-thai-curry-with-bok-choy-rice-dd874142.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 896,
+    "proteinG": 31.6,
+    "carbsG": 120,
+    "fatG": 28.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -116,22 +122,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely slice the red onion, remove the pumpkin skin and chop the pumpkin into 2 cm cubes, crumble the vegetable stock, rinse the red lentils and Jasmine rice well, and roughly chop the baby bok choy and coriander."
+      "text": "To prepare the ingredients, finely slice the red onion, remove the pumpkin skin and chop the pumpkin into 2 cm cubes, crumble the vegetable stock, rinse the red lentils and Jasmine rice well, and roughly chop the baby bok choy and coriander."
     },
     {
-      "text": "• Heat the vegetable oil in a large heavy-based saucepan over a medium-high heat. Add the red onion and pumpkin. Cook, stirring occasionally, for 6 minutes, or until slightly caramelised. Stir in the vegetarian Penang curry paste and cook for 1 minute (if you are afraid of heat, add the paste a little at a time until the required taste is achieved).",
+      "text": "Heat the vegetable oil in a large heavy-based saucepan over a medium-high heat. Add the red onion and pumpkin. Cook, stirring occasionally, for 6 minutes, or until slightly caramelised. Stir in the vegetarian Penang curry paste and cook for 1 minute (if you are afraid of heat, add the paste a little at a time until the required taste is achieved).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c42b82e69d7624d28be53-1-0-1d947f6a.jpg"
     },
     {
-      "text": "• Add the coconut milk, warm water, vegetable stock and the red lentils. Bring to the boil then reduce the heat to medium. Simmer, uncovered and stir occasionally, for 15 minutes. Add the salt-reduced soy sauce and simmer for a further 3 minutes.",
+      "text": "Add the coconut milk, warm water, vegetable stock and the red lentils. Bring to the boil then reduce the heat to medium. Simmer, uncovered and stir occasionally, for 15 minutes. Add the salt-reduced soy sauce and simmer for a further 3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c42b82e69d7624d28be53-2-0-d9f48863.jpg"
     },
     {
-      "text": "• Meanwhile, bring the water to the boil in a medium saucepan. Add the Jasmine rice and cook for 10-12 minutes, or until soft. Add the baby bok choy in the last minute. Drain and return the rice and baby bok choy to the saucepan. Stir to combine.",
+      "text": "Meanwhile, bring the water to the boil in a medium saucepan. Add the Jasmine rice and cook for 10-12 minutes, or until soft. Add the baby bok choy in the last minute. Drain and return the rice and baby bok choy to the saucepan. Stir to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c42b82e69d7624d28be53-3-0-da758def.jpg"
     },
     {
-      "text": "• To serve, spoon your curry onto a bed of the bok choy rice and sprinkle over the coriander. Enjoy!"
+      "text": "To serve, spoon your curry onto a bed of the bok choy rice and sprinkle over the coriander. Enjoy!"
     }
   ]
 }

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y23_R09_W46_AU_MAIN__1Fettuccine_edit_edit_high-b28ddbbc.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 496,
+    "proteinG": 20.1,
+    "carbsG": 73,
+    "fatG": 12.5
+  },
   "tags": [
     "everyplate",
     "italian",

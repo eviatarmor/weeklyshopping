@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Basil Pesto & Veggie Risotto",
   "subtitle": "with Parmesan Cheese",
-  "description": "Our basil pesto adds a rich depth of flavour to this veggie risotto. Top it off with a sprinkle of Parmesan and you have a dish that\ndelivers deliciousness with every mouthful.",
+  "description": "Our basil pesto adds a rich depth of flavour to this veggie risotto. Top it off with a sprinkle of Parmesan and you have a dish that delivers deliciousness with every mouthful.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/oven-baked-red-pesto-and-veggie-risotto-67f834350d0527cba53a4e36",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1021_W23_AUS_MAIN_high-62c4de72.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 731,
+    "proteinG": 19.1,
+    "carbsG": 82.1,
+    "fatG": 36
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

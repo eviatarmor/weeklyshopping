@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mild Coconut Satay Tofu & Garlic Veggies",
   "subtitle": "with Jasmine Rice & Crispy Shallots",
-  "description": "In just 4 easy steps, whip up a tasty tofu bowl, perfect for rice night. You've got your carrot, broccoli and spinach in the veggie department and satay tofu in your protein department, all the perfect accompaniments for fluffy jasmine rice. Don't forget some crispy shallots for crunch!\nWe’ve replaced the carrot\n& broccoli mix in this\nrecipe with broccoli florets\ndue to local ingredient\navailability. It’ll be just as\ndelicious, just follow your\nrecipe card!",
+  "description": "In just 4 easy steps, whip up a tasty tofu bowl, perfect for rice night. You've got your carrot, broccoli and spinach in the veggie department and satay tofu in your protein department, all the perfect accompaniments for fluffy jasmine rice. Don't forget some crispy shallots for crunch! We’ve replaced the carrot & broccoli mix in this recipe with broccoli florets due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mild-coconut-satay-tofu-and-garlic-veggies-67f843a10d0527cba53a9aed",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R12_W13_AUS_Main_high-62c0731c.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 752,
+    "proteinG": 24.7,
+    "carbsG": 84.5,
+    "fatG": 37.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

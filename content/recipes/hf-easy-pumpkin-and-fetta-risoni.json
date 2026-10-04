@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Pumpkin & Fetta Risoni",
   "subtitle": "with Chilli Pangrattato & Basil Pesto",
-  "description": "Cosy up to this nourishing pasta dish with flavour-packed basil pesto, fetta and roasted pumpkin. Topped with\npangrattato for added crunch, it's super special and sure to satisfy.\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "description": "Cosy up to this nourishing pasta dish with flavour-packed basil pesto, fetta and roasted pumpkin. Topped with pangrattato for added crunch, it's super special and sure to satisfy. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-pumpkin-and-fetta-risoni-61ee28ce7ca86c0181463283",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-roast-pumpkin-fetta-risoni-ec873b3c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 727,
+    "proteinG": 25.9,
+    "carbsG": 75.2,
+    "fatG": 34.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/smokey-veggie-bean-stew-fd034d8c.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 618,
+    "proteinG": 21.9,
+    "carbsG": 77.2,
+    "fatG": 20.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

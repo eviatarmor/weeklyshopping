@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_AU_CYCLE_24_Fresh_Ricotta_Spinach_Ravioli_Ricotta__Spinach_Main-61d45341.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 500,
+    "proteinG": 25,
+    "carbsG": 48.1,
+    "fatG": 54.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

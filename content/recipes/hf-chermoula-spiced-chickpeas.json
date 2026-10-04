@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chermoula-Spiced Chickpeas",
   "subtitle": "with Sweet Potato Couscous & Almonds",
-  "description": "Mild Moroccan spices mingle with hearty chickpeas and sweet, velvety passata in this surprisingly simple vegetarian meal. Complete\nwith yoghurt for a touch of creaminess, and flaked almonds for some crunch, there's nothing missing here!",
+  "description": "Mild Moroccan spices mingle with hearty chickpeas and sweet, velvety passata in this surprisingly simple vegetarian meal. Complete with yoghurt for a touch of creaminess, and flaked almonds for some crunch, there's nothing missing here!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-spiced-chickpeas-5e1e98cf5e5a15744d3f20d8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chermoula-spiced-chickpeas-55b078af.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 695,
+    "proteinG": 23.9,
+    "carbsG": 88.9,
+    "fatG": 22.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -146,11 +152,11 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 240°C/220°C fan forced. Cut the sweet potato into bite-sized chunks. Place on a lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to coat. Roast until tender, 20-25 minutes.",
+      "text": "Preheat the oven to 240°C/220°C fan forced. Cut the sweet potato into bite-sized chunks. Place on a lined oven tray. Drizzle with olive oil, season with salt and pepper and toss to coat. Roast until tender, 20-25 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194964f915eef22f82d1512/step-fec918b1.jpg"
     },
     {
-      "text": "• While the sweet potato is roasting, thinly slice the red onion. In a small bowl, combine the rice wine vinegar and a good pinch of sugar and salt. Add 1/2 the onion and just enough water to cover. Stir to combine, then set aside. Finely chop the garlic. Roughly chop the baby spinach leaves. Drain and rinse the chickpeas. Halve the cherry tomatoes.",
+      "text": "While the sweet potato is roasting, thinly slice the red onion. In a small bowl, combine the rice wine vinegar and a good pinch of sugar and salt. Add 1/2 the onion and just enough water to cover. Stir to combine, then set aside. Finely chop the garlic. Roughly chop the baby spinach leaves. Drain and rinse the chickpeas. Halve the cherry tomatoes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194964f915eef22f82d1512/step-11836ea6.jpg"
     },
     {
@@ -162,11 +168,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194964f915eef22f82d1512/step-270c72c3.jpg"
     },
     {
-      "text": "• Stir the roasted sweet potato and baby spinach through the couscous, then season to taste. Set aside. Roughly chop the parsley. Drain the pickled onion. In a medium bowl, combine the parsley, pickled onion and cherry tomatoes. Drizzle with olive oil. Toss to combine, then season to taste.",
+      "text": "Stir the roasted sweet potato and baby spinach through the couscous, then season to taste. Set aside. Roughly chop the parsley. Drain the pickled onion. In a medium bowl, combine the parsley, pickled onion and cherry tomatoes. Drizzle with olive oil. Toss to combine, then season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194964f915eef22f82d1512/step-a7bc6822.jpg"
     },
     {
-      "text": "• Divide the sweet potato couscous between bowls. Top with the chermoula-spiced chickpeas, pickled onion salad and a dollop of Greek-style yoghurt. Serve sprinkled with flaked almonds.",
+      "text": "Divide the sweet potato couscous between bowls. Top with the chermoula-spiced chickpeas, pickled onion salad and a dollop of Greek-style yoghurt. Serve sprinkled with flaked almonds.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194964f915eef22f82d1512/step-dc477a08.jpg"
     }
   ]

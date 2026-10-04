@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-roast-potato-salad-6c29a808.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 460,
+    "proteinG": 24.6,
+    "carbsG": 37.5,
+    "fatG": 22.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Charred Zucchini Salad",
   "subtitle": "with Harissa Yoghurt & Roasted Almonds",
-  "description": "This charred zucchini salad will quickly rid you of those midweek blues, especially when you drizzle the harissa yoghurt over the tender haloumi. With peppery rocket and crunchy roasted almonds, this will quickly become a salad that you'll want to make on the regular!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "This charred zucchini salad will quickly rid you of those midweek blues, especially when you drizzle the harissa yoghurt over the tender haloumi. With peppery rocket and crunchy roasted almonds, this will quickly become a salad that you'll want to make on the regular! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/beef-rump-and-charred-zucchini-salad-67f835604264524ca978b792",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1025_W13_AUS_edit_colour__Main_F1_high-e02737c5.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 406,
+    "proteinG": 30.9,
+    "carbsG": 8.3,
+    "fatG": 27.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

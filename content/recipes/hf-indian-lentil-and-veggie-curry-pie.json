@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian-Style Lentil & Veggie Curry Pie",
   "subtitle": "with Potato Mash & Chilli Flakes",
-  "description": "This one is in a league of its own. We've taken your favourite parts of a curry, switched out the meat for hearty lentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty concoction!\nThis recipe is under 650kcal per serving.\nWe’ve replaced the brown mustard seeds in this recipe with chilli flakes due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "This one is in a league of its own. We've taken your favourite parts of a curry, switched out the meat for hearty lentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty concoction! This recipe is under 650kcal per serving. We’ve replaced the brown mustard seeds in this recipe with chilli flakes due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/indian-lentil-and-veggie-curry-pie-65dbcad26c7a1d757ffa9098",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65dbcad26c7a1d757ffa9098-388ac1f4.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 570,
+    "proteinG": 20.3,
+    "carbsG": 60.2,
+    "fatG": 25.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -156,7 +162,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65dbcad26c7a1d757ffa9098-5aa8cb0f.jpeg"
     },
     {
-      "text": "• Grill pie until lightly browned, 10-15 minutes.",
+      "text": "Grill pie until lightly browned, 10-15 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65dbcad26c7a1d757ffa9098-748bf9ba.jpeg"
     },
     {

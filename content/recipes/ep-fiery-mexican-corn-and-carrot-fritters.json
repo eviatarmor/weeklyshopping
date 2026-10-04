@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/fiery-mexican-corn-carrot-fritters-4eedad54.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 609,
+    "proteinG": 23.1,
+    "carbsG": 67.9,
+    "fatG": 25.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",

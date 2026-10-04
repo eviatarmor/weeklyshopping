@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/560b81d24dab718a2a8b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 605,
+    "proteinG": 33.5,
+    "carbsG": 33.8,
+    "fatG": 35.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -110,22 +116,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, shake the coconut milk well. Trim the green beans and finely shred the red cabbage. Slice the long chilli (deseeded) and the cucumber on the diagonal. Pick the coriander leaves and cut the lemon into wedges."
+      "text": "To prepare the ingredients, shake the coconut milk well. Trim the green beans and finely shred the red cabbage. Slice the long chilli (deseeded) and the cucumber on the diagonal. Pick the coriander leaves and cut the lemon into wedges."
     },
     {
-      "text": "• Place the Jasmine rice in a sieve and rinse under cold water until the water runs clear. Transfer to a medium saucepan and add the coconut milk and water. Bring to the boil. Reduce to a simmer and cook for 12-15 minutes or until the rice is tender and the liquid has been absorbed."
+      "text": "Place the Jasmine rice in a sieve and rinse under cold water until the water runs clear. Transfer to a medium saucepan and add the coconut milk and water. Bring to the boil. Reduce to a simmer and cook for 12-15 minutes or until the rice is tender and the liquid has been absorbed."
     },
     {
       "text": "• Meanwhile, bring a small saucepan of water to the boil. Add the free-range eggs and cook for 7 minutes. Add the green beans in the last 2 minutes. Drain and rinse the beans and whole eggs (in their shell) under cold water. Peel the eggs, halve and set aside.\n• Tip: If your eggs are not at room temperature, run them under warm water before adding them to the saucepan."
     },
     {
-      "text": "• Place the same small saucepan back over a medium heat. Add the remaining coconut milk, peanut butter and salt-reduced soy sauce. Bring to a simmer, stirring, for 1-2 minutes or until the sauce is well combined and has thickened a little."
+      "text": "Place the same small saucepan back over a medium heat. Add the remaining coconut milk, peanut butter and salt-reduced soy sauce. Bring to a simmer, stirring, for 1-2 minutes or until the sauce is well combined and has thickened a little."
     },
     {
-      "text": "• Heat an oiled medium frying pan over a medium heat. Add the peanut satay tofu and cook for 1-2 minutes on each side or until golden."
+      "text": "Heat an oiled medium frying pan over a medium heat. Add the peanut satay tofu and cook for 1-2 minutes on each side or until golden."
     },
     {
-      "text": "• To assemble your gado gado, divide the coconut rice, shredded red cabbage, cucumber, green beans, tofu and boiled eggs between bowls. Garnish with the coriander and long red chilli. Serve with the lemon wedges."
+      "text": "To assemble your gado gado, divide the coconut rice, shredded red cabbage, cucumber, green beans, tofu and boiled eggs between bowls. Garnish with the coriander and long red chilli. Serve with the lemon wedges."
     }
   ]
 }

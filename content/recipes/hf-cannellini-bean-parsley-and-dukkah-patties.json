@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cannellini Bean, Parsley & Dukkah Patties",
   "subtitle": "with Roasted Sweet Potato & Fetta Salad",
-  "description": "Here’s a new way to enjoy cannellini beans: combine them with creamy fetta and nutty dukkah, then shape them into patties!\nThe flavour doesn’t stop there – on the side you’ll have a fresh salad with chunks of spiced sweet potato and buttery toasted walnuts.\nA veggie meal with all the good stuff!\nUnfortunately, this week's lentils were in short supply, so we've replaced them with cannellini beans.\nDon't worry, the recipe will be just as delicious!",
+  "description": "Here’s a new way to enjoy cannellini beans: combine them with creamy fetta and nutty dukkah, then shape them into patties! The flavour doesn’t stop there – on the side you’ll have a fresh salad with chunks of spiced sweet potato and buttery toasted walnuts. A veggie meal with all the good stuff! Unfortunately, this week's lentils were in short supply, so we've replaced them with cannellini beans. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cannellini-bean-parsley-and-dukkah-patties-6100e4442a971805ad6b3234",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-dukkah-patties-45c7800a.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 755,
+    "proteinG": 28.6,
+    "carbsG": 64.6,
+    "fatG": 39.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

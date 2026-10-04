@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Garlicky Plant-Based Mince & Sweet Potato Risotto",
   "subtitle": "with Parmesan & Walnuts",
-  "description": "We’re big fans of baked risotto for an easy family dinner. Just pop it in the oven and walk away – the flavours will develop and\nthe rice will soak up the liquid to become soft and creamy. This version pairs sweet potato and bacon with two of our trusty\nseasonings and is finished with chopped walnuts for a subtle nuttiness and crunch. Perfection!",
+  "description": "We’re big fans of baked risotto for an easy family dinner. Just pop it in the oven and walk away – the flavours will develop and the rice will soak up the liquid to become soft and creamy. This version pairs sweet potato and bacon with two of our trusty seasonings and is finished with chopped walnuts for a subtle nuttiness and crunch. Perfection!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/garlicky-bacon-and-sweet-potato-baked-risotto-67f834a9cade9b9f0acdb841",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1014_W16_AUS_Main_high-be3ad068.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 881,
+    "proteinG": 37.4,
+    "carbsG": 93.7,
+    "fatG": 38
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

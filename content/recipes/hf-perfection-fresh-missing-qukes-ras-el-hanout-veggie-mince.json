@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Middle Eastern Veggie Mince & Lemony Quke Salad",
   "subtitle": "with Garlic Rice & Yoghurt",
-  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. Small in size but mighty in flavour, the zingy Quke will become the best part of this rice bowl. When paired with spiced plant-based mince and married with tomato, baby spinach and a generous squeeze of lemon, you’ll be savouring each and every bite. Compliments to the Qukes we say! \nThis recipe is under 650kcal per serving.",
+  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. Small in size but mighty in flavour, the zingy Quke will become the best part of this rice bowl. When paired with spiced plant-based mince and married with tomato, baby spinach and a generous squeeze of lemon, you’ll be savouring each and every bite. Compliments to the Qukes we say! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/perfection-fresh-missing-qukes-ras-el-hanout-veggie-mince-67f8420b4264524ca978fb91",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1042_W21_AUS_Main_high-506f45bb.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 641,
+    "proteinG": 24,
+    "carbsG": 72.1,
+    "fatG": 26.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

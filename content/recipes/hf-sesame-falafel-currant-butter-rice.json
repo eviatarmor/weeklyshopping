@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sesame Falafel & Currant-Butter Rice",
   "subtitle": "with Tomato Mint Salsa & Herby Sauce",
-  "description": "Imagine a bed of rice infused with a currant-butter flavour you love, then topped with sesame falafel and a refreshing mint, cucumber and\ntomato salsa. Now stop imagining, because here it is!",
+  "description": "Imagine a bed of rice infused with a currant-butter flavour you love, then topped with sesame falafel and a refreshing mint, cucumber and tomato salsa. Now stop imagining, because here it is!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sesame-falafel-currant-butter-rice-63688502272a7705f90f54d2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sesame-falafel-currant-butter-rice-1a44fad8.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 984,
+    "proteinG": 23.4,
+    "carbsG": 100.9,
+    "fatG": 51.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

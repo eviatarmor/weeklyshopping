@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/54daca8f6ced6edc1b8b4569.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 325,
+    "proteinG": 15.2,
+    "carbsG": 35.3,
+    "fatG": 8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -112,15 +118,15 @@
   ],
   "steps": [
     {
-      "text": "• Preheat your oven to 200ºC/180ºC fan-forced.",
+      "text": "Preheat your oven to 200ºC/180ºC fan-forced.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54daca8f6ced6edc1b8b4569/step_556eb710e34bc.jpg"
     },
     {
-      "text": "• Cut the pumpkin into wedges and finely dice the cucumber. Finely dice the onion and the tomato. Chop the mint and the parsley. Juice the lemon. Mix together the Shawarma spice blend and a grind of salt and pepper with the oil and brush over the pumpkin wedges. Bake uncovered for 30 minutes or until the pumpkin is tender.",
+      "text": "Cut the pumpkin into wedges and finely dice the cucumber. Finely dice the onion and the tomato. Chop the mint and the parsley. Juice the lemon. Mix together the Shawarma spice blend and a grind of salt and pepper with the oil and brush over the pumpkin wedges. Bake uncovered for 30 minutes or until the pumpkin is tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54daca8f6ced6edc1b8b4569/step_55681df331b0e.jpg"
     },
     {
-      "text": "• Meanwhile, to make the carb free tabbouleh, toss the cucumber, red onion, parsley, mint, and tomato together. Season well with salt and pepper then stir through the lemon juice.",
+      "text": "Meanwhile, to make the carb free tabbouleh, toss the cucumber, red onion, parsley, mint, and tomato together. Season well with salt and pepper then stir through the lemon juice.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54daca8f6ced6edc1b8b4569/step_55681df342fb5.jpg"
     },
     {

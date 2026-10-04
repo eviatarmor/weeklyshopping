@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-linguine-60b388b3.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 727,
+    "proteinG": 35.3,
+    "carbsG": 98.4,
+    "fatG": 16.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -98,21 +104,21 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely chop the brown onion, peel and crush the garlic, and wash and grate the carrot. Thinly slice the button mushrooms, drain and rinse the lentils, pick and roughly chop the basil leaves, and finely grate the Parmesan cheese."
+      "text": "To prepare the ingredients, finely chop the brown onion, peel and crush the garlic, and wash and grate the carrot. Thinly slice the button mushrooms, drain and rinse the lentils, pick and roughly chop the basil leaves, and finely grate the Parmesan cheese."
     },
     {
       "text": "• Bring a large saucepan of salted water to the boil. Add the linguine and cook for approximately 10 minutes, or until “al dente”, stirring regularly to ensure the pasta does not stick. Drain and set aside.\n• Note: be sure to add the correct amount of pasta in order for your dish to be perfectly balanced, just the way we planned it!"
     },
     {
-      "text": "• Meanwhile, heat the olive oil in a medium frying pan over a medium-high heat. Add the brown onion, garlic, carrot and button mushrooms and sauté for 6-8 minutes, or until softened and cooked.",
+      "text": "Meanwhile, heat the olive oil in a medium frying pan over a medium-high heat. Add the brown onion, garlic, carrot and button mushrooms and sauté for 6-8 minutes, or until softened and cooked.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585b02199df1810dc44da752-2-0-686ed195.jpg"
     },
     {
-      "text": "• Stir in the lentils, diced tomatoes, balsamic vinegar and roughly chopped basil until combined and then simmer for 5-10 minutes on a medium heat until the sauce thickens. Season to taste with salt and pepper.",
+      "text": "Stir in the lentils, diced tomatoes, balsamic vinegar and roughly chopped basil until combined and then simmer for 5-10 minutes on a medium heat until the sauce thickens. Season to taste with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585b02199df1810dc44da752-3-0-5557921a.jpg"
     },
     {
-      "text": "• To serve, divide the pasta and lentil sauce between plates and sprinkle the grated Parmesan cheese over the top, enjoy!",
+      "text": "To serve, divide the pasta and lentil sauce between plates and sprinkle the grated Parmesan cheese over the top, enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585b02199df1810dc44da752-4-0-2eca53e2.jpg"
     }
   ]

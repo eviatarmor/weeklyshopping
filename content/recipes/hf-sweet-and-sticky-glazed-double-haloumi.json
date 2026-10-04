@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-glazed-double-haloumi-78fb73c7.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 887,
+    "proteinG": 47.9,
+    "carbsG": 48.9,
+    "fatG": 55.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -112,11 +118,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/646c60b2a879ceb8760ddc63/step-4c7363e7.jpg"
     },
     {
-      "text": "• Place prepped veggies on a lined oven tray. Drizzle with olive oil, sprinkle with garlic & herb seasoning and season with pepper. Toss to coat, then roast until tender, 20-25 minutes. TIP: Beetroot stays firm when cooked. It's done when you can pierce it with a fork.",
+      "text": "Place prepped veggies on a lined oven tray. Drizzle with olive oil, sprinkle with garlic & herb seasoning and season with pepper. Toss to coat, then roast until tender, 20-25 minutes. TIP: Beetroot stays firm when cooked. It's done when you can pierce it with a fork.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/646c60b2a879ceb8760ddc63/step-01362a89.jpg"
     },
     {
-      "text": "• Meanwhile, cut haloumi into 1cm-thick slices. Place in a medium bowl and cover with water.",
+      "text": "Meanwhile, cut haloumi into 1cm-thick slices. Place in a medium bowl and cover with water.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/646c60b2a879ceb8760ddc63/step-d6f6978a.jpg"
     },
     {

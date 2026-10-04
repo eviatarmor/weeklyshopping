@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tuscan-bean-soup-b86dffec-0f925e96.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 606,
+    "proteinG": 27.7,
+    "carbsG": 87.2,
+    "fatG": 13.1
+  },
   "tags": [
     "everyplate",
     "italian",

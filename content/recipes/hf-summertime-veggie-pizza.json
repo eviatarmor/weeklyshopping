@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/summertime-veggie-pizza-534bf987.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 758,
+    "proteinG": 32.9,
+    "carbsG": 103,
+    "fatG": 19.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -88,25 +94,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 220°C/200°C fan-forced."
+      "text": "Preheat the oven to 220°C/200°C fan-forced."
     },
     {
-      "text": "• Thinly slice the tomato. Finely slice the red onion. Thinly slice the mushrooms. Peel the zucchini into ribbons. Pick the oregano leaves. Grate the mozzarella cheese.",
+      "text": "Thinly slice the tomato. Finely slice the red onion. Thinly slice the mushrooms. Peel the zucchini into ribbons. Pick the oregano leaves. Grate the mozzarella cheese.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926e8d14d0f125ef014e51-1-0-530437e0.jpg"
     },
     {
-      "text": "• Place the wholemeal pizza bases onto a flat surface, rough side down, and spread each base evenly with tomato paste. Top with the tomato, red onion, mushroom, zucchini, oregano and mozzarella cheese. Season with salt and pepper.",
+      "text": "Place the wholemeal pizza bases onto a flat surface, rough side down, and spread each base evenly with tomato paste. Top with the tomato, red onion, mushroom, zucchini, oregano and mozzarella cheese. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926e8d14d0f125ef014e51-2-0-aa770723.jpg"
     },
     {
       "text": "• Place the wholemeal pizza base into the oven directly on to the wire racks. Cook for 10 minutes or until the bases are crispy.\n• Tip: The trick to faking woodfire pizza oven heat? Ditch the baking tray and cook directly on the oven racks for that authentic finish."
     },
     {
-      "text": "• Finely chop the birdseye chilli. Heat the olive oil in a small saucepan over a medium heat. Add the birdseye chilli and cook for 1-2 minutes or until fragrant. Remove from the heat.",
+      "text": "Finely chop the birdseye chilli. Heat the olive oil in a small saucepan over a medium heat. Add the birdseye chilli and cook for 1-2 minutes or until fragrant. Remove from the heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926e8d14d0f125ef014e51-4-0-0aaba197.jpg"
     },
     {
-      "text": "• Drizzle the pizza with the chilli oil and cut into slices."
+      "text": "Drizzle the pizza with the chilli oil and cut into slices."
     }
   ]
 }

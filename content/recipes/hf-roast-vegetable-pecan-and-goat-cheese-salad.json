@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56b270864dab71f93b8b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 480,
+    "proteinG": 13.7,
+    "carbsG": 33.8,
+    "fatG": 30.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -85,21 +91,21 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, To prepare the ingredients, cut the sweet potato (unpeeled) and beetroot (after it's been washed and scrubbed) into 2 cm pieces. Wash the mixed salad leaves. Finely chop the parsley and crumble the chevre goat cheese.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, To prepare the ingredients, cut the sweet potato (unpeeled) and beetroot (after it's been washed and scrubbed) into 2 cm pieces. Wash the mixed salad leaves. Finely chop the parsley and crumble the chevre goat cheese.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b270864dab71f93b8b4567/step_57614192eee2c.jpg"
     },
     {
-      "text": "• Toss the sweet potato and beetroot in half of the olive oil and season with salt and pepper. Place on one lined oven tray and cook in the oven for 30-35 minutes or until golden and tender.",
+      "text": "Toss the sweet potato and beetroot in half of the olive oil and season with salt and pepper. Place on one lined oven tray and cook in the oven for 30-35 minutes or until golden and tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b270864dab71f93b8b4567/step_5761419340416.jpg"
     },
     {
-      "text": "• Place the pecans on a second lined oven tray and add to the oven in the final 8 minutes of the vegetable cooking time, or until toasted."
+      "text": "Place the pecans on a second lined oven tray and add to the oven in the final 8 minutes of the vegetable cooking time, or until toasted."
     },
     {
-      "text": "• To make the dressing, combine the remaining olive oil, balsamic vinegar and Dijon mustard in a small jug or bowl. Season to taste with salt and pepper. Toss the mixed salad leaves, roast vegetables, parsley, pecans and chevre goat cheese in a large bowl. Drizzle with the dressing and toss to coat well."
+      "text": "To make the dressing, combine the remaining olive oil, balsamic vinegar and Dijon mustard in a small jug or bowl. Season to taste with salt and pepper. Toss the mixed salad leaves, roast vegetables, parsley, pecans and chevre goat cheese in a large bowl. Drizzle with the dressing and toss to coat well."
     },
     {
-      "text": "• To serve, divide salad between bowls."
+      "text": "To serve, divide salad between bowls."
     }
   ]
 }

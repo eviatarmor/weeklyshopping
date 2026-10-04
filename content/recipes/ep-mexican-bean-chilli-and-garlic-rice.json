@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-black-bean-chilli-garlic-rice-2f72004e.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 900,
+    "proteinG": 30.8,
+    "carbsG": 104.5,
+    "fatG": 34.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",

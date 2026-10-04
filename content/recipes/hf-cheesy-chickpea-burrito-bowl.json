@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Chickpea Burrito Bowl",
   "subtitle": "with Pickled Onion Salsa & Cheddar",
-  "description": "Simmer hearty chickpeas with Tex-Mex spices and our mild chipotle sauce, and you'll have a veggie protein that will see everyone wiping their plates clean. Serve over fluffy garlic rice to soak up all the saucy, cheesy deliciousness, and add the finishing touch with a zingy, corn-studded salsa.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "Simmer hearty chickpeas with Tex-Mex spices and our mild chipotle sauce, and you'll have a veggie protein that will see everyone wiping their plates clean. Serve over fluffy garlic rice to soak up all the saucy, cheesy deliciousness, and add the finishing touch with a zingy, corn-studded salsa. Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-chickpea-burrito-bowl-6274dcf1ded485d99d00cfe3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-chickpea-burrito-bowl-7c3b6da1.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 716,
+    "proteinG": 26.7,
+    "carbsG": 101.4,
+    "fatG": 17.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

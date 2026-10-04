@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-bean-bowl-7c9c092b.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 834,
+    "proteinG": 21,
+    "carbsG": 97.7,
+    "fatG": 33.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -147,11 +153,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172d8435c4135cce7c8540/step-4fd9c343.jpg"
     },
     {
-      "text": "• Return the frying pan to a medium-high heat with a drizzle of olive oil. Add the onion and cook until starting to soften, 3-4 minutes. Add the garlic and mild Caribbean jerk seasoning (see ingredients) and cook until fragrant, 1-2 minutes.",
+      "text": "Return the frying pan to a medium-high heat with a drizzle of olive oil. Add the onion and cook until starting to soften, 3-4 minutes. Add the garlic and mild Caribbean jerk seasoning (see ingredients) and cook until fragrant, 1-2 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172d8435c4135cce7c8540/step-4586f536.jpg"
     },
     {
-      "text": "• Add the red kidney beans, diced tomatoes with garlic & olive oil and the water (for the sauce). Simmer until slightly thickened, 1-2 minutes. Remove from the heat and stir through the butter. Season to taste.",
+      "text": "Add the red kidney beans, diced tomatoes with garlic & olive oil and the water (for the sauce). Simmer until slightly thickened, 1-2 minutes. Remove from the heat and stir through the butter. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172d8435c4135cce7c8540/step-5d7fdc97.jpg"
     },
     {
@@ -159,7 +165,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172d8435c4135cce7c8540/step-c71865b1.jpg"
     },
     {
-      "text": "• Pick and roughly chop the mint leaves. Divide the coconut rice and Caribbean beans between bowls. Top with the tomato and corn salsa. Sprinkle over the the mint. Serve with any remaining lime wedges.",
+      "text": "Pick and roughly chop the mint leaves. Divide the coconut rice and Caribbean beans between bowls. Top with the tomato and corn salsa. Sprinkle over the the mint. Serve with any remaining lime wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172d8435c4135cce7c8540/step-eb944709.jpg"
     }
   ]

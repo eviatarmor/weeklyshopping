@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-prawn-wonton-udon-noodle-soup-5806f0c0-f3f0e5d1.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 637,
+    "proteinG": 23.6,
+    "carbsG": 84.7,
+    "fatG": 25
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

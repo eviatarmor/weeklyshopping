@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-glazed-haloumi-garlic-rice-ef2baf48.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1025,
+    "proteinG": 29.2,
+    "carbsG": 90.3,
+    "fatG": 59.1
+  },
   "tags": [
     "vegetarian",
     "everyplate"

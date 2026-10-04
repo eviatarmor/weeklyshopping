@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Loaded Potato Chunks & Smokey Bean Chilli",
   "subtitle": "with Sour Cream",
-  "description": "You're in for a treat with this American-spiced, veggie-loaded butter bean chilli; it has a subtle sweetness from a bit of BBQ sauce, and is the perfect match for the melty Cheddar potatoes. Serve with a dollop of sour cream for a touch of tang. \nThis recipe is under 650kcal per serving.",
+  "description": "You're in for a treat with this American-spiced, veggie-loaded butter bean chilli; it has a subtle sweetness from a bit of BBQ sauce, and is the perfect match for the melty Cheddar potatoes. Serve with a dollop of sour cream for a touch of tang. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/smokey-bean-chilli-and-cheesy-roast-potato-6614b636e677f43ae029a5bd",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6614b636e677f43ae029a5bd-7f6e0ec8.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 637,
+    "proteinG": 29.1,
+    "carbsG": 74.1,
+    "fatG": 21
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

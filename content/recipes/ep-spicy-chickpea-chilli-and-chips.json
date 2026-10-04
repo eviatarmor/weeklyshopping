@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spicy-chickpea-chilli-chips-a4938c9c.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 544,
+    "proteinG": 26.9,
+    "carbsG": 99.7,
+    "fatG": 22.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

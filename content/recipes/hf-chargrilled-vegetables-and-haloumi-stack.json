@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/54dacae86ced6e5b1f8b4569.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 621,
+    "proteinG": 32.2,
+    "carbsG": 14.5,
+    "fatG": 47.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -87,23 +93,23 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 200°C/180°C fan-forced."
+      "text": "Preheat oven to 200°C/180°C fan-forced."
     },
     {
-      "text": "• To prepare the ingredients, cut the eggplant into 1 cm thick rounds, the zucchini into 5 mm think ribbons, and the haloumi into 5 mm thick slices. Quarter the capsicum and remove the seeds. Peel and crush the garlic, and chop the dill. Zest and juice the lemon.",
+      "text": "To prepare the ingredients, cut the eggplant into 1 cm thick rounds, the zucchini into 5 mm think ribbons, and the haloumi into 5 mm thick slices. Quarter the capsicum and remove the seeds. Peel and crush the garlic, and chop the dill. Zest and juice the lemon.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54dacae86ced6e5b1f8b4569/step_5568213c6258f.jpg"
     },
     {
-      "text": "• Lay the eggplant, zucchini and capsicum slices across two oven trays. In a small bowl mix together the olive oil and garlic and brush over the vegetable slices. Cook in the oven for 30-35 minutes or until the vegetables are tender and golden."
+      "text": "Lay the eggplant, zucchini and capsicum slices across two oven trays. In a small bowl mix together the olive oil and garlic and brush over the vegetable slices. Cook in the oven for 30-35 minutes or until the vegetables are tender and golden."
     },
     {
-      "text": "• Combine the yoghurt, dill, and lemon juice and zest in a small bowl, then season with some salt and pepper."
+      "text": "Combine the yoghurt, dill, and lemon juice and zest in a small bowl, then season with some salt and pepper."
     },
     {
-      "text": "• When the vegetables have about 5 minutes left to cook, heat a large frying pan over a medium-high heat. Lightly grease with a little olive oil and then add the haloumi slices. Cook for 1-2 minutes on each side or until golden."
+      "text": "When the vegetables have about 5 minutes left to cook, heat a large frying pan over a medium-high heat. Lightly grease with a little olive oil and then add the haloumi slices. Cook for 1-2 minutes on each side or until golden."
     },
     {
-      "text": "• Stack the vegetables and haloumi between plates and top with the yoghurt dressing. Serve with the mixed salad leaves and drizzle with a little olive oil and vinegar if you like."
+      "text": "Stack the vegetables and haloumi between plates and top with the yoghurt dressing. Serve with the mixed salad leaves and drizzle with a little olive oil and vinegar if you like."
     }
   ]
 }

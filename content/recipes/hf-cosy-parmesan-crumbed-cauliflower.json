@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Parmesan-Crumbed Cauliflower Bites",
   "subtitle": "with Fries & Apple-Almond Salad",
-  "description": "Try our new trick for crumbed cauliflower, where garlic aioli acts as the glue for a flavourful mix of panko breadcrumbs, spices and sharp Parmesan. Serve with hand cut fries and an almond-adorned salad for a hearty meal that is equal parts comfy and cosy!\nThis recipe is under 650kcal per serving.",
+  "description": "Try our new trick for crumbed cauliflower, where garlic aioli acts as the glue for a flavourful mix of panko breadcrumbs, spices and sharp Parmesan. Serve with hand cut fries and an almond-adorned salad for a hearty meal that is equal parts comfy and cosy! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cosy-parmesan-crumbed-cauliflower-67f840404264524ca978f41e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1021_W34_AU_R5755-9_Main_F2_high-3da4a5a5.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 591,
+    "proteinG": 18.2,
+    "carbsG": 61.5,
+    "fatG": 29.6
+  },
   "tags": [
     "hellofresh",
     "australian",

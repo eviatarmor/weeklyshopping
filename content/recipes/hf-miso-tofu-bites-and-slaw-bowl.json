@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Miso Tofu Bites & Slaw Bowl",
   "subtitle": "with Japanese Mayo Dressing & Sesame Seeds",
-  "description": "We're in our light and bright era so only a salad will do! This miso glazed tofu number is sure to quickly become the talk of the town. This nutty number comes with sesame dressing and sesame seeds as well and tastes so good when paired with a crunchy and colourful slaw. \nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "We're in our light and bright era so only a salad will do! This miso glazed tofu number is sure to quickly become the talk of the town. This nutty number comes with sesame dressing and sesame seeds as well and tastes so good when paired with a crunchy and colourful slaw. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/miso-tofu-bites-and-slaw-bowl-67511d96deb6306cae776573",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67511d96deb6306cae776573-201201cf.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 542,
+    "proteinG": 20.6,
+    "carbsG": 21.4,
+    "fatG": 41
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

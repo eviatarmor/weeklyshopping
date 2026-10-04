@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Lentil, Fetta & Dukkah Patties",
   "subtitle": "with Roast Veggie, Rocket & Walnut Salad",
-  "description": "Here’s a new way to enjoy black beans: combine them with creamy fetta and nutty dukkah, then shape them into patties! The\nflavour doesn’t stop there – on the side you’ll have an epic salad with slightly sweet roast veg, buttery toasted walnuts and\ngolden goddess dressing. A veggie meal with all the good stuff!\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "description": "Here’s a new way to enjoy black beans: combine them with creamy fetta and nutty dukkah, then shape them into patties! The flavour doesn’t stop there – on the side you’ll have an epic salad with slightly sweet roast veg, buttery toasted walnuts and golden goddess dressing. A veggie meal with all the good stuff! The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/lentil-fetta-and-dukkah-patties-61c188161f3bba704a1cdd7c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-dukkah-patties-db8171e3.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 809,
+    "proteinG": 27.8,
+    "carbsG": 58.8,
+    "fatG": 49.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -157,7 +163,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c188161f3bba704a1cdd7c/step-2a299aa7.jpg"
     },
     {
-      "text": "• Divide the black bean, fetta and dukkah patties and roast veggie, rocket and walnut salad between plates. Crumble the remaining fetta over the salad. Serve with the dill & parsley mayonnaise.",
+      "text": "Divide the black bean, fetta and dukkah patties and roast veggie, rocket and walnut salad between plates. Crumble the remaining fetta over the salad. Serve with the dill & parsley mayonnaise.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61c188161f3bba704a1cdd7c/step-f31e498c.jpg"
     }
   ]

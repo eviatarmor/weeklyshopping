@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W42_AU_R15087-4_Main_12_high-03618343.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 929,
+    "proteinG": 34.2,
+    "carbsG": 100,
+    "fatG": 39.8
+  },
   "tags": [
     "hellofresh",
     "thai",

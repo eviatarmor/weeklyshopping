@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5704b147f8b25e0b298b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 643,
+    "proteinG": 19.3,
+    "carbsG": 111,
+    "fatG": 11.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -106,22 +112,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, rinse the Jasmine rice, remove pumpkin skin and slice into 2 cm chunks, lightly whisk the eggs, pick the coriander leaves and finely chop the stalks, thinly slice the brown onion, peel and crush the garlic, deseed and finely chop the chilli, trim the snow peas and juice the lime."
+      "text": "To prepare the ingredients, rinse the Jasmine rice, remove pumpkin skin and slice into 2 cm chunks, lightly whisk the eggs, pick the coriander leaves and finely chop the stalks, thinly slice the brown onion, peel and crush the garlic, deseed and finely chop the chilli, trim the snow peas and juice the lime."
     },
     {
       "text": "• Place the Jasmine rice and the water in a medium saucepan and bring to the boil over a high heat. Place a steamer basket over the top of the rice and add the pumpkin. Cook for 4-5 minutes or until just tender. Remove the pumpkin and continue cooking the rice for a total time of 10-12 minutes or until the rice is soft. Drain.\n• Tip: If you don’t have a steamer basket simply bring a separate saucepan of water to the boil and cook the pumpkin for 3-4 minutes or until just tender. Drain and add to stir fry in step 3 as instructed.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5704b147f8b25e0b298b4567/step_5704b9a904ab2.jpg"
     },
     {
-      "text": "• Heat half of the vegetable oil in a large wok or frying pan. Add the egg and swirl to coat the base of the wok. Cook for 1-2 minutes until set and then fold over into an omelette. Slide out of the pan and set aside. Roll the omelette and cut into slices.",
+      "text": "Heat half of the vegetable oil in a large wok or frying pan. Add the egg and swirl to coat the base of the wok. Cook for 1-2 minutes until set and then fold over into an omelette. Slide out of the pan and set aside. Roll the omelette and cut into slices.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5704b147f8b25e0b298b4567/step_5704b9a92752c.jpg"
     },
     {
-      "text": "• Place the wok back over the same heat and add the remaining vegetable oil, coriander stalks, brown onion, garlic and birdseye chilli. Stir-fry for 2-3 minutes or until fragrant and onion is soft. Add the sugar snap peas, pumpkin and omelette slices to the wok with the lime juice and kecap manis. Stir fry for a further 1-2 minutes or until heated through. Remove from the heat and stir through the coriander leaves.",
+      "text": "Place the wok back over the same heat and add the remaining vegetable oil, coriander stalks, brown onion, garlic and birdseye chilli. Stir-fry for 2-3 minutes or until fragrant and onion is soft. Add the sugar snap peas, pumpkin and omelette slices to the wok with the lime juice and kecap manis. Stir fry for a further 1-2 minutes or until heated through. Remove from the heat and stir through the coriander leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5704b147f8b25e0b298b4567/step_5704b9a96d14d.jpg"
     },
     {
-      "text": "• Serve the pumpkin and snow pea stir fry over the rice."
+      "text": "Serve the pumpkin and snow pea stir fry over the rice."
     }
   ]
 }

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Rustic Cannellini Bean & Leek Pie",
   "subtitle": "with Cheesy Potato Top & Salad",
-  "description": "Get more out of your beans by whacking them into the oven and making them into a pie. In this inventive number, the beans act as your typical meaty filling and works wonders when paired with hidden veggies and a cheesy mash to top things off!\nDue to recent weather, you may see a few more potatoes\nin your meal kit this week! Sizes are a bit smaller right\nnow, so our team picks enough to match your recipe. Big or\nsmall, you’ll always have the right amount for dinner.",
+  "description": "Get more out of your beans by whacking them into the oven and making them into a pie. In this inventive number, the beans act as your typical meaty filling and works wonders when paired with hidden veggies and a cheesy mash to top things off! Due to recent weather, you may see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to match your recipe. Big or small, you’ll always have the right amount for dinner.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/rustic-cannellini-bean-and-leek-pie-67f83f92cade9b9f0acdf2af",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66276cec6904e640b524e117-139704ad-7c933d2c.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 693,
+    "proteinG": 24.8,
+    "carbsG": 54.9,
+    "fatG": 39.2
+  },
   "tags": [
     "hellofresh",
     "australian",

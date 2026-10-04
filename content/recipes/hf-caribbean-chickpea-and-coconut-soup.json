@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Caribbean Chickpea & Coconut Soup",
   "subtitle": "with Sweet Potato & Corn",
-  "description": "Channel the flavours of the Caribbean into a hearty soup brimming with chickpeas, creamy coconut milk and\nroasted root veggies. Zingy lemon and mild Caribbean spices bring the tropical vibes, while the roasted sweetcorn\nadds a sweet and toasty depth of flavour. \nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "Channel the flavours of the Caribbean into a hearty soup brimming with chickpeas, creamy coconut milk and roasted root veggies. Zingy lemon and mild Caribbean spices bring the tropical vibes, while the roasted sweetcorn adds a sweet and toasty depth of flavour. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/caribbean-chickpea-and-coconut-soup-6242c6df85c2362741696531",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5e55ccfd43cd1d14df7e94a8-86c9aad2.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 733,
+    "proteinG": 17.1,
+    "carbsG": 61.8,
+    "fatG": 42.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

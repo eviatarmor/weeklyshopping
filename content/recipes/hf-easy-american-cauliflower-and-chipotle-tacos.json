@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy American Cauliflower & Chipotle Tacos",
   "subtitle": "with Aioli & Charred Corn Slaw",
-  "description": "Spiced cauliflower provides a super satisfying filling for these tacos. We’re roasting these spiced nuggets of cauliflower for a golden,\nflavoursome coating that you’re going to love. Simply dollop with chipotle sauce and cooling slaw, then get to munching!",
+  "description": "Spiced cauliflower provides a super satisfying filling for these tacos. We’re roasting these spiced nuggets of cauliflower for a golden, flavoursome coating that you’re going to love. Simply dollop with chipotle sauce and cooling slaw, then get to munching!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-american-cauliflower-and-chipotle-tacos-604ed40d5b46d448431bd4cd",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/american-cauliflower-chipotle-tacos-d167c0c0.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 774,
+    "proteinG": 12.9,
+    "carbsG": 61.6,
+    "fatG": 49.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

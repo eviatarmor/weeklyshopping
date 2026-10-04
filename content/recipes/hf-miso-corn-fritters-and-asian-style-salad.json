@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/miso-corn-fritters-sesame-fries-91c323a5.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 726,
+    "proteinG": 22.7,
+    "carbsG": 91,
+    "fatG": 27.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

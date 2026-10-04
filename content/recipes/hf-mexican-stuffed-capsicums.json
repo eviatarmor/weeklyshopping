@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Black Bean & 'Bacon' Stuffed Capsicums",
   "subtitle": "with Jalapeno Couscous, Zingy Tomato & Sour Cream",
-  "description": "We heard your calls and have now dished up a new variation of our much-loved stuffed capsicums! In this version, pack Tex-mex\nspiced black beans and plant-based bacon bits into the capsicums and top with Cheddar cheese to get the juiciest crunch of a lifetime and finish it off with a\njalapeno couscous and a zingy tomato toss to get all of your tastebuds singing.",
+  "description": "We heard your calls and have now dished up a new variation of our much-loved stuffed capsicums! In this version, pack Tex-mex spiced black beans and plant-based bacon bits into the capsicums and top with Cheddar cheese to get the juiciest crunch of a lifetime and finish it off with a jalapeno couscous and a zingy tomato toss to get all of your tastebuds singing.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-stuffed-capsicums-63d912dd6e5ae7ecbc0609d9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-mexican-stuffed-capsicums-895b2c5d.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 919,
+    "proteinG": 44.2,
+    "carbsG": 91.5,
+    "fatG": 37.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

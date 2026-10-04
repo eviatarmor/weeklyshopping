@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-red-sweet-potato-eggplant-curry-82974cec.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 977,
+    "proteinG": 18.9,
+    "carbsG": 95.8,
+    "fatG": 50.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -122,15 +128,15 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 220°C/200°C fan-forced. Rinse the brown rice. In a medium saucepan, bring the rice and the water to the boil. Reduce the heat to medium and simmer, uncovered, until the rice is soft, 25-30 minutes. Drain and return to the saucepan.",
+      "text": "Preheat the oven to 220°C/200°C fan-forced. Rinse the brown rice. In a medium saucepan, bring the rice and the water to the boil. Reduce the heat to medium and simmer, uncovered, until the rice is soft, 25-30 minutes. Drain and return to the saucepan.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff43de7084059e3c3f9d/step-c2f43095.jpg"
     },
     {
-      "text": "• While the brown rice is cooking, chop the sweet potato (unpeeled) into 1cm chunks. Chop the carrot (unpeeled) into 1cm chunks. Cut the eggplant into 2cm chunks. Place the sweet potato, carrot and eggplant on an oven tray lined with baking paper. Drizzle with olive oil and season with salt and pepper. Toss to coat, then roast until tender, 20-25 minutes.",
+      "text": "While the brown rice is cooking, chop the sweet potato (unpeeled) into 1cm chunks. Chop the carrot (unpeeled) into 1cm chunks. Cut the eggplant into 2cm chunks. Place the sweet potato, carrot and eggplant on an oven tray lined with baking paper. Drizzle with olive oil and season with salt and pepper. Toss to coat, then roast until tender, 20-25 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff43de7084059e3c3f9d/step-fa60a684.jpg"
     },
     {
-      "text": "• Finely chop the brown onion. Finely chop the garlic. De-stem then very finely chop the makrut lime leaves.",
+      "text": "Finely chop the brown onion. Finely chop the garlic. De-stem then very finely chop the makrut lime leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff43de7084059e3c3f9d/step-44b611cf.jpg"
     },
     {
@@ -138,11 +144,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff43de7084059e3c3f9d/step-22356353.jpg"
     },
     {
-      "text": "• Stir through the baby spinach leaves, soy sauce, brown sugar and roasted veggies.",
+      "text": "Stir through the baby spinach leaves, soy sauce, brown sugar and roasted veggies.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff43de7084059e3c3f9d/step-795a4aad.jpg"
     },
     {
-      "text": "• Divide the brown rice between bowls and top with the Thai sweet potato and eggplant red curry. Sprinkle with the roasted cashews.",
+      "text": "Divide the brown rice between bowls and top with the Thai sweet potato and eggplant red curry. Sprinkle with the roasted cashews.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5fdfff43de7084059e3c3f9d/step-242bbb7e.jpg"
     }
   ]

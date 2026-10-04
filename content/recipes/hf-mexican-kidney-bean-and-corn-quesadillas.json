@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Kidney Bean & Corn Quesadillas",
   "subtitle": "with Avo Salsa & Chipotle Mayo",
-  "description": "Stress less about dinnertime thanks to this dish with maximum flavour and minimal effort. Make an easy kidney bean filling for thequesadillas, flavoured with our tasty spice blend that works perfectly with a simple avo topping.\nWe’ve replaced the black\nbeans in this recipe\nwith red kidney beans\ndue to local ingredient\navailability. It’ll be just as\ndelicious, just follow your\nrecipe card!",
+  "description": "Stress less about dinnertime thanks to this dish with maximum flavour and minimal effort. Make an easy kidney bean filling for thequesadillas, flavoured with our tasty spice blend that works perfectly with a simple avo topping. We’ve replaced the black beans in this recipe with red kidney beans due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-black-bean-and-corn-quesadillas-67f83bdf0d0527cba53a76ba",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R09_W51_AUS_Main_add_dollop_chipotle_mayo_edit_high-2ed33aaa.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 740,
+    "proteinG": 29.4,
+    "carbsG": 66,
+    "fatG": 38.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

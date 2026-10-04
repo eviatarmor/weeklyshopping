@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-beans-garlic-rice-0ec4b4cf.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 695,
+    "proteinG": 23.3,
+    "carbsG": 87.1,
+    "fatG": 24
+  },
   "tags": [
     "vegetarian",
     "everyplate",

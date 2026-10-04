@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Plant-Based Mince Enchiladas",
   "subtitle": "with Corn Salsa & Sour Cream",
-  "description": "With a flavourful plant-based beef filling, soft flour tortillas, melted Cheddar cheese, juicy corn salsa and sour cream, it's no wonder this colourful\nMexican dish continues to be a hit.",
+  "description": "With a flavourful plant-based beef filling, soft flour tortillas, melted Cheddar cheese, juicy corn salsa and sour cream, it's no wonder this colourful Mexican dish continues to be a hit.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-beef-enchiladas-5d8d900367959a437a2e666b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-beef-enchiladas-90836e18.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 905,
+    "proteinG": 35.6,
+    "carbsG": 73.1,
+    "fatG": 49.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

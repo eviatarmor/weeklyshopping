@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/565e8359fd2cb9916d8b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 404,
+    "proteinG": 13.6,
+    "carbsG": 45,
+    "fatG": 15.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -90,21 +96,21 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel the pumpkin and cut into 2 cm pieces. Halve the cherry tomatoes and pitted kalamata olives. Dice the cucumber, finely slice the parsley, and cut the Lebanese bread into strips. Juice the lemon. Drain and rinse the chickpeas."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel the pumpkin and cut into 2 cm pieces. Halve the cherry tomatoes and pitted kalamata olives. Dice the cucumber, finely slice the parsley, and cut the Lebanese bread into strips. Juice the lemon. Drain and rinse the chickpeas."
     },
     {
-      "text": "• Toss the pumpkin in the sumac and half of the olive oil and place on one of two lined oven trays. Season to taste with salt and pepper. Cook in the oven for 30 minutes, or until golden and tender.",
+      "text": "Toss the pumpkin in the sumac and half of the olive oil and place on one of two lined oven trays. Season to taste with salt and pepper. Cook in the oven for 30 minutes, or until golden and tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565e8359fd2cb9916d8b4567/step_565e859cd4f4e.jpg"
     },
     {
-      "text": "• Meanwhile, combine the chickpeas, cherry tomatoes, pitted kalamata olives, cucumber and parsley in a medium bowl. Whisk the lemon juice and remaining olive oil in a small bowl or jug and season to taste with salt and pepper. Pour the dressing over the salad.",
+      "text": "Meanwhile, combine the chickpeas, cherry tomatoes, pitted kalamata olives, cucumber and parsley in a medium bowl. Whisk the lemon juice and remaining olive oil in a small bowl or jug and season to taste with salt and pepper. Pour the dressing over the salad.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565e8359fd2cb9916d8b4567/step_565e859cf1287.jpg"
     },
     {
-      "text": "• Place the Lebanese bread strips on a second lined oven tray. Add to the oven in the last 5 minutes of the pumpkin’s cooking time and cook until crispy."
+      "text": "Place the Lebanese bread strips on a second lined oven tray. Add to the oven in the last 5 minutes of the pumpkin’s cooking time and cook until crispy."
     },
     {
-      "text": "• To serve, gently toss the pumpkin and crispy Lebanese bread through the salad and divide between plates.",
+      "text": "To serve, gently toss the pumpkin and crispy Lebanese bread through the salad and divide between plates.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565e8359fd2cb9916d8b4567/step_565e859d32b65.jpg"
     }
   ]

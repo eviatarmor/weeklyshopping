@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Dukkah-Spiced Lentil Patties",
   "subtitle": "with Roast Veggie, Fetta & Walnut Salad",
-  "description": "Here’s a new way to enjoy lentils: combine them with creamy fetta and nutty dukkah, then shape them into patties! The flavour\ndoesn’t stop there – on the side you’ll have an epic salad with slightly sweet roast veg, buttery toasted walnuts and golden\ngoddess dressing. A veggie meal with all the good stuff!\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "Here’s a new way to enjoy lentils: combine them with creamy fetta and nutty dukkah, then shape them into patties! The flavour doesn’t stop there – on the side you’ll have an epic salad with slightly sweet roast veg, buttery toasted walnuts and golden goddess dressing. A veggie meal with all the good stuff! Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/dukkah-spiced-lentil-patties-62872c20201894e8f803011a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/black-bean-fetta-dukkah-patties-c1780b14.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 840,
+    "proteinG": 29.6,
+    "carbsG": 63.8,
+    "fatG": 50.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

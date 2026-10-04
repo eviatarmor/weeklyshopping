@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56d5351c4dab71815e8b4567.jpg",
   "servings": 2,
   "prepMinutes": 55,
+  "nutrition": {
+    "kcal": 406,
+    "proteinG": 17.3,
+    "carbsG": 34.1,
+    "fatG": 20.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -90,28 +96,28 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare ingredients, halve unpeeled potatoes, trim and cut green beans into thirds, halve cherry tomatoes, drain and rinse butter beans, halve kalamata olives and zest and juice the lime."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare ingredients, halve unpeeled potatoes, trim and cut green beans into thirds, halve cherry tomatoes, drain and rinse butter beans, halve kalamata olives and zest and juice the lime."
     },
     {
-      "text": "• Place the potatoes in a large saucepan and cover with water. Add a pinch of salt and bring to the boil. Cook for 15 minutes. Add the free-range eggs and cook for a further 6 minutes. Add the greens beans in the last 2 minutes. Drain really well. Place the eggs and green beans in a bowl of cold water and set aside. Transfer the potatoes to the prepared tray and toss in half of the olive oil with the whole garlic clove. Season to taste with salt and pepper and place in the oven for 20 minutes.",
+      "text": "Place the potatoes in a large saucepan and cover with water. Add a pinch of salt and bring to the boil. Cook for 15 minutes. Add the free-range eggs and cook for a further 6 minutes. Add the greens beans in the last 2 minutes. Drain really well. Place the eggs and green beans in a bowl of cold water and set aside. Transfer the potatoes to the prepared tray and toss in half of the olive oil with the whole garlic clove. Season to taste with salt and pepper and place in the oven for 20 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56d5351c4dab71815e8b4567/step_56d66368ef620.jpg"
     },
     {
-      "text": "• Meanwhile, in a large bowl combine the cherry tomatoes, red onion, butter beans, pitted kalamata olives and greens beans.",
+      "text": "Meanwhile, in a large bowl combine the cherry tomatoes, red onion, butter beans, pitted kalamata olives and greens beans.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56d5351c4dab71815e8b4567/step_56d6636930671.jpg"
     },
     {
-      "text": "• In a small bowl or jug combine the remaining olive oil, lime juice and zest. Squeeze in the flesh of the roasted garlic. Whisk to combine well. Season to taste with salt and pepper.",
+      "text": "In a small bowl or jug combine the remaining olive oil, lime juice and zest. Squeeze in the flesh of the roasted garlic. Whisk to combine well. Season to taste with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56d5351c4dab71815e8b4567/step_56d663694b0a6.jpg"
     },
     {
-      "text": "• Add the roasted potatoes to the salad bowl and stir through the dressing."
+      "text": "Add the roasted potatoes to the salad bowl and stir through the dressing."
     },
     {
-      "text": "• Peel the eggs and slice them in half."
+      "text": "Peel the eggs and slice them in half."
     },
     {
-      "text": "• To serve divide the salad between bowls and top with one egg each."
+      "text": "To serve divide the salad between bowls and top with one egg each."
     }
   ]
 }

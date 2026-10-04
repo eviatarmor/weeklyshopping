@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Smokey Black Bean Chilli & Tortilla Chips",
   "subtitle": "with Spinach Salsa, Sour Cream & Cheddar",
-  "description": "Pack tonight's chilli with loads of black beans and then ramp up the flavour with fragrant spices and passata. Top it with an easy\nspinach salsa, sour cream and Cheddar cheese for a meal that's sure to please.",
+  "description": "Pack tonight's chilli with loads of black beans and then ramp up the flavour with fragrant spices and passata. Top it with an easy spinach salsa, sour cream and Cheddar cheese for a meal that's sure to please.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/smokey-black-bean-chilli-and-tortilla-chips-667b4fe9695364690294062b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/667b4fe9695364690294062b-3e793a72.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 825,
+    "proteinG": 33.8,
+    "carbsG": 90.3,
+    "fatG": 32.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/559e1688f8b25e9b628b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 437,
+    "proteinG": 20.3,
+    "carbsG": 53.5,
+    "fatG": 11.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,16 +114,16 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely dice the brown onion, carrot (peeled), and celery. Peel and crush the garlic. Drain and rinse the borlotti beans. Roughly dice the tomatoes, destem and finely slice the cavolo nero, and finely chop the parsley. Finely grate the Parmesan cheese for garnish."
+      "text": "To prepare the ingredients, finely dice the brown onion, carrot (peeled), and celery. Peel and crush the garlic. Drain and rinse the borlotti beans. Roughly dice the tomatoes, destem and finely slice the cavolo nero, and finely chop the parsley. Finely grate the Parmesan cheese for garnish."
     },
     {
-      "text": "• Heat the olive oil in a large saucepan over a medium-high heat. Add the onion, carrot and celery. Cook, stirring, for 5 minutes or until the vegetables are soft. Add the garlic and tomato cook for 2 minutes or until fragrant. Add the combined vegetable stock and hot water, risoni and borlotti beans. Bring to the boil. Reduce heat to a medium-low heat and cover with a lid. Simmer for 10 minutes."
+      "text": "Heat the olive oil in a large saucepan over a medium-high heat. Add the onion, carrot and celery. Cook, stirring, for 5 minutes or until the vegetables are soft. Add the garlic and tomato cook for 2 minutes or until fragrant. Add the combined vegetable stock and hot water, risoni and borlotti beans. Bring to the boil. Reduce heat to a medium-low heat and cover with a lid. Simmer for 10 minutes."
     },
     {
-      "text": "• Remove the lid and stir through the cavolo nero. Season generously with salt and pepper. Simmer uncovered for 5 minutes or until the cavolo nero has wilted. Remove from the heat and stir through the parsley."
+      "text": "Remove the lid and stir through the cavolo nero. Season generously with salt and pepper. Simmer uncovered for 5 minutes or until the cavolo nero has wilted. Remove from the heat and stir through the parsley."
     },
     {
-      "text": "• To serve, divide the hearty soup between bowls. Top with the Parmesan cheese and a drizzle of olive oil if you desire."
+      "text": "To serve, divide the hearty soup between bowls. Top with the Parmesan cheese and a drizzle of olive oil if you desire."
     }
   ]
 }

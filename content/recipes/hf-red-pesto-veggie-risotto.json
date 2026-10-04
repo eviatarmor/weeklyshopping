@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/red-pesto-veggie-risotto-83e49ba5.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 857,
+    "proteinG": 21.1,
+    "carbsG": 89.4,
+    "fatG": 45.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -130,7 +136,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475964378869f89b209a256/step-3340c49f.jpg"
     },
     {
-      "text": "• Meanwhile, slice lemon into wedges.",
+      "text": "Meanwhile, slice lemon into wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6475964378869f89b209a256/step-b780d7ef.jpg"
     },
     {

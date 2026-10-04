@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Falafel & Lemony Couscous",
   "subtitle": "with Roast Veggies, Olives & Garlic Yoghurt",
-  "description": "Thanks to ready-to-cook falafel balls, this is a delicious and drama-free dish. Serve on a bed of fluffy, zesty, and roast\nveggie-loaded couscous, drizzle with a quick and creamy dressing and meet your new go-to recipe!",
+  "description": "Thanks to ready-to-cook falafel balls, this is a delicious and drama-free dish. Serve on a bed of fluffy, zesty, and roast veggie-loaded couscous, drizzle with a quick and creamy dressing and meet your new go-to recipe!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-and-lemony-couscous-613027683d9eb248ec2e9905",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-falafel-veggie-couscous-85573601.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 770,
+    "proteinG": 22.8,
+    "carbsG": 56.9,
+    "fatG": 56.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

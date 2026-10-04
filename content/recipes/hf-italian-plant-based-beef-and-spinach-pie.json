@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Italian Plant-Based Mince & Spinach Pie",
   "subtitle": "with Potato Topping & Parmesan",
-  "description": "We've brought all the mashed potato goodness and some tomatoey and herby plant-based mince together, to make the pie of a lifetime! After this one comes out of the oven all golden and crispy, all you need is a knife and fork to dig in!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "We've brought all the mashed potato goodness and some tomatoey and herby plant-based mince together, to make the pie of a lifetime! After this one comes out of the oven all golden and crispy, all you need is a knife and fork to dig in! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/italian-plant-based-beef-and-spinach-pie-67f835accade9b9f0acdbcb2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6578e6e4a65f6d71569fb900-e4e1f803-71950de5.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 402,
+    "proteinG": 29.1,
+    "carbsG": 36.3,
+    "fatG": 13.7
+  },
   "tags": [
     "hellofresh",
     "italian",

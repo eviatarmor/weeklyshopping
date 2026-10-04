@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Aussie Haloumi & Garlic Crouton Salad",
   "subtitle": "with Caramelised Onions & Creamy Herb Dressing",
-  "description": "You’re won't believe how simple it is to make this delicious salad yourself. From the crunchy croutons to sweet\ncaramelised onions and squeaky haloumi, once you’ve got this baby down, soggy supermarket salads will be a distant\nmemory.",
+  "description": "You’re won't believe how simple it is to make this delicious salad yourself. From the crunchy croutons to sweet caramelised onions and squeaky haloumi, once you’ve got this baby down, soggy supermarket salads will be a distant memory.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/aussie-haloumi-garlic-crouton-salad-634e2a5c25abf580c903030a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/aussie-chicken-garlic-crouton-salad-a6fc47d2.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 657,
+    "proteinG": 30.7,
+    "carbsG": 49.6,
+    "fatG": 35.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -130,7 +136,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6126f9bd705a72409f763e8a/step-80828468.jpg"
     },
     {
-      "text": "• In a large bowl, combine the ranch dressing and a drizzle of olive oil. Season, then add the mixed salad leaves, roast veggies, garlic croutons and Aussie haloumi. Gently toss to combine.",
+      "text": "In a large bowl, combine the ranch dressing and a drizzle of olive oil. Season, then add the mixed salad leaves, roast veggies, garlic croutons and Aussie haloumi. Gently toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6126f9bd705a72409f763e8a/step-fd76664b.jpg"
     },
     {

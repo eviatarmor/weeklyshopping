@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55822c454dab7103298b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 550,
+    "proteinG": 22.8,
+    "carbsG": 64.3,
+    "fatG": 16.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -128,19 +134,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan forced."
+      "text": "Preheat the oven to 200°C/180°C fan forced."
     },
     {
-      "text": "• To prepare the ingredients, finely dice the brown onion, carrot (peeled), pumpkin (peeled), zucchini, chilli, and parsley (for garnish). Peel and crush the garlic, roughly chop the rosemary, and finely slice the kale leaves. Drain and rinse the cannellini beans."
+      "text": "To prepare the ingredients, finely dice the brown onion, carrot (peeled), pumpkin (peeled), zucchini, chilli, and parsley (for garnish). Peel and crush the garlic, roughly chop the rosemary, and finely slice the kale leaves. Drain and rinse the cannellini beans."
     },
     {
-      "text": "• Heat half of the olive oil in a medium saucepan over a medium-high heat. Add the brown onion, carrot, and pumpkin and cook for 5 minutes or until the onion has softened. Add the zucchini, garlic, HelloFresh Smoked Paprika, and birdseye chilli and cook for a further 2 minutes. Add the cannellini beans, diced tomatoes, water, brown sugar, rosemary, and kale, and season with salt and pepper. Reduce the to a low-medium heat and simmer for 20-25 minutes, or until all of the vegetables are tender."
+      "text": "Heat half of the olive oil in a medium saucepan over a medium-high heat. Add the brown onion, carrot, and pumpkin and cook for 5 minutes or until the onion has softened. Add the zucchini, garlic, HelloFresh Smoked Paprika, and birdseye chilli and cook for a further 2 minutes. Add the cannellini beans, diced tomatoes, water, brown sugar, rosemary, and kale, and season with salt and pepper. Reduce the to a low-medium heat and simmer for 20-25 minutes, or until all of the vegetables are tender."
     },
     {
-      "text": "• Meanwhile, heat the sourdough rolls in the oven for 5 minutes or until crispy and heated through."
+      "text": "Meanwhile, heat the sourdough rolls in the oven for 5 minutes or until crispy and heated through."
     },
     {
-      "text": "• To serve, divide the beans between plates. Garnish with the parsley and serve with the crusty bread rolls."
+      "text": "To serve, divide the beans between plates. Garnish with the parsley and serve with the crusty bread rolls."
     }
   ]
 }

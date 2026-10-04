@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Pumpkin & Fetta Risoni",
   "subtitle": "with Sage Butter Sauce",
-  "description": "Love pasta? Us too! Pair 'al dente' risoni with sweet roasted pumpkin, creamy fetta and a fragrant sage butter sauce for a dinner that'll be enjoyed by all.\nRecent wet weather has\nimpacted our regular supply\nof fresh ingredients and as\nsuch, what you receive may\nbe a little different to what’s\npictured. Don’t worry, your\nrecipe will be just as tasty!",
+  "description": "Love pasta? Us too! Pair 'al dente' risoni with sweet roasted pumpkin, creamy fetta and a fragrant sage butter sauce for a dinner that'll be enjoyed by all. Recent wet weather has impacted our regular supply of fresh ingredients and as such, what you receive may be a little different to what’s pictured. Don’t worry, your recipe will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/pumpkin-and-fetta-risoni-61846f464135a94b130f949e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pumpkin-fetta-risoni-bb35e23b.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 536,
+    "proteinG": 17.5,
+    "carbsG": 74.7,
+    "fatG": 17
+  },
   "tags": [
     "vegetarian",
     "everyplate"

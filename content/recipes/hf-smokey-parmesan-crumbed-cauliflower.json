@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cosy Double Parmesan-Crumbed Cauliflower",
   "subtitle": "with Fries & Apple-Almond Salad",
-  "description": "Try our new trick for crumbed cauliflower, where garlic aioli acts as the glue for a flavourful mix of panko breadcrumbs, spices and sharp Parmesan. Serve with hand cut fries and an almond-adorned salad for a hearty meal that is equal parts comfy and cosy! \nEveryone’s favourite feline movie star Garfield is drooling over this delicious recipe, so we know you’ll love it too. This recipe could be your ticket to winning big so get cosy, dig in and enjoy! Don't miss The Garfield Movie, exclusively in cinemas.",
+  "description": "Try our new trick for crumbed cauliflower, where garlic aioli acts as the glue for a flavourful mix of panko breadcrumbs, spices and sharp Parmesan. Serve with hand cut fries and an almond-adorned salad for a hearty meal that is equal parts comfy and cosy! Everyone’s favourite feline movie star Garfield is drooling over this delicious recipe, so we know you’ll love it too. This recipe could be your ticket to winning big so get cosy, dig in and enjoy! Don't miss The Garfield Movie, exclusively in cinemas.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/smokey-parmesan-crumbed-cauliflower-5e719d90890edc6b891000e5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/662769246904e640b524e106-5d1cbf2d.png",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 673,
+    "proteinG": 22.8,
+    "carbsG": 67.8,
+    "fatG": 33.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

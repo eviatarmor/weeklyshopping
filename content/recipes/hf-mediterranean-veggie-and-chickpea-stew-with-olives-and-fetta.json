@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mediterranean Veggie & Chickpea Stew with Olives & Fetta",
   "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
-  "description": "When we first tried this bright burst of goodness, we all agreed it had that \"hug in a bowl\" kind of feeling. There's\nwholesome chickpeas, pumpkin and capsicum, Plus a sublime basil pesto to make it a nutritionally balanced meal. \nThis recipe is under 650kcal per serving",
+  "description": "When we first tried this bright burst of goodness, we all agreed it had that \"hug in a bowl\" kind of feeling. There's wholesome chickpeas, pumpkin and capsicum, Plus a sublime basil pesto to make it a nutritionally balanced meal. This recipe is under 650kcal per serving",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-veggie-and-chickpea-stew-with-olives-and-fetta-604ed34773ea0d71143cf802",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-vegetable-chickpea-stew-600ced9b.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 551,
+    "proteinG": 21.9,
+    "carbsG": 59.8,
+    "fatG": 22.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

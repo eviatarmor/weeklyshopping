@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cherry Tomato Pizza Bianca",
   "subtitle": "with Pesto & Pear-Rocket Salad",
-  "description": "Prep this crowd-pleasing pizza in less time than it would take to pick up the takeaway version. Simply roast the veg and whip up a\nwhite sauce before loading the bases up with all the toppings. Toss the salad while the pizzas are baking, and you're done!\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "Prep this crowd-pleasing pizza in less time than it would take to pick up the takeaway version. Simply roast the veg and whip up a white sauce before loading the bases up with all the toppings. Toss the salad while the pizzas are baking, and you're done! Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cherry-tomato-pizza-bianca-6279fe4e7e837f017206bcdf",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cherry-tomato-zucchini-pizza-bianca-2daf7a4a.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1265,
+    "proteinG": 40,
+    "carbsG": 158.1,
+    "fatG": 49.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

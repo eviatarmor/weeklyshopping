@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Tex-Mex Chickpeas & Rice with Cucumber Salsa & Fetta",
   "subtitle": "Pre-Prepped | Three Steps | Ready in 15",
-  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. This week, enjoy a bountiful bowl of rice, topped with Tex-Mex flavoured chickpeas & cucumber salsa!\nHeads-up - you'll need a microwave for this recipe!",
+  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. This week, enjoy a bountiful bowl of rice, topped with Tex-Mex flavoured chickpeas & cucumber salsa! Heads-up - you'll need a microwave for this recipe!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/tex-mex-chickpeas-and-rice-with-cucumber-salsa-and-fetta-63cf8bc858d664caca09b494",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tex-mex-chickpeas-rice-ffb3193a.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 712,
+    "proteinG": 25.6,
+    "carbsG": 84.8,
+    "fatG": 26.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

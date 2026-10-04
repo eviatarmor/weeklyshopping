@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/curried-chickpea-burgers-with-mango-chutney-fbd70a42.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 507,
+    "proteinG": 20.2,
+    "carbsG": 63,
+    "fatG": 15.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -96,22 +102,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, drain and rinse the chickpeas, peel and grate the carrot, peel and crush the garlic, whisk the egg, wash and roughly chop the cos lettuce, and thinly slice the tomato. Then, mash the chickpeas in a medium bowl until slightly chunky, like the consistency of mashed potato. Tip: if you have a food processor, you can blitz this mixture until semi-smooth.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, drain and rinse the chickpeas, peel and grate the carrot, peel and crush the garlic, whisk the egg, wash and roughly chop the cos lettuce, and thinly slice the tomato. Then, mash the chickpeas in a medium bowl until slightly chunky, like the consistency of mashed potato. Tip: if you have a food processor, you can blitz this mixture until semi-smooth.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c51979f236a5ec616f262-0-0-5b6bdc2c.jpg"
     },
     {
-      "text": "• Add the grated carrot, mild curry powder, garlic, plain flour and egg. Season with salt and pepper. Stir to combine all of the ingredients. Shape the mixture into two large patties (you’ll have a little leftover). The mixture should be dry enough to shape. If it’s too wet then add a little extra flour.",
+      "text": "Add the grated carrot, mild curry powder, garlic, plain flour and egg. Season with salt and pepper. Stir to combine all of the ingredients. Shape the mixture into two large patties (you’ll have a little leftover). The mixture should be dry enough to shape. If it’s too wet then add a little extra flour.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c51979f236a5ec616f262-1-0-d9a840a5.jpg"
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Cook the veggie patties for 3-4 minutes each side, or until golden and heated through.",
+      "text": "Heat the olive oil in a medium frying pan over a medium-high heat. Cook the veggie patties for 3-4 minutes each side, or until golden and heated through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c51979f236a5ec616f262-2-0-d43f5af8.jpg"
     },
     {
-      "text": "• Meanwhile, place the wholemeal bake-at-home burger buns on a lined oven tray and cook in the oven for 7-8 minutes, or until heated through. Slice in half."
+      "text": "Meanwhile, place the wholemeal bake-at-home burger buns on a lined oven tray and cook in the oven for 7-8 minutes, or until heated through. Slice in half."
     },
     {
-      "text": "• To serve, place the cos lettuce on the base of the burger bun. Top with the chickpea patty, sliced tomato and mango chutney. Enjoy!"
+      "text": "To serve, place the cos lettuce on the base of the burger bun. Top with the chickpea patty, sliced tomato and mango chutney. Enjoy!"
     }
   ]
 }

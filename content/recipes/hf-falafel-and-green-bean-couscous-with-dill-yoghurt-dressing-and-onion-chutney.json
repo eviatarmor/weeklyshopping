@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-green-bean-couscous-5e0379dd.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 1056,
+    "proteinG": 26.9,
+    "carbsG": 78.2,
+    "fatG": 68
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

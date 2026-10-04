@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spinach-falafel-roast-veggie-medley-239a9031.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 800,
+    "proteinG": 22.4,
+    "carbsG": 63.3,
+    "fatG": 47.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -90,7 +96,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6285a51a0004ef5aab09db31/step-98c29bb9.jpg"
     },
     {
-      "text": "• In a small bowl, combine basil pesto and garlic aioli and a splash of water. Season to taste.",
+      "text": "In a small bowl, combine basil pesto and garlic aioli and a splash of water. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6285a51a0004ef5aab09db31/step-767879c4.jpg"
     },
     {

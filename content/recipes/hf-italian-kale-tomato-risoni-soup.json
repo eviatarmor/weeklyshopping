@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Italian Kale, Tomato & Risoni Soup",
   "subtitle": "with Homemade Garlic Bread",
-  "description": "Rice-shaped risoni pasta transforms this vibrant veggie soup into a hearty main, while the fresh rosemary and parsley add a depth of\nflavour that's a little lemony, a little peppery, and a treat with the crunchy garlic bread.",
+  "description": "Rice-shaped risoni pasta transforms this vibrant veggie soup into a hearty main, while the fresh rosemary and parsley add a depth of flavour that's a little lemony, a little peppery, and a treat with the crunchy garlic bread.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/italian-kale-tomato-risoni-soup-6194959a3e734728fd4e76b2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/italian-kale-risoni-soup-284e7875.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 762,
+    "proteinG": 24.9,
+    "carbsG": 105.8,
+    "fatG": 24.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -149,15 +155,15 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194959a3e734728fd4e76b2/step-e89273f5.jpg"
     },
     {
-      "text": "• While the soup is simmering, cut slices into the bake-at-home ciabatta, 2cm apart, cutting almost to the base but not the whole way through. In a small bowl, combine the remaining garlic and 1/2 the butter. Season with salt and pepper. Spread the garlic butter between each slice of ciabatta. Bake on a lined oven tray until warmed through, 5-10 minutes.",
+      "text": "While the soup is simmering, cut slices into the bake-at-home ciabatta, 2cm apart, cutting almost to the base but not the whole way through. In a small bowl, combine the remaining garlic and 1/2 the butter. Season with salt and pepper. Spread the garlic butter between each slice of ciabatta. Bake on a lined oven tray until warmed through, 5-10 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194959a3e734728fd4e76b2/step-37605e73.jpg"
     },
     {
-      "text": "• Stir the kale through the soup until wilted, 2 minutes. Stir through the sugar and remaining butter. Tear in the parsley leaves (reserve some for garnish!). Season to taste.",
+      "text": "Stir the kale through the soup until wilted, 2 minutes. Stir through the sugar and remaining butter. Tear in the parsley leaves (reserve some for garnish!). Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194959a3e734728fd4e76b2/step-e256b795.jpg"
     },
     {
-      "text": "• Divide the Italian kale and risoni soup between bowls. Top with the grated Parmesan cheese and reserved parsley. Serve with the homemade garlic bread.",
+      "text": "Divide the Italian kale and risoni soup between bowls. Top with the grated Parmesan cheese and reserved parsley. Serve with the homemade garlic bread.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6194959a3e734728fd4e76b2/step-5f667d55.jpg"
     }
   ]

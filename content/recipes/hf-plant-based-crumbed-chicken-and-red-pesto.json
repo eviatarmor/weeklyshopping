@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Crumbed Chick'n & Red Pesto",
   "subtitle": "with Balsamic Green Bean Salad",
-  "description": "Plant-based crumbed Chick'n served with a vibrant red pesto sauce and a tangy balsamic green bean salad is on the menu tonight. With a perfect balance of savoury, fresh and zesty flavours, this one comes from our kitchen with love, right into yours!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Plant-based crumbed Chick'n served with a vibrant red pesto sauce and a tangy balsamic green bean salad is on the menu tonight. With a perfect balance of savoury, fresh and zesty flavours, this one comes from our kitchen with love, right into yours! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/plant-based-crumbed-chicken-and-red-pesto-67e23a88c5233ff27ac0a534",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67bd23d88b4d4424a2089908-4e20c738-15696498.jpeg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 537,
+    "proteinG": 22.9,
+    "carbsG": 42.3,
+    "fatG": 29.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

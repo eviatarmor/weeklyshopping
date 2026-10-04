@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Haloumi & Roast Veggie Salad",
   "subtitle": "with Garlic Yoghurt, Almonds & Mint",
-  "description": "A little salty and squeaky, and with a touch of tang, we're big fans of haloumi - especially when it's teamed with\nnaturally sweet roasted veggies. Dress the salad with creamy garlic yoghurt and top with crunchy flaked almonds for\nthe perfect balance of flavours and textures. Don't forget the fresh mint garnish, it really makes everything sing!\nUnfortunately, this week's capsicum was in short supply, so we've replaced it with baby broccoli.\nDon't worry, the recipe will be just as delicious!",
+  "description": "A little salty and squeaky, and with a touch of tang, we're big fans of haloumi - especially when it's teamed with naturally sweet roasted veggies. Dress the salad with creamy garlic yoghurt and top with crunchy flaked almonds for the perfect balance of flavours and textures. Don't forget the fresh mint garnish, it really makes everything sing! Unfortunately, this week's capsicum was in short supply, so we've replaced it with baby broccoli. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/double-haloumi-and-roast-veggie-salad-6178b20aaa846d1c92759f85",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/double-haloumi-roast-veggie-salad-dbd51add.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 735,
+    "proteinG": 43.4,
+    "carbsG": 30.2,
+    "fatG": 47.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

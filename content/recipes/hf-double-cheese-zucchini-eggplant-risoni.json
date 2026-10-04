@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/double-cheese-zucchini-eggplant-risoni-8e04ca39.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 631,
+    "proteinG": 29.5,
+    "carbsG": 56.2,
+    "fatG": 29.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -110,27 +116,27 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **200ºC/180ºC fan-forced**. Place a medium baking dish in the oven to heat up. Finely dice the **brown onion**. Cut the **eggplant** into 1 cm cubes. Peel and crush the **garlic**.",
+      "text": "Preheat the oven to **200ºC/180ºC fan-forced**. Place a medium baking dish in the oven to heat up. Finely dice the **brown onion**. Cut the **eggplant** into 1 cm cubes. Peel and crush the **garlic**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58d1ee7b51d3f16924252fd2-0-0-dc053272.jpg"
     },
     {
-      "text": "• Heat a **drizzle** of **olive oil** in a large heavy based pot or saucepan over a medium heat. Add the **smoked paprika**, the **brown onion**, the **eggplant** and the **garlic** and cook for **10 minutes**, or until the eggplant softens.",
+      "text": "Heat a **drizzle** of **olive oil** in a large heavy based pot or saucepan over a medium heat. Add the **smoked paprika**, the **brown onion**, the **eggplant** and the **garlic** and cook for **10 minutes**, or until the eggplant softens.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/58d1ee7b51d3f16924252fd2/step-291c8219.jpg"
     },
     {
-      "text": "• Add the **risoni** to the pot with the vegetables and stir to coat in the oil. Stir through the **diced tomatoes**, the **water (check the ingredients list for the amount)** and the **brown sugar** and season with a **pinch** of **salt** and **pepper**. Bring the mixture to the boil and cook for **5 minutes**, or until the risoni is tender.",
+      "text": "Add the **risoni** to the pot with the vegetables and stir to coat in the oil. Stir through the **diced tomatoes**, the **water (check the ingredients list for the amount)** and the **brown sugar** and season with a **pinch** of **salt** and **pepper**. Bring the mixture to the boil and cook for **5 minutes**, or until the risoni is tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58d1ee7b51d3f16924252fd2-2-0-5c1d2727.jpg"
     },
     {
-      "text": "• While the risoni is cooking, cut the **zucchini** into half-moons. Finely grate the **Cheddar cheese** and the **Parmesan cheese**.",
+      "text": "While the risoni is cooking, cut the **zucchini** into half-moons. Finely grate the **Cheddar cheese** and the **Parmesan cheese**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58d1ee7b51d3f16924252fd2-3-0-23e80ffd.jpg"
     },
     {
-      "text": "• Add the **zucchini**, the **slivered almonds**, the **Cheddar cheese** and **1/2** of the **Parmesan cheese** to the pot with the risoni. Stir to combine and transfer the risoni mixture into the warmed baking dish. Sprinkle over the **remaining Parmesan** and place in the oven to bake for **20 minutes**, or until the cheese is melted and golden.",
+      "text": "Add the **zucchini**, the **slivered almonds**, the **Cheddar cheese** and **1/2** of the **Parmesan cheese** to the pot with the risoni. Stir to combine and transfer the risoni mixture into the warmed baking dish. Sprinkle over the **remaining Parmesan** and place in the oven to bake for **20 minutes**, or until the cheese is melted and golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58d1ee7b51d3f16924252fd2-4-0-8b9e4181.jpg"
     },
     {
-      "text": "• Divide the double cheese zucchini and eggplant risoni between bowls.",
+      "text": "Divide the double cheese zucchini and eggplant risoni between bowls.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58d1ee7b51d3f16924252fd2-5-0-d507de63.jpg"
     }
   ]

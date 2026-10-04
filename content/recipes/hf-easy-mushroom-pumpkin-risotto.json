@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Mushroom & Pumpkin Risotto",
   "subtitle": "with Parmesan & Pecans",
-  "description": "Is there any dish more comforting than a rich and creamy risotto? This version comes with a healthy serving of\nveggies to make it a nourishing meal everyone will love.",
+  "description": "Is there any dish more comforting than a rich and creamy risotto? This version comes with a healthy serving of veggies to make it a nourishing meal everyone will love.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-mushroom-pumpkin-risotto-60dabf6272d22061be1bf2f4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-mushroom-pumpkin-risotto-c0e6ffe5.jpg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 747,
+    "proteinG": 19.8,
+    "carbsG": 91.6,
+    "fatG": 32
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

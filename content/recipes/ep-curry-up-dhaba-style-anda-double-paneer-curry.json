@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4009_W25_AU_EP56350-5_main_high-1e007017.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 956,
+    "proteinG": 47.7,
+    "carbsG": 81.4,
+    "fatG": 46.2
+  },
   "tags": [
     "everyplate",
     "indian",

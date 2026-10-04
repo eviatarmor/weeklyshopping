@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5ae972c030006c22ef7eb962-08c0f0c3.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 758,
+    "proteinG": 24.1,
+    "carbsG": 104,
+    "fatG": 22.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -139,26 +145,26 @@
   ],
   "steps": [
     {
-      "text": "• In a medium saucepan, bring the water (for the rice) to the boil. Add the basmati rice, stir, cover with a lid and reduce the heat to low. Cook for 10 minutes, then remove the pan from the heat and keep covered for a further 10 minutes, or until the rice is tender and the water is absorbed. TIP:  Don't lift the lid while the rice is resting so you don't lose any steam!",
+      "text": "In a medium saucepan, bring the water (for the rice) to the boil. Add the basmati rice, stir, cover with a lid and reduce the heat to low. Cook for 10 minutes, then remove the pan from the heat and keep covered for a further 10 minutes, or until the rice is tender and the water is absorbed. TIP: Don't lift the lid while the rice is resting so you don't lose any steam!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae972c030006c22ef7eb962/step-288dda63.jpg"
     },
     {
-      "text": "• While the rice is cooking, grate the carrot (unpeeled). Chop the zucchini into 1 cm chunks. Peel and crush the garlic. Drain and rinse the chickpeas. Roughly chop the coriander.",
+      "text": "While the rice is cooking, grate the carrot (unpeeled). Chop the zucchini into 1 cm chunks. Peel and crush the garlic. Drain and rinse the chickpeas. Roughly chop the coriander.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae972c030006c22ef7eb962/step-3b715938.jpg"
     },
     {
-      "text": "• Heat a large frying pan over a medium-high heat. Add the slivered almonds and cook, tossing, for 3-4 minutes or until golden and toasted. Transfer to a plate and set aside."
+      "text": "Heat a large frying pan over a medium-high heat. Add the slivered almonds and cook, tossing, for 3-4 minutes or until golden and toasted. Transfer to a plate and set aside."
     },
     {
-      "text": "• Return the frying pan to a medium-high heat with a drizzle of olive oil. Add the zucchini and carrot and cook for 3-4 minutes or until softened and browned. Add the garlic, Mild North Indian spice blend and a pinch of chilli flakes (if using). TIP:  Some like it hot but if not, just hold back on the chilli flakes. Cook for 1-2 minutes or until fragrant. Add the tomato paste and chickpeas and stir until combined.",
+      "text": "Return the frying pan to a medium-high heat with a drizzle of olive oil. Add the zucchini and carrot and cook for 3-4 minutes or until softened and browned. Add the garlic, Mild North Indian spice blend and a pinch of chilli flakes (if using). TIP: Some like it hot but if not, just hold back on the chilli flakes. Cook for 1-2 minutes or until fragrant. Add the tomato paste and chickpeas and stir until combined.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae972c030006c22ef7eb962/step-a7af16f6.jpg"
     },
     {
-      "text": "• Reduce the heat to low and add the water (for the curry), cooking cream and the salt (see ingredients list). Cook for 2-3 minutes or until warmed though. Stir through the baby spinach leaves until just wilted.   Add a dash more water or cream if you prefer a thinner curry! Season to taste with salt and pepper.",
+      "text": "Reduce the heat to low and add the water (for the curry), cooking cream and the salt (see ingredients list). Cook for 2-3 minutes or until warmed though. Stir through the baby spinach leaves until just wilted. Add a dash more water or cream if you prefer a thinner curry! Season to taste with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae972c030006c22ef7eb962/step-d9cd3c84.jpg"
     },
     {
-      "text": "• Divide the basmati rice and chickpea tikka masala between bowls. Top with the slivered almonds and coriander. Serve with a dollop of mango chutney.",
+      "text": "Divide the basmati rice and chickpea tikka masala between bowls. Top with the slivered almonds and coriander. Serve with a dollop of mango chutney.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5ae972c030006c22ef7eb962/step-ccb52adf.jpg"
     }
   ]

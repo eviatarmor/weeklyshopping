@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Italian Falafel & Couscous Bowl",
   "subtitle": "with Roasted Veggies & Red Pesto Dressing",
-  "description": "What's a quick and easy way to bring a rich and tasty flavour to a dish? Add our moreish red pesto dressing that adds an extra\nburst of flavour with every bite! Teamed with spinach falafel, crunchy almonds and roasted veggies, this dish is all kinds of yum.",
+  "description": "What's a quick and easy way to bring a rich and tasty flavour to a dish? Add our moreish red pesto dressing that adds an extra burst of flavour with every bite! Teamed with spinach falafel, crunchy almonds and roasted veggies, this dish is all kinds of yum.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/italian-falafel-couscous-bowl-603c1c8020b0101648119b6e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/italian-falafel-couscous-bowl-73c0d4d4.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 815,
+    "proteinG": 23.5,
+    "carbsG": 61.2,
+    "fatG": 57.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

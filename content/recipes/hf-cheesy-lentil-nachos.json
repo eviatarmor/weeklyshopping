@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Lentil Nachos",
   "subtitle": "with Corn Salsa & Sour Cream",
-  "description": "Get a load of this for a veggie masterpiece that looks just as amazing as it tastes! Crunchy tortilla wedges are piled high with a\ncheese-topped lentil mix, corn salsa, sour cream, pickled onion and coriander.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "Get a load of this for a veggie masterpiece that looks just as amazing as it tastes! Crunchy tortilla wedges are piled high with a cheese-topped lentil mix, corn salsa, sour cream, pickled onion and coriander. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-lentil-nachos-62675ff5fe39b1417d034732",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-black-bean-nachos-45ac031b.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 807,
+    "proteinG": 28.6,
+    "carbsG": 78.8,
+    "fatG": 37.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

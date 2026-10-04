@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Plant-Based Mince Bolognese Risotto",
   "subtitle": "with Apple Salad & Parmesan",
-  "description": "This is not your usual risotto fare, but one taste of the spag bol-inspired flavours in this dish will have you craving more!\nBonus: all the magic happens in your oven so it practically cooks itself!",
+  "description": "This is not your usual risotto fare, but one taste of the spag bol-inspired flavours in this dish will have you craving more! Bonus: all the magic happens in your oven so it practically cooks itself!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-beef-bolognese-risotto-603c1db7df9b2234212035ed",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-beef-bolognese-risotto-c624af4a.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 897,
+    "proteinG": 30.4,
+    "carbsG": 100.3,
+    "fatG": 39.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

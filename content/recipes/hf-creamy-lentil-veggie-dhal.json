@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Bengali Coconut Lentil & Veggie Dhal",
   "subtitle": "with Chilli Tortillas & Yoghurt",
-  "description": "Dhal is always delicious but this version raises the bar, with a creamy coconut base, mild spices and loads of veggies to keep\nthings interesting. The flatbreads are delightful for dipping - make them as mild or spicy as you'd like.",
+  "description": "Dhal is always delicious but this version raises the bar, with a creamy coconut base, mild spices and loads of veggies to keep things interesting. The flatbreads are delightful for dipping - make them as mild or spicy as you'd like.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-lentil-veggie-dhal-61f9fa807f66ba6620393d5f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65235c2de4436936d49a4522-e338fd32.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 880,
+    "proteinG": 33.1,
+    "carbsG": 89.7,
+    "fatG": 39.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -167,7 +173,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65235c2de4436936d49a4522-02a65e2c.jpeg"
     },
     {
-      "text": "• When the dhal is ready, stir through baby spinach leaves until just wilted, 1 minute. Season to taste.",
+      "text": "When the dhal is ready, stir through baby spinach leaves until just wilted, 1 minute. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65235c2de4436936d49a4522-2d88b4c6.jpeg"
     },
     {

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Asian Pumpkin & Garlicky Greens Bliss Bowl",
   "subtitle": "with Seasoned Garlic Rice, Mushroom Sauce & Spring Onion",
-  "description": "Sweet soy seasoning, everything garnish, plant-based Asian mushroom sauce and sesame dressing are the flavour providers that we can thank tonight for making roast pumpkin, veggies and rice taste so delicious.\nThis recipe is under 650kcal per serving.",
+  "description": "Sweet soy seasoning, everything garnish, plant-based Asian mushroom sauce and sesame dressing are the flavour providers that we can thank tonight for making roast pumpkin, veggies and rice taste so delicious. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-soy-pumpkin-and-garlicky-greens-65d2ac73c7e39206a705aa38",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66720b5984cee959c7f2126d-fcb182f5.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 638,
+    "proteinG": 24,
+    "carbsG": 100.8,
+    "fatG": 14.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

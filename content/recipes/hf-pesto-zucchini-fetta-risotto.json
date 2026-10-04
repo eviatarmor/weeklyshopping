@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-zucchini-fetta-risotto-74fa79f7.jpg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 727,
+    "proteinG": 19,
+    "carbsG": 91.1,
+    "fatG": 30.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -118,14 +124,14 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, crumble the vegetable stock, finely chop the brown onion, peel and crush the garlic, and rinse the arborio rice well. Trim and cut the green beans into 1 cm pieces, grate the zucchini and remove the excess moisture, crumble the fetta cheese, and zest and cut the lemon into wedges.",
+      "text": "To prepare the ingredients, crumble the vegetable stock, finely chop the brown onion, peel and crush the garlic, and rinse the arborio rice well. Trim and cut the green beans into 1 cm pieces, grate the zucchini and remove the excess moisture, crumble the fetta cheese, and zest and cut the lemon into wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a9a9df1815bce2359f2-0-0-e4ab230b.jpg"
     },
     {
-      "text": "• Add the vegetable stock and the boiling water to a medium saucepan and place over a low heat to keep warm."
+      "text": "Add the vegetable stock and the boiling water to a medium saucepan and place over a low heat to keep warm."
     },
     {
-      "text": "• Heat the olive oil and butter in a large saucepan over a medium heat. Add the brown onion and cook for 3 minutes, or until the onion is soft. Add the garlic and arborio rice, stirring to coat the grains, and toast for 1 minute. Reduce to medium-low heat.",
+      "text": "Heat the olive oil and butter in a large saucepan over a medium heat. Add the brown onion and cook for 3 minutes, or until the onion is soft. Add the garlic and arborio rice, stirring to coat the grains, and toast for 1 minute. Reduce to medium-low heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a9a9df1815bce2359f2-2-0-3f860e13.jpg"
     },
     {
@@ -133,11 +139,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a9a9df1815bce2359f2-3-0-7ff60f32.jpg"
     },
     {
-      "text": "• When the rice is almost cooked, place a small frying pan over a medium-high heat. Add the sunflower seeds and cook, tossing occasionally, for 1 minute, or until toasted.",
+      "text": "When the rice is almost cooked, place a small frying pan over a medium-high heat. Add the sunflower seeds and cook, tossing occasionally, for 1 minute, or until toasted.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a9a9df1815bce2359f2-4-0-82f3680d.jpg"
     },
     {
-      "text": "• To serve, divide the risotto between bowls, sprinkle with toasted sunflower seeds and serve with lemon wedges."
+      "text": "To serve, divide the risotto between bowls, sprinkle with toasted sunflower seeds and serve with lemon wedges."
     }
   ]
 }

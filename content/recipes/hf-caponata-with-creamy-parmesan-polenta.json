@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/558232a5f8b25ef1508b4568.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 521,
+    "proteinG": 18.5,
+    "carbsG": 60.1,
+    "fatG": 21.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -110,19 +116,19 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely chop the red onion. Cut the eggplant and capsicum into 2 cm cubes, and peel and crush the garlic. Finely shred the basil leaves and finely grate the Parmesan cheese."
+      "text": "To prepare the ingredients, finely chop the red onion. Cut the eggplant and capsicum into 2 cm cubes, and peel and crush the garlic. Finely shred the basil leaves and finely grate the Parmesan cheese."
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Add the red onion, eggplant, and capsicum and cook, stirring, for 8 minutes or until the vegetables have softened. Add the garlic and cook for a further 1 minute or until fragrant. Add the vinegar, capers and some salt and pepper to taste. Simmer gently for 10 minutes, or until the vegetables are tender and the mixture has thickened. Stir through the basil."
+      "text": "Heat the olive oil in a medium frying pan over a medium-high heat. Add the red onion, eggplant, and capsicum and cook, stirring, for 8 minutes or until the vegetables have softened. Add the garlic and cook for a further 1 minute or until fragrant. Add the vinegar, capers and some salt and pepper to taste. Simmer gently for 10 minutes, or until the vegetables are tender and the mixture has thickened. Stir through the basil."
     },
     {
-      "text": "• Meanwhile, place the milk and water in a medium saucepan over a medium-high heat and season with salt and pepper. Bring to a simmer. Gradually add the polenta, and cook whisking for 2-3 minutes or until thickened. Stir through the Parmesan cheese."
+      "text": "Meanwhile, place the milk and water in a medium saucepan over a medium-high heat and season with salt and pepper. Bring to a simmer. Gradually add the polenta, and cook whisking for 2-3 minutes or until thickened. Stir through the Parmesan cheese."
     },
     {
-      "text": "• In a small frying pan over a medium heat, toast the pine nuts until lightly golden and toasty."
+      "text": "In a small frying pan over a medium heat, toast the pine nuts until lightly golden and toasty."
     },
     {
-      "text": "• To serve, divide the caponata and polenta between bowls. Top with pine nuts."
+      "text": "To serve, divide the caponata and polenta between bowls. Top with pine nuts."
     }
   ]
 }

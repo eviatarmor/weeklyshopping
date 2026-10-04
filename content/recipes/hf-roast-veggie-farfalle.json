@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Veggie Farfalle",
   "subtitle": "with Olives, Chargrilled Capsicum & Almonds",
-  "description": "There's nothing like a bowl of pasta in a rich red sauce to wrap up your day. With all the Italian flavours you know and love combined\nwith delicate farfalle bows, this meal is a winner from start to finish! Don't forget the flaked almond garnish for that crunch factor.",
+  "description": "There's nothing like a bowl of pasta in a rich red sauce to wrap up your day. With all the Italian flavours you know and love combined with delicate farfalle bows, this meal is a winner from start to finish! Don't forget the flaked almond garnish for that crunch factor.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-veggie-farfalle-623a8ef091689b5013142002",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-veggie-farfalle-2211f34b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 745,
+    "proteinG": 24.1,
+    "carbsG": 104.8,
+    "fatG": 22.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

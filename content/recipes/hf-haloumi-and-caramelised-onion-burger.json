@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W39_AU_R15119-13_Main_F1_R_high-93097441.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 854,
+    "proteinG": 30.9,
+    "carbsG": 70.7,
+    "fatG": 47.7
+  },
   "tags": [
     "hellofresh",
     "mediterranean",

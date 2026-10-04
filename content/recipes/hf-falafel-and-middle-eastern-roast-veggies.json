@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Falafel & Middle Eastern Roast Veggies",
   "subtitle": "with Dill-Parsley Yoghurt",
-  "description": "Serve up a satisfying bowl that's full of flavour and colour, yet surprisingly light on the carbs. Hearty spinach\nfalafels are the stars of this Middle Eastern feast, complete with zingy pickled onions to balance out the flavours\nand roasted veggies for all the good stuff!\nThis recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
+  "description": "Serve up a satisfying bowl that's full of flavour and colour, yet surprisingly light on the carbs. Hearty spinach falafels are the stars of this Middle Eastern feast, complete with zingy pickled onions to balance out the flavours and roasted veggies for all the good stuff! This recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-and-middle-eastern-roast-veggies-5c7620a6e3f3390f1257a702",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-middle-eastern-roast-veggies-dabf24bc.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 505,
+    "proteinG": 19.5,
+    "carbsG": 30,
+    "fatG": 40.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

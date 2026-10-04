@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sesame-Coated Haloumi & Pea Pod Salad",
   "subtitle": "with Mint Yoghurt & Balsamic Vinaigrette",
-  "description": "Light, bright and green, this salad comes brimming with cucumber, pea pods and mint (the trifecta in our opinion!). With everything garnished chicken tenders and mint yoghurt dolloped on top, this one will quickly become a regular.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Light, bright and green, this salad comes brimming with cucumber, pea pods and mint (the trifecta in our opinion!). With everything garnished chicken tenders and mint yoghurt dolloped on top, this one will quickly become a regular. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sesame-coated-chicken-and-pea-pod-salad-67f863860d0527cba53b4d36",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6796c0e5183b5afa14503e89-2009ad8b-1eb9b2bd.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 432,
+    "proteinG": 22.3,
+    "carbsG": 9.8,
+    "fatG": 33.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

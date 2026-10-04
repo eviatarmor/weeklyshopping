@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/red-capsicum-pizza-with-mozzarella-and-rocket-b4b3b503.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 901,
+    "proteinG": 38.2,
+    "carbsG": 102,
+    "fatG": 35.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -81,17 +87,17 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, thinly slice the red capsicum and red onion, halve the kalamata olives (check for pits), and grate the mozzarella cheese."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, thinly slice the red capsicum and red onion, halve the kalamata olives (check for pits), and grate the mozzarella cheese."
     },
     {
-      "text": "• Place the wholemeal pizza bases on a flat surface, rough side down, and spread evenly with the tomato paste using the back of a spoon. Top with the red capsicum, red onion, kalamata olives, pine nuts and mozzarella cheese. Place in the oven directly onto the wire racks and cook for 10-15 minutes, or until the cheese has melted and the bases are crispy.",
+      "text": "Place the wholemeal pizza bases on a flat surface, rough side down, and spread evenly with the tomato paste using the back of a spoon. Top with the red capsicum, red onion, kalamata olives, pine nuts and mozzarella cheese. Place in the oven directly onto the wire racks and cook for 10-15 minutes, or until the cheese has melted and the bases are crispy.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c44072e69d766271f6153-1-0-67806470.jpg"
     },
     {
-      "text": "• Meanwhile, in a large bowl toss the rocket leaves in the olive oil and season with salt and pepper."
+      "text": "Meanwhile, in a large bowl toss the rocket leaves in the olive oil and season with salt and pepper."
     },
     {
-      "text": "• Serve the pizza with the dressed rocket. Enjoy!",
+      "text": "Serve the pizza with the dressed rocket. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c44072e69d766271f6153-3-0-3446534e.jpg"
     }
   ]

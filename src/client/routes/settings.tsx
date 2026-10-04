@@ -5,7 +5,8 @@ import { PageHeader } from "@/client/components/page-header";
 import { Button } from "@/client/components/ui/button";
 import { useCatalog } from "@/client/features/list/use-list";
 import { MeasureToggle } from "@/client/features/recipes/quantity";
-import { useMeasureSystem } from "@/client/lib/preferences";
+import { EnergyToggle } from "@/client/features/recipes/energy";
+import { useEnergyUnit, useMeasureSystem } from "@/client/lib/preferences";
 import { useTRPC } from "@/client/lib/trpc";
 import { cn } from "@/client/lib/utils";
 
@@ -17,6 +18,7 @@ function SettingsPage() {
   const me = useQuery(trpc.me.queryOptions());
   const { sections } = useCatalog();
   const [system, setSystem] = useMeasureSystem();
+  const [energyUnit, setEnergyUnit] = useEnergyUnit();
   const reorder = useMutation(
     trpc.catalog.reorderSections.mutationOptions({
       onSettled: () => void qc.invalidateQueries({ queryKey: trpc.catalog.get.queryKey() }),
@@ -70,6 +72,14 @@ function SettingsPage() {
             <p className="text-sm text-muted-foreground">Show spoons and cups, or convert them to grams (approximate).</p>
           </div>
           <MeasureToggle value={system} onChange={setSystem} />
+        </section>
+
+        <section className="flex items-center justify-between gap-3 rounded-xl border bg-card p-4">
+          <div>
+            <h2 className="font-semibold">Energy</h2>
+            <p className="text-sm text-muted-foreground">Show recipe energy in kilojoules or calories (per serving, estimated).</p>
+          </div>
+          <EnergyToggle value={energyUnit} onChange={setEnergyUnit} />
         </section>
 
         <section>

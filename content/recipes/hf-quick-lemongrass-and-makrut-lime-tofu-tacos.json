@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Lemongrass & Makrut Lime Tofu Tacos",
   "subtitle": "with Cucumber, Creamy Slaw & Peanuts",
-  "description": "Team tender tofu with fresh cucumber, Southeast Asian spices and a ready-made Asian mushroom sauce, and meet your new\nfavourite taco filling that's perfect for Meat Free Monday (or any weeknight!).",
+  "description": "Team tender tofu with fresh cucumber, Southeast Asian spices and a ready-made Asian mushroom sauce, and meet your new favourite taco filling that's perfect for Meat Free Monday (or any weeknight!).",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-lemongrass-and-makrut-lime-tofu-tacos-631198f65c8422947f0627f8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/asian-style-tofu-tacos-1f047f06.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 643,
+    "proteinG": 25.9,
+    "carbsG": 68.1,
+    "fatG": 26.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

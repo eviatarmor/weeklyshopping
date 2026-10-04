@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sesame Tofu Tacos",
   "subtitle": "with Mint Slaw & Zesty Sweet Chilli Mayo",
-  "description": "It's genius, really. When you combine the much loved peanut butter satay flavour with chunks of tofu, then wrap them up in\nwarm flour tortillas with a crisp slaw, you've got flavour, texture and colour galore!",
+  "description": "It's genius, really. When you combine the much loved peanut butter satay flavour with chunks of tofu, then wrap them up in warm flour tortillas with a crisp slaw, you've got flavour, texture and colour galore!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sesame-tofu-tacos-65f927ef09bba91b1c0874ea",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/satay-tofu-tacos-748992b5.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 702,
+    "proteinG": 22.9,
+    "carbsG": 59,
+    "fatG": 43.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -106,7 +112,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/639a7ee25a6e8e82010067ce/step-26a84c51.jpg"
     },
     {
-      "text": "• In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook tofu, tossing, until browned and warmed through, 3-4 minutes. Transfer to a bowl.",
+      "text": "In a large frying pan, heat a drizzle of olive oil over medium-high heat. Cook tofu, tossing, until browned and warmed through, 3-4 minutes. Transfer to a bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/639a7ee25a6e8e82010067ce/step-e8a731c7.jpg"
     },
     {

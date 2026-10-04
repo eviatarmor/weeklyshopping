@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56f0d3654dab715b238b4568.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 629,
+    "proteinG": 23.4,
+    "carbsG": 55.2,
+    "fatG": 31.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -89,26 +95,26 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, rinse the pearl barley, finely chop the red onion, pick the mint leaves and shred, halve the pomegranate and remove the seeds, wash the rocket, zest and juice the lime and cut the haloumi into slices.",
+      "text": "To prepare the ingredients, rinse the pearl barley, finely chop the red onion, pick the mint leaves and shred, halve the pomegranate and remove the seeds, wash the rocket, zest and juice the lime and cut the haloumi into slices.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56f0d3654dab715b238b4568/step_56f0d7dd05e07.jpg"
     },
     {
-      "text": "• Add the pearl barley to a large saucepan of salted water and bring to the boil. Cook, stirring occasionally, for 30-35 minutes or until soft in texture but slightly chewy. Drain and place in a large bowl."
+      "text": "Add the pearl barley to a large saucepan of salted water and bring to the boil. Cook, stirring occasionally, for 30-35 minutes or until soft in texture but slightly chewy. Drain and place in a large bowl."
     },
     {
-      "text": "• Meanwhile, heat a dash of the olive oil in a medium frying pan. Add the red onion and cook stirring for 3 minutes or until soft. Transfer to the bowl of pearl barley along with the mint, pomegranate, roasted almonds and rocket.",
+      "text": "Meanwhile, heat a dash of the olive oil in a medium frying pan. Add the red onion and cook stirring for 3 minutes or until soft. Transfer to the bowl of pearl barley along with the mint, pomegranate, roasted almonds and rocket.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56f0d3654dab715b238b4568/step_56f0d7dd3a83d.jpg"
     },
     {
-      "text": "• In a small bowl or jug whisk together the remaining olive oil, lemon zest and juice and honey. Season with salt and pepper. Drizzle the dressing over the pearl barley salad and toss to combine.",
+      "text": "In a small bowl or jug whisk together the remaining olive oil, lemon zest and juice and honey. Season with salt and pepper. Drizzle the dressing over the pearl barley salad and toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56f0d3654dab715b238b4568/step_56f0d7dd49907.jpg"
     },
     {
-      "text": "• Place the same frying pan over a medium-high heat. Add the haloumi slices and cook for 1 minute on each side or until golden.",
+      "text": "Place the same frying pan over a medium-high heat. Add the haloumi slices and cook for 1 minute on each side or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56f0d3654dab715b238b4568/step_56f0d7dd5eb1f.jpg"
     },
     {
-      "text": "• Divide the pearl barley salad between plates and top with haloumi slices. Enjoy!"
+      "text": "Divide the pearl barley salad between plates and top with haloumi slices. Enjoy!"
     }
   ]
 }

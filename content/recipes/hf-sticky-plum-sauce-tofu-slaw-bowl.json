@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sticky Plum Tofu Slaw Bowl",
   "subtitle": "with Crispy Shallots & Fried Egg",
-  "description": "We're in our light and bright era so only a salad will do. Crunchy slaw is the perfect base for sticky plum tofu to lay upon. With a sprinkling of crispy shallots and a tasty fried egg, you'll be not only plating up, but you'll also be eating the rainbow!\nThis recipe is under 550kcal per serving.",
+  "description": "We're in our light and bright era so only a salad will do. Crunchy slaw is the perfect base for sticky plum tofu to lay upon. With a sprinkling of crispy shallots and a tasty fried egg, you'll be not only plating up, but you'll also be eating the rainbow! This recipe is under 550kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sticky-plum-sauce-tofu-slaw-bowl-64f908aef8217554405bca34",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/664d9f304ec1d807e72cd8e4-761e5b7a.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 546,
+    "proteinG": 20.2,
+    "carbsG": 44.3,
+    "fatG": 34.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

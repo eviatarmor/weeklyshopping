@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey Haloumi Fattoush Salad",
   "subtitle": "with Pickled Carrot & Golden Goddess Dressing",
-  "description": "This salad sensation will take you on a culinary adventure straight to the heart of the Middle East! Crunchy veggies, crispy tortilla chips and golden haloumi kissed by a drizzle of sticky honey all come together for a fresh and flavourful meal.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "This salad sensation will take you on a culinary adventure straight to the heart of the Middle East! Crunchy veggies, crispy tortilla chips and golden haloumi kissed by a drizzle of sticky honey all come together for a fresh and flavourful meal. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-haloumi-fattoush-salad-6768c54f555c15a993e4ebf8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a03df90ac954f02b194b72-2e853edc.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 548,
+    "proteinG": 24,
+    "carbsG": 29.7,
+    "fatG": 35.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

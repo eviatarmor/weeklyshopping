@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Smokey Bean Chilli & Cheesy Roasted Potato",
   "subtitle": "with Sour Cream & Parsley",
-  "description": "You're in for a treat with this American-spiced, veggie-loaded butter bean chilli; it has a subtle sweetness\nfrom a bit of BBQ sauce, and is the perfect match for the melty Cheddar potatoes. Serve with a dollop of sour\ncream for a touch of tang, and don't forget the parsley garnish for a fresh pop of flavour. \nThis recipe is under 650kcal per serving.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "You're in for a treat with this American-spiced, veggie-loaded butter bean chilli; it has a subtle sweetness from a bit of BBQ sauce, and is the perfect match for the melty Cheddar potatoes. Serve with a dollop of sour cream for a touch of tang, and don't forget the parsley garnish for a fresh pop of flavour. This recipe is under 650kcal per serving. Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/smokey-bean-chilli-and-cheesy-roasted-potato-628728c831a182ad620893f9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/smokey-cannellini-bean-chilli-6281564c.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 574,
+    "proteinG": 25.9,
+    "carbsG": 71.4,
+    "fatG": 16.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

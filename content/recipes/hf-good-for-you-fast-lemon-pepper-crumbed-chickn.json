@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Lemon Pepper Crumbed Chick'n",
   "subtitle": "with Garlic Greens & Dill-Parsley Mayo",
-  "description": "Let's keep things light and bright with some garlicky greens and then take it up a notch with some lemon pepper plant-based crumbed chick'n. It's equally fresh, flavourful and mighty!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Let's keep things light and bright with some garlicky greens and then take it up a notch with some lemon pepper plant-based crumbed chick'n. It's equally fresh, flavourful and mighty! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/good-for-you-fast-lemon-pepper-crumbed-chickn-67f842030d0527cba53a9503",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1036_W22_AUS_Main_1low-ce8dff20.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 504,
+    "proteinG": 23.2,
+    "carbsG": 41.9,
+    "fatG": 25.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

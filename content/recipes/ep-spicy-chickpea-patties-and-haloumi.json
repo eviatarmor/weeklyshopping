@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/649cc91a42c81e68a732c354-2f58d46d.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 945,
+    "proteinG": 41.2,
+    "carbsG": 80.8,
+    "fatG": 48.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -130,7 +136,7 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut sweet potato into wedges and place on a lined oven tray. Drizzle with olive oil and season with salt.\n• Toss to coat, spread out evenly and bake until tender, 25-30 mins.\n• Cut haloumi into 1cm slices.  In a medium bowl, place haloumi and cover with water to soak.",
+      "text": "• Preheat oven to 240°C/220°C fan-forced.\n• Cut sweet potato into wedges and place on a lined oven tray. Drizzle with olive oil and season with salt.\n• Toss to coat, spread out evenly and bake until tender, 25-30 mins.\n• Cut haloumi into 1cm slices. In a medium bowl, place haloumi and cover with water to soak.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649cc91a42c81e68a732c354-0c6eb60c.jpeg"
     },
     {

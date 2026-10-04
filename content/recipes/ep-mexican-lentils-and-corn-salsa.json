@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-lentils-charred-corn-salsa-6c6566bf.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 844,
+    "proteinG": 24,
+    "carbsG": 104.3,
+    "fatG": 33.5
+  },
   "tags": [
     "vegetarian",
     "everyplate",

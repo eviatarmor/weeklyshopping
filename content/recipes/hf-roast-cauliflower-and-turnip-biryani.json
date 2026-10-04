@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Cauliflower & Turnip Biryani",
   "subtitle": "with Currants, Almonds & Yoghurt",
-  "description": "Biryani – the fragrant rice dish hailing from the Indian subcontinent – gets a twist with this vibrant vegetarian version. Complete\nthe dish with roasted almonds and crispy shallots for crunch, yoghurt for creaminess and tang, and coriander for some zing - all of which complement the mildly spiced roast veg.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "Biryani – the fragrant rice dish hailing from the Indian subcontinent – gets a twist with this vibrant vegetarian version. Complete the dish with roasted almonds and crispy shallots for crunch, yoghurt for creaminess and tang, and coriander for some zing - all of which complement the mildly spiced roast veg. Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-cauliflower-and-turnip-biryani-627dc9b0ac1dc1965a073980",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roasted-eggplant-biryani-62f0b181.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 667,
+    "proteinG": 17.4,
+    "carbsG": 100.5,
+    "fatG": 24.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Carrot-Ginger Fritters & Haloumi",
   "subtitle": "with Asian-Style Sweet Potato Salad & Coconut Sweet Chilli Mayo",
-  "description": "These golden fritters are full of bright and flavoursome ingredients, with a hint of zingy ginger to make your tastebuds sing!\nServe with a super satisfying salad, studded with roasted sesame sweet potato nuggets, and you have a brand new meal that\nyou'll crave again and again. Don't forget to top the fritters with the tropical mayo and haloumi before digging in.",
+  "description": "These golden fritters are full of bright and flavoursome ingredients, with a hint of zingy ginger to make your tastebuds sing! Serve with a super satisfying salad, studded with roasted sesame sweet potato nuggets, and you have a brand new meal that you'll crave again and again. Don't forget to top the fritters with the tropical mayo and haloumi before digging in.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/carrot-ginger-fritters-and-haloumi-64acbe7057da307c4116c801",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64acbe7057da307c4116c801-d12952cb.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 864,
+    "proteinG": 31.3,
+    "carbsG": 53.4,
+    "fatG": 59.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

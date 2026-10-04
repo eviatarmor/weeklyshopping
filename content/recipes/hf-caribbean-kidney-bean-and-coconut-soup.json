@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Caribbean Kidney Bean & Coconut Soup",
   "subtitle": "with Roasted Sweet Potato & Capsicum",
-  "description": "Channel the flavours of the Caribbean into a hearty soup brimming with red kidney beans, creamy coconut milk\nand roasted root veggies. Zingy lime and mild Caribbean spices bring the tropical vibes, while the capsicum adds a\nsubtly sweet depth of flavour.",
+  "description": "Channel the flavours of the Caribbean into a hearty soup brimming with red kidney beans, creamy coconut milk and roasted root veggies. Zingy lime and mild Caribbean spices bring the tropical vibes, while the capsicum adds a subtly sweet depth of flavour.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/caribbean-kidney-bean-and-coconut-soup-632ba3833cb7f591a20426a7",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64e2aeeec54151ea208e23ec-35498ef9.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 745,
+    "proteinG": 27.3,
+    "carbsG": 69.5,
+    "fatG": 39.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

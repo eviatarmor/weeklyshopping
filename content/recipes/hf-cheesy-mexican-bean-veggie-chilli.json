@@ -2,12 +2,18 @@
   "slug": "hf-cheesy-mexican-bean-veggie-chilli",
   "kind": "meal",
   "title": "Cheesy Mexican Bean & Veggie Chilli",
-  "subtitle": "with Sour Cream &  Baked Tortilla Chips",
-  "description": "Who knew making veggie chilli from scratch could be so easy? Complete with DIY tortilla chips, serve them straight from the oven while\nthey're still warm - a treat for scooping up the saucy goodness and all the toppings.",
+  "subtitle": "with Sour Cream & Baked Tortilla Chips",
+  "description": "Who knew making veggie chilli from scratch could be so easy? Complete with DIY tortilla chips, serve them straight from the oven while they're still warm - a treat for scooping up the saucy goodness and all the toppings.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-mexican-bean-veggie-chilli-6181f4c0a611b50e063c09ef",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-mexican-bean-veggie-chilli-6b538b1d.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1020,
+    "proteinG": 36.3,
+    "carbsG": 82.7,
+    "fatG": 56.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -130,7 +136,7 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°/180°C fan-forced. Finely chop the brown onion. Finely chop the carrot and capsicum. Finely chop the garlic. Drain and rinse the black beans.",
+      "text": "Preheat the oven to 200°/180°C fan-forced. Finely chop the brown onion. Finely chop the carrot and capsicum. Finely chop the garlic. Drain and rinse the black beans.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-a7062cd2.jpg"
     },
     {
@@ -146,11 +152,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-40a428f1.jpg"
     },
     {
-      "text": "• While the tortilla chips are baking, roughly chop the coriander.",
+      "text": "While the tortilla chips are baking, roughly chop the coriander.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-b94b35c3.jpg"
     },
     {
-      "text": "• Divide the Mexican bean and veggie chilli between bowls. Sprinkle with the shredded Cheddar cheese and coriander. Top with a dollop of light sour cream. Serve with the baked tortilla chips.",
+      "text": "Divide the Mexican bean and veggie chilli between bowls. Sprinkle with the shredded Cheddar cheese and coriander. Top with a dollop of light sour cream. Serve with the baked tortilla chips.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6181f4c0a611b50e063c09ef/step-e5236ad9.jpg"
     }
   ]

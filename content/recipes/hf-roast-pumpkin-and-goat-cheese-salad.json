@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Pumpkin & Goat Cheese Salad",
   "subtitle": "with Ranch Dressing & Garlic-Herb Croutons",
-  "description": "The key to a stellar salad is the right combination of colours, flavours and textures. Brimming with golden roasted pumpkin, homemade herby croutons, earthy beetroot and creamy, tangy goat cheese, this hearty salad delivers just that.\nThis recipe is under 550kcal per serving.",
+  "description": "The key to a stellar salad is the right combination of colours, flavours and textures. Brimming with golden roasted pumpkin, homemade herby croutons, earthy beetroot and creamy, tangy goat cheese, this hearty salad delivers just that. This recipe is under 550kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-pumpkin-and-goat-cheese-salad-611d9556c0fa1b1f8119f9d1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/661e0297d698e7cc034394e1-8f207f15.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 667,
+    "proteinG": 25.5,
+    "carbsG": 94.4,
+    "fatG": 19.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

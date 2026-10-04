@@ -22,7 +22,8 @@
     "icons": "tsx scripts/generate-icons.ts",
     "blends:reddit": "tsx scripts/build-reddit-blends.ts",
     "recipe:bulk": "tsx scripts/import-bulk.ts",
-    "content:clean-html": "tsx scripts/clean-html.ts"
+    "content:clean-html": "tsx scripts/clean-html.ts",
+    "content:fix-energy": "tsx scripts/fix-energy.ts"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.104.1",

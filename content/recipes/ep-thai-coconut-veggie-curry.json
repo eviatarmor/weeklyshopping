@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Thai Coconut Veggie Curry",
   "subtitle": "with Rice & Peanuts",
-  "description": "Get the fragrant flavours of Thailand in this nourishing and veggie-packed curry. Served over fluffy rice, it's a hearty dinner that will leave you feeling great!\n\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious! *",
+  "description": "Get the fragrant flavours of Thailand in this nourishing and veggie-packed curry. Served over fluffy rice, it's a hearty dinner that will leave you feeling great! The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious! *",
   "sourceUrl": "https://www.everyplate.com.au/recipes/thai-coconut-veggie-curry-61b1462901c0dc188646254b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/malaysian-veggie-curry-bbd17fa3.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 869,
+    "proteinG": 13.7,
+    "carbsG": 92.4,
+    "fatG": 46.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -122,11 +128,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b1462901c0dc188646254b/step-611e5e91.jpg"
     },
     {
-      "text": "• Meanwhile, in a medium saucepan, bring water (for the rice) to the boil. Add basmati rice and a pinch of salt. Stir, cover with a lid and reduce heat to low. Cook for 10 mins, then remove pan from heat and keep covered until rice is tender and water is absorbed, 10 mins.",
+      "text": "Meanwhile, in a medium saucepan, bring water (for the rice) to the boil. Add basmati rice and a pinch of salt. Stir, cover with a lid and reduce heat to low. Cook for 10 mins, then remove pan from heat and keep covered until rice is tender and water is absorbed, 10 mins.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b1462901c0dc188646254b/step-c0335468.jpg"
     },
     {
-      "text": "• In a large frying pan, heat a drizzle of oil over medium-high heat. Cook garlic and Thai spice blend until fragrant, 1 min. Add vegetable stock, soy sauce, lime zest, coconut milk, brown sugar, simmer until thickened, 4 mins.",
+      "text": "In a large frying pan, heat a drizzle of oil over medium-high heat. Cook garlic and Thai spice blend until fragrant, 1 min. Add vegetable stock, soy sauce, lime zest, coconut milk, brown sugar, simmer until thickened, 4 mins.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b1462901c0dc188646254b/step-a31688c9.jpg"
     },
     {

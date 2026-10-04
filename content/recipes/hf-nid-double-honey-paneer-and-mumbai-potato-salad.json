@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W38_AU_R43756-9_Main_high-a311f216.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 714,
+    "proteinG": 41.6,
+    "carbsG": 39.3,
+    "fatG": 41.3
+  },
   "tags": [
     "hellofresh",
     "indian",

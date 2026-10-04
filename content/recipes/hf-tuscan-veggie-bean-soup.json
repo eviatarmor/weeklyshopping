@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tuscan-veggie-bean-soup-93bff082.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 511,
+    "proteinG": 21.8,
+    "carbsG": 63.6,
+    "fatG": 14.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -137,7 +143,7 @@
   ],
   "steps": [
     {
-      "text": "• Finely chop the red onion and celery. Thinly slice the carrot (unpeeled) into half-moons. Finely chop the garlic (or use a garlic press).",
+      "text": "Finely chop the red onion and celery. Thinly slice the carrot (unpeeled) into half-moons. Finely chop the garlic (or use a garlic press).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-c6b16ef8.jpg"
     },
     {
@@ -153,11 +159,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-93e84b56.jpg"
     },
     {
-      "text": "• Just before serving the soup, add the baby spinach leaves and stir until just wilted.",
+      "text": "Just before serving the soup, add the baby spinach leaves and stir until just wilted.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-f4759c29.jpg"
     },
     {
-      "text": "• Divide the Tuscan veggie bean soup between bowls. Serve with the cheesy pesto toasts.",
+      "text": "Divide the Tuscan veggie bean soup between bowls. Serve with the cheesy pesto toasts.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d6f39a75b4ab900086b8678/step-22daee4c.jpg"
     }
   ]

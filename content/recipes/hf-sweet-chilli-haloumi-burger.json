@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-chilli-haloumi-burgers-518b6ebc.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 916,
+    "proteinG": 31,
+    "carbsG": 90.8,
+    "fatG": 46.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -94,7 +100,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462e79ed0eff91325050a7e/step-f5428b70.jpg"
     },
     {
-      "text": "• Slice haloumi to get one piece per person.",
+      "text": "Slice haloumi to get one piece per person.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462e79ed0eff91325050a7e/step-fda42576.jpg"
     },
     {
@@ -102,7 +108,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6462e79ed0eff91325050a7e-28254084.jpeg"
     },
     {
-      "text": "• Meanwhile, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
+      "text": "Meanwhile, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462e79ed0eff91325050a7e/step-a2feeabe.jpg"
     },
     {

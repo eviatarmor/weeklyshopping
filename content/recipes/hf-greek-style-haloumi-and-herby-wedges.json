@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Greek-Style Haloumi & Herby Wedges",
   "subtitle": "with Pear Salad & Tzatziki",
-  "description": "There are plenty of surprises in this meal. With honey and Italian herbs coating the haloumi you get herby, gooey,\nsqueaky sweetness, while the crisp pear salad gives a sharp contrast. You’ll be wishing you could have this every night!\nThis recipe is under 650kcal per serving.",
+  "description": "There are plenty of surprises in this meal. With honey and Italian herbs coating the haloumi you get herby, gooey, squeaky sweetness, while the crisp pear salad gives a sharp contrast. You’ll be wishing you could have this every night! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/greek-style-haloumi-and-herby-wedges-60c85d2407246667310bcfa1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/greek-style-haloumi-oregano-wedges-8e6bf9ac.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 638,
+    "proteinG": 25.9,
+    "carbsG": 47,
+    "fatG": 36.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

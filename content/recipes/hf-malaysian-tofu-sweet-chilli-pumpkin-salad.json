@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Tofu & Sweet Chilli Pumpkin Salad",
   "subtitle": "with Ginger Dressing, Mint & Peanuts",
-  "description": "The star of this dish of deliciousness is the fragrant dressing, which combines heated sesame oil with\nzingy ginger and lemongrass. The oil cooks the aromatic ingredients to intensify their flavours, which\nwork beautifully with the tender, peanutty tofu and refreshing salad.\nThis recipe is under 650kcal per serving.",
+  "description": "The star of this dish of deliciousness is the fragrant dressing, which combines heated sesame oil with zingy ginger and lemongrass. The oil cooks the aromatic ingredients to intensify their flavours, which work beautifully with the tender, peanutty tofu and refreshing salad. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/malaysian-tofu-sweet-chilli-pumpkin-salad-5b0e6aaa30006c0686766ac5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/malaysian-tofu-sweet-chilli-pumpkin-salad-3efea2f2.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 555,
+    "proteinG": 26.4,
+    "carbsG": 42.4,
+    "fatG": 30.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

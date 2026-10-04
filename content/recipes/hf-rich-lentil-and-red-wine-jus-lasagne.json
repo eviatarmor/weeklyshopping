@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1032_W16_AUS_MAIN_tomatoes_edit_high-d2c35bd0.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 1110,
+    "proteinG": 43.9,
+    "carbsG": 103,
+    "fatG": 55.3
+  },
   "tags": [
     "hellofresh",
     "italian",

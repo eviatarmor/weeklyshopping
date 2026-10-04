@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55acaa834dab711b658b4567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 676,
+    "proteinG": 26,
+    "carbsG": 63.2,
+    "fatG": 32.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -86,25 +92,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan forced. Line an oven tray with baking paper."
+      "text": "Preheat the oven to 200°C/180°C fan forced. Line an oven tray with baking paper."
     },
     {
-      "text": "• To prepare the ingredients, peel the pumpkin and cut it into 1 cm cubes. Peel and crush the garlic."
+      "text": "To prepare the ingredients, peel the pumpkin and cut it into 1 cm cubes. Peel and crush the garlic."
     },
     {
-      "text": "• Toss the pumpkin in half of the olive oil and season with salt and pepper. Place in a single layer on the prepared oven tray. Cook in the oven for 20 minutes or until tender."
+      "text": "Toss the pumpkin in half of the olive oil and season with salt and pepper. Place in a single layer on the prepared oven tray. Cook in the oven for 20 minutes or until tender."
     },
     {
-      "text": "• Bring a medium saucepan of salted water to the boil. Add the gnocchi and cook until the gnocchi floats to the surface, this should take approximately 2-3 minutes. Drain and pat dry with a paper towel."
+      "text": "Bring a medium saucepan of salted water to the boil. Add the gnocchi and cook until the gnocchi floats to the surface, this should take approximately 2-3 minutes. Drain and pat dry with a paper towel."
     },
     {
-      "text": "• Meanwhile, place a medium frying pan over a medium heat and toast the pine nuts until golden. Set aside."
+      "text": "Meanwhile, place a medium frying pan over a medium heat and toast the pine nuts until golden. Set aside."
     },
     {
-      "text": "• Heat the remaining oil and the butter in the same frying pan. Add the gnocchi, and fry for 4-5 minutes, or until golden. Add the garlic and cook for 1 minute or until fragrant. Add the white wine and cook for 2 minutes, or until reduced slightly. Add the ricotta, season with salt and pepper and fold through. Remove from the heat. Gently fold through the rocket, pumpkin and half of the pine nuts."
+      "text": "Heat the remaining oil and the butter in the same frying pan. Add the gnocchi, and fry for 4-5 minutes, or until golden. Add the garlic and cook for 1 minute or until fragrant. Add the white wine and cook for 2 minutes, or until reduced slightly. Add the ricotta, season with salt and pepper and fold through. Remove from the heat. Gently fold through the rocket, pumpkin and half of the pine nuts."
     },
     {
-      "text": "• To serve, divide the gnocchi between plates and season with salt and pepper. Sprinkle with the remaining pine nuts."
+      "text": "To serve, divide the gnocchi between plates and season with salt and pepper. Sprinkle with the remaining pine nuts."
     }
   ]
 }

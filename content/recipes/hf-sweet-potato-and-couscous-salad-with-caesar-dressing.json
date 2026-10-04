@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sweet Potato & Couscous Salad with Caesar Dressing",
   "subtitle": "Pre-Prepped | Three Steps | Ready in 15",
-  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. This week, dish up a speedy roasted sweet potato and couscous salad, topped with a drizzle of Caesar dressing and a sprinkling of hazelnuts for added crunch. \nHeads-up - you'll need a microwave for this recipe.\nThis recipe is under 650kcal per serving.",
+  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. This week, dish up a speedy roasted sweet potato and couscous salad, topped with a drizzle of Caesar dressing and a sprinkling of hazelnuts for added crunch. Heads-up - you'll need a microwave for this recipe. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-potato-and-couscous-salad-with-caesar-dressing-60c6e80907246667310bcf35",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-potato-couscous-salad-50a0263a.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 629,
+    "proteinG": 17.8,
+    "carbsG": 60.5,
+    "fatG": 32.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

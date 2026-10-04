@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Mexican Bean & Roasted Sweet Potato Bowl",
   "subtitle": "with Guac, Charred Corn Salsa & Sour Cream",
-  "description": "They say to eat the rainbow, so we've created this colourful bowl of beans, roasted sweet potatoes, lemony guac and moreish toppings for a wholesome meal everyone will love!\nThis recipe is under 650kcal per serving.",
+  "description": "They say to eat the rainbow, so we've created this colourful bowl of beans, roasted sweet potatoes, lemony guac and moreish toppings for a wholesome meal everyone will love! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-beans-roasted-sweet-potato-bowl-66d6c0ed4857643468f67765",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66d7b9d0b236b2c399e277bc-2f6693d0.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 709,
+    "proteinG": 25.1,
+    "carbsG": 60.7,
+    "fatG": 36.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

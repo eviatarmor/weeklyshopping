@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Seared Tofu & Chilli-Garlic Oil",
   "subtitle": "with Ginger-Soy Veggie Stir-Fry",
-  "description": "With the perfect balance of sweet, salty flavours and garlicky goodness you can take this juicy steak to the next level. Serve with a ginger-soy veggie stir-fry for an Asian-inspired take on a classic meat and veg meal!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "With the perfect balance of sweet, salty flavours and garlicky goodness you can take this juicy steak to the next level. Serve with a ginger-soy veggie stir-fry for an Asian-inspired take on a classic meat and veg meal! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/hellohero-beef-rump-and-chilli-garlic-butter-67f85722cade9b9f0ace5f50",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R25_W51_AUS_edit__Main_high-937c3719.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 325,
+    "proteinG": 19.2,
+    "carbsG": 23.6,
+    "fatG": 17
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56de49cd4dab71f1448b4567.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 550,
+    "proteinG": 24.3,
+    "carbsG": 40.3,
+    "fatG": 29.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -76,10 +82,10 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare ingredients, halve the cherry tomatoes, cut haloumi into 1 cm thick slices and wash the rocket leaves."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare ingredients, halve the cherry tomatoes, cut haloumi into 1 cm thick slices and wash the rocket leaves."
     },
     {
-      "text": "• Using a sharp knife, cut off the four sides of the red capsicum and discard the core. Place the capsicum pieces skin side up on the lined oven tray and brush with half of the olive oil. Season with salt and pepper.",
+      "text": "Using a sharp knife, cut off the four sides of the red capsicum and discard the core. Place the capsicum pieces skin side up on the lined oven tray and brush with half of the olive oil. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56de49cd4dab71f1448b4567/step_56de4cfd21f58.jpg"
     },
     {
@@ -87,17 +93,17 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56de49cd4dab71f1448b4567/step_56de4cfd32cf7.jpg"
     },
     {
-      "text": "• Peel the capsicum skins off and discard. Slice the roasted capsicum into thin strips and combine with the roasted tomatoes. Set aside.",
+      "text": "Peel the capsicum skins off and discard. Slice the roasted capsicum into thin strips and combine with the roasted tomatoes. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56de49cd4dab71f1448b4567/step_56de4cfd590fd.jpg"
     },
     {
-      "text": "• Place the bake-at-home wholemeal burger buns in the oven form 5 minutes or until baked. Remove and halve horizontally."
+      "text": "Place the bake-at-home wholemeal burger buns in the oven form 5 minutes or until baked. Remove and halve horizontally."
     },
     {
-      "text": "• Heat a lightly greased medium frying pan over a medium-high heat. Add the haloumi slices and cook for 1-2 minutes on each side or until golden."
+      "text": "Heat a lightly greased medium frying pan over a medium-high heat. Add the haloumi slices and cook for 1-2 minutes on each side or until golden."
     },
     {
-      "text": "• Fill the burger buns with the haloumi, roasted capsicum and tomatoes, rocket leaves and hummus. Enjoy!"
+      "text": "Fill the burger buns with the haloumi, roasted capsicum and tomatoes, rocket leaves and hummus. Enjoy!"
     }
   ]
 }

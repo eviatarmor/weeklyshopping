@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Crispy Tofu & Curried Egg Noodles",
   "subtitle": "with Veggies & Crispy Shallots",
-  "description": "It's easy to make a curried noodle dish when you have a can of coconut milk, plus our katsu and ginger pastes handy. Top the\nsaucy noodles with tofu that's crisp on the outside and tender on the inside, thanks to a quick cornflour coating.",
+  "description": "It's easy to make a curried noodle dish when you have a can of coconut milk, plus our katsu and ginger pastes handy. Top the saucy noodles with tofu that's crisp on the outside and tender on the inside, thanks to a quick cornflour coating.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/crispy-tofu-and-curried-egg-noodles-62f1b6be467205c7bb0c02ce",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crispy-tofu-curried-egg-noodles-6c28cc5c.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 756,
+    "proteinG": 27.9,
+    "carbsG": 94.8,
+    "fatG": 31.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

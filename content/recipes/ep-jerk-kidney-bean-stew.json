@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF220810_R15_W40_EP_AUS_KB_Main_edit_high-4147ebf3.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 796,
+    "proteinG": 26.2,
+    "carbsG": 102,
+    "fatG": 30.7
+  },
   "tags": [
     "everyplate",
     "creole/cajun",

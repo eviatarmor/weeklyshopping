@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Crumbed Haloumi Burger & Hand-Cut Fries",
   "subtitle": "with Sweet Chilli Aioli",
-  "description": "There’s nothing quite like a golden crumb on a tender haloumi to cheer you up - that’s just simple science. Pop it in a\nburger bun with creamy slaw and sweet chilli aioli, then add hand-cut fries for an unbeatable dinner combo.",
+  "description": "There’s nothing quite like a golden crumb on a tender haloumi to cheer you up - that’s just simple science. Pop it in a burger bun with creamy slaw and sweet chilli aioli, then add hand-cut fries for an unbeatable dinner combo.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/crumbed-haloumi-burger-67f855c74264524ca979599d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1005_W35_AU_R3663-14_MAIN_high-b3de305e.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 897,
+    "proteinG": 33.1,
+    "carbsG": 85.2,
+    "fatG": 44.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

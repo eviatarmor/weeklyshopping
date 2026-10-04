@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-spiced-grilled-gnocchi-capsicum-5b96cc4d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 891,
+    "proteinG": 28.3,
+    "carbsG": 109.4,
+    "fatG": 35.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Caribbean Bean & Coconut Soup",
   "subtitle": "with Chargrilled Capsicums & Roasted Sweet Potato",
-  "description": "Channel the flavours of the Caribbean into a hearty soup with kidney beans and roasted sweet potato.\nChilli, lime, coconut and Caribbean spices bring loads of flavour and tropical vibes.",
+  "description": "Channel the flavours of the Caribbean into a hearty soup with kidney beans and roasted sweet potato. Chilli, lime, coconut and Caribbean spices bring loads of flavour and tropical vibes.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-caribbean-bean-and-coconut-soup-6062c645ca3dff514a70a679",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5e55ccfd43cd1d14df7e94a8-86c9aad2.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 704,
+    "proteinG": 17,
+    "carbsG": 50.6,
+    "fatG": 43.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

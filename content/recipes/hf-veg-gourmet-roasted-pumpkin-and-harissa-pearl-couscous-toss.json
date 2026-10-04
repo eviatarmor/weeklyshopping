@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1038_W35_AU_R43270-3_Main__9high-ddc5e8af.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 637,
+    "proteinG": 23.4,
+    "carbsG": 67.6,
+    "fatG": 29
+  },
   "tags": [
     "hellofresh",
     "middle eastern",

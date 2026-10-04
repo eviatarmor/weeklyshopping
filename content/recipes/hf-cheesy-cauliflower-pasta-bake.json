@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Cauliflower Pasta Bake",
   "subtitle": "with Fresh Thyme & Pear Salad",
-  "description": "Dig into this rich, creamy bake packed with tender cauliflower, al dente pasta and most importantly... a generous scattering of golden cheese! Team with a simple yet satisfying salad for a trio of dishes with something for everyone. \nWe’ve replaced the\ntomato in this recipe\nwith pear due to local\ningredient availability,\nas a result of the recent\nheavy rainfall. It’ll be just\nas delicious, just follow\nyour recipe card!",
+  "description": "Dig into this rich, creamy bake packed with tender cauliflower, al dente pasta and most importantly... a generous scattering of golden cheese! Team with a simple yet satisfying salad for a trio of dishes with something for everyone. We’ve replaced the tomato in this recipe with pear due to local ingredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-loaded-cauliflower-pasta-bake-67f85a1a4264524ca97975e8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1021_W24_AUS_Main__2high-458f795b.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 580,
+    "proteinG": 26.1,
+    "carbsG": 89.8,
+    "fatG": 39.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

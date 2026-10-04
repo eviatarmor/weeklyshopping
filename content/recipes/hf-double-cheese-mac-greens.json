@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Fusilli & Greens",
   "subtitle": "with Garlic-Almond Pangrattato",
-  "description": "Mac ‘n’ cheese is pretty much the best meal ever, but sometimes you want something a bit better for you. Enter this jazzed up\nversion, with loads of greens plus a nutty crumb topping. It’s all the comfort of the classic, with an extra dose of goodness!\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "Mac ‘n’ cheese is pretty much the best meal ever, but sometimes you want something a bit better for you. Enter this jazzed up version, with loads of greens plus a nutty crumb topping. It’s all the comfort of the classic, with an extra dose of goodness! The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/double-cheese-mac-greens-5bf4e63e30006c0e51253012",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/double-cheese-mac-greens-4e15a499.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1127,
+    "proteinG": 48.5,
+    "carbsG": 91.1,
+    "fatG": 60.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Plant-Based & Sticky Onion Burger",
   "subtitle": "with Crisp Green Salad",
-  "description": "Top tonight’s perfectly seasoned plant-based patties with melty Cheddar and sticky caramelised onion... and you’ll be sitting down to a dish that’s a contender for the ‘Best Burger Ever’.\nWe’ve replaced the tomato in this recipe with cucumber due to local\ningredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Top tonight’s perfectly seasoned plant-based patties with melty Cheddar and sticky caramelised onion... and you’ll be sitting down to a dish that’s a contender for the ‘Best Burger Ever’. We’ve replaced the tomato in this recipe with cucumber due to local ingredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-beef-burgers-67f843200d0527cba53a98c2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-beef-burgers-257d32b0-9951813a.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 678,
+    "proteinG": 33.4,
+    "carbsG": 59.4,
+    "fatG": 31.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

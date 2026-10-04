@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Texan Bean & Veggie Rice",
   "subtitle": "with Baby Spinach & Sour Cream",
-  "description": "The Garden Gang is here! Order this meal or this week’s Air Fryer Easy recipe to collect our juicy friend, Terry the Tomato.\nHope you're hungry! This is an extra-big serve. Dig into this bean and veggie-loaded rice bake brimming with smokey spices and cheesy goodness. A generous dollop of sour cream ties all the mouth-watering flavours together for an unforgettable mega meal.",
+  "description": "The Garden Gang is here! Order this meal or this week’s Air Fryer Easy recipe to collect our juicy friend, Terry the Tomato. Hope you're hungry! This is an extra-big serve. Dig into this bean and veggie-loaded rice bake brimming with smokey spices and cheesy goodness. A generous dollop of sour cream ties all the mouth-watering flavours together for an unforgettable mega meal.",
   "sourceUrl": "https://www.everyplate.com.au/recipes/cheesy-texan-bean-and-veggie-rice-65e016ce0501f0f3b91cdc0b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66ac1af966d483a14eecdae4-393443f4.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 914,
+    "proteinG": 46.3,
+    "carbsG": 129.6,
+    "fatG": 16.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

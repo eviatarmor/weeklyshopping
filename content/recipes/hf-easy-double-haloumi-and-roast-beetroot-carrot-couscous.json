@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Honey Haloumi & Roast Beetroot Couscous",
   "subtitle": "with Creamy Pesto Dressing & Flaked Almonds",
-  "description": "Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while\nthe roast veggies crisp up in the oven. Top it all off with a dollop of creamy pesto dressing and some flaked almonds for crunch!",
+  "description": "Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while the roast veggies crisp up in the oven. Top it all off with a dollop of creamy pesto dressing and some flaked almonds for crunch!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-double-haloumi-and-roast-beetroot-carrot-couscous-65b6e3dac06261b8d1677b2f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65b6e3dac06261b8d1677b2f-07624048.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 962,
+    "proteinG": 44.3,
+    "carbsG": 53.6,
+    "fatG": 63.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

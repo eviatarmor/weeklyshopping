@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mediterranean Falafel & Veggie Couscous",
   "subtitle": "with Kalamata Olives & Tartare Dressing",
-  "description": "Have a ball with dinner – a ball of lightly spiced chickpeas blended with parsley and coriander, that is! Yep, we’re talking about\nfalafels! With couscous, herby yoghurt dressing and bright veggies, they make a dinner that's got the lot.",
+  "description": "Have a ball with dinner – a ball of lightly spiced chickpeas blended with parsley and coriander, that is! Yep, we’re talking about falafels! With couscous, herby yoghurt dressing and bright veggies, they make a dinner that's got the lot.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-falafel-and-veggie-couscous-607e5521e4bc5112d348e9d1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-falafel-roast-veggie-couscous-bowl-520c178b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 859,
+    "proteinG": 24.1,
+    "carbsG": 57.6,
+    "fatG": 65
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-bean-veggie-enchiladas-81139800.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 789,
+    "proteinG": 29.4,
+    "carbsG": 87.3,
+    "fatG": 30.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

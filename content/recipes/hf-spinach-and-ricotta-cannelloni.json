@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55cad34d79a23c2d568b4568.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 435,
+    "proteinG": 24.1,
+    "carbsG": 40.6,
+    "fatG": 18.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -99,22 +105,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan forced. Lightly grease a baking dish."
+      "text": "Preheat the oven to 200°C/180°C fan forced. Lightly grease a baking dish."
     },
     {
-      "text": "• To prepare the ingredients, finely chop the baby spinach and brown onion. Zest the lemon, and peel and crush the garlic. Grate the Parmesan cheese and tear the basil leaves."
+      "text": "To prepare the ingredients, finely chop the baby spinach and brown onion. Zest the lemon, and peel and crush the garlic. Grate the Parmesan cheese and tear the basil leaves."
     },
     {
-      "text": "• In a medium bowl combine the ricotta, baby spinach and lemon zest. Finely grate a small amount of the whole nutmeg (a little goes a long way) directly into the same bowl. Season to taste with salt and pepper and set aside."
+      "text": "In a medium bowl combine the ricotta, baby spinach and lemon zest. Finely grate a small amount of the whole nutmeg (a little goes a long way) directly into the same bowl. Season to taste with salt and pepper and set aside."
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for 3 minutes or until soft. Add the garlic and cook for 1 minute or until fragrant. Add the diced tomatoes and cook for 5 minutes or until thickened slightly. Stir through the basil. Season to taste with salt and pepper. Spoon half of the tomato sauce mixture over the base of the baking dish."
+      "text": "Heat the olive oil in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for 3 minutes or until soft. Add the garlic and cook for 1 minute or until fragrant. Add the diced tomatoes and cook for 5 minutes or until thickened slightly. Stir through the basil. Season to taste with salt and pepper. Spoon half of the tomato sauce mixture over the base of the baking dish."
     },
     {
-      "text": "• Place one fresh pasta sheet on a clean flat surface. Spoon some of the ricotta filling down the centre of the sheet and roll into a tube. Place it seam side down in the prepared dish. Repeat with the remaining pasta sheets and filling. Pour the remaining tomato sauce mixture over the cannelloni and sprinkle with the Parmesan cheese. place in the oven and cook for 15 minutes or until the pasta is tender (test with a skewer)."
+      "text": "Place one fresh pasta sheet on a clean flat surface. Spoon some of the ricotta filling down the centre of the sheet and roll into a tube. Place it seam side down in the prepared dish. Repeat with the remaining pasta sheets and filling. Pour the remaining tomato sauce mixture over the cannelloni and sprinkle with the Parmesan cheese. place in the oven and cook for 15 minutes or until the pasta is tender (test with a skewer)."
     },
     {
-      "text": "• To serve, divide the baked cannelloni between plates and serve with the mixed salad leaves dressed with a little olive oil and vinegar of your choice."
+      "text": "To serve, divide the baked cannelloni between plates and serve with the mixed salad leaves dressed with a little olive oil and vinegar of your choice."
     }
   ]
 }

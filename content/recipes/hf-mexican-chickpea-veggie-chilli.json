@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6510e31b197e8b6c2f382983-d0bc4d72.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 931,
+    "proteinG": 34.4,
+    "carbsG": 88,
+    "fatG": 45.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -143,7 +149,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6510e31b197e8b6c2f382983-39b08e84.jpeg"
     },
     {
-      "text": "• Meanwhile, roughly chop coriander.",
+      "text": "Meanwhile, roughly chop coriander.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6510e31b197e8b6c2f382983-79f1e8c3.jpeg"
     },
     {

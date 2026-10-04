@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Miso Corn Fritters & Snow Pea Salad",
   "subtitle": "with Sesame Sweet Potato Fries",
-  "description": "From the crisp fritters and fragrant fries, to the textural treat of a salad and creamy mayo, this plate is\nso full of flavour, you’ll be hard-pressed on what to start eating first.",
+  "description": "From the crisp fritters and fragrant fries, to the textural treat of a salad and creamy mayo, this plate is so full of flavour, you’ll be hard-pressed on what to start eating first.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/miso-corn-fritters-and-snow-pea-salad-618b47290fc98d22f05e6cf8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/miso-corn-fritters-sesame-fries-91c323a5.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 732,
+    "proteinG": 22.6,
+    "carbsG": 91.4,
+    "fatG": 27
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -147,7 +153,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/618b47290fc98d22f05e6cf8/step-89a522ab.jpg"
     },
     {
-      "text": "• While the fries are baking, thinly slice the spring onion. Grate the carrot, then squeeze out any excess moisture with a paper towel. Finely chop the garlic. Slice the apple into thin sticks. Trim the snow peas. Roughly chop the coriander. Thinly slice the red chilli (if using). Drain the sweetcorn.",
+      "text": "While the fries are baking, thinly slice the spring onion. Grate the carrot, then squeeze out any excess moisture with a paper towel. Finely chop the garlic. Slice the apple into thin sticks. Trim the snow peas. Roughly chop the coriander. Thinly slice the red chilli (if using). Drain the sweetcorn.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/618b47290fc98d22f05e6cf8/step-c565c890.jpg"
     },
     {
@@ -159,11 +165,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/618b47290fc98d22f05e6cf8/step-fb64a277.jpg"
     },
     {
-      "text": "• When the fritters are almost done, combine the Japanese dressing, mixed salad leaves, apple and snow peas in a medium bowl. Toss to coat.",
+      "text": "When the fritters are almost done, combine the Japanese dressing, mixed salad leaves, apple and snow peas in a medium bowl. Toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/618b47290fc98d22f05e6cf8/step-214de969.jpg"
     },
     {
-      "text": "• Divide the miso corn fritters, snow pea salad and sesame sweet potato fries between plates. Drizzle the mayonnaise over the fritters to serve.",
+      "text": "Divide the miso corn fritters, snow pea salad and sesame sweet potato fries between plates. Drizzle the mayonnaise over the fritters to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/618b47290fc98d22f05e6cf8/step-3367b29f.jpg"
     }
   ]

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5a6e7951d56afa6c86385642-d168f380.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 844,
+    "proteinG": 29.5,
+    "carbsG": 87.2,
+    "fatG": 36.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -123,19 +129,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **220°C/200°C fan-forced**. Chop the **cauliflower** into small 1 cm pieces. ***TIP:*** Chop the cauliflower small to ensure it cooks in the allocated time. Peel and crush the **garlic**. Transfer the cauliflower and garlic to a medium bowl and **drizzle** with **olive oil**. Add the **salt (use suggested amount)** and a **pinch** of **pepper** and toss to coat. Pick the **coriander** leaves. Slice the **lemon** into wedges. Pick the **coriander** leaves.",
+      "text": "Preheat the oven to **220°C/200°C fan-forced**. Chop the **cauliflower** into small 1 cm pieces. ***TIP:*** Chop the cauliflower small to ensure it cooks in the allocated time. Peel and crush the **garlic**. Transfer the cauliflower and garlic to a medium bowl and **drizzle** with **olive oil**. Add the **salt (use suggested amount)** and a **pinch** of **pepper** and toss to coat. Pick the **coriander** leaves. Slice the **lemon** into wedges. Pick the **coriander** leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-8a974caa.jpg"
     },
     {
-      "text": "• In a medium bowl, combine the **panko breadcrumbs**, **Tex-Mex spice blend** and a **pinch** of **pepper**. In a second medium bowl, crack the **egg** and whisk with a fork.",
+      "text": "In a medium bowl, combine the **panko breadcrumbs**, **Tex-Mex spice blend** and a **pinch** of **pepper**. In a second medium bowl, crack the **egg** and whisk with a fork.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-f3eb804e.jpg"
     },
     {
-      "text": "• Place handfuls of the **cauliflower** pieces into the **whisked egg** and then into the **panko breadcrumb mixture**.  Place the crumbed cauliflower on the oven tray lined with baking paper and set aside. Repeat with the remaining cauliflower. **TIP:** Crumb handfuls of cauliflower at a time to save time!",
+      "text": "Place handfuls of the **cauliflower** pieces into the **whisked egg** and then into the **panko breadcrumb mixture**. Place the crumbed cauliflower on the oven tray lined with baking paper and set aside. Repeat with the remaining cauliflower. **TIP:** Crumb handfuls of cauliflower at a time to save time!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-f60339c8.jpg"
     },
     {
-      "text": "• Drain and rinse the **chickpeas** and pat them dry with paper towel (or a tea towel). ***TIP:*** Patting the chickpeas dry will help them crisp up in the oven. Place the chickpeas on the tray with the cauliflower. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Toss to coat and place in the oven to cook for **15 minutes**, or until the cauliflower is golden.",
+      "text": "Drain and rinse the **chickpeas** and pat them dry with paper towel (or a tea towel). ***TIP:*** Patting the chickpeas dry will help them crisp up in the oven. Place the chickpeas on the tray with the cauliflower. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Toss to coat and place in the oven to cook for **15 minutes**, or until the cauliflower is golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-93e01626.jpg"
     },
     {
@@ -143,7 +149,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-0d1e76ff.jpg"
     },
     {
-      "text": "• Divide the tortillas between plates and top with the **shredded red cabbage**, chickpeas and crispy Mexican cauliflower. Top with a dollop of lemon-chipotle aioli and a sprinkle of coriander. Serve with the remaining lemon wedges on the side. **TIP**:  Fold the base of the taco and roll the sides over so the filling stays inside.",
+      "text": "Divide the tortillas between plates and top with the **shredded red cabbage**, chickpeas and crispy Mexican cauliflower. Top with a dollop of lemon-chipotle aioli and a sprinkle of coriander. Serve with the remaining lemon wedges on the side. **TIP**: Fold the base of the taco and roll the sides over so the filling stays inside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a6e7951d56afa6c86385642/step-05420589.jpg"
     }
   ]

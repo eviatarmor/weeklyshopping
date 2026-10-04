@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Mince & Mushroom Potato Top Pie",
   "subtitle": "with Cheesy Pangrattato & Balsamic Salad",
-  "description": "We always say that cheese fixes everything – not that this dish needs any fixing – it's unlike anything we've ever whipped up\nbefore! With a PB mince and veggie filling, plus umami-rich mushrooms, the mash and cheesy pangrattato topping only makes this meal just that much better!",
+  "description": "We always say that cheese fixes everything – not that this dish needs any fixing – it's unlike anything we've ever whipped up before! With a PB mince and veggie filling, plus umami-rich mushrooms, the mash and cheesy pangrattato topping only makes this meal just that much better!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/bean-plant-based-mince-mushroom-potato-top-pie-63a52011a55b36a89501f1fc",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bean-plant-based-mince-mushroom-potato-top-pie-bf8eee89.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 885,
+    "proteinG": 40.5,
+    "carbsG": 73.9,
+    "fatG": 42.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

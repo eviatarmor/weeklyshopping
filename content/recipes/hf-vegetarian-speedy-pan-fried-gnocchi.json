@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5aa8b16a30006c44fa64df42-c6a39da5.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 624,
+    "proteinG": 24.2,
+    "carbsG": 71.2,
+    "fatG": 25.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,27 +114,27 @@
   ],
   "steps": [
     {
-      "text": "• Finely grate the **Parmesan cheese**. Zest the **lemon** to get a pinch and slice into wedges. Peel and crush the **garlic**. Dice the **zucchini**. Dice the **Roma tomato**.",
+      "text": "Finely grate the **Parmesan cheese**. Zest the **lemon** to get a pinch and slice into wedges. Peel and crush the **garlic**. Dice the **zucchini**. Dice the **Roma tomato**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-13a452c0.jpg"
     },
     {
-      "text": "• Finely chop the **pine nuts** and the **basil** (reserve a few leaves for garnish!). In a medium bowl, combine the **Greek yoghurt**, pine nuts, basil, **Parmesan** and a pinch of **lemon zest**. Season with **black pepper**. Stir and set aside. **TIP:** Use a blender or mortar and pestle for a smoother pesto if you like.",
+      "text": "Finely chop the **pine nuts** and the **basil** (reserve a few leaves for garnish!). In a medium bowl, combine the **Greek yoghurt**, pine nuts, basil, **Parmesan** and a pinch of **lemon zest**. Season with **black pepper**. Stir and set aside. **TIP:** Use a blender or mortar and pestle for a smoother pesto if you like.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-c0c4e476.jpg"
     },
     {
-      "text": "• Heat a **generous drizzle** of **olive oil** in a large frying pan over high heat. Once hot, add the **gnocchi (use suggested amount)** in a single layer and fry for **6-8 minutes**, or until golden. Season with a **pinch** of **salt** and **pepper**. **TIP:**  No need to boil the gnocchi first, it can go straight into the frying pan! **TIP:**  Make sure you don't overcrowd the pan – the gnocchi must be in a single layer to ensure even cooking. **TIP:**  Add **extra oil** if required to prevent sticking.",
+      "text": "Heat a **generous drizzle** of **olive oil** in a large frying pan over high heat. Once hot, add the **gnocchi (use suggested amount)** in a single layer and fry for **6-8 minutes**, or until golden. Season with a **pinch** of **salt** and **pepper**. **TIP:** No need to boil the gnocchi first, it can go straight into the frying pan! **TIP:** Make sure you don't overcrowd the pan – the gnocchi must be in a single layer to ensure even cooking. **TIP:** Add **extra oil** if required to prevent sticking.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-a4fcc943.jpg"
     },
     {
-      "text": "• Add the **garlic** and **zucchini** to the pan and cook for **2-3 minutes**, or until softened and fragrant. Add the **tomato** and cook for **1-2 minutes**, or until warmed through. Remove the pan from the heat and add the **basil pesto** sauce. Toss well to coat the **gnocchi**.",
+      "text": "Add the **garlic** and **zucchini** to the pan and cook for **2-3 minutes**, or until softened and fragrant. Add the **tomato** and cook for **1-2 minutes**, or until warmed through. Remove the pan from the heat and add the **basil pesto** sauce. Toss well to coat the **gnocchi**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-aae71368.jpg"
     },
     {
-      "text": "• While the gnocchi are cooking, combine the **vinegar, honey** and **olive oil (3 tsp for 2 people / 1 1/2 tbs for 4 people)** in a medium bowl. Add the **mixed salad leaves** and toss to coat. **TIP:**  Add the salad leaves just before serving to prevent soggy leaves.",
+      "text": "While the gnocchi are cooking, combine the **vinegar, honey** and **olive oil (3 tsp for 2 people / 1 1/2 tbs for 4 people)** in a medium bowl. Add the **mixed salad leaves** and toss to coat. **TIP:** Add the salad leaves just before serving to prevent soggy leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-d749c765.jpg"
     },
     {
-      "text": "• Divide the gnocchi between bowls. Sprinkle over the **reserved basil leaves**. Serve the salad and lemon wedges on the side.",
+      "text": "Divide the gnocchi between bowls. Sprinkle over the **reserved basil leaves**. Serve the salad and lemon wedges on the side.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5aa8b16a30006c44fa64df42/step-e37861d1.jpg"
     }
   ]

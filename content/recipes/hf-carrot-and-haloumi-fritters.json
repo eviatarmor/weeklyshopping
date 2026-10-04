@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/carrot-haloumi-fritters-5440f2cd.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 770,
+    "proteinG": 28.4,
+    "carbsG": 24.3,
+    "fatG": 61
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -95,22 +101,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 160ºC/140ºC fan-forced. To prepare the ingredients, peel and grate the carrots, lightly whisk the egg, juice the lemon, peel the cucumber into ribbons and pick the mint leaves.",
+      "text": "Preheat the oven to 160ºC/140ºC fan-forced. To prepare the ingredients, peel and grate the carrots, lightly whisk the egg, juice the lemon, peel the cucumber into ribbons and pick the mint leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a02a28e1a0a9b74be62-0-0-e1b294e4.jpg"
     },
     {
-      "text": "• Coarsely grate half of the haloumi using a box grater. Cut the remaining haloumi into 1 cm thick slices and set aside. Squeeze the excess moisture from the carrot, then combine with the grated haloumi, plain flour and egg in a medium bowl. Season with pepper. Form the mixture into round fritters, packing tightly with your hands.",
+      "text": "Coarsely grate half of the haloumi using a box grater. Cut the remaining haloumi into 1 cm thick slices and set aside. Squeeze the excess moisture from the carrot, then combine with the grated haloumi, plain flour and egg in a medium bowl. Season with pepper. Form the mixture into round fritters, packing tightly with your hands.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a02a28e1a0a9b74be62-1-0-692a449b.jpg"
     },
     {
-      "text": "• Heat half the olive oil in a large frying pan over a medium-high heat. Carefully add the fritters and cook for 3-4 minutes on each side, or until golden. Remove them carefully and place on to a lined oven tray. Place in the oven to keep warm. Heat a little olive oil in the same frying pan over a medium-high heat. Add the haloumi slices and cook for 1-2 minutes on each side, or until golden.",
+      "text": "Heat half the olive oil in a large frying pan over a medium-high heat. Carefully add the fritters and cook for 3-4 minutes on each side, or until golden. Remove them carefully and place on to a lined oven tray. Place in the oven to keep warm. Heat a little olive oil in the same frying pan over a medium-high heat. Add the haloumi slices and cook for 1-2 minutes on each side, or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c3a02a28e1a0a9b74be62-2-0-c464745b.jpg"
     },
     {
-      "text": "• Combine the remaining olive oil and the lemon juice with the honey in a small bowl. Combine the baby spinach leaves, cucumber and mint in a large bowl. Drizzle with the lemon dressing."
+      "text": "Combine the remaining olive oil and the lemon juice with the honey in a small bowl. Combine the baby spinach leaves, cucumber and mint in a large bowl. Drizzle with the lemon dressing."
     },
     {
-      "text": "• To serve, divide and stack the fritters and haloumi slices, and serve with the minted cucumber salad and hummus."
+      "text": "To serve, divide and stack the fritters and haloumi slices, and serve with the minted cucumber salad and hummus."
     }
   ]
 }

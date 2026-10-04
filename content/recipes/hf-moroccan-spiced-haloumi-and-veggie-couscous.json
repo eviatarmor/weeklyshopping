@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Moroccan Spiced Haloumi & Veggie Couscous",
   "subtitle": "with Roast Veg, Yoghurt Dressing & Mint",
-  "description": "Bursting with paprika, cumin and turmeric, our chermoula spice blend makes the perfect coating for squeaky, salty haloumi -\nwhich works a treat with the naturally sweet roasted veg and zesty couscous. Bring everything together with a tangy and creamy\nyoghurt dressing and sprinkle of fresh mint for an extra burst of colour and flavour.\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "description": "Bursting with paprika, cumin and turmeric, our chermoula spice blend makes the perfect coating for squeaky, salty haloumi - which works a treat with the naturally sweet roasted veg and zesty couscous. Bring everything together with a tangy and creamy yoghurt dressing and sprinkle of fresh mint for an extra burst of colour and flavour. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/moroccan-spiced-haloumi-and-veggie-couscous-61e7668a8cbe7f2d7f36dd96",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/zaatar-haloumi-couscous-7a243985.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 684,
+    "proteinG": 30.5,
+    "carbsG": 66.6,
+    "fatG": 29.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

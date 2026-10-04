@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-bean-capsicum-chilli-avo-crema-c99c848b.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1033,
+    "proteinG": 30.4,
+    "carbsG": 81.9,
+    "fatG": 61.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

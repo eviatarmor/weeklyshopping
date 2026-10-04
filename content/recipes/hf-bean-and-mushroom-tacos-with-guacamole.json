@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/560b8308fd2cb917288b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 717,
+    "proteinG": 23.1,
+    "carbsG": 85,
+    "fatG": 26.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -115,22 +121,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely chop the chilli (deseeded) and coriander. Finely slice the red onion and mushrooms, and finely shred the red cabbage. Shuck the corn and remove the kernels. Juice the lemon. Drain and rinse the red kidney beans."
+      "text": "To prepare the ingredients, finely chop the chilli (deseeded) and coriander. Finely slice the red onion and mushrooms, and finely shred the red cabbage. Shuck the corn and remove the kernels. Juice the lemon. Drain and rinse the red kidney beans."
     },
     {
-      "text": "• In a small bowl, mash the avocado with a fork and stir through the birdseye chilli, half of the lemon juice and a pinch of salt. Set aside."
+      "text": "In a small bowl, mash the avocado with a fork and stir through the birdseye chilli, half of the lemon juice and a pinch of salt. Set aside."
     },
     {
-      "text": "• In a separate small bowl combine the corn kernels, coriander, a third of the red onion and the remaining lemon juice. Set aside."
+      "text": "In a separate small bowl combine the corn kernels, coriander, a third of the red onion and the remaining lemon juice. Set aside."
     },
     {
-      "text": "• In a medium frying pan heat the olive oil over a medium-high heat. Add the remaining red onion and cook, stirring, for 3 minutes or until softened. Add the mushrooms and cook, stirring, for 4-5 minutes or until softened. Add the Mexican spice mix and red kidney beans and cook stirring for 1 minute or until the seasoning is fragrant and the mushrooms and beans are well coated."
+      "text": "In a medium frying pan heat the olive oil over a medium-high heat. Add the remaining red onion and cook, stirring, for 3 minutes or until softened. Add the mushrooms and cook, stirring, for 4-5 minutes or until softened. Add the Mexican spice mix and red kidney beans and cook stirring for 1 minute or until the seasoning is fragrant and the mushrooms and beans are well coated."
     },
     {
-      "text": "• Wrap the mini white corn tortillas loosely in foil and place in the oven for 5 minutes to heat up."
+      "text": "Wrap the mini white corn tortillas loosely in foil and place in the oven for 5 minutes to heat up."
     },
     {
-      "text": "• Serve up the warm tortillas, Mexican spiced beans and mushrooms, corn salsa, red cabbage and guacamole and let everyone create their own sizzling taco masterpiece. If you like heat, drizzle with some Tapatio hot sauce."
+      "text": "Serve up the warm tortillas, Mexican spiced beans and mushrooms, corn salsa, red cabbage and guacamole and let everyone create their own sizzling taco masterpiece. If you like heat, drizzle with some Tapatio hot sauce."
     }
   ]
 }

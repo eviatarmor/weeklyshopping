@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/677f5db306ac089a9b2abd50-d721e64e-53f79b98.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 943,
+    "proteinG": 44.8,
+    "carbsG": 60.1,
+    "fatG": 57.7
+  },
   "tags": [
     "everyplate",
     "mediterranean",

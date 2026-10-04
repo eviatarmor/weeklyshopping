@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bbq-spiced-haloumi-charred-corn-salad-96347aaa.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 629,
+    "proteinG": 24.9,
+    "carbsG": 41.5,
+    "fatG": 39
+  },
   "tags": [
     "vegetarian",
     "everyplate",

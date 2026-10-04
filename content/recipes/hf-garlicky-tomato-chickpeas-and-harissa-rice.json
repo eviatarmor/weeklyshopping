@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Garlicky Tomato Chickpeas & Harissa Rice",
   "subtitle": "with Salad & Fetta-Yoghurt Sauce",
-  "description": "In this vibrant veggie dish, hearty chickpeas and sweet grated carrot soak up the garlic and herb tomato sauce like a treat.\nThe mildy spiced harissa rice boasts the perfect balance of sweet and smoky flavours, and the fetta-yoghurt brings everything\ntogether, providing creaminess and tang. Don't forget the sprinkle of roasted almonds for some crunch!\nUnfortunately, this week's black beans were in short supply, so we've replaced them with chickpeas. Don't worry, the recipe will be just as delicious!",
+  "description": "In this vibrant veggie dish, hearty chickpeas and sweet grated carrot soak up the garlic and herb tomato sauce like a treat. The mildy spiced harissa rice boasts the perfect balance of sweet and smoky flavours, and the fetta-yoghurt brings everything together, providing creaminess and tang. Don't forget the sprinkle of roasted almonds for some crunch! Unfortunately, this week's black beans were in short supply, so we've replaced them with chickpeas. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/garlicky-tomato-chickpeas-and-harissa-rice-61dd0f20219d460794245011",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlicky-tomato-chickpeas-harissa-rice-b8491d59.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 858,
+    "proteinG": 24.9,
+    "carbsG": 101.6,
+    "fatG": 35.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

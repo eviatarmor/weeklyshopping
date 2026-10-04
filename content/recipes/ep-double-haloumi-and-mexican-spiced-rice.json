@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Haloumi & Mexican Spiced Rice",
   "subtitle": "with Cucumber Salsa & Garlic Aioli",
-  "description": "A bed of garlicky, fiery rice is a stellar accompaniment to a pile of rich and sticky haloumi. Complete this mouthwatering dish with a refreshing and zingy salsa! \nWe’ve replaced the smokey aioli in this recipe with garlic aioli due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "A bed of garlicky, fiery rice is a stellar accompaniment to a pile of rich and sticky haloumi. Complete this mouthwatering dish with a refreshing and zingy salsa! We’ve replaced the smokey aioli in this recipe with garlic aioli due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/double-haloumi-and-mexican-spiced-rice-65bb47c823af27a6dfb312af",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65bb47c823af27a6dfb312af-e58d7d19.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 1071,
+    "proteinG": 41,
+    "carbsG": 77.2,
+    "fatG": 66.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -117,7 +123,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65bb47c823af27a6dfb312af-d2c20f58.jpeg"
     },
     {
-      "text": "• Divide spiced rice between bowls. Top with haloumi and cucumber salsa. Drizzle with garlic aioli.",
+      "text": "Divide spiced rice between bowls. Top with haloumi and cucumber salsa. Drizzle with garlic aioli.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65bb47c823af27a6dfb312af-5ff2edf0.jpeg"
     }
   ]

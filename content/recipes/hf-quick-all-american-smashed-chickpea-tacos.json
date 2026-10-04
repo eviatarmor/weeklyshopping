@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick All-American Smashed Chickpea Tacos",
   "subtitle": "with Naked Slaw & Jalapeño-Corn Salsa",
-  "description": "With their mild nutty flavour, hearty chickpeas stand up well to the cumin, mustard and paprika in our All-American spice\nblend for a fun taco filling. While the chickpea mixture is cooking, whip up the simple slaw - complete with plant based\naioli for some creaminess.\nThis recipe is under 650kcal per serving.",
+  "description": "With their mild nutty flavour, hearty chickpeas stand up well to the cumin, mustard and paprika in our All-American spice blend for a fun taco filling. While the chickpea mixture is cooking, whip up the simple slaw - complete with plant based aioli for some creaminess. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-all-american-smashed-chickpea-tacos-63d9093f40fa258a6f0d2ae9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/american-style-smashed-chickpea-tacos-322b9547.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 635,
+    "proteinG": 20.1,
+    "carbsG": 81.2,
+    "fatG": 35.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

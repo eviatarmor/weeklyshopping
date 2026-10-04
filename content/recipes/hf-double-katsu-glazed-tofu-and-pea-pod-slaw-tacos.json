@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/double-katsu-glazed-tofu-tacos-aioli-slaw-53f9cbe4.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 971,
+    "proteinG": 42.2,
+    "carbsG": 71.5,
+    "fatG": 58.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -114,7 +120,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/646c8e3232e326ce2f074a3f/step-d4d61fe7.jpg"
     },
     {
-      "text": "• In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
+      "text": "In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/646c8e3232e326ce2f074a3f/step-b1c0d17d.jpg"
     },
     {

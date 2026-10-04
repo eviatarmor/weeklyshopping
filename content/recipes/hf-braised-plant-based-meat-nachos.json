@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Braised Plant-Based 'Meat' Nachos",
   "subtitle": "with Charred Corn Salsa & Plant Based Cheddar Cheese",
-  "description": "It’s easy to whip up a crowd-pleasing nachos when you have our slow braised plant-based ‘meat’. Start with a base of crispy oven baked\ntortilla chips and layer with all the Tex-Mex classics including Cheddar cheese and smokey aioli - both plant-based of course!",
+  "description": "It’s easy to whip up a crowd-pleasing nachos when you have our slow braised plant-based ‘meat’. Start with a base of crispy oven baked tortilla chips and layer with all the Tex-Mex classics including Cheddar cheese and smokey aioli - both plant-based of course!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/braised-plant-based-meat-nachos-634909879e2b532bf9067d27",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/braised-plant-based-meat-nachos-91a4445d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 827,
+    "proteinG": 21.2,
+    "carbsG": 79.8,
+    "fatG": 54.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -120,11 +126,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634909879e2b532bf9067d27/step-0fe9a9e8.jpg"
     },
     {
-      "text": "• Heat a large frying pan over a high heat. Add the sweetcorn and cook until lightly browned, 4-5 minutes. TIP: Cover the pan with a lid if the kernels are jumping out. Set aside in a medium bowl.",
+      "text": "Heat a large frying pan over a high heat. Add the sweetcorn and cook until lightly browned, 4-5 minutes. TIP: Cover the pan with a lid if the kernels are jumping out. Set aside in a medium bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634909879e2b532bf9067d27/step-bd594911.jpg"
     },
     {
-      "text": "• Place the tortilla chips in a single layer on a lined oven tray. Drizzle (or spray) with olive oil, season with a pinch of salt and pepper and toss to coat. Bake until golden, 8-10 minutes. TIP: If the tortilla chips don't fit in one layer, spread them over two oven trays.",
+      "text": "Place the tortilla chips in a single layer on a lined oven tray. Drizzle (or spray) with olive oil, season with a pinch of salt and pepper and toss to coat. Bake until golden, 8-10 minutes. TIP: If the tortilla chips don't fit in one layer, spread them over two oven trays.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634909879e2b532bf9067d27/step-1abc8c36.jpg"
     },
     {
@@ -132,7 +138,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634909879e2b532bf9067d27/step-e579a9ee.jpg"
     },
     {
-      "text": "• To the bowl with the corn, add cucumber, a drizzle of white wine vinegar and a drizzle of olive oil and toss to combine. Season to taste.",
+      "text": "To the bowl with the corn, add cucumber, a drizzle of white wine vinegar and a drizzle of olive oil and toss to combine. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/634909879e2b532bf9067d27/step-0fa441d8.jpg"
     },
     {

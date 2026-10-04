@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/baked-mushroom-risotto-4b9a35ee.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 621,
+    "proteinG": 16.7,
+    "carbsG": 82.3,
+    "fatG": 24.1
+  },
   "tags": [
     "vegetarian",
     "everyplate",

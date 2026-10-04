@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-veggie-haloumi-ribollita-81334712.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 994,
+    "proteinG": 39.4,
+    "carbsG": 82.6,
+    "fatG": 52.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -139,7 +145,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c59f812c0d87fb40aba5e/step-b7813c9a.jpg"
     },
     {
-      "text": "• Spread tortilla strips evenly on a lined oven tray (don’t worry if they overlap) and brush or spread with garlic oil. Season. Bake until golden, 10-12 minutes. TIP: If your tray is crowded, toss the tortilla strips halfway through baking.",
+      "text": "Spread tortilla strips evenly on a lined oven tray (don’t worry if they overlap) and brush or spread with garlic oil. Season. Bake until golden, 10-12 minutes. TIP: If your tray is crowded, toss the tortilla strips halfway through baking.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c59f812c0d87fb40aba5e/step-7f4bae17.jpg"
     },
     {

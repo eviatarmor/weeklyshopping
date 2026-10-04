@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y25_R4019_W31_AU_EP15683-8_Main_R_high-fbe3f0e2.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 699,
+    "proteinG": 12.6,
+    "carbsG": 86.7,
+    "fatG": 32.9
+  },
   "tags": [
     "everyplate",
     "japanese",

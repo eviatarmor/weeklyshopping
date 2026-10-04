@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55acaa384dab7106638b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 789,
+    "proteinG": 22.1,
+    "carbsG": 76.3,
+    "fatG": 41
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -104,19 +110,19 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, trim and diagonally slice the snow peas. Finely slice the carrot (into discs) and the long chilli. Halve the puffed tofu. Tear the thai basil leaves and pick the coriander leaves. Lastly, cut the lime into wedges."
+      "text": "To prepare the ingredients, trim and diagonally slice the snow peas. Finely slice the carrot (into discs) and the long chilli. Halve the puffed tofu. Tear the thai basil leaves and pick the coriander leaves. Lastly, cut the lime into wedges."
     },
     {
-      "text": "• Bring a large saucepan of boiling water to the boil. Add the rice stick noodles and cook according to the packet directions. Drain and rinse under cold water."
+      "text": "Bring a large saucepan of boiling water to the boil. Add the rice stick noodles and cook according to the packet directions. Drain and rinse under cold water."
     },
     {
-      "text": "• Meanwhile, heat a wok over a medium-high heat. Cook the vegan laksa paste, stirring, for 1 minute or until fragrant. Stir in the light coconut milk, vegetable stock, and hot water. Bring to the boil. Reduce heat to medium- low and simmer for 5 minutes, stirring occasionally. Add the snow peas, carrot and puffed tofu. Simmer for 1-2 minutes, or until the vegetables are just tender (but still a bit crunchy)."
+      "text": "Meanwhile, heat a wok over a medium-high heat. Cook the vegan laksa paste, stirring, for 1 minute or until fragrant. Stir in the light coconut milk, vegetable stock, and hot water. Bring to the boil. Reduce heat to medium- low and simmer for 5 minutes, stirring occasionally. Add the snow peas, carrot and puffed tofu. Simmer for 1-2 minutes, or until the vegetables are just tender (but still a bit crunchy)."
     },
     {
-      "text": "• Divide the noodles between bowls and ladle the hot soup over the noodles, dividing the vegetables and tofu evenly."
+      "text": "Divide the noodles between bowls and ladle the hot soup over the noodles, dividing the vegetables and tofu evenly."
     },
     {
-      "text": "• To serve, top with the fresh long red chilli, thai basil, coriander leaves, and the lime wedges."
+      "text": "To serve, top with the fresh long red chilli, thai basil, coriander leaves, and the lime wedges."
     }
   ]
 }

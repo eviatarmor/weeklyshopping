@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Loaded Spiced Wedges",
   "subtitle": "with Caramelised Onion & Mashed Avocado",
-  "description": "It’s time to move wedges from the side to the main part of your plate! To make it work, we enlisted a few flavour-packed helping\n– tomato, corn, caramelised onion chutney and avocado, plus a scattering of melted cheese. Dig in!",
+  "description": "It’s time to move wedges from the side to the main part of your plate! To make it work, we enlisted a few flavour-packed helping – tomato, corn, caramelised onion chutney and avocado, plus a scattering of melted cheese. Dig in!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/loaded-spiced-wedges-603c1cac2bc47b4bb91c77a1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/loaded-spiced-wedges-3e00867c.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 894,
+    "proteinG": 32,
+    "carbsG": 90.2,
+    "fatG": 38.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

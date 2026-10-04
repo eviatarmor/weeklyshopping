@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-corn-salsa-cc625052.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 775,
+    "proteinG": 28.1,
+    "carbsG": 73.8,
+    "fatG": 39.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",

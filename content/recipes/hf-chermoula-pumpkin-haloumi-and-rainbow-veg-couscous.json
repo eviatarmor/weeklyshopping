@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a048c00ac954f02b194b7f-e0e11fb5-b194fff1.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 967,
+    "proteinG": 35.4,
+    "carbsG": 69.7,
+    "fatG": 60.7
+  },
   "tags": [
     "hellofresh",
     "south american",

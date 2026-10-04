@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "American Veggie & Bean Enchiladas",
   "subtitle": "with Corn Salad",
-  "description": "Enchiladas – what could be more fun? Make a tasty bean filling, roll it up in soft flour wraps and then top the whole thing off with\nmelted cheesy goodness. With a crisp side salad, this vego meal is a winner.\ncucumber not available due to weather",
+  "description": "Enchiladas – what could be more fun? Make a tasty bean filling, roll it up in soft flour wraps and then top the whole thing off with melted cheesy goodness. With a crisp side salad, this vego meal is a winner. cucumber not available due to weather",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-bean-enchiladas-57df6b1331c0a2b6508b4569",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-bean-enchiladas-cc05b1e7.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 910,
+    "proteinG": 30.1,
+    "carbsG": 87.8,
+    "fatG": 43.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67ce94d46a498293bec85abd-7db720a9.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 818,
+    "proteinG": 36.6,
+    "carbsG": 96.4,
+    "fatG": 29
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -140,11 +146,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67ce94d46a498293bec85abd-9215cdef.jpeg"
     },
     {
-      "text": "• Sprinkle Cheddar cheese over the bean mixture. Cover with a lid or foil and cook until the cheese has melted, 1-2 minutes.",
+      "text": "Sprinkle Cheddar cheese over the bean mixture. Cover with a lid or foil and cook until the cheese has melted, 1-2 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67ce94d46a498293bec85abd-0f87f565.jpeg"
     },
     {
-      "text": "• While the cheese is melting, roughly chop coriander.",
+      "text": "While the cheese is melting, roughly chop coriander.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67ce94d46a498293bec85abd-f96a2ea8.jpeg"
     },
     {

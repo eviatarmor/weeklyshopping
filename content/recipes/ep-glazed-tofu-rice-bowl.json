@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/glazed-tofu-rice-bowl-45daae50.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 752,
+    "proteinG": 33.8,
+    "carbsG": 88.1,
+    "fatG": 25.5
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -146,7 +152,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63114ba901acc95ba20f4944/step-bca51565.jpg"
     },
     {
-      "text": "• Divide rice, tofu, Asian greens, corn and carrot between bowls.\n• Spoon over any glaze from  pan.",
+      "text": "• Divide rice, tofu, Asian greens, corn and carrot between bowls.\n• Spoon over any glaze from pan.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63114ba901acc95ba20f4944/step-c16a16e5.jpg"
     }
   ]

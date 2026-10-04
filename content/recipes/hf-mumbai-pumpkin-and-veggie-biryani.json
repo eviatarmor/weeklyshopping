@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67847710f2efe8ce60991658-12bf0bf4.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 666,
+    "proteinG": 20.2,
+    "carbsG": 116.4,
+    "fatG": 13
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -123,7 +129,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a9a3c567a4f34c14b7e3ce-52bfd13e.jpeg"
     },
     {
-      "text": "• Once biryani has finished cooking, stir through baby spinach leaves until wilted. Season to taste.",
+      "text": "Once biryani has finished cooking, stir through baby spinach leaves until wilted. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a9a3c567a4f34c14b7e3ce-bbd1aef1.jpeg"
     },
     {

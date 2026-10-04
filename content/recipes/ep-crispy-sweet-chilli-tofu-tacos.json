@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crispy-sweet-chilli-tofu-tacos-92477b98.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 688,
+    "proteinG": 27.2,
+    "carbsG": 62.4,
+    "fatG": 33.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",

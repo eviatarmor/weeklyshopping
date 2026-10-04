@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64b5fb124c7af7ea302e0ac1-80607bca.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 840,
+    "proteinG": 30.8,
+    "carbsG": 76.4,
+    "fatG": 44.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -120,7 +126,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64b5fb124c7af7ea302e0ac1-174db9a7.jpeg"
     },
     {
-      "text": "• Meanwhile, halve plant-based burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
+      "text": "Meanwhile, halve plant-based burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64b5fb124c7af7ea302e0ac1-47991b23.jpeg"
     },
     {

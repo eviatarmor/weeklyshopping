@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/double-spiced-haloumi-tacos-e308d27f.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 940,
+    "proteinG": 45.5,
+    "carbsG": 48,
+    "fatG": 62.1
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -88,11 +94,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6413e24a3b0ed0d97402f370/step-09c5f685.jpg"
     },
     {
-      "text": "• Meanwhile, microwave flour tortillas for 10 second bursts, until warmed through.",
+      "text": "Meanwhile, microwave flour tortillas for 10 second bursts, until warmed through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6413e24a3b0ed0d97402f370/step-4051af90.jpg"
     },
     {
-      "text": "• Fill tortillas with salad leaves, honey-sesame haloumi, tomato and cucumber yoghurt.",
+      "text": "Fill tortillas with salad leaves, honey-sesame haloumi, tomato and cucumber yoghurt.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6413e24a3b0ed0d97402f370/step-738c1666.jpg"
     }
   ]

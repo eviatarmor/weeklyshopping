@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-middle-eastern-roast-veggies-f4357305-d5901f97.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 752,
+    "proteinG": 27.2,
+    "carbsG": 53.5,
+    "fatG": 44.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

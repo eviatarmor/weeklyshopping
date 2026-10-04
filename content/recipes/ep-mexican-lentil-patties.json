@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-lentil-patties-13eaeaea.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 613,
+    "proteinG": 21,
+    "carbsG": 74.4,
+    "fatG": 22
+  },
   "tags": [
     "vegetarian",
     "everyplate",

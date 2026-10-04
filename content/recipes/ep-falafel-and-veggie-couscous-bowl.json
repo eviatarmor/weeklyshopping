@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Falafel & Veggie Couscous Bowl",
   "subtitle": "with Lemon Yoghurt Sauce",
-  "description": "Couscous, roast veggies and falafel topped with a dollop of garlic yoghurt make this flavoursome all-rounder a winning dish.\nKeep an eye out...\nDue to recent sourcing challenges, we’ve swapped zucchini for sweetcorn, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
+  "description": "Couscous, roast veggies and falafel topped with a dollop of garlic yoghurt make this flavoursome all-rounder a winning dish. Keep an eye out... Due to recent sourcing challenges, we’ve swapped zucchini for sweetcorn, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
   "sourceUrl": "https://www.everyplate.com.au/recipes/falafel-and-veggie-couscous-bowl-62738150d09888e7d806d456",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-veggie-couscous-bowl-cafe9a66.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 848,
+    "proteinG": 24.3,
+    "carbsG": 82.9,
+    "fatG": 43
+  },
   "tags": [
     "vegetarian",
     "everyplate",

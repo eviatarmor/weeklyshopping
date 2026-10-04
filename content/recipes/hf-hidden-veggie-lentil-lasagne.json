@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/674cd956a0d670a6c9690a67-d9dfd6e0.jpeg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 400,
+    "proteinG": 37.7,
+    "carbsG": 95.1,
+    "fatG": 20.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -155,11 +161,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd956a0d670a6c9690a67-7750a798.jpeg"
     },
     {
-      "text": "• When the lasagne has 5 minutes remaining, combine mixed salad leaves, a drizzle of balsamic vinegar and olive oil in a medium bowl. Season to taste. Little cooks: Take the lead by tossing the salad.",
+      "text": "When the lasagne has 5 minutes remaining, combine mixed salad leaves, a drizzle of balsamic vinegar and olive oil in a medium bowl. Season to taste. Little cooks: Take the lead by tossing the salad.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd956a0d670a6c9690a67-0ea36bbf.jpeg"
     },
     {
-      "text": "• Divide lentil and hidden veggie lasagne between plates. Serve with mixed leaf salad. Enjoy!",
+      "text": "Divide lentil and hidden veggie lasagne between plates. Serve with mixed leaf salad. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-674cd956a0d670a6c9690a67-93044599.jpeg"
     }
   ]

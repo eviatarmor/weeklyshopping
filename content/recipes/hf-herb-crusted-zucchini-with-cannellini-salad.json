@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55dd5d74f8b25eaf208b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 356,
+    "proteinG": 17.1,
+    "carbsG": 24.8,
+    "fatG": 18.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -98,22 +104,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced.To prepare the ingredients, zest and juice the lemon. Finely slice the red onion, finely grate the Parmesan cheese and finely chop the parsley. Halve the cherry tomatoes and zucchini (lengthways). Drain and rinse the cannellini beans."
+      "text": "Preheat the oven to 200°C/180°C fan-forced.To prepare the ingredients, zest and juice the lemon. Finely slice the red onion, finely grate the Parmesan cheese and finely chop the parsley. Halve the cherry tomatoes and zucchini (lengthways). Drain and rinse the cannellini beans."
     },
     {
-      "text": "• Combine the lemon juice and a drizzle of olive oil in a small bowl. Add the red onion and set aside until ready to use (this process softens the texture and flavour of the onion)."
+      "text": "Combine the lemon juice and a drizzle of olive oil in a small bowl. Add the red onion and set aside until ready to use (this process softens the texture and flavour of the onion)."
     },
     {
-      "text": "• Combine the panko breadcrumbs, lemon zest, Parmesan cheese, olive oil, and the parsley in a small bowl. Season with salt and pepper."
+      "text": "Combine the panko breadcrumbs, lemon zest, Parmesan cheese, olive oil, and the parsley in a small bowl. Season with salt and pepper."
     },
     {
-      "text": "• Place the zucchini cut side up on a prepared oven tray. Lightly brush or spray with olive oil and season with a little salt. Spoon the breadcrumb mixture onto the zucchini and gently press to adhere. Cover loosely with foil and cook in the oven for 20 minutes. Remove the foil and cook for a further 15 minutes or until the crust is toasted and golden and the zucchini is tender."
+      "text": "Place the zucchini cut side up on a prepared oven tray. Lightly brush or spray with olive oil and season with a little salt. Spoon the breadcrumb mixture onto the zucchini and gently press to adhere. Cover loosely with foil and cook in the oven for 20 minutes. Remove the foil and cook for a further 15 minutes or until the crust is toasted and golden and the zucchini is tender."
     },
     {
-      "text": "• Meanwhile, combine the cherry tomatoes, cannellini beans, rocket, walnuts, and red onion with its soaking juices in a medium bowl. Drizzle with a good glug of olive oil and season with salt and pepper."
+      "text": "Meanwhile, combine the cherry tomatoes, cannellini beans, rocket, walnuts, and red onion with its soaking juices in a medium bowl. Drizzle with a good glug of olive oil and season with salt and pepper."
     },
     {
-      "text": "• To serve, divide the cannellini bean salad and crusted zucchini between plates."
+      "text": "To serve, divide the cannellini bean salad and crusted zucchini between plates."
     }
   ]
 }

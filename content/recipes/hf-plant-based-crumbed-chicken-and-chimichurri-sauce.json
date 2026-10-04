@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Crumbed Chick'n & Fetta-Capsicum Salad",
   "subtitle": "with Sweet Potato Fries & Smokey Aioli",
-  "description": "Level up your average plant-based crumbed chick'n with our classic smokey aioli. Add some crispy sweet potato fries and a capsicum salad and you'll definitely being doing a happy dance with this one!\nThis recipe is under 650kcal per serving.\nWe’ve replaced the\nchimichurri sauce in this\nrecipe with smokey aioli\ndue to local ingredient\navailability. It’ll be just as\ndelicious, just follow your\nrecipe card!",
+  "description": "Level up your average plant-based crumbed chick'n with our classic smokey aioli. Add some crispy sweet potato fries and a capsicum salad and you'll definitely being doing a happy dance with this one! This recipe is under 650kcal per serving. We’ve replaced the chimichurri sauce in this recipe with smokey aioli due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/beef-rump-and-chimichurri-sauce-67f868220d0527cba53b6a99",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1018_W23_AUS_Main_high-256e1f0d.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 566,
+    "proteinG": 24,
+    "carbsG": 51.9,
+    "fatG": 27.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

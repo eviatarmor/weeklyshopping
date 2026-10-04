@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Smokey Roast Pumpkin & Garlic Rice",
   "subtitle": "with Pre-Prepped Mustard Slaw, Chimichurri & Plant-Based Smokey Aioli",
-  "description": "Roasted with a healthy sprinkle of our Nan's special seasoning, tonight's hearty pumpkin boasts the perfect balance of flavours. The\nfragrant and fluffy garlic rice makes a welcome addition, while the herby chimichurri and radish salsa, makes the dish sing.",
+  "description": "Roasted with a healthy sprinkle of our Nan's special seasoning, tonight's hearty pumpkin boasts the perfect balance of flavours. The fragrant and fluffy garlic rice makes a welcome addition, while the herby chimichurri and radish salsa, makes the dish sing.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/smokey-roast-pumpkin-and-garlic-rice-64ec3d53b9acdcbab3495b0f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64ec3d53b9acdcbab3495b0f-fc0512d6.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 830,
+    "proteinG": 14.9,
+    "carbsG": 89.5,
+    "fatG": 44.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -120,7 +126,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64ec3d53b9acdcbab3495b0f-745dedaa.jpeg"
     },
     {
-      "text": "• While the rice is cooking, in a medium bowl, combine deluxe slaw mix and mustard cider dressing. Season.",
+      "text": "While the rice is cooking, in a medium bowl, combine deluxe slaw mix and mustard cider dressing. Season.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64ec3d53b9acdcbab3495b0f-c4e41060.jpeg"
     },
     {

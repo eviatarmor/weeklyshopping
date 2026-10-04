@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sundried-tomato-mushroom-parmesan-spaghetti-4c92b73c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 865,
+    "proteinG": 27.4,
+    "carbsG": 98.1,
+    "fatG": 39.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -126,7 +132,7 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 240°C/220°C fan-forced. Bring a medium saucepan of salted water to the boil. Halve the cherry tomatoes. In a medium bowl, combine the balsamic vinegar, brown sugar and cherry tomatoes. Transfer the cherry tomatoes to an oven tray lined with baking paper and roast until caramelised, 20-25 minutes.",
+      "text": "Preheat the oven to 240°C/220°C fan-forced. Bring a medium saucepan of salted water to the boil. Halve the cherry tomatoes. In a medium bowl, combine the balsamic vinegar, brown sugar and cherry tomatoes. Transfer the cherry tomatoes to an oven tray lined with baking paper and roast until caramelised, 20-25 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-067608f5.jpg"
     },
     {
@@ -134,11 +140,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-4b7aa4cd.jpg"
     },
     {
-      "text": "• While the pasta is cooking, finely chop the garlic (or use a garlic press). In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Add the panko breadcrumbs (see ingredients list) and cook, tossing, until toasted, 2-3 minutes. Add 1/3 of the garlic and cook until fragrant, 1 minute. Transfer to a small bowl and season with salt.",
+      "text": "While the pasta is cooking, finely chop the garlic (or use a garlic press). In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Add the panko breadcrumbs (see ingredients list) and cook, tossing, until toasted, 2-3 minutes. Add 1/3 of the garlic and cook until fragrant, 1 minute. Transfer to a small bowl and season with salt.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-52917d60.jpg"
     },
     {
-      "text": "• Return the frying pan to a medium-high heat with a drizzle of olive oil. Add the sliced mushrooms and butter and cook until browned, 4-5 minutes. Add the garlic & herb seasoning and the remaining garlic and cook until fragrant, 1 minute. Add the light thickened cream, some reserved pasta water (1/4 cup for 2 people / 1/2 cup for 4 people), the crumbled vegetable stock (1 cube for 2 people / 2 cubes for 4 people) and the grated Parmesan cheese. Stir to combine, then simmer until reduced slightly, 1-2 minutes.",
+      "text": "Return the frying pan to a medium-high heat with a drizzle of olive oil. Add the sliced mushrooms and butter and cook until browned, 4-5 minutes. Add the garlic & herb seasoning and the remaining garlic and cook until fragrant, 1 minute. Add the light thickened cream, some reserved pasta water (1/4 cup for 2 people / 1/2 cup for 4 people), the crumbled vegetable stock (1 cube for 2 people / 2 cubes for 4 people) and the grated Parmesan cheese. Stir to combine, then simmer until reduced slightly, 1-2 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-818757ce.jpg"
     },
     {
@@ -146,7 +152,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-07b47b92.jpg"
     },
     {
-      "text": "• Divide the creamy mushroom and tomato spaghetti between bowls. Top with the garlic pangrattato and basil.",
+      "text": "Divide the creamy mushroom and tomato spaghetti between bowls. Top with the garlic pangrattato and basil.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a39e2ffd56afa43e6052ac2/step-69db2da9.jpg"
     }
   ]

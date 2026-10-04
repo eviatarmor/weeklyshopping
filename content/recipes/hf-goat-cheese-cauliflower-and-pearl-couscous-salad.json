@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5da65c31ab002f6aa917341a-0bc04560.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 524,
+    "proteinG": 18,
+    "carbsG": 66.8,
+    "fatG": 18
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -115,15 +121,15 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5da65c31ab002f6aa917341a/step-3d281a0c.jpg"
     },
     {
-      "text": "• Place the cauliflower, sweet potato, onion, Souk Market spice blend, a drizzle of oil from the marinated goat cheese tub and a generous pinch of salt and pepper on an oven tray lined with baking paper. Toss to combine, then roast until tender, 20-25 minutes. Remove from the oven and set aside to cool slightly.",
+      "text": "Place the cauliflower, sweet potato, onion, Souk Market spice blend, a drizzle of oil from the marinated goat cheese tub and a generous pinch of salt and pepper on an oven tray lined with baking paper. Toss to combine, then roast until tender, 20-25 minutes. Remove from the oven and set aside to cool slightly.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5da65c31ab002f6aa917341a/step-81e6523c.jpg"
     },
     {
-      "text": "• While the veggies are roasting, heat drizzle of olive oil in a medium saucepan over a medium-high heat. Add the pearl couscous and toast, stirring occasionally, until golden, 1-2 minutes. Add the water and crumble in the vegetable stock (1 cube for 2 people / 2 cubes for 4 people). Reduce the heat to medium and simmer, stirring occasionally, until the couscous is tender and the water has been absorbed, 10-12 minutes. Set aside to cool slightly.",
+      "text": "While the veggies are roasting, heat drizzle of olive oil in a medium saucepan over a medium-high heat. Add the pearl couscous and toast, stirring occasionally, until golden, 1-2 minutes. Add the water and crumble in the vegetable stock (1 cube for 2 people / 2 cubes for 4 people). Reduce the heat to medium and simmer, stirring occasionally, until the couscous is tender and the water has been absorbed, 10-12 minutes. Set aside to cool slightly.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5da65c31ab002f6aa917341a/step-5b88dae5.jpg"
     },
     {
-      "text": "• In a large bowl, combine oil from the marinated goat cheese tub (1 tbs for 2 people / 2 tbs for 4 people) with the vinegar and honey. Add a pinch of salt and pepper and mix well to combine, then set aside. Heat a medium frying pan over a medium-high heat. Add the flaked almonds and toast, tossing, until golden, 2-3 minutes.",
+      "text": "In a large bowl, combine oil from the marinated goat cheese tub (1 tbs for 2 people / 2 tbs for 4 people) with the vinegar and honey. Add a pinch of salt and pepper and mix well to combine, then set aside. Heat a medium frying pan over a medium-high heat. Add the flaked almonds and toast, tossing, until golden, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5da65c31ab002f6aa917341a/step-867ffc27.jpg"
     },
     {
@@ -131,7 +137,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5da65c31ab002f6aa917341a/step-dee67c8c.jpg"
     },
     {
-      "text": "• Divide the roasted cauliflower salad between plates. Tear the goat cheese into small chunks and scatter over the salad. Sprinkle with the toasted almonds.",
+      "text": "Divide the roasted cauliflower salad between plates. Tear the goat cheese into small chunks and scatter over the salad. Sprinkle with the toasted almonds.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5da65c31ab002f6aa917341a/step-a724527f.jpg"
     }
   ]

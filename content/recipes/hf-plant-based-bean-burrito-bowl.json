@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Bean Burrito Bowl",
   "subtitle": "with Charred Corn Salsa, 'Cheeze' & Pickled Onion",
-  "description": "Simmer hearty kidney beans with Tex-Mex spices and our mild chipotle sauce, and you'll have a plant-based\nprotein that will see everyone wiping their plates clean. Serve over fluffy garlic rice to soak up all the saucy,\ncheezy deliciousness.\nThis recipe is under 650kcal per serving.",
+  "description": "Simmer hearty kidney beans with Tex-Mex spices and our mild chipotle sauce, and you'll have a plant-based protein that will see everyone wiping their plates clean. Serve over fluffy garlic rice to soak up all the saucy, cheezy deliciousness. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/plant-based-bean-burrito-bowl-64bf3e17511e9209d11b471b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64e2ae07dd7d57f2ca82c085-47471cdc.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 611,
+    "proteinG": 18.9,
+    "carbsG": 103.7,
+    "fatG": 11.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

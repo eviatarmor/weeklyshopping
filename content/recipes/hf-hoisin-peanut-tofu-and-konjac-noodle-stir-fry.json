@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Hoisin Peanut Tofu & Konjac Noodle Stir Fry",
   "subtitle": "with Veggies & Fresh Chilli",
-  "description": "Satay tofu stands up so well to our top secret peanut concoction and when paired with konjac noodles and only the best\nveggies, you'll be slurping, crunching and soaking up every bit of goodness in this bowl.\nThis recipe is under 650kcal per serving.",
+  "description": "Satay tofu stands up so well to our top secret peanut concoction and when paired with konjac noodles and only the best veggies, you'll be slurping, crunching and soaking up every bit of goodness in this bowl. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/hoisin-peanut-tofu-and-konjac-noodle-stir-fry-6507a7a8264c5c170b2da4d4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6541b14f1cefd62c18e5a059-d1370ff6.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 551,
+    "proteinG": 28.6,
+    "carbsG": 43.7,
+    "fatG": 26.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

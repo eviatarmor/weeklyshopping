@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian-Style Lentil & Veggie Coconut Soup",
   "subtitle": "with Tortilla Dippers, Mint & Yoghurt",
-  "description": "We've brought back our gorgeous lentils to level up your typical veggie soup. With a creamy coconut base and some veggies\nto soak up the goodness, all you need are some tortillas to scoop up this concoction.",
+  "description": "We've brought back our gorgeous lentils to level up your typical veggie soup. With a creamy coconut base and some veggies to soak up the goodness, all you need are some tortillas to scoop up this concoction.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/bengal-veggie-coconut-soup-652e0d81d5d953d2ad4b76b5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/652e0d81d5d953d2ad4b76b5-01754908.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 835,
+    "proteinG": 29.6,
+    "carbsG": 91,
+    "fatG": 35.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -122,7 +128,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-652e0d81d5d953d2ad4b76b5-ae4321ce.jpeg"
     },
     {
-      "text": "• Stir in coconut milk, vegetable stock pot and the water. Bring to the boil then reduce heat to medium. Stir well to combine. Simmer until slightly thickened, 6-8 minutes.",
+      "text": "Stir in coconut milk, vegetable stock pot and the water. Bring to the boil then reduce heat to medium. Stir well to combine. Simmer until slightly thickened, 6-8 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-652e0d81d5d953d2ad4b76b5-2d6691e6.jpeg"
     },
     {

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-soy-tofu-tacos-b717a44e.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 640,
+    "proteinG": 23.6,
+    "carbsG": 55.4,
+    "fatG": 37.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

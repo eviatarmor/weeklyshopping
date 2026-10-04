@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y26_R4010_W12_AU_EP19336-17_Main_high-5b4d9528.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 839,
+    "proteinG": 31.2,
+    "carbsG": 80.9,
+    "fatG": 40.8
+  },
   "tags": [
     "everyplate",
     "american",

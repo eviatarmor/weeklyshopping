@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chipotle-Glazed Haloumi",
   "subtitle": "with Roast Veggie Toss & Corn Chip Crunch",
-  "description": "Jazz up squeaky haloumi by coating them in a lip-smacking mild chipotle sauce, along with our tried and true\nAll-American spice blend. Serve over a bed of hearty roasted veggies and add the finishing touches with a moreish corn chip\ncrumble for crunch, plus a dollop of sour cream for some tang.",
+  "description": "Jazz up squeaky haloumi by coating them in a lip-smacking mild chipotle sauce, along with our tried and true All-American spice blend. Serve over a bed of hearty roasted veggies and add the finishing touches with a moreish corn chip crumble for crunch, plus a dollop of sour cream for some tang.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chipotle-glazed-haloumi-631550a553d915345308b491",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chipotle-glazed-haloumi-d95ac2c5.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 690,
+    "proteinG": 26.1,
+    "carbsG": 56,
+    "fatG": 38.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

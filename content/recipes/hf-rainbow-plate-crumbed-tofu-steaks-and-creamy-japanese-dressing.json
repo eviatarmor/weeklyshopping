@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1055_W30_AU_R23490-2_MainAioli_edit_high-1fb10d91.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 914,
+    "proteinG": 30,
+    "carbsG": 103,
+    "fatG": 41.6
+  },
   "tags": [
     "hellofresh",
     "japanese",

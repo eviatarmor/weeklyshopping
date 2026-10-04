@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mediterranean Veggie Soup",
   "subtitle": "with Double Crumbled Fetta & Flaked Almonds",
-  "description": "Soups are such a dinner-time staple as they are always brimming with warm and homey flavours. Packed into this soup are several veggies and crumbly cheese, waiting to be slurped up by you!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Soups are such a dinner-time staple as they are always brimming with warm and homey flavours. Packed into this soup are several veggies and crumbly cheese, waiting to be slurped up by you! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-veggie-soup-67f839004264524ca978cd10",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W29_AU_R7113-6_Main_swap_broccoli_edit_high-d34cae97.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 364,
+    "proteinG": 20,
+    "carbsG": 26.4,
+    "fatG": 19.5
+  },
   "tags": [
     "hellofresh",
     "italian",

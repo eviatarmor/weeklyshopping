@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Greek-Style Haloumi & Oregano Wedges",
   "subtitle": "with Cherry Tomato Salad, Yoghurt & Almonds",
-  "description": "There are plenty of surprises in this meal. With honey and oregano coating the haloumi, you get herby, gooey, squeaky\nsweetness, while the salad provides a subtly peppery contrast, with the perfect amount of acidity from the tomatoes. Serve with a dollop of tzatziki for tang and creaminess.",
+  "description": "There are plenty of surprises in this meal. With honey and oregano coating the haloumi, you get herby, gooey, squeaky sweetness, while the salad provides a subtly peppery contrast, with the perfect amount of acidity from the tomatoes. Serve with a dollop of tzatziki for tang and creaminess.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/double-greek-style-haloumi-and-oregano-wedges-63bfbfa8b92a5aa9f90b9af3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/greek-style-haloumi-oregano-wedges-c3977894.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 837,
+    "proteinG": 42.2,
+    "carbsG": 39.2,
+    "fatG": 56.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -107,7 +113,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63bfbfa8b92a5aa9f90b9af3/step-f1523638.jpg"
     },
     {
-      "text": "• In a large bowl, combine carrot, tomato, salad leaves and a drizzle of vinegar and olive oil. Toss to combine. Season to taste.",
+      "text": "In a large bowl, combine carrot, tomato, salad leaves and a drizzle of vinegar and olive oil. Toss to combine. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63bfbfa8b92a5aa9f90b9af3/step-8367bbf3.jpg"
     },
     {

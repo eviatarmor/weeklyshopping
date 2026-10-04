@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/53eac3bcff604dba788b4568.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 473,
+    "proteinG": 13,
+    "carbsG": 26.2,
+    "fatG": 34
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -112,23 +118,23 @@
   ],
   "steps": [
     {
-      "text": "• Place the rice into a sieve and rinse it with cold tap water. The water will initially become cloudy, continue to rinse until the water becomes clear enough (it doesn't need to be crystal). Bringe a large pot of salted water to the boil. Add the rice and cook it for 10-12 minutes or until soft. Drain.",
+      "text": "Place the rice into a sieve and rinse it with cold tap water. The water will initially become cloudy, continue to rinse until the water becomes clear enough (it doesn't need to be crystal). Bringe a large pot of salted water to the boil. Add the rice and cook it for 10-12 minutes or until soft. Drain.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/53eac3bcff604dba788b4568/step_55682c5fc1dcb.jpg"
     },
     {
-      "text": "• Remove the seed from the chili (or leave them in if you like it hot!) dice it and then combine with the peeled and crushed garlic, peeled and finely chopped ginger, and roughly chopped spring onion. Whisk together the soy sauce, vinegar, and caste sugar.",
+      "text": "Remove the seed from the chili (or leave them in if you like it hot!) dice it and then combine with the peeled and crushed garlic, peeled and finely chopped ginger, and roughly chopped spring onion. Whisk together the soy sauce, vinegar, and caste sugar.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/53eac3bcff604dba788b4568/step_55682c5fd09f5.jpg"
     },
     {
-      "text": "• Heat the vegetable oil in a wok or large frying pan to a high temperature. Add the sliced mushrooms and fry or about 30-60 seconds until glossy. Remove the slotted spoon and set aside.",
+      "text": "Heat the vegetable oil in a wok or large frying pan to a high temperature. Add the sliced mushrooms and fry or about 30-60 seconds until glossy. Remove the slotted spoon and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/53eac3bcff604dba788b4568/step_55682c5fe4166.jpg"
     },
     {
-      "text": "• Return the won to the heat and add the chili, garlic, ginger, and spring onions. Return the mushrooms and the sauce to the wok and cook for further minute, then stir in the cashews and remove from the heat. Remove the gong bao from the pan and then throw the bok choy into the pan, cooking for 1-2 minutes or until it's just cooked but still crisp!",
+      "text": "Return the won to the heat and add the chili, garlic, ginger, and spring onions. Return the mushrooms and the sauce to the wok and cook for further minute, then stir in the cashews and remove from the heat. Remove the gong bao from the pan and then throw the bok choy into the pan, cooking for 1-2 minutes or until it's just cooked but still crisp!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/53eac3bcff604dba788b4568/step_55682c60018de.jpg"
     },
     {
-      "text": "• Divide the rice between bowls and serve the gong bao on top with side of the bok choy."
+      "text": "Divide the rice between bowls and serve the gong bao on top with side of the bok choy."
     }
   ]
 }

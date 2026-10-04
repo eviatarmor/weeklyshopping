@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lemon-pesto-pine-nut-spaghetti-0ec1543b.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 617,
+    "proteinG": 20.5,
+    "carbsG": 75,
+    "fatG": 24.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -73,27 +79,27 @@
   ],
   "steps": [
     {
-      "text": "• Bring a medium saucepan of salted water to the boil. Thinly slice the **zucchini** into half-moons. Zest the **lemon** and then slice into wedges. Trim the ends of the **sugar snap peas** and slice in half, lengthways. Finely grate the **Parmesan cheese**.",
+      "text": "Bring a medium saucepan of salted water to the boil. Thinly slice the **zucchini** into half-moons. Zest the **lemon** and then slice into wedges. Trim the ends of the **sugar snap peas** and slice in half, lengthways. Finely grate the **Parmesan cheese**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59db0115450cfa36814ddf02-0-0-f11dd2bd.jpg"
     },
     {
-      "text": "• Add the **spaghetti (use suggested amount)** to the saucepan of boiling water. **Note: Be sure to add the correct amount of pasta in order for your dish to be perfectly balanced, just the way we planned it.** Cook for **8-9 minutes**, or until ‘al-dente’. **TIP:** ‘Al dente’’ simply means the pasta is cooked through but has a tiny bit of firmness. Drain, return to the saucepan and toss with a **drizzle** of **olive oil** to prevent sticking.",
+      "text": "Add the **spaghetti (use suggested amount)** to the saucepan of boiling water. **Note: Be sure to add the correct amount of pasta in order for your dish to be perfectly balanced, just the way we planned it.** Cook for **8-9 minutes**, or until ‘al-dente’. **TIP:** ‘Al dente’’ simply means the pasta is cooked through but has a tiny bit of firmness. Drain, return to the saucepan and toss with a **drizzle** of **olive oil** to prevent sticking.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59db0115450cfa36814ddf02-1-0-c2a3aa9e.jpg"
     },
     {
-      "text": "• While the spaghetti is cooking, heat a large frying pan over a medium-high heat. Add the **pine nuts** and toast, stirring, for **3-4 minutes**, or until golden. Remove from the pan and set aside.",
+      "text": "While the spaghetti is cooking, heat a large frying pan over a medium-high heat. Add the **pine nuts** and toast, stirring, for **3-4 minutes**, or until golden. Remove from the pan and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59db0115450cfa36814ddf02-2-0-c791d039.jpg"
     },
     {
-      "text": "• Return the same large pan to a medium-high heat and add a **drizzle** of **olive oil**. Once hot, add the **zucchini** and a **pinch** of **lemon zest** and cook for **3-4 minutes**, or until softened and golden.",
+      "text": "Return the same large pan to a medium-high heat and add a **drizzle** of **olive oil**. Once hot, add the **zucchini** and a **pinch** of **lemon zest** and cook for **3-4 minutes**, or until softened and golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59db0115450cfa36814ddf02-3-0-9394c19b.jpg"
     },
     {
-      "text": "• Add the **spaghetti**, **sugar snap peas** and a **pinch** of **chilli flakes (if using)** to the pan with the zucchini. **TIP:** Some like it hot but if you don’t, just hold back on the chilli flakes. Add the **pesto** and squeeze over the juice from the **lemon wedges (1 tbs for 2 people/2 tbs for 4 people)**. **TIP:** Add as much or as little lemon juice as you like depending on your taste preference. Season to taste with a **pinch** of **salt** and **pepper**.",
+      "text": "Add the **spaghetti**, **sugar snap peas** and a **pinch** of **chilli flakes (if using)** to the pan with the zucchini. **TIP:** Some like it hot but if you don’t, just hold back on the chilli flakes. Add the **pesto** and squeeze over the juice from the **lemon wedges (1 tbs for 2 people/2 tbs for 4 people)**. **TIP:** Add as much or as little lemon juice as you like depending on your taste preference. Season to taste with a **pinch** of **salt** and **pepper**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59db0115450cfa36814ddf02-4-0-03588cd6.jpg"
     },
     {
-      "text": "• Divide the lemon pesto and pine nut spaghetti between bowls. Top with the grated Parmesan and toasted pine nuts.",
+      "text": "Divide the lemon pesto and pine nut spaghetti between bowls. Top with the grated Parmesan and toasted pine nuts.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59db0115450cfa36814ddf02-5-0-85710c06.jpg"
     }
   ]

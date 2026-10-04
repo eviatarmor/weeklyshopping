@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Shortcut Seared Plant-Based Crumbed Chick'n & Potato Mash",
   "subtitle": "with Capsicum Salad & Honey Mustard Sauce",
-  "description": "Pile tasty plant-based crumbed chick'n on a bed of creamy potato mash: the best base for every dinner delight. And how about a cherry tomato salad for a side? Sounds good to us.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Pile tasty plant-based crumbed chick'n on a bed of creamy potato mash: the best base for every dinner delight. And how about a cherry tomato salad for a side? Sounds good to us. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/seared-chicken-and-mushroom-sauce-67f84d14cade9b9f0ace26f8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1019_W51_AU_R17267-20_Main_high-8097dbf0.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 771,
+    "proteinG": 31,
+    "carbsG": 73.8,
+    "fatG": 36.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

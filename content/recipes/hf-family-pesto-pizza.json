@@ -7,6 +7,12 @@
   "sourceUrl": "https://www.hellofresh.com.au/recipes/family-pesto-pizza-56cbb80ff8b25e230d8b4569",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56cbb80ff8b25e230d8b4569.jpg",
   "servings": 5,
+  "nutrition": {
+    "kcal": 674,
+    "proteinG": 24.1,
+    "carbsG": 78.4,
+    "fatG": 25.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

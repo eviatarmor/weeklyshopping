@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Short-Cut Cheesy Bean Quesadillas",
   "subtitle": "with Chipotle Sour Cream & Salsa",
-  "description": "Red kidney beans and charred corn unite to make a hearty and delicious filling for these quesadillas. Simply spoon the filling\nonto tortillas and fold them in half, then sprinkle with cheese and bake. Easy cheesy dinner coming right up!",
+  "description": "Red kidney beans and charred corn unite to make a hearty and delicious filling for these quesadillas. Simply spoon the filling onto tortillas and fold them in half, then sprinkle with cheese and bake. Easy cheesy dinner coming right up!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/short-cut-cheesy-bean-quesadillas-64f92f37efa78cf7bc58a0f0",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64f92f37efa78cf7bc58a0f0-f649f06a.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 764,
+    "proteinG": 33.8,
+    "carbsG": 88,
+    "fatG": 28.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6796cd43183b5afa14503eab-4eb72765.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 722,
+    "proteinG": 28.5,
+    "carbsG": 43.3,
+    "fatG": 55.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,7 +114,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6796cd43183b5afa14503eab-e8af7135.jpeg"
     },
     {
-      "text": "• Just before serving, in a large bowl, combine deluxe salad mix, mixed salad leaves, pea pods, red radish, garlic aioli and Japanese style dressing. Season.",
+      "text": "Just before serving, in a large bowl, combine deluxe salad mix, mixed salad leaves, pea pods, red radish, garlic aioli and Japanese style dressing. Season.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6796cd43183b5afa14503eab-df79495b.jpeg"
     },
     {

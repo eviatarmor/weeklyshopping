@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/552f35a66ced6e3e4f8b4571.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 478,
+    "proteinG": 23.9,
+    "carbsG": 68.2,
+    "fatG": 6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -127,19 +133,19 @@
   ],
   "steps": [
     {
-      "text": "• In a large pan heat the olive oil over a medium-high heat. Add the red onion and the garlic and cook for 2 minutes, being careful not to burn the garlic. Add the eggplant to the pan and cook for 5 minutes on each side until golden and soft - you may need to add extra olive oil because of how thirsty eggplant tends to be!",
+      "text": "In a large pan heat the olive oil over a medium-high heat. Add the red onion and the garlic and cook for 2 minutes, being careful not to burn the garlic. Add the eggplant to the pan and cook for 5 minutes on each side until golden and soft - you may need to add extra olive oil because of how thirsty eggplant tends to be!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f35a66ced6e3e4f8b4571/step_556eb179af698.jpg"
     },
     {
-      "text": "• Add the cumin to the pan and stir for 1 minute or until fragrant. Now add the tomatoes, chickpeas, red wine vinegar, and the white wine, cover the pot with a lid and cook for 10 minutes or until the tomatoes have softened and everything has fused together. Season with salt and pepper along the way.",
+      "text": "Add the cumin to the pan and stir for 1 minute or until fragrant. Now add the tomatoes, chickpeas, red wine vinegar, and the white wine, cover the pot with a lid and cook for 10 minutes or until the tomatoes have softened and everything has fused together. Season with salt and pepper along the way.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f35a66ced6e3e4f8b4571/step_556eb179c085c.jpg"
     },
     {
-      "text": "• Place the couscous in a bowl and pour the boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap, leave to sit for 5 minutes. Remove wrap and then begin to fluff the couscous with a fork. Season well with salt and pepper.",
+      "text": "Place the couscous in a bowl and pour the boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap, leave to sit for 5 minutes. Remove wrap and then begin to fluff the couscous with a fork. Season well with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f35a66ced6e3e4f8b4571/step_556eb179d3834.jpg"
     },
     {
-      "text": "• Divide the couscous and eggplant braise between bowls, top with a dollop of yoghurt and then garnish with a good sprinkle of fresh coriander and some lemon juice for a nice fresh taste. Enjoy!",
+      "text": "Divide the couscous and eggplant braise between bowls, top with a dollop of yoghurt and then garnish with a good sprinkle of fresh coriander and some lemon juice for a nice fresh taste. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f35a66ced6e3e4f8b4571/step_556eb179e989a.jpg"
     }
   ]

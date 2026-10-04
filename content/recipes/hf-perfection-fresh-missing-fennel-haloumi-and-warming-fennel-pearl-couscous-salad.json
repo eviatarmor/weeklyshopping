@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W27_AU_R23189-3_Main_roasted_haloumi_add_pesto_dressing_edit_high-3996458b.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 723,
+    "proteinG": 28.3,
+    "carbsG": 55.2,
+    "fatG": 42.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

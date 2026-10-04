@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67c3bda1f0a31bc0c30103ed-823afe31-c108b3f0.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 733,
+    "proteinG": 30.9,
+    "carbsG": 69.4,
+    "fatG": 35.3
+  },
   "tags": [
     "everyplate",
     "iranian",

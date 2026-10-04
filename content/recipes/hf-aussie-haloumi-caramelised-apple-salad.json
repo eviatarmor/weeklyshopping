@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/aussie-haloumi-caramelised-apple-salad-64bde8fd.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 685,
+    "proteinG": 28,
+    "carbsG": 47.9,
+    "fatG": 42
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

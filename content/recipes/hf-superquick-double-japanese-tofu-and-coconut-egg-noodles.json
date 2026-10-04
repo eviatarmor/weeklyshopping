@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Double Japanese Tofu & Coconut Curry Broth",
   "subtitle": "with Egg Noodles & Asian Greens",
-  "description": "For a weeknight plant-based dinner that's ready in a blink of an eye, you'll want to add this recipe to your rotation. Here, bouncy egg noodles and tender greens are tossed through a coconutty Japanese curry sauce and topped with marinated tofu and a sprinkling of crispy shallots and coriander for extra freshness and crunch factor. \nWe’ve replaced the green\nbeans in this recipe\nwith broccoli florets\ndue to local ingredient\navailability. It’ll be just as\ndelicious, just follow your\nrecipe card!",
+  "description": "For a weeknight plant-based dinner that's ready in a blink of an eye, you'll want to add this recipe to your rotation. Here, bouncy egg noodles and tender greens are tossed through a coconutty Japanese curry sauce and topped with marinated tofu and a sprinkling of crispy shallots and coriander for extra freshness and crunch factor. We’ve replaced the green beans in this recipe with broccoli florets due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/superquick-double-japanese-tofu-and-coconut-egg-noodles-67f843454264524ca978ff85",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W21_AUS_Main_5_high-c926c5c1.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 881,
+    "proteinG": 45.2,
+    "carbsG": 72.6,
+    "fatG": 48
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

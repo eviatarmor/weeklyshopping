@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Dukkah-Crusted Haloumi",
   "subtitle": "with Roast Veggie Toss & Herby Mayo",
-  "description": "Eat like an Egyptian by adding dukkah to your dinner! Here, we've combined a moreish mix of seeds and spices with panko\nbreadcrumbs to create a perfect crust for haloumi schnitties. Complete with honey-spiked roasted veg and our delightful dill and\nparsley mayo, this is a recipe worth adding to your repertoire.",
+  "description": "Eat like an Egyptian by adding dukkah to your dinner! Here, we've combined a moreish mix of seeds and spices with panko breadcrumbs to create a perfect crust for haloumi schnitties. Complete with honey-spiked roasted veg and our delightful dill and parsley mayo, this is a recipe worth adding to your repertoire.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/dukkah-crusted-haloumi-63a2fab88c970711e002ccdb",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/dukkah-crusted-pork-schnitzels-7956fba7.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 945,
+    "proteinG": 35.8,
+    "carbsG": 79.6,
+    "fatG": 53.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

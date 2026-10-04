@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Cheddar, Fetta & Pesto Pizza",
   "subtitle": "with Zucchini & Caramelised Onion",
-  "description": "This vibrant veggie pizza is made the Italian way, paying respect to the ingredients and proving that less can often mean more.\nThe recent harsh weather conditions have impacted the zucchini grown by our farmers.\nThe quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "This vibrant veggie pizza is made the Italian way, paying respect to the ingredients and proving that less can often mean more. The recent harsh weather conditions have impacted the zucchini grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheddar-fetta-basil-pesto-pizza-616e85692c08ed5828165e0d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/basil-rocket-pesto-pizza-6cf92717.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 995,
+    "proteinG": 35.2,
+    "carbsG": 104.9,
+    "fatG": 45.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

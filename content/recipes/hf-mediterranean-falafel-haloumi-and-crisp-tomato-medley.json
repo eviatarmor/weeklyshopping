@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-falafel-spinach-tomato-medley-770993de-1ceab47f.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 1160,
+    "proteinG": 43.4,
+    "carbsG": 71.9,
+    "fatG": 74.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

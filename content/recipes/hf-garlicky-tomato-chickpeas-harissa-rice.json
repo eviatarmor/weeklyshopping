@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Garlicky Tomato Chickpeas & Chermoula Rice",
   "subtitle": "with Fetta Salad, Garlic Yoghurt & Almonds",
-  "description": "In this vibrant veggie dish, hearty chickpeas and subtly sweet grated carrot soak up the garlic and herb tomato sauce like a treat.\nOur chermoula spice blend gives the rice a gorgeous golden hue, while the garlic yoghurt brings everything together, providing creaminess and tang. Don't forget to crumble the fetta over the salad before serving up (we doubt you will!).",
+  "description": "In this vibrant veggie dish, hearty chickpeas and subtly sweet grated carrot soak up the garlic and herb tomato sauce like a treat. Our chermoula spice blend gives the rice a gorgeous golden hue, while the garlic yoghurt brings everything together, providing creaminess and tang. Don't forget to crumble the fetta over the salad before serving up (we doubt you will!).",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/garlicky-tomato-chickpeas-harissa-rice-62d6260e82c22052540cddb2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlicky-tomato-chickpeas-harissa-rice-61302932.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 694,
+    "proteinG": 24.9,
+    "carbsG": 108.6,
+    "fatG": 33.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/558b58d5f8b25eac748b456a.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 387,
+    "proteinG": 16.3,
+    "carbsG": 49.2,
+    "fatG": 11
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -92,24 +98,24 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. Line an oven tray with baking paper."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. Line an oven tray with baking paper."
     },
     {
-      "text": "• To prepare the ingredients, cut the cauliflower into small florets. Peel and cut the sweet potato into 1 cm cubes. Drain and rinse the chickpeas. Rinse the rocket and juice the lime."
+      "text": "To prepare the ingredients, cut the cauliflower into small florets. Peel and cut the sweet potato into 1 cm cubes. Drain and rinse the chickpeas. Rinse the rocket and juice the lime."
     },
     {
-      "text": "• Place the cauliflower, sweet potato, and chickpeas onto the prepared tray and toss in the olive oil and Moroccan spice mix. Season with salt and pepper. Place the unpeeled garlic clove on the tray too (you’ll use this for the dressing). Cook in the oven for 30 minutes or until the sweet potato is tender and the cauliflower is golden and slightly charred on the edges.",
+      "text": "Place the cauliflower, sweet potato, and chickpeas onto the prepared tray and toss in the olive oil and Moroccan spice mix. Season with salt and pepper. Place the unpeeled garlic clove on the tray too (you’ll use this for the dressing). Cook in the oven for 30 minutes or until the sweet potato is tender and the cauliflower is golden and slightly charred on the edges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/558b58d5f8b25eac748b456a/step_56ce4c8640cf1.jpg"
     },
     {
-      "text": "• To make the dressing, stir together the yoghurt, honey, and lime juice in a small bowl. Squeeze the roasted garlic clove out of the skin and into the dressing. Use the back of a spoon to break up the garlic and whisk to combine well. Adjust the consistency of the dressing with a little warm water if you like.",
+      "text": "To make the dressing, stir together the yoghurt, honey, and lime juice in a small bowl. Squeeze the roasted garlic clove out of the skin and into the dressing. Use the back of a spoon to break up the garlic and whisk to combine well. Adjust the consistency of the dressing with a little warm water if you like.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/558b58d5f8b25eac748b456a/step_56ce4c866fb6b.jpg"
     },
     {
-      "text": "• In a large bowl combine the rocket, cauliflower, sweet potato, and chickpeas. Stir through half of the dressing."
+      "text": "In a large bowl combine the rocket, cauliflower, sweet potato, and chickpeas. Stir through half of the dressing."
     },
     {
-      "text": "• To serve, divide the warm roasted chickpea and cauliflower salad between bowls and drizzle with the remaining dressing."
+      "text": "To serve, divide the warm roasted chickpea and cauliflower salad between bowls and drizzle with the remaining dressing."
     }
   ]
 }

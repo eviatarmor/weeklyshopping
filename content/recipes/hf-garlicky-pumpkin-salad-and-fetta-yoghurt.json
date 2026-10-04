@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Garlicky Pumpkin Salad & Goat Cheese Yoghurt",
   "subtitle": "with Croutons & Almonds",
-  "description": "This salad brings together unforgettable flavours, textures and colours, thanks to golden roasted pumpkin, crispy croutons, tangy dressing and creamy marinated goat cheese.\nThis recipe is under 650kcal per serving.",
+  "description": "This salad brings together unforgettable flavours, textures and colours, thanks to golden roasted pumpkin, crispy croutons, tangy dressing and creamy marinated goat cheese. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-pumpkin-salad-and-fetta-yoghurt-67f849bc4264524ca9791a61",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W32_AU_R14576-3_Main_R_high-61cfe0fe.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 629,
+    "proteinG": 22.7,
+    "carbsG": 67.9,
+    "fatG": 28.7
+  },
   "tags": [
     "hellofresh",
     "australian",

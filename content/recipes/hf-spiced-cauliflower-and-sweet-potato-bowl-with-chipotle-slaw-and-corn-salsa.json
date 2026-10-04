@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Spiced Cauliflower & Sweet Potato Bowl with Chipotle Slaw & Corn Salsa",
   "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
-  "description": "Looking for a tasty midweek dinner option? Try cooking up our spiced veggie bowl for a nutritionally balanced meal.\nTop it all off with lime cream to bring it all together.",
+  "description": "Looking for a tasty midweek dinner option? Try cooking up our spiced veggie bowl for a nutritionally balanced meal. Top it all off with lime cream to bring it all together.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/spiced-cauliflower-and-sweet-potato-bowl-with-chipotle-slaw-and-corn-salsa-60333050d071375cbf7e2b87",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/american-spiced-cauliflower-sweet-potato-bowl-b41acf3f.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 383,
+    "proteinG": 10.7,
+    "carbsG": 52.4,
+    "fatG": 11.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

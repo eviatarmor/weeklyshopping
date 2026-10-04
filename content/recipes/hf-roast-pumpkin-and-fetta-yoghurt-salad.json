@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Pumpkin Salad & Fetta Yoghurt",
   "subtitle": "with Croutons & Almonds",
-  "description": "This salad brings together unforgettable flavours, textures and colours, thanks to golden roasted pumpkin, crispy croutons, tangy dressing and creamy fetta.\nThis recipe is under 650kcal per serving.",
+  "description": "This salad brings together unforgettable flavours, textures and colours, thanks to golden roasted pumpkin, crispy croutons, tangy dressing and creamy fetta. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-pumpkin-and-fetta-yoghurt-salad-65b73de2c06261b8d1677b3c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65b73de2c06261b8d1677b3c-76a08ecd.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 611,
+    "proteinG": 23.9,
+    "carbsG": 91,
+    "fatG": 15.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

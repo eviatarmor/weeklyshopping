@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W40_AU_R45353-9_edit_Main_high-6216b08a.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1180,
+    "proteinG": 37.4,
+    "carbsG": 166,
+    "fatG": 43.6
+  },
   "tags": [
     "hellofresh",
     "japanese",

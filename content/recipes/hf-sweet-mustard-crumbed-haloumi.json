@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sweet Mustard Crumbed Haloumi",
   "subtitle": "with Roasted Veggie Toss & Creamy Pesto",
-  "description": "Take a veggie toss to new heights with naturally sweet roasted veg and a drizzle of our creamy pesto dressing. Top it with sweet\nmustard-spiced haloumi, complete with a golden crumb, and you have yourself a recipe that will be requested on the regular!",
+  "description": "Take a veggie toss to new heights with naturally sweet roasted veg and a drizzle of our creamy pesto dressing. Top it with sweet mustard-spiced haloumi, complete with a golden crumb, and you have yourself a recipe that will be requested on the regular!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-mustard-crumbed-haloumi-5bab1615ae08b5749218a632",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-mustard-crumbed-haloumi-2864b664.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 858,
+    "proteinG": 34.9,
+    "carbsG": 58.4,
+    "fatG": 51.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

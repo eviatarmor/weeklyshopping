@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roasted Sweet Potato, Haloumi & Mushroom Risotto",
   "subtitle": "with Silverbeet & Parmesan Cheese",
-  "description": "This melt-in-your-mouth risotto, studded with roasted sweet potato, haloumi, silverbeet and mushrooms, is comfort on a plate. Thyme adds an extra depth of flavour and don’t forget the Parmesan and flaked almonds for the perfect\nfinishing touch.",
+  "description": "This melt-in-your-mouth risotto, studded with roasted sweet potato, haloumi, silverbeet and mushrooms, is comfort on a plate. Thyme adds an extra depth of flavour and don’t forget the Parmesan and flaked almonds for the perfect finishing touch.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roasted-sweet-potato-and-mushroom-risotto-67f83483cade9b9f0acdb77d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R17_W10_AUS_Main_high-6a95e8cc.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 936,
+    "proteinG": 34.2,
+    "carbsG": 94.7,
+    "fatG": 46.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

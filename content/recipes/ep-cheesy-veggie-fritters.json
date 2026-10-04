@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-veggie-fritters-f3633cbb.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 615,
+    "proteinG": 23,
+    "carbsG": 69,
+    "fatG": 25.2
+  },
   "tags": [
     "vegetarian",
     "everyplate"

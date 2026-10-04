@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Smashed Bean & Veggie Quesadillas",
   "subtitle": "with Sour Cream & Tomato Salsa",
-  "description": "Stress less about dinnertime thanks to this dish with maximum flavour and minimal effort. Make an easy black bean filling for\nthe quesadillas flavoured with our tasty spice blend, that works perfectly with sour cream and a refreshing tomato salsa.",
+  "description": "Stress less about dinnertime thanks to this dish with maximum flavour and minimal effort. Make an easy black bean filling for the quesadillas flavoured with our tasty spice blend, that works perfectly with sour cream and a refreshing tomato salsa.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-smashed-bean-and-veggie-quesadillas-668d1c01c2d484eb98289ec7",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/668d1c01c2d484eb98289ec7-bfa4b25f.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 830,
+    "proteinG": 33.4,
+    "carbsG": 85.4,
+    "fatG": 35.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

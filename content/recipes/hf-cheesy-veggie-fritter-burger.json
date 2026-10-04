@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Veggie Fritter Burger",
   "subtitle": "with Sweet Potato Fries",
-  "description": "Loaded with zucchini, carrot, Parmesan and spring onion, and served stacked in a brioche-style bun, you've never had veggie\nfritters or a veggie burger quite like this before! With a smear of smokey aioli, plus sweet potato fries, this dish is a real treat.",
+  "description": "Loaded with zucchini, carrot, Parmesan and spring onion, and served stacked in a brioche-style bun, you've never had veggie fritters or a veggie burger quite like this before! With a smear of smokey aioli, plus sweet potato fries, this dish is a real treat.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-veggie-fritter-burger-64a3ae34674d92e4807a2af0",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64d06d9b6ea5936499250afb-0f558a0e.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 959,
+    "proteinG": 29.1,
+    "carbsG": 113.9,
+    "fatG": 41
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -144,7 +150,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d06d9b6ea5936499250afb-594c355a.jpeg"
     },
     {
-      "text": "• In a medium bowl, combine zucchini, carrot, spring onion, garlic, the milk, the egg, Parmesan cheese, All-American spice blend, a pinch of chilli flakes (if using), the plain flour, the salt and a pinch of pepper. TIP: Lift out some of the mixture with a spoon, if it's too wet and doesn't hold its shape, add a little more flour!",
+      "text": "In a medium bowl, combine zucchini, carrot, spring onion, garlic, the milk, the egg, Parmesan cheese, All-American spice blend, a pinch of chilli flakes (if using), the plain flour, the salt and a pinch of pepper. TIP: Lift out some of the mixture with a spoon, if it's too wet and doesn't hold its shape, add a little more flour!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d06d9b6ea5936499250afb-a769a748.jpeg"
     },
     {
@@ -152,7 +158,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d06d9b6ea5936499250afb-b9358910.jpeg"
     },
     {
-      "text": "• While fritters are cooking, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
+      "text": "While fritters are cooking, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64d06d9b6ea5936499250afb-cef5107c.jpeg"
     },
     {

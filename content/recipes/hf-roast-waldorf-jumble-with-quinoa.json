@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55a60027f8b25ed80f8b4567.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 648,
+    "proteinG": 23.3,
+    "carbsG": 65.8,
+    "fatG": 29.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -109,28 +115,28 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 200°C/180°C fan forced. Line two oven trays with baking paper."
+      "text": "Preheat oven to 200°C/180°C fan forced. Line two oven trays with baking paper."
     },
     {
-      "text": "• To prepare the ingredients, core the apple and cut it into 2 cm thick wedges. Cut the beetroot into 1 cm thick wedges and the potatoes into 5 mm thick slices. Rinse the quinoa. Zest and juice the lemon, pick and tear the sage leaves, and finely slice the celery on the diagonal. Lastly, crumble the fetta.",
+      "text": "To prepare the ingredients, core the apple and cut it into 2 cm thick wedges. Cut the beetroot into 1 cm thick wedges and the potatoes into 5 mm thick slices. Rinse the quinoa. Zest and juice the lemon, pick and tear the sage leaves, and finely slice the celery on the diagonal. Lastly, crumble the fetta.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55a60027f8b25ed80f8b4567/step_55a7028020bfb.jpg"
     },
     {
-      "text": "• Place the pink lady apple and beetroot on one prepared tray and the potato on the remaining tray (if you’re concerned about pink fingers pop on some gloves when handling the beetroot). Drizzle everything with the olive oil and season with salt and pepper. Place both trays in the oven and cook for 20 minutes or until the apple and vegetables are tender. Swap the trays half way through to ensure even cooking."
+      "text": "Place the pink lady apple and beetroot on one prepared tray and the potato on the remaining tray (if you’re concerned about pink fingers pop on some gloves when handling the beetroot). Drizzle everything with the olive oil and season with salt and pepper. Place both trays in the oven and cook for 20 minutes or until the apple and vegetables are tender. Swap the trays half way through to ensure even cooking."
     },
     {
-      "text": "• Meanwhile, place the quinoa in a medium saucepan and cover with the water. Bring to the boil. Reduce to a simmer and cover with a lid. Simmer for 10-12 minutes or until the water has absorbed and quinoa is tender. Fluff with a fork and stir through the lemon zest."
+      "text": "Meanwhile, place the quinoa in a medium saucepan and cover with the water. Bring to the boil. Reduce to a simmer and cover with a lid. Simmer for 10-12 minutes or until the water has absorbed and quinoa is tender. Fluff with a fork and stir through the lemon zest."
     },
     {
-      "text": "• Melt the butter in a small frying pan over a medium-high heat. Add the sage and walnuts and cook for 1-2 minutes or until the walnuts are toasted and the sage leaves are crispy. Add the lemon juice and remove from heat.",
+      "text": "Melt the butter in a small frying pan over a medium-high heat. Add the sage and walnuts and cook for 1-2 minutes or until the walnuts are toasted and the sage leaves are crispy. Add the lemon juice and remove from heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55a60027f8b25ed80f8b4567/step_55a702804fe75.jpg"
     },
     {
-      "text": "• In a large bowl toss the apple, vegetables, walnut mixture, quinoa, celery, rocket, and fetta.",
+      "text": "In a large bowl toss the apple, vegetables, walnut mixture, quinoa, celery, rocket, and fetta.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55a60027f8b25ed80f8b4567/step_55a7028061f02.jpg"
     },
     {
-      "text": "• To serve, divide the Roast Waldorf Jumble between bowls."
+      "text": "To serve, divide the Roast Waldorf Jumble between bowls."
     }
   ]
 }

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spring-onion-corn-fetta-fritters-fc466a98.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 811,
+    "proteinG": 25.3,
+    "carbsG": 75,
+    "fatG": 41.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -157,7 +163,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5cee198f36cd45000e72bd26/step-8836c0ae.jpg"
     },
     {
-      "text": "• While the veggies are roasting, thinly slice the spring onion. Thinly slice the long red chilli (if using). Pick and finely chop the mint leaves. Finely chop the garlic (or use a garlic press). Drain the sweetcorn. Grate the carrot (unpeeled). Zest the lemon to get a pinch, then slice into wedges.",
+      "text": "While the veggies are roasting, thinly slice the spring onion. Thinly slice the long red chilli (if using). Pick and finely chop the mint leaves. Finely chop the garlic (or use a garlic press). Drain the sweetcorn. Grate the carrot (unpeeled). Zest the lemon to get a pinch, then slice into wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5cee198f36cd45000e72bd26/step-b155979f.jpg"
     },
     {
@@ -169,11 +175,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5cee198f36cd45000e72bd26/step-b5897d81.jpg"
     },
     {
-      "text": "• In a medium bowl, combine the roasted veggies, baby spinach leaves, remaining fetta and a squeeze of lemon juice. Season with salt and pepper and toss to coat.",
+      "text": "In a medium bowl, combine the roasted veggies, baby spinach leaves, remaining fetta and a squeeze of lemon juice. Season with salt and pepper and toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5cee198f36cd45000e72bd26/step-41c33614.jpg"
     },
     {
-      "text": "• Roughly chop the roasted walnuts. Divide the roast veggie toss and spring onion, corn and fetta fritters between plates. Sprinkle with the walnuts and serve with the dill & parsley mayonnaise and any remaining lemon wedges.",
+      "text": "Roughly chop the roasted walnuts. Divide the roast veggie toss and spring onion, corn and fetta fritters between plates. Sprinkle with the walnuts and serve with the dill & parsley mayonnaise and any remaining lemon wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5cee198f36cd45000e72bd26/step-442a47e7.jpg"
     }
   ]

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/eggplant-mozzarella-roulades-3b901369.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 590,
+    "proteinG": 21.5,
+    "carbsG": 35.5,
+    "fatG": 38.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -82,25 +88,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 220°C/220°C fan-forced. To prepare the ingredients, cut the eggplant into 5 mm slices lengthways. Slice the sourdough roll into 1 cm cubes, and wash the mixed salad leaves.",
+      "text": "Preheat the oven to 220°C/220°C fan-forced. To prepare the ingredients, cut the eggplant into 5 mm slices lengthways. Slice the sourdough roll into 1 cm cubes, and wash the mixed salad leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5816bd8ac726280ff72daae2-0-0-8a929770.jpg"
     },
     {
-      "text": "• Place the eggplant slices on a lined oven tray and drizzle with half of the olive oil. Season with salt and pepper and bake for 10-15 minutes, or until golden and cooked through. Set aside to cool.",
+      "text": "Place the eggplant slices on a lined oven tray and drizzle with half of the olive oil. Season with salt and pepper and bake for 10-15 minutes, or until golden and cooked through. Set aside to cool.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5816bd8ac726280ff72daae2-1-0-b467ea53.jpg"
     },
     {
-      "text": "• Meanwhile, in a medium bowl combine the ricotta and traditional pesto and season with salt and pepper. Set aside."
+      "text": "Meanwhile, in a medium bowl combine the ricotta and traditional pesto and season with salt and pepper. Set aside."
     },
     {
-      "text": "• Next take your cooled eggplant slices, spoon 1 tablespoon of pesto ricotta at the thickest end of each eggplant slice and roll it up. Repeat the process for each slice and place in an ovenproof dish. Spoon the diced tomatoes on top of and around the eggplant, ensuring it is well covered. Grate the mozzarella cheese over the top and place in the oven for 10-15 minutes, or until the cheese has browned.",
+      "text": "Next take your cooled eggplant slices, spoon 1 tablespoon of pesto ricotta at the thickest end of each eggplant slice and roll it up. Repeat the process for each slice and place in an ovenproof dish. Spoon the diced tomatoes on top of and around the eggplant, ensuring it is well covered. Grate the mozzarella cheese over the top and place in the oven for 10-15 minutes, or until the cheese has browned.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5816bd8ac726280ff72daae2-3-0-b5d3be78.jpg"
     },
     {
-      "text": "• Meanwhile, place the sliced bake-at-home sourdough roll on a lined oven tray and drizzle with the remaining olive oil. Season with salt and pepper and toast in the oven for 3-5 minutes, or until crisp and brown. Remove from the oven and combine in a second medium bowl with the mixed salad leaves, white wine vinegar and a drizzle of olive oil."
+      "text": "Meanwhile, place the sliced bake-at-home sourdough roll on a lined oven tray and drizzle with the remaining olive oil. Season with salt and pepper and toast in the oven for 3-5 minutes, or until crisp and brown. Remove from the oven and combine in a second medium bowl with the mixed salad leaves, white wine vinegar and a drizzle of olive oil."
     },
     {
-      "text": "• To serve, divide the salad and eggplant roulades between plates. Enjoy!"
+      "text": "To serve, divide the salad and eggplant roulades between plates. Enjoy!"
     }
   ]
 }

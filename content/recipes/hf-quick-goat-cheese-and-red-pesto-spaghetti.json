@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Goat Cheese & Red Pesto Spaghetti",
   "subtitle": "with Caramelised Cherry Tomatoes",
-  "description": "Our red pesto is loaded with sun-dried tomatoes, almonds and chargrilled capsicum so that every bite is packed with flavour.\nPaired with caramelised cherry tomatoes and creamy goat cheese, it makes this bowl of spaghetti seriously tasty!",
+  "description": "Our red pesto is loaded with sun-dried tomatoes, almonds and chargrilled capsicum so that every bite is packed with flavour. Paired with caramelised cherry tomatoes and creamy goat cheese, it makes this bowl of spaghetti seriously tasty!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-goat-cheese-and-red-pesto-spaghetti-6090f2e24c105b6ccd0e9844",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5fbb35f94f37f1275630f587-fba64200.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 723,
+    "proteinG": 18.2,
+    "carbsG": 78.3,
+    "fatG": 35
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

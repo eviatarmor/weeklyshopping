@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-black-bean-burrito-bowl-26d7d559.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 842,
+    "proteinG": 30.5,
+    "carbsG": 100.5,
+    "fatG": 31.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

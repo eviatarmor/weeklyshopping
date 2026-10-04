@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-tomato-roast-veggie-penne-8c359b8a.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 688,
+    "proteinG": 27.9,
+    "carbsG": 104.7,
+    "fatG": 15.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

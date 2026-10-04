@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Caribbean Bean Nachos",
   "subtitle": "with Corn Salsa",
-  "description": "Bring the bold flavours of the Caribbean to your table with these hearty nachos made with red kidney beans and colourful veggies!\nKeep an eye out...\nDue to recent sourcing\nchallenges, we’ve swapped\nblack beans for chickpeas,\nwhich may look different to\nthe picture. Don’t worry, your\nrecipe will be just as tasty.",
+  "description": "Bring the bold flavours of the Caribbean to your table with these hearty nachos made with red kidney beans and colourful veggies! Keep an eye out... Due to recent sourcing challenges, we’ve swapped black beans for chickpeas, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
   "sourceUrl": "https://www.everyplate.com.au/recipes/caribbean-bean-nachos-6260bfef5a29415e572ff2bf",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-bean-nachos-268e03c1.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 726,
+    "proteinG": 23,
+    "carbsG": 75.8,
+    "fatG": 32
+  },
   "tags": [
     "vegetarian",
     "everyplate",

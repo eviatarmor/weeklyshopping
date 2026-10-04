@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mild North Indian Lentil Bowl with Turmeric Roasted Cauliflower & Cucumber Raita",
   "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
-  "description": "Enjoy an exciting meatless Monday by whipping up this wholesome bowl of lentils. Along with gently spiced\ncauliflower and a touch of zing thanks to lemon, this is a nutritionally balanced delight sent from the heavens.",
+  "description": "Enjoy an exciting meatless Monday by whipping up this wholesome bowl of lentils. Along with gently spiced cauliflower and a touch of zing thanks to lemon, this is a nutritionally balanced delight sent from the heavens.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mild-north-indian-lentil-bowl-with-turmeric-roasted-cauliflower-and-cucumber-raita-603c1c67f3e82260eb5eca88",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mild-north-indian-lentil-bowl-3da20406.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 581,
+    "proteinG": 29,
+    "carbsG": 62.9,
+    "fatG": 19.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

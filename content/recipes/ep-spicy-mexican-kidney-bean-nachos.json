@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Spicy Mexican Kidney Bean Nachos",
   "subtitle": "with Salsa & Sour Cream",
-  "description": "Homemade tortilla chips are the base of this flavourful plate of nachos that really packs the heat! A sprinkling of cheese and scoop of sour cream mellow out the spice for a balanced and delicious plate.\n*Due to recent sourcing challenges, we’ve replaced black beans with red kidney beans, which may look different to the picture. Don’t worry, your recipe will be just as tasty!",
+  "description": "Homemade tortilla chips are the base of this flavourful plate of nachos that really packs the heat! A sprinkling of cheese and scoop of sour cream mellow out the spice for a balanced and delicious plate. *Due to recent sourcing challenges, we’ve replaced black beans with red kidney beans, which may look different to the picture. Don’t worry, your recipe will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/spicy-mexican-black-bean-nachos-67f86fbf4264524ca97a0069",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4007_W23_AU_EP6498-31_main_high-26525507.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 555,
+    "proteinG": 29,
+    "carbsG": 62.9,
+    "fatG": 20.5
+  },
   "tags": [
     "vegetarian",
     "everyplate",

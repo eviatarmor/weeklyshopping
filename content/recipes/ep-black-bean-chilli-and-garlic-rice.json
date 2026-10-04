@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chickpea-chilli-garlic-rice-94bc8369.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 718,
+    "proteinG": 19.9,
+    "carbsG": 95.5,
+    "fatG": 25.4
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -136,7 +142,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63f7f31f98df5e794d0b7343/step-4b6d3ba2.jpg"
     },
     {
-      "text": "• Meanwhile, cut capsicum into bite-sized pieces. Thinly cut zucchini into half moons. Drain and rinse black beans.",
+      "text": "Meanwhile, cut capsicum into bite-sized pieces. Thinly cut zucchini into half moons. Drain and rinse black beans.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63f7f31f98df5e794d0b7343/step-ac38d24e.jpg"
     },
     {

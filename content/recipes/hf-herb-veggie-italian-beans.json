@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5a5ed94ea1e1ea67a12f0332-a5d070d6.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 447,
+    "proteinG": 24.4,
+    "carbsG": 50.1,
+    "fatG": 12
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -138,27 +144,27 @@
   ],
   "steps": [
     {
-      "text": "• Finely slice the **brown onion**. Dice the **carrot** (unpeeled) into 1 cm cubes. Drain and rinse the **cannellini beans**. Dice the **red capsicum**. Peel and crush the **garlic**. Pick the **oregano** leaves. Finely grate the **Parmesan cheese**. Pick the **parsley** leaves and finely chop.",
+      "text": "Finely slice the **brown onion**. Dice the **carrot** (unpeeled) into 1 cm cubes. Drain and rinse the **cannellini beans**. Dice the **red capsicum**. Peel and crush the **garlic**. Pick the **oregano** leaves. Finely grate the **Parmesan cheese**. Pick the **parsley** leaves and finely chop.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a5ed94ea1e1ea67a12f0332/step-e0017140.jpg"
     },
     {
-      "text": "• Heat a **drizzle** of **olive oil** in a large frying pan over a medium-high heat. Add the **brown onion**, **carrot**, **cannellini beans**, **red capsicum** and **garlic** and cook for **5-6 minutes**, or until the vegetables are tender. Add the **Italian herbs** and cook for **1 minute**, or until fragrant.",
+      "text": "Heat a **drizzle** of **olive oil** in a large frying pan over a medium-high heat. Add the **brown onion**, **carrot**, **cannellini beans**, **red capsicum** and **garlic** and cook for **5-6 minutes**, or until the vegetables are tender. Add the **Italian herbs** and cook for **1 minute**, or until fragrant.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a5ed94ea1e1ea67a12f0332/step-8649bf8f.jpg"
     },
     {
-      "text": "• Add the **brown sugar**, **balsamic vinegar**, **tomato paste**, **water (use suggested amount)** and the **salt (use suggested amount)** and stir to combine. Add the **baby spinach leaves** and **oregano** and stir for **1-2 minutes**, or until the spinach leaves have wilted and the liquid has reduced slightly. Remove the pan from the heat and set aside.",
+      "text": "Add the **brown sugar**, **balsamic vinegar**, **tomato paste**, **water (use suggested amount)** and the **salt (use suggested amount)** and stir to combine. Add the **baby spinach leaves** and **oregano** and stir for **1-2 minutes**, or until the spinach leaves have wilted and the liquid has reduced slightly. Remove the pan from the heat and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a5ed94ea1e1ea67a12f0332/step-bd5656aa.jpg"
     },
     {
-      "text": "• Preheat the grill to **medium**. Cut the **bake-at-home ciabatta** into small 2 cm chunks. In a medium bowl, combine the ciabatta chunks, **Parmesan cheese**, **parsley** and a **generous drizzle** of **olive oil**. Season with a **pinch** of **salt** and **pepper** and toss to coat.",
+      "text": "Preheat the grill to **medium**. Cut the **bake-at-home ciabatta** into small 2 cm chunks. In a medium bowl, combine the ciabatta chunks, **Parmesan cheese**, **parsley** and a **generous drizzle** of **olive oil**. Season with a **pinch** of **salt** and **pepper** and toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a5ed94ea1e1ea67a12f0332/step-a6e0984b.jpg"
     },
     {
-      "text": "• Pour the **veggie and bean mixture** into a medium baking dish and top with the **herby ciabatta**. Place under the grill for **3-5 minutes**, or until the bread is golden and slightly crunchy.",
+      "text": "Pour the **veggie and bean mixture** into a medium baking dish and top with the **herby ciabatta**. Place under the grill for **3-5 minutes**, or until the bread is golden and slightly crunchy.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a5ed94ea1e1ea67a12f0332/step-2efdfed1.jpg"
     },
     {
-      "text": "• Divide the herby ciabatta Italian beans between plates.",
+      "text": "Divide the herby ciabatta Italian beans between plates.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a5ed94ea1e1ea67a12f0332/step-39046b7d.jpg"
     }
   ]

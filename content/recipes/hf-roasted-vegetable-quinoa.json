@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/556fc302f8b25e810b8b456b.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 18.9,
+    "carbsG": 65.4,
+    "fatG": 38.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -91,22 +97,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 200°C/180°C fan forced. Line an oven tray with baking paper."
+      "text": "Preheat oven to 200°C/180°C fan forced. Line an oven tray with baking paper."
     },
     {
-      "text": "• To prepare the ingredients, cut the pumpkin (peeled) and baby eggplant into 2 cm cubes. Cut the red onion into wedges and roughly chop the mint and coriander. Zest and juice the lemon."
+      "text": "To prepare the ingredients, cut the pumpkin (peeled) and baby eggplant into 2 cm cubes. Cut the red onion into wedges and roughly chop the mint and coriander. Zest and juice the lemon."
     },
     {
-      "text": "• Place the pumpkin, baby eggplant and red onion on the prepared oven tray. Toss in the olive oil and the HelloFresh Cumin and Coriander Spice Mix. Season generously with salt and pepper. Cook in the oven for 20 minutes or until the vegetables are tender and golden."
+      "text": "Place the pumpkin, baby eggplant and red onion on the prepared oven tray. Toss in the olive oil and the HelloFresh Cumin and Coriander Spice Mix. Season generously with salt and pepper. Cook in the oven for 20 minutes or until the vegetables are tender and golden."
     },
     {
-      "text": "• Meanwhile, place the quinoa into a fine sieve and rinse it with cold tap water. Add the quinoa to a pot with double the amount of water and bring to the boil. Cover and reduce to a medium-low heat. Simmer gently for 12 minutes or until the quinoa is tender. Drain if any liquid remains and fluff with a fork. Stir through the lemon zest and juice."
+      "text": "Meanwhile, place the quinoa into a fine sieve and rinse it with cold tap water. Add the quinoa to a pot with double the amount of water and bring to the boil. Cover and reduce to a medium-low heat. Simmer gently for 12 minutes or until the quinoa is tender. Drain if any liquid remains and fluff with a fork. Stir through the lemon zest and juice."
     },
     {
-      "text": "• Stir the roast vegetables, mint, coriander and pine nuts through the quinoa."
+      "text": "Stir the roast vegetables, mint, coriander and pine nuts through the quinoa."
     },
     {
-      "text": "• To serve, divide the roasted vegetable quinoa between bowls and drizzle with the natural yoghurt."
+      "text": "To serve, divide the roasted vegetable quinoa between bowls and drizzle with the natural yoghurt."
     }
   ]
 }

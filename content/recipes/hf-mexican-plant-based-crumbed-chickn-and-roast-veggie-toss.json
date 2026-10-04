@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Plant-Based Crumbed Chick'n & Roast Veggie Toss",
   "subtitle": "with Creamy Garlic Sauce",
-  "description": "Let’s hear it for mid-week Mexican! Our Tex-Mex spice blend is all you need to flavour the juicy PB chicken, which works a treat with the veggies, zesty coriander and a dollop of mayo. \nThis recipe is under 650kcal per serving.",
+  "description": "Let’s hear it for mid-week Mexican! Our Tex-Mex spice blend is all you need to flavour the juicy PB chicken, which works a treat with the veggies, zesty coriander and a dollop of mayo. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-plant-based-crumbed-chickn-and-roast-veggie-toss-63c0cdf4b29d0c9319096ff3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tex-mex-chicken-4e2e78b4.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 633,
+    "proteinG": 22.9,
+    "carbsG": 58.3,
+    "fatG": 33.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

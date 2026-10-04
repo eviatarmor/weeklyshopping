@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/malaysian-tofu-veggie-curry-new-df9485ca.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 949,
+    "proteinG": 28.5,
+    "carbsG": 84.5,
+    "fatG": 50.5
+  },
   "tags": [
     "vegetarian",
     "everyplate",

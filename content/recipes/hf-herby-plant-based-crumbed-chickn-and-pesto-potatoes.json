@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/herby-plant-based-crumbed-chickn-pesto-potatoes-f96d7a95.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 787,
+    "proteinG": 25.9,
+    "carbsG": 51.3,
+    "fatG": 51.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -98,11 +104,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63d8f0be0c3945380007b16a/step-0ddec3f1.jpg"
     },
     {
-      "text": "• Meanwhile, roughly chop tomato and cucumber.",
+      "text": "Meanwhile, roughly chop tomato and cucumber.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63d8f0be0c3945380007b16a/step-7a2adf05.jpg"
     },
     {
-      "text": "• In a large bowl, combine plant-based crumbed chicken, garlic & herb seasoning, a drizzle of olive oil and a pinch of salt and pepper.",
+      "text": "In a large bowl, combine plant-based crumbed chicken, garlic & herb seasoning, a drizzle of olive oil and a pinch of salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63d8f0be0c3945380007b16a/step-bf0a5b88.jpg"
     },
     {

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Satay Tofu Salad Bowl",
   "subtitle": "with Peanut Dressing & Chilli",
-  "description": "A peanutty tofu bowl is just what the doctor ordered! This one is nothing short of nutty, with a peanut butter-based dressing\nand a sprinkling of crushed peanuts, trust us when we say, you'll be going nuts for more!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "A peanutty tofu bowl is just what the doctor ordered! This one is nothing short of nutty, with a peanut butter-based dressing and a sprinkling of crushed peanuts, trust us when we say, you'll be going nuts for more! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/satay-tofu-salad-bowl-66cd78224ac430fcc0016f0f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66cd78224ac430fcc0016f0f-db41331e.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 541,
+    "proteinG": 35.1,
+    "carbsG": 26.6,
+    "fatG": 29.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

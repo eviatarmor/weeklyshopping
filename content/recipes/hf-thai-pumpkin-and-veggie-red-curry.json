@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Thai Pumpkin & Veggie Red Curry",
   "subtitle": "with Crushed Peanuts",
-  "description": "This Thai red curry is loaded with veggies, giving it plenty of nutritional virtue to boast about. Coated in a creamy\nred curry sauce, they become soft, sweet and incredibly moreish. The only way to improve this cracking curry?\nCrushed peanuts. Tick!",
+  "description": "This Thai red curry is loaded with veggies, giving it plenty of nutritional virtue to boast about. Coated in a creamy red curry sauce, they become soft, sweet and incredibly moreish. The only way to improve this cracking curry? Crushed peanuts. Tick!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-pumpkin-and-veggie-red-curry-611d94a47a7a126f3e224622",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5d41331216c6250008273a7d-5bf983e1.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 905,
+    "proteinG": 19.8,
+    "carbsG": 94.6,
+    "fatG": 43.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

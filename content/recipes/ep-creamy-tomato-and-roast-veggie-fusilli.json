@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Tomato & Roast Veggie Fusilli",
   "subtitle": "with Parmesan Cheese",
-  "description": "This bowl of cheesy pasta is the ultimate mid-week dinner. Delivering happiness with every mouthful it's packed with hearty roasted veggies and a creamy tomato sauce.\n*Due to recent sourcing challenges, we've replaced penne with fusilli, which may look different to the picture. Don’t worry, your recipe will be just as tasty!",
+  "description": "This bowl of cheesy pasta is the ultimate mid-week dinner. Delivering happiness with every mouthful it's packed with hearty roasted veggies and a creamy tomato sauce. *Due to recent sourcing challenges, we've replaced penne with fusilli, which may look different to the picture. Don’t worry, your recipe will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/creamy-tomato-and-roast-veggie-fusilli-667f64c6004ad21ab42e470b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6645be4a7f0f25a24185c873-fb198bc0.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 717,
+    "proteinG": 26.3,
+    "carbsG": 87.3,
+    "fatG": 27.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

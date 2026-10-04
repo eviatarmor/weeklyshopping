@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/563ac4b2f8b25e8b048b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 418,
+    "proteinG": 26.6,
+    "carbsG": 32.7,
+    "fatG": 18.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -95,18 +101,18 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato (unpeeled) and red capsicum into 2 cm chuncks. Cut the tomato and red onion into wedges, and cut the tofu into cubes. Peel and crush the garlic. Crumble the fetta cheese and pick the parsley leaves."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato (unpeeled) and red capsicum into 2 cm chuncks. Cut the tomato and red onion into wedges, and cut the tofu into cubes. Peel and crush the garlic. Crumble the fetta cheese and pick the parsley leaves."
     },
     {
-      "text": "• Place the sweet potato, tomato wedges, red onion and red capsicum on a lined oven tray. Combine the olive oil, garlic and red wine vinegar in a small bowl or jug. Pour the oil mixture over the vegetables and toss to coat well. Season well with salt and pepper. Cook in the oven for 30-35 minutes or until the veggies begin to turn golden.",
+      "text": "Place the sweet potato, tomato wedges, red onion and red capsicum on a lined oven tray. Combine the olive oil, garlic and red wine vinegar in a small bowl or jug. Pour the oil mixture over the vegetables and toss to coat well. Season well with salt and pepper. Cook in the oven for 30-35 minutes or until the veggies begin to turn golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/563ac4b2f8b25e8b048b4567/step_56494dcc9da1a.jpg"
     },
     {
-      "text": "• Add the Korean BBQ tofu to another lined oven tray. Cook in the same oven for 10 minutes. Turn the tofu over and cook for a further 10 minutes.",
+      "text": "Add the Korean BBQ tofu to another lined oven tray. Cook in the same oven for 10 minutes. Turn the tofu over and cook for a further 10 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/563ac4b2f8b25e8b048b4567/step_56494dccbbc0e.jpg"
     },
     {
-      "text": "• Toss the tofu cubes with the rocket leaves, roast vegetables, fetta cheese and parsley leaves. Drizzle with extra olive oil if you like."
+      "text": "Toss the tofu cubes with the rocket leaves, roast vegetables, fetta cheese and parsley leaves. Drizzle with extra olive oil if you like."
     }
   ]
 }

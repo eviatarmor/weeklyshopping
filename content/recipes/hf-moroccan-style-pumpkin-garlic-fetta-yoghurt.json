@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chermoula-Spiced Pumpkin & Haloumi",
   "subtitle": "with Garlic-Fetta Yoghurt & Pepitas",
-  "description": "Celebrate World Vegetarian Month and find your balance with our Meat-Free Marvels. Tonight's dish is all about the pumpkin; roast it with a good sprinkle of ras el hanout, then finish it with a drizzle of honey for the\nperfect balance of sweetness and spice. The yoghurt adds a lovely creaminess and contrast of flavours, with a subtle saltiness and\ntang from the fetta.",
+  "description": "Celebrate World Vegetarian Month and find your balance with our Meat-Free Marvels. Tonight's dish is all about the pumpkin; roast it with a good sprinkle of ras el hanout, then finish it with a drizzle of honey for the perfect balance of sweetness and spice. The yoghurt adds a lovely creaminess and contrast of flavours, with a subtle saltiness and tang from the fetta.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/moroccan-style-pumpkin-garlic-fetta-yoghurt-62df501f1a852ebeae0df944",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6507b277ddf45550bcf9f3f1-42f390b8.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1083,
+    "proteinG": 43,
+    "carbsG": 100.7,
+    "fatG": 55.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -154,7 +160,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6507b277ddf45550bcf9f3f1-ee23ccde.jpeg"
     },
     {
-      "text": "• Stir baby spinach leaves and roasted zucchini and onion through the garlic rice.",
+      "text": "Stir baby spinach leaves and roasted zucchini and onion through the garlic rice.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6507b277ddf45550bcf9f3f1-94afaf5f.jpeg"
     },
     {

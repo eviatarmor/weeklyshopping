@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Roasted Veg Bowl",
   "subtitle": "with Babaganoush & Mint Yoghurt",
-  "description": "Bring this veggie-loaded bowl brimming with colour and texture to your table tonight! Squeaky haloumi pairs perfectly with a tender roast veggie toss. Slather your bowl with our rich and smokey babaganoush - the ideal accompaniment to this unforgettable dinner delight!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Bring this veggie-loaded bowl brimming with colour and texture to your table tonight! Squeaky haloumi pairs perfectly with a tender roast veggie toss. Slather your bowl with our rich and smokey babaganoush - the ideal accompaniment to this unforgettable dinner delight! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-and-chermoula-roasted-veg-bowl-671b116c1fda05b1d5f95ef8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/671b116c1fda05b1d5f95ef8-21ca904e.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 421,
+    "proteinG": 27.2,
+    "carbsG": 33.5,
+    "fatG": 37.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Dhal-Loaded Potatoes",
   "subtitle": "with Celery Salad, Almonds & Coconut Yoghurt",
-  "description": "Bursting with Indian-inspired flavours, this winner dinner is comfort on a plate. If you love lentil dhal over rice,\nwait till you try it on the cheesy baked potatoes. Trust us, it works.",
+  "description": "Bursting with Indian-inspired flavours, this winner dinner is comfort on a plate. If you love lentil dhal over rice, wait till you try it on the cheesy baked potatoes. Trust us, it works.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-dhal-loaded-potatoes-6488022817e7f91161de48e9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6488022817e7f91161de48e9-83648f54.jpeg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 674,
+    "proteinG": 32.2,
+    "carbsG": 66.4,
+    "fatG": 28.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -165,7 +171,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6488022817e7f91161de48e9-b516577d.jpeg"
     },
     {
-      "text": "• While the dhal is simmering, combine a drizzle of the white wine vinegar and olive oil in a medium bowl. Season, then add mixed salad leaves and celery. Toss to coat.",
+      "text": "While the dhal is simmering, combine a drizzle of the white wine vinegar and olive oil in a medium bowl. Season, then add mixed salad leaves and celery. Toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6488022817e7f91161de48e9-57e08696.jpeg"
     },
     {

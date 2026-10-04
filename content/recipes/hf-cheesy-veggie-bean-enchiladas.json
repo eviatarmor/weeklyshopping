@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Veggie & Bean Enchiladas",
   "subtitle": "with Salad & Sour Cream",
-  "description": "Enchiladas – what could be more fun? Make a tasty bean filling, roll it up in soft flour wraps and then top the whole thing off\nwith melted cheesy goodness. With a fresh side salad, this vego meal is a winner.",
+  "description": "Enchiladas – what could be more fun? Make a tasty bean filling, roll it up in soft flour wraps and then top the whole thing off with melted cheesy goodness. With a fresh side salad, this vego meal is a winner.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-veggie-bean-enchiladas-63e1fbc2f1a6a960730abedb",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-veggie-bean-enchiladas-31a13381.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 872,
+    "proteinG": 30.1,
+    "carbsG": 96,
+    "fatG": 37
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

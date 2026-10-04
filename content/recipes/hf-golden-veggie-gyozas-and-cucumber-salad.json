@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Golden Veggie Gyozas & Pea Pod Salad",
   "subtitle": "with Sesame Peanut Dressing",
-  "description": "We are the experts in adding our fave veggie gyozas into every and any meal. In this new fusion dish, add pan-seared golden gyozas to this delectable pea pod salad. It’s made even better once you drizzle the sesame peanut dressing over the top.\nDue to local availability, the ingredients you receive may be a little different\nto what's pictured. It'll be just as delicious, just follow your recipe card!\nThis recipe is under 650kcal per serving.",
+  "description": "We are the experts in adding our fave veggie gyozas into every and any meal. In this new fusion dish, add pan-seared golden gyozas to this delectable pea pod salad. It’s made even better once you drizzle the sesame peanut dressing over the top. Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/golden-veggie-gyozas-and-cucumber-salad-67f85dcc0d0527cba53b2b69",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W21_AUS_MAIN_14_high-2b2ff55e.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 550,
+    "proteinG": 17.1,
+    "carbsG": 51.8,
+    "fatG": 32.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

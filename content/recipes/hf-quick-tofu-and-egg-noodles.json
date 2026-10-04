@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Tofu & Egg Noodles",
   "subtitle": "with Veggies, Sesame Dressing & Peanuts",
-  "description": "In this moreish meal, tender tofu, springy egg noodles and vibrant green veg happily soak up the sweet, savoury and zingy\nAsian-inspired flavours. The creaminess from the sesame dressing and crunch from the peanuts add the finishing touches.\nUnfortunately, this\nweek's egg noodles was\nin short supply, so we've\nreplaced it with udon\nnoodles. Don't worry,\nthe recipe will be just\nas delicious!",
+  "description": "In this moreish meal, tender tofu, springy egg noodles and vibrant green veg happily soak up the sweet, savoury and zingy Asian-inspired flavours. The creaminess from the sesame dressing and crunch from the peanuts add the finishing touches. Unfortunately, this week's egg noodles was in short supply, so we've replaced it with udon noodles. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-tofu-and-egg-noodles-632112c3dc7a976f4e0dae1d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crumbled-tofu-egg-noodles-05180f99.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 654,
+    "proteinG": 28.1,
+    "carbsG": 74.7,
+    "fatG": 25.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

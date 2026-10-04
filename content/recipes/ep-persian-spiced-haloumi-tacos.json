@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/middle-eastern-haloumi-tacos-ebab745f.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 942,
+    "proteinG": 29.3,
+    "carbsG": 59.4,
+    "fatG": 62.5
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Golden Zucchini, Carrot & Cheddar Fritters",
   "subtitle": "with Babaganoush & Roast Veggie Salad",
-  "description": "There's no better way to get your veggies than by adding them to cheesy fritters, gently fried to a gorgeous finish.\nWith an extra dose of goodness from the side salad and a delicious babaganoush, this colourful dish tastes every\nbit as good as it looks! \nThis recipe is under 650kcal per serving.\nThe recent harsh weather conditions have impacted the zucchinis grown by our farmers.\nThe quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "There's no better way to get your veggies than by adding them to cheesy fritters, gently fried to a gorgeous finish. With an extra dose of goodness from the side salad and a delicious babaganoush, this colourful dish tastes every bit as good as it looks! This recipe is under 650kcal per serving. The recent harsh weather conditions have impacted the zucchinis grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/golden-zucchini-carrot-and-cheddar-fritters-58a0fa3f171c5840d34919e4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/zucchini-fritters-cheese-6a399775.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 604,
+    "proteinG": 23.3,
+    "carbsG": 57.1,
+    "fatG": 28.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

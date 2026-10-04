@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Spiced Cauliflower, Freekeh & Goat Cheese Salad with Toasted Almonds",
   "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
-  "description": "The key to making a killer salad? Having a mixture of flavours and textures, and enough hearty ingredients to ensure you feel\nsatisfied at the end. This one ticks all those boxes to make it the perfect nutritionally balanced meal.",
+  "description": "The key to making a killer salad? Having a mixture of flavours and textures, and enough hearty ingredients to ensure you feel satisfied at the end. This one ticks all those boxes to make it the perfect nutritionally balanced meal.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/spiced-cauliflower-freekeh-and-goat-cheese-salad-with-toasted-almonds-6020bc4742ad5f1b2f0fb0cd",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spiced-cauliflower-freekeh-goat-cheese-salad-85a004e7.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 449,
+    "proteinG": 16.5,
+    "carbsG": 51.6,
+    "fatG": 16.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

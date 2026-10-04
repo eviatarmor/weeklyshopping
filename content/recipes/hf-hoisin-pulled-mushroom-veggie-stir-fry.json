@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Hoisin Pulled Mushrooms & Veggie Stir-Fry",
   "subtitle": "with Garlic Rice & Crispy Shallots",
-  "description": "Introducing our veggie alternative to pulled pork - chunky shredded mushrooms! Cook it with tasty hoisin sauce and lime then\nteam the whole thing with crisp veggies and garlic rice for a meaty mushroom dish that will take you on a flavour ride.",
+  "description": "Introducing our veggie alternative to pulled pork - chunky shredded mushrooms! Cook it with tasty hoisin sauce and lime then team the whole thing with crisp veggies and garlic rice for a meaty mushroom dish that will take you on a flavour ride.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/hoisin-pulled-mushroom-veggie-stir-fry-6020bc0a9fdc6a179e5aa468",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/hoisin-pulled-mushroom-veggie-stir-fry-37216d80.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 811,
+    "proteinG": 22,
+    "carbsG": 112,
+    "fatG": 31.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

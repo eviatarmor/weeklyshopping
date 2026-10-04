@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Shortcut Tamarind Tofu Tacos",
   "subtitle": "with Creamy Slaw & Spring Onion",
-  "description": "Slathered in a tamarind honey-soy glaze, the stickiest tofu awaits you. Once cooked and coated, flake it to serve in these soft tortillas, then pile them high with a creamy slaw and spring onion. This meal will change how you eat salmon forever.\nThis recipe is under 650kcal per serving.",
+  "description": "Slathered in a tamarind honey-soy glaze, the stickiest tofu awaits you. Once cooked and coated, flake it to serve in these soft tortillas, then pile them high with a creamy slaw and spring onion. This meal will change how you eat salmon forever. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/shortcut-tamarind-tofu-tacos-67f85cafcade9b9f0ace81c0",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R06_W01_AUS_edit__Main_F2_high-42e3bbdb.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 611,
+    "proteinG": 32.4,
+    "carbsG": 61,
+    "fatG": 97.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

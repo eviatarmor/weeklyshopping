@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R40_W49_AUS_remove_parsley_edit__Main_high-58bba89d.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 850,
+    "proteinG": 37.1,
+    "carbsG": 99.1,
+    "fatG": 31.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

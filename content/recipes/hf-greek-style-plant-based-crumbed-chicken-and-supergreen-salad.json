@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Greek-Style Plant-Based Crumbed Chick'n & Supergreen Salad",
   "subtitle": "with Oregano Potatoes & Garlic Sauce",
-  "description": "A warm bed of golden potatoes lay the base for plant-based crumbed chick'n of joyous proportions. Teamed with crisp veggies and pickled onion, it's a delectable meal the whole family will love.\nThis recipe is under 650kcal per serving.",
+  "description": "A warm bed of golden potatoes lay the base for plant-based crumbed chick'n of joyous proportions. Teamed with crisp veggies and pickled onion, it's a delectable meal the whole family will love. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/greek-style-beef-rump-and-supergreen-salad-67f86cd7cade9b9f0acee7e5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R18_W09_AUS_Main_F2_high-09f39c66.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 586,
+    "proteinG": 26.8,
+    "carbsG": 67.9,
+    "fatG": 20.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

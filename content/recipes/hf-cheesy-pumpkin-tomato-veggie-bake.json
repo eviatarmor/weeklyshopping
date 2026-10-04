@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Pumpkin, Tomato & Veggie Bake",
   "subtitle": "with Pear Salad & Pangrattato",
-  "description": "What do you get when you bake slightly sweet roasted veg with a homemade herby tomato sauce, shredded Cheddar and a\nParmesan-spiked pangrattato? The kind of dish that will have you excited to eat your veggies! Serve with a refreshing pear salad for added texture and to cut through the richness.\nThis recipe is under 650kcal per serving.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "What do you get when you bake slightly sweet roasted veg with a homemade herby tomato sauce, shredded Cheddar and a Parmesan-spiked pangrattato? The kind of dish that will have you excited to eat your veggies! Serve with a refreshing pear salad for added texture and to cut through the richness. This recipe is under 650kcal per serving. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-pumpkin-tomato-veggie-bake-6242c566fdec0d6c07175ee4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-pumpkin-tomato-veggie-bake-c7c437e2.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 603,
+    "proteinG": 22.9,
+    "carbsG": 61.6,
+    "fatG": 28
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

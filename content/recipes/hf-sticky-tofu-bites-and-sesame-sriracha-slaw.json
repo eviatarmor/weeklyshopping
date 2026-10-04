@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sticky Tofu Bites & Sesame Sriracha Slaw",
   "subtitle": "with Mixed Leaves & Crushed Peanuts",
-  "description": "Perfect bite-sized parcels of tofu are doused in a mouth-watering sweet soy and sweet chilli concoction, that tastes even better than it sounds (and it sounds really good!). To add some crunch to your squeaky tofu, add an equally delicious sesame sriracha-laced slaw and you'll be thanking us later!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Perfect bite-sized parcels of tofu are doused in a mouth-watering sweet soy and sweet chilli concoction, that tastes even better than it sounds (and it sounds really good!). To add some crunch to your squeaky tofu, add an equally delicious sesame sriracha-laced slaw and you'll be thanking us later! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sticky-tofu-bites-and-sesame-sriracha-slaw-67f8601ccade9b9f0ace95df",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W44_AU_R19149-8_Main_high-85a2ed16.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 586,
+    "proteinG": 32,
+    "carbsG": 27,
+    "fatG": 36.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/561dec5b4dab713b798b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 609,
+    "proteinG": 26.2,
+    "carbsG": 70,
+    "fatG": 22.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -112,22 +118,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the grill to a medium-high heat. To prepare the ingredients, finely chop the red onion, birdseye chilli (deseeded) and parsley. Dice the red capsicum and slice the haloumi. Peel and crush the garlic. Drain and rinse the chickpeas. Melt the butter."
+      "text": "Preheat the grill to a medium-high heat. To prepare the ingredients, finely chop the red onion, birdseye chilli (deseeded) and parsley. Dice the red capsicum and slice the haloumi. Peel and crush the garlic. Drain and rinse the chickpeas. Melt the butter."
     },
     {
       "text": "• Heat the olive oil in a medium saucepan over a medium-high heat. Add the red onion and red capsicum and cook for 3 minutes or until soft. Add the birdseye chilli and the garlic and cook for a further 2 minutes. Add the diced tomatoes, white wine and some salt and pepper. Bring to the boil and then reduce to a simmer. Add the chickpeas and simmer gently for 8-10 minutes or until the sauce thickens slightly.\n• Tip: If you like extra heat throw in the chilli seeds.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/561dec5b4dab713b798b4567/step_564d631d3fd04.jpg"
     },
     {
-      "text": "• Transfer the sauce to a medium baking dish. Place the haloumi slices on top and place under the grill for 5 minutes or until the haloumi begins to turn golden.",
+      "text": "Transfer the sauce to a medium baking dish. Place the haloumi slices on top and place under the grill for 5 minutes or until the haloumi begins to turn golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/561dec5b4dab713b798b4567/step_564d631d77894.jpg"
     },
     {
-      "text": "• Meanwhile, place the couscous and boiling water in a medium bowl. Cover with cling wrap and set aside for 5 minutes. Stir through the butter. Fluff with a fork and season to taste with salt and pepper. Stir through half of the parsley.",
+      "text": "Meanwhile, place the couscous and boiling water in a medium bowl. Cover with cling wrap and set aside for 5 minutes. Stir through the butter. Fluff with a fork and season to taste with salt and pepper. Stir through half of the parsley.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/561dec5b4dab713b798b4567/step_564d631d8ada9.jpg"
     },
     {
-      "text": "• Garnish the chickpea saganaki with the remaining parsley and serve with the couscous."
+      "text": "Garnish the chickpea saganaki with the remaining parsley and serve with the couscous."
     }
   ]
 }

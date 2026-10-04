@@ -99,6 +99,24 @@ export function measure(
   return { qty: rounded, unit: "g", approximate: true };
 }
 
+const KJ_PER_KCAL = 4.184;
+
+/**
+ * Some sources (older HelloFresh recipes especially) publish kilojoules in the
+ * "Calories" field. Check the figure against the macros (4/4/9 kcal per gram of
+ * protein/carbs/fat): if it's about 4.2× too high, it's really kJ. Without
+ * macros, anything above 1,800 kcal for a single serving is assumed to be kJ.
+ */
+export function correctedKcal(kcal: number, macros: { proteinG?: number; carbsG?: number; fatG?: number } = {}): number {
+  const { proteinG, carbsG, fatG } = macros;
+  if (proteinG != null && carbsG != null && fatG != null) {
+    const fromMacros = 4 * proteinG + 4 * carbsG + 9 * fatG;
+    if (fromMacros > 0 && kcal / fromMacros > 2.5) return Math.round(kcal / KJ_PER_KCAL);
+    return kcal;
+  }
+  return kcal > 1800 ? Math.round(kcal / KJ_PER_KCAL) : kcal;
+}
+
 /** Which spoon standard a recipe's source uses. */
 export function spoonStandardFor(sourceUrl: string | null | undefined): SpoonStandard {
   return sourceUrl && /mealime\.com/.test(sourceUrl) ? "us" : "au";

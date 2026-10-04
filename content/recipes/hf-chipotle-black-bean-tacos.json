@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chipotle-black-bean-tacos-9aaadbdc.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 673,
+    "proteinG": 21.4,
+    "carbsG": 74.3,
+    "fatG": 26.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

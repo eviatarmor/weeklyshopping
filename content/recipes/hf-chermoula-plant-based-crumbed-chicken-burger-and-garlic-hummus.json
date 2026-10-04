@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chermoula Plant-Based Chick'n & Garlic Hummus Burger",
   "subtitle": "with Caramelised Onion & Sweet Potato Fries",
-  "description": "Did somebody say hummus for burger night? The answer is yes and we can’t wait to take a big bite out of this chermoula chick'n burger, brimming with only the best Middle Eastern flavours and layered with hummus and caramelised onion. If you have any garlic hummus leftover, feel free to dip the sweet potato fries in for some fun!\nWe’ve replaced the tomato in this recipe with cucumber due to local\ningredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Did somebody say hummus for burger night? The answer is yes and we can’t wait to take a big bite out of this chermoula chick'n burger, brimming with only the best Middle Eastern flavours and layered with hummus and caramelised onion. If you have any garlic hummus leftover, feel free to dip the sweet potato fries in for some fun! We’ve replaced the tomato in this recipe with cucumber due to local ingredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-plant-based-crumbed-chicken-burger-and-garlic-hummus-67f843e64264524ca97901f6",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R03_W28_AUS_Main_high-18c85a2e.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 784,
+    "proteinG": 30.8,
+    "carbsG": 97.6,
+    "fatG": 25.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

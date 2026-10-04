@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Green Curry Veggie & Noodle Soup",
   "subtitle": "with Crushed Peanuts",
-  "description": "Fast, fresh and full of bold Thai flavours, switch things up for dinner with this one-pan meal. Our green curry paste is the key\nplayer, and the flat noodles are perfect for slurping up all the coconutty goodness.",
+  "description": "Fast, fresh and full of bold Thai flavours, switch things up for dinner with this one-pan meal. Our green curry paste is the key player, and the flat noodles are perfect for slurping up all the coconutty goodness.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/green-curry-veggie-and-noodle-soup-61fc5c1076fcd442c67bb25a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-green-coconut-noodle-soup-36f685ce.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 742,
+    "proteinG": 12.6,
+    "carbsG": 56.7,
+    "fatG": 49.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

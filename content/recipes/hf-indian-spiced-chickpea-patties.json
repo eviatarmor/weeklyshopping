@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian-Spiced Chickpea Patties",
   "subtitle": "with Coriander, Fries & Garlic Sauce",
-  "description": "Transform canned chickpeas into tender patties infused with caramelised onion chutney, zesty coriander and mild spices, then\nserve them up with all the good stuff: oven-baked fries, creamy garlic sauce, and a salad with sweet bursts of cherry tomato.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "Transform canned chickpeas into tender patties infused with caramelised onion chutney, zesty coriander and mild spices, then serve them up with all the good stuff: oven-baked fries, creamy garlic sauce, and a salad with sweet bursts of cherry tomato. Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/indian-spiced-chickpea-patties-6181e9afae71f033e8712a03",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-spiced-chickpea-patties-c62a4184.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 505,
+    "proteinG": 28.5,
+    "carbsG": 94.6,
+    "fatG": 27.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

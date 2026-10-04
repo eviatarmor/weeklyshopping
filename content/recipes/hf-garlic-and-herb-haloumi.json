@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Garlic & Herb Haloumi",
   "subtitle": "with Roast Veggie Toss & Creamy Pesto",
-  "description": "You can't go wrong with garlic and herbs, or vibrant roasted veggies, or creamy pesto. This meal is a greatest\nhits of our favourite flavours, with juicy haloumi leading the way.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "You can't go wrong with garlic and herbs, or vibrant roasted veggies, or creamy pesto. This meal is a greatest hits of our favourite flavours, with juicy haloumi leading the way. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/garlic-and-herb-haloumi-61f9e05ea687c94f6022b391",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlic-herb-haloumi-7b606b67.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 765,
+    "proteinG": 29.2,
+    "carbsG": 48.9,
+    "fatG": 48.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -101,11 +107,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9e05ea687c94f6022b391/step-52b0e9bc.jpg"
     },
     {
-      "text": "• While the veggies are roasting, cut the haloumi into 1cm-thick slices. Combine a drizzle of olive oil and the garlic & herb seasoning in a large bowl. Season, add the haloumi, turning to coat.",
+      "text": "While the veggies are roasting, cut the haloumi into 1cm-thick slices. Combine a drizzle of olive oil and the garlic & herb seasoning in a large bowl. Season, add the haloumi, turning to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9e05ea687c94f6022b391/step-8202d682.jpg"
     },
     {
-      "text": "• When the veggies have 5 minutes cook time remaining, heat a drizzle of olive oil in a large frying pan over a medium-high heat. Cook the haloumi until golden brown, 1-2 minutes each side.",
+      "text": "When the veggies have 5 minutes cook time remaining, heat a drizzle of olive oil in a large frying pan over a medium-high heat. Cook the haloumi until golden brown, 1-2 minutes each side.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9e05ea687c94f6022b391/step-80828468.jpg"
     },
     {
@@ -113,7 +119,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9e05ea687c94f6022b391/step-eea810bd.jpg"
     },
     {
-      "text": "• Slice the garlic and herb chicken. Divide the roast veggie toss between plates. Top with the chicken, spooning over any resting juices. Drizzle with the creamy pesto. Sprinkle with the pepitas to serve.",
+      "text": "Slice the garlic and herb chicken. Divide the roast veggie toss between plates. Top with the chicken, spooning over any resting juices. Drizzle with the creamy pesto. Sprinkle with the pepitas to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61f9e05ea687c94f6022b391/step-bb576976.jpg"
     }
   ]

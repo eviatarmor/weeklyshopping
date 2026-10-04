@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Baked Pumpkin & Cheesy Gnocchi",
   "subtitle": "with Spinach, Rocket & Almond Salad",
-  "description": "Celebrate World Vegetarian Month and find your balance with our Meat-Free Marvels. Picture golden bundles of gnocchi smothered in a cheesy creamy sauce with sweet roasted veggies and drizzled with truffle oil. Now, if that hasn’t got your mouth watering, just wait until you tuck into the real thing.\nUnfortunately, this week’s\nParmesan cheese was\nin short supply, so we’ve\nreplaced it with Cheddar\ncheese. Don’t worry,\nthe recipe will be just as\ndelicious, just be sure to\nfollow your recipe card!",
+  "description": "Celebrate World Vegetarian Month and find your balance with our Meat-Free Marvels. Picture golden bundles of gnocchi smothered in a cheesy creamy sauce with sweet roasted veggies and drizzled with truffle oil. Now, if that hasn’t got your mouth watering, just wait until you tuck into the real thing. Unfortunately, this week’s Parmesan cheese was in short supply, so we’ve replaced it with Cheddar cheese. Don’t worry, the recipe will be just as delicious, just be sure to follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/baked-pumpkin-and-cheesy-gnocchi-64f9208d5c765d9f44c17b36",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64f9208d5c765d9f44c17b36-bdc1da0e.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 839,
+    "proteinG": 29.8,
+    "carbsG": 97.5,
+    "fatG": 35.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-bean-baked-quesadillas-41e5e767-f15f2974.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 802,
+    "proteinG": 31.6,
+    "carbsG": 81.8,
+    "fatG": 34.8
+  },
   "tags": [
     "everyplate",
     "mexican",

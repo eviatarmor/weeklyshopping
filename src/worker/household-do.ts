@@ -26,7 +26,7 @@ export class HouseholdDO extends DurableObject<Env> {
       const content = await loadContent();
       const result = syncContent(this.db, content);
       if (result.catalog || result.upserted || result.deleted) console.log("content sync", result);
-      this.contentHash = content.catalogHash;
+      this.contentHash = content.version;
     });
   }
 

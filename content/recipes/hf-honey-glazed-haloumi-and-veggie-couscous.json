@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1033_W46_AU_R11735-9_Main_3_high-ebfcd9bd.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 650,
+    "proteinG": 30.6,
+    "carbsG": 58.8,
+    "fatG": 32
+  },
   "tags": [
     "hellofresh",
     "moroccan",

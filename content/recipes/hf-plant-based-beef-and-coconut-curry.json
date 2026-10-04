@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/plant-based-beef-coconut-curry-6b8e0220.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 814,
+    "proteinG": 33.7,
+    "carbsG": 88,
+    "fatG": 37.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-jerk-beef-chilli-29e34f5a-9c8805ec.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 613,
+    "proteinG": 30.2,
+    "carbsG": 44.8,
+    "fatG": 32.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

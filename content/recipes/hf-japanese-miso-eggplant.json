@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/530d5fa1ff604db86c8b4568.jpg",
   "servings": 2,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 566,
+    "proteinG": 16.9,
+    "carbsG": 16.7,
+    "fatG": 46.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -118,22 +124,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan forced.",
+      "text": "Preheat the oven to 200°C/180°C fan forced.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/530d5fa1ff604db86c8b4568/step_556d7923ecd76.jpg"
     },
     {
-      "text": "• Grease a baking tray with vegetable oil, then lay out your eggplant slices and drizzle a little more oil on top. In a small bowl, whisk together the miso paste and the vinegar. Now spoon the mixture over the eggplant and spread it over each slice evenly. Place the tray into the oven for 25-30 minutes or until the eggplant is cooked through and the miso paste mixture begins to caramelise. Remove from the oven and allow to cool slightly so you can handle them.",
+      "text": "Grease a baking tray with vegetable oil, then lay out your eggplant slices and drizzle a little more oil on top. In a small bowl, whisk together the miso paste and the vinegar. Now spoon the mixture over the eggplant and spread it over each slice evenly. Place the tray into the oven for 25-30 minutes or until the eggplant is cooked through and the miso paste mixture begins to caramelise. Remove from the oven and allow to cool slightly so you can handle them.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/530d5fa1ff604db86c8b4568/step_556d78e45eaa1.jpg"
     },
     {
-      "text": "• When the eggplant is half way through cooking, bring a large pot of salted water to the boil. Add the rice and cook it for 10-12 minutes until soft. Drain and keep warm."
+      "text": "When the eggplant is half way through cooking, bring a large pot of salted water to the boil. Add the rice and cook it for 10-12 minutes until soft. Drain and keep warm."
     },
     {
-      "text": "• Bring a small pot of water to the boil. Add the green beans and blanch them for 1-2 minutes. Strain them and transfer to a small bowl. Season the beans with salt and pepper and a dash of oil or butter. Leave aside, ready to serve.",
+      "text": "Bring a small pot of water to the boil. Add the green beans and blanch them for 1-2 minutes. Strain them and transfer to a small bowl. Season the beans with salt and pepper and a dash of oil or butter. Leave aside, ready to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/530d5fa1ff604db86c8b4568/step_556d78e473d35.jpg"
     },
     {
-      "text": "• Divide the rice and the beans between plates and then the eggplant. To finish off, sprinkle the sliced spring onion, coriander, and sesame seeds over the eggplant, drizzle with a little more oil, a dash of soy sauce, and some extra vinegar. Enjoy!"
+      "text": "Divide the rice and the beans between plates and then the eggplant. To finish off, sprinkle the sliced spring onion, coriander, and sesame seeds over the eggplant, drizzle with a little more oil, a dash of soy sauce, and some extra vinegar. Enjoy!"
     }
   ]
 }

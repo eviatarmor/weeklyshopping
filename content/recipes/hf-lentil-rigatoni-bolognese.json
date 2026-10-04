@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/556fc041fd2cb9001b8b4569.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 691,
+    "proteinG": 27.7,
+    "carbsG": 98.3,
+    "fatG": 16.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -116,16 +122,16 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely chop the brown onion, celery, carrot (peeled), garlic (peeled), and parsley. Grate the zucchini and Parmesan cheese. Drain and rinse the lentils."
+      "text": "To prepare the ingredients, finely chop the brown onion, celery, carrot (peeled), garlic (peeled), and parsley. Grate the zucchini and Parmesan cheese. Drain and rinse the lentils."
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Add the brown onion, celery, carrot and zucchini and cook, stirring, for 7-8 minutes or until soft. Add the garlic and cook for a further 1 minute or until fragrant. Add the diced tomatoes and red wine and bring to the boil. Stir through the lentils, tomato paste and sugar. Cover with a lid and simmer over a medium-low heat for 10 minutes. Remove the lid, and cook uncovered for a further 5 minutes. Stir through half of the parsley. Season to taste with salt and pepper."
+      "text": "Heat the olive oil in a medium frying pan over a medium-high heat. Add the brown onion, celery, carrot and zucchini and cook, stirring, for 7-8 minutes or until soft. Add the garlic and cook for a further 1 minute or until fragrant. Add the diced tomatoes and red wine and bring to the boil. Stir through the lentils, tomato paste and sugar. Cover with a lid and simmer over a medium-low heat for 10 minutes. Remove the lid, and cook uncovered for a further 5 minutes. Stir through half of the parsley. Season to taste with salt and pepper."
     },
     {
-      "text": "• Meanwhile, bring a pot of salted water to the boil. Add the rigatoni to the boiling water and cook for approximately 10 minutes or until al dente, stirring regularly to ensure the rigatoni does not stick. Drain. Stir the lentil bolognese sauce through the rigatoni."
+      "text": "Meanwhile, bring a pot of salted water to the boil. Add the rigatoni to the boiling water and cook for approximately 10 minutes or until al dente, stirring regularly to ensure the rigatoni does not stick. Drain. Stir the lentil bolognese sauce through the rigatoni."
     },
     {
-      "text": "• To serve, divide the Lentil Rigatoni Bolognese between bowls. Sprinkle with the remaining parsley and the finely grated Parmesan cheese."
+      "text": "To serve, divide the Lentil Rigatoni Bolognese between bowls. Sprinkle with the remaining parsley and the finely grated Parmesan cheese."
     }
   ]
 }

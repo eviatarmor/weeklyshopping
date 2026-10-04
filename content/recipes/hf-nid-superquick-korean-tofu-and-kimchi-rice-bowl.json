@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Korean Tofu & Veggie Rice Bowl",
   "subtitle": "with Fried Egg & Sriracha Dressing",
-  "description": "This speedy Korean-inspired rice bowl is packed with bold flavours and satisfying textures. Tofu is served over fluffy rice with veggies for a zingy crunch, then topped with a golden fried egg. A drizzle of sriracha dressing adds a burst\nto finish things off.\nDue to local availability,\nthe ingredients you receive\nmay be a little different\nto what's pictured. It'll\nbe just as delicious, just\nfollow your recipe card!",
+  "description": "This speedy Korean-inspired rice bowl is packed with bold flavours and satisfying textures. Tofu is served over fluffy rice with veggies for a zingy crunch, then topped with a golden fried egg. A drizzle of sriracha dressing adds a burst to finish things off. Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-superquick-korean-beef-and-kimchi-rice-bowl-67f86cbccade9b9f0acee756",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1019_W27_AU_R22402-3_Main_R_high-ee343371.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 622,
+    "proteinG": 30.5,
+    "carbsG": 51.3,
+    "fatG": 32.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

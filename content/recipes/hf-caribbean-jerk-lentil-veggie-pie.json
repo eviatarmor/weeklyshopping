@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-jerk-lentil-veggie-pie-ac09febe.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 718,
+    "proteinG": 18.9,
+    "carbsG": 61.2,
+    "fatG": 39.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -146,7 +152,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d9d641b2246af67a2283a5b/step-fc1c0f7b.jpg"
     },
     {
-      "text": "• Grill until lightly browned, 8-10 minutes.",
+      "text": "Grill until lightly browned, 8-10 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5d9d641b2246af67a2283a5b/step-d9e2fae1.jpg"
     },
     {

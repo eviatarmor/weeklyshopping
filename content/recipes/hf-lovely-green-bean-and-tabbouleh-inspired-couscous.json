@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5252b1c0301bbf46038b474d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 526,
+    "proteinG": 24.5,
+    "carbsG": 43.6,
+    "fatG": 23.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,19 +114,19 @@
   ],
   "steps": [
     {
-      "text": "• Top and tail the green beans. Drain and rinse the cannellini beans. Halve the cherry tomatoes. Finely chop the parsley and the mint. Zest and juice the lemon. Place the couscous in a bowl , season with salt and pepper, and drizzle over some olive oil. Pour the boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap, leave to sit for 5 minutes. Remove wrap and then fluff the couscous with a fork.",
+      "text": "Top and tail the green beans. Drain and rinse the cannellini beans. Halve the cherry tomatoes. Finely chop the parsley and the mint. Zest and juice the lemon. Place the couscous in a bowl , season with salt and pepper, and drizzle over some olive oil. Pour the boiling water over the couscous, stir with a fork, and then cover the bowl tightly with cling wrap, leave to sit for 5 minutes. Remove wrap and then fluff the couscous with a fork.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1c0301bbf46038b474d/step_556eda104201d.jpg"
     },
     {
-      "text": "• Bring a small pot of water to the boil. Add the green beans and cook for 2-3 minutes or until they are just cooked through. Remove them from the water and place them on a chopping board to cool. Chop them into 1cm pieces.",
+      "text": "Bring a small pot of water to the boil. Add the green beans and cook for 2-3 minutes or until they are just cooked through. Remove them from the water and place them on a chopping board to cool. Chop them into 1cm pieces.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1c0301bbf46038b474d/step_556eda10537e7.jpg"
     },
     {
-      "text": "• In a small pan heat some oil over a medium-high heat and then add the pepitas, fry for 1 minute and then remove. Juice the lemon and finely chop the parsley and the mint. In a bowl combine the cannellini beans, pepitas, green beans, cherry tomatoes, parsley, mint, lemon zest, lemon juice, and the olive oil. Add as little or as much of the cooked couscous as you like. This is a simple way to tailor a salad to your taste! Season well with salt and pepper and toss to combine.",
+      "text": "In a small pan heat some oil over a medium-high heat and then add the pepitas, fry for 1 minute and then remove. Juice the lemon and finely chop the parsley and the mint. In a bowl combine the cannellini beans, pepitas, green beans, cherry tomatoes, parsley, mint, lemon zest, lemon juice, and the olive oil. Add as little or as much of the cooked couscous as you like. This is a simple way to tailor a salad to your taste! Season well with salt and pepper and toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1c0301bbf46038b474d/step_556eda106848b.jpg"
     },
     {
-      "text": "• Divide the tabbouleh between bowls and then crumble over the fetta."
+      "text": "Divide the tabbouleh between bowls and then crumble over the fetta."
     }
   ]
 }

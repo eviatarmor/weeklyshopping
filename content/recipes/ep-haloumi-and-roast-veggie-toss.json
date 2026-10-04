@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-roast-veggie-medley-dd3424f4-3e0dbdec.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 579,
+    "proteinG": 30.8,
+    "carbsG": 51.6,
+    "fatG": 26.1
+  },
   "tags": [
     "vegetarian",
     "everyplate",

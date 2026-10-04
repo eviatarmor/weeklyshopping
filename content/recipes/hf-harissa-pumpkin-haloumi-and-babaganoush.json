@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Harissa Pumpkin, Haloumi & Babaganoush",
   "subtitle": "with Gourmet Garden Parsley & Fetta",
-  "description": "Gourmet Garden’s Aussie grown parsley is lightly dried for a fresher flavour, and lasts four weeks once opened. It’s perfect for Mediterranean cuisine including pasta, dressings, soups and chicken. Enjoy this versatile herb cooked through a colourful and\naromatic serving of veggie-loaded rice - the ideal bed for tender, delicately spiced pumpkin pieces.",
+  "description": "Gourmet Garden’s Aussie grown parsley is lightly dried for a fresher flavour, and lasts four weeks once opened. It’s perfect for Mediterranean cuisine including pasta, dressings, soups and chicken. Enjoy this versatile herb cooked through a colourful and aromatic serving of veggie-loaded rice - the ideal bed for tender, delicately spiced pumpkin pieces.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/harissa-pumpkin-haloumi-and-babaganoush-66ce7f530b415cde40da11ce",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66ce7f530b415cde40da11ce-75a0af22.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1006,
+    "proteinG": 37.9,
+    "carbsG": 100.3,
+    "fatG": 47.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

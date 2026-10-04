@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/675f8d3376038927854113b6-8df75556.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 949,
+    "proteinG": 38.1,
+    "carbsG": 89.1,
+    "fatG": 45.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -127,7 +133,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-675f8d3376038927854113b6-57efdee7.jpeg"
     },
     {
-      "text": "• Bake quesadillas, until cheese has melted and tortillas are golden, 10-12 minutes. Spoon any overflowing bean filling and cheese back into the quesadillas. TIP: You can place a sheet of baking paper and a second oven tray on top of the quesadillas if they unfold during cooking.",
+      "text": "Bake quesadillas, until cheese has melted and tortillas are golden, 10-12 minutes. Spoon any overflowing bean filling and cheese back into the quesadillas. TIP: You can place a sheet of baking paper and a second oven tray on top of the quesadillas if they unfold during cooking.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-675f8d3376038927854113b6-6d1680e1.jpeg"
     },
     {

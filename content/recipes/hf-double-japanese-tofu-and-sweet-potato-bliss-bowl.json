@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Japanese Tofu & Sweet Potato Bliss Bowl",
   "subtitle": "with Zingy Sweet Chilli & Sesame Dressing",
-  "description": "Fill your night with a fresh fusion of Asian-style flavours with this hearty pea pod bliss bowl that won’t leave you feeling heavy. Chunks of roasted sweet potato tossed amongst Japanese tofu and other tasty delights, will have you savouring every bite.\nDue to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
+  "description": "Fill your night with a fresh fusion of Asian-style flavours with this hearty pea pod bliss bowl that won’t leave you feeling heavy. Chunks of roasted sweet potato tossed amongst Japanese tofu and other tasty delights, will have you savouring every bite. Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/double-japanese-tofu-and-sweet-potato-bliss-bowl-67f85f15cade9b9f0ace901f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W24_AUS_Main_F2_high-a2e91d92.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 623,
+    "proteinG": 35.4,
+    "carbsG": 37.4,
+    "fatG": 34.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Falafel, Haloumi & Kale-Cherry Tomato Medley",
   "subtitle": "with Garlic Rice, Chimichurri & Plant-Based Aioli",
-  "description": "Give already delicious spinach falafel a rich depth of flavour by adding our garlic and herb seasoning to the pan in the last minute of cook-time. Then, toss them with a perfectly sweet and juicy salsa, which gets a bright and herby hit of flavour from our chimichurri.\nServe over fluffy garlic-infused rice, juicy haloumi and don't forget to drizzle it all with our plant-based aioli for creaminess.",
+  "description": "Give already delicious spinach falafel a rich depth of flavour by adding our garlic and herb seasoning to the pan in the last minute of cook-time. Then, toss them with a perfectly sweet and juicy salsa, which gets a bright and herby hit of flavour from our chimichurri. Serve over fluffy garlic-infused rice, juicy haloumi and don't forget to drizzle it all with our plant-based aioli for creaminess.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-haloumi-and-kale-cherry-tomato-medley-6448bb2a05e329b1df04a1f8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-haloumi-charred-corn-salsa-toss-8697e42f.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1263,
+    "proteinG": 39.5,
+    "carbsG": 98.9,
+    "fatG": 75.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -124,7 +130,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6448bb2a05e329b1df04a1f8/step-f5b266e0.jpg"
     },
     {
-      "text": "• While the falafel are cooking, halve snacking tomatoes.",
+      "text": "While the falafel are cooking, halve snacking tomatoes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6448bb2a05e329b1df04a1f8/step-067608f5.jpg"
     },
     {

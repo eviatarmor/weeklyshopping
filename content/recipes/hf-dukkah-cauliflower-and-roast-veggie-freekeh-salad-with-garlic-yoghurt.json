@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/dukkah-cauliflower-roast-veggie-freekeh-salad-5c2372a8.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 595,
+    "proteinG": 19.3,
+    "carbsG": 75.6,
+    "fatG": 19.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -150,15 +156,15 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa70f47dc12ddb2c1b7a/step-cad967b0.jpg"
     },
     {
-      "text": "• While the veggies are roasting, finely chop the garlic. Heat a medium frying pan over a medium- high heat with a drizzle of olive oil and the garlic. Cook until fragrant, 1 minute. Transfer to a small bowl. Add the Greek-style yogurt to the garlic oil and stir to combine. Season to taste and set aside.",
+      "text": "While the veggies are roasting, finely chop the garlic. Heat a medium frying pan over a medium- high heat with a drizzle of olive oil and the garlic. Cook until fragrant, 1 minute. Transfer to a small bowl. Add the Greek-style yogurt to the garlic oil and stir to combine. Season to taste and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa70f47dc12ddb2c1b7a/step-0391b170.jpg"
     },
     {
-      "text": "• Roughly chop the semi-dried tomatoes. Pick and thinly slice the mint leaves. In a large bowl, combine olive oil (1/2 tbs for 2 people / 1 tbs for 4 people), vinegar and honey. Season with salt and pepper. Add the freekeh, mint, semi-dried tomatoes, the roasted veggies, and the baby spinach leaves. Toss to combine.",
+      "text": "Roughly chop the semi-dried tomatoes. Pick and thinly slice the mint leaves. In a large bowl, combine olive oil (1/2 tbs for 2 people / 1 tbs for 4 people), vinegar and honey. Season with salt and pepper. Add the freekeh, mint, semi-dried tomatoes, the roasted veggies, and the baby spinach leaves. Toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa70f47dc12ddb2c1b7a/step-3d73a575.jpg"
     },
     {
-      "text": "• Divide the roasted sweet potato mixture between plates and top with the dukkah cauliflower. Sprinkle with any dukkah remaining on the oven tray. Spoon over the garlic yoghurt to serve.",
+      "text": "Divide the roasted sweet potato mixture between plates and top with the dukkah cauliflower. Sprinkle with any dukkah remaining on the oven tray. Spoon over the garlic yoghurt to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa70f47dc12ddb2c1b7a/step-8d523455.jpg"
     }
   ]

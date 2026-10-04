@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Pumpkin, Zucchini & Fetta Pizza",
   "subtitle": "with Caramelised Onion & Rocket Salad",
-  "description": "Time for a pizza that totally beats takeaway! Top a crisp base with roasted pumpkin and zucchini plus creamy fetta, then add a fresh\ngreen salad on the side to make a meal that isn't just delicious, but well-rounded too.\nThe recent harsh weather conditions have impacted the zucchini grown by our farmers.\nThe quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "Time for a pizza that totally beats takeaway! Top a crisp base with roasted pumpkin and zucchini plus creamy fetta, then add a fresh green salad on the side to make a meal that isn't just delicious, but well-rounded too. The recent harsh weather conditions have impacted the zucchini grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/pumpkin-zucchini-fetta-pizza-615d06bc7347e8352921860e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roasted-pumpkin-fetta-pizza-e79e9612.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 889,
+    "proteinG": 35.4,
+    "carbsG": 125,
+    "fatG": 21.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

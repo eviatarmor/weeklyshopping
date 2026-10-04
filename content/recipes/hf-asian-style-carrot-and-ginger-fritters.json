@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Asian-Style Carrot & Ginger Fritters",
   "subtitle": "with Sweet Potato Salad & Sesame Dressing",
-  "description": "These golden fritters are full of bright and flavoursome ingredients, with a hint of zingy ginger to make your tastebuds sing! Serve with a super satisfying salad, studded with roasted sweet potato and you have a brand new meal that you’ll crave again and again. Don’t forget to top the fritters with sesame dressing before digging in.\nDue to local availability, the ingredients you receive\nmay be a little different to what’s pictured. It'll be just\nas delicious, just follow your recipe card!",
+  "description": "These golden fritters are full of bright and flavoursome ingredients, with a hint of zingy ginger to make your tastebuds sing! Serve with a super satisfying salad, studded with roasted sweet potato and you have a brand new meal that you’ll crave again and again. Don’t forget to top the fritters with sesame dressing before digging in. Due to local availability, the ingredients you receive may be a little different to what’s pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/asian-style-carrot-and-ginger-fritters-67f8548f4264524ca979514e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1017_W41_AU_R4986-15_main_add_sesame_dressing_replace_Japanese-style_dressing_edit_high-06a8b2cd.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 468,
+    "proteinG": 13.1,
+    "carbsG": 66,
+    "fatG": 15.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

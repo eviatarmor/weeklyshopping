@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-lentil-dhal-74094dd9.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 1004,
+    "proteinG": 17.5,
+    "carbsG": 87.1,
+    "fatG": 62.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

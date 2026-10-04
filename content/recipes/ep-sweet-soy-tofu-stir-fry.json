@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sweet Soy Tofu Stir-Fry",
   "subtitle": "with Garlic Rice",
-  "description": "Tofu is such an MVP - it takes on the flavours of whatever you throw at it! Here we've started with marinated tofu and added sweet chilli plus soy for a flavour explosion. Add a bunch of colourful veggies and dinner is served.\nThe current labour shortages have impacted availability of ingredients across the entire food supply chain. As such,\nwhat you receive maybe slightly different to what’s pictured. Don’t worry, your recipe will be just as tasty!",
+  "description": "Tofu is such an MVP - it takes on the flavours of whatever you throw at it! Here we've started with marinated tofu and added sweet chilli plus soy for a flavour explosion. Add a bunch of colourful veggies and dinner is served. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive maybe slightly different to what’s pictured. Don’t worry, your recipe will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/sweet-soy-tofu-stir-fry-61e4ed63c0f289428227bdc5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-chilli-tofu-veggie-stir-fry-21eb8dbc.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 774,
+    "proteinG": 27.7,
+    "carbsG": 115.5,
+    "fatG": 24
+  },
   "tags": [
     "vegetarian",
     "everyplate",

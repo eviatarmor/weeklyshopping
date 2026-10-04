@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y24_R15_W05_AUS_ruccola_edit__Main_high-1b4ba3c3.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 780,
+    "proteinG": 37.2,
+    "carbsG": 103,
+    "fatG": 20.5
+  },
   "tags": [
     "everyplate",
     "italian",

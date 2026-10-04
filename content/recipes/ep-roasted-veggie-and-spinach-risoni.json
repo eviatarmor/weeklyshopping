@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roasted-veggie-kale-risoni-470a0bd7.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 596,
+    "proteinG": 20.7,
+    "carbsG": 76.2,
+    "fatG": 22.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",

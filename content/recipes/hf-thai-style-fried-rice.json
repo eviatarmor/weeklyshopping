@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Thai Red Curry Veggie Fried Rice",
   "subtitle": "with Lime, Coriander & Cashews",
-  "description": "Add warming red curry paste and zingy ginger, lemongrass and lime to fried rice, and you have a Thai twist on a\nclassic dish that tastes totally new. Top it with a chilli fried egg to bring it all together.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "Add warming red curry paste and zingy ginger, lemongrass and lime to fried rice, and you have a Thai twist on a classic dish that tastes totally new. Top it with a chilli fried egg to bring it all together. Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-style-fried-rice-5d81b924d0472f4e0a584735",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-style-fried-rice-dfa3e1ed.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 665,
+    "proteinG": 20.4,
+    "carbsG": 92.1,
+    "fatG": 26.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

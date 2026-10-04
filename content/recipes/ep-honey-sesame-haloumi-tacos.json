@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-sesame-haloumi-tacos-2fdaec2f-3c898582.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 675,
+    "proteinG": 28.7,
+    "carbsG": 52.2,
+    "fatG": 37.7
+  },
   "tags": [
     "everyplate",
     "mediterranean",

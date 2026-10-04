@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Golden Sweet Chilli-Makrut Tofu Salad",
   "subtitle": "with Sweet Potato, Wombok & Crunchy Noodles",
-  "description": "Firm tofu is the perfect canvas for bold Vietnamese-inspired flavours - like the unique citrusy and zesty flavours from makrut lime, which stands up well to the sweet chilli glaze in this fresh, colourful and textural dish.\nUnfortunately, this week’s wombok was\nin short supply, so we’ve replaced it with shredded cabbage mix. Don’t worry, the recipe will be just as delicious, just be sure to follow your recipe card!",
+  "description": "Firm tofu is the perfect canvas for bold Vietnamese-inspired flavours - like the unique citrusy and zesty flavours from makrut lime, which stands up well to the sweet chilli glaze in this fresh, colourful and textural dish. Unfortunately, this week’s wombok was in short supply, so we’ve replaced it with shredded cabbage mix. Don’t worry, the recipe will be just as delicious, just be sure to follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/golden-sweet-chilli-makrut-tofu-salad-633fc8c8b42ac3290c061ef2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/649a86e82897e41b2e1e0610-a7128853.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 678,
+    "proteinG": 36.4,
+    "carbsG": 71.5,
+    "fatG": 25
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

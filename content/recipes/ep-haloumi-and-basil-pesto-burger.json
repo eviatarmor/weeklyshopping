@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y24_R15_W08_AUS__MAIN_high-c8838941.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 801,
+    "proteinG": 31.4,
+    "carbsG": 68.2,
+    "fatG": 44.5
+  },
   "tags": [
     "everyplate",
     "italian",

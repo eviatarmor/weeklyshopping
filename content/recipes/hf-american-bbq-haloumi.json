@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-american-bbq-haloumi-73e3ebcc.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 800,
+    "proteinG": 25.2,
+    "carbsG": 47.5,
+    "fatG": 55.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

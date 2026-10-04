@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Herby Tomato & Crumbed Chick'n Risotto",
   "subtitle": "with Green Beans & Fetta",
-  "description": "Finishing tonight's risotto in the oven means minimal elbow work and maximum flavour, with the starchy, arborio rice soaking up all the delicious flavours, from the garlicky plant-based crumbed chick'n to the tender veggies like a treat. This is a fusion dish like no other!\nThis recipe is under 650kcal per serving.",
+  "description": "Finishing tonight's risotto in the oven means minimal elbow work and maximum flavour, with the starchy, arborio rice soaking up all the delicious flavours, from the garlicky plant-based crumbed chick'n to the tender veggies like a treat. This is a fusion dish like no other! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/herby-tomato-and-crumbed-chickn-risotto-67f84a704264524ca9791c6a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1031_W22_AUS_edit__Mainhigh-c670982a.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 689,
+    "proteinG": 27.4,
+    "carbsG": 117,
+    "fatG": 9.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

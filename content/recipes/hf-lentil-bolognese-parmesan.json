@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5a823bddae08b54316323ba2-ac67dd21.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 715,
+    "proteinG": 30.9,
+    "carbsG": 104,
+    "fatG": 15
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -129,27 +135,27 @@
   ],
   "steps": [
     {
-      "text": "• Put a large saucepan of lightly salted water on to boil. Peel and crush the **garlic**. Pick the **thyme** leaves. Grate the **carrot** (unpeeled). Drain and rinse the **lentils**. Grate the **zucchini**. Slice the **cherry tomatoes** in half.",
+      "text": "Put a large saucepan of lightly salted water on to boil. Peel and crush the **garlic**. Pick the **thyme** leaves. Grate the **carrot** (unpeeled). Drain and rinse the **lentils**. Grate the **zucchini**. Slice the **cherry tomatoes** in half.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a823bddae08b54316323ba2/step-5915b4f9.jpg"
     },
     {
-      "text": "• Add the **spaghetti** to the saucepan of boiling water and cook for **10 minutes**, or until ‘al dente’. Drain the pasta, reserve **1 cup** of the **cooking water**, and return to the saucepan. **Drizzle** with **olive oil** to prevent sticking.",
+      "text": "Add the **spaghetti** to the saucepan of boiling water and cook for **10 minutes**, or until ‘al dente’. Drain the pasta, reserve **1 cup** of the **cooking water**, and return to the saucepan. **Drizzle** with **olive oil** to prevent sticking.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a823bddae08b54316323ba2/step-58ebc8dc.jpg"
     },
     {
-      "text": "• While the spaghetti is cooking, heat **olive oil (2 tbs for 2 people / 1/3 cup for 4 people)** in a large frying pan over a medium-high heat. Add the **garlic, thyme, capers** and a **pinch** of**chilli flakes** (if using). Cook for **1-2 minutes**. Add the **passata (use suggested amount), carrot, cooking water (½ cup for 2 people / 1 cup for 4 people)** and **vegetable stock** cube **(use suggested amount)** and simmer for **5 minutes**, or until slightly thickened. Add the **lentils, zucchini** and **cherry tomatoes** and cook for **5 minutes**, or until softened. **Tip**:  Add a dash more water if the sauce looks too thick.",
+      "text": "While the spaghetti is cooking, heat **olive oil (2 tbs for 2 people / 1/3 cup for 4 people)** in a large frying pan over a medium-high heat. Add the **garlic, thyme, capers** and a **pinch** of**chilli flakes** (if using). Cook for **1-2 minutes**. Add the **passata (use suggested amount), carrot, cooking water (½ cup for 2 people / 1 cup for 4 people)** and **vegetable stock** cube **(use suggested amount)** and simmer for **5 minutes**, or until slightly thickened. Add the **lentils, zucchini** and **cherry tomatoes** and cook for **5 minutes**, or until softened. **Tip**: Add a dash more water if the sauce looks too thick.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a823bddae08b54316323ba2/step-345c6979.jpg"
     },
     {
-      "text": "• While the bolognese is cooking, pick and finely slice the **basil** leaves.",
+      "text": "While the bolognese is cooking, pick and finely slice the **basil** leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a823bddae08b54316323ba2/step-fa33f0d6.jpg"
     },
     {
-      "text": "• Add the **basil** (reserve some for the garnish!) and **butter** to the sauce and stir through until melted. Season to taste with a **pinch** of **salt, pepper** and **sugar**. **Tip**:  Adding butter, salt and sugar to your sauce reduces the acidity from the cherry tomatoes and passata.",
+      "text": "Add the **basil** (reserve some for the garnish!) and **butter** to the sauce and stir through until melted. Season to taste with a **pinch** of **salt, pepper** and **sugar**. **Tip**: Adding butter, salt and sugar to your sauce reduces the acidity from the cherry tomatoes and passata.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a823bddae08b54316323ba2/step-a8ad5e79.jpg"
     },
     {
-      "text": "• Divide the spaghetti between plates and spoon over the lentil & cherry tomato bolognese. **Tip**:  You can toss the sauce and the pasta in the pan if you like! Sprinkle over the **flaked Parmesan cheese** and garnish with the remaining basil.",
+      "text": "Divide the spaghetti between plates and spoon over the lentil & cherry tomato bolognese. **Tip**: You can toss the sauce and the pasta in the pan if you like! Sprinkle over the **flaked Parmesan cheese** and garnish with the remaining basil.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a823bddae08b54316323ba2/step-1546852d.jpg"
     }
   ]

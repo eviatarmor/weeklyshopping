@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Herby Haloumi & Garilc Fetta-Yoghurt",
   "subtitle": "with Wholemeal Couscous & Semi-Dried Tomato Salad",
-  "description": "You won’t believe the flavour we’ve packed into this nutritionally balanced meal. The herby haloumi are glazed in a sticky caramelised onion sauce, which the fluffy wholemeal couscous happily soaks up. \nThis recipe is under 650kcal per serving.",
+  "description": "You won’t believe the flavour we’ve packed into this nutritionally balanced meal. The herby haloumi are glazed in a sticky caramelised onion sauce, which the fluffy wholemeal couscous happily soaks up. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-herby-haloumi-and-garilc-fetta-yoghurt-6322e693000c97da00056f73",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/herby-haloumi-caramelised-onion-chutney-f947dbfa.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 618,
+    "proteinG": 29.5,
+    "carbsG": 42.5,
+    "fatG": 35.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y26_R4026_W14_AU_EP7680-17_Main_high-a1873893.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 649,
+    "proteinG": 27.9,
+    "carbsG": 54.8,
+    "fatG": 35.2
+  },
   "tags": [
     "everyplate",
     "moroccan",

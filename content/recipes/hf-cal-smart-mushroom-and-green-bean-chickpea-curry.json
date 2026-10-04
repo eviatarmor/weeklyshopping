@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cal Smart Mushroom & Green Bean Chickpea Curry",
   "subtitle": "Pre-Prepped | Three Steps | Ready in 15",
-  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. Keeping the calories in check has never tasted this good. Fluffy basmati rice and a mushroom, green bean and chickpea curry work together to create a meal destined for greatness.\nHeads-up - you'll need a microwave for this recipe!\nThis recipe is under 650kcal per serving.",
+  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. Keeping the calories in check has never tasted this good. Fluffy basmati rice and a mushroom, green bean and chickpea curry work together to create a meal destined for greatness. Heads-up - you'll need a microwave for this recipe! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cal-smart-mushroom-and-green-bean-chickpea-curry-64bf4d070d1a1f19a18eb705",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64bf4d070d1a1f19a18eb705-fdeafe34.jpeg",
   "servings": 2,
   "prepMinutes": 12,
+  "nutrition": {
+    "kcal": 638,
+    "proteinG": 21.8,
+    "carbsG": 73.4,
+    "fatG": 25
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

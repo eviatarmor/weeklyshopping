@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Falafel & Roast Veggie Couscous",
   "subtitle": "with Pesto Yoghurt & Caramelised Onion",
-  "description": "Full of greens, goodness, and flavour with every bite, meet your new favourite veggie meal. A yoghurt-spiked pesto dressing brings all the elements of the dish together, while naturally buttery flaked almonds add that crunch we know you want.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "Full of greens, goodness, and flavour with every bite, meet your new favourite veggie meal. A yoghurt-spiked pesto dressing brings all the elements of the dish together, while naturally buttery flaked almonds add that crunch we know you want. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-roast-veggie-couscous-6231779f14d8da685214c256",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spinach-falafel-couscous-bowl-63af45bc.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 897,
+    "proteinG": 26.3,
+    "carbsG": 86.1,
+    "fatG": 45.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

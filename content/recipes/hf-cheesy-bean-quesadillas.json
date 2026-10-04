@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Bean Quesadillas",
   "subtitle": "with Chipotle Sour Cream & Salsa",
-  "description": "Red kidney beans and Cheddar unite to make a hearty and delicious filling for these quesadillas. Simply spoon onto tortillas,\nfold them in half, then bake. Easy cheesy dinner coming right up!\nThe recent harsh weather conditions have impacted the cucumbers grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "Red kidney beans and Cheddar unite to make a hearty and delicious filling for these quesadillas. Simply spoon onto tortillas, fold them in half, then bake. Easy cheesy dinner coming right up! The recent harsh weather conditions have impacted the cucumbers grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-bean-quesadillas-60bf1775f4b5ec47c33ed1cb",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-cheesy-bean-quesadillas-e2467db3.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 875,
+    "proteinG": 33.9,
+    "carbsG": 79.2,
+    "fatG": 42.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

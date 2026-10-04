@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Zesty Veggie Couscous",
   "subtitle": "with Fetta Yoghurt",
-  "description": "Delicate and flaky haloumi serves as the perfect accompaniment to a refreshing lemony couscous salad and a generous drizzle of creamy, fetta yoghurt. Tear over some mint for a tasteful herby hit!\nWe’ve replaced the cucumber in this recipe with radish due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Delicate and flaky haloumi serves as the perfect accompaniment to a refreshing lemony couscous salad and a generous drizzle of creamy, fetta yoghurt. Tear over some mint for a tasteful herby hit! We’ve replaced the cucumber in this recipe with radish due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/barramundi-and-zesty-veggie-couscous-67f85d2f0d0527cba53b27b3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R36_W51_AUS_edit_capers__Main_high-3e08bae5.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 561,
+    "proteinG": 28.4,
+    "carbsG": 40.4,
+    "fatG": 31.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

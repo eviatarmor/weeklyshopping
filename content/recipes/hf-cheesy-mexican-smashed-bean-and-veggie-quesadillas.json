@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/672d5d491cd01ca44ffc070b-d3fd78d3.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 882,
+    "proteinG": 36.3,
+    "carbsG": 81.9,
+    "fatG": 41.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -117,7 +123,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-672d5d491cd01ca44ffc070b-d0f97ff8.jpeg"
     },
     {
-      "text": "• Meanwhile, Slice avocado in half, scoop out flesh and roughly chop.\n• Roughly chop tomato and coriander.\n• In a medium bowl, combine tomato, avocado  coriander and a drizzle of white wine vinegar and olive oil. Season.",
+      "text": "• Meanwhile, Slice avocado in half, scoop out flesh and roughly chop.\n• Roughly chop tomato and coriander.\n• In a medium bowl, combine tomato, avocado coriander and a drizzle of white wine vinegar and olive oil. Season.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-672d5d491cd01ca44ffc070b-d500dede.jpeg"
     },
     {

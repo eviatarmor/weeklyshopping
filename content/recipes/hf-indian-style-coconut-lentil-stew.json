@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67595ab3c9ec1c71c3879fe0-e42d2935.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 755,
+    "proteinG": 24.9,
+    "carbsG": 87.9,
+    "fatG": 29.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -126,11 +132,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67595ab3c9ec1c71c3879fe0-6eda6f25.jpeg"
     },
     {
-      "text": "• In a medium bowl, combine coriander, tomato, corn and a drizzle of the white wine vinegar and olive oil. Season with salt and pepper.",
+      "text": "In a medium bowl, combine coriander, tomato, corn and a drizzle of the white wine vinegar and olive oil. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67595ab3c9ec1c71c3879fe0-6f87caf9.jpeg"
     },
     {
-      "text": "• In a small bowl, combine mint, Greek-style yoghurt and a small drizzle of olive oil. Season to taste.",
+      "text": "In a small bowl, combine mint, Greek-style yoghurt and a small drizzle of olive oil. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67595ab3c9ec1c71c3879fe0-d8715473.jpeg"
     },
     {

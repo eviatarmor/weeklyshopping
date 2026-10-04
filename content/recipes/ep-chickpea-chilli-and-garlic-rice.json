@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chickpea Chilli & Garlic Rice",
   "subtitle": "with Sour Cream",
-  "description": "Veggie-lovers unite! This hearty chilli is packed with chickpea and vegetables, with a zesty sour cream to brighten up your bowl.\nDue to recent sourcing challenges, we’ve swapped black beans for chickpeas and zucchini for carrot, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
+  "description": "Veggie-lovers unite! This hearty chilli is packed with chickpea and vegetables, with a zesty sour cream to brighten up your bowl. Due to recent sourcing challenges, we’ve swapped black beans for chickpeas and zucchini for carrot, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
   "sourceUrl": "https://www.everyplate.com.au/recipes/chickpea-chilli-and-garlic-rice-62737e86f91e1d725a0b9deb",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/black-bean-chilli-garlic-rice-52bf6540.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 725,
+    "proteinG": 20.9,
+    "carbsG": 95,
+    "fatG": 25.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -127,7 +133,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62737e86f91e1d725a0b9deb/step-4b6d3ba2.jpg"
     },
     {
-      "text": "• Meanwhile, thinly slice red onion. Cut capsicum into small pieces. Grate zucchini. Drain and rinse black beans.",
+      "text": "Meanwhile, thinly slice red onion. Cut capsicum into small pieces. Grate zucchini. Drain and rinse black beans.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/62737e86f91e1d725a0b9deb/step-4850aa82.jpg"
     },
     {

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi, Lentil Loaded Spuds & Tomato Salad",
   "subtitle": "with Tamarind Chutney",
-  "description": "Bursting with Indian-inspired flavours, this winner haloumi dinner is comfort on a plate. If you love lentil dhal over rice, wait till you try it on the baked potatoes. Trust us, it works.\nThis recipe is under 650kcal per serving.",
+  "description": "Bursting with Indian-inspired flavours, this winner haloumi dinner is comfort on a plate. If you love lentil dhal over rice, wait till you try it on the baked potatoes. Trust us, it works. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/lentil-loaded-spuds-and-tomato-kale-salad-671b1a631fda05b1d5f95fbf",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/671b1a631fda05b1d5f95fbf-c2f2fff8.jpeg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 314,
+    "proteinG": 27.6,
+    "carbsG": 71.9,
+    "fatG": 19.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -158,7 +164,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-671b1a631fda05b1d5f95fbf-2620ca37.jpeg"
     },
     {
-      "text": "• While the lentils are simmering, combine a drizzle of white wine vinegar and olive oil in a medium bowl. Season, then add mixed salad leaves and tomato. Toss to coat.",
+      "text": "While the lentils are simmering, combine a drizzle of white wine vinegar and olive oil in a medium bowl. Season, then add mixed salad leaves and tomato. Toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-671b1a631fda05b1d5f95fbf-6242bc3b.jpeg"
     },
     {

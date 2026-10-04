@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/aussie-crumbed-haloumi-burger-65ab48a7.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 927,
+    "proteinG": 38.6,
+    "carbsG": 102.1,
+    "fatG": 38.8
+  },
   "tags": [
     "vegetarian",
     "everyplate"

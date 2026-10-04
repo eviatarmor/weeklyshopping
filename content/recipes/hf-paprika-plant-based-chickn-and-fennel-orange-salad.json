@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Paprika Plant-Based Chick'n & Fennel-Orange Salad",
   "subtitle": "with Roasted Potato Chunks & Garlic Yoghurt",
-  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. With feathery crests and cleansing bulbs, the Fennel will quickly become the best part of this salad. When paired with paprika chick'n and juicy orange, you’ll be savouring each and every bite. Compliments to the Fennel we say! \nThis recipe is under 650kcal per serving.",
+  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. With feathery crests and cleansing bulbs, the Fennel will quickly become the best part of this salad. When paired with paprika chick'n and juicy orange, you’ll be savouring each and every bite. Compliments to the Fennel we say! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/perfection-fresh-missing-fennel-paprika-chicken-and-fennel-orange-salad-67f863c2cade9b9f0aceadee",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1042_W27_AU_R23186-3_MAIN_high-5d14ca48.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 518,
+    "proteinG": 25.9,
+    "carbsG": 64.6,
+    "fatG": 15.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "One-Pot BBQ Baked Beans & Sweetcorn",
   "subtitle": "with Cheese, Jalapeños & Herby Garlic Bread",
-  "description": "These baked beans really live up to their name, both with their time in the oven where all the flavours mix and mingle into a\nmoreish taste sensation, and with the gooey cheese, which you can mop up with the perfectly chewy ciabatta garlic bread.",
+  "description": "These baked beans really live up to their name, both with their time in the oven where all the flavours mix and mingle into a moreish taste sensation, and with the gooey cheese, which you can mop up with the perfectly chewy ciabatta garlic bread.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/one-pot-bbq-baked-beans-and-sweetcorn-65e6b4dfdb00aeaaefcb6b42",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65e6b4dfdb00aeaaefcb6b42-c8888e87.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 703,
+    "proteinG": 25.5,
+    "carbsG": 83.5,
+    "fatG": 24.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/curried-lentil-pies-7ec6714e.jpg",
   "servings": 2,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 521,
+    "proteinG": 18.3,
+    "carbsG": 57.9,
+    "fatG": 20
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -113,21 +119,21 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely chop the brown onion, peel and grate the carrot, and peel and crush the garlic. Crumble the vegetable stock, drain and rinse the lentils, very thinly slice the potatoes, melt the butter, and wash the mixed salad leaves.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely chop the brown onion, peel and grate the carrot, and peel and crush the garlic. Crumble the vegetable stock, drain and rinse the lentils, very thinly slice the potatoes, melt the butter, and wash the mixed salad leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5857460d8e8c6134347d6003-0-0-825c7ada.jpg"
     },
     {
-      "text": "• Heat a medium frying pan over a medium heat. Add the slivered almonds and cook, stirring, for 1 minute or until toasted and golden. Remove from the pan and set aside."
+      "text": "Heat a medium frying pan over a medium heat. Add the slivered almonds and cook, stirring, for 1 minute or until toasted and golden. Remove from the pan and set aside."
     },
     {
-      "text": "• Heat the olive oil in the same frying pan over a medium-high heat. Add the brown onion and carrot and cook, stirring, for 5 minutes, or until soft. Add the garlic and mild curry powder and cook, stirring, for 1 minute, or until fragrant. Dissolve the vegetable stock in the boiling water in a small bowl or jug, then add to the pan with the lentils, toasted slivered almonds and currants. Simmer for 10 minutes, or until thickened slightly."
+      "text": "Heat the olive oil in the same frying pan over a medium-high heat. Add the brown onion and carrot and cook, stirring, for 5 minutes, or until soft. Add the garlic and mild curry powder and cook, stirring, for 1 minute, or until fragrant. Dissolve the vegetable stock in the boiling water in a small bowl or jug, then add to the pan with the lentils, toasted slivered almonds and currants. Simmer for 10 minutes, or until thickened slightly."
     },
     {
       "text": "• Transfer the lentil mixture into a small baking dish or individual ovenproof ramekins and cover with a layer of the potato slices. Brush the potato with the melted butter. Cook in the oven for 25 minutes, or until the top is golden. Remove from the oven and rest for 5 minutes.\n• Tip: If you have extra potato slices toss them in some oil and pop them in the oven too.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5857460d8e8c6134347d6003-3-0-837fe44e.jpg"
     },
     {
-      "text": "• To serve, spoon the pie onto plates or serve it in the individual ramekins. Drizzle the mixed salad leaves with a little olive oil and serve beside the pie. Dig in!"
+      "text": "To serve, spoon the pie onto plates or serve it in the individual ramekins. Drizzle the mixed salad leaves with a little olive oil and serve beside the pie. Dig in!"
     }
   ]
 }

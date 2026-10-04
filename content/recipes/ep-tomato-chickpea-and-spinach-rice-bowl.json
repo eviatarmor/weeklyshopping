@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tomato-chickpea-spinach-rice-bowl-cd3402e0.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 758,
+    "proteinG": 22.7,
+    "carbsG": 94.1,
+    "fatG": 28.5
+  },
   "tags": [
     "vegetarian",
     "everyplate",

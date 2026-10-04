@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Peanut Tofu & Coconut Noodles",
   "subtitle": "with Veggie Stir-Fry",
-  "description": "This is the perfect recipe to have up your sleeve for when you're short on time but don't want to resort to takeaway. From the\ntender peanut tofu and springy udon noodles, to the juicy broccoli which works a treat at soaking up the zesty coconut sauce,\nthis sure beats takeaway, too.",
+  "description": "This is the perfect recipe to have up your sleeve for when you're short on time but don't want to resort to takeaway. From the tender peanut tofu and springy udon noodles, to the juicy broccoli which works a treat at soaking up the zesty coconut sauce, this sure beats takeaway, too.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/peanut-tofu-coconut-noodles-61662b060a539954e02319de",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-peanut-tofu-coconut-noodles-20d5ccc5.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 850,
+    "proteinG": 40.2,
+    "carbsG": 62.2,
+    "fatG": 45.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

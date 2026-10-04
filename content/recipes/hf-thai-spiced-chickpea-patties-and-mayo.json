@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Thai-Spiced Chickpea Patties & Mayo",
   "subtitle": "with Sesame Fries & Tomato Salad",
-  "description": "With zesty lemon, bold curry paste and a kick of sweet chilli, these golden patties get a hit of all the classic Thai flavours. Team them with our crispy sesame fries and you've got a meal that's sure to spice up your weeknight routine.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "With zesty lemon, bold curry paste and a kick of sweet chilli, these golden patties get a hit of all the classic Thai flavours. Team them with our crispy sesame fries and you've got a meal that's sure to spice up your weeknight routine. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/thai-spiced-chickpea-patties-and-mayo-626764dbacb1de8ef40dd784",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-style-chickpea-patties-sesame-fries-25f3d99e.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 707,
+    "proteinG": 23.6,
+    "carbsG": 72.1,
+    "fatG": 36.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey-Soy Pumpkin, Tofu & Ginger Greens Bowl",
   "subtitle": "with Garlic Rice & Sesame Dressing",
-  "description": "If you can't go past the honey soy combo, wait till you try it on roasted pumpkin and tofu! It works a treat - especially when sprinkled with fragrant sesame seeds and teamed with zingy Asian greens and baby broccoli. Serve with our nutty sesame dressing to bring it all together. \nDue to local availability, the ingredients you receive\nmay be a little different to what's pictured. It'll be just\nas delicious, just follow your recipe card!",
+  "description": "If you can't go past the honey soy combo, wait till you try it on roasted pumpkin and tofu! It works a treat - especially when sprinkled with fragrant sesame seeds and teamed with zingy Asian greens and baby broccoli. Serve with our nutty sesame dressing to bring it all together. Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sweet-soy-pumpkin-tofu-and-plant-based-aioli-67f85ccacade9b9f0ace82a7",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W44_AU_R6468-11_Main_high-038938e5.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 708,
+    "proteinG": 23.5,
+    "carbsG": 83.7,
+    "fatG": 28.7
+  },
   "tags": [
     "hellofresh",
     "asian",

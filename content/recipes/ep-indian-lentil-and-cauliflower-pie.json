@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-lentil-cauliflower-pie-78a502f0.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 592,
+    "proteinG": 24.6,
+    "carbsG": 62.3,
+    "fatG": 25.3
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "British Plant-Based Crumbed Chick'n & Gravy",
   "subtitle": "with Pumpkin-Potato Toss & Garlic Greens",
-  "description": "Spend less time in the kitchen with tonight's plant-based crumbed Chick'n, which has already been slow-cooked for you! Simply pop it in the oven to roast, then whip up the colourful and comforting sides, plus a rich gravy for the finishing touch.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Spend less time in the kitchen with tonight's plant-based crumbed Chick'n, which has already been slow-cooked for you! Simply pop it in the oven to roast, then whip up the colourful and comforting sides, plus a rich gravy for the finishing touch. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/british-roast-beef-brisket-and-gravy-67e239acf8f6928425d5c311",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67bd21ba29e0dfdacc797f5e-a8c1bcda-07d0f684.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 593,
+    "proteinG": 26.7,
+    "carbsG": 65.7,
+    "fatG": 22.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

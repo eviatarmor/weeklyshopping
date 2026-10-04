@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Roasted Cauliflower Salad",
   "subtitle": "with Croutons & Dill-Parsley Mayo",
-  "description": "Short on inspiration and tired of soggy supermarket salads? We've dished up a cauliflower and veggie studded salad number, baked entirely in the oven. This one will truly warm you from the inside out, whilst still remaining light and bright!\nThis recipe is under 650kcal per serving.",
+  "description": "Short on inspiration and tired of soggy supermarket salads? We've dished up a cauliflower and veggie studded salad number, baked entirely in the oven. This one will truly warm you from the inside out, whilst still remaining light and bright! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-roasted-cauliflower-salad-6462e5872031d3e226067c08",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-roasted-cauliflower-salad-d8362b6e.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 562,
+    "proteinG": 17.9,
+    "carbsG": 49.4,
+    "fatG": 32.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -105,11 +111,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462e5872031d3e226067c08/step-ab340250.jpg"
     },
     {
-      "text": "• When the cauliflower has 5 minutes remaining, cut or tear bake-at-home ciabatta into bite-sized chunks. Place on a third lined oven tray and bake until golden, 5 minutes. TIP: If your oven tray only has two racks, add the ciabatta pieces to the tray with the cauliflower.",
+      "text": "When the cauliflower has 5 minutes remaining, cut or tear bake-at-home ciabatta into bite-sized chunks. Place on a third lined oven tray and bake until golden, 5 minutes. TIP: If your oven tray only has two racks, add the ciabatta pieces to the tray with the cauliflower.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462e5872031d3e226067c08/step-4df60fca.jpg"
     },
     {
-      "text": "• Add baby spinach leaves, croutons and balsamic vinaigrette dressing to the tray with the roasted veggies. Season and toss to combine.",
+      "text": "Add baby spinach leaves, croutons and balsamic vinaigrette dressing to the tray with the roasted veggies. Season and toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6462e5872031d3e226067c08/step-1831e984.jpg"
     },
     {

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W44_AU_R5915-5_Main_high-da198ae0.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 855,
+    "proteinG": 26.5,
+    "carbsG": 105,
+    "fatG": 35.8
+  },
   "tags": [
     "hellofresh",
     "mexican",

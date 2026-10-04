@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6700081899e8e2a18bd75429-d8ad270b.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 695,
+    "proteinG": 32.6,
+    "carbsG": 73.8,
+    "fatG": 27.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -151,7 +157,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67282c8516186c0f34b4f6fc-78b864e6.jpeg"
     },
     {
-      "text": "• In a medium bowl, combine the egg, sweetcorn, carrot, onion, garlic, Mumbai spice blend, Cheddar cheese, the plain flour and milk. TIP: Lift out some of the mixture with a spoon, if it's too wet and doesn't hold its shape, add a little more flour!",
+      "text": "In a medium bowl, combine the egg, sweetcorn, carrot, onion, garlic, Mumbai spice blend, Cheddar cheese, the plain flour and milk. TIP: Lift out some of the mixture with a spoon, if it's too wet and doesn't hold its shape, add a little more flour!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67282c8516186c0f34b4f6fc-383785e8.jpeg"
     },
     {

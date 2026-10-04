@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheddar, Fetta & Pumpkin Pizza",
   "subtitle": "with Pesto & Caramelised Onion",
-  "description": "This vibrant veggie pizza is made the Italian way, paying respect to the ingredients and proving that less can often mean more.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "This vibrant veggie pizza is made the Italian way, paying respect to the ingredients and proving that less can often mean more. Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheddar-fetta-pumpkin-pizza-6271b94e5efd0b8b680ec997",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/basil-rocket-pesto-pizza-5b36e29d.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 1230,
+    "proteinG": 44.6,
+    "carbsG": 152.4,
+    "fatG": 46.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

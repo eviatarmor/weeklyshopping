@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Tuscan Plant-Based Meat Spaghetti",
   "subtitle": "with Roast Veggies & Garlic Pangrattato",
-  "description": "'Pangrattato' is Italian for breadcrumb and it adds a delicious, traditional crunch when sprinkled over pasta. We've teamed a\ntraditional tomato sauce with plant-based slow braised 'meat' and roasted veggies for a meal that looks every bit as good as it tastes.",
+  "description": "'Pangrattato' is Italian for breadcrumb and it adds a delicious, traditional crunch when sprinkled over pasta. We've teamed a traditional tomato sauce with plant-based slow braised 'meat' and roasted veggies for a meal that looks every bit as good as it tastes.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/tuscan-plant-based-meat-spaghetti-614060c9bf00467b7343a94c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tuscan-plant-based-meat-spaghetti-da1d23c2.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 1035,
+    "proteinG": 35.8,
+    "carbsG": 133.8,
+    "fatG": 39.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -132,7 +138,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614060c9bf00467b7343a94c/step-d9b18ddc.jpg"
     },
     {
-      "text": "• While the spaghetti is cooking, finely chop the celery. Roughly chop the plant-based pulled beef. Return the frying pan to a medium-high heat with a drizzle of olive oil. Cook the plant-based meat, tossing until browned, 3-5 minutes.",
+      "text": "While the spaghetti is cooking, finely chop the celery. Roughly chop the plant-based pulled beef. Return the frying pan to a medium-high heat with a drizzle of olive oil. Cook the plant-based meat, tossing until browned, 3-5 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/614060c9bf00467b7343a94c/step-bb9e4f16.jpg"
     },
     {

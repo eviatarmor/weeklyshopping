@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55542efefd2cb9ae048b456c.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 918,
+    "proteinG": 42.8,
+    "carbsG": 55.7,
+    "fatG": 54.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -91,20 +97,20 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, slice the red onion and tomato. Slice the zucchini lengthways and the haloumi into 1 cm slices. Cut the parsnip into fries.",
+      "text": "To prepare the ingredients, slice the red onion and tomato. Slice the zucchini lengthways and the haloumi into 1 cm slices. Cut the parsnip into fries.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55542efefd2cb9ae048b456c/step_556eb22114e88.jpg"
     },
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced."
+      "text": "Preheat the oven to 200°C/180°C fan-forced."
     },
     {
-      "text": "• Heat some oil in a pan over a medium-high heat and add the red onion, cook for 3 minutes or until the onion has softened. Add the balsamic vinegar and sugar and cook for a further 3 minutes or until the onion becomes sticky."
+      "text": "Heat some oil in a pan over a medium-high heat and add the red onion, cook for 3 minutes or until the onion has softened. Add the balsamic vinegar and sugar and cook for a further 3 minutes or until the onion becomes sticky."
     },
     {
-      "text": "• Place your parsnip fries onto a lined baking tray and coat well with olive oil, salt and pepper and cook in the oven for 10 minutes. Then add the burger buns to the baking tray and cook for a further 5 minutes or until warmed through."
+      "text": "Place your parsnip fries onto a lined baking tray and coat well with olive oil, salt and pepper and cook in the oven for 10 minutes. Then add the burger buns to the baking tray and cook for a further 5 minutes or until warmed through."
     },
     {
-      "text": "• Brush the zucchini slices with the olive oil. Heat a lightly oiled frying pan over a medium heat and cook the zucchini for 5 minutes on each side or until cooked all the way through, set aside. Then in the same pan, cook the haloumi for 4 minutes each side or until golden.",
+      "text": "Brush the zucchini slices with the olive oil. Heat a lightly oiled frying pan over a medium heat and cook the zucchini for 5 minutes on each side or until cooked all the way through, set aside. Then in the same pan, cook the haloumi for 4 minutes each side or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55542efefd2cb9ae048b456c/step_556eb2214d416.jpg"
     },
     {

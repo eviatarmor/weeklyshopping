@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Zucchini Fritters & Haloumi",
   "subtitle": "with Veggie Salad, Birch & Waite Green Goddess Dressing",
-  "description": "Bursting with garden herbs, zesty lemon and garlic, this stellar Green Goddess dressing transforms a good salad into a spectacular one and pairs perfectly with our cheesy veggie-loaded fritters. Gluten free*, with no added preservatives, no artificial colours or flavours, you’ll never want another salad dressing ever again!\n*Birch & Waite Green Goddess Dressing is gluten free, however, please be aware that the rest of the ingredients in this recipe may contain gluten.",
+  "description": "Bursting with garden herbs, zesty lemon and garlic, this stellar Green Goddess dressing transforms a good salad into a spectacular one and pairs perfectly with our cheesy veggie-loaded fritters. Gluten free*, with no added preservatives, no artificial colours or flavours, you’ll never want another salad dressing ever again! *Birch & Waite Green Goddess Dressing is gluten free, however, please be aware that the rest of the ingredients in this recipe may contain gluten.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/zucchini-haloumi-and-cheddar-fritters-67f844d54264524ca97905f2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1021_W42_AU_R19811-3_Main_high-334b5fed.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 684,
+    "proteinG": 33.1,
+    "carbsG": 33,
+    "fatG": 46.6
+  },
   "tags": [
     "hellofresh",
     "australian",

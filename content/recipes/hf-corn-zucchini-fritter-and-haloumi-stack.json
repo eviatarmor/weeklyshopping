@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Corn-Zucchini Fritter & Haloumi Stack",
   "subtitle": "with Roast Sweet Potato Salad",
-  "description": "Laced with fresh, fragrant herbs, these sweet-and-savoury fritters are the perfect marriage of flavours and easy cooking\ntechniques. Stack them with squeaky, salty haloumi, plus a drizzle of sweet chilli sauce to tie everything together.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "Laced with fresh, fragrant herbs, these sweet-and-savoury fritters are the perfect marriage of flavours and easy cooking techniques. Stack them with squeaky, salty haloumi, plus a drizzle of sweet chilli sauce to tie everything together. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/corn-zucchini-fritter-and-haloumi-stack-624d031218d4fd670d1773a2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweetcorn-haloumi-fritters-d7adbcdd.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 684,
+    "proteinG": 30.7,
+    "carbsG": 65.2,
+    "fatG": 31.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Fattoush-Style Haloumi, Chickpea & Veggie Salad",
   "subtitle": "with Golden Goddess Dressing & Fetta Yoghurt",
-  "description": "This hearty number tastes truly as spectacular as it looks. Superstar tortilla chips form the foundations, giving roasted chickpeas and veggies something to pair perfectly with. Cutlery optional!\nThis recipe is under 650kcal per serving.",
+  "description": "This hearty number tastes truly as spectacular as it looks. Superstar tortilla chips form the foundations, giving roasted chickpeas and veggies something to pair perfectly with. Cutlery optional! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/fattoush-style-haloumi-chickpea-and-veggie-salad-66971d304b756a3c98190641",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66971d304b756a3c98190641-35753791.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 505,
+    "proteinG": 21,
+    "carbsG": 51.1,
+    "fatG": 21.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

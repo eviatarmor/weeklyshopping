@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Mushroom Medley Stroganoff",
   "subtitle": "with Garlicky Greens & Mashed Potato",
-  "description": "Nothing beats a fluffy mountain of potato mash, so we've loaded ours with the creamiest stroganoff packed with not one, but two meaty mushrooms (button and flat mushrooms to be precise!). Cut through the richness with a helping of garlicky greens and this time will quickly become a regular.\nDue to recent weather, you may see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to match your recipe. Big or small, you’ll always have the right amount for dinner.",
+  "description": "Nothing beats a fluffy mountain of potato mash, so we've loaded ours with the creamiest stroganoff packed with not one, but two meaty mushrooms (button and flat mushrooms to be precise!). Cut through the richness with a helping of garlicky greens and this time will quickly become a regular. Due to recent weather, you may see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to match your recipe. Big or small, you’ll always have the right amount for dinner.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-mushroom-stroganoff-67f844ca4264524ca97905d5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1058_W39_AU_R47449-2_Main_4_high-2eeca0db.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 598,
+    "proteinG": 14.2,
+    "carbsG": 37.3,
+    "fatG": 43.8
+  },
   "tags": [
     "hellofresh",
     "australian",

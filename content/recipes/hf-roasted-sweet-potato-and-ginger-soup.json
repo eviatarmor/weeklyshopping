@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/556fc6d5f8b25e820b8b4568.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 641,
+    "proteinG": 20.1,
+    "carbsG": 62.5,
+    "fatG": 30.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -108,25 +114,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. Line two oven trays with baking paper."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. Line two oven trays with baking paper."
     },
     {
-      "text": "• To prepare the ingredients, peel the sweet potatoes and carrots, and cut the potatoes into 2 cm cubes and the carrots into rounds. Finely chop the red onion and parsley. Peel and finely grate the ginger, and peel and crush the garlic."
+      "text": "To prepare the ingredients, peel the sweet potatoes and carrots, and cut the potatoes into 2 cm cubes and the carrots into rounds. Finely chop the red onion and parsley. Peel and finely grate the ginger, and peel and crush the garlic."
     },
     {
-      "text": "• Toss the sweet potatoes and carrots in half of the olive oil and place them on the prepared tray. Season generously with salt and pepper. Cook in the oven for 25 minutes or until the vegetables are tender."
+      "text": "Toss the sweet potatoes and carrots in half of the olive oil and place them on the prepared tray. Season generously with salt and pepper. Cook in the oven for 25 minutes or until the vegetables are tender."
     },
     {
-      "text": "• Meanwhile, heat the remaining oil in a large pot over a medium-high heat. Add the red onion, and cook for 5 minutes or until the onion is soft. Add the ginger, garlic, and HelloFresh Cumin and cook, stirring, for 1-2 minutes or until fragrant. Add the vegetable stock powder and hot water and bring to a boil. Remove from the heat."
+      "text": "Meanwhile, heat the remaining oil in a large pot over a medium-high heat. Add the red onion, and cook for 5 minutes or until the onion is soft. Add the ginger, garlic, and HelloFresh Cumin and cook, stirring, for 1-2 minutes or until fragrant. Add the vegetable stock powder and hot water and bring to a boil. Remove from the heat."
     },
     {
-      "text": "• Place the bread rolls and pepitas on a lined baking tray in the oven 5 minutes before serving the soup."
+      "text": "Place the bread rolls and pepitas on a lined baking tray in the oven 5 minutes before serving the soup."
     },
     {
-      "text": "• Blend the sweet potato, carrot and stock mixture until smooth using a stick blender or regular blender."
+      "text": "Blend the sweet potato, carrot and stock mixture until smooth using a stick blender or regular blender."
     },
     {
-      "text": "• To serve, spoon soup into bowls, top with dots of chevre goat’s cheese, a sprinkle of pepitas and garnish with parsley. Enjoy with the crusty bread rolls."
+      "text": "To serve, spoon soup into bowls, top with dots of chevre goat’s cheese, a sprinkle of pepitas and garnish with parsley. Enjoy with the crusty bread rolls."
     }
   ]
 }

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/miso-glazed-tofu-garlic-rice-bowl-546d58c5-c6231e4c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 765,
+    "proteinG": 24.7,
+    "carbsG": 80.9,
+    "fatG": 36.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

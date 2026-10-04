@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56bacad1fd2cb961128b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 648,
+    "proteinG": 22.7,
+    "carbsG": 107,
+    "fatG": 11.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -115,22 +121,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare ingredients, finely slice red onion, peel and crush garlic, peel sweet potato and cut into 2 cm pieces, drain and rinse chickpeas, wash baby spinach and finely chop parsley."
+      "text": "To prepare ingredients, finely slice red onion, peel and crush garlic, peel sweet potato and cut into 2 cm pieces, drain and rinse chickpeas, wash baby spinach and finely chop parsley."
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan. Add the red onion and cook for 5 minutes or until soft. Add the garlic, cumin & paprika spice mix and honey and cook for 1 minute or until fragrant. Add the sweet potato and cook, stirring, for 1 minute or until coated in the spices. Add the diced tomatoes and chickpeas and season with salt and pepper. Bring to the boil. Reduce the heat to low and simmer, covered, for 25 minutes or until the sauce is slightly thickened and the sweet potato is tender.",
+      "text": "Heat the olive oil in a medium frying pan. Add the red onion and cook for 5 minutes or until soft. Add the garlic, cumin & paprika spice mix and honey and cook for 1 minute or until fragrant. Add the sweet potato and cook, stirring, for 1 minute or until coated in the spices. Add the diced tomatoes and chickpeas and season with salt and pepper. Bring to the boil. Reduce the heat to low and simmer, covered, for 25 minutes or until the sauce is slightly thickened and the sweet potato is tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56bacad1fd2cb961128b4567/step_56bacea632318.jpg"
     },
     {
-      "text": "• Stir the baby spinach through the tagine. Simmer for 2-3 minutes and then remove from the heat.",
+      "text": "Stir the baby spinach through the tagine. Simmer for 2-3 minutes and then remove from the heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56bacad1fd2cb961128b4567/step_56bacea6419cf.jpg"
     },
     {
-      "text": "• Meanwhile, place the couscous in a medium bowl. Pour the boiling water over the couscous, stir with a fork, then cover the bowl tightly with cling wrap and leave to sit for 5 minutes. Remove the cling wrap and fluff the couscous with a fork. Stir through the butter and parsley (reserving a small amount for a garnish).",
+      "text": "Meanwhile, place the couscous in a medium bowl. Pour the boiling water over the couscous, stir with a fork, then cover the bowl tightly with cling wrap and leave to sit for 5 minutes. Remove the cling wrap and fluff the couscous with a fork. Stir through the butter and parsley (reserving a small amount for a garnish).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56bacad1fd2cb961128b4567/step_56bacea654266.jpg"
     },
     {
-      "text": "• Divide the couscous between bowls. Top with the tagine and a sprinkle of the remaining parsley. Season to taste with salt and pepper.",
+      "text": "Divide the couscous between bowls. Top with the tagine and a sprinkle of the remaining parsley. Season to taste with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56bacad1fd2cb961128b4567/step_56bacea66aef3.jpg"
     }
   ]

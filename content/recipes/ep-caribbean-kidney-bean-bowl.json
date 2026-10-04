@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-caribbean-kidney-bean-nachos-71f6037f.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 699,
+    "proteinG": 26.4,
+    "carbsG": 85.8,
+    "fatG": 23.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",

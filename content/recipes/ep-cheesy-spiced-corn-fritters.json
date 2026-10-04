@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-spiced-corn-fritters-bb475253.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 376,
+    "proteinG": 15.2,
+    "carbsG": 49.5,
+    "fatG": 11
+  },
   "tags": [
     "vegetarian",
     "everyplate",

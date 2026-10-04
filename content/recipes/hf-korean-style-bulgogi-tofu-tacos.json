@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Korean-Style Bulgogi Tofu Tacos",
   "subtitle": "with Slaw & Pickled Onion",
-  "description": "Add all the flavour and sizzle of Korean bulgogi to tender tofu – trust us, it's a winner! Then, add tangy quick-pickled onion, crisp\ncucumber and a creamy slaw, wrap it all up in soft flour tortillas and settle in for a flavourful veggie feast.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "Add all the flavour and sizzle of Korean bulgogi to tender tofu – trust us, it's a winner! Then, add tangy quick-pickled onion, crisp cucumber and a creamy slaw, wrap it all up in soft flour tortillas and settle in for a flavourful veggie feast. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/korean-style-bulgogi-tofu-tacos-62552806605c621e796070cc",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bulgogi-mushroom-tacos-28c10616.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 847,
+    "proteinG": 28.4,
+    "carbsG": 64.6,
+    "fatG": 54.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

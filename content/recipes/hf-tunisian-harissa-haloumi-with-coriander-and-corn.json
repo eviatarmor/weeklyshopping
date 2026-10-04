@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5508e09d6ced6eb2028b4569.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 770,
+    "proteinG": 35.5,
+    "carbsG": 37.2,
+    "fatG": 48.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -97,15 +103,15 @@
   ],
   "steps": [
     {
-      "text": "• Whisk together the harissa paste (we suggest you use half if you don’t like too much heat, you can adjust to your taste by adding more harissa if you like it spicy), olive oil, and balsamic vinegar in the bottom of a large bowl.",
+      "text": "Whisk together the harissa paste (we suggest you use half if you don’t like too much heat, you can adjust to your taste by adding more harissa if you like it spicy), olive oil, and balsamic vinegar in the bottom of a large bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5508e09d6ced6eb2028b4569/step_556c2932bddf9.jpg"
     },
     {
-      "text": "• Slice the haloumi. Heat a griddle pan or BBQ to a high heat. Lightly oil the griddle and add the sliced haloumi, cooking for 2-3 minutes on either side or until golden brown.",
+      "text": "Slice the haloumi. Heat a griddle pan or BBQ to a high heat. Lightly oil the griddle and add the sliced haloumi, cooking for 2-3 minutes on either side or until golden brown.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5508e09d6ced6eb2028b4569/step_556c2932cfbb5.jpg"
     },
     {
-      "text": "• Drain and rinse the kidney beans. Slice the spring onion and roughly chop the coriander. Wash the rocket. Remove the corn kernels from the cob (we’re leaving them raw because they add a delicious sweetness!), then add to the dressing along with the red kidney beans, sliced spring onion, rocket, and chopped coriander. Toss well until the dressing has coated the salad ingredients.",
+      "text": "Drain and rinse the kidney beans. Slice the spring onion and roughly chop the coriander. Wash the rocket. Remove the corn kernels from the cob (we’re leaving them raw because they add a delicious sweetness!), then add to the dressing along with the red kidney beans, sliced spring onion, rocket, and chopped coriander. Toss well until the dressing has coated the salad ingredients.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5508e09d6ced6eb2028b4569/step_556c2932e84a5.jpg"
     },
     {

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Bean Nachos",
   "subtitle": "with Oven-Baked Tortilla Chips & Tomato Salsa",
-  "description": "This feisty bean dish is packed full of goodness. The secret to its amazing flavour? Plentiful toppings like tangy chipotle sauce,\ncooling sour cream and our new tomato salsa which go perfectly with the veggie-packed bean mixture.",
+  "description": "This feisty bean dish is packed full of goodness. The secret to its amazing flavour? Plentiful toppings like tangy chipotle sauce, cooling sour cream and our new tomato salsa which go perfectly with the veggie-packed bean mixture.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-bean-nachos-60ee60161afbf376a85e7a3a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-bean-nachos-dd4544e9.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 876,
+    "proteinG": 34.2,
+    "carbsG": 93.2,
+    "fatG": 34.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

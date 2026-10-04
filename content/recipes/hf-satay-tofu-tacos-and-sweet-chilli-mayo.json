@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66fffd6a99e8e2a18bd753e7-a09cf5bf.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 1018,
+    "proteinG": 59.5,
+    "carbsG": 108.9,
+    "fatG": 37
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -100,7 +106,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66fffd6a99e8e2a18bd753e7-4f6c17e6.jpeg"
     },
     {
-      "text": "• In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Cook tofu, tossing, until browned and warmed through, 3-4 minutes. Transfer to a bowl.",
+      "text": "In a large frying pan, heat a drizzle of olive oil over a medium-high heat. Cook tofu, tossing, until browned and warmed through, 3-4 minutes. Transfer to a bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66fffd6a99e8e2a18bd753e7-5aa72f70.jpeg"
     },
     {

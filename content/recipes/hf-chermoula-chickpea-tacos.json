@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chermoula Chickpea Tacos",
   "subtitle": "with Salad, Mint Yoghurt & Almonds",
-  "description": "Bursting with paprika, cumin and turmeric, our chermoula spice blend works wonderfully with creamy coconut milk and tomato\npaste to create a saucy base for the chickpeas. The salad and almonds add extra texture, and the refreshing mint yoghurt really makes the dish sing.",
+  "description": "Bursting with paprika, cumin and turmeric, our chermoula spice blend works wonderfully with creamy coconut milk and tomato paste to create a saucy base for the chickpeas. The salad and almonds add extra texture, and the refreshing mint yoghurt really makes the dish sing.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-chickpea-tacos-61c3bb006f7d3d646b76a41d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chermoula-chickpea-tacos-6c7e7c61.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 895,
+    "proteinG": 28.9,
+    "carbsG": 89.4,
+    "fatG": 41.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

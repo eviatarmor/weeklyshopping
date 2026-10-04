@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56b26ca84dab716d3a8b4568.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 425,
+    "proteinG": 17.7,
+    "carbsG": 60.6,
+    "fatG": 9.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -95,25 +101,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely chop the red onion and oregano. Peel and crush the garlic. Cut the Lebanese bread into triangles and dice the tomato and cucumber. Lastly, drain and rinse the lentils.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely chop the red onion and oregano. Peel and crush the garlic. Cut the Lebanese bread into triangles and dice the tomato and cucumber. Lastly, drain and rinse the lentils.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b26ca84dab716d3a8b4568/step_56b26ef2e4bc6.jpg"
     },
     {
-      "text": "• Place a medium frying pan over a medium heat. Add the pine nuts and toast in the pan, tossing occasionally for 1-2 minutes or until lightly browned. Remove from the pan and set aside.",
+      "text": "Place a medium frying pan over a medium heat. Add the pine nuts and toast in the pan, tossing occasionally for 1-2 minutes or until lightly browned. Remove from the pan and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b26ca84dab716d3a8b4568/step_56b26ef318496.jpg"
     },
     {
-      "text": "• Heat the olive oil in the same medium frying pan over a medium-high heat. Add the red onion and cook, stirring, for 3 minutes or until soft. Add the garlic and cook stirring for 1 minute or until fragrant. Add the tomato paste and cook stirring for a further 1 minute. Add the lentils and oregano and cook for 3 minutes or until the lentils are heated through.",
+      "text": "Heat the olive oil in the same medium frying pan over a medium-high heat. Add the red onion and cook, stirring, for 3 minutes or until soft. Add the garlic and cook stirring for 1 minute or until fragrant. Add the tomato paste and cook stirring for a further 1 minute. Add the lentils and oregano and cook for 3 minutes or until the lentils are heated through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56b26ca84dab716d3a8b4568/step_56b26ef32b0ff.jpg"
     },
     {
-      "text": "• Meanwhile, brush the Lebanese bread triangles with a little olive oil and place on a lined baking tray. Cook for 10 minutes in the oven or until golden."
+      "text": "Meanwhile, brush the Lebanese bread triangles with a little olive oil and place on a lined baking tray. Cook for 10 minutes in the oven or until golden."
     },
     {
-      "text": "• Place the yoghurt in a small bowl and season with some salt and pepper."
+      "text": "Place the yoghurt in a small bowl and season with some salt and pepper."
     },
     {
-      "text": "• To serve, place the Lebanese bread chips on a plate and top with the lentils, tomato, cucumber and yoghurt."
+      "text": "To serve, place the Lebanese bread chips on a plate and top with the lentils, tomato, cucumber and yoghurt."
     }
   ]
 }

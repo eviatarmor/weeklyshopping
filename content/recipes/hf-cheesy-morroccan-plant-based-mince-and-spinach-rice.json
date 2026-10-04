@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Moroccan Plant-Based Mince & Spinach Rice",
   "subtitle": "with Cucumber-Mint Salsa & Almonds",
-  "description": "Our plant-based mince looks, cooks and tastes a lot like the real deal, and stands up well to the cumin, paprika and turmeric in our chermoula spice blend. The spinach-laced basmati provides a touch of sweetness to enhance the Moroccan flavours and might be the yummiest way to get your greens in.\nThis recipe is under 650kcal per serving.",
+  "description": "Our plant-based mince looks, cooks and tastes a lot like the real deal, and stands up well to the cumin, paprika and turmeric in our chermoula spice blend. The spinach-laced basmati provides a touch of sweetness to enhance the Moroccan flavours and might be the yummiest way to get your greens in. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-morroccan-plant-based-mince-and-spinach-rice-66848f075b2f7760fe3adf3a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66848f075b2f7760fe3adf3a-bf2e12f9.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 637,
+    "proteinG": 31.4,
+    "carbsG": 79.3,
+    "fatG": 18.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

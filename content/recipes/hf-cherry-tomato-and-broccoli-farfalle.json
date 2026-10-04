@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/558b3fd5f8b25e7e748b456c.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 753,
+    "proteinG": 25.3,
+    "carbsG": 75.1,
+    "fatG": 37.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -86,19 +92,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced."
+      "text": "Preheat the oven to 200°C/180°C fan-forced."
     },
     {
-      "text": "• To prepare the ingredients, halve the cherry tomatoes and finely grate the Parmesan cheese. Roughly chop the broccoli and walnuts."
+      "text": "To prepare the ingredients, halve the cherry tomatoes and finely grate the Parmesan cheese. Roughly chop the broccoli and walnuts."
     },
     {
-      "text": "• Toss the cherry tomatoes in the balsamic vinegar and olive oil and place on a lined oven tray. Season with salt and pepper. Cook in the oven for 20 minutes or until blistered."
+      "text": "Toss the cherry tomatoes in the balsamic vinegar and olive oil and place on a lined oven tray. Season with salt and pepper. Cook in the oven for 20 minutes or until blistered."
     },
     {
-      "text": "• Meanwhile, bring a large pot of salted water to the boil. Add the farfalle pasta and cook for 7 minutes or until cooked to ‘al dente’. Add the broccolini in the last 2 minutes of cooking. Drain, reserving 1 tablespoon of the pasta water in a small cup."
+      "text": "Meanwhile, bring a large pot of salted water to the boil. Add the farfalle pasta and cook for 7 minutes or until cooked to ‘al dente’. Add the broccolini in the last 2 minutes of cooking. Drain, reserving 1 tablespoon of the pasta water in a small cup."
     },
     {
-      "text": "• Combine the pasta, reserved pasta water, pesto, broccoli and roasted tomatoes. Garnish with the Parmesan cheese and crunchy walnuts."
+      "text": "Combine the pasta, reserved pasta water, pesto, broccoli and roasted tomatoes. Garnish with the Parmesan cheese and crunchy walnuts."
     }
   ]
 }

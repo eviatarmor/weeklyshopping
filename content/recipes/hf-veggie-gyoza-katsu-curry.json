@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Veggie Gyoza Katsu Curry",
   "subtitle": "with Corn Rice & Pickled Ginger",
-  "description": "Celebrate World Vegetarian Month and find your balance with our Meat-Free Marvels. This plant-based stir-fry might sound involved, but thanks to our ready-to-cook veggie gyoza, it comes together with minimal\nhands-on time. Amp up the Asian-style flavours with zingy ginger and an easy katsu curry sauce.",
+  "description": "Celebrate World Vegetarian Month and find your balance with our Meat-Free Marvels. This plant-based stir-fry might sound involved, but thanks to our ready-to-cook veggie gyoza, it comes together with minimal hands-on time. Amp up the Asian-style flavours with zingy ginger and an easy katsu curry sauce.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-gyoza-katsu-curry-641a8cdff4ecf26bed0bd890",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6507bf2bafce28d3c35d8c35-83e5714b.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1120,
+    "proteinG": 24,
+    "carbsG": 159.8,
+    "fatG": 41.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

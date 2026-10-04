@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Spiced Haloumi Burger",
   "subtitle": "with Oven Fries",
-  "description": "Our favourite squeaky cheese is the star of the show in this classic burger that really hits the spot. A tender bun, golden haloumi and crisp fries on the side will make you shout \"Encore! Encore!\"\nKeep an eye out...\nDue to recent sourcing challenges, we’ve swapped potato for sweet potato, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
+  "description": "Our favourite squeaky cheese is the star of the show in this classic burger that really hits the spot. A tender bun, golden haloumi and crisp fries on the side will make you shout \"Encore! Encore!\" Keep an eye out... Due to recent sourcing challenges, we’ve swapped potato for sweet potato, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
   "sourceUrl": "https://www.everyplate.com.au/recipes/spiced-haloumi-burger-62d01020e4a3f2c6d80d80b6",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/classic-haloumi-burger-c4cff6d6.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 847,
+    "proteinG": 32.6,
+    "carbsG": 84.8,
+    "fatG": 40.4
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Garlicky Pumpkin Salad & Double Fetta Yoghurt",
   "subtitle": "with Croutons & Almonds",
-  "description": "This salad brings together unforgettable flavours, textures and colours, thanks to golden roasted pumpkin, crispy croutons, tangy dressing and creamy fetta.\nThis recipe is under 650kcal per serving.",
+  "description": "This salad brings together unforgettable flavours, textures and colours, thanks to golden roasted pumpkin, crispy croutons, tangy dressing and creamy fetta. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-pumpkin-and-double-fetta-yoghurt-salad-65b74153a5e3d2b60cbfc478",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W32_AU_R14576-3_Main_R_high-89796bfe.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 575,
+    "proteinG": 20.8,
+    "carbsG": 72,
+    "fatG": 21.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

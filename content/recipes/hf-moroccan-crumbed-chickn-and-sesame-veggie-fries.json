@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Middle Eastern Crumbed Chick'n & Sesame Veg Fries",
   "subtitle": "with Tomato Garden Salad & Garlic Sauce",
-  "description": "Nip that steak craving in the bud with this delight of a recipe. To keep the carbs in check, we've swapped potato with carrot and beetroot! While they bake with a good sprinkle of sesame seeds, sear the crumbed chick'n in the pan with three game-changing ingredients: butter, honey and our Middle Eastern seasoning.\nThis recipe is under 650kcal per serving.",
+  "description": "Nip that steak craving in the bud with this delight of a recipe. To keep the carbs in check, we've swapped potato with carrot and beetroot! While they bake with a good sprinkle of sesame seeds, sear the crumbed chick'n in the pan with three game-changing ingredients: butter, honey and our Middle Eastern seasoning. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/moroccan-beef-rump-and-sesame-veggie-fries-67f840bdcade9b9f0acdf719",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/651a0dcae9bda1f52a2d9670-aa616a8b-d3e2eb3a.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 479,
+    "proteinG": 23.4,
+    "carbsG": 48.2,
+    "fatG": 19.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

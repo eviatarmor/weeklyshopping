@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Veggie Curry Lentil Dhal",
   "subtitle": "with Garlic Yoghurt & Flaked Almonds",
-  "description": "It's curry night tonight so we've gathered all of our fave ingredients that pack the best punch! Red lentils are the star of the show and when you pair them with curry paste and some superstar veggies, you'll want to make every night, curry night!\nThis recipe is under 650kcal per serving.",
+  "description": "It's curry night tonight so we've gathered all of our fave ingredients that pack the best punch! Red lentils are the star of the show and when you pair them with curry paste and some superstar veggies, you'll want to make every night, curry night! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-veggie-curry-lentil-dhal-640546c896f1a8092009c5f6",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-veggie-curry-lentil-dhal-40364826.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 28.9,
+    "carbsG": 59.9,
+    "fatG": 26.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -136,7 +142,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/640546c896f1a8092009c5f6/step-9fb2dc53.jpg"
     },
     {
-      "text": "• Meanwhile, roughly chop tomato. Finely chop garlic.",
+      "text": "Meanwhile, roughly chop tomato. Finely chop garlic.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/640546c896f1a8092009c5f6/step-b8fd6e60.jpg"
     },
     {

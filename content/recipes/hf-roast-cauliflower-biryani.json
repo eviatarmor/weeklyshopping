@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Cauliflower Biryani",
   "subtitle": "with Currants, Almonds & Yoghurt",
-  "description": "Curry on rice is all well and good, but when the rice itself is cooked with the curry paste? Now that’s magical. Studded with sweet\ncurrants, fresh herbs and roasted cauliflower, this Indian-inspired dish delivers flavour with every bite.\nThis recipe is under 650kcal per serving.",
+  "description": "Curry on rice is all well and good, but when the rice itself is cooked with the curry paste? Now that’s magical. Studded with sweet currants, fresh herbs and roasted cauliflower, this Indian-inspired dish delivers flavour with every bite. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-cauliflower-biryani-61c3bc4d9804ac3bb141e8e2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/667151d8de5ffd5651f64e31-d3f2e754.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 600,
+    "proteinG": 16.5,
+    "carbsG": 90.2,
+    "fatG": 18.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

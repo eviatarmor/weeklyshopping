@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1021_W28_AU_R55665-3main_dark_falafel_edit_global-feast__high-fe390c21.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 922,
+    "proteinG": 31.8,
+    "carbsG": 77.2,
+    "fatG": 49.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Crumbed Haloumi Tacos",
   "subtitle": "with Cherry Tomato Salad, Pickled Onion & Smokey Aioli",
-  "description": "You'll be smiling all the way to the table when you dish up these show-stopping tacos. Fill them with squeaky crumbed haloumi,\npickled onion and salad and enjoy the state of supreme bliss that follows!\nUnfortunately, this week's tomatoes were in short supply. Some customers will receive cherry tomatoes instead of tomatoes. Don't worry, the recipe will be just as delicious!",
+  "description": "You'll be smiling all the way to the table when you dish up these show-stopping tacos. Fill them with squeaky crumbed haloumi, pickled onion and salad and enjoy the state of supreme bliss that follows! Unfortunately, this week's tomatoes were in short supply. Some customers will receive cherry tomatoes instead of tomatoes. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/crumbed-haloumi-tacos-6004faaf5efc40209d546b4e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crumbed-haloumi-tacos-a6c34432.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 911,
+    "proteinG": 35,
+    "carbsG": 74.5,
+    "fatG": 50.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

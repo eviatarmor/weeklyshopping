@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Pan-Seared Paneer & Veggie Tikka Curry",
   "subtitle": "with Rapid Rice & Coriander",
-  "description": "In 4 short steps, watch this delightful curry appear before your eyes. Brimming with tender veggies, two spices and passata, as well as some staple paneer, this tikka curry gets a major tick of approval.\nThis recipe is under 650kcal per serving.",
+  "description": "In 4 short steps, watch this delightful curry appear before your eyes. Brimming with tender veggies, two spices and passata, as well as some staple paneer, this tikka curry gets a major tick of approval. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-paneer-and-veggie-tikka-curry-67fdfc67d2847d730ba087b3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R09_W10_AUS_Main_high-c167f008.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 763,
+    "proteinG": 27.5,
+    "carbsG": 85.1,
+    "fatG": 32.6
+  },
   "tags": [
     "hellofresh",
     "indian",

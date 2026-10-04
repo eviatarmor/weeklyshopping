@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-smashed-chickpea-tacos-02e326b6.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 1060,
+    "proteinG": 25.3,
+    "carbsG": 81.6,
+    "fatG": 70
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -140,7 +146,7 @@
   ],
   "steps": [
     {
-      "text": "• Thinly slice the red onion (see ingredients). In a small bowl, combine the rice wine vinegar, salt and sugar. Scrunch the onion in your hands, then add to the pickling liquid. Add just enough water to cover the onion then stir to coat. Set aside until just before serving.",
+      "text": "Thinly slice the red onion (see ingredients). In a small bowl, combine the rice wine vinegar, salt and sugar. Scrunch the onion in your hands, then add to the pickling liquid. Add just enough water to cover the onion then stir to coat. Set aside until just before serving.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4af3fe223537f32b7b09/step-b4382ef7.jpg"
     },
     {
@@ -156,11 +162,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4af3fe223537f32b7b09/step-a989172f.jpg"
     },
     {
-      "text": "• Heat the mini flour tortillas in a sandwich press or on a plate in the microwave for 10 second bursts, or until warmed through.",
+      "text": "Heat the mini flour tortillas in a sandwich press or on a plate in the microwave for 10 second bursts, or until warmed through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4af3fe223537f32b7b09/step-d0b78996.jpg"
     },
     {
-      "text": "• Drain the pickled onions. Build tacos by filling with a helping of cos lettuce, smashed chickpeas, shredded Cheddar cheese, smokey aioli, tomato and pickled onions.",
+      "text": "Drain the pickled onions. Build tacos by filling with a helping of cos lettuce, smashed chickpeas, shredded Cheddar cheese, smokey aioli, tomato and pickled onions.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4af3fe223537f32b7b09/step-ca622d9e.jpg"
     }
   ]

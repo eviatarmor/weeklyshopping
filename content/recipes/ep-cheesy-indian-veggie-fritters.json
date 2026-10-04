@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-indian-veggie-fritters-42b1969d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 650,
+    "proteinG": 21.8,
+    "carbsG": 71.1,
+    "fatG": 30
+  },
   "tags": [
     "vegetarian",
     "everyplate",

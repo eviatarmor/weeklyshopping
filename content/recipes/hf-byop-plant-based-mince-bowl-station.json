@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Family-Style Plant-Based Mince Fajita Bowls",
   "subtitle": "with Garlic Rice, Rainbow Veggies & Sour Cream",
-  "description": "Create your perfect bowl for dinner tonight with grilled Tex-Mex plant-based mince, sautéed capiscum and onions, fluffy garlicky rice and all your favourite toppings—like sour cream, cheese and coriander. Fresh, customisable and full of flavour!\nThis recipe is under 650kcal per serving.",
+  "description": "Create your perfect bowl for dinner tonight with grilled Tex-Mex plant-based mince, sautéed capiscum and onions, fluffy garlicky rice and all your favourite toppings—like sour cream, cheese and coriander. Fresh, customisable and full of flavour! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/byop-plant-based-mince-bowl-station-67f87177cade9b9f0acf0afc",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1041_W22_AUS_Main__6high-72d3a227.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 608,
+    "proteinG": 27.5,
+    "carbsG": 82,
+    "fatG": 16.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

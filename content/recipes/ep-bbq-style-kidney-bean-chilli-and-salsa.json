@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-bean-nachos-268e03c1.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 739,
+    "proteinG": 23,
+    "carbsG": 79.4,
+    "fatG": 33.1
+  },
   "tags": [
     "vegetarian",
     "everyplate",

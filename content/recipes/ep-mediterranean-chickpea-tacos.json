@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-chickpea-tacos-b8e32dc3.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 630,
+    "proteinG": 23.6,
+    "carbsG": 72.9,
+    "fatG": 22.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

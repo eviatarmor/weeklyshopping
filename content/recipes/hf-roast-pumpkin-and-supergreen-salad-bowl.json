@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Pumpkin & Supergreen Salad",
   "subtitle": "with Garlic Fetta & Honey Mustard Sauce",
-  "description": "We're in our light and bright era so only a salad will do! Nan's special seasoning is the perfect pair to roast pumpkin and works wonders in this kale salad. With some special additions of garlicky-fetta, honey mustard sauce and roasted almonds, your standard salad has been made a little bit fancier. \nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "We're in our light and bright era so only a salad will do! Nan's special seasoning is the perfect pair to roast pumpkin and works wonders in this kale salad. With some special additions of garlicky-fetta, honey mustard sauce and roasted almonds, your standard salad has been made a little bit fancier. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-pumpkin-and-supergreen-salad-bowl-675f8346760389278541137f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67159e05ffa4e28ccb95b0fb-fff8dc89.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 353,
+    "proteinG": 14.8,
+    "carbsG": 32.1,
+    "fatG": 18
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -114,11 +120,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-675f8346760389278541137f-0d77676c.jpeg"
     },
     {
-      "text": "• When the pumpkin has 5 minutes remaining, in a large bowl, combine radish, cucumber, spinach & rocket mix, kale and a drizzle of vinegar and olive oil. Season to taste.",
+      "text": "When the pumpkin has 5 minutes remaining, in a large bowl, combine radish, cucumber, spinach & rocket mix, kale and a drizzle of vinegar and olive oil. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-675f8346760389278541137f-9baa37b2.jpeg"
     },
     {
-      "text": "• In a small microwave-safe bowl, microwave honey mustard sauce until warmed through, 30 seconds.",
+      "text": "In a small microwave-safe bowl, microwave honey mustard sauce until warmed through, 30 seconds.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-675f8346760389278541137f-ac62defa.jpeg"
     },
     {

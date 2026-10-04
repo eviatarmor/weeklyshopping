@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-pine-nut-parmesan-rigatoni-20e6875b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 717,
+    "proteinG": 28.2,
+    "carbsG": 79.9,
+    "fatG": 28.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -93,27 +99,27 @@
   ],
   "steps": [
     {
-      "text": "• Bring a large saucepan of salted water to the boil. Chop the **broccoli** into 2 cm florets. Finely slice the **brown onion**. Peel and crush the **garlic**. Pick the **basil** leaves. Finely grate the **Parmesan cheese**.",
+      "text": "Bring a large saucepan of salted water to the boil. Chop the **broccoli** into 2 cm florets. Finely slice the **brown onion**. Peel and crush the **garlic**. Pick the **basil** leaves. Finely grate the **Parmesan cheese**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/590811384f78db5eac2dac82-0-0-2515ad4b.jpg"
     },
     {
-      "text": "• Add the **rigatoni (use suggested amount)** to the saucepan of boiling water and cook for **7-8 minutes**, or until 'al dente'. **TIP:** Be sure to add the correct amount of pasta in order for your dish to be perfectly balanced, just the way we planned it! In the **last 2 minutes** of the pasta cooking time, add the **broccoli**. Reserve **2 tbs** of the **pasta water** and drain. Return the rigatoni and broccoli to the saucepan, **drizzle** with **olive oil** and stir through the reserved pasta water.",
+      "text": "Add the **rigatoni (use suggested amount)** to the saucepan of boiling water and cook for **7-8 minutes**, or until 'al dente'. **TIP:** Be sure to add the correct amount of pasta in order for your dish to be perfectly balanced, just the way we planned it! In the **last 2 minutes** of the pasta cooking time, add the **broccoli**. Reserve **2 tbs** of the **pasta water** and drain. Return the rigatoni and broccoli to the saucepan, **drizzle** with **olive oil** and stir through the reserved pasta water.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/590811384f78db5eac2dac82-1-0-cbc7feb4.jpg"
     },
     {
-      "text": "• While the rigatoni is cooking, heat a medium frying pan over a medium-high heat. Add the **pine nuts** and toast, stirring, for **3-4 minutes**, or until golden. Transfer to a small bowl.",
+      "text": "While the rigatoni is cooking, heat a medium frying pan over a medium-high heat. Add the **pine nuts** and toast, stirring, for **3-4 minutes**, or until golden. Transfer to a small bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/590811384f78db5eac2dac82-2-0-990bf799.jpg"
     },
     {
-      "text": "• Heat a **good drizzle** of **olive oil** in the same medium pan over a medium-high heat. Add the **brown onion** and cook for **4-5 minutes**, or until softened. Add the **garlic** and cook for **1 minute**, or until fragrant. Stir in the **baby spinach leaves** and cook for **1 minute**, or until wilted. Remove from the heat.",
+      "text": "Heat a **good drizzle** of **olive oil** in the same medium pan over a medium-high heat. Add the **brown onion** and cook for **4-5 minutes**, or until softened. Add the **garlic** and cook for **1 minute**, or until fragrant. Stir in the **baby spinach leaves** and cook for **1 minute**, or until wilted. Remove from the heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/590811384f78db5eac2dac82-3-0-2391a548.jpg"
     },
     {
-      "text": "• Transfer the **spinach mixture** to the saucepan with the rigatoni and broccoli and add the **traditional pesto**. Stir to combine.",
+      "text": "Transfer the **spinach mixture** to the saucepan with the rigatoni and broccoli and add the **traditional pesto**. Stir to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/590811384f78db5eac2dac82-4-0-feb9f1b2.jpg"
     },
     {
-      "text": "• Divide the rigatoni between bowls. Top with the pine nuts, **chilli flakes (if using)**, basil and the grated Parmesan cheese. **TIP:** Some like it hot but if you don't, just hold back on the chilli flakes.",
+      "text": "Divide the rigatoni between bowls. Top with the pine nuts, **chilli flakes (if using)**, basil and the grated Parmesan cheese. **TIP:** Some like it hot but if you don't, just hold back on the chilli flakes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/590811384f78db5eac2dac82-5-0-08205c4d.jpg"
     }
   ]

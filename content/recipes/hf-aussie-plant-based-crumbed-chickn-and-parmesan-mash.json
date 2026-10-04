@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spiced-chicken-parmesan-mash-bd619865-949ad7d6.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 920,
+    "proteinG": 32.4,
+    "carbsG": 67.2,
+    "fatG": 56.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

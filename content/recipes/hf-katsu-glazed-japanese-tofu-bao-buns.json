@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Katsu-Glazed Japanese Tofu Bao Buns",
   "subtitle": "with Creamy Spring Onion Slaw",
-  "description": "Our favourite little bao buns are back and better than ever. Pack them in with Japanese tofu and spring onion slaw and serve\nand you'll have a dish that makes you sing!\nThis recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
+  "description": "Our favourite little bao buns are back and better than ever. Pack them in with Japanese tofu and spring onion slaw and serve and you'll have a dish that makes you sing! This recipe is under 650kcal per serving and under 30g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/katsu-glazed-japanese-tofu-bao-buns-65dbcbe17efc065796209e29",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65dbcbe17efc065796209e29-241db0a3.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 757,
+    "proteinG": 24.6,
+    "carbsG": 77.6,
+    "fatG": 32
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

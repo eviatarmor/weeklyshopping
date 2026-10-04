@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Lentil, Parsley & Dukkah Patties",
   "subtitle": "with Roasted Sweet Potato & Fetta Salad",
-  "description": "Here’s a new way to enjoy lentils: combine them with tasty fetta and mild dukkah, then shape them into patties! The flavour\ndoesn’t stop there – on the side you’ll have a fresh salad with chunks of spiced sweet potato and toasted walnuts. This is a\nveggie meal with all the good stuff.",
+  "description": "Here’s a new way to enjoy lentils: combine them with tasty fetta and mild dukkah, then shape them into patties! The flavour doesn’t stop there – on the side you’ll have a fresh salad with chunks of spiced sweet potato and toasted walnuts. This is a veggie meal with all the good stuff.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/lentil-parsley-and-dukkah-patties-5c5a681cc445fa1471069c42",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-dukkah-patties-45c7800a.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 756,
+    "proteinG": 28.4,
+    "carbsG": 64.8,
+    "fatG": 39.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

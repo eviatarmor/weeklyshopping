@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-chilli-bean-jacket-potatoes-a7147577.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 624,
+    "proteinG": 27.4,
+    "carbsG": 74.2,
+    "fatG": 20.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -26,7 +26,7 @@ export function ensureSections(db: DB) {
 
 /** ON CONFLICT DO UPDATE: take every column from the incoming row. */
 const EXCLUDED_RECIPE_COLUMNS = Object.fromEntries(
-  ["kind", "title", "subtitle", "description", "image_url", "source_url", "servings", "yield_unit", "prep_minutes", "tags", "steps", "added_at", "content_hash"].map(
+  ["kind", "title", "subtitle", "description", "image_url", "source_url", "servings", "yield_unit", "prep_minutes", "kcal", "protein_g", "carbs_g", "fat_g", "tags", "steps", "added_at", "content_hash"].map(
     (column) => [column.replace(/_(\w)/g, (_, c: string) => c.toUpperCase()), sql.raw(`excluded.${column}`)],
   ),
 );
@@ -43,6 +43,10 @@ function recipeRow(r: HashedRecipe) {
     servings: r.servings,
     yieldUnit: r.yieldUnit ?? null,
     prepMinutes: r.prepMinutes ?? null,
+    kcal: r.nutrition?.kcal ?? null,
+    proteinG: r.nutrition?.proteinG ?? null,
+    carbsG: r.nutrition?.carbsG ?? null,
+    fatG: r.nutrition?.fatG ?? null,
     tags: r.tags,
     steps: r.steps,
     addedAt: r.addedAt,
@@ -102,7 +106,7 @@ export function syncContent(db: DB, content: Content): SyncResult {
     }
     for (const slugs of chunk(removed, 1)) tx.delete(recipes).where(inArray(recipes.slug, slugs)).run();
 
-    for (const rows of chunk(changed, 14)) {
+    for (const rows of chunk(changed, 18)) {
       tx.insert(recipes)
         .values(rows.map(recipeRow))
         .onConflictDoUpdate({

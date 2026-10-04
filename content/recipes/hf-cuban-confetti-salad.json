@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55b9afd179a23c3a128b4567.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 428,
+    "proteinG": 18.2,
+    "carbsG": 51.2,
+    "fatG": 13.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -91,21 +97,21 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced."
+      "text": "Preheat the oven to 200°C/180°C fan-forced."
     },
     {
-      "text": "• To prepare the ingredients, cut the sweet potato into 2 cm cubes. Shuck the corn and remove the kernels. Finely chop the red onion, halve the cherry tomatoes, and cube the fetta cheese. Drain and rinse the red kidney beans. Zest and juice the lime and pick the parsley leaves."
+      "text": "To prepare the ingredients, cut the sweet potato into 2 cm cubes. Shuck the corn and remove the kernels. Finely chop the red onion, halve the cherry tomatoes, and cube the fetta cheese. Drain and rinse the red kidney beans. Zest and juice the lime and pick the parsley leaves."
     },
     {
-      "text": "• Place the sweet potato in a large bowl. Sprinkle with the Cajun spice mix and season with salt and pepper. Add half of olive oil and toss to coat well. Place the sweet potato in a single layer on the prepared tray and cook in the oven for 30 minutes or until tender.",
+      "text": "Place the sweet potato in a large bowl. Sprinkle with the Cajun spice mix and season with salt and pepper. Add half of olive oil and toss to coat well. Place the sweet potato in a single layer on the prepared tray and cook in the oven for 30 minutes or until tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55b9afd179a23c3a128b4567/step_55bac8d32983f.jpg"
     },
     {
-      "text": "• Heat the remaining olive oil in a large frying pan over a medium heat. Add the corn kernels, red onion and season with salt and pepper. Cook, stirring, for 3 minutes or until just tender. Add the red kidney beans, cherry tomatoes, lime zest and juice. Cook, tossing, for 1 minute or until warmed through (take care not to break up the beans).",
+      "text": "Heat the remaining olive oil in a large frying pan over a medium heat. Add the corn kernels, red onion and season with salt and pepper. Cook, stirring, for 3 minutes or until just tender. Add the red kidney beans, cherry tomatoes, lime zest and juice. Cook, tossing, for 1 minute or until warmed through (take care not to break up the beans).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55b9afd179a23c3a128b4567/step_55bac8d3449b7.jpg"
     },
     {
-      "text": "• Toss through the roast sweet potato, fetta cheese and parsley. Season to taste with salt and pepper. Divide between plates and serve.",
+      "text": "Toss through the roast sweet potato, fetta cheese and parsley. Season to taste with salt and pepper. Divide between plates and serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55b9afd179a23c3a128b4567/step_55bac8d36e5da.jpg"
     }
   ]

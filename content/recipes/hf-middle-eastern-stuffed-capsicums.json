@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67159b8dffa4e28ccb95b0e4-87314cb3.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 660,
+    "proteinG": 24,
+    "carbsG": 79.3,
+    "fatG": 29.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -158,7 +164,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67159b8dffa4e28ccb95b0e4-dfdc1c83.jpeg"
     },
     {
-      "text": "• Remove tray from oven and spoon filling into capsicum. Sprinkle over fetta cubes and continue baking, for a further 5-7 minutes.",
+      "text": "Remove tray from oven and spoon filling into capsicum. Sprinkle over fetta cubes and continue baking, for a further 5-7 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67159b8dffa4e28ccb95b0e4-d17bad13.jpeg"
     },
     {

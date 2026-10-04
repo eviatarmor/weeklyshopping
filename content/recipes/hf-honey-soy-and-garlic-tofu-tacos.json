@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey-Soy & Garlic Tofu Tacos",
   "subtitle": "with Pear Slaw & Everything Garnish",
-  "description": "Tender and totally delicious tofu glistens with a mouth-watering combo of garlic, soy and honey. Enjoy with a colourful salad and everything garnish all wrapped in a soft tortilla, for a refreshing mouthful packed with flavour and crunch!\nDue to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
+  "description": "Tender and totally delicious tofu glistens with a mouth-watering combo of garlic, soy and honey. Enjoy with a colourful salad and everything garnish all wrapped in a soft tortilla, for a refreshing mouthful packed with flavour and crunch! Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-soy-and-garlic-tofu-tacos-67f8394d4264524ca978cde0",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6671485ebc5e6cd914c30b3e-b0552235-fb1304dd.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 807,
+    "proteinG": 26.9,
+    "carbsG": 71,
+    "fatG": 43.5
+  },
   "tags": [
     "hellofresh",
     "japanese",

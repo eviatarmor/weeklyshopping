@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Chick'n & Creamy Herb Sauce",
   "subtitle": "with Roasted Sweet Potato & Garlicky Veggies",
-  "description": "Slather a silky sauce on seared chicken breasts, serve with sweet potato chunks and crisp sautéed veggies,\nand you have a weeknight winner without the carb overloads. Check out our 'Little cooks' tips and get the\nkids involved, too!",
+  "description": "Slather a silky sauce on seared chicken breasts, serve with sweet potato chunks and crisp sautéed veggies, and you have a weeknight winner without the carb overloads. Check out our 'Little cooks' tips and get the kids involved, too!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/plant-based-chickn-and-creamy-herb-sauce-6243c0df39b2dc00db2c692d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chicken-creamy-parsley-sauce-40689ed7.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 699,
+    "proteinG": 27.9,
+    "carbsG": 56.5,
+    "fatG": 36.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -90,7 +96,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6243c0df39b2dc00db2c692d/step-b204ef2a.jpg"
     },
     {
-      "text": "• Return frying pan to medium-high heat with enough olive oil to coat the base. When oil is hot, cook plant-based chicken until golden and heated through, 2-3 mins each side. Transfer to a paper towel-lined plate. Cover to keep warm.",
+      "text": "Return frying pan to medium-high heat with enough olive oil to coat the base. When oil is hot, cook plant-based chicken until golden and heated through, 2-3 mins each side. Transfer to a paper towel-lined plate. Cover to keep warm.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6243c0df39b2dc00db2c692d/step-56254151.jpg"
     },
     {
@@ -98,7 +104,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6243c0df39b2dc00db2c692d/step-fba21052.jpg"
     },
     {
-      "text": "• Slice the chick'n. Divide the chick'n, roast sweet potato and garlicky veggies between plates. Drizzle the creamy herb sauce over the chick'n to serve.",
+      "text": "Slice the chick'n. Divide the chick'n, roast sweet potato and garlicky veggies between plates. Drizzle the creamy herb sauce over the chick'n to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6243c0df39b2dc00db2c692d/step-fddc6018.jpg"
     }
   ]

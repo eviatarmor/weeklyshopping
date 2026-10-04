@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5252b191301bbf46038b470e.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 535,
+    "proteinG": 16.8,
+    "carbsG": 48.4,
+    "fatG": 28.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -86,17 +92,17 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200ºC/180ºC fan-forced."
+      "text": "Preheat the oven to 200ºC/180ºC fan-forced."
     },
     {
-      "text": "• Place the Lebanese bread on an oven tray. Using the back of a spoon spread the base with the pesto. Top the base with the sundried tomatoes, artichoke hearts and fetta. Put your pizzas in the oven and bake for 10 minutes or until the bread is crispy and your fetta is golden.",
+      "text": "Place the Lebanese bread on an oven tray. Using the back of a spoon spread the base with the pesto. Top the base with the sundried tomatoes, artichoke hearts and fetta. Put your pizzas in the oven and bake for 10 minutes or until the bread is crispy and your fetta is golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b191301bbf46038b470e/step_556edb43b533d.jpg"
     },
     {
-      "text": "• Meanwhile, in a small pan heat some oil over a medium-high heat and then add the pine nuts, fry for 1 minute and then remove. Make sure you don’t burn them!"
+      "text": "Meanwhile, in a small pan heat some oil over a medium-high heat and then add the pine nuts, fry for 1 minute and then remove. Make sure you don’t burn them!"
     },
     {
-      "text": "• Wash the baby spinach. Place your pizza on a plate and sprinkle with baby spinach and your toasted pine nuts. You can drizzle a few drops of olive oil on top if you like!",
+      "text": "Wash the baby spinach. Place your pizza on a plate and sprinkle with baby spinach and your toasted pine nuts. You can drizzle a few drops of olive oil on top if you like!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b191301bbf46038b470e/step_556edb43ca42a.jpg"
     }
   ]

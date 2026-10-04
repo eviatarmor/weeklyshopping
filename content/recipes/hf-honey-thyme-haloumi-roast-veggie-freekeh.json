@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Honey Haloumi & Roast Veggie Freekeh",
   "subtitle": "with Dill & Parsley Mayo",
-  "description": "We're using the ancient wholegrain from the Middle East, freekeh, as the nutty and soft base to carry all the delicious flavours of\nroasted veggies and honey-coated haloumi. Bring the bowl together with a creamy herby mayo and pepitas. Dinner's served!",
+  "description": "We're using the ancient wholegrain from the Middle East, freekeh, as the nutty and soft base to carry all the delicious flavours of roasted veggies and honey-coated haloumi. Bring the bowl together with a creamy herby mayo and pepitas. Dinner's served!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-thyme-haloumi-roast-veggie-freekeh-64054900aa24caf131069e8b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-thyme-haloumi-roast-veggie-freekeh-7dbf79f6.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 1238,
+    "proteinG": 54.5,
+    "carbsG": 48.1,
+    "fatG": 85.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -138,7 +144,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6459cad42ff15446fa01d0ce/step-f68bfa4e.jpg"
     },
     {
-      "text": "• When the freekeh is cooked, add spinach, roasted veggies and a generous squeeze of lime juice. Toss to combine and season to taste with salt and pepper.",
+      "text": "When the freekeh is cooked, add spinach, roasted veggies and a generous squeeze of lime juice. Toss to combine and season to taste with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6459cad42ff15446fa01d0ce/step-7fcd86e1.jpg"
     },
     {

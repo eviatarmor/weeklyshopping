@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Veggie & Cheesy Crouton Salad",
   "subtitle": "with Creamy Pesto, Parmesan & Almonds",
-  "description": "This solid salad is bursting with all the colours, flavours and textures. From the sweet cherry tomatoes, crisp carrot and peppery\nsalad leaves, to the crunchy ciabatta croutons, creamy pesto and sharp Parmesan, every bite is different - and delightful!\nThis recipe is under 650kcal per serving.",
+  "description": "This solid salad is bursting with all the colours, flavours and textures. From the sweet cherry tomatoes, crisp carrot and peppery salad leaves, to the crunchy ciabatta croutons, creamy pesto and sharp Parmesan, every bite is different - and delightful! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-veggie-and-cheesy-crouton-salad-63a2c0a9b4ec36c68808c795",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-veggie-garlic-crouton-salad-a1f2ed2a.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 533,
+    "proteinG": 18.3,
+    "carbsG": 47.9,
+    "fatG": 29.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -114,11 +120,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63a2c0a9b4ec36c68808c795/step-54f2eeec.jpg"
     },
     {
-      "text": "• Bake the croutons until golden, 5-7 minutes.",
+      "text": "Bake the croutons until golden, 5-7 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63a2c0a9b4ec36c68808c795/step-5dc8c19c.jpg"
     },
     {
-      "text": "• When the roasted veggies have cooled slightly, add salad leaves, croutons and a drizzle of balsamic vinegar to the oven tray and gently toss to combine.",
+      "text": "When the roasted veggies have cooled slightly, add salad leaves, croutons and a drizzle of balsamic vinegar to the oven tray and gently toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63a2c0a9b4ec36c68808c795/step-4b5ad388.jpg"
     },
     {

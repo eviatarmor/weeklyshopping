@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/aussie-spiced-chicken-schnitzel-mash-25f372b9.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 906,
+    "proteinG": 32.3,
+    "carbsG": 57.8,
+    "fatG": 59.2
+  },
   "tags": [
     "vegetarian",
     "everyplate",

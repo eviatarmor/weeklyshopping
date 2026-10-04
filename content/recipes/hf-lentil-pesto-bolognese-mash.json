@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-pesto-bolognese-mash-1eda3ba2.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 752,
+    "proteinG": 23.4,
+    "carbsG": 58.1,
+    "fatG": 44
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

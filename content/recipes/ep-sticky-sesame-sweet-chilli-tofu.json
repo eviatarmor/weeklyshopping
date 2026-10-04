@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4009_W27_AU_EP15009-27main_high-73a353b2.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 843,
+    "proteinG": 33.1,
+    "carbsG": 84.9,
+    "fatG": 37.1
+  },
   "tags": [
     "everyplate",
     "thai",

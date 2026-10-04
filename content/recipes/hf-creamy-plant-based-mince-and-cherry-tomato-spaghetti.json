@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Mince & Cherry Tomato Fettuccine",
   "subtitle": "with Parmesan Cheese & Spinach",
-  "description": "This dish may be simple to create but it’s bursting with complex flavours. Sweet tomatoes pair perfectly with salty bacon simmering in a herby, tomatoey sauce. Throw in some fettuccine and top with a scattering of Parmesan for an unforgettable dinner delight!\nWe’ve replaced the spaghetti in this recipe with fettuccine due to local ingredient availability. It may be a little different to what’s pictured, but just as delicious!",
+  "description": "This dish may be simple to create but it’s bursting with complex flavours. Sweet tomatoes pair perfectly with salty bacon simmering in a herby, tomatoey sauce. Throw in some fettuccine and top with a scattering of Parmesan for an unforgettable dinner delight! We’ve replaced the spaghetti in this recipe with fettuccine due to local ingredient availability. It may be a little different to what’s pictured, but just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-plant-based-mince-and-cherry-tomato-spaghetti-67f85e704264524ca9798fe1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1045_W21_AUS_MAIN_8_spinach_edit_high-4516ac8e.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 810,
+    "proteinG": 35.8,
+    "carbsG": 82.8,
+    "fatG": 35.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

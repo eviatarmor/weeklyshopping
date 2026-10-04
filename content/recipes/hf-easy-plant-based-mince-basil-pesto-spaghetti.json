@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65f93c130f0082904e5c0408-768bf85e.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 888,
+    "proteinG": 35.3,
+    "carbsG": 90.7,
+    "fatG": 39.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -146,7 +152,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65f93c130f0082904e5c0408-dabacaca.jpeg"
     },
     {
-      "text": "• In a medium bowl combine orange, carrot, mixed salad leaves and a drizzle of vinegar and olive oil. Season to taste.",
+      "text": "In a medium bowl combine orange, carrot, mixed salad leaves and a drizzle of vinegar and olive oil. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65f93c130f0082904e5c0408-d78f1edc.jpeg"
     },
     {

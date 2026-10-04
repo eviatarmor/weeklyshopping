@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67a9abc74113630c74a33f7c-2dc05802.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 956,
+    "proteinG": 34.3,
+    "carbsG": 93.2,
+    "fatG": 46.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -127,7 +133,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a9abc74113630c74a33f7c-434afeae.jpeg"
     },
     {
-      "text": "• Meanwhile, thinly slice brown onion.",
+      "text": "Meanwhile, thinly slice brown onion.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a9abc74113630c74a33f7c-01558719.jpeg"
     },
     {
@@ -139,7 +145,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a9abc74113630c74a33f7c-4306e3c3.jpeg"
     },
     {
-      "text": "• While mince is cooking, in a large bowl, combine slaw mix, baby spinach leaves, plant-based aioli and a drizzle of olive oil. Season.",
+      "text": "While mince is cooking, in a large bowl, combine slaw mix, baby spinach leaves, plant-based aioli and a drizzle of olive oil. Season.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a9abc74113630c74a33f7c-d032774c.jpeg"
     },
     {

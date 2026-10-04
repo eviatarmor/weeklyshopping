@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Harissa & Honey-Glazed Eggplant",
   "subtitle": "with Greek-Style Salad & Pistachios",
-  "description": "When you slather eggplant with harissa paste and honey and pop it in the oven, it transforms into a melt-in-your-mouth veggie that deserves centrestage on your plate. Serve with oregano potatoes and a fetta-adorned\nsalad, plus a creamy garlic yoghurt and sprinkle of pistachios for the finishing touch.\nThis recipe is under 650kcal per serving.\nThe recent wet weather\nconditions across the\nEast Coast have impacted\nour regular supply of\nfresh ingredients and as\nsuch, what you receive\nmay be slightly different\nto what’s pictured. Don’t\nworry, your recipe will\nbe just as delicious!",
+  "description": "When you slather eggplant with harissa paste and honey and pop it in the oven, it transforms into a melt-in-your-mouth veggie that deserves centrestage on your plate. Serve with oregano potatoes and a fetta-adorned salad, plus a creamy garlic yoghurt and sprinkle of pistachios for the finishing touch. This recipe is under 650kcal per serving. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/harissa-and-honey-glazed-eggplant-61b00a3e398a02229042b39b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/harissa-honey-glazed-eggplant-35a55343.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 407,
+    "proteinG": 14.2,
+    "carbsG": 51,
+    "fatG": 13.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -121,27 +127,27 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 240°C/220°C fan-forced. Cut the eggplant into quarters, lengthways (you should get two thin slices per person). Cut the potato into bite-sized chunks. In a small bowl, combine the harissa paste, vegetable stock powder, honey and a drizzle of olive oil. Season with salt and pepper.",
+      "text": "Preheat the oven to 240°C/220°C fan-forced. Cut the eggplant into quarters, lengthways (you should get two thin slices per person). Cut the potato into bite-sized chunks. In a small bowl, combine the harissa paste, vegetable stock powder, honey and a drizzle of olive oil. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b00a3e398a02229042b39b/step-384f7336.jpg"
     },
     {
-      "text": "• Place the eggplant on a lined oven tray, skin-side down. Brush the harissa mixture over the cut sides of the eggplant. Place the potato on a second lined oven tray. Drizzle the potato with olive oil, sprinkle with the dried oregano and season with salt. Toss to coat. Roast both veggie trays until tender, 20-25 minutes.",
+      "text": "Place the eggplant on a lined oven tray, skin-side down. Brush the harissa mixture over the cut sides of the eggplant. Place the potato on a second lined oven tray. Drizzle the potato with olive oil, sprinkle with the dried oregano and season with salt. Toss to coat. Roast both veggie trays until tender, 20-25 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b00a3e398a02229042b39b/step-07f7eb8e.jpg"
     },
     {
-      "text": "• While the veggies are roasting, finely chop the garlic. In a medium frying pan, heat a drizzle of olive oil and the garlic over a medium-high heat. Cook until fragrant, 1 minute. Transfer to a small bowl. Add the Greek-style yoghurt to the garlic oil mixture. Stir to combine. Season to taste.",
+      "text": "While the veggies are roasting, finely chop the garlic. In a medium frying pan, heat a drizzle of olive oil and the garlic over a medium-high heat. Cook until fragrant, 1 minute. Transfer to a small bowl. Add the Greek-style yoghurt to the garlic oil mixture. Stir to combine. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b00a3e398a02229042b39b/step-c355bbf0.jpg"
     },
     {
-      "text": "• Roughly chop the tomato and cucumber, then set aside. In a medium bowl, combine the balsamic glaze and a drizzle of olive oil. Season to taste.",
+      "text": "Roughly chop the tomato and cucumber, then set aside. In a medium bowl, combine the balsamic glaze and a drizzle of olive oil. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b00a3e398a02229042b39b/step-19dd7953.jpg"
     },
     {
-      "text": "• To the bowl with the dressing, add the cos lettuce leaves, fetta cubes, tomato and cucumber. Toss to coat.",
+      "text": "To the bowl with the dressing, add the cos lettuce leaves, fetta cubes, tomato and cucumber. Toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b00a3e398a02229042b39b/step-aef456a3.jpg"
     },
     {
-      "text": "• Roughly chop the pistachios. Divide the harissa and honey-glazed eggplant, the oregano potatoes and Greek-style salad between plates. Top the eggplant with a dollop of garlic yoghurt. Sprinkle over the pistachios to serve.",
+      "text": "Roughly chop the pistachios. Divide the harissa and honey-glazed eggplant, the oregano potatoes and Greek-style salad between plates. Top the eggplant with a dollop of garlic yoghurt. Sprinkle over the pistachios to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b00a3e398a02229042b39b/step-07821ac9.jpg"
     }
   ]

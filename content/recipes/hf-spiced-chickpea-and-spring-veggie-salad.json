@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67cea23dfc617b70a129fdcb-10b9345e.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 736,
+    "proteinG": 30.5,
+    "carbsG": 59.2,
+    "fatG": 40
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -132,11 +138,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-32ed83e3.jpeg"
     },
     {
-      "text": "• In a large bowl, combine the honey, a good squeeze of lemon juice, a drizzle of olive oil and a pinch of salt and pepper.",
+      "text": "In a large bowl, combine the honey, a good squeeze of lemon juice, a drizzle of olive oil and a pinch of salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-dba1d15a.jpeg"
     },
     {
-      "text": "• To the dressing, add roasted sweet potato, capsicum, spinach & rocket mix and cucumber. Toss to combine and season to taste.",
+      "text": "To the dressing, add roasted sweet potato, capsicum, spinach & rocket mix and cucumber. Toss to combine and season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67cea23dfc617b70a129fdcb-4d497f68.jpeg"
     },
     {

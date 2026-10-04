@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55d408694dab714b368b4567.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 519,
+    "proteinG": 20.6,
+    "carbsG": 57.3,
+    "fatG": 20.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -105,22 +111,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, cube the tofu. Peel the carrot and slice it and the spring onions diagonally. Trim and halve the Asian greens. Peel the garlic and crush. Juice the lemon, and pick the basil leaves. Lastly, bring a kettle full of water to the boil."
+      "text": "To prepare the ingredients, cube the tofu. Peel the carrot and slice it and the spring onions diagonally. Trim and halve the Asian greens. Peel the garlic and crush. Juice the lemon, and pick the basil leaves. Lastly, bring a kettle full of water to the boil."
     },
     {
-      "text": "• Heat half of the vegetable oil in a large wok or frying pan over a medium-high heat. Add the tofu and stir fry for 1-2 minutes or until golden. Remove from the pan and place on a plate."
+      "text": "Heat half of the vegetable oil in a large wok or frying pan over a medium-high heat. Add the tofu and stir fry for 1-2 minutes or until golden. Remove from the pan and place on a plate."
     },
     {
-      "text": "• Place the fresh hokkien noodles in a heatproof bowl, pour over the boiling water and soak for 1 minute. Drain."
+      "text": "Place the fresh hokkien noodles in a heatproof bowl, pour over the boiling water and soak for 1 minute. Drain."
     },
     {
-      "text": "• In a small bowl, combine the Thai chilli jam and soy sauce with a splash of water."
+      "text": "In a small bowl, combine the Thai chilli jam and soy sauce with a splash of water."
     },
     {
-      "text": "• Heat the remaining vegetable oil in the same wok. Add the carrot, Asian greens, spring onion and garlic and stir fry for 1 minute. Add the noodles and stir fry for a further 1 minute. Add the chilli jam mixture to the wok with the roasted cashews and tofu. Stir fry for 1-2 minutes or until heated through and well combined. Add the lemon juice and remove from the heat. Fold through the basil leaves."
+      "text": "Heat the remaining vegetable oil in the same wok. Add the carrot, Asian greens, spring onion and garlic and stir fry for 1 minute. Add the noodles and stir fry for a further 1 minute. Add the chilli jam mixture to the wok with the roasted cashews and tofu. Stir fry for 1-2 minutes or until heated through and well combined. Add the lemon juice and remove from the heat. Fold through the basil leaves."
     },
     {
-      "text": "• Divide the noodle stir fry between serving bowls."
+      "text": "Divide the noodle stir fry between serving bowls."
     }
   ]
 }

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5579287e4dab712c448b4567.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 810,
+    "proteinG": 38.5,
+    "carbsG": 27.3,
+    "fatG": 75.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -109,25 +115,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 160°C/140°C fan-forced. Line an oven tray with baking paper."
+      "text": "Preheat the oven to 160°C/140°C fan-forced. Line an oven tray with baking paper."
     },
     {
-      "text": "• To prepare the ingredients, peel and grate the carrots. Finely slice the spring onions and cut the zucchini into ribbons. Juice the lemon and pick the mint leaves."
+      "text": "To prepare the ingredients, peel and grate the carrots. Finely slice the spring onions and cut the zucchini into ribbons. Juice the lemon and pick the mint leaves."
     },
     {
-      "text": "• Heat a small frying pan over a medium-high heat and add the HelloFresh Cumin Seeds. Toast the seeds by moving them around the pan for about 1 minute or until fragrant. Remove from the heat."
+      "text": "Heat a small frying pan over a medium-high heat and add the HelloFresh Cumin Seeds. Toast the seeds by moving them around the pan for about 1 minute or until fragrant. Remove from the heat."
     },
     {
-      "text": "• Coarsely grate half of the haloumi using a box grater. Cut the remaining haloumi into 1 cm thick slices and set aside. Squeeze the excess moisture from the carrots and combine with the grated haloumi, spring onion, toasted cumin seeds, plain flour, and egg. Season with pepper. Form the mixture into round fritters, packing tightly with your hands."
+      "text": "Coarsely grate half of the haloumi using a box grater. Cut the remaining haloumi into 1 cm thick slices and set aside. Squeeze the excess moisture from the carrots and combine with the grated haloumi, spring onion, toasted cumin seeds, plain flour, and egg. Season with pepper. Form the mixture into round fritters, packing tightly with your hands."
     },
     {
-      "text": "• Heat the olive oil in a large frying pan over a medium-high heat. Gently add the fritters and cook for 3-4 minutes on each side or until golden. Remove them carefully and place on the prepared oven tray. Place in the oven to keep warm. If you’d like to serve your Lebanese bread warm add it to the oven now. Heat a little olive oil in the same frying pan over a medium-high heat. Add the haloumi slices and cook for 1-2 minutes on each side, or until golden."
+      "text": "Heat the olive oil in a large frying pan over a medium-high heat. Gently add the fritters and cook for 3-4 minutes on each side or until golden. Remove them carefully and place on the prepared oven tray. Place in the oven to keep warm. If you’d like to serve your Lebanese bread warm add it to the oven now. Heat a little olive oil in the same frying pan over a medium-high heat. Add the haloumi slices and cook for 1-2 minutes on each side, or until golden."
     },
     {
-      "text": "• Combine equal parts olive oil and lemon juice with the honey. Combine the rocket, zucchini and mint. Drizzle with the lemon dressing."
+      "text": "Combine equal parts olive oil and lemon juice with the honey. Combine the rocket, zucchini and mint. Drizzle with the lemon dressing."
     },
     {
-      "text": "• Divide and stack the fritters and haloumi slices and serve with the minted zucchini salad and warm Lebanese bread."
+      "text": "Divide and stack the fritters and haloumi slices and serve with the minted zucchini salad and warm Lebanese bread."
     }
   ]
 }

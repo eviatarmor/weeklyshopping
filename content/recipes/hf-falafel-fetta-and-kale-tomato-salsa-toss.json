@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67a196d3e1202f494aca5168-5985cac1.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1014,
+    "proteinG": 27.2,
+    "carbsG": 98.1,
+    "fatG": 52.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -123,7 +129,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a196d3e1202f494aca5168-5cbeee5c.jpeg"
     },
     {
-      "text": "• While the falafel are cooking, halve snacking tomatoes.",
+      "text": "While the falafel are cooking, halve snacking tomatoes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a196d3e1202f494aca5168-20696b73.jpeg"
     },
     {

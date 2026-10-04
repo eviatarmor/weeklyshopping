@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Chermoula Chickpeas & Sweet Potato",
   "subtitle": "with Couscous & Fetta-Yoghurt Sauce",
-  "description": "Mild Moroccan spices mingle with hearty chickpeas in a sweet, velvety tomato sauce in this surprisingly simple vegetarian\nmeal. Topped with a fetta-spiked yoghurt for tang and creaminess, plus flaked almonds for crunch, there's nothing missing\nhere!",
+  "description": "Mild Moroccan spices mingle with hearty chickpeas in a sweet, velvety tomato sauce in this surprisingly simple vegetarian meal. Topped with a fetta-spiked yoghurt for tang and creaminess, plus flaked almonds for crunch, there's nothing missing here!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chermoula-chickpeas-sweet-potato-6487ed9298db3bf5567d3ca1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chermoula-spiced-chickpeas-5f0278ba.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 730,
+    "proteinG": 27.6,
+    "carbsG": 87.3,
+    "fatG": 26.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

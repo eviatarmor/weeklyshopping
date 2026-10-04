@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy BBQ Smashed Chickpea Enchiladas",
   "subtitle": "with Caramelised Onion, Salad & BBQ Mayo",
-  "description": "With wholesome chickpeas, mini flour tortillas, gooey Cheddar cheese and sweet caramelised onion, this fan favourite dish\nis colourful, delicious and a heap of fun. Don’t forget to dollop on the smokey BBQ mayo to really get the party started!",
+  "description": "With wholesome chickpeas, mini flour tortillas, gooey Cheddar cheese and sweet caramelised onion, this fan favourite dish is colourful, delicious and a heap of fun. Don’t forget to dollop on the smokey BBQ mayo to really get the party started!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-bbq-smashed-chickpea-enchiladas-64507058c0c78ab72707dd6c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-bbq-smashed-chickpea-enchiladas-18783614.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 876,
+    "proteinG": 26.5,
+    "carbsG": 84.2,
+    "fatG": 44
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

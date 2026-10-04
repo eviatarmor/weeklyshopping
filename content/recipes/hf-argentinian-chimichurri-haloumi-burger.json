@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64e2c431639d01c88a18a74c-b3a6bc23.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 981,
+    "proteinG": 31.5,
+    "carbsG": 82.3,
+    "fatG": 57.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -81,7 +87,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64e2c431639d01c88a18a74c-913233df.jpeg"
     },
     {
-      "text": "• Meanwhile, slice tomato into thin rounds.",
+      "text": "Meanwhile, slice tomato into thin rounds.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64e2c431639d01c88a18a74c-4fcb828a.jpeg"
     },
     {
@@ -93,7 +99,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64e2c431639d01c88a18a74c-99d33c7f.jpeg"
     },
     {
-      "text": "• While haloumi is cooking, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
+      "text": "While haloumi is cooking, halve bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-64e2c431639d01c88a18a74c-9e90bbf2.jpeg"
     },
     {

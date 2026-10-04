@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Aussie Plant-Based Crumbed Chick'n & Cheesy Crouton Salad",
   "subtitle": "with Ranch Dressing & Caramelised Onion",
-  "description": "You won't believe how simple it is to make this delicious salad. From the crunchy croutons to sweet caramelised\nonions and PB chicken, once you’ve got this baby down, soggy supermarket salads will be a distant memory.",
+  "description": "You won't believe how simple it is to make this delicious salad. From the crunchy croutons to sweet caramelised onions and PB chicken, once you’ve got this baby down, soggy supermarket salads will be a distant memory.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/aussie-chicken-cheesy-crouton-salad-63d8bf946e5ae7ecbc06098c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/aussie-chicken-cheesy-crouton-salad-5e2129a9.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 679,
+    "proteinG": 26.6,
+    "carbsG": 65,
+    "fatG": 33.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

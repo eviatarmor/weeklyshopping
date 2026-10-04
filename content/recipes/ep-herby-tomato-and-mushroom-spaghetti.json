@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65d6dc66bb774993318afdce-3d5b982d.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 495,
+    "proteinG": 14.1,
+    "carbsG": 80.7,
+    "fatG": 10.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -95,7 +101,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65d6dc66bb774993318afdce-30a00174.jpeg"
     },
     {
-      "text": "• Divide herby tomato and mushroom spaghetti between bowls. Top with a pinch of chilli flakes (if using).",
+      "text": "Divide herby tomato and mushroom spaghetti between bowls. Top with a pinch of chilli flakes (if using).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-65d6dc66bb774993318afdce-75c3b7ca.jpeg"
     }
   ]

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/564c0aab79a23c644f8b4567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 552,
+    "proteinG": 28.3,
+    "carbsG": 29.4,
+    "fatG": 33.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -90,10 +96,10 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the red capsicum into thick strips, the red onion into wedges, and the zucchini into 5 mm thick ribbons. Slice the haloumi and finely chop the parsley. Halve the parbaked sourdough roll and peel and halve the garlic."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the red capsicum into thick strips, the red onion into wedges, and the zucchini into 5 mm thick ribbons. Slice the haloumi and finely chop the parsley. Halve the parbaked sourdough roll and peel and halve the garlic."
     },
     {
-      "text": "• Toss the red capsicum, red onion and zucchini in the olive oil. Place on the prepared oven tray and season with salt and pepper. Cook in the oven for 25 minutes or until the vegetables are tender and slightly charred.",
+      "text": "Toss the red capsicum, red onion and zucchini in the olive oil. Place on the prepared oven tray and season with salt and pepper. Cook in the oven for 25 minutes or until the vegetables are tender and slightly charred.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c0aab79a23c644f8b4567/step_564c0ba421fcd.jpg"
     },
     {
@@ -101,13 +107,13 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c0aab79a23c644f8b4567/step_564c0ba43d2bf.jpg"
     },
     {
-      "text": "• Drizzle the cut side of the parbaked sourdough bread roll with a little olive oil and place in the oven facing up for 5 minutes or until toasted. Rub the toasted halves of the roll with the garlic cloves."
+      "text": "Drizzle the cut side of the parbaked sourdough bread roll with a little olive oil and place in the oven facing up for 5 minutes or until toasted. Rub the toasted halves of the roll with the garlic cloves."
     },
     {
-      "text": "• Meanwhile, heat a medium frying pan over a medium-high heat. Add the haloumi and cook for 1 minute on each side or until cooked through and golden brown."
+      "text": "Meanwhile, heat a medium frying pan over a medium-high heat. Add the haloumi and cook for 1 minute on each side or until cooked through and golden brown."
     },
     {
-      "text": "• In a large bowl combine the roast vegetables, haloumi, and the parsley. Divide between plates and drizzle with the reduced balsamic vinegar."
+      "text": "In a large bowl combine the roast vegetables, haloumi, and the parsley. Divide between plates and drizzle with the reduced balsamic vinegar."
     }
   ]
 }

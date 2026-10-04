@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Cherry Tomato Pizza Bianca",
   "subtitle": "with Zucchini, Pesto & Rocket Salad",
-  "description": "Pizza bianca or \"white pizza\" in Italian, refers to pizza without the tomato sauce. We've topped ours with a combination of cheeses\nand a few simple ingredients that don't need much to shine.",
+  "description": "Pizza bianca or \"white pizza\" in Italian, refers to pizza without the tomato sauce. We've topped ours with a combination of cheeses and a few simple ingredients that don't need much to shine.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-cherry-tomato-pizza-bianca-614a96e65444a979d13a9a4c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cherry-tomato-zucchini-pizza-bianca-060633b9.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1034,
+    "proteinG": 30.6,
+    "carbsG": 112.1,
+    "fatG": 48.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

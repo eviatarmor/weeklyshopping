@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/green-shakshuka-with-hummus-c2e1bb90.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 578,
+    "proteinG": 24.4,
+    "carbsG": 43.6,
+    "fatG": 32.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -101,22 +107,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, Peel and dice the brown onion and garlic. Remove the long green chilli seeds and finely chop the chilli. Slice the zucchini into half moons and the green capsicum into 1 cm chunks. Destem and roughly chop the kale, and crumble the fetta cheese."
+      "text": "To prepare the ingredients, Peel and dice the brown onion and garlic. Remove the long green chilli seeds and finely chop the chilli. Slice the zucchini into half moons and the green capsicum into 1 cm chunks. Destem and roughly chop the kale, and crumble the fetta cheese."
     },
     {
-      "text": "• Heat the olive oil in a medium ovenproof frying pan over a medium-high heat. Add the brown onion and cook for 5 minutes, or until softened. Add the garlic and the long green chilli and cook for 1-2 minutes, or until fragrant. Add half a teaspoon of the cumin and cook for 1 minute, or until fragrant.",
+      "text": "Heat the olive oil in a medium ovenproof frying pan over a medium-high heat. Add the brown onion and cook for 5 minutes, or until softened. Add the garlic and the long green chilli and cook for 1-2 minutes, or until fragrant. Add half a teaspoon of the cumin and cook for 1 minute, or until fragrant.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585aff544348d266aa512952-1-0-e00d3751.jpg"
     },
     {
-      "text": "• Add the zucchini, the green capsicum and the kale and cook for 6 minutes, or until softened. Season with salt and pepper. Make two holes (for 2p) or four holes (for 4p) in the vegetables and carefully crack in the eggs.",
+      "text": "Add the zucchini, the green capsicum and the kale and cook for 6 minutes, or until softened. Season with salt and pepper. Make two holes (for 2p) or four holes (for 4p) in the vegetables and carefully crack in the eggs.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585aff544348d266aa512952-2-0-6e06cfc5.jpg"
     },
     {
-      "text": "• Sprinkle over the fetta cheese, season with salt and pepper and transfer the pan to the oven. Bake for 7-10 minutes, or until the egg whites are set but the yolks are still runny in the middle. Turn the pan half way through cooking to ensure the eggs cook evenly. Check and remove earlier if necessary. Cook to your liking.",
+      "text": "Sprinkle over the fetta cheese, season with salt and pepper and transfer the pan to the oven. Bake for 7-10 minutes, or until the egg whites are set but the yolks are still runny in the middle. Turn the pan half way through cooking to ensure the eggs cook evenly. Check and remove earlier if necessary. Cook to your liking.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585aff544348d266aa512952-3-0-45fe3fc8.jpg"
     },
     {
-      "text": "• To serve, divide the shakshuka into bowls and serve with the wholemeal Lebanese bread and a dollop of the hummus."
+      "text": "To serve, divide the shakshuka into bowls and serve with the wholemeal Lebanese bread and a dollop of the hummus."
     }
   ]
 }

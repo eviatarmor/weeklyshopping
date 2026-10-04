@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Butternut Pumpkin & Goat Cheese Salad",
   "subtitle": "with Caesar Dressing & Garlic-Herb Croutons",
-  "description": "The best salads are a combination of flavours, textures and colours – and with golden roasted pumpkin, herby croutons, earthy\nbeetroot and creamy goat cheese, this salad ticks all the boxes.\nThis recipe is under 650kcal per serving",
+  "description": "The best salads are a combination of flavours, textures and colours – and with golden roasted pumpkin, herby croutons, earthy beetroot and creamy goat cheese, this salad ticks all the boxes. This recipe is under 650kcal per serving",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-butternut-pumpkin-and-goat-cheese-salad-5fd7ec1f579e7e73012bf0bd",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-butternut-pumpkin-goat-cheese-salad-ea2a73e5.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 617,
+    "proteinG": 20.8,
+    "carbsG": 65.2,
+    "fatG": 27.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

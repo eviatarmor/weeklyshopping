@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Falafel, Haloumi & Chermoula Roast Veggie Toss",
   "subtitle": "with Herby Yoghurt, Fetta & Almonds",
-  "description": "Hearty spinach falafel and haloumi is the star of this colourful dish, with the chermoula-spiced roasted veg coming in at a close second.\nwe've also halved the potato quantity and added carrot and capsicum to keep the carbs in check. Tie it all together with a herby\nyoghurt, pickled cucumber, plus crumbled fetta, to make it even better. Don't forget the flaked almond garnish for some crunch!\nThis recipe is under 650kcal per serving.",
+  "description": "Hearty spinach falafel and haloumi is the star of this colourful dish, with the chermoula-spiced roasted veg coming in at a close second. we've also halved the potato quantity and added carrot and capsicum to keep the carbs in check. Tie it all together with a herby yoghurt, pickled cucumber, plus crumbled fetta, to make it even better. Don't forget the flaked almond garnish for some crunch! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/falafel-and-chermoula-roast-veggie-toss-67f8426e0d0527cba53a966e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-middle-eastern-roast-veggies-f4357305-9b92a3e8.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1020,
+    "proteinG": 44.7,
+    "carbsG": 55.1,
+    "fatG": 65.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

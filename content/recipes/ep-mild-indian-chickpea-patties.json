@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-chickpea-patties-d9fc4663.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 622,
+    "proteinG": 21.6,
+    "carbsG": 72,
+    "fatG": 24.5
+  },
   "tags": [
     "vegetarian",
     "everyplate",

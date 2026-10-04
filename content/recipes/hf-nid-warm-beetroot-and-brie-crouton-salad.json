@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1033_W28_AU_R43998-2_Main_high-b6022c06.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 513,
+    "proteinG": 24.8,
+    "carbsG": 68.1,
+    "fatG": 34.1
+  },
   "tags": [
     "hellofresh",
     "australian",

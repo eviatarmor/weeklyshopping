@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Basil Pesto & Parmesan Pasta Bake",
   "subtitle": "with Tomato & Roast Almond Salad",
-  "description": "In this family-friendly pasta bake, spiral-shaped fusilli is perfect for holding onto the creamy, garlicky & herby sauce. The gooey\nCheddar is the cherry on top, while the fresh side salad offers extra texture and works to balance out the richness.",
+  "description": "In this family-friendly pasta bake, spiral-shaped fusilli is perfect for holding onto the creamy, garlicky & herby sauce. The gooey Cheddar is the cherry on top, while the fresh side salad offers extra texture and works to balance out the richness.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-basil-pesto-and-parmesan-pasta-bake-63a50e64a619a9a7b40d9f1a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-basil-pesto-parmesan-cheese-pasta-bake-dce83bdc.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 866,
+    "proteinG": 28.3,
+    "carbsG": 76.9,
+    "fatG": 48.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

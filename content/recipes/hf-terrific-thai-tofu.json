@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56f0ddfcf8b25ebf218b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 583,
+    "proteinG": 30,
+    "carbsG": 78,
+    "fatG": 14.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -121,22 +127,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, rinse the Jasmine rice, cut the Thai tofu into cubes, halve the mushrooms, cut the zucchini into batons, finely slice the red onions, julienne the carrot, peel and finely grate the ginger, peel and crush the garlic, deseed and finely chop the chilli and pick the coriander leaves.",
+      "text": "To prepare the ingredients, rinse the Jasmine rice, cut the Thai tofu into cubes, halve the mushrooms, cut the zucchini into batons, finely slice the red onions, julienne the carrot, peel and finely grate the ginger, peel and crush the garlic, deseed and finely chop the chilli and pick the coriander leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56f0ddfcf8b25ebf218b4567/step_56f0e03e4e0ce.jpg"
     },
     {
-      "text": "• Place the Jasmine rice and the water into a medium saucepan and bring to the boil over a high heat. Reduce the heat to medium and simmer, uncovered, for 10-12 minutes or until the rice is soft. Drain."
+      "text": "Place the Jasmine rice and the water into a medium saucepan and bring to the boil over a high heat. Reduce the heat to medium and simmer, uncovered, for 10-12 minutes or until the rice is soft. Drain."
     },
     {
-      "text": "• In a small bowl combine the salt-reduced soy sauce, rice wine vinegar and the white sugar. Set aside.",
+      "text": "In a small bowl combine the salt-reduced soy sauce, rice wine vinegar and the white sugar. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56f0ddfcf8b25ebf218b4567/step_56f0e03e6476d.jpg"
     },
     {
-      "text": "• Heat the vegetable oil in a large wok or frying pan. Add the Thai tofu and cook, stirring, for 1-2 minutes or until lightly golden. Remove. Add the mushrooms, zucchini, red onion and carrot and cook for 2-3 minutes or until just tender. Add the ginger, garlic and long red chilli and stir fry for 1 minute or until fragrant. Add the soy sauce mixture and stir fry to coat well. Return the tofu to the pan and stir fry until heated through. Stir through the coriander and remove from the heat.",
+      "text": "Heat the vegetable oil in a large wok or frying pan. Add the Thai tofu and cook, stirring, for 1-2 minutes or until lightly golden. Remove. Add the mushrooms, zucchini, red onion and carrot and cook for 2-3 minutes or until just tender. Add the ginger, garlic and long red chilli and stir fry for 1 minute or until fragrant. Add the soy sauce mixture and stir fry to coat well. Return the tofu to the pan and stir fry until heated through. Stir through the coriander and remove from the heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56f0ddfcf8b25ebf218b4567/step_56f0e03e76ba9.jpg"
     },
     {
-      "text": "• Divide the rice between bowls and top with the tofu stir-fry."
+      "text": "Divide the rice between bowls and top with the tofu stir-fry."
     }
   ]
 }

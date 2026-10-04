@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Caribbean Bean & Veggie Rice",
   "subtitle": "with Yoghurt & Coriander",
-  "description": "Loaded with red kidney beans, carrot, celery and mild Caribbean jerk seasoning, this fluffy rice bursts with flavour in every bite. This one-pot delight will be whipped up in a flash and you'll have very little cleaning up to do. What more could you want?\nWe’ve replaced the sweetcorn in this recipe with celery due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Loaded with red kidney beans, carrot, celery and mild Caribbean jerk seasoning, this fluffy rice bursts with flavour in every bite. This one-pot delight will be whipped up in a flash and you'll have very little cleaning up to do. What more could you want? We’ve replaced the sweetcorn in this recipe with celery due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-caribbean-veggie-and-kidney-bean-rice-6549b1b3f4d088a24da71b7c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/661efecdd698e7cc03439500-b99fc451.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 673,
+    "proteinG": 30.5,
+    "carbsG": 107.5,
+    "fatG": 11.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

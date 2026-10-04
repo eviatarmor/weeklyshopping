@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Crumbed Plant-Based Haloumi Burger",
   "subtitle": "with Plant-Based Aioli, Spiced Fries & Salad",
-  "description": "You'll hear a satisfying crunch when you bite into this hearty haloumi burger. That's thanks to the golden layer of\nherby breadcrumbs which coat the tasty plant-based burger patty. We finish this classic dish with tomato, lettuce and a\nslather of creamy plant-based aioli. Simple, yet delicious!",
+  "description": "You'll hear a satisfying crunch when you bite into this hearty haloumi burger. That's thanks to the golden layer of herby breadcrumbs which coat the tasty plant-based burger patty. We finish this classic dish with tomato, lettuce and a slather of creamy plant-based aioli. Simple, yet delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/crumbed-plant-based-haloumi-burger-6447885c7413dca2dc012fb6",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crumbed-plant-based-burger-ed5b08aa.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1136,
+    "proteinG": 49.6,
+    "carbsG": 96.1,
+    "fatG": 59.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -134,7 +140,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6447885c7413dca2dc012fb6/step-fb26405c.jpg"
     },
     {
-      "text": "• Halve plant-based burger buns and bake directly on a wire oven rack, until heated through, 2-3 minutes.",
+      "text": "Halve plant-based burger buns and bake directly on a wire oven rack, until heated through, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6447885c7413dca2dc012fb6/step-a2feeabe.jpg"
     },
     {

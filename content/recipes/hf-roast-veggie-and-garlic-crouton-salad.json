@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Veggie & Garlic Crouton Salad",
   "subtitle": "with Creamy Pesto, Parmesan & Almonds",
-  "description": "This solid salad is bursting with all the colours, flavours and textures. From the sweet and juicy cherry tomatoes, crisp baby broccoli\nand peppery rocket, to the crunchy ciabatta croutons, creamy pesto and sharp Parmesan, every bite is different - and delightful!\nThis recipe is under 650kcal per serving.\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "description": "This solid salad is bursting with all the colours, flavours and textures. From the sweet and juicy cherry tomatoes, crisp baby broccoli and peppery rocket, to the crunchy ciabatta croutons, creamy pesto and sharp Parmesan, every bite is different - and delightful! This recipe is under 650kcal per serving. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roast-veggie-and-garlic-crouton-salad-61b96df10db0c84a862bacc1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-veggie-garlic-crouton-salad-7fd44915.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 554,
+    "proteinG": 17.7,
+    "carbsG": 49.6,
+    "fatG": 29.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -108,19 +114,19 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b96df10db0c84a862bacc1/step-196b8023.jpg"
     },
     {
-      "text": "• While the veggies are roasting, cut or tear the bake-at-home ciabatta into bite-sized chunks. Place on a second lined oven tray. Drizzle with olive oil, sprinkle with the remaining garlic & herb seasoning and season with salt and pepper. Toss to coat.",
+      "text": "While the veggies are roasting, cut or tear the bake-at-home ciabatta into bite-sized chunks. Place on a second lined oven tray. Drizzle with olive oil, sprinkle with the remaining garlic & herb seasoning and season with salt and pepper. Toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b96df10db0c84a862bacc1/step-ed919e52.jpg"
     },
     {
-      "text": "• Bake the croutons until golden, 5-7 minutes.",
+      "text": "Bake the croutons until golden, 5-7 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b96df10db0c84a862bacc1/step-ccb03ca4.jpg"
     },
     {
-      "text": "• When the roast veggies have cooled slightly, add the rocket leaves, croutons and a drizzle of balsamic vinegar to the oven tray and gently toss to combine.",
+      "text": "When the roast veggies have cooled slightly, add the rocket leaves, croutons and a drizzle of balsamic vinegar to the oven tray and gently toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b96df10db0c84a862bacc1/step-b9af08cb.jpg"
     },
     {
-      "text": "• Divide the roast veggie and garlic crouton salad between bowls. Sprinkle with the slivered almonds. Dollop the creamy pesto dressing over the salad. Serve topped with the grated Parmesan cheese.",
+      "text": "Divide the roast veggie and garlic crouton salad between bowls. Sprinkle with the slivered almonds. Dollop the creamy pesto dressing over the salad. Serve topped with the grated Parmesan cheese.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61b96df10db0c84a862bacc1/step-27754a0a.jpg"
     }
   ]

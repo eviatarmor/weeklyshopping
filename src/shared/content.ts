@@ -41,6 +41,15 @@ export const recipeSchema = z.object({
   servings: z.number().positive(),
   yieldUnit: z.string().optional(),
   prepMinutes: z.number().int().positive().optional(),
+  /** Per serving, as published by the source (estimates). */
+  nutrition: z
+    .object({
+      kcal: z.number().nonnegative(),
+      proteinG: z.number().nonnegative().optional(),
+      carbsG: z.number().nonnegative().optional(),
+      fatG: z.number().nonnegative().optional(),
+    })
+    .optional(),
   tags: z.array(z.string()).default([]),
   /** Other names this recipe is known by (used to link blends during import). */
   aliases: z.array(z.string()).default([]),

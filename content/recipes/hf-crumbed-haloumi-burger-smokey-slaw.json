@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Crumbed Haloumi Burger & Smokey Aioli",
   "subtitle": "with Caramelised Onions",
-  "description": "Serve up a hearty meat-free burger with a golden \"patty\" of crumbed haloumi! We've added creamy, smokey aioli and sweet\ncaramelised onion to turn this easy dinner into a taste sensation.",
+  "description": "Serve up a hearty meat-free burger with a golden \"patty\" of crumbed haloumi! We've added creamy, smokey aioli and sweet caramelised onion to turn this easy dinner into a taste sensation.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/crumbed-haloumi-burger-smokey-slaw-6100e5dee421514f116dce2d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crumbed-haloumi-burger-smokey-slaw-112c760b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 979,
+    "proteinG": 35.7,
+    "carbsG": 81.5,
+    "fatG": 54.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

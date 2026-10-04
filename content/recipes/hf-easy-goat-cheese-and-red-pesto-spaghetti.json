@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5fbb35f94f37f1275630f587-fba64200.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 823,
+    "proteinG": 26.7,
+    "carbsG": 73.8,
+    "fatG": 45.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -92,7 +98,7 @@
       "text": "• Return saucepan to a medium-high heat with a drizzle of olive oil.\n• Add garlic paste. Cook until fragrant, 1 minute.\n• Remove saucepan from heat. Add spaghetti, red pesto, a splash of reserved pasta water and a pinch of chilli flakes (if using). Crumble in 1/2 the goat cheese. Toss to combine.\n• Add baby spinach leaves, roasted cherry tomatoes and a good squeeze of lemon juice (see ingredients). Toss until combined and slightly wilted. Season. TIP: Seasoning is key in this dish, so taste and add a little more lemon juice, salt or pepper if you like!"
     },
     {
-      "text": "• Divide red pesto spaghetti between bowls. Serve topped with remaining goat cheese. Enjoy!"
+      "text": "Divide red pesto spaghetti between bowls. Serve topped with remaining goat cheese. Enjoy!"
     }
   ]
 }

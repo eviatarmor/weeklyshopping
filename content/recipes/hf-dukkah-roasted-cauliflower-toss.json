@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/dukkah-roasted-cauliflower-with-minty-lemon-yoghurt-2e3a9d17.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 17.8,
+    "carbsG": 44.7,
+    "fatG": 26.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -93,27 +99,27 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **200°C/180°C fan-forced**. Chop the **cauliflower** into small 2 cm florets. Slice the **red onion** into 2 cm thick wedges. Dice the **sweet potato** (unpeeled) into 1 cm cubes. Slice the **lemon** into wedges.",
+      "text": "Preheat the oven to **200°C/180°C fan-forced**. Chop the **cauliflower** into small 2 cm florets. Slice the **red onion** into 2 cm thick wedges. Dice the **sweet potato** (unpeeled) into 1 cm cubes. Slice the **lemon** into wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c52a4803b501949525532-0-0-cf8c03a8.jpg"
     },
     {
-      "text": "• Place the **cauliflower**, **red onion** and **sweet potato** on the oven tray lined with baking paper. **Drizzle** with **olive oil** and sprinkle over the **dukkah**. Add **1/2** of the **salt (use suggested amount)** and a **pinch** of **pepper** and toss to coat. Place in the oven to cook for **30-35 minutes**, or until golden and tender. ***TIP:*** The veggies are cooked when they are easily pierced with a knife.",
+      "text": "Place the **cauliflower**, **red onion** and **sweet potato** on the oven tray lined with baking paper. **Drizzle** with **olive oil** and sprinkle over the **dukkah**. Add **1/2** of the **salt (use suggested amount)** and a **pinch** of **pepper** and toss to coat. Place in the oven to cook for **30-35 minutes**, or until golden and tender. ***TIP:*** The veggies are cooked when they are easily pierced with a knife.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c52a4803b501949525532-1-0-607a9161.jpg"
     },
     {
-      "text": "• While the veggies are cooking, pick the **mint** leaves and roughly chop until you have **1 tbs for 2 people/2 tbs for 4 people**. In a medium bowl, combine the **Greek yoghurt**, the **remaining salt (use the suggested amount)** and the mint. Squeeze over the juice from the **lemon wedges** and season to taste with a **pinch** of **pepper**. **TIP:** Add as much or as little as you like depending on your taste preference.",
+      "text": "While the veggies are cooking, pick the **mint** leaves and roughly chop until you have **1 tbs for 2 people/2 tbs for 4 people**. In a medium bowl, combine the **Greek yoghurt**, the **remaining salt (use the suggested amount)** and the mint. Squeeze over the juice from the **lemon wedges** and season to taste with a **pinch** of **pepper**. **TIP:** Add as much or as little as you like depending on your taste preference.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c52a4803b501949525532-2-0-5e5ae708.jpg"
     },
     {
-      "text": "• Remove the veggies from the oven and transfer to a large bowl. Add the **rocket leaves** and toss to combine. **TIP:** Toss just before serving to prevent the rocket leaves from wilting.",
+      "text": "Remove the veggies from the oven and transfer to a large bowl. Add the **rocket leaves** and toss to combine. **TIP:** Toss just before serving to prevent the rocket leaves from wilting.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c52a4803b501949525532-3-0-7704abeb.jpg"
     },
     {
-      "text": "• Just before serving, squeeze over the juice from the **remaining lemon wedges (optional)** and **drizzle** with the **minty yoghurt**.",
+      "text": "Just before serving, squeeze over the juice from the **remaining lemon wedges (optional)** and **drizzle** with the **minty yoghurt**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c52a4803b501949525532-4-0-627ad412.jpg"
     },
     {
-      "text": "• Divide the dukkah roasted cauliflower toss between bowls and top with **sunflower seeds**. Garnish with the remaining mint leaves.",
+      "text": "Divide the dukkah roasted cauliflower toss between bowls and top with **sunflower seeds**. Garnish with the remaining mint leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c52a4803b501949525532-5-0-76f1bbbe.jpg"
     }
   ]

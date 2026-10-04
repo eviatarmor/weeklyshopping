@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W44_AU_R46493-4_Main_high-a083ddc2.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 1130,
+    "proteinG": 55.5,
+    "carbsG": 103,
+    "fatG": 51.1
+  },
   "tags": [
     "hellofresh",
     "turkish",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roasted Sweet Potato Risotto",
   "subtitle": "with Mushrooms & Pecans",
-  "description": "This melt-in-your-mouth risotto, studded with roasted sweet potato, silverbeet and mushrooms, is comfort on a plate.\nSage and buttery pecans add an extra depth of flavour, and don’t forget the Parmesan for the perfect finishing touch.",
+  "description": "This melt-in-your-mouth risotto, studded with roasted sweet potato, silverbeet and mushrooms, is comfort on a plate. Sage and buttery pecans add an extra depth of flavour, and don’t forget the Parmesan for the perfect finishing touch.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roasted-sweet-potato-risotto-606beeb34752ff61a8697d26",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/606beeb34752ff61a8697d26-cf30bc66.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 837,
+    "proteinG": 20.9,
+    "carbsG": 113.2,
+    "fatG": 31.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

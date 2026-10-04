@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/goat-cheese-pecan-roast-vegetabl-1e449a40.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 495,
+    "proteinG": 14.4,
+    "carbsG": 35.3,
+    "fatG": 31.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -75,22 +81,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato (unpeeled) and beetroot (washed) into 2 cm pieces. Crumble the marinated goat cheese (reserve the olive oil) and wash the mixed salad leaves.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, cut the sweet potato (unpeeled) and beetroot (washed) into 2 cm pieces. Crumble the marinated goat cheese (reserve the olive oil) and wash the mixed salad leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585b05b39df18150e70dc3d2-0-0-1f9e4c63.jpg"
     },
     {
-      "text": "• Toss the sweet potato and beetroot in the olive oil and season with salt and pepper. Place on a lined oven tray and cook in the oven for 30-35 minutes, or until golden and tender.",
+      "text": "Toss the sweet potato and beetroot in the olive oil and season with salt and pepper. Place on a lined oven tray and cook in the oven for 30-35 minutes, or until golden and tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585b05b39df18150e70dc3d2-1-0-3b7e260a.jpg"
     },
     {
-      "text": "• Place the pecans on a second oven tray and add to the oven in the final 8 minutes of the vegetable cooking time, or until toasted."
+      "text": "Place the pecans on a second oven tray and add to the oven in the final 8 minutes of the vegetable cooking time, or until toasted."
     },
     {
-      "text": "• To make the dressing, combine the reserved olive oil from the marinated goat cheese, balsamic vinegar and Dijon mustard in a small jug or bowl. Season to taste with salt and pepper. Toss the mixed salad leaves, roast vegetables, pecans and goat cheese in a large bowl. Drizzle with the dressing and toss to coat well.",
+      "text": "To make the dressing, combine the reserved olive oil from the marinated goat cheese, balsamic vinegar and Dijon mustard in a small jug or bowl. Season to taste with salt and pepper. Toss the mixed salad leaves, roast vegetables, pecans and goat cheese in a large bowl. Drizzle with the dressing and toss to coat well.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585b05b39df18150e70dc3d2-3-0-e769b08c.jpg"
     },
     {
-      "text": "• To serve, divide the salad between bowls."
+      "text": "To serve, divide the salad between bowls."
     }
   ]
 }

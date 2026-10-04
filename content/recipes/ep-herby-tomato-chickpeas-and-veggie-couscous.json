@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y25_R10_W01_AUS_Main_swap_chopped_cucumber_edit_high-b5bd3810.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 586,
+    "proteinG": 23.5,
+    "carbsG": 65.1,
+    "fatG": 22.8
+  },
   "tags": [
     "everyplate",
     "mediterranean",

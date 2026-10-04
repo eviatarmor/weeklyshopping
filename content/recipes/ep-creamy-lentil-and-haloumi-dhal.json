@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Lentil & Haloumi Dhal",
   "subtitle": "with Tortilla Dippers",
-  "description": "Whip up a hearty bowl of mildly spiced lentils with the richness of coconut milk and for a special touch, bake up a mountain of crisp and golden flatbread dippers to round out your meal.\n*Due to local availability, we’ve replaced some of your ingredients. They may be a little different to what’s pictured, but\njust as delicious!",
+  "description": "Whip up a hearty bowl of mildly spiced lentils with the richness of coconut milk and for a special touch, bake up a mountain of crisp and golden flatbread dippers to round out your meal. *Due to local availability, we’ve replaced some of your ingredients. They may be a little different to what’s pictured, but just as delicious!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/next-level-creamy-lentil-dhal-67f8624ccade9b9f0acea422",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6578ee98a65f6d71569fb921-0ef37368-d91a1ff4.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 1010,
+    "proteinG": 45.8,
+    "carbsG": 92.4,
+    "fatG": 47.5
+  },
   "tags": [
     "everyplate",
     "indian",

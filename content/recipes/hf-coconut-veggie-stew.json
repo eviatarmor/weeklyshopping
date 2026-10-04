@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/low-carb-coconut-veggie-stew-55d6636f.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 435,
+    "proteinG": 11,
+    "carbsG": 29.3,
+    "fatG": 27.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -115,15 +121,15 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172e2c6a92ed00c7787307/step-a764ddea.jpg"
     },
     {
-      "text": "• While the veggies are roasting, drain the chickpeas (see ingredients). Finely grate the ginger. Finely chop the garlic. Trim the snow peas and cut in half. Thinly slice the kale, discarding any larger pieces of stalk if you like.",
+      "text": "While the veggies are roasting, drain the chickpeas (see ingredients). Finely grate the ginger. Finely chop the garlic. Trim the snow peas and cut in half. Thinly slice the kale, discarding any larger pieces of stalk if you like.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172e2c6a92ed00c7787307/step-61da2780.jpg"
     },
     {
-      "text": "• Heat a large saucepan over a medium-high heat with a drizzle of olive oil. Add the ginger and the garlic and cook until fragrant, 1 minute. Add the drained chickpeas and Southeast Asian spice blend and cook until fragrant, 1 minute.",
+      "text": "Heat a large saucepan over a medium-high heat with a drizzle of olive oil. Add the ginger and the garlic and cook until fragrant, 1 minute. Add the drained chickpeas and Southeast Asian spice blend and cook until fragrant, 1 minute.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172e2c6a92ed00c7787307/step-878006fd.jpg"
     },
     {
-      "text": "• Add the light coconut milk, soy sauce and vegetable stock pot, stir well to combine and bring to a simmer. Add the snow peas and cook until softened slightly, 2-3 minutes.",
+      "text": "Add the light coconut milk, soy sauce and vegetable stock pot, stir well to combine and bring to a simmer. Add the snow peas and cook until softened slightly, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172e2c6a92ed00c7787307/step-609cddc2.jpg"
     },
     {
@@ -131,7 +137,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172e2c6a92ed00c7787307/step-54d135c7.jpg"
     },
     {
-      "text": "• Divide the coconut veggie stew with kale and chickpeas between bowls. Sprinkle over the crushed peanuts.",
+      "text": "Divide the coconut veggie stew with kale and chickpeas between bowls. Sprinkle over the crushed peanuts.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60172e2c6a92ed00c7787307/step-84e1d2ca.jpg"
     }
   ]

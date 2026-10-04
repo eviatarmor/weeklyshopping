@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Caribbean Black Bean Nachos",
   "subtitle": "with Baked Tortilla Chips & Pineapple Salsa",
-  "description": "It's nachos, but not as you know it! Load up oven-baked tortilla chips with a Caribbean-spiced black bean filling and a sweet and\ntangy salsa for a fun spin on an old favourite.",
+  "description": "It's nachos, but not as you know it! Load up oven-baked tortilla chips with a Caribbean-spiced black bean filling and a sweet and tangy salsa for a fun spin on an old favourite.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/caribbean-black-bean-nachos-6126e83b02d8d372a200ca61",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-black-bean-nachos-ceea7118.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 957,
+    "proteinG": 30.5,
+    "carbsG": 107.8,
+    "fatG": 38.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

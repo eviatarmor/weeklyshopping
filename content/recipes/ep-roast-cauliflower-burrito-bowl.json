@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF220525_R19_W29_EP_AUS_KB_Main_tomato_rice_Remove_coriander_high-0c91f451.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 614,
+    "proteinG": 12,
+    "carbsG": 91.4,
+    "fatG": 21
+  },
   "tags": [
     "everyplate",
     "mexican",

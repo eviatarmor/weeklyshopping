@@ -7,6 +7,12 @@
   "sourceUrl": "https://www.hellofresh.com.au/recipes/shroom-burger-5704bb314dab71a46a8b4567",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5704bb314dab71a46a8b4567.jpg",
   "servings": 2,
+  "nutrition": {
+    "kcal": 540,
+    "proteinG": 31.9,
+    "carbsG": 39.5,
+    "fatG": 24.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -84,22 +90,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 200ºC/180ºC fan forced. To prepare the ingredients, wash and dry the field mushrooms, grate the mozzarella, finely slice the red onion and wash the mixed salad leaves."
+      "text": "Preheat oven to 200ºC/180ºC fan forced. To prepare the ingredients, wash and dry the field mushrooms, grate the mozzarella, finely slice the red onion and wash the mixed salad leaves."
     },
     {
-      "text": "• Place the field mushrooms on the oven tray and drizzle with the olive oil. Season with salt and pepper. Cook in the oven for 15 minutes and then sprinkle with the Mozzarella cheese. Cook for a further 10 minutes or until the mushroom is tender. Add the bake-at-home burger buns in the last 5 minutes.",
+      "text": "Place the field mushrooms on the oven tray and drizzle with the olive oil. Season with salt and pepper. Cook in the oven for 15 minutes and then sprinkle with the Mozzarella cheese. Cook for a further 10 minutes or until the mushroom is tender. Add the bake-at-home burger buns in the last 5 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5704bb314dab71a46a8b4567/step_5704bd88cf2b1.jpg"
     },
     {
-      "text": "• Meanwhile, melt the butter in a medium frying with a splash of olive oil (so the butter doesn’t burn) over a medium-high heat. Add the red onion and cook, stirring, for 3 minutes or until softened. Add the balsamic vinegar and cook for a further 3 minutes or until sticky. Remove from the pan and wipe clean with paper towel.",
+      "text": "Meanwhile, melt the butter in a medium frying with a splash of olive oil (so the butter doesn’t burn) over a medium-high heat. Add the red onion and cook, stirring, for 3 minutes or until softened. Add the balsamic vinegar and cook for a further 3 minutes or until sticky. Remove from the pan and wipe clean with paper towel.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5704bb314dab71a46a8b4567/step_5704bd88eaeb0.jpg"
     },
     {
-      "text": "• Lightly grease the pan with a little oil and then crack the eggs into the pan. Cook for 2 minutes, or until the egg white sets. Remove from the pan with an egg flip.",
+      "text": "Lightly grease the pan with a little oil and then crack the eggs into the pan. Cook for 2 minutes, or until the egg white sets. Remove from the pan with an egg flip.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5704bb314dab71a46a8b4567/step_5704bd8942e7d.jpg"
     },
     {
-      "text": "• To assemble the burgers cut the buns in half. Top with the roasted mushroom, egg and caramelised onion. Add a small handful of the mixed salad leaves and dig in."
+      "text": "To assemble the burgers cut the buns in half. Top with the roasted mushroom, egg and caramelised onion. Add a small handful of the mixed salad leaves and dig in."
     }
   ]
 }

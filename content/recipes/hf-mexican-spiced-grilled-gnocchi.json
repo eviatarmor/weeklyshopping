@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican-Spiced Grilled Gnocchi",
   "subtitle": "with Cheese, Sour Cream & Coriander",
-  "description": "You've never had gnocchi like this before! Simmer the pillowy potato pasta with subtly sweet veggies and a Mexican-spiced red sauce,\nbefore finishing it in the oven with melty Cheddar. Top with a dollop of cooling sour cream, plus a sprinkle of citrusy coriander, and meet\nyour new go-to comfort food.",
+  "description": "You've never had gnocchi like this before! Simmer the pillowy potato pasta with subtly sweet veggies and a Mexican-spiced red sauce, before finishing it in the oven with melty Cheddar. Top with a dollop of cooling sour cream, plus a sprinkle of citrusy coriander, and meet your new go-to comfort food.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-spiced-grilled-gnocchi-627dca8fe2b8dc5d480f958a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-mexican-spiced-grilled-gnocchi-dee72649.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1031,
+    "proteinG": 34.1,
+    "carbsG": 116.6,
+    "fatG": 45.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

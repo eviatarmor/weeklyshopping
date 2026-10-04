@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Truffle & Mushroom Risotto",
   "subtitle": "with Fresh Pear Salad",
-  "description": "This comforting mushroom risotto becomes rich and full of flavour with truffle oil and Parmesan. Add a crisp pear salad perfectly rounds out the meal.\nUnfortunately, this week's yellow squash were in short supply. Some customers will receive zucchini instead of yellow squash. Don't worry, the recipe will be just as delicious!",
+  "description": "This comforting mushroom risotto becomes rich and full of flavour with truffle oil and Parmesan. Add a crisp pear salad perfectly rounds out the meal. Unfortunately, this week's yellow squash were in short supply. Some customers will receive zucchini instead of yellow squash. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/truffle-mushroom-risotto-5ee9765930539e481279738e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/truffle-mushroom-risotto-c855d042.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 807,
+    "proteinG": 20.6,
+    "carbsG": 90,
+    "fatG": 38.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -145,7 +151,7 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 220°C/200°C fan-forced. Finely chop the brown onion. Cut the zucchini into 2cm chunks. Finely chop the garlic.",
+      "text": "Preheat the oven to 220°C/200°C fan-forced. Finely chop the brown onion. Cut the zucchini into 2cm chunks. Finely chop the garlic.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa9c3ae1a23d5e457834/step-a4721bb7.jpg"
     },
     {
@@ -157,11 +163,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa9c3ae1a23d5e457834/step-50716d70.jpg"
     },
     {
-      "text": "• While the risotto is baking, finely chop the parsley and pecan nuts. In a medium bowl, combine the balsamic vinegar, honey and a small drizzle of olive oil. Season with salt and pepper. Thinly slice the pear (see ingredients). Add 1/2 the baby spinach leaves and pear to the dressing and toss to coat.",
+      "text": "While the risotto is baking, finely chop the parsley and pecan nuts. In a medium bowl, combine the balsamic vinegar, honey and a small drizzle of olive oil. Season with salt and pepper. Thinly slice the pear (see ingredients). Add 1/2 the baby spinach leaves and pear to the dressing and toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa9c3ae1a23d5e457834/step-8dbc0e70.jpg"
     },
     {
-      "text": "• When the risotto is done, stir through the grated Parmesan cheese, remaining butter and remaining spinach, until the spinach has wilted. Stir through a splash of water if the risotto looks dry. Season to taste.",
+      "text": "When the risotto is done, stir through the grated Parmesan cheese, remaining butter and remaining spinach, until the spinach has wilted. Stir through a splash of water if the risotto looks dry. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa9c3ae1a23d5e457834/step-39951d3f.jpg"
     },
     {

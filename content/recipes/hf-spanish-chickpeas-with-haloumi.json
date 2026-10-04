@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55c19c27f8b25ece7e8b4567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 557,
+    "proteinG": 28.8,
+    "carbsG": 40.5,
+    "fatG": 27.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -103,22 +109,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 200°C/180°C fan-forced. Line an oven tray with baking paper."
+      "text": "Preheat oven to 200°C/180°C fan-forced. Line an oven tray with baking paper."
     },
     {
-      "text": "• To prepare the ingredients, drain and rinse the chickpeas. Slice the red onion and garlic (peeled), and halve the cherry tomatoes. Dice the red capsicum into 1 cm pieces, and cut the haloumi into 1 cm thick slices. Lastly, finely chop the parsley."
+      "text": "To prepare the ingredients, drain and rinse the chickpeas. Slice the red onion and garlic (peeled), and halve the cherry tomatoes. Dice the red capsicum into 1 cm pieces, and cut the haloumi into 1 cm thick slices. Lastly, finely chop the parsley."
     },
     {
-      "text": "• Heat half of the olive oil in a medium frying pan over a medium-high heat. Add the chickpeas to the pan and cook, shaking the pan occasionally for 3 minutes or until chickpeas begin to brown. Remove chickpeas from the pan and set aside in a bowl."
+      "text": "Heat half of the olive oil in a medium frying pan over a medium-high heat. Add the chickpeas to the pan and cook, shaking the pan occasionally for 3 minutes or until chickpeas begin to brown. Remove chickpeas from the pan and set aside in a bowl."
     },
     {
-      "text": "• Place the haloumi slices on the oven tray. Season with salt and pepper and place in the oven. Cook for 8-10 minutes or until the tops have slightly blistered. Add the bread rolls in the last 5 minutes."
+      "text": "Place the haloumi slices on the oven tray. Season with salt and pepper and place in the oven. Cook for 8-10 minutes or until the tops have slightly blistered. Add the bread rolls in the last 5 minutes."
     },
     {
-      "text": "• Meanwhile, heat the remaining olive oil in the same frying pan over a medium-high heat. Add the red onion, red capsicum and cherry tomatoes and cook for 3-5 minutes, or until tomatoes begin to collapse and onion is soft. Add the garlic and smoked paprika and cook for 1 minute or until fragrant. Return the chickpeas to the pan with the red wine vinegar. Cook for 1-2 minutes to deglaze the base of the pan. Add the baby spinach and stir through until wilted. Season to taste with salt and pepper."
+      "text": "Meanwhile, heat the remaining olive oil in the same frying pan over a medium-high heat. Add the red onion, red capsicum and cherry tomatoes and cook for 3-5 minutes, or until tomatoes begin to collapse and onion is soft. Add the garlic and smoked paprika and cook for 1 minute or until fragrant. Return the chickpeas to the pan with the red wine vinegar. Cook for 1-2 minutes to deglaze the base of the pan. Add the baby spinach and stir through until wilted. Season to taste with salt and pepper."
     },
     {
-      "text": "• Divide chickpeas between bowls and top with haloumi slices. Garnish with parsley and drizzle with a little olive oil if you like. Serve with buttered bread rolls."
+      "text": "Divide chickpeas between bowls and top with haloumi slices. Garnish with parsley and drizzle with a little olive oil if you like. Serve with buttered bread rolls."
     }
   ]
 }

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Spiced Haloumi Burger",
   "subtitle": "with Tartare Sauce & Corn on the Cob",
-  "description": "Serve up a hearty meat-free burger with a golden \"patty\" of haloumi that's coated in our popular Nan's special seasoning! We've\nadded tartare sauce and a creamy salad to turn this easy dinner into a taste sensation.",
+  "description": "Serve up a hearty meat-free burger with a golden \"patty\" of haloumi that's coated in our popular Nan's special seasoning! We've added tartare sauce and a creamy salad to turn this easy dinner into a taste sensation.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-spiced-haloumi-burger-6075269e0f601846c30f9d2f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/nans-haloumi-burger-d0e8fe21.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 818,
+    "proteinG": 30.6,
+    "carbsG": 56.6,
+    "fatG": 49.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

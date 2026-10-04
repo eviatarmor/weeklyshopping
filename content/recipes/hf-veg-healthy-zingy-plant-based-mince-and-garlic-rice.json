@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W29_AU_R22166-3_MAIN_spring_onion_edit_high-80b5b640.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 613,
+    "proteinG": 27.1,
+    "carbsG": 75,
+    "fatG": 20.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

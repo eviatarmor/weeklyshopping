@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/59de7965a5ed197da8480f02-cb4b9361.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 445,
+    "proteinG": 25.6,
+    "carbsG": 7.2,
+    "fatG": 33.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -133,7 +139,7 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **200°C/180°C fan-forced**. Finely grate the **Parmesan cheese**. Finely chop the **brown onion**. Slice the stalks off the **field mushrooms** and finely chop (leave the mushroom cups whole). Peel and crush the **garlic**.",
+      "text": "Preheat the oven to **200°C/180°C fan-forced**. Finely grate the **Parmesan cheese**. Finely chop the **brown onion**. Slice the stalks off the **field mushrooms** and finely chop (leave the mushroom cups whole). Peel and crush the **garlic**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-0e08ee81.jpg"
     },
     {
@@ -141,19 +147,19 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-e62ac725.jpg"
     },
     {
-      "text": "• Return the same pan to the heat and add a **drizzle** of **olive oil**. Add the **brown onion** and chopped **mushroom stalks** and cook for **5 minutes**, or until softened. Add the **garlic** and **1/2** of the **dried oregano** and cook for **1-2 minutes**, or until fragrant. Add the **tomato paste**, **warm water (check ingredients list for the amount)**, **brown sugar** and **salt (use suggested amount)**. Season to taste with a **pinch** of **pepper** and mix well. Remove from the heat.",
+      "text": "Return the same pan to the heat and add a **drizzle** of **olive oil**. Add the **brown onion** and chopped **mushroom stalks** and cook for **5 minutes**, or until softened. Add the **garlic** and **1/2** of the **dried oregano** and cook for **1-2 minutes**, or until fragrant. Add the **tomato paste**, **warm water (check ingredients list for the amount)**, **brown sugar** and **salt (use suggested amount)**. Season to taste with a **pinch** of **pepper** and mix well. Remove from the heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-65a91678.jpg"
     },
     {
-      "text": "• Arrange the **mushrooms cups** bottom-side-up on the oven tray lined with baking paper. Spoon the **cheese filling** into each mushroom and top with the **tomato sauce** and the **remaining Parmesan cheese**.  Place the mushrooms in the oven to bake for **20-25 minutes**, or until the cheese is golden.",
+      "text": "Arrange the **mushrooms cups** bottom-side-up on the oven tray lined with baking paper. Spoon the **cheese filling** into each mushroom and top with the **tomato sauce** and the **remaining Parmesan cheese**. Place the mushrooms in the oven to bake for **20-25 minutes**, or until the cheese is golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-542bdfef.jpg"
     },
     {
-      "text": "• In a second medium bowl, combine the **remaining dried oregano**, a **drizzle** of **olive oil** and the **white wine vinegar**. Season with a **pinch** of salt and pepper and mix well. Add the **mixed salad leaves** and the toasted **sunflower seeds** and toss to coat. **TIP:** Dress the salad just before serving to avoid soggy leaves.",
+      "text": "In a second medium bowl, combine the **remaining dried oregano**, a **drizzle** of **olive oil** and the **white wine vinegar**. Season with a **pinch** of salt and pepper and mix well. Add the **mixed salad leaves** and the toasted **sunflower seeds** and toss to coat. **TIP:** Dress the salad just before serving to avoid soggy leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-fc2bcc79.jpg"
     },
     {
-      "text": "• Divide the lasagne stuffed field mushrooms and the salad between plates.",
+      "text": "Divide the lasagne stuffed field mushrooms and the salad between plates.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/59de7965a5ed197da8480f02/step-b7262b44.jpg"
     }
   ]

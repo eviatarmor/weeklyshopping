@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Golden Haloumi & Oregano Potato Wedges",
   "subtitle": "with Cucumber Salad & Garlic Sauce",
-  "description": "There are plenty of surprises in this meal. With oregano wedges and golden honey haloumi, you get some serious squeak and critical crispiness, while the cucumber salad provides some favoured freshness.\nThis recipe is under 650kcal per serving.",
+  "description": "There are plenty of surprises in this meal. With oregano wedges and golden honey haloumi, you get some serious squeak and critical crispiness, while the cucumber salad provides some favoured freshness. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/golden-haloumi-and-oregano-potato-wedges-678d84dbd98f53c0641be4ed",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/678d84dbd98f53c0641be4ed-6512586b.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 573,
+    "proteinG": 29.8,
+    "carbsG": 40.8,
+    "fatG": 33.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

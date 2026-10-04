@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Pumpkin & Supergreen Quke Salad",
   "subtitle": "with Garlic Fetta, Mint & Honey Mustard Sauce",
-  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. Small in size but mighty in flavour, the zingy Quke will become the best part of this salad bowl. When paired with spiced roast pumpkin, radish, kale and flavour-packed fetta and honey mustard sauce, you’ll be savouring each and every bite. Compliments to the Qukes we say! \nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "We've teamed up with Perfection Fresh, to bring you some superstar ingredients to level up your next meal. Small in size but mighty in flavour, the zingy Quke will become the best part of this salad bowl. When paired with spiced roast pumpkin, radish, kale and flavour-packed fetta and honey mustard sauce, you’ll be savouring each and every bite. Compliments to the Qukes we say! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/perfection-fresh-missing-qukes-roast-pumpkin-and-supergreen-quke-salad-67f849e84264524ca9791b14",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1048_W21_AUS_Main_high-c3db20b1.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 243,
+    "proteinG": 10.6,
+    "carbsG": 23,
+    "fatG": 11.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

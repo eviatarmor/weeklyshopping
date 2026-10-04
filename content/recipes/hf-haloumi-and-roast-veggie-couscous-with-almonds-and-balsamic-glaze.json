@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Roast Veggie Couscous with Almonds & Balsamic Glaze",
   "subtitle": "Pre-Prepped | Three Steps | Ready in 15",
-  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. Tonight, plate up a bountiful bowl of couscous brimming with flavourful veggies and haloumi & drizzle with balsamic glaze to serve!\nThis recipe is under 650kcal per serving.",
+  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. Tonight, plate up a bountiful bowl of couscous brimming with flavourful veggies and haloumi & drizzle with balsamic glaze to serve! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-and-roast-veggie-couscous-with-almonds-and-balsamic-glaze-62906eabdf17b5c02a0b1f42",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-roast-veggie-couscous-bowl-7fad8a1e.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 645,
+    "proteinG": 27.5,
+    "carbsG": 44.2,
+    "fatG": 39
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

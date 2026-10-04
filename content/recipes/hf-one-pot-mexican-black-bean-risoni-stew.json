@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "One-Pot Mexican Black Bean & Risoni Stew",
   "subtitle": "with Tortilla Chips & Cheddar Cheese",
-  "description": "Even meat lovers will approve of this stick-to-your ribs veggie soup. The black beans and rice-shaped risoni pasta make it extra hearty while two of our trusty seasonings together add a rich and fiery depth of flavour - which the cooling sour cream cuts through like a treat. Bring it altogether with a sprinkle of cheese, plus a good handful of crushed corn chips in lieu of croutons.\nUnfortunately, this\nweek's corn chips were\nin short supply, so we've\nreplaced them with\ntortilla chips. Don't\nworry, the recipe will\nbe just as delicious!",
+  "description": "Even meat lovers will approve of this stick-to-your ribs veggie soup. The black beans and rice-shaped risoni pasta make it extra hearty while two of our trusty seasonings together add a rich and fiery depth of flavour - which the cooling sour cream cuts through like a treat. Bring it altogether with a sprinkle of cheese, plus a good handful of crushed corn chips in lieu of croutons. Unfortunately, this week's corn chips were in short supply, so we've replaced them with tortilla chips. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/one-pot-mexican-black-bean-risoni-stew-63369713755dc4e3e00c1162",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/one-pot-mexican-black-bean-risoni-soup-11abcb4e.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 859,
+    "proteinG": 26.9,
+    "carbsG": 99.5,
+    "fatG": 35.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

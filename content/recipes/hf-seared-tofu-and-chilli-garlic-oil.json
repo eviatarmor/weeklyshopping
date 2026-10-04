@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Tofu & Soy Veggie Stir-Fry",
   "subtitle": "with Chilli-Garlic Oil",
-  "description": "With the perfect balance of sweet, salty flavours and garlicky goodness you can take this juicy tofu to the next level. Serve with a ginger-soy veggie stir-fry for an Asian-inspired take on a classic meat and veg meal!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "With the perfect balance of sweet, salty flavours and garlicky goodness you can take this juicy tofu to the next level. Serve with a ginger-soy veggie stir-fry for an Asian-inspired take on a classic meat and veg meal! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/seared-tofu-and-chilli-garlic-oil-67f865804264524ca979bf1b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R25_W51_AUS_edit__Main_high-575dee6e.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 300,
+    "proteinG": 28.2,
+    "carbsG": 13.6,
+    "fatG": 12.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

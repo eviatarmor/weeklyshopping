@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mediterranean Tomato Gnocchi",
   "subtitle": "with Red Pesto, Green Olives & Fetta",
-  "description": "Bring the Italian restaurant vibes to the table with this delightful pasta dish. Whip up a rich herbed tomato sauce for the gnocchi,\ntop with creamy fetta and dinner is done!",
+  "description": "Bring the Italian restaurant vibes to the table with this delightful pasta dish. Whip up a rich herbed tomato sauce for the gnocchi, top with creamy fetta and dinner is done!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-tomato-gnocchi-614a97a02fba0261485f5def",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-tomato-oregano-gnocchi-499bb147.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 922,
+    "proteinG": 23.1,
+    "carbsG": 101.5,
+    "fatG": 45.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

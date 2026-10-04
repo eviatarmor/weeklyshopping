@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1021_W15_AU_R54238-3_Main_add_Mumbai_spice_edit_add_chilli_flakes_edit_high-cd62c41e.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 830,
+    "proteinG": 38.6,
+    "carbsG": 75.3,
+    "fatG": 38.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

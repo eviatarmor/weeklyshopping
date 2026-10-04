@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67b338592ccb8b03ddc0f495-c7835067.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 540,
+    "proteinG": 22.8,
+    "carbsG": 77.9,
+    "fatG": 14.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -105,7 +111,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67b338592ccb8b03ddc0f495-3a7699ef.jpeg"
     },
     {
-      "text": "• Remove pan from heat, then stir in baby spinach leaves and cooked spaghetti, 1-2 minutes. Season with salt and pepper.",
+      "text": "Remove pan from heat, then stir in baby spinach leaves and cooked spaghetti, 1-2 minutes. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67b338592ccb8b03ddc0f495-98e97e3a.jpeg"
     },
     {

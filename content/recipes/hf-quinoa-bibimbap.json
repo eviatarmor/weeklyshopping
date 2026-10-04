@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55cad609f8b25e38308b4568.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 490,
+    "proteinG": 23.6,
+    "carbsG": 47.3,
+    "fatG": 22.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -107,22 +113,22 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, rinse the quinoa. Roughly chop the mushrooms and chilli (deseeded). Peel the carrot and cut into matchsticks. Wash the English spinach and finely slice. Lastly, thinly slice the spring onions."
+      "text": "To prepare the ingredients, rinse the quinoa. Roughly chop the mushrooms and chilli (deseeded). Peel the carrot and cut into matchsticks. Wash the English spinach and finely slice. Lastly, thinly slice the spring onions."
     },
     {
-      "text": "• Place the quinoa and water in a medium saucepan and bring to the boil. Cover with a lid and reduce to a medium heat. Simmer for 12-15 minutes or until the quinoa is tender and the water has absorbed (drain excess water). Stir through the soy sauce and sesame oil and pop the lid on to keep it warm."
+      "text": "Place the quinoa and water in a medium saucepan and bring to the boil. Cover with a lid and reduce to a medium heat. Simmer for 12-15 minutes or until the quinoa is tender and the water has absorbed (drain excess water). Stir through the soy sauce and sesame oil and pop the lid on to keep it warm."
     },
     {
       "text": "• Meanwhile, place a third of the vegetable oil in a medium frying pan. Add the mushrooms and cook, stirring, for 2-3 minutes or until soft. Season with salt and pepper and remove from the pan. Place on a large plate and cover with foil to keep warm. Add half of the remaining oil to the pan. Cook the carrot for 2 minutes or until just tender (but still a little crisp). Transfer to the plate and cover with foil. Add the remaining oil to the same pan along with the English spinach and birdseye chilli. Cook, stirring, for 1-2 minutes or until wilted. Transfer to the plate with the other vegetables.\n• Tip: Keep the veggies separate for an authentic bibimbap assembly."
     },
     {
-      "text": "• Divide the quinoa between the serving bowls. Arrange the vegetables in separate sections on top of the quinoa."
+      "text": "Divide the quinoa between the serving bowls. Arrange the vegetables in separate sections on top of the quinoa."
     },
     {
-      "text": "• Place the same frying pan back over a medium heat and add a drizzle of oil. Break the eggs directly into the pan. Season with salt and pepper and cook for 3-5 minutes or until the whites set. Top each bowl with a fried egg."
+      "text": "Place the same frying pan back over a medium heat and add a drizzle of oil. Break the eggs directly into the pan. Season with salt and pepper and cook for 3-5 minutes or until the whites set. Top each bowl with a fried egg."
     },
     {
-      "text": "• To serve, top with the spring onions and black sesame seeds."
+      "text": "To serve, top with the spring onions and black sesame seeds."
     }
   ]
 }

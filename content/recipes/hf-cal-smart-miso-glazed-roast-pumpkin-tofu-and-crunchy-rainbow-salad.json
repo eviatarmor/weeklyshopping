@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Miso-Glazed Pumpkin, Tofu & Crunchy Rainbow Salad",
   "subtitle": "with Creamy Dressing & Pickled Ginger",
-  "description": "This crunchy rainbow salad has flavour, texture and colour, leaving no box unticked. A superstar salad this good, deserves some equally sensational company, so welcome to the plate; miso-glazed pumpkin and tofu. You can thank us later!\nDue to local availability,\nthe ingredients you\nreceive may be a little\ndifferent to what's\npictured. It'll be just as\ndelicious, just follow your\nrecipe card!",
+  "description": "This crunchy rainbow salad has flavour, texture and colour, leaving no box unticked. A superstar salad this good, deserves some equally sensational company, so welcome to the plate; miso-glazed pumpkin and tofu. You can thank us later! Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cal-smart-miso-glazed-roast-pumpkin-tofu-and-crunchy-rainbow-salad-67f85dd30d0527cba53b2b75",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1021_W41_AU_R19147-7_edit_Main_high-8378fbc9.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 651,
+    "proteinG": 26.1,
+    "carbsG": 40.4,
+    "fatG": 41.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

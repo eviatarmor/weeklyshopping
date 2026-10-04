@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Aussie-Spiced Haloumi & Apple Slaw",
   "subtitle": "with Warm Potato Salad",
-  "description": "This crowd-pleasing meal requires zero oven time and is perfect for the warmer weather. Our All-American spice blend and herby mayo\ncome in handy for amping up the flavour of the haloumi and potato salad - leaving you to do very little!",
+  "description": "This crowd-pleasing meal requires zero oven time and is perfect for the warmer weather. Our All-American spice blend and herby mayo come in handy for amping up the flavour of the haloumi and potato salad - leaving you to do very little!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-american-spiced-haloumi-633663d69f16fd2cb704c55e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-american-spiced-haloumi-46542b3f.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 767,
+    "proteinG": 26.6,
+    "carbsG": 38.5,
+    "fatG": 55.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Italian White Bean & Veggie Soup",
   "subtitle": "with Extra Parmesan Crisps & Basil Pesto",
-  "description": "Brimming with a vibrant veggie medley and hearty cannellini beans, this tomato-based, pesto-adorned soup is comfort in a bowl - and who needs carby croutons when you have umami Parmesan crisps?\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Brimming with a vibrant veggie medley and hearty cannellini beans, this tomato-based, pesto-adorned soup is comfort in a bowl - and who needs carby croutons when you have umami Parmesan crisps? This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/tusan-veggie-lentil-soup-620346a5a71703274a0c0cc3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/667a98b5438760e4ef4144c8-19d9142a.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 539,
+    "proteinG": 23.3,
+    "carbsG": 36.2,
+    "fatG": 30.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

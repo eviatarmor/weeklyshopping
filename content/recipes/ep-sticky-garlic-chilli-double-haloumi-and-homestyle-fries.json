@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6707783f66150a260f49c71e-e49c2b9f.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 855,
+    "proteinG": 39.9,
+    "carbsG": 42.9,
+    "fatG": 53.4
+  },
   "tags": [
     "vegetarian",
     "everyplate"
@@ -103,7 +109,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6707783f66150a260f49c71e-2b58cd41.jpeg"
     },
     {
-      "text": "• Meanwhile, grate carrot. Thinly slice pear into wedges. Finely chop or crush garlic.",
+      "text": "Meanwhile, grate carrot. Thinly slice pear into wedges. Finely chop or crush garlic.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6707783f66150a260f49c71e-65628d4a.jpeg"
     },
     {

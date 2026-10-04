@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Baked Pumpkin & Parmesan Risotto",
   "subtitle": "with Rosemary Brown Butter & Kale",
-  "description": "This rich, creamy risotto comes together in the oven, leaving you free to create a quick and flavourful brown butter to stir through\nat the end. This easy addition takes this vegetarian meal to the next level – taste it and see!",
+  "description": "This rich, creamy risotto comes together in the oven, leaving you free to create a quick and flavourful brown butter to stir through at the end. This easy addition takes this vegetarian meal to the next level – taste it and see!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/baked-pumpkin-parmesan-risotto-621ebc7428cf2500281fe2a2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/baked-pumpkin-parmesan-risotto-594a3349.jpg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 768,
+    "proteinG": 24.7,
+    "carbsG": 101.9,
+    "fatG": 28.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56722dd64dab71af7a8b4568.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 368,
+    "proteinG": 20.1,
+    "carbsG": 12.4,
+    "fatG": 24.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -99,23 +105,23 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, crumble the fetta cheese and finely grate the Parmesan cheese. Pick the thyme leaves and finely chop the parley. Chop the mushroom stems and leave the cups whole. Halve the cherry tomatoes.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, crumble the fetta cheese and finely grate the Parmesan cheese. Pick the thyme leaves and finely chop the parley. Chop the mushroom stems and leave the cups whole. Halve the cherry tomatoes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56722dd64dab71af7a8b4568/step_56722f084be01.jpg"
     },
     {
-      "text": "• Combine the fine breadcrumbs, fetta cheese, half of the Parmesan cheese, smoked paprika, thyme, parsley and half of the olive oil in a medium bowl. Season to taste with salt and pepper. Add in the chopped field mushroom stems. Mix until well combined.",
+      "text": "Combine the fine breadcrumbs, fetta cheese, half of the Parmesan cheese, smoked paprika, thyme, parsley and half of the olive oil in a medium bowl. Season to taste with salt and pepper. Add in the chopped field mushroom stems. Mix until well combined.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56722dd64dab71af7a8b4568/step_56722f086b9a7.jpg"
     },
     {
-      "text": "• Arrange the field mushrooms, cup side up, on a lined oven tray. Generously spoon the filling into each mushroom and sprinkle with the remaining Parmesan cheese. Cook in the oven for 20-25 minutes or until the topping is golden.",
+      "text": "Arrange the field mushrooms, cup side up, on a lined oven tray. Generously spoon the filling into each mushroom and sprinkle with the remaining Parmesan cheese. Cook in the oven for 20-25 minutes or until the topping is golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56722dd64dab71af7a8b4568/step_56722f087c46f.jpg"
     },
     {
-      "text": "• Meanwhile, combine the rocket leaves and cherry tomatoes and drizzle with the remaining olive oil and the balsamic vinegar.",
+      "text": "Meanwhile, combine the rocket leaves and cherry tomatoes and drizzle with the remaining olive oil and the balsamic vinegar.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56722dd64dab71af7a8b4568/step_56722f0892e7d.jpg"
     },
     {
-      "text": "• To serve, divide the stuffed mushrooms and salad between plates and dig in."
+      "text": "To serve, divide the stuffed mushrooms and salad between plates and dig in."
     }
   ]
 }

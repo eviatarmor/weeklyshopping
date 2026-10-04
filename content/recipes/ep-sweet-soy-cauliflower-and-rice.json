@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sweet-Soy Cauliflower & Rice",
   "subtitle": "with Slaw & Peanuts",
-  "description": "Packed full of flavour this delicious roasted cauliflower dish ticks all the boxes.\nThe recent wet weather\nconditions across the East\nCoast have impacted our\nregular supply of fresh\ningredients and as such what\nyou receive may be slightly\ndifferent to what’s pictured.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "Packed full of flavour this delicious roasted cauliflower dish ticks all the boxes. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/sweet-soy-cauliflower-and-rice-61a83140c03460274427ac28",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-soy-cauliflower-rice-2df0bcf0.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 624,
+    "proteinG": 14.1,
+    "carbsG": 87.1,
+    "fatG": 22.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

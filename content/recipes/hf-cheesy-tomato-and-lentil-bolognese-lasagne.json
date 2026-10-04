@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Herby Tomato & Lentil Bolognese Lasagne",
   "subtitle": "with Homemade Béchamel Sauce",
-  "description": "The rulebook has been thrown out the window with this one. We've swapped out mince for lentils to make the base of this herby tomato lasagne and topped it with a homemade béchamel sauce. You've heard it here first, it is so good, that we might just\nthrow the rulebook out more often.",
+  "description": "The rulebook has been thrown out the window with this one. We've swapped out mince for lentils to make the base of this herby tomato lasagne and topped it with a homemade béchamel sauce. You've heard it here first, it is so good, that we might just throw the rulebook out more often.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-tomato-and-lentil-bolognese-lasagne-670d341edc533226ca91352a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/670d341edc533226ca91352a-81771a66.jpeg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 775,
+    "proteinG": 42,
+    "carbsG": 95.4,
+    "fatG": 19.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -139,7 +145,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-670d341edc533226ca91352a-d61b2d7d.jpeg"
     },
     {
-      "text": "• Divide herby tomato and lentil bolognese lasagne between plates to serve. Enjoy!",
+      "text": "Divide herby tomato and lentil bolognese lasagne between plates to serve. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-670d341edc533226ca91352a-a1df6597.jpeg"
     }
   ]

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Sticky Tofu & Garlic Fried Rice",
   "subtitle": "with Pea Pods & Scrambled Egg",
-  "description": "We’ve taken the best parts of your standard fried rice, simplified them and returned a meal that will be whipped up in a flash\nwithout compromising on flavour. Our Asian BBQ seasoning mingles with the egg and rice so well and when you add a simple\noyster sauce mixture to pork strips, there will be flavour aplenty.",
+  "description": "We’ve taken the best parts of your standard fried rice, simplified them and returned a meal that will be whipped up in a flash without compromising on flavour. Our Asian BBQ seasoning mingles with the egg and rice so well and when you add a simple oyster sauce mixture to pork strips, there will be flavour aplenty.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/sticky-pork-strips-and-garlic-fried-rice-67f83ed34264524ca978edeb",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6796be4e827da247caecc2de-fc2edd5e-971151d6.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 665,
+    "proteinG": 36.8,
+    "carbsG": 79.4,
+    "fatG": 19.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

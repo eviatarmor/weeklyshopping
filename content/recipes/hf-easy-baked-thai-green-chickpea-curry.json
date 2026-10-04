@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-baked-thai-green-chickpea-curry-e6894b27.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 859,
+    "proteinG": 19.6,
+    "carbsG": 95.1,
+    "fatG": 43.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -135,11 +141,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa8439973c12a32ca6b1/step-70b64f21.jpg"
     },
     {
-      "text": "• Remove the baking dish from the oven and add the baby broccoli, coconut cream and water (for the curry). Stir to combine. Return to the oven and bake until the veggies are tender, 8-10 minutes. Add the rice wine vinegar, soy sauce and baby spinach leaves. Stir to combine and season.",
+      "text": "Remove the baking dish from the oven and add the baby broccoli, coconut cream and water (for the curry). Stir to combine. Return to the oven and bake until the veggies are tender, 8-10 minutes. Add the rice wine vinegar, soy sauce and baby spinach leaves. Stir to combine and season.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa8439973c12a32ca6b1/step-99cd88cb.jpg"
     },
     {
-      "text": "• Divide the rice between bowls and top with the baked Thai green chickpea curry. Sprinkle over the roasted peanuts. Tear over the coriander.",
+      "text": "Divide the rice between bowls and top with the baked Thai green chickpea curry. Sprinkle over the roasted peanuts. Tear over the coriander.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6004fa8439973c12a32ca6b1/step-1dcd9d18.jpg"
     }
   ]

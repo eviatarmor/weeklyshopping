@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Malaysian Veggie Laksa",
   "subtitle": "with Flat Noodles & Roasted Peanuts",
-  "description": "If you're looking for some Meatless Monday inspo, this is it! In our vegetarian take on the fragrant noodle soup, we've teamed a\ncreamy coconut broth with a healthy squeeze of lemon juice to lift and balance the lovely complex flavours.\nThis recipe is under 650kcal per serving.\nUnfortunately, this week's udon noodles were in short supply, so we've replaced them with flat noodles. Don't worry, the recipe will be just as delicious!",
+  "description": "If you're looking for some Meatless Monday inspo, this is it! In our vegetarian take on the fragrant noodle soup, we've teamed a creamy coconut broth with a healthy squeeze of lemon juice to lift and balance the lovely complex flavours. This recipe is under 650kcal per serving. Unfortunately, this week's udon noodles were in short supply, so we've replaced them with flat noodles. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/malaysian-veggie-laksa-6141a82f4e16bd1789711de8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/malaysian-veggie-laksa-2c2a2b72.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 556,
+    "proteinG": 15.5,
+    "carbsG": 59.3,
+    "fatG": 26.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

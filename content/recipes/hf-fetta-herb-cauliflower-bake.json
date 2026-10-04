@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Fetta & Herb Cauliflower Bake",
   "subtitle": "with Lemony Veggies",
-  "description": "The magic that occurs when this veggie bake goes in the oven is quite astonishing. The roasted veggies mingle with the fetta and\ncreamy mustard sauce to become velvety and packed with flavour, while the panko topping turns into a golden cheesy crust\nwith a hint of citrus. No wand required!",
+  "description": "The magic that occurs when this veggie bake goes in the oven is quite astonishing. The roasted veggies mingle with the fetta and creamy mustard sauce to become velvety and packed with flavour, while the panko topping turns into a golden cheesy crust with a hint of citrus. No wand required!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/fetta-herb-cauliflower-bake-60bf16a9746ca142a2018834",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-cauliflower-broccoli-bake-330c31de.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 711,
+    "proteinG": 24.3,
+    "carbsG": 55.4,
+    "fatG": 46
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -161,7 +167,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60bf16a9746ca142a2018834/step-19811baa.jpg"
     },
     {
-      "text": "• Divide the cheesy cauliflower bake between plates and serve with the lemony veggies on the side.",
+      "text": "Divide the cheesy cauliflower bake between plates and serve with the lemony veggies on the side.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/60bf16a9746ca142a2018834/step-4ea14b22.jpg"
     }
   ]

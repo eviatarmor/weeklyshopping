@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey & Sesame Haloumi",
   "subtitle": "with Roast Veggie Toss, Walnuts & Parsley",
-  "description": "When you pair salty and squeaky haloumi with sweet and sticky honey, the result is pretty magical - and even more so when you\nadd a sprinkle of nutty sesame seeds. Serve with a hearty roast veggie toss, and complete the dish with walnuts for some nutty, buttery flavour and crunch.\nFarmers across Australia\nare still experiencing the\nimpacts of the recent heavy\nrains. This is affecting our\nsupply of fresh veggies and\nas such, you may notice some\nchanges to your ingredients.\nDon’t worry, your recipe will\nbe just as delicious!",
+  "description": "When you pair salty and squeaky haloumi with sweet and sticky honey, the result is pretty magical - and even more so when you add a sprinkle of nutty sesame seeds. Serve with a hearty roast veggie toss, and complete the dish with walnuts for some nutty, buttery flavour and crunch. Farmers across Australia are still experiencing the impacts of the recent heavy rains. This is affecting our supply of fresh veggies and as such, you may notice some changes to your ingredients. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-and-sesame-haloumi-62a03a73d1ec4f68c30835ca",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-thyme-sesame-haloumi-3c845c9f.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 659,
+    "proteinG": 29.4,
+    "carbsG": 59.2,
+    "fatG": 32.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

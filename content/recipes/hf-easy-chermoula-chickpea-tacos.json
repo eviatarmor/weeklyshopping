@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Chermoula-Coconut Chickpea Tacos",
   "subtitle": "with Yoghurt & Coriander",
-  "description": "Bursting with paprika, cumin and turmeric, our chermoula spice blend works wonderfully with creamy coconut milk and tomato paste to create a saucy base for the chickpeas. Top with a dollop of yoghurt for tang and creaminess, and a fresh coriander garnish for a bright burst of flavour. \nThis recipe is under 650kcal per serving.",
+  "description": "Bursting with paprika, cumin and turmeric, our chermoula spice blend works wonderfully with creamy coconut milk and tomato paste to create a saucy base for the chickpeas. Top with a dollop of yoghurt for tang and creaminess, and a fresh coriander garnish for a bright burst of flavour. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-chermoula-chickpea-tacos-638ee646a7f384892c07db9b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65a469a31ee0609964aa0134-78a341b5.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 610,
+    "proteinG": 17.5,
+    "carbsG": 63.8,
+    "fatG": 29.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

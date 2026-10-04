@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Moroccan Lentil Veggie & Cheesy Pie",
   "subtitle": "with Garlic Mash Topping & Flaked Almonds",
-  "description": "This one is in a league of its own. We've taken your favourite parts of a stir-fry, switched out the meat for hearty\nlentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty concoction!",
+  "description": "This one is in a league of its own. We've taken your favourite parts of a stir-fry, switched out the meat for hearty lentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty concoction!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-moroccan-lentil-veggie-pie-667b5a5b438760e4ef4144d8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/667b5a5b438760e4ef4144d8-c366bdcb.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 819,
+    "proteinG": 37.2,
+    "carbsG": 73.1,
+    "fatG": 38.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -146,7 +152,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667b5a5b438760e4ef4144d8-df4e823c.jpeg"
     },
     {
-      "text": "• To lentils, stir in coconut milk, the water, salt and a pinch of the brown sugar. Simmer, until slightly thickened, 2-3 minutes. Season to taste.",
+      "text": "To lentils, stir in coconut milk, the water, salt and a pinch of the brown sugar. Simmer, until slightly thickened, 2-3 minutes. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-667b5a5b438760e4ef4144d8-0cfb2943.jpeg"
     },
     {

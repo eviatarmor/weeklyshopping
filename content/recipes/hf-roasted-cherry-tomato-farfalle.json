@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roasted Cherry Tomato Farfalle",
   "subtitle": "with Fetta & Semi Dried Tomatoes",
-  "description": "There's nothing like a comforting bowl of pasta to end your day. With all the Italian flavours you know and love combined with\ndelicate bows of farfalle, this meal is a winner from start to finish!",
+  "description": "There's nothing like a comforting bowl of pasta to end your day. With all the Italian flavours you know and love combined with delicate bows of farfalle, this meal is a winner from start to finish!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/roasted-cherry-tomato-farfalle-605a5cd8ad902c14763a7fea",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roasted-eggplant-fennel-fusilli-046a660d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 708,
+    "proteinG": 27.7,
+    "carbsG": 98,
+    "fatG": 19.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

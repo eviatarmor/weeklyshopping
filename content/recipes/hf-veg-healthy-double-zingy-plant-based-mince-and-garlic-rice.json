@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W29_AU_R22166-3_MAIN_spring_onion_edit_high-c08f9f7b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 787,
+    "proteinG": 45,
+    "carbsG": 79,
+    "fatG": 28.8
+  },
   "tags": [
     "hellofresh",
     "thai",

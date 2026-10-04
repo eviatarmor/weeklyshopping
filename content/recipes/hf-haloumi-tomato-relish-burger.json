@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/672d65bb1cd01ca44ffc07ba-295751cf.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1092,
+    "proteinG": 51.4,
+    "carbsG": 103.3,
+    "fatG": 55.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -90,7 +96,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-672d65bb1cd01ca44ffc07ba-39f53535.jpeg"
     },
     {
-      "text": "• Meanwhile, thinly slice cucumber and onion.",
+      "text": "Meanwhile, thinly slice cucumber and onion.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-672d65bb1cd01ca44ffc07ba-e6450beb.jpeg"
     },
     {
@@ -98,7 +104,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-672d65bb1cd01ca44ffc07ba-0bb1085d.jpeg"
     },
     {
-      "text": "• Halve bake-at home burger buns and bake directly on a wire oven rack, until heated through, 2-3 minutes.",
+      "text": "Halve bake-at home burger buns and bake directly on a wire oven rack, until heated through, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-672d65bb1cd01ca44ffc07ba-75dcbfbb.jpeg"
     },
     {

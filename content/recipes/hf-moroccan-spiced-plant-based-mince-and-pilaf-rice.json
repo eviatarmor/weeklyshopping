@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/moroccan-spiced-beef-pilaf-rice-19aa1d6e-6176405d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 674,
+    "proteinG": 29.2,
+    "carbsG": 89.3,
+    "fatG": 20.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

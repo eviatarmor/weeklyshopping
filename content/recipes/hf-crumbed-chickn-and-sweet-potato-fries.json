@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Crumbed Chick'n & Sweet Potato Fries",
   "subtitle": "with Almond-Cucumber Salad & Mustard Mayo",
-  "description": "You don’t have to wait for a special occasion to create this gourmet feast, because We're making tonight, steak night!\nEnjoy this delectable flank steak, whipped up in 4 quick and easy steps and paired with a few staple sides (sweet\npotato fries and cucumber salad to be precise). Steak night will quickly take the cake for best night of the week!\nThis recipe is under 650kcal per serving.",
+  "description": "You don’t have to wait for a special occasion to create this gourmet feast, because We're making tonight, steak night! Enjoy this delectable flank steak, whipped up in 4 quick and easy steps and paired with a few staple sides (sweet potato fries and cucumber salad to be precise). Steak night will quickly take the cake for best night of the week! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/flank-steak-and-sweet-potato-fries-67f840a4cade9b9f0acdf697",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66c532cda0a75acc54a18079-8040f723-6c1e2a9c.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 614,
+    "proteinG": 24.8,
+    "carbsG": 54.2,
+    "fatG": 31.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

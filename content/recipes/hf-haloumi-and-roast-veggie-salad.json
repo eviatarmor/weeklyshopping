@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Haloumi & Roast Veggie Salad",
   "subtitle": "with Garlic Yoghurt, Almonds & Mint",
-  "description": "A little salty and squeaky, and with a touch of tang, we're big fans of haloumi - especially when it's teamed with\nnaturally sweet roasted veggies. Dress the salad with creamy garlic yoghurt and top with crunchy flaked almonds for\nthe perfect balance of flavours and textures. Don't forget the fresh mint garnish, it really makes everything sing!\nThis recipe is under 650kcal per serving and under 30g carbohydrates per serving.\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "description": "A little salty and squeaky, and with a touch of tang, we're big fans of haloumi - especially when it's teamed with naturally sweet roasted veggies. Dress the salad with creamy garlic yoghurt and top with crunchy flaked almonds for the perfect balance of flavours and textures. Don't forget the fresh mint garnish, it really makes everything sing! This recipe is under 650kcal per serving and under 30g carbohydrates per serving. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/haloumi-and-roast-veggie-salad-61ee28d11a7cd03b9008187e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-roast-veggie-salad-662f70b4.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 471,
+    "proteinG": 26.1,
+    "carbsG": 27.2,
+    "fatG": 26.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

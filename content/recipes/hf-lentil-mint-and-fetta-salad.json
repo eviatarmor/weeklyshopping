@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-mint-fetta-salad-18d8b5fe.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 447,
+    "proteinG": 24.5,
+    "carbsG": 45.5,
+    "fatG": 14.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -79,26 +85,26 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 200°C/180°C fan-forced. Bring a kettle full of water to the boil. To prepare the ingredients, cut the sweet potato into 1 cm cubes (unpeeled), and trim and destring the sugar snap peas. Chop the broccoli into small florets, drain and rinse the lentils, pick and roughly chop the mint leaves, and crumble the fetta cheese.",
+      "text": "Preheat oven to 200°C/180°C fan-forced. Bring a kettle full of water to the boil. To prepare the ingredients, cut the sweet potato into 1 cm cubes (unpeeled), and trim and destring the sugar snap peas. Chop the broccoli into small florets, drain and rinse the lentils, pick and roughly chop the mint leaves, and crumble the fetta cheese.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c14db4348d2098435b592-0-0-a1b26f52.jpg"
     },
     {
-      "text": "• Toss the sweet potato in half of the olive oil and season with salt and pepper. Place in a single layer on a lined oven tray and cook in the oven for 20 minutes, or until tender.",
+      "text": "Toss the sweet potato in half of the olive oil and season with salt and pepper. Place in a single layer on a lined oven tray and cook in the oven for 20 minutes, or until tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c14db4348d2098435b592-1-0-d5bb3993.jpg"
     },
     {
-      "text": "• Meanwhile, place the sugar snap peas and broccoli in a heatproof bowl. Pour over the boiling water from the kettle and stand for 2-3 minutes, or until just tender. Drain and refresh under cold water."
+      "text": "Meanwhile, place the sugar snap peas and broccoli in a heatproof bowl. Pour over the boiling water from the kettle and stand for 2-3 minutes, or until just tender. Drain and refresh under cold water."
     },
     {
-      "text": "• Combine the remaining oil and apple cider vinegar in a small bowl. Season to taste with salt and pepper. Add the lentils and toss to coat well in the dressing.",
+      "text": "Combine the remaining oil and apple cider vinegar in a small bowl. Season to taste with salt and pepper. Add the lentils and toss to coat well in the dressing.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c14db4348d2098435b592-3-0-2e5f3ed7.jpg"
     },
     {
-      "text": "• In a large bowl combine the mint, sugar snap peas, broccoli, dressed lentils, sweet potato and fetta cheese.",
+      "text": "In a large bowl combine the mint, sugar snap peas, broccoli, dressed lentils, sweet potato and fetta cheese.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c14db4348d2098435b592-4-0-547ac1b0.jpg"
     },
     {
-      "text": "• To serve, divide between bowls and enjoy!"
+      "text": "To serve, divide between bowls and enjoy!"
     }
   ]
 }

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Mushroom, White Bean & Herb Pie",
   "subtitle": "with Mashed Potato Topping & Parmesan",
-  "description": "We thought we'd give your average shepherd's pie a makeover! By swapping mince to cannellini beans, watch as the beans and potato topping soak up the herby filling to perfection. We've also paired it with some hidden veg to bring in some freshness!\nThis recipe is under 650kcal per serving.",
+  "description": "We thought we'd give your average shepherd's pie a makeover! By swapping mince to cannellini beans, watch as the beans and potato topping soak up the herby filling to perfection. We've also paired it with some hidden veg to bring in some freshness! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-mushroom-white-bean-and-herb-pie-66a997d66952abc98739939b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a997d66952abc98739939b-7f4e76d6.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 647,
+    "proteinG": 23,
+    "carbsG": 60,
+    "fatG": 31.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

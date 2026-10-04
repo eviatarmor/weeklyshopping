@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/classic-haloumi-burger-c4cff6d6.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 870,
+    "proteinG": 32.5,
+    "carbsG": 86.2,
+    "fatG": 42.7
+  },
   "tags": [
     "vegetarian",
     "everyplate"

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/smokey-haloumi-charred-corn-salad-71ee3ca3.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 627,
+    "proteinG": 24.9,
+    "carbsG": 41.5,
+    "fatG": 39
+  },
   "tags": [
     "vegetarian",
     "everyplate",

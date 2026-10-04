@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian Coconut Lentil Nachos",
   "subtitle": "with Pickled Onion & Mint Yoghurt",
-  "description": "Get ready to experience the flavours of Indian cuisine combined with the textures of a nacho bowl. The result is a flavourful\ncombo that will leave everyone wanting more!",
+  "description": "Get ready to experience the flavours of Indian cuisine combined with the textures of a nacho bowl. The result is a flavourful combo that will leave everyone wanting more!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/indian-coconut-lentil-nachos-605a606416869d34600f6030",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/nz-indian-coconut-lentil-nachos-4f9b0b13.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 788,
+    "proteinG": 27.7,
+    "carbsG": 87.5,
+    "fatG": 30.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

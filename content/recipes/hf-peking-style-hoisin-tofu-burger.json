@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R37_W04_AUS_Main_high_edit_noseeds-4a1b13c9.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 781,
+    "proteinG": 38.2,
+    "carbsG": 85.7,
+    "fatG": 27.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

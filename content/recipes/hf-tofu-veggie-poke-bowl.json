@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Tofu & Veggie Poke Bowl",
   "subtitle": "with Sesame Dressing & Pickled Cucumber",
-  "description": "We love poke! It's so easy to customise with your favourite flavours. This veggie version is brimming with Southeast Asian-spiced tofu,\nplus sweet chilli and soy-spiked veggies. Bring it all together with our creamy sesame dressing, a sprinkle of crispy shallots and a spoonful\nof zingy pickled cucumber. Simply delicious.",
+  "description": "We love poke! It's so easy to customise with your favourite flavours. This veggie version is brimming with Southeast Asian-spiced tofu, plus sweet chilli and soy-spiked veggies. Bring it all together with our creamy sesame dressing, a sprinkle of crispy shallots and a spoonful of zingy pickled cucumber. Simply delicious.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/tofu-veggie-poke-bowl-62a83f37e06ebb53110c04cc",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tofu-veggie-poke-bowl-34685dba.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 785,
+    "proteinG": 22.7,
+    "carbsG": 85.8,
+    "fatG": 40.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

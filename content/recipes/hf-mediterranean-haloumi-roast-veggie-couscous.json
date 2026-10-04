@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-pork-roast-veggie-couscous-fb87f622.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 826,
+    "proteinG": 28.8,
+    "carbsG": 65.2,
+    "fatG": 48.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

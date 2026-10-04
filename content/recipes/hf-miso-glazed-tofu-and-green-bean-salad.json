@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Miso-Glazed Tofu & Green Bean Salad",
   "subtitle": "with Pea Pods & Japanese Dressing",
-  "description": "This Japanese-style salad hits the trifecta with pan-seared green beans, mixed salad leaves and pea pods. When paired with a miso-glazed tofu, you'll have flavour bursting in every bite.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "This Japanese-style salad hits the trifecta with pan-seared green beans, mixed salad leaves and pea pods. When paired with a miso-glazed tofu, you'll have flavour bursting in every bite. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/miso-glazed-beef-rump-and-green-bean-salad-67f856224264524ca9795c44",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67c45616f0a31bc0c3010448-6b2895b7-ac333bbe.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 408,
+    "proteinG": 29.1,
+    "carbsG": 20.9,
+    "fatG": 20.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

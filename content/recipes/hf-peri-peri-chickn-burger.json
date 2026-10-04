@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/peri-peri-chickn-burger-5aab4b47.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 952,
+    "proteinG": 33.2,
+    "carbsG": 100.7,
+    "fatG": 44
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -82,11 +88,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/640e741be5481bb7b90ce83c/step-b0814062.jpg"
     },
     {
-      "text": "• Meanwhile, thinly slice tomato into rounds.",
+      "text": "Meanwhile, thinly slice tomato into rounds.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/640e741be5481bb7b90ce83c/step-fda42576.jpg"
     },
     {
-      "text": "• In a medium bowl, combine peri-peri seasoning, a drizzle of olive oil and a generous pinch of salt. Add plant-based crumbed chicken, tossing to coat.",
+      "text": "In a medium bowl, combine peri-peri seasoning, a drizzle of olive oil and a generous pinch of salt. Add plant-based crumbed chicken, tossing to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/640e741be5481bb7b90ce83c/step-9fc29c36.jpg"
     },
     {
@@ -94,7 +100,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/640e741be5481bb7b90ce83c/step-23ad40b2.jpg"
     },
     {
-      "text": "• Meanwhile, have bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
+      "text": "Meanwhile, have bake-at-home burger buns and bake directly on a wire oven rack until heated through, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/640e741be5481bb7b90ce83c/step-a2feeabe.jpg"
     },
     {

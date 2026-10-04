@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Chick'n Tenders & Cucumber Slaw",
   "subtitle": "with Herby Fries & 'Aioli'",
-  "description": "If you haven't tried our plant-based crumbed 'chicken' tenders yet, prepare to be more than satisfied! They get lovely and\ngolden in the pan and pair perfectly with the subtly sweet and tart slaw, plus our signature wedges.",
+  "description": "If you haven't tried our plant-based crumbed 'chicken' tenders yet, prepare to be more than satisfied! They get lovely and golden in the pan and pair perfectly with the subtly sweet and tart slaw, plus our signature wedges.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/plant-based-chickn-tenders-and-cucumber-slaw-634901d0eb8a3b6fea0a8ce4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6524ea79e4436936d49a456a-92504037.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 823,
+    "proteinG": 21,
+    "carbsG": 58.7,
+    "fatG": 54.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

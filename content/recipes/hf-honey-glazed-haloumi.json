@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey-Glazed Haloumi & Roast Veg Couscous",
   "subtitle": "with Garlic Yoghurt",
-  "description": "Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while the roast veggies crisp up in the oven. Top it all off with a dollop of super creamy garlic yoghurt!\nThis recipe is under 650kcal per serving.",
+  "description": "Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while the roast veggies crisp up in the oven. Top it all off with a dollop of super creamy garlic yoghurt! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-glazed-haloumi-67f8631ecade9b9f0acea9ca",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1033_W31_AU_R11735-4_Main_4_high-5fac5dd1.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 644,
+    "proteinG": 30.3,
+    "carbsG": 57.7,
+    "fatG": 32.2
+  },
   "tags": [
     "hellofresh",
     "mediterranean",

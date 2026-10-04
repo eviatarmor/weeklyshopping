@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mushroom-tofu-quinoa-bowl-f427b9f6.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 571,
+    "proteinG": 29.8,
+    "carbsG": 58.9,
+    "fatG": 25.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -106,21 +112,21 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, rinse the quinoa well, slice the Chinese tofu into 2 cm cubes, slice the mushrooms, peel and finely grate the garlic, finely slice the carrot, roughly chop the Asian greens, and pick the coriander leaves."
+      "text": "To prepare the ingredients, rinse the quinoa well, slice the Chinese tofu into 2 cm cubes, slice the mushrooms, peel and finely grate the garlic, finely slice the carrot, roughly chop the Asian greens, and pick the coriander leaves."
     },
     {
-      "text": "• Place the quinoa and water in a medium saucepan and bring to the boil. Cover with a lid and reduce to a medium heat. Simmer for 10-12 minutes, or until the quinoa is tender and the water has absorbed (drain excess water)."
+      "text": "Place the quinoa and water in a medium saucepan and bring to the boil. Cover with a lid and reduce to a medium heat. Simmer for 10-12 minutes, or until the quinoa is tender and the water has absorbed (drain excess water)."
     },
     {
-      "text": "• Meanwhile, heat half the olive oil in a medium frying pan over a medium-high heat. Cook the Chinese tofu for 2-3 minutes, turning regularly, until golden and crispy. Set aside on a plate. Return the pan to the heat and drizzle in the remaining olive oil. Add the mushrooms and cook for 4-5 minutes, or until softened. Add the garlic and carrot and cook for a further 2-3 minutes, or until fragrant and the carrot has softened slightly. Stir through the Asian greens for 1-2 minutes, or until wilted. Pour over the hoisin sauce and salt-reduced soy sauce, then add the cooked tofu and stir until coated in the sauce. Remove the pan from the heat.",
+      "text": "Meanwhile, heat half the olive oil in a medium frying pan over a medium-high heat. Cook the Chinese tofu for 2-3 minutes, turning regularly, until golden and crispy. Set aside on a plate. Return the pan to the heat and drizzle in the remaining olive oil. Add the mushrooms and cook for 4-5 minutes, or until softened. Add the garlic and carrot and cook for a further 2-3 minutes, or until fragrant and the carrot has softened slightly. Stir through the Asian greens for 1-2 minutes, or until wilted. Pour over the hoisin sauce and salt-reduced soy sauce, then add the cooked tofu and stir until coated in the sauce. Remove the pan from the heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926176803b504a7b592b62-2-0-3a0270b2.jpg"
     },
     {
-      "text": "• In a large mixing bowl, combine the cooked quinoa and cooked vegetables and tofu.",
+      "text": "In a large mixing bowl, combine the cooked quinoa and cooked vegetables and tofu.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/58926176803b504a7b592b62-3-0-98c4efd5.jpg"
     },
     {
-      "text": "• To serve, divide the quinoa between plates and top with the sesame seeds and fresh coriander. Enjoy!"
+      "text": "To serve, divide the quinoa between plates and top with the sesame seeds and fresh coriander. Enjoy!"
     }
   ]
 }

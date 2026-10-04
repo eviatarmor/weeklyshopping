@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Veggie Thai Green Curry",
   "subtitle": "with Garlic Rice & Roasted Cashews",
-  "description": "Enjoy a bowl of creamy and rich Thai curry, loaded with colourful veggies and aromatic spices. With a sprinkling\nNaturally Gluten-Free of roasted cashew nuts to finish it all off, this delicious meal will beat your local takeaway joint!",
+  "description": "Enjoy a bowl of creamy and rich Thai curry, loaded with colourful veggies and aromatic spices. With a sprinkling Naturally Gluten-Free of roasted cashew nuts to finish it all off, this delicious meal will beat your local takeaway joint!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/veggie-thai-yellow-curry-5b6158ee30006c054d11c3c2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/veggie-thai-yellow-curry-1c8bcf60.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1031,
+    "proteinG": 18.5,
+    "carbsG": 95.6,
+    "fatG": 57.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/low-carb-falafel-roast-cauliflower-bowl-bc0e3b4b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 440,
+    "proteinG": 15.1,
+    "carbsG": 17.1,
+    "fatG": 41.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -90,11 +96,11 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 240°C/220°C fan-forced. Thinly slice the red onion (see ingredients). In a small bowl, combine the rice wine vinegar and a good pinch of sugar and salt. Scrunch the red onion in your hands then add to the pickling liquid. Add enough water to cover the onion and stir to coat. Set aside.",
+      "text": "Preheat the oven to 240°C/220°C fan-forced. Thinly slice the red onion (see ingredients). In a small bowl, combine the rice wine vinegar and a good pinch of sugar and salt. Scrunch the red onion in your hands then add to the pickling liquid. Add enough water to cover the onion and stir to coat. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4bcb736b957fb276cda0/step-9ab34dae.jpg"
     },
     {
-      "text": "• Chop the cauliflower into small florets. Place on an oven tray lined with baking paper. Drizzle with olive oil and season with salt and pepper. Toss to coat. Roast for 15-20 minutes.",
+      "text": "Chop the cauliflower into small florets. Place on an oven tray lined with baking paper. Drizzle with olive oil and season with salt and pepper. Toss to coat. Roast for 15-20 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4bcb736b957fb276cda0/step-0ea30e97.jpg"
     },
     {
@@ -102,15 +108,15 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4bcb736b957fb276cda0/step-067608f5.jpg"
     },
     {
-      "text": "• Return the medium frying pan to a medium-high heat with enough olive oil to coat the base of the pan. Once the oil is hot, cook the falafels, tossing, for 4-6 minutes or until deep golden brown. Transfer to a plate lined with paper towel. Season with salt.",
+      "text": "Return the medium frying pan to a medium-high heat with enough olive oil to coat the base of the pan. Once the oil is hot, cook the falafels, tossing, for 4-6 minutes or until deep golden brown. Transfer to a plate lined with paper towel. Season with salt.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4bcb736b957fb276cda0/step-f5b266e0.jpg"
     },
     {
-      "text": "• While the falafels are cooking, combine a small drizzle of the pickling liquid and olive oil in a medium bowl. Drain the pickled onion. Add the pickled onions, cherry tomatoes, cucumber and rocket leaves to the dressing and toss to combine. Season to taste.",
+      "text": "While the falafels are cooking, combine a small drizzle of the pickling liquid and olive oil in a medium bowl. Drain the pickled onion. Add the pickled onions, cherry tomatoes, cucumber and rocket leaves to the dressing and toss to combine. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4bcb736b957fb276cda0/step-e1f59ca0.jpg"
     },
     {
-      "text": "• Divide the roast cauliflower, falafel and cherry tomato salad between bowls. Drizzle the hummus over the falafel and cauliflower. Sprinkle over the toasted almonds.",
+      "text": "Divide the roast cauliflower, falafel and cherry tomato salad between bowls. Drizzle the hummus over the falafel and cauliflower. Sprinkle over the toasted almonds.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/600a4bcb736b957fb276cda0/step-d3717b8e.jpg"
     }
   ]

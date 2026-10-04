@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Potato Topped Thai Red Curry Lentil Pie",
   "subtitle": "with Cucumber Salad & Coriander",
-  "description": "This one is in a league of its own. We've taken your favourite parts of a curry, switched out the meat for\nhearty lentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty\nconcoction!\nThis recipe is under 650kcal per serving.",
+  "description": "This one is in a league of its own. We've taken your favourite parts of a curry, switched out the meat for hearty lentils and whipped it all up just like a shepherd's pie. All that is left, is for you to try this tasty concoction! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/potato-topped-thai-red-curry-lentil-pie-638573a5ba777f39780033b9",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/potato-topped-thai-red-curry-lentil-pie-2f165692.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 581,
+    "proteinG": 23,
+    "carbsG": 66.8,
+    "fatG": 35.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -132,7 +138,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638573a5ba777f39780033b9/step-be9fa7b6.jpg"
     },
     {
-      "text": "• While the potato is cooking, thinly slice brown onion. Roughly chop cucumber and coriander. Drain and rinse lentils.",
+      "text": "While the potato is cooking, thinly slice brown onion. Roughly chop cucumber and coriander. Drain and rinse lentils.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/638573a5ba777f39780033b9/step-cb4be046.jpg"
     },
     {

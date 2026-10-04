@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Garlicky Crumbed Haloumi & Sweet Potato Fries",
   "subtitle": "with Charred Corn Slaw & Garlic Aioli",
-  "description": "Let's hear it for haloumi! Give this versatile vegetarian protein the respect it deserves by coating it in a garlic and herb-laced\npanko crumb, which will get golden and crisp in the pan - a lovely textural contrast against the the delightfully squeaky cheese.",
+  "description": "Let's hear it for haloumi! Give this versatile vegetarian protein the respect it deserves by coating it in a garlic and herb-laced panko crumb, which will get golden and crisp in the pan - a lovely textural contrast against the the delightfully squeaky cheese.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/garlicky-crumbed-haloumi-and-sweet-potato-fries-62c3e7ee27a33cab7905a79a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlicky-crumbed-haloumi-sweet-potato-fries-53e71768.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 829,
+    "proteinG": 33.1,
+    "carbsG": 64.9,
+    "fatG": 47
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

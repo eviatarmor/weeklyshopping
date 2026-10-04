@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Extra Cheesy Bean-Loaded Jacket Potatoes",
   "subtitle": "with Mixed Salad Leaves & Spring Onion",
-  "description": "Elevate the humble beans on toast, with this mouthwatering pairing of cannellini beans tossed in a garlicky tomato sauce sitting atop crispy, air fried potato. Add a sprinkling of spring onion for some additional colour and crunch.\nNo air fryer? Follow along with our alternative method for a final result that will be just as tasty!",
+  "description": "Elevate the humble beans on toast, with this mouthwatering pairing of cannellini beans tossed in a garlicky tomato sauce sitting atop crispy, air fried potato. Add a sprinkling of spring onion for some additional colour and crunch. No air fryer? Follow along with our alternative method for a final result that will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/ep-cannelini-baked-beans-jacket-potato-with-cheddar-cheese-crispy-shallots-and-garden-salad-69924a1f212f41a9d46b6f2f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4019_W26_AU_EP56999-3_edit_potatoes_main_high-9e22622a.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 605,
+    "proteinG": 28.9,
+    "carbsG": 60.2,
+    "fatG": 28.5
+  },
   "tags": [
     "everyplate",
     "british",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Lentil Loaded Enchiladas",
   "subtitle": "with Cucumber Salsa & Smashed Avo",
-  "description": "Whether you're plant-based or not, you're in for a treat with these enchiladas. Load the lentil filling with carrot for sweetness, Mexican spices for some heat and enchilada sauce to bring it all together. Serve with a cooling salsa and some mashed avo to take the enchiladas to new heights.\nWe’ve replaced the sweetcorn in this recipe with cucumber due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Whether you're plant-based or not, you're in for a treat with these enchiladas. Load the lentil filling with carrot for sweetness, Mexican spices for some heat and enchilada sauce to bring it all together. Serve with a cooling salsa and some mashed avo to take the enchiladas to new heights. We’ve replaced the sweetcorn in this recipe with cucumber due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/plant-based-lentil-loaded-enchiladas-67f83ac7cade9b9f0acdd968",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66fffba8966ea033d562e972-a0148286-c9cdff1d.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 630,
+    "proteinG": 26.2,
+    "carbsG": 83.2,
+    "fatG": 16.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

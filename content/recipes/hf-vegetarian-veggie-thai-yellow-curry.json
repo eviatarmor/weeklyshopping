@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5acd777e30006c24024fd832-cbde37c3.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 796,
+    "proteinG": 17.3,
+    "carbsG": 76.4,
+    "fatG": 41.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -103,27 +109,27 @@
   ],
   "steps": [
     {
-      "text": "• Thinly slice the **brown onion (use suggested amount)**. Peel and finely grate the **ginger**. Trim the ends of the **green beans** and cut in half. Slice the **zucchini** into half-moons.",
+      "text": "Thinly slice the **brown onion (use suggested amount)**. Peel and finely grate the **ginger**. Trim the ends of the **green beans** and cut in half. Slice the **zucchini** into half-moons.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd777e30006c24024fd832/step-14986698.jpg"
     },
     {
-      "text": "• Rinse the **jasmine rice** well. In a medium saucepan, bring the **water (check ingredients list for the amount)** to the boil. Add the rice, stir, cover with a lid and reduce the heat to low. Cook for **11-12 minutes**, then remove the pan from the heat and keep covered for another **10-15 minutes**, or until the rice is tender and all the water is absorbed. **TIP:** Don't lift the lid while the rice is resting so you don't lose any steam!",
+      "text": "Rinse the **jasmine rice** well. In a medium saucepan, bring the **water (check ingredients list for the amount)** to the boil. Add the rice, stir, cover with a lid and reduce the heat to low. Cook for **11-12 minutes**, then remove the pan from the heat and keep covered for another **10-15 minutes**, or until the rice is tender and all the water is absorbed. **TIP:** Don't lift the lid while the rice is resting so you don't lose any steam!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd777e30006c24024fd832/step-773916e4.jpg"
     },
     {
-      "text": "• While the rice is cooking, heat a **drizzle** of **olive oil** in a large frying pan over a medium-high heat. Add the **brown onion** and cook for **4-5 minutes**, or until softened. Add the **yellow curry paste (2 tsp for 2 people/ 1 tbs for 4 people)** and **ginger** and cook for **1 minute**, or until fragrant. **TIP:** The curry paste is hot! Feel free to add a little more or less, depending on your taste preference. **TIP:** Frying the curry paste before adding the vegetables allows for a deeper, more intense flavour.",
+      "text": "While the rice is cooking, heat a **drizzle** of **olive oil** in a large frying pan over a medium-high heat. Add the **brown onion** and cook for **4-5 minutes**, or until softened. Add the **yellow curry paste (2 tsp for 2 people/ 1 tbs for 4 people)** and **ginger** and cook for **1 minute**, or until fragrant. **TIP:** The curry paste is hot! Feel free to add a little more or less, depending on your taste preference. **TIP:** Frying the curry paste before adding the vegetables allows for a deeper, more intense flavour.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd777e30006c24024fd832/step-96379e9f.jpg"
     },
     {
-      "text": "• Add the **green beans** and  **zucchini** to the frying pan and cook for **4-5 minutes**, or until softened.",
+      "text": "Add the **green beans** and **zucchini** to the frying pan and cook for **4-5 minutes**, or until softened.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd777e30006c24024fd832/step-66817782.jpg"
     },
     {
-      "text": "• Pour the **coconut milk** into the pan, crumble in the **vegetable stock** cube **(use suggested amount)** and stir to combine. Bring to the boil, then reduce to a medium heat and cook for **10 minutes**, or until the sauce has thickened. Stir through the **soy sauce**.",
+      "text": "Pour the **coconut milk** into the pan, crumble in the **vegetable stock** cube **(use suggested amount)** and stir to combine. Bring to the boil, then reduce to a medium heat and cook for **10 minutes**, or until the sauce has thickened. Stir through the **soy sauce**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd777e30006c24024fd832/step-3cd846a2.jpg"
     },
     {
-      "text": "• Divide the rice between bowls and top with veggie Thai yellow curry. Sprinkle over the **roasted cashews**.",
+      "text": "Divide the rice between bowls and top with veggie Thai yellow curry. Sprinkle over the **roasted cashews**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5acd777e30006c24024fd832/step-44e6cda6.jpg"
     }
   ]

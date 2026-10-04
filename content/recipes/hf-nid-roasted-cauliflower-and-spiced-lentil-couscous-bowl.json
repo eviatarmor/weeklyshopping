@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roast Cauliflower & Lentil-Couscous Bowl",
   "subtitle": "with Garlic Yoghurt",
-  "description": "Chermoula roasted cauliflower is the flavour combo you didn't know you needed in your life. Add it to a tender lentil-loaded couscous and dinner will be done in a dash!\nThis recipe is under 650kcal per serving.",
+  "description": "Chermoula roasted cauliflower is the flavour combo you didn't know you needed in your life. Add it to a tender lentil-loaded couscous and dinner will be done in a dash! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-roasted-cauliflower-and-spiced-lentil-couscous-bowl-67f83ec24264524ca978ed65",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W30_AU_R23729-2_MAIN_high-67d484e4.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 626,
+    "proteinG": 33.4,
+    "carbsG": 76.8,
+    "fatG": 17.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

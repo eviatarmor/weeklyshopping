@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/miso-glazed-tofu-garlic-rice-bowl-6964dfee.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 826,
+    "proteinG": 24.5,
+    "carbsG": 82.9,
+    "fatG": 42.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -164,7 +170,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/632ba0ff33491e4c4506515c/step-6d726970.jpg"
     },
     {
-      "text": "• When the rice is ready, stir through the sesame oil (if using).",
+      "text": "When the rice is ready, stir through the sesame oil (if using).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/632ba0ff33491e4c4506515c/step-f84a0323.jpg"
     },
     {

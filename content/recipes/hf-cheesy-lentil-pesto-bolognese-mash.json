@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Lentil Pesto Bolognese & Mash",
   "subtitle": "with Parmesan & Caramelised Cherry Tomatoes",
-  "description": "Introducing our new veggie-licious version of this Italian cult classic: lentil bolognese! With all the flavour of the original, but lentils\ntaking the place of minced meat and mashed potato to soak up the sauce, you'll be saying 'La dolce vita!' after every bite.",
+  "description": "Introducing our new veggie-licious version of this Italian cult classic: lentil bolognese! With all the flavour of the original, but lentils taking the place of minced meat and mashed potato to soak up the sauce, you'll be saying 'La dolce vita!' after every bite.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-lentil-pesto-bolognese-mash-625fbebb82e3ba70c029ff31",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lentil-bolognese-caramelised-cherry-tomatoes-28dc3adf.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 865,
+    "proteinG": 30.3,
+    "carbsG": 68.5,
+    "fatG": 48.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -184,7 +190,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/625fbebb82e3ba70c029ff31/step-527d983b.jpg"
     },
     {
-      "text": "• Divide the mash between bowls. Top with the lentil pesto bolognese and grated Parmesan cheese. Spoon over the caramelised cherry tomatoes. Tear over parsley leaves to serve.",
+      "text": "Divide the mash between bowls. Top with the lentil pesto bolognese and grated Parmesan cheese. Spoon over the caramelised cherry tomatoes. Tear over parsley leaves to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/625fbebb82e3ba70c029ff31/step-b1df946c.jpg"
     }
   ]

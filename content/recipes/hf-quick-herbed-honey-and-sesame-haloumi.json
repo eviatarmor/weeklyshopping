@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Quick Herbed Honey & Sesame Haloumi",
   "subtitle": "with Golden Goddess Roast Veggie Couscous",
-  "description": "There was complete mayhem when this dish hit our tasting table. With sweet, sticky honey on warm, salty haloumi, plus a\ncitrus-spiked herby dressing for the veggies and couscous to cut the richness, meet your new go-to dinner.",
+  "description": "There was complete mayhem when this dish hit our tasting table. With sweet, sticky honey on warm, salty haloumi, plus a citrus-spiked herby dressing for the veggies and couscous to cut the richness, meet your new go-to dinner.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-herbed-honey-and-sesame-haloumi-62bbbf8e889ac2edf406f4cc",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-sesame-haloumi-bowl-5d44b562.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 831,
+    "proteinG": 30.6,
+    "carbsG": 78.4,
+    "fatG": 42.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Crumbed Chick'n & Warm Brussels Sprout Salad",
   "subtitle": "with Mash & Apple Sauce",
-  "description": "This week's special ingredient is Brussels Sprouts - the perfect addition to your winter meals, these green buds may be small, but they’re packed full of\nflavour once roasted or sautéed. With their golden caramelised edges and nutty bite, Brussels sprouts bring richness and depth to any dish - which you’ll see in this hearty salad, pork and mash number.",
+  "description": "This week's special ingredient is Brussels Sprouts - the perfect addition to your winter meals, these green buds may be small, but they’re packed full of flavour once roasted or sautéed. With their golden caramelised edges and nutty bite, Brussels sprouts bring richness and depth to any dish - which you’ll see in this hearty salad, pork and mash number.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/crumbed-chickn-and-warm-brussels-sprout-salad-67f85d250d0527cba53b277a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R40_W25_AUS_Main_high-db89801f.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 469,
+    "proteinG": 26.7,
+    "carbsG": 64.6,
+    "fatG": 9.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

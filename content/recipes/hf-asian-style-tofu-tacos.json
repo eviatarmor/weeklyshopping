@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-asian-style-tofu-tacos-3b69b945.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 677,
+    "proteinG": 27.1,
+    "carbsG": 69.9,
+    "fatG": 28.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67c52686f4b525c8eb5da913-f8d756f2.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 770,
+    "proteinG": 43.3,
+    "carbsG": 66.7,
+    "fatG": 36.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -127,11 +133,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67c52686f4b525c8eb5da913-83349098.jpeg"
     },
     {
-      "text": "• Sprinkle Cheddar cheese over the mince mixture, then cover with a lid (or foil) and allow to melt, 1 minute. Little cooks: Add the finishing touch by sprinkling the cheese on top.",
+      "text": "Sprinkle Cheddar cheese over the mince mixture, then cover with a lid (or foil) and allow to melt, 1 minute. Little cooks: Add the finishing touch by sprinkling the cheese on top.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67c52686f4b525c8eb5da913-4a5a76e4.jpeg"
     },
     {
-      "text": "• In a small bowl, combine tomato, spring onion, a drizzle of white wine vinegar and olive oil.  Season to taste.",
+      "text": "In a small bowl, combine tomato, spring onion, a drizzle of white wine vinegar and olive oil. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67c52686f4b525c8eb5da913-042a15ee.jpeg"
     },
     {

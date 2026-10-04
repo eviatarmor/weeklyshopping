@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5252b1bf301bbff2428b4749.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 445,
+    "proteinG": 30.4,
+    "carbsG": 19.6,
+    "fatG": 23.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -123,19 +129,19 @@
   ],
   "steps": [
     {
-      "text": "• Whisk together the milk, egg, flour, and sweet paprika in a large bowl. Combine well and add the corn, carrot, capsicum, and spring onion. Season with salt and pepper. Mix well. Your mixture should be sticky and hold together like pancake mixture - if it's too runny or dry, add more flour or milk, a little at a time until you get the desired consistency.",
+      "text": "Whisk together the milk, egg, flour, and sweet paprika in a large bowl. Combine well and add the corn, carrot, capsicum, and spring onion. Season with salt and pepper. Mix well. Your mixture should be sticky and hold together like pancake mixture - if it's too runny or dry, add more flour or milk, a little at a time until you get the desired consistency.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1bf301bbff2428b4749/step_556871706cb26.jpg"
     },
     {
-      "text": "• Heat a little oil in a non-stick frying pan over a medium heat. Using a tablespoon, place heaped spoonfuls of the mixture in the pan and cook in batches. Cook them for 2 minutes until you start to see bubbles form on the top. Turn them once, cook until golden and cooked through. Drain on a paper towel, cover and keep warm as you cook remaining fritters - add more oil to the pan if necessary.",
+      "text": "Heat a little oil in a non-stick frying pan over a medium heat. Using a tablespoon, place heaped spoonfuls of the mixture in the pan and cook in batches. Cook them for 2 minutes until you start to see bubbles form on the top. Turn them once, cook until golden and cooked through. Drain on a paper towel, cover and keep warm as you cook remaining fritters - add more oil to the pan if necessary.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1bf301bbff2428b4749/step_556871708192d.jpg"
     },
     {
-      "text": "• In a bowl combine the avocado mash, coriander leaves and the tomatoes. Give it a good squeeze of lemon and season to your liking with some alt pepper, and olive oil.",
+      "text": "In a bowl combine the avocado mash, coriander leaves and the tomatoes. Give it a good squeeze of lemon and season to your liking with some alt pepper, and olive oil.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1bf301bbff2428b4749/step_5568727f8cab5.jpg"
     },
     {
-      "text": "• Serve the cakes with the guacamole, and rocket. If you're a condiment kind of person, our recommendation would be sweet chili!"
+      "text": "Serve the cakes with the guacamole, and rocket. If you're a condiment kind of person, our recommendation would be sweet chili!"
     }
   ]
 }

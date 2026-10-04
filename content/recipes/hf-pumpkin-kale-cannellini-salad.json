@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56272992f8b25e85608b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 390,
+    "proteinG": 16.1,
+    "carbsG": 41.6,
+    "fatG": 15.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -100,22 +106,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel the pumpkin and cut into 2 cm cubes. Cut the red onion into wedges and coarsely chop the kale (destemmed). Drain and rinse the cannellini beans, and juice the lemon."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, peel the pumpkin and cut into 2 cm cubes. Cut the red onion into wedges and coarsely chop the kale (destemmed). Drain and rinse the cannellini beans, and juice the lemon."
     },
     {
-      "text": "• Toss the pumpkin and red onion in the cumin, half of the olive oil, and salt and pepper. Arrange in a single layer on a lined oven tray and bake in the oven for 30 minutes or until tender."
+      "text": "Toss the pumpkin and red onion in the cumin, half of the olive oil, and salt and pepper. Arrange in a single layer on a lined oven tray and bake in the oven for 30 minutes or until tender."
     },
     {
-      "text": "• Meanwhile to make the dressing, whisk the remaining olive oil, wholegrain mustard, honey and lemon juice in a small bowl until well combined. Set aside."
+      "text": "Meanwhile to make the dressing, whisk the remaining olive oil, wholegrain mustard, honey and lemon juice in a small bowl until well combined. Set aside."
     },
     {
       "text": "• Place the kale in a large bowl and drizzle with extra olive oil. Season with salt and pepper and then, using your fingers, massage the kale leaves to soften.\n• Tip: Massaging kale leaves completely changes their texture and makes them much more enjoyable to eat raw in a salad."
     },
     {
-      "text": "• Add the roast pumpkin and red onion, cannellini beans, currants and pepitas to the bowl with the kale and gently toss."
+      "text": "Add the roast pumpkin and red onion, cannellini beans, currants and pepitas to the bowl with the kale and gently toss."
     },
     {
-      "text": "• Divide the salad between plates and drizzle with the honey and mustard dressing."
+      "text": "Divide the salad between plates and drizzle with the honey and mustard dressing."
     }
   ]
 }

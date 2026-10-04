@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56a9463bfd2cb994228b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 696,
+    "proteinG": 35,
+    "carbsG": 67.4,
+    "fatG": 26
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -101,25 +107,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely chop the red onion and cut the zucchini into ribbons. Rinse the chickpeas and lightly beat the egg. Crumble the fetta cheese and wash the baby spinach."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, finely chop the red onion and cut the zucchini into ribbons. Rinse the chickpeas and lightly beat the egg. Crumble the fetta cheese and wash the baby spinach."
     },
     {
-      "text": "• Heat half of the olive oil in a medium frying pan over a medium-high heat. Add the red onion and cook, stirring, for 3 minutes or until soft. Add the za’atar and cook for a further 1 minute or until fragrant. Transfer to a medium bowl.",
+      "text": "Heat half of the olive oil in a medium frying pan over a medium-high heat. Add the red onion and cook, stirring, for 3 minutes or until soft. Add the za’atar and cook for a further 1 minute or until fragrant. Transfer to a medium bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56a9463bfd2cb994228b4567/step_56a948d3a9c7c.jpg"
     },
     {
-      "text": "• Add the chickpeas to the bowl with the onion and roughly mash with a fork or potato masher. Stir through the egg, fetta cheese and fine breadcrumbs. Form the mixture into patties (2 per person).",
+      "text": "Add the chickpeas to the bowl with the onion and roughly mash with a fork or potato masher. Stir through the egg, fetta cheese and fine breadcrumbs. Form the mixture into patties (2 per person).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56a9463bfd2cb994228b4567/step_56a948d3ef3da.jpg"
     },
     {
-      "text": "• Meanwhile, place the bake-at-home buns in to the oven and cook for 5-7 minutes or until heated through. Halve."
+      "text": "Meanwhile, place the bake-at-home buns in to the oven and cook for 5-7 minutes or until heated through. Halve."
     },
     {
-      "text": "• Heat a lightly greased BBQ or chargrill pan over a medium-high heat. Add the zucchini and cook for 2-3 minutes on each side or until chargrilled and tender. Transfer to a plate. Heat the remaining olive oil in the same chargrill pan. Add the chickpea patties and cook for 3 minutes on each side or until the patties are heated through and golden.",
+      "text": "Heat a lightly greased BBQ or chargrill pan over a medium-high heat. Add the zucchini and cook for 2-3 minutes on each side or until chargrilled and tender. Transfer to a plate. Heat the remaining olive oil in the same chargrill pan. Add the chickpea patties and cook for 3 minutes on each side or until the patties are heated through and golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56a9463bfd2cb994228b4567/step_56a948d461060.jpg"
     },
     {
-      "text": "• To serve, butter the buns and layer with a handful of the baby spinach, tomato, chickpea patties, and zucchini. Serve with the remaining baby spinach on the side."
+      "text": "To serve, butter the buns and layer with a handful of the baby spinach, tomato, chickpea patties, and zucchini. Serve with the remaining baby spinach on the side."
     }
   ]
 }

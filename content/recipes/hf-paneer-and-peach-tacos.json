@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56555192f8b25eb50f8b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 605,
+    "proteinG": 25.1,
+    "carbsG": 38.8,
+    "fatG": 37.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -92,28 +98,28 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, peel and crush the garlic. Cut the paneer cheese into 5 mm thick slices. Finely chop the chilli (deseeded) and spring onions. Remove the stone from the peach and cut into wedges. Shred the gem lettuce, and juice the lime."
+      "text": "To prepare the ingredients, peel and crush the garlic. Cut the paneer cheese into 5 mm thick slices. Finely chop the chilli (deseeded) and spring onions. Remove the stone from the peach and cut into wedges. Shred the gem lettuce, and juice the lime."
     },
     {
-      "text": "• To make the marinade, combine the Cajun spice mix, garlic and the olive oil in a medium bowl. Season with salt and pepper. Toss the paneer in the marinade and set aside.",
+      "text": "To make the marinade, combine the Cajun spice mix, garlic and the olive oil in a medium bowl. Season with salt and pepper. Toss the paneer in the marinade and set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56555192f8b25eb50f8b4567/step_56555306109b0.jpg"
     },
     {
-      "text": "• Mash the avocado and lime juice in a small bowl. Season with salt and pepper and set aside. Combine the birdseye chilli and spring onion in a small bowl.",
+      "text": "Mash the avocado and lime juice in a small bowl. Season with salt and pepper and set aside. Combine the birdseye chilli and spring onion in a small bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56555192f8b25eb50f8b4567/step_5655530642556.jpg"
     },
     {
-      "text": "• Heat a greased chargrill pan or BBQ over a medium-high heat. Add the peach wedges and cook for 1 minute on each side or until just chargrilled. Set aside."
+      "text": "Heat a greased chargrill pan or BBQ over a medium-high heat. Add the peach wedges and cook for 1 minute on each side or until just chargrilled. Set aside."
     },
     {
-      "text": "• Add the paneer to the same chargrill pan or BBQ over the same heat and cook for 2 minutes on each side or until golden brown.",
+      "text": "Add the paneer to the same chargrill pan or BBQ over the same heat and cook for 2 minutes on each side or until golden brown.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56555192f8b25eb50f8b4567/step_5655530656c53.jpg"
     },
     {
-      "text": "• Meanwhile, heat the mini white corn tortillas in the microwave wrapped in a clean, damp tea towel or in a sandwich press."
+      "text": "Meanwhile, heat the mini white corn tortillas in the microwave wrapped in a clean, damp tea towel or in a sandwich press."
     },
     {
-      "text": "• To serve, place the paneer, peach, shredded gem lettuce, mashed avocado and chilli mixture on the table and assemble your own peachy paneer tacos."
+      "text": "To serve, place the paneer, peach, shredded gem lettuce, mashed avocado and chilli mixture on the table and assemble your own peachy paneer tacos."
     }
   ]
 }

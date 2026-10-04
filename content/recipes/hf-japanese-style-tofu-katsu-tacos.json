@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Japanese-Style Tofu Katsu Tacos",
   "subtitle": "with Creamy Slaw, Pear & Crispy Shallots",
-  "description": "Get excited for dinner! These colourful handfuls are bursting with deliciousness from the sweet and tangy katsu-glazed tofu,\nspiked with sesame seeds for a nutty depth of flavour.",
+  "description": "Get excited for dinner! These colourful handfuls are bursting with deliciousness from the sweet and tangy katsu-glazed tofu, spiked with sesame seeds for a nutty depth of flavour.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/japanese-style-tofu-katsu-tacos-637d546811eaeab535041737",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-tofu-katsu-tacos-0d205a05.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 809,
+    "proteinG": 26.6,
+    "carbsG": 70.1,
+    "fatG": 48.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -114,7 +120,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637d546811eaeab535041737/step-5e3c8e04.jpg"
     },
     {
-      "text": "• In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
+      "text": "In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637d546811eaeab535041737/step-286115ee.jpg"
     },
     {

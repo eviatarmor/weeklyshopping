@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/aussie-spiced-haloumi-salad-f83a0963.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 465,
+    "proteinG": 20.1,
+    "carbsG": 19.5,
+    "fatG": 33.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

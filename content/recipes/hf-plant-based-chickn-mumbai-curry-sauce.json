@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/651135b547e375df71ee7ef4-26b81530.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1158,
+    "proteinG": 39,
+    "carbsG": 107.1,
+    "fatG": 61.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -126,7 +132,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-651135b547e375df71ee7ef4-70c013ca.jpeg"
     },
     {
-      "text": "• To the pan with the veggies, stir in coconut milk and cook, until slightly thickened, 2-3 minutes.",
+      "text": "To the pan with the veggies, stir in coconut milk and cook, until slightly thickened, 2-3 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-651135b547e375df71ee7ef4-ce333507.jpeg"
     },
     {

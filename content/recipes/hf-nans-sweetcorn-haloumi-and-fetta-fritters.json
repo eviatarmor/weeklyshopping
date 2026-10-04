@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spiced-corn-fetta-fritters-c185a974-12f66491.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1110,
+    "proteinG": 45.1,
+    "carbsG": 91,
+    "fatG": 62.7
+  },
   "tags": [
     "hellofresh",
     "australian",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Tex-Mex Haloumi & Roast Veggie Rice with BBQ Mayo",
   "subtitle": "Pre-Prepped | Three Steps | Ready in 15",
-  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. Tonight, get your Mexican party hat on whilst you whip up this quick Tex-Mex flavoured haloumi with roast veggie rice. Top with BBQ mayo and watch the flavours blend deliciously!\nHeads-up - you'll need a microwave for this recipe!",
+  "description": "With pre-chopped, pre-marinated ingredients, our new Fresh & Fast recipes are on the table in just 15 minutes. Perfect for busy weeknights - and busy people. Tonight, get your Mexican party hat on whilst you whip up this quick Tex-Mex flavoured haloumi with roast veggie rice. Top with BBQ mayo and watch the flavours blend deliciously! Heads-up - you'll need a microwave for this recipe!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/tex-mex-haloumi-and-roast-veggie-rice-with-bbq-mayo-62c3ee099108d7a02f00c632",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tex-mex-haloumi-roast-veggie-rice-ac81f00a.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 830,
+    "proteinG": 28.7,
+    "carbsG": 64.8,
+    "fatG": 49.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

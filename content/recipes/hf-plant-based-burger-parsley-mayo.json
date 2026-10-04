@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Burger, Haloumi & Spiced Sweet Potato Fries",
   "subtitle": "with Parsley 'Mayo' & Caramelised Onion",
-  "description": "Our plant-based patties mean you can have your burger and eat it too. Load yours up with salad and a parsley-spiked plant-based aioli and consider your Meatless Monday sorted.\nDue to local availability, we’ve replaced some of your ingredients. They may be a little different to what’s pictured, but just as delicious!",
+  "description": "Our plant-based patties mean you can have your burger and eat it too. Load yours up with salad and a parsley-spiked plant-based aioli and consider your Meatless Monday sorted. Due to local availability, we’ve replaced some of your ingredients. They may be a little different to what’s pictured, but just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/plant-based-burger-parsley-mayo-6615df8a11089628acd334f7",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6615df8a11089628acd334f7-db93f995.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1193,
+    "proteinG": 46.5,
+    "carbsG": 78.2,
+    "fatG": 73.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -126,7 +132,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63fc1a06ac638f68060419f9/step-cf133cc3.jpg"
     },
     {
-      "text": "• In a small bowl, combine Dijon mustard and half the plant-based mayonnaise.\n• In a second small bowl, combine parsley and remaining plant-based mayonnaise.\n• Spread a layer of parsley 'mayo' across rolls.  Top each base with a plant-based patty, haloumi slice, some caramelised onion, tomato slices and mixed salad leaves. Serve with sweet potato fries and mustard 'mayo'. Enjoy!",
+      "text": "• In a small bowl, combine Dijon mustard and half the plant-based mayonnaise.\n• In a second small bowl, combine parsley and remaining plant-based mayonnaise.\n• Spread a layer of parsley 'mayo' across rolls. Top each base with a plant-based patty, haloumi slice, some caramelised onion, tomato slices and mixed salad leaves. Serve with sweet potato fries and mustard 'mayo'. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/63fc1a06ac638f68060419f9/step-ef3963e2.jpg"
     }
   ]

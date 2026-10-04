@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y23_R08_W37_AUS_Main_coriander_edit_high-50546b20.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 781,
+    "proteinG": 30.2,
+    "carbsG": 70.6,
+    "fatG": 40.5
+  },
   "tags": [
     "hellofresh",
     "thai",

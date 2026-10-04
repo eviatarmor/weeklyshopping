@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/65dbd8ed6c7a1d757ffa909c-9eb06731-1048fc12.jpeg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 542,
+    "proteinG": 26.5,
+    "carbsG": 83.2,
+    "fatG": 8.5
+  },
   "tags": [
     "hellofresh",
     "italian",

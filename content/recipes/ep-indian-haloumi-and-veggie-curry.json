@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/indian-haloumi-veggie-curry-6afd4a24.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 913,
+    "proteinG": 30.4,
+    "carbsG": 87.8,
+    "fatG": 46.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

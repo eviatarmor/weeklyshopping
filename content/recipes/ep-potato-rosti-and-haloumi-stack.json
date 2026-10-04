@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/EP_Y26_R4026_W38_AU_EP19324-5main_add_drizzle_sweet_chilli_sauce_sour_cream_edit_high-7f1b8437.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 604,
+    "proteinG": 29.7,
+    "carbsG": 43.6,
+    "fatG": 33.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

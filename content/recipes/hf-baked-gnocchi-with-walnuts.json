@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5252b1b1301bbf46038b473b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 722,
+    "proteinG": 39.4,
+    "carbsG": 59.3,
+    "fatG": 34.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -144,25 +150,25 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/ 180°C fan-forced."
+      "text": "Preheat the oven to 200°C/ 180°C fan-forced."
     },
     {
-      "text": "• Spread the walnuts on a lined baking tray and bake in the oven to 2-3 minutes or until golden brown, then set aside.",
+      "text": "Spread the walnuts on a lined baking tray and bake in the oven to 2-3 minutes or until golden brown, then set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b1301bbf46038b473b/step_5568358f418b4.jpg"
     },
     {
-      "text": "• Place the yoghurt, parmesan, milk, and mozarella in a saucepan and stir over a high heat for 3-4 minutes until melted. Whisk in the nutmeg, flour, and mustard Season with salt and pepper, then turn off heat.",
+      "text": "Place the yoghurt, parmesan, milk, and mozarella in a saucepan and stir over a high heat for 3-4 minutes until melted. Whisk in the nutmeg, flour, and mustard Season with salt and pepper, then turn off heat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b1301bbf46038b473b/step_5568358f51497.jpg"
     },
     {
-      "text": "• Cook gnocchi according to packet instructions. You want to make sure you wait until all of the gnocchi is floating before draining it. Otherwise you run the risk of it being chewy!"
+      "text": "Cook gnocchi according to packet instructions. You want to make sure you wait until all of the gnocchi is floating before draining it. Otherwise you run the risk of it being chewy!"
     },
     {
-      "text": "• Add the beaten egg to the cheese sauce with the walnuts and finely chopped parsley, stirring to combine. Divide the gnocchi evenly between ovenproof dishes or bowls, pour the sauce over the top and sprinkle with the breadcrumbs. Place int the oven for 8-10 minutes or until golden.",
+      "text": "Add the beaten egg to the cheese sauce with the walnuts and finely chopped parsley, stirring to combine. Divide the gnocchi evenly between ovenproof dishes or bowls, pour the sauce over the top and sprinkle with the breadcrumbs. Place int the oven for 8-10 minutes or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5252b1b1301bbf46038b473b/step_5568358f64f06.jpg"
     },
     {
-      "text": "• Serve the baked gnocchi with a side of baby spinach tossed with the sliced tomato and chopped cucumber, and drizzled with balsamic vinegar."
+      "text": "Serve the baked gnocchi with a side of baby spinach tossed with the sliced tomato and chopped cucumber, and drizzled with balsamic vinegar."
     }
   ]
 }

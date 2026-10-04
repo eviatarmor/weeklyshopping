@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mediterranean Tomato & Oregano Fusilli",
   "subtitle": "with Red Pesto, Green Olives & Fetta",
-  "description": "Bring the Italian restaurant vibes to the table with this delightful pasta dish. Whip up a rich herbed tomato sauce for the fusilli,\ntop with creamy fetta and dinner is done!\nUnfortunately, this week's gnocchi was in short supply, so we've replaced it with fusilli. Don't worry, the recipe will be just as delicious!",
+  "description": "Bring the Italian restaurant vibes to the table with this delightful pasta dish. Whip up a rich herbed tomato sauce for the fusilli, top with creamy fetta and dinner is done! Unfortunately, this week's gnocchi was in short supply, so we've replaced it with fusilli. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mediterranean-tomato-oregano-gnocchi-5dd4915a5c09e315f350273f",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-tomato-oregano-gnocchi-499bb147.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 776,
+    "proteinG": 20.6,
+    "carbsG": 88.9,
+    "fatG": 31.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

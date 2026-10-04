@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/665597afa8b29b0c10df4535-171d918d.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 999,
+    "proteinG": 41.9,
+    "carbsG": 77.9,
+    "fatG": 59.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -112,7 +118,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-665597afa8b29b0c10df4535-09196365.jpeg"
     },
     {
-      "text": "• In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
+      "text": "In a small bowl, combine garlic, the honey, katsu paste, mixed sesame seeds and a dash of water. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-665597afa8b29b0c10df4535-a4b37c55.jpeg"
     },
     {

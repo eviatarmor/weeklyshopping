@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cherry-tomato-kale-pesto-orecchiette-8513c637.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 870,
+    "proteinG": 23.5,
+    "carbsG": 82.4,
+    "fatG": 47
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

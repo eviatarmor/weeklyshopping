@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55f0b7f6fd2cb91f6b8b4568.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1021,
+    "proteinG": 35.7,
+    "carbsG": 103,
+    "fatG": 48.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -76,19 +82,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced oven. To prepare the ingredients, peel the pumpkin and cut into 1 cm cubes. Peel and crush the garlic and peel the zucchini into ribbons. Halve the cherry tomatoes and grate the Provolone cheese."
+      "text": "Preheat the oven to 200°C/180°C fan-forced oven. To prepare the ingredients, peel the pumpkin and cut into 1 cm cubes. Peel and crush the garlic and peel the zucchini into ribbons. Halve the cherry tomatoes and grate the Provolone cheese."
     },
     {
-      "text": "• Toss the pumpkin in half of the olive oil, season with salt and pepper and place in a single layer on a lined oven tray. Cook in the oven for 20 minutes or until tender. Remove the pumpkin and increase the oven to 220°C/200°C fan-forced."
+      "text": "Toss the pumpkin in half of the olive oil, season with salt and pepper and place in a single layer on a lined oven tray. Cook in the oven for 20 minutes or until tender. Remove the pumpkin and increase the oven to 220°C/200°C fan-forced."
     },
     {
-      "text": "• Meanwhile, combine the remaining olive oil and garlic in a small bowl and spread over the smooth side of each wholemeal pizza base. Divide the roasted pumpkin, semi-dried tomatoes, zucchini ribbons and Provolone cheese evenly between pizzas. Place the pizza bases directly onto the wire racks in the oven. Cook in the oven for 10-15 minutes or until the Provolone cheese has melted and the bases are golden."
+      "text": "Meanwhile, combine the remaining olive oil and garlic in a small bowl and spread over the smooth side of each wholemeal pizza base. Divide the roasted pumpkin, semi-dried tomatoes, zucchini ribbons and Provolone cheese evenly between pizzas. Place the pizza bases directly onto the wire racks in the oven. Cook in the oven for 10-15 minutes or until the Provolone cheese has melted and the bases are golden."
     },
     {
-      "text": "• Remove the pizzas from the oven and top with the fresh rocket leaves."
+      "text": "Remove the pizzas from the oven and top with the fresh rocket leaves."
     },
     {
-      "text": "• To serve, cut the pizzas into slices, divide between plates and tuck in!"
+      "text": "To serve, cut the pizzas into slices, divide between plates and tuck in!"
     }
   ]
 }

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/569f1b9d4dab714e0b8b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 492,
+    "proteinG": 25.1,
+    "carbsG": 49.1,
+    "fatG": 21.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -97,21 +103,21 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, rinse the quinoa and wash the baby spinach. Cut the broccolini into thirds and the lime into wedges. Grate the zucchini and remove the excess moisture. Peel and crush the garlic. Deseed and slice the birdseye chilli, and slice the haloumi."
+      "text": "To prepare the ingredients, rinse the quinoa and wash the baby spinach. Cut the broccolini into thirds and the lime into wedges. Grate the zucchini and remove the excess moisture. Peel and crush the garlic. Deseed and slice the birdseye chilli, and slice the haloumi."
     },
     {
-      "text": "• Place the quinoa and the water in a medium saucepan over a medium-high heat and bring to the boil. Reduce the heat to medium and simmer for 12 minutes. Add the broccolini and cook for a further 2 minutes or until tender. Drain really well."
+      "text": "Place the quinoa and the water in a medium saucepan over a medium-high heat and bring to the boil. Reduce the heat to medium and simmer for 12 minutes. Add the broccolini and cook for a further 2 minutes or until tender. Drain really well."
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Add the baby spinach and zucchini and cook, stirring, for  2 minutes or until the veggies are soft. Add the garlic and birdseye chilli and cook, stirring, for 1 minute or until fragrant. Add the quinoa, broccolini, sesame oil and the juice of half of the lime wedges and cook, stirring, until everything is well combined. Season to taste with salt and pepper. Divide the green quinoa between plates.",
+      "text": "Heat the olive oil in a medium frying pan over a medium-high heat. Add the baby spinach and zucchini and cook, stirring, for 2 minutes or until the veggies are soft. Add the garlic and birdseye chilli and cook, stirring, for 1 minute or until fragrant. Add the quinoa, broccolini, sesame oil and the juice of half of the lime wedges and cook, stirring, until everything is well combined. Season to taste with salt and pepper. Divide the green quinoa between plates.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/569f1b9d4dab714e0b8b4567/step_569f1d90501a7.jpg"
     },
     {
-      "text": "• Place the same frying pan back over a medium-high heat. Add the haloumi and cook for 1-2 minutes on each side or until golden.",
+      "text": "Place the same frying pan back over a medium-high heat. Add the haloumi and cook for 1-2 minutes on each side or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/569f1b9d4dab714e0b8b4567/step_569f1d90b7eb0.jpg"
     },
     {
-      "text": "• Serve the haloumi on top of the green quinoa with the remaining lime wedges."
+      "text": "Serve the haloumi on top of the green quinoa with the remaining lime wedges."
     }
   ]
 }

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Japanese Crumbed Tofu & Golden Curry",
   "subtitle": "with Corn Rice & Spring Onion",
-  "description": "This golden tofu dish comes together in six surprisingly simple steps, partly thanks to some shortcut ingredients. Wait till you\ntry the coconut sauce; it's creamy and umami with a touch of sweetness and zing, and the fragrant rice soaks it up beautifully.",
+  "description": "This golden tofu dish comes together in six surprisingly simple steps, partly thanks to some shortcut ingredients. Wait till you try the coconut sauce; it's creamy and umami with a touch of sweetness and zing, and the fragrant rice soaks it up beautifully.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/double-japanese-crumbed-tofu-and-golden-curry-6552aca74c741be7da5dda91",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/667bad81695364690294063f-1c9ac682.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1199,
+    "proteinG": 48.8,
+    "carbsG": 121.9,
+    "fatG": 54.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/671a3dcdd97e45ff0e201661-d3321ec5-b74a63e5.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 560,
+    "proteinG": 22.7,
+    "carbsG": 37.2,
+    "fatG": 35.9
+  },
   "tags": [
     "everyplate",
     "cajunsk",

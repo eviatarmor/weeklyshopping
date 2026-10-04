@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Crumbed Mumbai Haloumi & Roast Veggie Salad",
   "subtitle": "with Garlic Yoghurt & Flaked Almonds",
-  "description": "A little salty and squeaky, and with a Mumbai spice kick we're big fans of haloumi - especially when it's teamed with naturally\nsweet roasted veggies. Dress the salad with creamy garlic yoghurt and top with crunchy flaked almonds for the perfect balance\nof flavours and textures.",
+  "description": "A little salty and squeaky, and with a Mumbai spice kick we're big fans of haloumi - especially when it's teamed with naturally sweet roasted veggies. Dress the salad with creamy garlic yoghurt and top with crunchy flaked almonds for the perfect balance of flavours and textures.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/crumbed-mumbai-haloumi-and-roast-veggie-salad-637c584a88ff7790b001fed8",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crumbed-mumbai-haloumi-roast-veggie-salad-d5d6e83a.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 728,
+    "proteinG": 36.8,
+    "carbsG": 72.3,
+    "fatG": 31.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -136,7 +142,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c584a88ff7790b001fed8/step-a14e3a5d.jpg"
     },
     {
-      "text": "• To roast veggies, add baby spinach leaves to oven tray with a drizzle of red wine vinegar and olive oil. Gently toss to combine. Season.",
+      "text": "To roast veggies, add baby spinach leaves to oven tray with a drizzle of red wine vinegar and olive oil. Gently toss to combine. Season.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/637c584a88ff7790b001fed8/step-164bff4b.jpg"
     },
     {

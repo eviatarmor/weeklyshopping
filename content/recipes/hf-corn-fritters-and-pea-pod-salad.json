@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Corn Fritters & Pea Pod Salad",
   "subtitle": "with Sesame Sweet Potato Fries",
-  "description": "From the crisp fritters and fragrant fries, to the textural treat of a salad and creamy mayo, this plate is so full of flavour, you’ll\nbe hard-pressed on what to start eating first.",
+  "description": "From the crisp fritters and fragrant fries, to the textural treat of a salad and creamy mayo, this plate is so full of flavour, you’ll be hard-pressed on what to start eating first.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/corn-fritters-and-pea-pod-salad-649150ac6832ec1f20138f8a",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/miso-corn-fritters-sesame-fries-91c323a5.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 655,
+    "proteinG": 17.7,
+    "carbsG": 88.5,
+    "fatG": 23.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -137,7 +143,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649150ac6832ec1f20138f8a-87578083.jpeg"
     },
     {
-      "text": "• To a medium bowl, add carrot, sweetcorn, coriander, spring onion, garlic, Southeast Asian spice blend, the plain flour and the milk. TIP: Lift out some of the mixture with a spoon. If it's too wet and doesn't hold its shape, add a little more flour!",
+      "text": "To a medium bowl, add carrot, sweetcorn, coriander, spring onion, garlic, Southeast Asian spice blend, the plain flour and the milk. TIP: Lift out some of the mixture with a spoon. If it's too wet and doesn't hold its shape, add a little more flour!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649150ac6832ec1f20138f8a-617ae321.jpeg"
     },
     {
@@ -145,7 +151,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649150ac6832ec1f20138f8a-c606f5f7.jpeg"
     },
     {
-      "text": "• When fritters are almost done, combine Japanese style dressing, mixed salad leaves, apple and pea pods in a second medium bowl. Toss to coat.",
+      "text": "When fritters are almost done, combine Japanese style dressing, mixed salad leaves, apple and pea pods in a second medium bowl. Toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-649150ac6832ec1f20138f8a-6a9678d5.jpeg"
     },
     {

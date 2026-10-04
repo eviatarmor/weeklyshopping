@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Miso Glazed Tofu & Garlic Rice",
   "subtitle": "with Baby Broccoli & Japanese Mayo",
-  "description": "Enjoy a dinner that's packed with flavour in every bite. From a miso-infused sweet and savoury glaze on tasty Japanese tofu to buttery garlic rice and sautéed veggies, this bowl is a medley of flavour, colour and texture.\nThe recent harsh weather conditions have impacted the cucumbers/zucchinis grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "Enjoy a dinner that's packed with flavour in every bite. From a miso-infused sweet and savoury glaze on tasty Japanese tofu to buttery garlic rice and sautéed veggies, this bowl is a medley of flavour, colour and texture. The recent harsh weather conditions have impacted the cucumbers/zucchinis grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/miso-glazed-tofu-bowl-5d41338c265a5e000951729e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/teriyaki-sesame-tofu-f3dd59bc.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 848,
+    "proteinG": 30,
+    "carbsG": 82.3,
+    "fatG": 41.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

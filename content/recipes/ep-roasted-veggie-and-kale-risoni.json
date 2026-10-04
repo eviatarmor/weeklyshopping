@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Roasted Veggie & Kale Risoni",
   "subtitle": "with Fetta & Almonds",
-  "description": "Risoni - the small rice-shaped pasta - is like comfort in a bowl. Here we've paired it with roasted veggies plus a rich Italian sauce, for a meal that's like a Nonna's hug.\nThe recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
+  "description": "Risoni - the small rice-shaped pasta - is like comfort in a bowl. Here we've paired it with roasted veggies plus a rich Italian sauce, for a meal that's like a Nonna's hug. The recent wet weather conditions across the East Coast have impacted our regular supply of fresh ingredients and as such what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/roasted-veggie-and-kale-risoni-61bab004af9c120767592694",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roasted-veggie-spinach-risoni-205bea33.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 564,
+    "proteinG": 19.6,
+    "carbsG": 67.9,
+    "fatG": 22.4
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -110,11 +116,11 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 240°C/220°C fan-forced.  Cut zucchini into bite-sized chunks. Tear kale leaves from stem, then roughly chop leaves.\n• Place pumpkin and zucchini on the lined oven tray. Drizzle with olive oil and season with salt.\n• Toss to coat and roast until tender, 10-15 mins. Remove the tray from the oven and add the kale, tossing with the veggies. Return to the oven and cook for a further 5-10 minutes.",
+      "text": "• Preheat oven to 240°C/220°C fan-forced. Cut zucchini into bite-sized chunks. Tear kale leaves from stem, then roughly chop leaves.\n• Place pumpkin and zucchini on the lined oven tray. Drizzle with olive oil and season with salt.\n• Toss to coat and roast until tender, 10-15 mins. Remove the tray from the oven and add the kale, tossing with the veggies. Return to the oven and cook for a further 5-10 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61bab004af9c120767592694/step-3964640b.jpg"
     },
     {
-      "text": "• Meanwhile, finely chop or crush garlic.\n• In a large saucepan, heat a drizzle of olive oil  over medium-high heat.\n• Cook garlic and tomato paste until fragrant, 1 min.\n• Add the water, vegetable stock, garlic seasoning and risoni. Bring to boil.",
+      "text": "• Meanwhile, finely chop or crush garlic.\n• In a large saucepan, heat a drizzle of olive oil over medium-high heat.\n• Cook garlic and tomato paste until fragrant, 1 min.\n• Add the water, vegetable stock, garlic seasoning and risoni. Bring to boil.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/61bab004af9c120767592694/step-caecab9b.jpg"
     },
     {

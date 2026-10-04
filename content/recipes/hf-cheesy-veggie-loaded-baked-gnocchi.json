@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cheesy Veggie-Loaded Grilled Gnocchi",
   "subtitle": "with Cucumber & Rocket Salad",
-  "description": "When potato gnocchi is smothered in cheese, then grilled until deliciously golden and oozy, the result is a mouth watering dish\nthat’s totally addictive.",
+  "description": "When potato gnocchi is smothered in cheese, then grilled until deliciously golden and oozy, the result is a mouth watering dish that’s totally addictive.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cheesy-veggie-loaded-baked-gnocchi-603c1d50a53f3464a856790e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5c47bfc9c445fa19580de9f3-44c68a00.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 748,
+    "proteinG": 23.8,
+    "carbsG": 92,
+    "fatG": 29
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

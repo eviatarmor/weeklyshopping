@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Bang Bang Cauliflower",
   "subtitle": "with Stir-Fried Veggies & Garlic Rice",
-  "description": "We've given the popular Chinese recipe a remix, using panko-crumbed and baked cauliflower instead of chicken. Top it off with a\nquick and creamy bang bang sauce for a dish that has all the flavour and \"Bang!\" of the original.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "We've given the popular Chinese recipe a remix, using panko-crumbed and baked cauliflower instead of chicken. Top it off with a quick and creamy bang bang sauce for a dish that has all the flavour and \"Bang!\" of the original. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/bang-bang-cauliflower-5ff2442bc75bbf48ad6599e5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bang-bang-cauliflower-9ed9f69b.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 960,
+    "proteinG": 16.4,
+    "carbsG": 126.9,
+    "fatG": 40.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -160,7 +166,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6203481b225d4e3e295bddbd/step-aab0ae16.jpg"
     },
     {
-      "text": "• Divide garlic rice between bowls. Top with bang bang cauliflower, stir-fried veggies and cucumber. Drizzled with bang bang sauce and sprinkle with green spring onion to serve.",
+      "text": "Divide garlic rice between bowls. Top with bang bang cauliflower, stir-fried veggies and cucumber. Drizzled with bang bang sauce and sprinkle with green spring onion to serve.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6203481b225d4e3e295bddbd/step-7e8421ac.jpg"
     }
   ]

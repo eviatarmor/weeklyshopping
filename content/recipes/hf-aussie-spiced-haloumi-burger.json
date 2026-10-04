@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Aussie-Spiced Haloumi Burger",
   "subtitle": "with Caramelised Onion & Wedges",
-  "description": "There’s nothing quite like a good burger to cheer you up – that’s just simple science. Pop the perfectly spiced haloumi in a brioche-style burger bun along with caramelised onion and crisp veggies, then serve with hand-cut wedges for an unbeatable dinner combo.\nDue to local availability, the ingredients you receive may be a little different\nto what's pictured. It'll be just as delicious, just follow your recipe card!",
+  "description": "There’s nothing quite like a good burger to cheer you up – that’s just simple science. Pop the perfectly spiced haloumi in a brioche-style burger bun along with caramelised onion and crisp veggies, then serve with hand-cut wedges for an unbeatable dinner combo. Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/aussie-spiced-haloumi-burger-67f8674d0d0527cba53b6490",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1001_W15_AUS_MainTomato_Removal_edit_high-90c89783.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 878,
+    "proteinG": 30.3,
+    "carbsG": 76.3,
+    "fatG": 48.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

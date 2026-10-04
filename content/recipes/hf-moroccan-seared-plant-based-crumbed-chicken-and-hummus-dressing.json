@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Moroccan Seared Plant-Based Chick'n & Hummus Dressing",
   "subtitle": "with Carrot & Spinach Couscous Salad",
-  "description": "In this easy 4 stepper, enjoy a bright and light quinoa-spinach bowl with fresh and light veggies aplenty and Moroccan seared chick'n for the star-studded protein.\nWe’ve replaced the tomato in this recipe with carrot due to local\ningredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
+  "description": "In this easy 4 stepper, enjoy a bright and light quinoa-spinach bowl with fresh and light veggies aplenty and Moroccan seared chick'n for the star-studded protein. We’ve replaced the tomato in this recipe with carrot due to local ingredient availability, as a result of the recent heavy rainfall. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/moroccan-seared-plant-based-crumbed-chicken-and-hummus-dressing-67f85d250d0527cba53b276c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6565802ca66012fd8aa15e47-f039630e-589ecaa2.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 640,
+    "proteinG": 27.5,
+    "carbsG": 78.7,
+    "fatG": 21.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

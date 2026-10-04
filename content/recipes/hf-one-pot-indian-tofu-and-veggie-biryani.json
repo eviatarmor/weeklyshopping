@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "One-Pot Indian Tofu & Veggie Biryani",
   "subtitle": "with Tamarind Chutney & Flaked Almonds",
-  "description": "Get ready for a flavour explosion with our veggie-packed biryani. Mumbai-spiced tofu takes centre stage while our curry paste is the supporting act. Top it all off with a generous dollop of creamy yoghurt and our sweet tamarind chutney.\nThis recipe is under 650kcal per serving.",
+  "description": "Get ready for a flavour explosion with our veggie-packed biryani. Mumbai-spiced tofu takes centre stage while our curry paste is the supporting act. Top it all off with a generous dollop of creamy yoghurt and our sweet tamarind chutney. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/one-pot-indian-tofu-and-veggie-biryani-67f838d3cade9b9f0acdcf3d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1017_W43_AU_R14567-5_Main_high-858d8876.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 739,
+    "proteinG": 37,
+    "carbsG": 95.8,
+    "fatG": 19.7
+  },
   "tags": [
     "hellofresh",
     "indian",

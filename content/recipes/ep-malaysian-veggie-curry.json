@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/thai-yellow-veggie-curry-9b423aa6.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 801,
+    "proteinG": 17.2,
+    "carbsG": 87.7,
+    "fatG": 39
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/555430e0fd2cb9ae048b456d.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 306,
+    "proteinG": 14.1,
+    "carbsG": 24.5,
+    "fatG": 14.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -82,14 +88,14 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, dice the onion and tomato. Cut the cauliflower into florets and chop the mint. Drain and rinse the chickpeas.",
+      "text": "To prepare the ingredients, dice the onion and tomato. Cut the cauliflower into florets and chop the mint. Drain and rinse the chickpeas.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/555430e0fd2cb9ae048b456d/step_556eb31f179f1.jpg"
     },
     {
-      "text": "• Heat the olive oil in a medium saucepan over a low-medium heat. Add the onion, stir then leave covered for about 8 minutes or until it is soft."
+      "text": "Heat the olive oil in a medium saucepan over a low-medium heat. Add the onion, stir then leave covered for about 8 minutes or until it is soft."
     },
     {
-      "text": "• Add the HelloFresh curry mix, cauliflower and a good grind of black pepper. Stir to combine then add the tomatoes and chickpeas, use a spoon to break up the tomatoes a little. Cover and simmer on a medium heat for 10 minutes, stirring occasionally (if you want a thicker curry leave the lid off). The curry is ready when the cauliflower is tender, so after 10 minutes take a peek and keep checking until you are happy. Remove from heat and stir through half of the yoghurt. Season with a bit of salt and pepper.",
+      "text": "Add the HelloFresh curry mix, cauliflower and a good grind of black pepper. Stir to combine then add the tomatoes and chickpeas, use a spoon to break up the tomatoes a little. Cover and simmer on a medium heat for 10 minutes, stirring occasionally (if you want a thicker curry leave the lid off). The curry is ready when the cauliflower is tender, so after 10 minutes take a peek and keep checking until you are happy. Remove from heat and stir through half of the yoghurt. Season with a bit of salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/555430e0fd2cb9ae048b456d/step_556eb31f45442.jpg"
     },
     {

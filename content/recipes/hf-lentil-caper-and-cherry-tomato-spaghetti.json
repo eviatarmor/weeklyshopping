@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Lentil, Caper & Cherry Tomato Spaghetti",
   "subtitle": "with Parmesan Cheese",
-  "description": "Bolognese is a classic comfort food and a favourite in most Aussie households. This veggie twist on the traditional dish is also speedy and packs a ton of flavour with the rich lentil sauce made with capers and thyme. It will get you licking your lips and yelling “Bellissimo!\nDue to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
+  "description": "Bolognese is a classic comfort food and a favourite in most Aussie households. This veggie twist on the traditional dish is also speedy and packs a ton of flavour with the rich lentil sauce made with capers and thyme. It will get you licking your lips and yelling “Bellissimo! Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/lentil-caper-and-cherry-tomato-spaghetti-67f834934264524ca978b46d",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/Q3_MOD_HF_Y25_R1007_W39_AU_R4057-6_Main_high-b9da1010.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 842,
+    "proteinG": 40.5,
+    "carbsG": 107,
+    "fatG": 23.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

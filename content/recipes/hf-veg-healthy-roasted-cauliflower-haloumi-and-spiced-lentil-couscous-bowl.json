@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Spiced Roast Cauliflower, Halloumi & Lentil-Couscous",
   "subtitle": "with Garlic Yoghurt & Goat Chese",
-  "description": "Chermoula roasted cauliflower & haloumi is the flavour combo you didn't know you needed in your life. Add it to a tender lentil-loaded couscous and dinner will be done in a dash!\nThis recipe is under 650kcal per serving.",
+  "description": "Chermoula roasted cauliflower & haloumi is the flavour combo you didn't know you needed in your life. Add it to a tender lentil-loaded couscous and dinner will be done in a dash! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/veg-healthy-roasted-cauliflower-haloumi-and-spiced-lentil-couscous-bowl-67f8484e4264524ca97914d1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1007_W23_AUS_Main_high-9800e869.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 993,
+    "proteinG": 58,
+    "carbsG": 79.2,
+    "fatG": 46.5
+  },
   "tags": [
     "hellofresh",
     "middle eastern",

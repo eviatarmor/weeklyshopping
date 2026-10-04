@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/jacket-potatoes-with-spiced-chickpeas-f6a195e3.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 519,
+    "proteinG": 23,
+    "carbsG": 66.7,
+    "fatG": 13.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -125,27 +131,27 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **200°C/180°C fan-forced**. Cut the **potato** (unpeeled) in half. **TIP:** Keep the skin on the potato to retain the nutrients. Prick the potato halves with a fork.",
+      "text": "Preheat the oven to **200°C/180°C fan-forced**. Cut the **potato** (unpeeled) in half. **TIP:** Keep the skin on the potato to retain the nutrients. Prick the potato halves with a fork.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a543478c9fd084df6230692/step-3d24bc9b.jpg"
     },
     {
-      "text": "• Place the **potato halves** cut side down on a plate and microwave on high for **10 minutes**. Carefully remove and transfer the potatoes to an oven tray lined with baking paper. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Place on the top rung of the oven and cook for **10-15 minutes**, or until tender. **TIP:** If you don’t have a microwave, cook the potato halves in the oven for 30 minutes, or until tender.",
+      "text": "Place the **potato halves** cut side down on a plate and microwave on high for **10 minutes**. Carefully remove and transfer the potatoes to an oven tray lined with baking paper. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Place on the top rung of the oven and cook for **10-15 minutes**, or until tender. **TIP:** If you don’t have a microwave, cook the potato halves in the oven for 30 minutes, or until tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a543478c9fd084df6230692/step-b9d79dcc.jpg"
     },
     {
-      "text": "• While the potatoes are cooking, finely chop the **brown onion**. Dice the **zucchini**. Peel and finely grate the **garlic**. Drain and rinse the **chickpeas**. Grate the **carrot** (unpeeled).",
+      "text": "While the potatoes are cooking, finely chop the **brown onion**. Dice the **zucchini**. Peel and finely grate the **garlic**. Drain and rinse the **chickpeas**. Grate the **carrot** (unpeeled).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a543478c9fd084df6230692/step-9ac0ea4c.jpg"
     },
     {
-      "text": "• Heat a **drizzle** of **olive oil** in a medium frying pan over a medium heat. Add the **brown onion** and the **zucchini** and cook for **5 minutes**, or until softened. Add the **garlic** and the **Mediterranean spice blend** and stir through for **1 minute**, or until fragrant. Add the **chickpeas, tomato paste**, **water (check the ingredients list for the amount)** and **salt (use the suggested amount)** and simmer for **5 minutes**, or until the water has evaporated.",
+      "text": "Heat a **drizzle** of **olive oil** in a medium frying pan over a medium heat. Add the **brown onion** and the **zucchini** and cook for **5 minutes**, or until softened. Add the **garlic** and the **Mediterranean spice blend** and stir through for **1 minute**, or until fragrant. Add the **chickpeas, tomato paste**, **water (check the ingredients list for the amount)** and **salt (use the suggested amount)** and simmer for **5 minutes**, or until the water has evaporated.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a543478c9fd084df6230692/step-9d2a94b9.jpg"
     },
     {
-      "text": "• While the chickpeas are cooking, combine the **vinegar** and **olive oil (2 tsp for 2 people / 1 tbs for 4 people)** in a large bowl. Add the **carrot, mixed salad leaves** and **walnuts** and season with a **pinch** of **salt** and **pepper**. Toss to combine. **Tip**:  Dress the salad just before serving to avoid soggy leaves.",
+      "text": "While the chickpeas are cooking, combine the **vinegar** and **olive oil (2 tsp for 2 people / 1 tbs for 4 people)** in a large bowl. Add the **carrot, mixed salad leaves** and **walnuts** and season with a **pinch** of **salt** and **pepper**. Toss to combine. **Tip**: Dress the salad just before serving to avoid soggy leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a543478c9fd084df6230692/step-dd5f563e.jpg"
     },
     {
-      "text": "• Divide the quick jacket potatoes between plates and top with the spiced chickpeas and a dollop of **Greek yoghurt**. Serve the salad on the side.",
+      "text": "Divide the quick jacket potatoes between plates and top with the spiced chickpeas and a dollop of **Greek yoghurt**. Serve the salad on the side.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/5a543478c9fd084df6230692/step-32c005d4.jpg"
     }
   ]

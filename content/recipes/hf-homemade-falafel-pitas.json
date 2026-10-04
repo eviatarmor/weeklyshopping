@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/homemade-falafel-pitas-9e859c05.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 767,
+    "proteinG": 24.8,
+    "carbsG": 84.7,
+    "fatG": 32.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -113,27 +119,27 @@
   ],
   "steps": [
     {
-      "text": "• Drain and rinse the chickpeas. Finely chop the parsley and coriander leaves. Peel and crush the garlic. Finely grate the cucumber and squeeze excess moisture out with your hands.",
+      "text": "Drain and rinse the chickpeas. Finely chop the parsley and coriander leaves. Peel and crush the garlic. Finely grate the cucumber and squeeze excess moisture out with your hands.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897eee04348d2118722cd12-0-0-b9161c40.jpg"
     },
     {
-      "text": "• Add the chickpeas to a large bowl and mash until smooth using a potato masher or a fork. Add half the parsley, half the coriander, half the garlic, salt, baking powder and plain flour. Season with black pepper and mix well.  Form into one large ball and leave to rest in the freezer whilst you make the herby yoghurt. TIP: Chilling the mixture before cooking helps it to set and will aid you in creating perfectly found and tight falafels!",
+      "text": "Add the chickpeas to a large bowl and mash until smooth using a potato masher or a fork. Add half the parsley, half the coriander, half the garlic, salt, baking powder and plain flour. Season with black pepper and mix well. Form into one large ball and leave to rest in the freezer whilst you make the herby yoghurt. TIP: Chilling the mixture before cooking helps it to set and will aid you in creating perfectly found and tight falafels!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897eee04348d2118722cd12-1-0-6e5d52f4.jpg"
     },
     {
-      "text": "• In a medium bowl, combine the cucumber, Greek yoghurt and the remaining garlic, parsley and coriander. Season with salt and pepper and mix well.",
+      "text": "In a medium bowl, combine the cucumber, Greek yoghurt and the remaining garlic, parsley and coriander. Season with salt and pepper and mix well.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897eee04348d2118722cd12-2-0-16dce32a.jpg"
     },
     {
-      "text": "• Remove the falafel dough from the freezer and roll the mixture into tight balls. You should get approx 4 per person.",
+      "text": "Remove the falafel dough from the freezer and roll the mixture into tight balls. You should get approx 4 per person.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897eee04348d2118722cd12-3-0-7d60df3a.jpg"
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Add the falafels and fry for 2-3 minutes, gently turning until golden all over. Set aside on a plate lined with paper towel. Meanwhile, sprinkle a dash of water over the pita pockets and heat in the microwave for 10 seconds to warm through.",
+      "text": "Heat the olive oil in a medium frying pan over a medium-high heat. Add the falafels and fry for 2-3 minutes, gently turning until golden all over. Set aside on a plate lined with paper towel. Meanwhile, sprinkle a dash of water over the pita pockets and heat in the microwave for 10 seconds to warm through.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897eee04348d2118722cd12-4-0-f4e2169d.jpg"
     },
     {
-      "text": "• To serve, dollop some of the hummus and herby yoghurt onto the pitas. Top with the mixed salad leaves and falafels. Season with salt if you like",
+      "text": "To serve, dollop some of the hummus and herby yoghurt onto the pitas. Top with the mixed salad leaves and falafels. Season with salt if you like",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/5897eee04348d2118722cd12-5-0-72aa8246.jpg"
     }
   ]

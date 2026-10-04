@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Mushroom & Plant-Based Mince Fettuccine",
   "subtitle": "with Truffle Oil & Rocket-Apple Salad",
-  "description": "This pasta dish pairs tender mushroom and plant-based mince with an easy creamy sauce. Tossed in ‘al dente’ fettuccine strands and paired with a peppery rocket and sweet apple salad, pasta night just got extra tasty.\nWe’ve replaced the zucchini in this recipe with sliced mushroom due to local ingredient availability. It’ll be just as delicious, just follow your recipe card",
+  "description": "This pasta dish pairs tender mushroom and plant-based mince with an easy creamy sauce. Tossed in ‘al dente’ fettuccine strands and paired with a peppery rocket and sweet apple salad, pasta night just got extra tasty. We’ve replaced the zucchini in this recipe with sliced mushroom due to local ingredient availability. It’ll be just as delicious, just follow your recipe card",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-bacon-and-zucchini-fettuccine-67f8345b0d0527cba53a4ee1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R03_W02_AUS_Main_high-136e9cf9.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 486,
+    "proteinG": 22.5,
+    "carbsG": 15.3,
+    "fatG": 35.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

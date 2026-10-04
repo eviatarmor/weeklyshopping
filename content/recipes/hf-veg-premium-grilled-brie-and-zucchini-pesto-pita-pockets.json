@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Grilled Brie & Zucchini Pesto Pita Pockets",
   "subtitle": "with Seeded Wedges & Tomato Relish",
-  "description": "These handheld pockets of pita goodness, come stacked with only the tastiest of fillings. Herby zucchini meets cheesy brie and welcomes caramelised onions in this trifecta of ingredients. Top it all off with a drizzle of basil pesto and tomato relish and serve it all up with some seeded wedges.\nDue to recent weather, you may see a few more potatoes in your meal kit\nthis week! Sizes are a bit smaller right now, so our team picks enough to match\nyour recipe. Big or small, you’ll always have the right amount for dinner.",
+  "description": "These handheld pockets of pita goodness, come stacked with only the tastiest of fillings. Herby zucchini meets cheesy brie and welcomes caramelised onions in this trifecta of ingredients. Top it all off with a drizzle of basil pesto and tomato relish and serve it all up with some seeded wedges. Due to recent weather, you may see a few more potatoes in your meal kit this week! Sizes are a bit smaller right now, so our team picks enough to match your recipe. Big or small, you’ll always have the right amount for dinner.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/veg-gourmet-grilled-brie-and-zucchini-pesto-pita-pockets-67fc88524babcdca041d7e7c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1058_W40_AU_R43269-6_Main_high-c598990e.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 683,
+    "proteinG": 29.8,
+    "carbsG": 89.7,
+    "fatG": 40.8
+  },
   "tags": [
     "hellofresh",
     "italian",

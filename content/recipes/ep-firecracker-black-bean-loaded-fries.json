@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R4007_W19_AU_EP14101-30_edit_cori_Main_edit_remove_red_onion_edit_high-12c0f3b4.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 632,
+    "proteinG": 29,
+    "carbsG": 70.4,
+    "fatG": 23.9
+  },
   "tags": [
     "everyplate",
     "mexican",

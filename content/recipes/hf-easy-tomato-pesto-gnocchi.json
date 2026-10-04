@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-tomato-pesto-gnocchi-138af5bd.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 920,
+    "proteinG": 21.8,
+    "carbsG": 106.9,
+    "fatG": 43.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1017_W30_AU_R7774-9_Main_chicken_edit_high-ff78f6a6.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 1070,
+    "proteinG": 42.8,
+    "carbsG": 73.1,
+    "fatG": 65
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

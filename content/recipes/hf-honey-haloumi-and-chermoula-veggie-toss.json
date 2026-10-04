@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey Haloumi & Garlicky Veggie Toss",
   "subtitle": "with Garlic Aioli & Almonds",
-  "description": "We're in our light and bright era so only a salad will do. Serve this vegetarian protein on a bed of garlicky veggies and mixed salad leaves. Drizzle with garlic aioli and sprinkle with almonds for the final 'pièce de réisistance'.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "We're in our light and bright era so only a salad will do. Serve this vegetarian protein on a bed of garlicky veggies and mixed salad leaves. Drizzle with garlic aioli and sprinkle with almonds for the final 'pièce de réisistance'. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-haloumi-and-chermoula-veggie-toss-670d24fb4d1132925101cfe3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/670d24fb4d1132925101cfe3-a7161aaf.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 659,
+    "proteinG": 27.3,
+    "carbsG": 38.9,
+    "fatG": 42
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

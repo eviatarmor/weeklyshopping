@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-dukkah-couscous-bowl-cc3e1502.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 726,
+    "proteinG": 31.5,
+    "carbsG": 60.2,
+    "fatG": 39.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

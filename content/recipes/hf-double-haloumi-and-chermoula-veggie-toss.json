@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Double Honey Haloumi & Chermoula Veggie Toss",
   "subtitle": "with Garlic Aioli",
-  "description": "We’re in our light and bright era so only a salad will do. Serve this vegetarian protein on a bed of roasted veggies and mixed salad\nleaves. Drizzle with garlic aioli for the final ‘pièce de résistance’.",
+  "description": "We’re in our light and bright era so only a salad will do. Serve this vegetarian protein on a bed of roasted veggies and mixed salad leaves. Drizzle with garlic aioli for the final ‘pièce de résistance’.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/double-haloumi-and-chermoula-veggie-toss-678474d2f2efe8ce60991635",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/678474d2f2efe8ce60991635-0c607116.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 898,
+    "proteinG": 45.4,
+    "carbsG": 41.5,
+    "fatG": 61.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

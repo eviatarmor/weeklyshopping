@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Cannellini Bean & Roast Veggie Soup",
   "subtitle": "with Garlic Ciabatta & Parsley",
-  "description": "Golden and crispy garlic ciabatta is meant to be used for dipping and dunking and what better pairing could we have created, than by whipping up this cannellini bean soup with a number of hidden veggies for these ciabatta delights?\nWe’ve replaced the plant-based basil pesto in this recipe with fresh parsley due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Golden and crispy garlic ciabatta is meant to be used for dipping and dunking and what better pairing could we have created, than by whipping up this cannellini bean soup with a number of hidden veggies for these ciabatta delights? We’ve replaced the plant-based basil pesto in this recipe with fresh parsley due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/cannellini-bean-and-veggie-soup-67f833ec4264524ca978b1e4",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R30_W44_AUS_Main_high-a50f5339.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 551,
+    "proteinG": 22.5,
+    "carbsG": 76.7,
+    "fatG": 13
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Warm Beetroot, Brie & Crouton Salad",
   "subtitle": "with Garlic-Chilli Oil & Walnuts",
-  "description": "Switch up your average salad experience by adding double cream Brie, croutons and savoury-spiced beetroot. Add some spectacular\nfinishing touches with garlic-chilli oil and a scattering of walnuts.",
+  "description": "Switch up your average salad experience by adding double cream Brie, croutons and savoury-spiced beetroot. Add some spectacular finishing touches with garlic-chilli oil and a scattering of walnuts.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/nid-nz-warm-beetroot-and-brie-crouton-salad-6810456080e0f84c774ce704",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1017_W41_AU_R43998-6_edit_Main_high-701d03ae.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 471,
+    "proteinG": 22.5,
+    "carbsG": 50,
+    "fatG": 38.8
+  },
   "tags": [
     "hellofresh",
     "australian",

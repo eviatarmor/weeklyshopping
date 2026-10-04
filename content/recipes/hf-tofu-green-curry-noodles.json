@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Tofu & Green Curry Noodles",
   "subtitle": "with Veggies & Peanuts",
-  "description": "Topped with peanutty tofu, this fragrant meal packs oodles of flavour into every mouthful. The Thai green curry paste works its\nmagic with the creamy coconut milk to create the moreish sauce, which the chewy udon and tender veggies mop up happily.\nDon't forget to add the lemon and plant-based fish sauce for some zing and to cut through the richness.\nThe current labour\nshortages have impacted\navailability of ingredients\nacross the entire food\nsupply chain. As such,\nwhat you receive may\nbe slightly different to\nwhat’s pictured. Don’t\nworry, your recipe will be\njust as delicious!",
+  "description": "Topped with peanutty tofu, this fragrant meal packs oodles of flavour into every mouthful. The Thai green curry paste works its magic with the creamy coconut milk to create the moreish sauce, which the chewy udon and tender veggies mop up happily. Don't forget to add the lemon and plant-based fish sauce for some zing and to cut through the richness. The current labour shortages have impacted availability of ingredients across the entire food supply chain. As such, what you receive may be slightly different to what’s pictured. Don’t worry, your recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/tofu-green-curry-noodles-624d00e13ef63c4cf521ded0",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tofu-green-curry-noodles-201b8640.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 821,
+    "proteinG": 32.7,
+    "carbsG": 77.4,
+    "fatG": 38.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

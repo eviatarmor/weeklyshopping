@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6796cb99183b5afa14503ea7-f815d56b.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 847,
+    "proteinG": 38.5,
+    "carbsG": 74.8,
+    "fatG": 35.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -135,7 +141,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6796cb99183b5afa14503ea7-c99a323b.jpeg"
     },
     {
-      "text": "• Divide creamy mushroom and white bean pie with cheesy mashed potato topping between plates to serve. Enjoy!",
+      "text": "Divide creamy mushroom and white bean pie with cheesy mashed potato topping between plates to serve. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6796cb99183b5afa14503ea7-e1cccc4e.jpeg"
     }
   ]

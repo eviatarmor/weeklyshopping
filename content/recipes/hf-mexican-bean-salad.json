@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-bean-salad-17f12e25.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 650,
+    "proteinG": 20.8,
+    "carbsG": 56.3,
+    "fatG": 38.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -104,21 +110,21 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, rinse the quinoa well. Husk the corn and slice the kernels off the cob. Peel and crush the garlic, and drain and rinse the red kidney beans. Pick the coriander eaves, dice the tomato, cube the avocado, juice the lime, and finely slice the long red chilli (deseeded)."
+      "text": "To prepare the ingredients, rinse the quinoa well. Husk the corn and slice the kernels off the cob. Peel and crush the garlic, and drain and rinse the red kidney beans. Pick the coriander eaves, dice the tomato, cube the avocado, juice the lime, and finely slice the long red chilli (deseeded)."
     },
     {
-      "text": "• Place the quinoa and water in a medium saucepan, cover with a lid and bring to the boil. Remove the lid and reduce to a medium heat. Simmer for 8-10 minutes, or until the quinoa is tender and the water has absorbed (drain excess water)"
+      "text": "Place the quinoa and water in a medium saucepan, cover with a lid and bring to the boil. Remove the lid and reduce to a medium heat. Simmer for 8-10 minutes, or until the quinoa is tender and the water has absorbed (drain excess water)"
     },
     {
-      "text": "• Meanwhile, heat a dash of olive oil in a medium frying pan over a medium-high heat. Add the corn kernels to the pan and cook for 2-3 minutes, or until they start to sizzle and go golden. Add the garlic, red kidney beans and Mexican spice mix to the pan. Cook for a further 3 minutes, or until fragrant. Transfer the mixture to a large bowl and stir through half the coriander, the cooked quinoa, fresh tomato and the avocado (reserving a few cubes for the garnish). Set aside.",
+      "text": "Meanwhile, heat a dash of olive oil in a medium frying pan over a medium-high heat. Add the corn kernels to the pan and cook for 2-3 minutes, or until they start to sizzle and go golden. Add the garlic, red kidney beans and Mexican spice mix to the pan. Cook for a further 3 minutes, or until fragrant. Transfer the mixture to a large bowl and stir through half the coriander, the cooked quinoa, fresh tomato and the avocado (reserving a few cubes for the garnish). Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585722406121bb3d5a25c032-2-0-8bf2b819.jpg"
     },
     {
-      "text": "• In a small jug or bowl combine the remaining olive oil, lime juice and long red chilli (to taste). Season with salt and pepper. Pour over the salad and stir to coat the quinoa.",
+      "text": "In a small jug or bowl combine the remaining olive oil, lime juice and long red chilli (to taste). Season with salt and pepper. Pour over the salad and stir to coat the quinoa.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/585722406121bb3d5a25c032-3-0-f4735e96.jpg"
     },
     {
-      "text": "• To serve, divide the Mexican quinoa salad between bowls. Top with the remaining avocado and coriander if you like. Enjoy!"
+      "text": "To serve, divide the Mexican quinoa salad between bowls. Top with the remaining avocado and coriander if you like. Enjoy!"
     }
   ]
 }

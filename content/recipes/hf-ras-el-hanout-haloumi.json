@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Ras El Hanout Haloumi",
   "subtitle": "with Dukkah Roast Veggie Toss & Garlic Aioli",
-  "description": "We set out to make a dish that incorporates as many vibrant and colourful veggies as possible and it looks like we've achieved just\nthat! This one tastes just as good as it looks, with ras el hanout-spiced haloumi (which is seared to perfection) and a veggie toss with the\nlikes of potato, carrot, zucchini and beetroot.",
+  "description": "We set out to make a dish that incorporates as many vibrant and colourful veggies as possible and it looks like we've achieved just that! This one tastes just as good as it looks, with ras el hanout-spiced haloumi (which is seared to perfection) and a veggie toss with the likes of potato, carrot, zucchini and beetroot.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/ras-el-hanout-haloumi-6422876a57e9bf4828029872",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/ras-el-hanout-haloumi-a4454dd4.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 724,
+    "proteinG": 28.1,
+    "carbsG": 38.8,
+    "fatG": 50.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -109,7 +115,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6422876a57e9bf4828029872/step-68102120.jpg"
     },
     {
-      "text": "• Meanwhile, drain haloumi and pat dry. in a medium bowl, combine ras el hanout seasoning, a drizzle of olive oil and a pinch of salt and pepper. Add haloumi and toss to coat.",
+      "text": "Meanwhile, drain haloumi and pat dry. in a medium bowl, combine ras el hanout seasoning, a drizzle of olive oil and a pinch of salt and pepper. Add haloumi and toss to coat.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6422876a57e9bf4828029872/step-1474eb8c.jpg"
     },
     {
@@ -117,7 +123,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6422876a57e9bf4828029872/step-aa32ca3c.jpg"
     },
     {
-      "text": "• When the veggies are done, add baby spinach leaves and a drizzle of vinegar to the tray. Toss to combine.",
+      "text": "When the veggies are done, add baby spinach leaves and a drizzle of vinegar to the tray. Toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6422876a57e9bf4828029872/step-30addf31.jpg"
     },
     {

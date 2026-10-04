@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-butter-bean-pie-9c4a9462.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 737,
+    "proteinG": 28.8,
+    "carbsG": 77.5,
+    "fatG": 31.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

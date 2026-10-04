@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Bean & Mushroom Potato Top Pie",
   "subtitle": "with Cheesy Pangrattato & Salad",
-  "description": "We always say that cheese fixes everything – not that this dish needs any fixing – it's unlike anything we've ever whipped up\nbefore! With a butter bean and veggie filling, plus umami-rich mushrooms, the mash and cheesy pangrattato topping only makes\nthis meal just that much better!",
+  "description": "We always say that cheese fixes everything – not that this dish needs any fixing – it's unlike anything we've ever whipped up before! With a butter bean and veggie filling, plus umami-rich mushrooms, the mash and cheesy pangrattato topping only makes this meal just that much better!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/bean-mushroom-potato-top-pie-63a50858023fcb1d7901065e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bean-mushroom-potato-top-pie-421dd3f4.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 681,
+    "proteinG": 24.6,
+    "carbsG": 68.4,
+    "fatG": 30.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

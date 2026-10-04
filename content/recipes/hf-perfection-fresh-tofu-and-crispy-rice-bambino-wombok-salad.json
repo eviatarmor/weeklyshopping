@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W39_AU_R45345-8_Main_high-2f74a447.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 689,
+    "proteinG": 23.3,
+    "carbsG": 78.4,
+    "fatG": 29.8
+  },
   "tags": [
     "hellofresh",
     "chinese",

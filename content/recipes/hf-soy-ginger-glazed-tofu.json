@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Soy-Ginger Glazed Tofu",
   "subtitle": "with Garlicky Stir-Fried Greens",
-  "description": "Let's keep things light and bright with some garlicky baby broccoli and zucchini and then take it up a notch with some soy-ginger glazed tofu. it's equally fresh, flavourful and mighty!\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "Let's keep things light and bright with some garlicky baby broccoli and zucchini and then take it up a notch with some soy-ginger glazed tofu. it's equally fresh, flavourful and mighty! This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/soy-ginger-glazed-barramundi-67f83eec0d0527cba53a893b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67a01aed3b75a6f3f15e7ab5-ee2ea8c4-9f70add3.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 284,
+    "proteinG": 17.3,
+    "carbsG": 15.4,
+    "fatG": 16.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

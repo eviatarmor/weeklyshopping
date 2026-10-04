@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56c2742b4dab71c4488b4568.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 641,
+    "proteinG": 23.6,
+    "carbsG": 60.6,
+    "fatG": 30
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -105,26 +111,26 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare ingredients, peel carrots and cut into 2 cm rounds, peel sweet potato and cut into 2 cm cubes, finely chop the red onion, peel and finely grate ginger, peel and crush garlic, finely chop the parsley.",
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare ingredients, peel carrots and cut into 2 cm rounds, peel sweet potato and cut into 2 cm cubes, finely chop the red onion, peel and finely grate ginger, peel and crush garlic, finely chop the parsley.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56c2742b4dab71c4488b4568/step_56c4043630cd0.jpg"
     },
     {
-      "text": "• Toss the sweet potato and carrots in half of the olive oil and place them on the prepared tray. Season generously with salt and pepper. Cook in the oven for 25 minutes or until the vegetables are tender."
+      "text": "Toss the sweet potato and carrots in half of the olive oil and place them on the prepared tray. Season generously with salt and pepper. Cook in the oven for 25 minutes or until the vegetables are tender."
     },
     {
       "text": "Meanwhile, heat the remaining oil in a large pot over a medium-high heat. Add the red onion, and cook for 5 minutes or until the onion is soft. Add the ginger and garlic, and cook, stirring, for 1-2 minutes or until fragrant. Add the vegetable stock powder and hot water and bring to a boil. Remove from the heat, and add the roasted vegetables.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56c2742b4dab71c4488b4568/step_56c4056af1db7.jpg"
     },
     {
-      "text": "• Place the bread rolls and sunflower seeds on the other oven tray and pop in the oven 5 minutes before serving the soup.",
+      "text": "Place the bread rolls and sunflower seeds on the other oven tray and pop in the oven 5 minutes before serving the soup.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56c2742b4dab71c4488b4568/step_56c4056b13767.jpg"
     },
     {
-      "text": "• Blend the sweet potato, carrot and stock mixture until smooth using a stick blender or regular blender.",
+      "text": "Blend the sweet potato, carrot and stock mixture until smooth using a stick blender or regular blender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56c2742b4dab71c4488b4568/step_56c4056b215ce.jpg"
     },
     {
-      "text": "• To serve, spoon the soup into bowls, top with dots of the chevre goat cheese, a sprinkle of sunflower seeds and garnish with the parsley. Enjoy with the crusty bread rolls."
+      "text": "To serve, spoon the soup into bowls, top with dots of the chevre goat cheese, a sprinkle of sunflower seeds and garnish with the parsley. Enjoy with the crusty bread rolls."
     }
   ]
 }

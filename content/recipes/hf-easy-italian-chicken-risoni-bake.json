@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-italian-chicken-risoni-bake-f8d647ae.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 812,
+    "proteinG": 31.3,
+    "carbsG": 91.9,
+    "fatG": 33.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

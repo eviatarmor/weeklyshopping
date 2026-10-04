@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mediterranean-falafel-tacos-aa951da1.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 776,
+    "proteinG": 23.9,
+    "carbsG": 74.1,
+    "fatG": 38.8
+  },
   "tags": [
     "vegetarian",
     "everyplate",

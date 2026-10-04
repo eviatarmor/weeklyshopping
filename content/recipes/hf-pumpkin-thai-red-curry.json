@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/552f310c6ced6e9b3c8b456d.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 605,
+    "proteinG": 23.6,
+    "carbsG": 40.9,
+    "fatG": 34.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -109,21 +115,21 @@
   ],
   "steps": [
     {
-      "text": "• Place the rice into a sieve and rinse it with cold tap water. The water will initially become cloudy, continue to rinse until the water becomes clear enough (it doesn’t need to be crystal). Bring a large pot of salted water to the boil. Add the rice and cook it for 10-12 minutes or until soft. Drain. Meanwhile peel and cut the pumpkin into 2cm cubes.",
+      "text": "Place the rice into a sieve and rinse it with cold tap water. The water will initially become cloudy, continue to rinse until the water becomes clear enough (it doesn’t need to be crystal). Bring a large pot of salted water to the boil. Add the rice and cook it for 10-12 minutes or until soft. Drain. Meanwhile peel and cut the pumpkin into 2cm cubes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f310c6ced6e9b3c8b456d/step_556d80d640bf9.jpg"
     },
     {
-      "text": "• Heat the vegetable oil in a large, heavy-based saucepan over a medium-high heat. Add the onion and pumpkin. Cook, stirring occasionally, for 6 minutes or until light golden. Stir in the curry paste. Cook for 1 minute (if you are afraid of heat, add the paste a little at a time until the required taste is achieved).",
+      "text": "Heat the vegetable oil in a large, heavy-based saucepan over a medium-high heat. Add the onion and pumpkin. Cook, stirring occasionally, for 6 minutes or until light golden. Stir in the curry paste. Cook for 1 minute (if you are afraid of heat, add the paste a little at a time until the required taste is achieved).",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f310c6ced6e9b3c8b456d/step_556d80d6544e5.jpg"
     },
     {
-      "text": "• Add the coconut milk, water, vegetable stock and the lentils. Bring to the boil. Reduce the heat to medium. Simmer, uncovered, stirring occasionally, for 15 minutes. Add the fish sauce and simmer for a further 3 minutes."
+      "text": "Add the coconut milk, water, vegetable stock and the lentils. Bring to the boil. Reduce the heat to medium. Simmer, uncovered, stirring occasionally, for 15 minutes. Add the fish sauce and simmer for a further 3 minutes."
     },
     {
-      "text": "• Whilst your curry is simmering, steam your bok choy for 2-3 minutes or until vibrant green in colour and slightly crunchy."
+      "text": "Whilst your curry is simmering, steam your bok choy for 2-3 minutes or until vibrant green in colour and slightly crunchy."
     },
     {
-      "text": "• Serve your curry on a bed of rice with the bok choy, sprinkle over some coriander if you wish!",
+      "text": "Serve your curry on a bed of rice with the bok choy, sprinkle over some coriander if you wish!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/552f310c6ced6e9b3c8b456d/step_556d80d6860b2.jpg"
     }
   ]

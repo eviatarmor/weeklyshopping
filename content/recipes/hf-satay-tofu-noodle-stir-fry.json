@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/564c066ff8b25e434e8b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 540,
+    "proteinG": 27,
+    "carbsG": 64.8,
+    "fatG": 17.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -99,18 +105,18 @@
   ],
   "steps": [
     {
-      "text": "• Bring a kettle full of water to the boil. To prepare the ingredients, peel and grate the ginger, and peel and crush the garlic. Slice the spring onions. Cube the tofu. Peel the carrot and cut into matchsticks. Quarter the bok choy lengthways."
+      "text": "Bring a kettle full of water to the boil. To prepare the ingredients, peel and grate the ginger, and peel and crush the garlic. Slice the spring onions. Cube the tofu. Peel the carrot and cut into matchsticks. Quarter the bok choy lengthways."
     },
     {
-      "text": "• In a small bowl, combine the hoisin sauce, salt-reduced soy sauce, water, ginger and garlic. Set aside.",
+      "text": "In a small bowl, combine the hoisin sauce, salt-reduced soy sauce, water, ginger and garlic. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c066ff8b25e434e8b4567/step_564c07a5334f0.jpg"
     },
     {
-      "text": "• Place the ramen noodles in a heatproof bowl and pour over the boiling water. Soak for 1 minute. Drain.",
+      "text": "Place the ramen noodles in a heatproof bowl and pour over the boiling water. Soak for 1 minute. Drain.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c066ff8b25e434e8b4567/step_564c07a55278c.jpg"
     },
     {
-      "text": "• Heat the vegetable oil in a large wok or frying pan over a medium-high heat. Add the Malaysian peanut satay tofu and stir fry for 1-2 minutes or until golden. Set aside.",
+      "text": "Heat the vegetable oil in a large wok or frying pan over a medium-high heat. Add the Malaysian peanut satay tofu and stir fry for 1-2 minutes or until golden. Set aside.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c066ff8b25e434e8b4567/step_564c07a56148f.jpg"
     },
     {
@@ -118,7 +124,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/564c066ff8b25e434e8b4567/step_564c07a57e052.jpg"
     },
     {
-      "text": "• Divide the noodles between bowls and enjoy!"
+      "text": "Divide the noodles between bowls and enjoy!"
     }
   ]
 }

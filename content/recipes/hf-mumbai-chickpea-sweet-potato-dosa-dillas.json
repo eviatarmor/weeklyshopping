@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mumbai-chickpea-sweet-potato-dosa-dillas-f8644a25.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 886,
+    "proteinG": 29.6,
+    "carbsG": 97.6,
+    "fatG": 38.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

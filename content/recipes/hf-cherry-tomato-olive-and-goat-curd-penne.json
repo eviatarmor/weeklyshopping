@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56022abc4dab71e71f8b4568.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 676,
+    "proteinG": 20.5,
+    "carbsG": 94.8,
+    "fatG": 22.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -75,19 +81,19 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, halve the cherry tomatoes. Finely slice the red onion, olives, and basil. Peel and crush the garlic."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. To prepare the ingredients, halve the cherry tomatoes. Finely slice the red onion, olives, and basil. Peel and crush the garlic."
     },
     {
-      "text": "• Toss the cherry tomatoes in half of the olive oil and season with salt and pepper. Lay out on a lined oven tray and cook in the oven for 15-20 minutes or until blackened at the edges and beginning to collapse."
+      "text": "Toss the cherry tomatoes in half of the olive oil and season with salt and pepper. Lay out on a lined oven tray and cook in the oven for 15-20 minutes or until blackened at the edges and beginning to collapse."
     },
     {
-      "text": "• Meanwhile, bring a large pot of salted water to the boil. Add the penne pasta and cook for 10 minutes or until ‘al dente’. Reserve 2 tablespoons of the pasta water. Drain."
+      "text": "Meanwhile, bring a large pot of salted water to the boil. Add the penne pasta and cook for 10 minutes or until ‘al dente’. Reserve 2 tablespoons of the pasta water. Drain."
     },
     {
-      "text": "• While the pasta is cooking, heat the remaining olive oil in a medium frying pan. Add the red onion and cook, stirring, for 3 minutes or until softened. Add the garlic and cook for 1 minute or until fragrant. Add the cherry tomatoes, reserved pasta cooking water, pitted kalamata olives and basil. Cook, stirring, until heated through. Season to taste with salt and pepper. Toss the drained penne through the tomato mixture in the pan."
+      "text": "While the pasta is cooking, heat the remaining olive oil in a medium frying pan. Add the red onion and cook, stirring, for 3 minutes or until softened. Add the garlic and cook for 1 minute or until fragrant. Add the cherry tomatoes, reserved pasta cooking water, pitted kalamata olives and basil. Cook, stirring, until heated through. Season to taste with salt and pepper. Toss the drained penne through the tomato mixture in the pan."
     },
     {
-      "text": "• Divide between serving bowls and dot with the fresh goat curd."
+      "text": "Divide between serving bowls and dot with the fresh goat curd."
     }
   ]
 }

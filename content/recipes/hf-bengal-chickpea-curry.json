@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/56de6a88f8b25e2d4d8b4567.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 609,
+    "proteinG": 19.4,
+    "carbsG": 107,
+    "fatG": 8.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -97,18 +103,18 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely slice the brown onion, cut the sweet potato into cubes, cut the zucchini into 1 cm thick chunks, drain and rinse the chickpeas, rinse the Jasmine rice and cut the lime into wedges.",
+      "text": "To prepare the ingredients, finely slice the brown onion, cut the sweet potato into cubes, cut the zucchini into 1 cm thick chunks, drain and rinse the chickpeas, rinse the Jasmine rice and cut the lime into wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56de6a88f8b25e2d4d8b4567/step_56de6b8a9dd3d.jpg"
     },
     {
-      "text": "• Heat the olive oil in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for 3 minutes or until soft. Add the Bengal curry paste and cook, stirring, for 1 minute or until fragrant. Add the sweet potato and zucchini and cook, stirring, for 5 minutes or until just tender. Add the chickpeas to the pan with the warm water and stir to coat in the curry paste. Reduce the heat to low and simmer, covered, for 15 minutes or until the sweet potato is tender. Remove the pan from the heat and stir through half of the yoghurt.",
+      "text": "Heat the olive oil in a medium frying pan over a medium-high heat. Add the brown onion and cook, stirring, for 3 minutes or until soft. Add the Bengal curry paste and cook, stirring, for 1 minute or until fragrant. Add the sweet potato and zucchini and cook, stirring, for 5 minutes or until just tender. Add the chickpeas to the pan with the warm water and stir to coat in the curry paste. Reduce the heat to low and simmer, covered, for 15 minutes or until the sweet potato is tender. Remove the pan from the heat and stir through half of the yoghurt.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/56de6a88f8b25e2d4d8b4567/step_56de6b8ab3890.jpg"
     },
     {
-      "text": "• Meanwhile, place the Jasmine rice and the water in a medium saucepan and bring to the boil over a high heat. Reduce the heat to medium and simmer, uncovered, for 10-12 minutes or until the rice is soft. Drain."
+      "text": "Meanwhile, place the Jasmine rice and the water in a medium saucepan and bring to the boil over a high heat. Reduce the heat to medium and simmer, uncovered, for 10-12 minutes or until the rice is soft. Drain."
     },
     {
-      "text": "• Divide the rice and curry between bowls. Dollop with the remaining yoghurt and serve with the lime wedges."
+      "text": "Divide the rice and curry between bowls. Dollop with the remaining yoghurt and serve with the lime wedges."
     }
   ]
 }

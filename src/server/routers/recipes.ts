@@ -6,6 +6,7 @@ import { recipeSource } from "@/shared/sources";
 import { protectedProcedure, router, type Context } from "../trpc";
 import { itemHistory, products, recipeCooked, recipeIngredients, recipeRatings, recipes } from "../db/schema";
 import { addItems, setUsuallyHave } from "../list-service";
+import { recommend } from "../recommend";
 
 type DB = Context["db"];
 
@@ -44,31 +45,54 @@ function collectBlends(db: DB, rows: IngredientRow[]): Record<string, BlendRecip
   return blends;
 }
 
+/** Card data for recipe lists: ratings and cooked history grouped per recipe. */
+function summaries(db: DB, userEmail: string, rows: (typeof recipes.$inferSelect)[]) {
+  const ratingsBySlug = new Map<string, (typeof recipeRatings.$inferSelect)[]>();
+  for (const r of db.select().from(recipeRatings).all()) ratingsBySlug.set(r.recipeSlug, [...(ratingsBySlug.get(r.recipeSlug) ?? []), r]);
+  const cookedBySlug = new Map<string, number[]>();
+  for (const c of db.select().from(recipeCooked).all()) cookedBySlug.set(c.recipeSlug, [...(cookedBySlug.get(c.recipeSlug) ?? []), c.cookedAt]);
+  return rows.map((r) => {
+    const ratings = ratingsBySlug.get(r.slug) ?? [];
+    const cookedTimes = cookedBySlug.get(r.slug) ?? [];
+    return {
+      slug: r.slug,
+      title: r.title,
+      subtitle: r.subtitle,
+      imageUrl: r.imageUrl,
+      source: recipeSource(r.sourceUrl),
+      prepMinutes: r.prepMinutes,
+      kcal: r.kcal,
+      tags: r.tags,
+      addedAt: r.addedAt,
+      avgStars: ratings.length ? ratings.reduce((s, x) => s + x.stars, 0) / ratings.length : null,
+      ratingCount: ratings.length,
+      myStars: ratings.find((x) => x.userEmail === userEmail)?.stars ?? null,
+      timesCooked: cookedTimes.length,
+      lastCookedAt: cookedTimes.length ? Math.max(...cookedTimes) : null,
+    };
+  });
+}
+
 export const recipesRouter = router({
   list: protectedProcedure.input(z.object({ kind: z.enum(["meal", "blend"]).default("meal") }).optional()).query(({ ctx, input }) => {
     const kind = input?.kind ?? "meal";
-    const all = ctx.db.select().from(recipes).where(eq(recipes.kind, kind)).all();
-    const ratings = ctx.db.select().from(recipeRatings).all();
-    const cooked = ctx.db.select().from(recipeCooked).all();
-    return all.map((r) => {
-      const mine = ratings.filter((x) => x.recipeSlug === r.slug);
-      const cookedTimes = cooked.filter((c) => c.recipeSlug === r.slug).map((c) => c.cookedAt);
-      return {
-        slug: r.slug,
-        title: r.title,
-        subtitle: r.subtitle,
-        imageUrl: r.imageUrl,
-        source: recipeSource(r.sourceUrl),
-        prepMinutes: r.prepMinutes,
-        tags: r.tags,
-        addedAt: r.addedAt,
-        avgStars: mine.length ? mine.reduce((s, x) => s + x.stars, 0) / mine.length : null,
-        ratingCount: mine.length,
-        myStars: mine.find((x) => x.userEmail === ctx.user.email)?.stars ?? null,
-        timesCooked: cookedTimes.length,
-        lastCookedAt: cookedTimes.length ? Math.max(...cookedTimes) : null,
-      };
-    });
+    return summaries(ctx.db, ctx.user.email, ctx.db.select().from(recipes).where(eq(recipes.kind, kind)).all());
+  }),
+
+  /** Meals similar to what this user rated highly (and unlike what they rated low). */
+  recommended: protectedProcedure.input(z.object({ limit: z.number().int().min(1).max(30).default(12) }).optional()).query(({ ctx, input }) => {
+    const result = recommend(ctx.db, ctx.contentHash, ctx.user.email, input?.limit ?? 12);
+    const rows = result.items.length
+      ? ctx.db.select().from(recipes).where(inArray(recipes.slug, result.items.map((i) => i.slug))).all()
+      : [];
+    const bySlug = new Map(summaries(ctx.db, ctx.user.email, rows).map((s) => [s.slug, s]));
+    return {
+      basedOn: result.basedOn,
+      items: result.items.flatMap((i) => {
+        const summary = bySlug.get(i.slug);
+        return summary ? [{ ...summary, because: i.because }] : [];
+      }),
+    };
   }),
 
   get: protectedProcedure.input(z.object({ slug: z.string() })).query(({ ctx, input }) => {

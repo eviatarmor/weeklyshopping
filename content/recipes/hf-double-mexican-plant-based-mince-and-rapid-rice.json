@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67b349e02ccb8b03ddc0f5a4-09f5a22d.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 1056,
+    "proteinG": 50.5,
+    "carbsG": 95.6,
+    "fatG": 49.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -119,7 +125,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67b349e02ccb8b03ddc0f5a4-d0866d75.jpeg"
     },
     {
-      "text": "• Divide rapid rice and Mexican plant-based mince between bowls. Dollop over light sour cream and tear over coriander to serve. Enjoy!",
+      "text": "Divide rapid rice and Mexican plant-based mince between bowls. Dollop over light sour cream and tear over coriander to serve. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67b349e02ccb8b03ddc0f5a4-4e5b650e.jpeg"
     }
   ]

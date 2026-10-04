@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Pesto & Cherry Tomato Pasta",
   "subtitle": "with Apple & Almond Salad",
-  "description": "With some help from our brightly flavoured basil pesto and some blistered cherry tomatoes, your weeknight pasta just got a whole lot fancier.\nThe recent harsh weather conditions have impacted the zucchini grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
+  "description": "With some help from our brightly flavoured basil pesto and some blistered cherry tomatoes, your weeknight pasta just got a whole lot fancier. The recent harsh weather conditions have impacted the zucchini grown by our farmers. The quality and freshness is still the same, but they may be a little smaller than usual.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/pesto-and-cherry-tomato-pasta-6153b8be7ec55a3983261431",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/quick-pesto-cherry-tomato-pasta-78ecd1fb.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 857,
+    "proteinG": 25.4,
+    "carbsG": 87.8,
+    "fatG": 42.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Moroccan Haloumi & Roast Veggie Toss",
   "subtitle": "with Fetta & Garlic Sauce",
-  "description": "A feast for the eyes and the tastebuds, this colourful confetti of roasted veggies is sure to put you in a good mood... especially when topped with juicy, ras el hanout coated haloumi. Tie the components together with crumbled fetta for a little saltiness and tang, plus our garlic sauce for creaminess.\nThis recipe is under 650kcal per serving.",
+  "description": "A feast for the eyes and the tastebuds, this colourful confetti of roasted veggies is sure to put you in a good mood... especially when topped with juicy, ras el hanout coated haloumi. Tie the components together with crumbled fetta for a little saltiness and tang, plus our garlic sauce for creaminess. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/moroccan-haloumi-and-roast-veggie-toss-63c8e479e408622c6b0efd90",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/dukkah-chicken-roast-vegetables-ea2ce65e.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 639,
+    "proteinG": 27.3,
+    "carbsG": 47.9,
+    "fatG": 37.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

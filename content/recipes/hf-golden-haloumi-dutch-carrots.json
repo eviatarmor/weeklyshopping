@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/golden-haloumi-dutch-carrots-5c8e52d8.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 743,
+    "proteinG": 30.3,
+    "carbsG": 57.8,
+    "fatG": 41.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Spinach Falafel Couscous Bowl",
   "subtitle": "with Fetta Salsa, Dill-Parsley Yoghurt & Flaked Almonds",
-  "description": "Have a ball with dinner – a ball of lightly spiced chickpeas blended with spinach and coriander, that is! Yep, we’re talking about\nfalafels! With couscous, herby yoghurt dressing, flaked almonds and fetta salsa, they make a dinner that's got the lot.",
+  "description": "Have a ball with dinner – a ball of lightly spiced chickpeas blended with spinach and coriander, that is! Yep, we’re talking about falafels! With couscous, herby yoghurt dressing, flaked almonds and fetta salsa, they make a dinner that's got the lot.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/spinach-falafel-couscous-bowl-5bab027230006c461551ea62",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/spinach-falafel-couscous-bowl-ef57956d.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 733,
+    "proteinG": 23.3,
+    "carbsG": 48.5,
+    "fatG": 57.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

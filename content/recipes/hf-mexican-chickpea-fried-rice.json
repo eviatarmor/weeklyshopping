@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Chickpea Fried Rice",
   "subtitle": "with Cheddar, Chipotle Sour Cream & Jalapeños",
-  "description": "You thought you knew fried rice, but then we made it Mexican! This one is brimming with hearty chickpeas, vibrant veggies and\nMexican spices for some heat. Top with cheese, a refreshing coriander-spiked salsa and a dollop of the cooling sour cream.\nUnfortunately, this week’s black beans were in short supply, so we’ve replaced them with chickpeas. Don’t worry, the recipe will be just as delicious!",
+  "description": "You thought you knew fried rice, but then we made it Mexican! This one is brimming with hearty chickpeas, vibrant veggies and Mexican spices for some heat. Top with cheese, a refreshing coriander-spiked salsa and a dollop of the cooling sour cream. Unfortunately, this week’s black beans were in short supply, so we’ve replaced them with chickpeas. Don’t worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-chickpea-fried-rice-624d0562a3fddc1a051e53ef",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-chickpea-fried-rice-517ba84d.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 812,
+    "proteinG": 28.6,
+    "carbsG": 103.5,
+    "fatG": 25.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

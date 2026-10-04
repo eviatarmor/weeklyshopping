@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1009_W34_AU_R5326-18main_add_dollop_mango_chutney_edit_high-7f5b2799.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 805,
+    "proteinG": 29.3,
+    "carbsG": 90,
+    "fatG": 33.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

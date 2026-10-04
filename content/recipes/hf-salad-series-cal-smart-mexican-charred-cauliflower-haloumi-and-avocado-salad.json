@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Charred Cauliflower, Haloumi & Avocado Salad",
   "subtitle": "with Creamy Chipotle Dressing",
-  "description": "This week's special ingredient is Avocado - creamy, dreamy and packed with goodness! Give your avocado a gentle squeeze - ripe avocados yield slightly but aren’t mushy! If yours is firm, let it ripen on the bench (not the fridge!) until it’s just right. \nThis recipe is under 650kcal per serving.",
+  "description": "This week's special ingredient is Avocado - creamy, dreamy and packed with goodness! Give your avocado a gentle squeeze - ripe avocados yield slightly but aren’t mushy! If yours is firm, let it ripen on the bench (not the fridge!) until it’s just right. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/salad-series-cal-smart-mexican-charred-cauliflower-and-avocado-salad-67f84e58cade9b9f0ace2cde",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1008_W22_AUS_Main_high-59341edd.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 377,
+    "proteinG": 23.2,
+    "carbsG": 15.3,
+    "fatG": 24.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

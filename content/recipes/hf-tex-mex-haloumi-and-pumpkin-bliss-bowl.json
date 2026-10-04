@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tex-mex-haloumi-roast-veggie-buddha-bowl-a1d641eb.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 708,
+    "proteinG": 28,
+    "carbsG": 39.6,
+    "fatG": 48
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -125,7 +131,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/643e38d20ae08dc03809b458/step-e91420b8.jpg"
     },
     {
-      "text": "• Heat a large frying pan over high heat. Cook sweetcorn until lightly browned, 4-5 minutes. Transfer to a second medium bowl. TIP: Cover the pan with a lid if the corn kernels are “popping” out.",
+      "text": "Heat a large frying pan over high heat. Cook sweetcorn until lightly browned, 4-5 minutes. Transfer to a second medium bowl. TIP: Cover the pan with a lid if the corn kernels are “popping” out.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/643e38d20ae08dc03809b458/step-81ca0a43.jpg"
     },
     {
@@ -133,7 +139,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/643e38d20ae08dc03809b458/step-a8dc292e.jpg"
     },
     {
-      "text": "• Meanwhile, to the bowl with the charred corn, add shredded cabbage mix, a good pinch of salt, sugar and a drizzle of white wine vinegar and olive oil.",
+      "text": "Meanwhile, to the bowl with the charred corn, add shredded cabbage mix, a good pinch of salt, sugar and a drizzle of white wine vinegar and olive oil.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/643e38d20ae08dc03809b458/step-10ddbf57.jpg"
     },
     {

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Red Kidney Bean Patties & Japanese Slaw",
   "subtitle": "with Sesame Wedges & Soy Mayo",
-  "description": "These super-satisfying veggie patties are packed full of flavour and they’re perfect for a easy mid-week meal. The secret ingredient\nis our famous caramelised onion chutney which balances out the rich, savoury flavour of the kidney beans. Bring it all together\nwith a fresh Japanese slaw, hearty sesame wedges and a dollop of soy mayo.",
+  "description": "These super-satisfying veggie patties are packed full of flavour and they’re perfect for a easy mid-week meal. The secret ingredient is our famous caramelised onion chutney which balances out the rich, savoury flavour of the kidney beans. Bring it all together with a fresh Japanese slaw, hearty sesame wedges and a dollop of soy mayo.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/red-kidney-bean-patties-and-japanese-slaw-6475b167d7b6ef458c0278a2",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/butter-bean-patties-japanese-slaw-56954fa0.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 781,
+    "proteinG": 31.7,
+    "carbsG": 84.1,
+    "fatG": 30.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

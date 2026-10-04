@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Hearty Tomato & Veggie Risoni Soup",
   "subtitle": "with Parmesan Cheese",
-  "description": "This rich vegetable delight is the dish of your Italian dreams. Teamed with risoni pasta and a dash of cheese, it's warm, it's hearty and it's just like Nonna used to make!\nKeep an eye out...\nDue to recent sourcing challenges, we’ve swapped zucchini for celery, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
+  "description": "This rich vegetable delight is the dish of your Italian dreams. Teamed with risoni pasta and a dash of cheese, it's warm, it's hearty and it's just like Nonna used to make! Keep an eye out... Due to recent sourcing challenges, we’ve swapped zucchini for celery, which may look different to the picture. Don’t worry, your recipe will be just as tasty.",
   "sourceUrl": "https://www.everyplate.com.au/recipes/hearty-tomato-and-veggie-risoni-soup-62a2814a9ed0d3e2b5038bf0",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/hearty-tomato-veggie-risoni-soup-22f6ddce.jpg",
   "servings": 2,
   "prepMinutes": 22,
+  "nutrition": {
+    "kcal": 571,
+    "proteinG": 20.9,
+    "carbsG": 76.1,
+    "fatG": 18.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

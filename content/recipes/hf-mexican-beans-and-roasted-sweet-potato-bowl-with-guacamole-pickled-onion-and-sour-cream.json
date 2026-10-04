@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Beans & Roasted Sweet Potato Bowl with Guacamole, Pickled Onion and Sour Cream",
   "subtitle": "Lean Protein | Healthier Carbs | Packed with Veggies",
-  "description": "They say to eat the rainbow, so we've created this colourful bowl of beans, roasted sweet potatoes, guac and yummy toppings for a nutritionally balanced meal everyone will love!\nThis recipe is under 650kcal per serving.",
+  "description": "They say to eat the rainbow, so we've created this colourful bowl of beans, roasted sweet potatoes, guac and yummy toppings for a nutritionally balanced meal everyone will love! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-beans-and-roasted-sweet-potato-bowl-with-guacamole-pickled-onion-and-sour-cream-6099f7b1c3ea3a3402144f38",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-beans-roasted-sweet-potato-bowl-f8ebb24b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 630,
+    "proteinG": 17.8,
+    "carbsG": 61,
+    "fatG": 28.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -109,15 +115,15 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 220°C/200°C fan-forced. Cut the sweet potato into bite-sized chunks. Place the sweet potato on a lined oven tray. Drizzle with olive oil and season with salt and pepper. Toss to coat, then roast until tender, 20-25 minutes.",
+      "text": "Preheat the oven to 220°C/200°C fan-forced. Cut the sweet potato into bite-sized chunks. Place the sweet potato on a lined oven tray. Drizzle with olive oil and season with salt and pepper. Toss to coat, then roast until tender, 20-25 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6099f7b1c3ea3a3402144f38/step-ed7af935.jpg"
     },
     {
-      "text": "• While the sweet potato is roasting, thinly slice the red onion (see ingredients). In a small bowl, combine the vinegar and a generous pinch of salt and sugar. Scrunch the onion in your hands, then add to the pickling liquid. Add just enough water to cover the onion, then stir to coat. Set aside until just before serving.",
+      "text": "While the sweet potato is roasting, thinly slice the red onion (see ingredients). In a small bowl, combine the vinegar and a generous pinch of salt and sugar. Scrunch the onion in your hands, then add to the pickling liquid. Add just enough water to cover the onion, then stir to coat. Set aside until just before serving.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6099f7b1c3ea3a3402144f38/step-9ab34dae.jpg"
     },
     {
-      "text": "• Slice the kernels from the corn cob. Drain and rinse the red kidney beans. Slice the lime into wedges. Roughly chop the coriander. Scoop out the avocado flesh using a spoon and mash in a medium bowl. Add the 1/2 the coriander, a good squeeze of lime juice and a drizzle of olive oil to the avocado. Stir until smooth and well combined. Season to taste. Finely chop the tomato and transfer to a bowl.",
+      "text": "Slice the kernels from the corn cob. Drain and rinse the red kidney beans. Slice the lime into wedges. Roughly chop the coriander. Scoop out the avocado flesh using a spoon and mash in a medium bowl. Add the 1/2 the coriander, a good squeeze of lime juice and a drizzle of olive oil to the avocado. Stir until smooth and well combined. Season to taste. Finely chop the tomato and transfer to a bowl.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6099f7b1c3ea3a3402144f38/step-591490fa.jpg"
     },
     {
@@ -125,11 +131,11 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6099f7b1c3ea3a3402144f38/step-055c8410.jpg"
     },
     {
-      "text": "• SPICY! This spice blend is hot, use less if you're sensitive to heat. Return the pan to a medium heat with a drizzle of olive oil. Add the red kidney beans and Mexican Fiesta spice blend (see ingredients) and cook, stirring, until coated and fragrant, 1-2 minutes. Add the enchilada sauce and simmer until heated through, 2 minutes. Season to taste.",
+      "text": "SPICY! This spice blend is hot, use less if you're sensitive to heat. Return the pan to a medium heat with a drizzle of olive oil. Add the red kidney beans and Mexican Fiesta spice blend (see ingredients) and cook, stirring, until coated and fragrant, 1-2 minutes. Add the enchilada sauce and simmer until heated through, 2 minutes. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6099f7b1c3ea3a3402144f38/step-99df7adc.jpg"
     },
     {
-      "text": "• Drain the pickled onion. Divide the sweet potato, Mexican beans and guacamole between bowls. Top with the charred corn salsa, pickled onion, light sour cream and remaining coriander. Serve with any remaining lime wedges.",
+      "text": "Drain the pickled onion. Divide the sweet potato, Mexican beans and guacamole between bowls. Top with the charred corn salsa, pickled onion, light sour cream and remaining coriander. Serve with any remaining lime wedges.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/6099f7b1c3ea3a3402144f38/step-dc863f14.jpg"
     }
   ]

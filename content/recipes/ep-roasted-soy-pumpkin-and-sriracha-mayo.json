@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/671a3e03d97e45ff0e201664-b09b5f8a-190d8f94.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 626,
+    "proteinG": 12.7,
+    "carbsG": 78.2,
+    "fatG": 28.2
+  },
   "tags": [
     "everyplate",
     "chinese",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Seared Tofu & Orange-Pea Pod Salad",
   "subtitle": "with Walnuts & Parmesan Cheese",
-  "description": "Let's sweeten up your average salad by throwing orange into the mix. With pea pods and walnuts for an added crunch, you'll have the perfect base for tender tofu steaks.\nThis recipe is under 650kcal per serving.",
+  "description": "Let's sweeten up your average salad by throwing orange into the mix. With pea pods and walnuts for an added crunch, you'll have the perfect base for tender tofu steaks. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/tofu-steaks-and-orange-pea-pod-salad-67f866764264524ca979c4e5",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1012_W13_AUS_Main_R_high-fae46e61.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 403,
+    "proteinG": 32,
+    "carbsG": 13.2,
+    "fatG": 22.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

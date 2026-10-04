@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1021_W40_AU_R56656-3_main_add_green_peste_ricotta_edit_high-ab36217c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1040,
+    "proteinG": 31.7,
+    "carbsG": 78.5,
+    "fatG": 65.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

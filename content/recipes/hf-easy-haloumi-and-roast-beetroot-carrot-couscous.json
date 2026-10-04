@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Easy Haloumi & Roast Beetroot-Carrot Couscous",
   "subtitle": "with Creamy Pesto Dressing",
-  "description": "Celebrate World Vegetarian Month and find your balance with out Meat-Free Marvels. Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while\nthe roast veggies crisp up in the oven.",
+  "description": "Celebrate World Vegetarian Month and find your balance with out Meat-Free Marvels. Couscous, our favourite grain, is back again to star in another dinner winner. Watch squeaky haloumi get golden in the pan, while the roast veggies crisp up in the oven.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/easy-haloumi-and-roast-beetroot-carrot-couscous-64ebe982b9acdcbab3495b01",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64ebe982b9acdcbab3495b01-cb7778d2.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 686,
+    "proteinG": 27,
+    "carbsG": 52.2,
+    "fatG": 40.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

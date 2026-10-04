@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/persian-style-lentils-mint-yoghurt-df7c8f11.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 768,
+    "proteinG": 18.8,
+    "carbsG": 95.4,
+    "fatG": 31.1
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Crumbed Chick'n & Basil Pesto",
   "subtitle": "with Charred Garlicky Greens & Lemon",
-  "description": "Keep things simple yet delicious tonight, with tender plant-based crumbed chick'n, seared to perfection! Serve it up alongside lemony garlic baby broccoli and zucchini, then add the perfect finishing touch by drizzling over a generous amount of our fragrant basil pesto.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.\nWe’ve replaced the green beans in this recipe with zucchini due to local\ningredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Keep things simple yet delicious tonight, with tender plant-based crumbed chick'n, seared to perfection! Serve it up alongside lemony garlic baby broccoli and zucchini, then add the perfect finishing touch by drizzling over a generous amount of our fragrant basil pesto. This recipe is under 650kcal per serving and under 40g carbohydrates per serving. We’ve replaced the green beans in this recipe with zucchini due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/gfyf-plant-based-crumbed-chicken-and-basil-pesto-67f8481fcade9b9f0ace144c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1012_W21_AUS_Main_R_5_high-557437b9.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 500,
+    "proteinG": 22.1,
+    "carbsG": 36.9,
+    "fatG": 27.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

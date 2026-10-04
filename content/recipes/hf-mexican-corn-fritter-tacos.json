@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Mexican Corn Fritter Tacos",
   "subtitle": "with Avocado & Cherry Tomato Salsa",
-  "description": "Love corn fritters? Well, this taco is really going to rock your boat! The pop and crunch of the corn fritters with the soft tortillas,\ncreamy avocado, juicy salsa and crisp lettuce is absolute perfection.",
+  "description": "Love corn fritters? Well, this taco is really going to rock your boat! The pop and crunch of the corn fritters with the soft tortillas, creamy avocado, juicy salsa and crisp lettuce is absolute perfection.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/mexican-corn-fritter-tacos-5e4ca27e91fa565588054701",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-corn-fritter-tacos-fc470ca7.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 959,
+    "proteinG": 29.8,
+    "carbsG": 85.4,
+    "fatG": 50.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

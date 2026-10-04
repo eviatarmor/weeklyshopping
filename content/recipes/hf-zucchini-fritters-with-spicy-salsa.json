@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55405c7e6ced6ea43f8b4569.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 418,
+    "proteinG": 17.6,
+    "carbsG": 25.7,
+    "fatG": 25.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -119,15 +125,15 @@
   ],
   "steps": [
     {
-      "text": "• Add the egg, flour, and salt to a large bowl and mi well to combine. Place the grated zucchini and carrot in a collander and squeeze as much moisture as you can, otherwise the water in the batter will prevent the fritters from combining. Combine the vegetables and half of the fetta with the batter. The result should be a light batter that will hold your veggies together as they cook but nothing too pancakey. If it's too gluggy, add a dash of milk.",
+      "text": "Add the egg, flour, and salt to a large bowl and mi well to combine. Place the grated zucchini and carrot in a collander and squeeze as much moisture as you can, otherwise the water in the batter will prevent the fritters from combining. Combine the vegetables and half of the fetta with the batter. The result should be a light batter that will hold your veggies together as they cook but nothing too pancakey. If it's too gluggy, add a dash of milk.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405c7e6ced6ea43f8b4569/step_556dab9578035.jpg"
     },
     {
-      "text": "• Heat the olive oil in a non-stick frying pan over a medium heat. Use a large serving spoon to gently place a portion of the fritter mixture on to the pan. You will need to do this in a few batches so you don't overcrowd the pan. Gently cook for 3 minutes on either side and transfer to a warm resting place.",
+      "text": "Heat the olive oil in a non-stick frying pan over a medium heat. Use a large serving spoon to gently place a portion of the fritter mixture on to the pan. You will need to do this in a few batches so you don't overcrowd the pan. Gently cook for 3 minutes on either side and transfer to a warm resting place.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405c7e6ced6ea43f8b4569/step_556dab95aef64.jpg"
     },
     {
-      "text": "• In a small serving bowl combine the tomato, chilli, lemon juice, spring onions, parsley, and a good grind of salt and pepper, taste and adjust seasoning accordingly.",
+      "text": "In a small serving bowl combine the tomato, chilli, lemon juice, spring onions, parsley, and a good grind of salt and pepper, taste and adjust seasoning accordingly.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405c7e6ced6ea43f8b4569/step_556dab95c081e.jpg"
     },
     {

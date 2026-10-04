@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caribbean-roast-veggie-curry-5c28d31e.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 613,
+    "proteinG": 9.9,
+    "carbsG": 82.2,
+    "fatG": 24.4
+  },
   "tags": [
     "vegetarian",
     "everyplate",

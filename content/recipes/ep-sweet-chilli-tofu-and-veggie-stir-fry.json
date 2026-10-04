@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/sweet-chilli-tofu-veggie-stir-fry-17e04f14.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 651,
+    "proteinG": 26.1,
+    "carbsG": 90.2,
+    "fatG": 17.6
+  },
   "tags": [
     "vegetarian",
     "everyplate",

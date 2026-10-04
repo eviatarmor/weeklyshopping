@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Pumpkin Truffle Gnocchi",
   "subtitle": "with Crispy Sage Leaves & Rocket, Spinach & Almond Salad",
-  "description": "Picture golden bundles of gnocchi smothered in a cheesy creamy sauce with sweet roasted veggies and drizzled with truffle oil.\nNow, if that hasn’t got your mouth watering, just wait until you tuck into the real thing.",
+  "description": "Picture golden bundles of gnocchi smothered in a cheesy creamy sauce with sweet roasted veggies and drizzled with truffle oil. Now, if that hasn’t got your mouth watering, just wait until you tuck into the real thing.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/pumpkin-truffle-gnocchi-6087a08f95ce3e6abc056f30",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5e436f7bd50c47680d13d7f6-8deb770c.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 763,
+    "proteinG": 23.4,
+    "carbsG": 93.3,
+    "fatG": 32.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

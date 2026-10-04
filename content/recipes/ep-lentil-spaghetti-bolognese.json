@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Hearty Lentil Fettuccine Bolognese",
   "subtitle": "with Cheddar Cheese",
-  "description": "We've given the classic Italian bolognese a vegetarian update by replacing the meat with hearty, wholesome lentils. This thick tomatoey sauce is combined with spaghetti in the pan and topped off with a helping of grated Parmesan cheese. Buon Appetito!!\n*Due to recent sourcing challenges, we’ve replaced spaghetti with fettuccine, which\nmay look different to the picture. Don’t worry, your recipe will be just as tasty!",
+  "description": "We've given the classic Italian bolognese a vegetarian update by replacing the meat with hearty, wholesome lentils. This thick tomatoey sauce is combined with spaghetti in the pan and topped off with a helping of grated Parmesan cheese. Buon Appetito!! *Due to recent sourcing challenges, we’ve replaced spaghetti with fettuccine, which may look different to the picture. Don’t worry, your recipe will be just as tasty!",
   "sourceUrl": "https://www.everyplate.com.au/recipes/lentil-spaghetti-bolognese-67d9269b6ec352636ca1954b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/677f5c95ae47296da8b2cf05-bb95c307-9d6272ff.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 781,
+    "proteinG": 35.7,
+    "carbsG": 101,
+    "fatG": 22.5
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/jerk-kidney-beans-jacket-sweet-potatoes-cfc895b5.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 592,
+    "proteinG": 24.2,
+    "carbsG": 72.7,
+    "fatG": 17.9
+  },
   "tags": [
     "vegetarian",
     "everyplate",

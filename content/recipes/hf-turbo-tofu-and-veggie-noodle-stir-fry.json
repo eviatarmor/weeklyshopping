@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Turbo Tofu & Veggie Noodle Stir-Fry",
   "subtitle": "with Crispy Shallots & Coriander",
-  "description": "Rev up your taste buds with the ultimate fusion of speed and flavour in collaboration with our friend Sonic the Hedgehog! Thanks to saucy tofu and Asian stir-fry sauce, you'll have some fusion flavours for these unrivaled noodle dish that are as speedy and iconic as Sonic himself. Hurry, this one won’t last long, so grab yours before it speeds away!\nThis recipe is under 650kcal per serving.",
+  "description": "Rev up your taste buds with the ultimate fusion of speed and flavour in collaboration with our friend Sonic the Hedgehog! Thanks to saucy tofu and Asian stir-fry sauce, you'll have some fusion flavours for these unrivaled noodle dish that are as speedy and iconic as Sonic himself. Hurry, this one won’t last long, so grab yours before it speeds away! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/turbo-tofu-and-veggie-noodle-stir-fry-67b339da062b385ef87c06ed",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67b339da062b385ef87c06ed-827b3ebc.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 574,
+    "proteinG": 27.3,
+    "carbsG": 75.2,
+    "fatG": 20.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

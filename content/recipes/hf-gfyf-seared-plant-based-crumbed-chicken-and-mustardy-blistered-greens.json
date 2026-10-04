@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Seared Plant-Based Crumbed Chick'n & Mustardy Blistered Greens",
   "subtitle": "with Flaked Almonds",
-  "description": "You've now arrived at flavour central, the hub where we serve only the tastiest dishes from our hearts to your homes. The mustardy greens are proof of this mega flavour and when paired with some seared plant-based crumbed chick'n, this dish is truly divine.\nThis recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
+  "description": "You've now arrived at flavour central, the hub where we serve only the tastiest dishes from our hearts to your homes. The mustardy greens are proof of this mega flavour and when paired with some seared plant-based crumbed chick'n, this dish is truly divine. This recipe is under 650kcal per serving and under 40g carbohydrates per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/gfyf-seared-salmon-and-mustardy-blistered-greens-67f854134264524ca9794e73",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1006_W28_AU_R20702-3_Main_3_high-936e7bf5.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 361,
+    "proteinG": 22.5,
+    "carbsG": 38,
+    "fatG": 11.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

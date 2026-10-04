@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/caramelised-peach-potato-summer-salad-b55d2af2.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 452,
+    "proteinG": 21.7,
+    "carbsG": 40.8,
+    "fatG": 20.1
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -73,27 +79,27 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to **240°C/220°C fan-forced**. Chop the **potato** (unpeeled) into 2 cm wedges. **TIP:** Chopping the potato small means it will cook in the allocated time. Place the potato on the oven tray lined with baking paper. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Toss to coat and place in the oven to cook for **20-25 minutes**, or until golden and tender. **TIP:** Place on the top shelf of the oven for a quicker cook time.",
+      "text": "Preheat the oven to **240°C/220°C fan-forced**. Chop the **potato** (unpeeled) into 2 cm wedges. **TIP:** Chopping the potato small means it will cook in the allocated time. Place the potato on the oven tray lined with baking paper. **Drizzle** with **olive oil** and season with a **pinch** of **salt** and **pepper**. Toss to coat and place in the oven to cook for **20-25 minutes**, or until golden and tender. **TIP:** Place on the top shelf of the oven for a quicker cook time.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59c857c1a5ed195d5a5361d2-0-0-0c35b067.jpg"
     },
     {
-      "text": "• While the potatoes are cooking, slice the **peach** into 1 cm thick wedges. Trim the ends of the **sugar snap peas**. Roughly chop the **roasted almonds**.",
+      "text": "While the potatoes are cooking, slice the **peach** into 1 cm thick wedges. Trim the ends of the **sugar snap peas**. Roughly chop the **roasted almonds**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59c857c1a5ed195d5a5361d2-1-0-26e540d3.jpg"
     },
     {
-      "text": "• In the **last 10 minutes** of potato cooking time, heat a **drizzle** of **olive oil** in a medium frying pan over a medium-high heat. Add the **peach** wedges and cook for **2 minutes** on each side, or until lightly golden and softened. **TIP:** Peaches have plenty of natural sugar which helps them caramelise when grilled! Set aside on a plate. Return the pan to the heat and add the **sugar snap peas**. Cook, tossing, for **2 minutes**, or until just tender.",
+      "text": "In the **last 10 minutes** of potato cooking time, heat a **drizzle** of **olive oil** in a medium frying pan over a medium-high heat. Add the **peach** wedges and cook for **2 minutes** on each side, or until lightly golden and softened. **TIP:** Peaches have plenty of natural sugar which helps them caramelise when grilled! Set aside on a plate. Return the pan to the heat and add the **sugar snap peas**. Cook, tossing, for **2 minutes**, or until just tender.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59c857c1a5ed195d5a5361d2-2-0-59d8dc7c.jpg"
     },
     {
-      "text": "• In a large bowl, combine the **rocket leaves**, **roasted potato**, **grilled peach**, **roasted almonds** and **sugar snap peas**.",
+      "text": "In a large bowl, combine the **rocket leaves**, **roasted potato**, **grilled peach**, **roasted almonds** and **sugar snap peas**.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59c857c1a5ed195d5a5361d2-3-0-385ecef9.jpg"
     },
     {
-      "text": "• **Drizzle** the salad with **balsamic vinegar** and **oil (from the marinated goat fetta)**. Season to taste with a **pinch** of **salt** and **pepper** and toss to coat. **TIP:** Dress your salad just before serving to prevent soggy leaves.",
+      "text": "*Drizzle** the salad with **balsamic vinegar** and **oil (from the marinated goat fetta)**. Season to taste with a **pinch** of **salt** and **pepper** and toss to coat. **TIP:** Dress your salad just before serving to prevent soggy leaves.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59c857c1a5ed195d5a5361d2-4-0-3a586523.jpg"
     },
     {
-      "text": "• Divide the salad between bowls and crumble over the marinated goat fetta.",
+      "text": "Divide the salad between bowls and crumble over the marinated goat fetta.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/59c857c1a5ed195d5a5361d2-5-0-cca35e98.jpg"
     }
   ]

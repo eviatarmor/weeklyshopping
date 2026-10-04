@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55e69e92f8b25edd548b4567.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 911,
+    "proteinG": 38.8,
+    "carbsG": 106,
+    "fatG": 37.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -106,26 +112,26 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, finely chop the onion and coriander leaves. Finely slice the kale (destemmed). Zest and cut the lime into wedges and the cherry tomatoes into quarters. Peel and crush the garlic. Drain and rinse the black beans. Lastly, grate the Cheddar cheese.",
+      "text": "To prepare the ingredients, finely chop the onion and coriander leaves. Finely slice the kale (destemmed). Zest and cut the lime into wedges and the cherry tomatoes into quarters. Peel and crush the garlic. Drain and rinse the black beans. Lastly, grate the Cheddar cheese.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55e69e92f8b25edd548b4567/step_56d667386ace9.jpg"
     },
     {
-      "text": "• Heat half of the olive oil in a medium frying pan over a medium-high heat. Add the red onion and cook, stirring, for 5 minutes or until soft. Add the garlic and the Mexican spice mix. Cook, stirring, for 1 minute or until fragrant. Add a splash of water and the kale and cook for 2-3 minutes or until the kale has wilted. Stir through the black beans, a pinch of the lime zest and season with salt and pepper. Transfer to a medium bowl. Wipe the pan clean with paper towel.",
+      "text": "Heat half of the olive oil in a medium frying pan over a medium-high heat. Add the red onion and cook, stirring, for 5 minutes or until soft. Add the garlic and the Mexican spice mix. Cook, stirring, for 1 minute or until fragrant. Add a splash of water and the kale and cook for 2-3 minutes or until the kale has wilted. Stir through the black beans, a pinch of the lime zest and season with salt and pepper. Transfer to a medium bowl. Wipe the pan clean with paper towel.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55e69e92f8b25edd548b4567/step_56d6673889f40.jpg"
     },
     {
-      "text": "• Combine the cherry tomatoes, coriander, the juice from half of the lime wedges and the remaining olive oil in a small bowl. Season with salt and pepper and set aside."
+      "text": "Combine the cherry tomatoes, coriander, the juice from half of the lime wedges and the remaining olive oil in a small bowl. Season with salt and pepper and set aside."
     },
     {
-      "text": "• Place the same frying pan back over a medium heat. Spray with a little olive oil. Place one mini flour tortilla in the pan and spoon over some of the kale and black bean mixture. Crack a free-range egg over the top and use a fork to lightly break it up. Sprinkle with a little of the Cheddar cheese and then top with another tortilla. Cook for 1-2 minutes or until golden, pressing down firmly with a spatula.",
+      "text": "Place the same frying pan back over a medium heat. Spray with a little olive oil. Place one mini flour tortilla in the pan and spoon over some of the kale and black bean mixture. Crack a free-range egg over the top and use a fork to lightly break it up. Sprinkle with a little of the Cheddar cheese and then top with another tortilla. Cook for 1-2 minutes or until golden, pressing down firmly with a spatula.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55e69e92f8b25edd548b4567/step_56d66738970c6.jpg"
     },
     {
-      "text": "• To flip the quesadilla, slide it out of the pan (cooked side down) with a spatula on to a large plate. Place the frying pan over the uncooked tortilla and flip the plate so that it lands with the uncooked side down in the frying pan. Cook for 1-2 minutes or until golden. Transfer to the plate and cover with foil to keep warm. Repeat with the remaining tortillas, kale mixture, cheese, and eggs.",
+      "text": "To flip the quesadilla, slide it out of the pan (cooked side down) with a spatula on to a large plate. Place the frying pan over the uncooked tortilla and flip the plate so that it lands with the uncooked side down in the frying pan. Cook for 1-2 minutes or until golden. Transfer to the plate and cover with foil to keep warm. Repeat with the remaining tortillas, kale mixture, cheese, and eggs.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55e69e92f8b25edd548b4567/step_56d66738a7d6a.jpg"
     },
     {
-      "text": "• Cut the quesadillas into quarters and serve topped with the tomato and chilli salsa and remaining lime wedges."
+      "text": "Cut the quesadillas into quarters and serve topped with the tomato and chilli salsa and remaining lime wedges."
     }
   ]
 }

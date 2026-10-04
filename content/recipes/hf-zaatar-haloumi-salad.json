@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/za-atar-halloumi-salad-eb372882.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 887,
+    "proteinG": 34.8,
+    "carbsG": 51.7,
+    "fatG": 56.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -98,29 +104,29 @@
   ],
   "steps": [
     {
-      "text": "• Preheat oven to 200°C/180°C fan-forced. To prepare the ingredients, rinse the pearl barley well. Chop the carrot and beetroot (peeled) into 1 cm cubes, pick and finely chop the basil leaves, and cut the haloumi cheese into 8 slices."
+      "text": "Preheat oven to 200°C/180°C fan-forced. To prepare the ingredients, rinse the pearl barley well. Chop the carrot and beetroot (peeled) into 1 cm cubes, pick and finely chop the basil leaves, and cut the haloumi cheese into 8 slices."
     },
     {
-      "text": "• Add the pearl barley and the water to a large saucepan of lightly salted water. Bring to the boil. Cook, stirring occasionally, for 30 minutes, or until soft in texture but slightly chewy. You may need to add more boiling water if it runs dry. Drain. Set aside."
+      "text": "Add the pearl barley and the water to a large saucepan of lightly salted water. Bring to the boil. Cook, stirring occasionally, for 30 minutes, or until soft in texture but slightly chewy. You may need to add more boiling water if it runs dry. Drain. Set aside."
     },
     {
-      "text": "• Meanwhile, add the carrot, beetroot and 1/3 of the olive oil to a lined oven tray. Season with salt and pepper and toss to coat. Bake for 20-25 minutes, or until softened and lightly golden.",
+      "text": "Meanwhile, add the carrot, beetroot and 1/3 of the olive oil to a lined oven tray. Season with salt and pepper and toss to coat. Bake for 20-25 minutes, or until softened and lightly golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c455e803b50716d7ecb82-2-0-66dc4e9d.jpg"
     },
     {
-      "text": "• Meanwhile, combine the basil (reserve a few leaves for garnish), Greek yoghurt and another 1/3 of the olive oil in a small bowl. Season with salt and pepper.",
+      "text": "Meanwhile, combine the basil (reserve a few leaves for garnish), Greek yoghurt and another 1/3 of the olive oil in a small bowl. Season with salt and pepper.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c455e803b50716d7ecb82-3-0-573c6bc7.jpg"
     },
     {
-      "text": "• Pat dry the haloumi cheese slices and toss in a bowl with the remaining olive oil and the za’atar spice. Heat a medium frying pan over a medium-high heat and cook the haloumi for 1-2 minutes on each side, or until golden.",
+      "text": "Pat dry the haloumi cheese slices and toss in a bowl with the remaining olive oil and the za’atar spice. Heat a medium frying pan over a medium-high heat and cook the haloumi for 1-2 minutes on each side, or until golden.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c455e803b50716d7ecb82-4-0-33b63718.jpg"
     },
     {
-      "text": "• In a large bowl, combine the pearl barley, carrot, beetroot and rocket leaves. Drizzle with the remaining olive oil and toss to combine.",
+      "text": "In a large bowl, combine the pearl barley, carrot, beetroot and rocket leaves. Drizzle with the remaining olive oil and toss to combine.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/step/587c455e803b50716d7ecb82-5-0-48ea787b.jpg"
     },
     {
-      "text": "• To serve, divide the pearl barley salad between bowls and top with the za’atar halloumi. Garnish with the remaining basil leaves. TIP: for a delicious crunch and extra health kick, sprinkle over the over the chia & sesame salad topper. Enjoy!"
+      "text": "To serve, divide the pearl barley salad between bowls and top with the za’atar halloumi. Garnish with the remaining basil leaves. TIP: for a delicious crunch and extra health kick, sprinkle over the over the chia & sesame salad topper. Enjoy!"
     }
   ]
 }

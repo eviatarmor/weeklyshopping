@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a0a339f5168ff18eaf9f0d-294a257a.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 790,
+    "proteinG": 36.4,
+    "carbsG": 85.2,
+    "fatG": 30.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -150,7 +156,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-c35943af.jpeg"
     },
     {
-      "text": "• Stir through lentils, diced tomatoes with garlic & onion, the brown sugar, salt and a splash of water. Simmer until mixture is slightly reduced, 5-7 minutes.\n• Stir through kale until softened, 1-2 minutes. • Season with pepper to taste. TIP: Add another splash of water to loosen the filling, if needed.",
+      "text": "• Stir through lentils, diced tomatoes with garlic & onion, the brown sugar, salt and a splash of water. Simmer until mixture is slightly reduced, 5-7 minutes.\n• Stir through kale until softened, 1-2 minutes.\n• Season with pepper to taste. TIP: Add another splash of water to loosen the filling, if needed.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-ea2b5f01.jpeg"
     },
     {
@@ -158,7 +164,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-ab8ad75b.jpeg"
     },
     {
-      "text": "• Divide lentil and veggie shepherd's pie between plates to serve. Enjoy!",
+      "text": "Divide lentil and veggie shepherd's pie between plates to serve. Enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-66a0a339f5168ff18eaf9f0d-49342516.jpeg"
     }
   ]

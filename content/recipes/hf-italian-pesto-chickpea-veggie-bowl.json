@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6728203e16186c0f34b4f65a-3bfae927.jpeg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 744,
+    "proteinG": 19.5,
+    "carbsG": 46.4,
+    "fatG": 50.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -139,7 +145,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6728203e16186c0f34b4f65a-20a3f16a.jpeg"
     },
     {
-      "text": "• To the frying pan, add the butter, basil pesto, roasted veggies and baby spinach leaves. Season to taste.",
+      "text": "To the frying pan, add the butter, basil pesto, roasted veggies and baby spinach leaves. Season to taste.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-6728203e16186c0f34b4f65a-d9945343.jpeg"
     },
     {

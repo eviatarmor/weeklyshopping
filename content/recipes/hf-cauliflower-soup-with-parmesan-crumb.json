@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/559398be4dab7126728b4567.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 413,
+    "proteinG": 18.9,
+    "carbsG": 48.2,
+    "fatG": 12.5
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -100,22 +106,22 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200°C/180°C fan-forced. Line two oven trays with baking paper."
+      "text": "Preheat the oven to 200°C/180°C fan-forced. Line two oven trays with baking paper."
     },
     {
-      "text": "• To prepare the ingredients, finely slice the leek and finely dice the celery. Peel and crush the garlic. Cut the cauliflower into small florets and the potato (peeled) into cubes. Finely grate the Parmesan cheese and finely chop the chives for garnish."
+      "text": "To prepare the ingredients, finely slice the leek and finely dice the celery. Peel and crush the garlic. Cut the cauliflower into small florets and the potato (peeled) into cubes. Finely grate the Parmesan cheese and finely chop the chives for garnish."
     },
     {
-      "text": "• Heat half of the olive oil in a large saucepan over a medium heat. Add the leek, celery, and garlic and cook, stirring, for 3-4 minutes, or until soft. Combine the vegetable stock powder and hot water and add it to the pan with the cauliflower and potato. Bring to a boil. Reduce to a medium-low heat and simmer for 20 minutes, or until the cauliflower and potato are tender. Using a stick blender or food processor, puree the mixture until smooth. Stir through half of the Parmesan cheese. Season to taste with salt and pepper."
+      "text": "Heat half of the olive oil in a large saucepan over a medium heat. Add the leek, celery, and garlic and cook, stirring, for 3-4 minutes, or until soft. Combine the vegetable stock powder and hot water and add it to the pan with the cauliflower and potato. Bring to a boil. Reduce to a medium-low heat and simmer for 20 minutes, or until the cauliflower and potato are tender. Using a stick blender or food processor, puree the mixture until smooth. Stir through half of the Parmesan cheese. Season to taste with salt and pepper."
     },
     {
-      "text": "• Meanwhile, process the mini baguette in a food processor to create chunky breadcrumbs. If you don’t have a on, just tear it up with your fingers until a rough crumb is created. Place the breadcrumbs on one of the lined oven trays and toss in the remaining oil and the remaining Parmesan cheese. Place the hazelnuts on the remaining oven tray and toast both trays in the oven for 7-8 minutes, or until the crumb is golden and crispy and the skins are lifting off the hazelnuts."
+      "text": "Meanwhile, process the mini baguette in a food processor to create chunky breadcrumbs. If you don’t have a on, just tear it up with your fingers until a rough crumb is created. Place the breadcrumbs on one of the lined oven trays and toss in the remaining oil and the remaining Parmesan cheese. Place the hazelnuts on the remaining oven tray and toast both trays in the oven for 7-8 minutes, or until the crumb is golden and crispy and the skins are lifting off the hazelnuts."
     },
     {
-      "text": "• Wrap the hazelnuts in a clean towel and rub vigorously to remove the loose skins (it’s okay if some of the skin remains). Coarsely chop the peeled hazelnuts."
+      "text": "Wrap the hazelnuts in a clean towel and rub vigorously to remove the loose skins (it’s okay if some of the skin remains). Coarsely chop the peeled hazelnuts."
     },
     {
-      "text": "• To serve, divide the cauliflower soup between bowls, sprinkle with the chives and top with the Parmesan crumb and hazelnuts."
+      "text": "To serve, divide the cauliflower soup between bowls, sprinkle with the chives and top with the Parmesan crumb and hazelnuts."
     }
   ]
 }

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/55405d456ced6e3c3f8b456d.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 488,
+    "proteinG": 16.7,
+    "carbsG": 45.7,
+    "fatG": 22.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -119,18 +125,18 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200ºC/180ºC fan-forced."
+      "text": "Preheat the oven to 200ºC/180ºC fan-forced."
     },
     {
-      "text": "• In a large heavy bottomed pot, heat the olive oil over a medium heat. Add the red onion and the garlic and cook for 2 minutes, being careful not to burn the garlic. Add the pumpkin, cabbage, and water. Season with salt and pepper. Turn the heat down to a gentle simmer and cover the pot for about 15 minutes.",
+      "text": "In a large heavy bottomed pot, heat the olive oil over a medium heat. Add the red onion and the garlic and cook for 2 minutes, being careful not to burn the garlic. Add the pumpkin, cabbage, and water. Season with salt and pepper. Turn the heat down to a gentle simmer and cover the pot for about 15 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405d456ced6e3c3f8b456d/step_556dc13b15ce4.jpg"
     },
     {
-      "text": "• Add the Mexican seasoning, chocolate, and black beans to the pan then stir, leaving it to cook for another 5 minutes. Use a handheld blender to pulse the soup just a couple of times to thicken it up. Alternatively, spoon a bit of soup out and blitz with a blender or even mash with a potato masher to get your desired consistency, then stir through remaining soup.",
+      "text": "Add the Mexican seasoning, chocolate, and black beans to the pan then stir, leaving it to cook for another 5 minutes. Use a handheld blender to pulse the soup just a couple of times to thicken it up. Alternatively, spoon a bit of soup out and blitz with a blender or even mash with a potato masher to get your desired consistency, then stir through remaining soup.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405d456ced6e3c3f8b456d/step_556dc13b38b80.jpg"
     },
     {
-      "text": "• For the tortilla matchsticks, brush them with a bit of olive oil, lay them out on a lined baking tray and cook in the oven for 5 minutes or until they are golden and crispy.",
+      "text": "For the tortilla matchsticks, brush them with a bit of olive oil, lay them out on a lined baking tray and cook in the oven for 5 minutes or until they are golden and crispy.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/55405d456ced6e3c3f8b456d/step_556dc13b4acb3.jpg"
     },
     {

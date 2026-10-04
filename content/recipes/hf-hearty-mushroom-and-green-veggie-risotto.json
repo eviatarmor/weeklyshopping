@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Hearty Mushroom & Green Veggie Risotto",
   "subtitle": "with Double Parmesan Cheese & Flaked Almonds",
-  "description": "Tonight, we are serving up the warmest, tastiest and easiest risotto that is sure to turn around your midweek blues! With little elbow work, this risotto does all its best work in the oven, leaving you more time to pop your feet up and get ready to feast!\nThis recipe is under 650kcal per serving.\nWe’ve replaced the baby spinach in this recipe with kale due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Tonight, we are serving up the warmest, tastiest and easiest risotto that is sure to turn around your midweek blues! With little elbow work, this risotto does all its best work in the oven, leaving you more time to pop your feet up and get ready to feast! This recipe is under 650kcal per serving. We’ve replaced the baby spinach in this recipe with kale due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/hearty-mushroom-and-green-veggie-risotto-67a062473b75a6f3f15e806c",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/676a12a3555c15a993e51c9e-3343131f.jpeg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 549,
+    "proteinG": 22.6,
+    "carbsG": 85.1,
+    "fatG": 12.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -136,7 +142,7 @@
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a062473b75a6f3f15e806c-fc77dce1.jpeg"
     },
     {
-      "text": "• Transfer risotto to a baking dish. Cover tightly with foil and bake until liquid is absorbed and rice is ‘al dente’, 24-28 minutes.",
+      "text": "Transfer risotto to a baking dish. Cover tightly with foil and bake until liquid is absorbed and rice is ‘al dente’, 24-28 minutes.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/recipe/step-67a062473b75a6f3f15e806c-a573ac1b.jpeg"
     },
     {

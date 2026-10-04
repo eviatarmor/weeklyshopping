@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-fajita-black-bean-bowl-180aec74.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 898,
+    "proteinG": 26,
+    "carbsG": 102.5,
+    "fatG": 38.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

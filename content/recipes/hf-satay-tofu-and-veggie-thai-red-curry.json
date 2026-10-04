@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1030_W42_AU_R15087-4_Main_12_remove_yoghurt_edit_high-e684cd75.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 908,
+    "proteinG": 24.9,
+    "carbsG": 96.2,
+    "fatG": 44.3
+  },
   "tags": [
     "hellofresh",
     "thai",

@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/565e7cdb4dab7110068b4569.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 681,
+    "proteinG": 28.7,
+    "carbsG": 90.3,
+    "fatG": 20.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -82,18 +88,18 @@
   ],
   "steps": [
     {
-      "text": "• To prepare the ingredients, peel the zucchini into thin ribbons. Slice the mushrooms and roughly chop the walnuts. Peel and crush the garlic. Crumble the dill goat cheese. Zest the lemon and cut into wedges. Lastly, pick the parsley leaves."
+      "text": "To prepare the ingredients, peel the zucchini into thin ribbons. Slice the mushrooms and roughly chop the walnuts. Peel and crush the garlic. Crumble the dill goat cheese. Zest the lemon and cut into wedges. Lastly, pick the parsley leaves."
     },
     {
-      "text": "• In a large pot, bring some salted water to the boil. Add the fettuccine to the boiling water and a dash of olive oil and cook for approximately 11 minutes or until ‘al dente’, stirring regularly to ensure that the pasta does not stick. Place the zucchini ribbons in the base of a colander. When the fettuccine is ready drain it directly over the zucchini. The boiling water will soften the zucchini.",
+      "text": "In a large pot, bring some salted water to the boil. Add the fettuccine to the boiling water and a dash of olive oil and cook for approximately 11 minutes or until ‘al dente’, stirring regularly to ensure that the pasta does not stick. Place the zucchini ribbons in the base of a colander. When the fettuccine is ready drain it directly over the zucchini. The boiling water will soften the zucchini.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565e7cdb4dab7110068b4569/step_565e7ee53d647.jpg"
     },
     {
-      "text": "• Meanwhile, heat the olive oil in a medium-large frying pan over a medium-high heat. Add the mushrooms and cook, stirring, for 3 minutes or until soft. Add the garlic and cook for 1 minute or until fragrant. Add the cooked fettuccine and zucchini to the pan with the dill goat cheese, 1 teaspoon of the lemon zest (2 teaspoons for 4 serves), walnuts and parsley. Season to taste with salt and pepper and drizzle with a little olive oil. Toss well.",
+      "text": "Meanwhile, heat the olive oil in a medium-large frying pan over a medium-high heat. Add the mushrooms and cook, stirring, for 3 minutes or until soft. Add the garlic and cook for 1 minute or until fragrant. Add the cooked fettuccine and zucchini to the pan with the dill goat cheese, 1 teaspoon of the lemon zest (2 teaspoons for 4 serves), walnuts and parsley. Season to taste with salt and pepper and drizzle with a little olive oil. Toss well.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/565e7cdb4dab7110068b4569/step_565e7ee5a55ab.jpg"
     },
     {
-      "text": "• Divide the pasta between bowls and serve with the lemon wedges."
+      "text": "Divide the pasta between bowls and serve with the lemon wedges."
     }
   ]
 }

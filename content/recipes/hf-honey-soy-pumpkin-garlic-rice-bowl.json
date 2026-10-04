@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Honey-Soy Pumpkin & Garlic Rice Bowl",
   "subtitle": "with Green Veggies & Japanese Mayo",
-  "description": "If you can't go past the honey-soy combo, wait till you try it on roasted pumpkin! Sounds unusual, we know, but teamed with crisp veggies and a moreish Japanese mayo, you're in for a real treat.\nThis recipe is under 650kcal per serving.",
+  "description": "If you can't go past the honey-soy combo, wait till you try it on roasted pumpkin! Sounds unusual, we know, but teamed with crisp veggies and a moreish Japanese mayo, you're in for a real treat. This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/honey-soy-pumpkin-garlic-rice-bowl-60e51529ef5f00735462e248",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-soy-pumpkin-garlic-rice-bowl-9dbe246a.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 645,
+    "proteinG": 15,
+    "carbsG": 95.4,
+    "fatG": 29.7
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

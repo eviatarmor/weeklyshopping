@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Golden Veggie Lasagne",
   "subtitle": "with Parmesan Cheese",
-  "description": "Who said a lasagne required mince? We certainly think that this green veggie loaded version is here to contest the best and with a cheesy topping, how could you possibly resist?\nDue to local availability,\nthe ingredients you receive\nmay be a little different\nto what's pictured. It'll\nbe just as delicious, just\nfollow your recipe card!",
+  "description": "Who said a lasagne required mince? We certainly think that this green veggie loaded version is here to contest the best and with a cheesy topping, how could you possibly resist? Due to local availability, the ingredients you receive may be a little different to what's pictured. It'll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-green-veggie-lasagne-67d7d8c86526e41d967ae650",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/67d7d8c86526e41d967ae650-6b8d75da-8cd9b110.jpeg",
   "servings": 2,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 786,
+    "proteinG": 34.2,
+    "carbsG": 76.8,
+    "fatG": 37
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

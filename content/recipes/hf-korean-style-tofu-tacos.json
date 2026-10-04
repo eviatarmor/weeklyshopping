@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/korean-style-tofu-tacos-52ac70f9.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 722,
+    "proteinG": 24.3,
+    "carbsG": 62.8,
+    "fatG": 42.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

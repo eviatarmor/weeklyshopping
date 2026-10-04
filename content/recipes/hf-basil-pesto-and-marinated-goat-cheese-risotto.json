@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Basil Pesto & Marinated Goat Cheese Risotto",
   "subtitle": "with Silverbeet & Walnuts",
-  "description": "Marinated goat cheese lends an indulgent, yet delicate flavour to this simple risotto that’s baked in the oven for minimum\nfuss and maximum flavour. Yum!",
+  "description": "Marinated goat cheese lends an indulgent, yet delicate flavour to this simple risotto that’s baked in the oven for minimum fuss and maximum flavour. Yum!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/basil-pesto-and-marinated-goat-cheese-risotto-604ed3598c65fa4229714f0e",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/basil-pesto-goats-cheese-risotto-e8873881.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 696,
+    "proteinG": 17,
+    "carbsG": 78.6,
+    "fatG": 33.6
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

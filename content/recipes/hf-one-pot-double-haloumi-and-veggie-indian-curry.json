@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "One-Pot Double Haloumi & Veggie Indian Curry",
   "subtitle": "with Mini Tortillas",
-  "description": "This one is packed with veggies, haloumi and the creamiest coconut curry to ever grace our kitchens. Crispy mini tortillas do\nthe most, at your service, are also here to dunk and scoop the curry goodness up in an instant!",
+  "description": "This one is packed with veggies, haloumi and the creamiest coconut curry to ever grace our kitchens. Crispy mini tortillas do the most, at your service, are also here to dunk and scoop the curry goodness up in an instant!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/one-pot-double-haloumi-and-veggie-indian-curry-6523b2f2efcc06f7dd1f5d5b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/6523b2f2efcc06f7dd1f5d5b-38c79ef0.jpeg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 1066,
+    "proteinG": 47.3,
+    "carbsG": 57.5,
+    "fatG": 71
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

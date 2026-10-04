@@ -7,6 +7,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/54f4ffa86ced6e13358b4568.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 483,
+    "proteinG": 18,
+    "carbsG": 33.3,
+    "fatG": 19.3
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -99,18 +105,18 @@
   ],
   "steps": [
     {
-      "text": "• Preheat the oven to 200ºC/180ºC fan-forced."
+      "text": "Preheat the oven to 200ºC/180ºC fan-forced."
     },
     {
-      "text": "• Chop the pumpkin, the zucchini, and the carrots into cubes. Roughly chop the coriander. Juice the lemon. Line a baking tray with baking paper. Spread the pumpkin, carrot, and zucchini on the tray and dress with some olive oil, season well with salt and pepper. Roast for 20 minutes or until tender. The smaller the pumpkin is cut, the quicker it will cook.",
+      "text": "Chop the pumpkin, the zucchini, and the carrots into cubes. Roughly chop the coriander. Juice the lemon. Line a baking tray with baking paper. Spread the pumpkin, carrot, and zucchini on the tray and dress with some olive oil, season well with salt and pepper. Roast for 20 minutes or until tender. The smaller the pumpkin is cut, the quicker it will cook.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f4ffa86ced6e13358b4568/step_556859b7ddb2e.jpg"
     },
     {
-      "text": "• Meanwhile, cook the couscous in a saucepan of boiling water for 10 minutes or until tender. Drain the couscous and refresh under cold running water then transfer to a salad bowl. Once the veggies are cooked, combine the couscous, pumpkin, carrot, zucchini, coriander and rocket.",
+      "text": "Meanwhile, cook the couscous in a saucepan of boiling water for 10 minutes or until tender. Drain the couscous and refresh under cold running water then transfer to a salad bowl. Once the veggies are cooked, combine the couscous, pumpkin, carrot, zucchini, coriander and rocket.",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f4ffa86ced6e13358b4568/step_556859b81a3ed.jpg"
     },
     {
-      "text": "• Crumble the fetta. Whisk the lemon juice, olive oil, and paprika in a small bowl and season with salt and pepper. Pour the dressing over the salad and toss gently to combine. Divide between plates , crumble with fetta and enjoy!",
+      "text": "Crumble the fetta. Whisk the lemon juice, olive oil, and paprika in a small bowl and season with salt and pepper. Pour the dressing over the salad and toss gently to combine. Divide between plates , crumble with fetta and enjoy!",
       "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_800/hellofresh_s3/54f4ffa86ced6e13358b4568/step_556859b82faa5.jpg"
     }
   ]

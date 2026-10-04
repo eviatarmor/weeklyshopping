@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Italian White Bean Pie",
   "subtitle": "with Garlicky Broccoli & Flaked Almonds",
-  "description": "Get more out of your beans by whacking them into the oven and making them into a pie. In this inventive number, the beans act as your typical meaty filling and work wonders when paired with hidden veggies and a cheesy mash to top things off!\nWe’ve replaced the green beans in this recipe with broccoli florets due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
+  "description": "Get more out of your beans by whacking them into the oven and making them into a pie. In this inventive number, the beans act as your typical meaty filling and work wonders when paired with hidden veggies and a cheesy mash to top things off! We’ve replaced the green beans in this recipe with broccoli florets due to local ingredient availability. It’ll be just as delicious, just follow your recipe card!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-italian-white-bean-pie-67f858954264524ca9796c45",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1048_W22_AUS_Main_F2_high-70f3d78c.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 800,
+    "proteinG": 31.4,
+    "carbsG": 60.3,
+    "fatG": 45.9
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

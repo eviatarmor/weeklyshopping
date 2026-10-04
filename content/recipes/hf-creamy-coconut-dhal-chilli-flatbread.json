@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Creamy Coconut Dhal & Chilli Flatbreads",
   "subtitle": "with Yoghurt",
-  "description": "Dhal is always wholesome and delicious but this version raises the bar, with a creamy coconut base, mild spices and loads of\nveggies to keep things interesting. Plus, you'll quickly become addicted to the spicy flatbreads for dipping – they're easy to\ncreate and make this meal extraordinary!",
+  "description": "Dhal is always wholesome and delicious but this version raises the bar, with a creamy coconut base, mild spices and loads of veggies to keep things interesting. Plus, you'll quickly become addicted to the spicy flatbreads for dipping – they're easy to create and make this meal extraordinary!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/creamy-coconut-dhal-chilli-flatbread-6029ded2d161e015f1048131",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-coconut-dhal-chilli-flatbread-9fbe1228.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 928,
+    "proteinG": 32.4,
+    "carbsG": 95.1,
+    "fatG": 39.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

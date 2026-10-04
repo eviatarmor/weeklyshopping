@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Plant-Based Chick'n & Creamy Italian Sauce",
   "subtitle": "with Garlic Mash & Zesty Veggies",
-  "description": "Add a depth of flavour to your dinner by reaching for Nan's Special Seasoning! With a medley of paprika, pepper, onion and\ngarlic, it's the perfect coating for juicy plant-based crumbed chicken. Add a rich red pesto sauce, creamy mash and lemony veggies for a dish\nthat's all-round delish. Little cooks can help with this one, too.\nUnfortunately, this\nweek's potato was in\nshort supply, so we've\nreplaced it with sweet\npotato. Don't worry,\nthe recipe will be just\nas delicious!",
+  "description": "Add a depth of flavour to your dinner by reaching for Nan's Special Seasoning! With a medley of paprika, pepper, onion and garlic, it's the perfect coating for juicy plant-based crumbed chicken. Add a rich red pesto sauce, creamy mash and lemony veggies for a dish that's all-round delish. Little cooks can help with this one, too. Unfortunately, this week's potato was in short supply, so we've replaced it with sweet potato. Don't worry, the recipe will be just as delicious!",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/chicken-creamy-italian-sauce-632a6b856cc9732b500a4f8b",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/chicken-creamy-italian-sauce-af6ea51c.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 784,
+    "proteinG": 23.4,
+    "carbsG": 54.7,
+    "fatG": 51.2
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

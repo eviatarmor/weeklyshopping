@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/falafel-spiced-tomato-sauce-9301c041.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 760,
+    "proteinG": 25.9,
+    "carbsG": 93.7,
+    "fatG": 26.7
+  },
   "tags": [
     "vegetarian",
     "everyplate",

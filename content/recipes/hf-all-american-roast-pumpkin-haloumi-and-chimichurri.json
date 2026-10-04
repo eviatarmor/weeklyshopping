@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "All-American Roast Pumpkin, Haloumi & Chimichurri",
   "subtitle": "with Corn Rice, Plant-Based 'Aioli' & Almonds",
-  "description": "Roasted with a healthy sprinkle of our all-American spice blend, tonight's hearty pumpkin boasts the perfect balance of sweet\nand savoury flavours. Juicy bursts of charred sweetcorn make a welcome addition to the fragrant and fluffy rice, while the herby\nchimichurri and parsley really makes the dish sing.",
+  "description": "Roasted with a healthy sprinkle of our all-American spice blend, tonight's hearty pumpkin boasts the perfect balance of sweet and savoury flavours. Juicy bursts of charred sweetcorn make a welcome addition to the fragrant and fluffy rice, while the herby chimichurri and parsley really makes the dish sing.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/all-american-roast-pumpkin-haloumi-and-chimichurri-64f9344eefa78cf7bc58a0f3",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/64f9344eefa78cf7bc58a0f3-4dababec.jpeg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1067,
+    "proteinG": 31.4,
+    "carbsG": 87.8,
+    "fatG": 64.8
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

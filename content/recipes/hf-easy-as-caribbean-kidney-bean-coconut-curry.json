@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y26_R1008_W08_AU_R21743-4_Main_remove_lemon_wedge_edit_high-5bb73c46.jpg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 707,
+    "proteinG": 29.5,
+    "carbsG": 74.5,
+    "fatG": 32
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

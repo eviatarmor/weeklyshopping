@@ -8,6 +8,12 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1043_W31_AU_R23667-2_Main_coriander_edit_high-5a652451.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 1160,
+    "proteinG": 47.7,
+    "carbsG": 118,
+    "fatG": 52.2
+  },
   "tags": [
     "hellofresh",
     "chinese",

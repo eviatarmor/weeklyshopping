@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Indian Veggie-Loaded Coconut Dhal",
   "subtitle": "with Garlic Dippers & Tamarind Chutney",
-  "description": "This creamy Indian dish gets a wholesome boost from lentils, which are a great source of protein and fibre. Best of all, they give\nextra texture, which makes the perfect base for crispy garlic dippers to do some serious dunking",
+  "description": "This creamy Indian dish gets a wholesome boost from lentils, which are a great source of protein and fibre. Best of all, they give extra texture, which makes the perfect base for crispy garlic dippers to do some serious dunking",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/quick-indian-zucchini-lentil-and-coconut-dhal-649a4f9af14cb4e497266be1",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/66a9705d1960f8a32f0bf91c-1df70b2e.jpeg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 827,
+    "proteinG": 30.6,
+    "carbsG": 99.5,
+    "fatG": 31.4
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

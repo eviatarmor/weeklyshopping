@@ -3,11 +3,17 @@
   "kind": "meal",
   "title": "Superquick Plant-Based Crumbed Chick'n & Ribbon Slaw",
   "subtitle": "with Sesame-Sriracha Dressing",
-  "description": "Add some heat to your average side salad by spiking it with this sesame-sriracha sauce. Plate it up with golden crumbed chick'nand you'll have dinner ready in a flash!\nThis recipe is under 650kcal per serving.",
+  "description": "Add some heat to your average side salad by spiking it with this sesame-sriracha sauce. Plate it up with golden crumbed chick'nand you'll have dinner ready in a flash! This recipe is under 650kcal per serving.",
   "sourceUrl": "https://www.hellofresh.com.au/recipes/superquick-crumbed-basa-and-ribbon-slaw-67f85a20cade9b9f0ace71de",
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/673fd903c272efc8e0155eb5-fbfd30c1-721a4359.jpeg",
   "servings": 2,
   "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 418,
+    "proteinG": 21.3,
+    "carbsG": 44.8,
+    "fatG": 15
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
