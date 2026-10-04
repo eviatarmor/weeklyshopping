@@ -1,0 +1,93 @@
+{
+  "slug": "mk-quick-no-rise-pizza",
+  "kind": "meal",
+  "title": "Quick No-Rise Pizza",
+  "subtitle": "ready in half an hour",
+  "description": "A soft real yeast dough that puffs up as it bakes, with no proving beforehand.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-def38addd071a81027.htm",
+  "imageUrl": "https://img.mako.co.il/2022/02/23/pizza_NofarZur2_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "mako",
+    "pizza",
+    "baked",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Warm Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Dried Yeast",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "yeast"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Bread Flour",
+      "qty": 420,
+      "unit": "g",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Tomato Passata",
+      "product": "tomato-passata"
+    },
+    {
+      "name": "Mozzarella",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Pizza Toppings",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to its maximum temperature (about 250°C)."
+    },
+    {
+      "text": "Mix the water, honey, oil, yeast and salt in a mixer with a dough hook."
+    },
+    {
+      "text": "Gradually add the flour while kneading until you have a soft, smooth dough that pulls away from the sides of the bowl. Keep kneading for another 3-5 minutes."
+    },
+    {
+      "text": "Oil the dough, wait 10 minutes, then shape: stretch it into one large round or two small ones."
+    },
+    {
+      "text": "Spread the dough with tomato sauce and sprinkle with cheese and toppings of your choice."
+    },
+    {
+      "text": "Bake the pizza for 8-10 minutes and serve immediately."
+    }
+  ]
+}

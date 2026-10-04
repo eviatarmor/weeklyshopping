@@ -1,0 +1,86 @@
+{
+  "slug": "mk-buckwheat-with-mushrooms",
+  "kind": "meal",
+  "title": "Buckwheat with Mushrooms",
+  "subtitle": "and fried onion",
+  "description": "Buckwheat cooked with fried mushrooms and onion, one of the tastiest ways to make it.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-9f8f26fde016b81026.htm",
+  "imageUrl": "https://img.mako.co.il/2016/12/21/pitriot2_i.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "buckwheat",
+    "grain",
+    "mushroom",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Mushrooms",
+      "qty": 240,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Buckwheat",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 1.75,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a large pot. Add the finely chopped onion and fry for 2 minutes."
+    },
+    {
+      "text": "Add the chopped garlic, stir, then add the chopped mushrooms. Fry for about 5 minutes."
+    },
+    {
+      "text": "Add the rinsed buckwheat and the salt, stir and leave on the heat for another 2 minutes."
+    },
+    {
+      "text": "Add the water and bring to the boil. Lower the heat and cook for another 10-15 minutes, or until the water has evaporated."
+    },
+    {
+      "text": "Place a towel or paper towel over the top of the pot and cover with the lid."
+    },
+    {
+      "text": "Let the buckwheat rest in the pot for another 5 minutes, then serve."
+    }
+  ]
+}

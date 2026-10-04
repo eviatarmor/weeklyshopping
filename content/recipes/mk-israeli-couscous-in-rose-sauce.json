@@ -1,0 +1,117 @@
+{
+  "slug": "mk-israeli-couscous-in-rose-sauce",
+  "kind": "meal",
+  "title": "Israeli Couscous in Rose Sauce",
+  "subtitle": "with melted mozzarella",
+  "description": "Israeli couscous cooked in a creamy tomato rose sauce and topped with mozzarella.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-d5d0dbd5f6fdd81027.htm",
+  "imageUrl": "https://img.mako.co.il/2024/02/25/ptitim_rose3_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 15,
+  "tags": [
+    "mako",
+    "israeli couscous",
+    "creamy",
+    "tomato",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 10,
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Israeli Couscous",
+      "qty": 2,
+      "unit": "cup",
+      "product": "couscous"
+    },
+    {
+      "name": "Cream",
+      "qty": 250,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Water",
+      "qty": 2.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Basil",
+      "qty": 3,
+      "product": "basil"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.25,
+      "unit": "tbsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tbsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "mozzarella"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Halve the cherry tomatoes. Sear them with the olive oil and butter in a deep frying pan for 2-3 minutes."
+    },
+    {
+      "text": "Add the crushed garlic and Israeli couscous and stir."
+    },
+    {
+      "text": "Add the cream, water, basil, oregano and spices and stir for 5-7 minutes, until the couscous is cooked (if it looks like it needs more liquid, add another quarter cup of water)."
+    },
+    {
+      "text": "Slice the mozzarella and lay it on top. Stir through and dig in."
+    }
+  ]
+}

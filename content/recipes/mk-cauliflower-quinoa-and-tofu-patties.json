@@ -1,0 +1,106 @@
+{
+  "slug": "mk-cauliflower-quinoa-and-tofu-patties",
+  "kind": "meal",
+  "title": "Cauliflower, Quinoa and Tofu Patties",
+  "subtitle": "vegan and protein-packed",
+  "description": "Juicy vegan patties made from mashed cauliflower and quinoa, with soft tofu for extra protein.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-456b04fb95b8b81027.htm",
+  "imageUrl": "https://img.mako.co.il/2021/03/10/ktzizotcruvit_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "patties",
+    "vegan",
+    "quinoa",
+    "tofu"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "quinoa"
+    },
+    {
+      "name": "Soft Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu"
+    },
+    {
+      "name": "Tahini",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tahini"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Parsley",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Break the cauliflower into florets and boil in water until soft."
+    },
+    {
+      "text": "Drain, mash to a puree and transfer to a bowl."
+    },
+    {
+      "text": "Put the quinoa in a pot with 1 cup of water, bring to the boil, cover and cook for 10 minutes."
+    },
+    {
+      "text": "Add the cooked quinoa to the bowl with the mashed cauliflower."
+    },
+    {
+      "text": "Grate the tofu on a fine grater and add to the bowl."
+    },
+    {
+      "text": "Add the remaining ingredients and mix well."
+    },
+    {
+      "text": "Heat a little oil in a frying pan, shape the mixture into patties and fry until golden on both sides (start on high heat, and once one side is golden lower the heat and turn)."
+    },
+    {
+      "text": "Drain on paper towel and serve."
+    }
+  ]
+}

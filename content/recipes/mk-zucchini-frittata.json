@@ -1,0 +1,108 @@
+{
+  "slug": "mk-zucchini-frittata",
+  "kind": "meal",
+  "title": "Zucchini Frittata",
+  "subtitle": "with feta and fresh herbs",
+  "description": "A zucchini frittata made light by gently whipping the egg whites. Cooked in a pan with feta, sage and parsley.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-1900b64f7221a81026.htm",
+  "imageUrl": "https://img.mako.co.il/2023/08/20/kishufritata_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 20,
+  "tags": [
+    "mako",
+    "frittata",
+    "eggs",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "qty": 4,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Sage",
+      "qty": 1,
+      "product": "sage"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Feta",
+      "qty": 100,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Separate the eggs. Lightly whip the egg whites to a soft foam."
+    },
+    {
+      "text": "Heat the olive oil in a pan and fry the finely chopped onion and garlic. Add the sliced zucchini."
+    },
+    {
+      "text": "In a bowl, mix the egg yolks, cream, flour, chopped sage, chopped parsley and grated cheese (keep a little cheese aside). At the last moment fold in the whipped whites gently, then pour into the pan."
+    },
+    {
+      "text": "Cook over low heat with the pan covered for about 5 minutes. Sprinkle a little more cheese on top."
+    },
+    {
+      "text": "Either put the pan in the oven or keep cooking on the stove for another 2 minutes, or until the frittata is set. Season with salt and pepper."
+    }
+  ]
+}
