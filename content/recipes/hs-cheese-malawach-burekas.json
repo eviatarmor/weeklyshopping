@@ -1,0 +1,76 @@
+{
+  "slug": "hs-cheese-malawach-burekas",
+  "kind": "meal",
+  "title": "Cheese Malawach Burekas",
+  "subtitle": "with yellow cheese and feta",
+  "description": "Frozen malawach pastry spread with yellow cheese and feta, rolled into logs and baked. Serve with a fresh salad and hot sauce if you like.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%9e%d7%9e%d7%95%d7%9c%d7%90-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%96%d7%99%d7%95%d7%95%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/10/bur7282-2000x1125-1140x641.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "cheese",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Malawach",
+      "qty": 2
+    },
+    {
+      "name": "Yellow Cheese",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Feta",
+      "qty": 40,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roll out the malawach on a floured surface to a square shape and cut in half to make two rectangles."
+    },
+    {
+      "text": "Mix the grated yellow cheese and feta in a bowl into an even filling."
+    },
+    {
+      "text": "Spread the filling over each rectangle (40 g of filling per piece of dough)."
+    },
+    {
+      "text": "Roll the cheese-covered malawach into a closed log."
+    },
+    {
+      "text": "Brush the burekas with beaten egg and sprinkle with sesame seeds to taste."
+    },
+    {
+      "text": "Bake for about 20 minutes in an oven preheated to 180°C, or until the burekas turn golden."
+    }
+  ],
+  "nutrition": {
+    "kcal": 299,
+    "proteinG": 21,
+    "carbsG": 1.8,
+    "fatG": 22.8,
+    "estimated": true
+  }
+}

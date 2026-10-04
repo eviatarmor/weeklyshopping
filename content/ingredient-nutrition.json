@@ -986,6 +986,16 @@
       "packet": 30
     }
   },
+  "camembert": {
+    "kcal": 300,
+    "p": 20,
+    "c": 0.5,
+    "f": 24,
+    "g": {
+      "g": 1,
+      "count": 125
+    }
+  },
   "canned crushed tomatoes": {
     "kcal": 24,
     "p": 1.3,
@@ -1915,6 +1925,19 @@
       "g": 1
     }
   },
+  "cream cheese (light)": {
+    "kcal": 150,
+    "p": 8,
+    "c": 5,
+    "f": 11,
+    "g": {
+      "g": 1,
+      "cup": 240,
+      "tbsp": 15,
+      "tub": 250,
+      "packet": 250
+    }
+  },
   "creamy pesto dressing": {
     "kcal": 400,
     "p": 2,
@@ -2746,6 +2769,18 @@
       "packet": 375,
       "slice": 25,
       "count": 25
+    }
+  },
+  "filo pastry sheets": {
+    "kcal": 300,
+    "p": 7,
+    "c": 58,
+    "f": 3,
+    "g": {
+      "g": 1,
+      "packet": 375,
+      "count": 20,
+      "sheet": 20
     }
   },
   "fine breadcrumbs": {
@@ -4411,6 +4446,18 @@
       "count": 20
     }
   },
+  "low-fat baking cheese": {
+    "kcal": 110,
+    "p": 12,
+    "c": 4,
+    "f": 5,
+    "g": {
+      "g": 1,
+      "cup": 240,
+      "tub": 250,
+      "packet": 250
+    }
+  },
   "mace": {
     "kcal": 475,
     "p": 6.7,
@@ -4456,6 +4503,17 @@
       "leaves": 0.5
     }
   },
+  "malawach": {
+    "kcal": 370,
+    "p": 6,
+    "c": 40,
+    "f": 21,
+    "g": {
+      "g": 1,
+      "count": 110,
+      "packet": 440
+    }
+  },
   "malaysian tofu": {
     "kcal": 120,
     "p": 13,
@@ -4486,6 +4544,16 @@
     "f": 0.5,
     "g": {
       "g": 1
+    }
+  },
+  "manchego cheese": {
+    "kcal": 390,
+    "p": 26,
+    "c": 1,
+    "f": 32,
+    "g": {
+      "g": 1,
+      "cup": 100
     }
   },
   "maple syrup": {
@@ -5561,6 +5629,18 @@
       "slice": 5
     }
   },
+  "pilas pastry": {
+    "kcal": 400,
+    "p": 6,
+    "c": 38,
+    "f": 25,
+    "g": {
+      "g": 1,
+      "packet": 500,
+      "count": 500,
+      "sheet": 60
+    }
+  },
   "pine nuts": {
     "kcal": 673,
     "p": 14,
@@ -5826,6 +5906,17 @@
     "f": 38,
     "g": {
       "g": 1
+    }
+  },
+  "puff pastry (packet)": {
+    "kcal": 400,
+    "p": 6,
+    "c": 38,
+    "f": 25,
+    "g": {
+      "g": 1,
+      "packet": 500,
+      "count": 500
     }
   },
   "pumpkin": {
@@ -6133,6 +6224,17 @@
       "cup": 160
     }
   },
+  "rice paper sheets": {
+    "kcal": 330,
+    "p": 6,
+    "c": 80,
+    "f": 0.5,
+    "g": {
+      "g": 1,
+      "count": 9,
+      "sheet": 9
+    }
+  },
   "rice vermicelli": {
     "kcal": 360,
     "p": 6,
@@ -6265,6 +6367,17 @@
     "f": 7,
     "g": {
       "cup": 110
+    }
+  },
+  "roasted eggplant": {
+    "kcal": 50,
+    "p": 1,
+    "c": 9,
+    "f": 1.5,
+    "g": {
+      "g": 1,
+      "count": 300,
+      "cup": 200
     }
   },
   "roasted hazelnuts": {
@@ -6429,6 +6542,17 @@
       "tbsp": 18,
       "pinch": 0.3,
       "g": 1
+    }
+  },
+  "salty white cheese": {
+    "kcal": 250,
+    "p": 17,
+    "c": 2,
+    "f": 20,
+    "g": {
+      "g": 1,
+      "cup": 150,
+      "packet": 250
     }
   },
   "savory leaves": {
@@ -7605,6 +7729,16 @@
       "g": 1
     }
   },
+  "tom cheese": {
+    "kcal": 350,
+    "p": 25,
+    "c": 1,
+    "f": 28,
+    "g": {
+      "g": 1,
+      "cup": 100
+    }
+  },
   "tomato": {
     "kcal": 18,
     "p": 0.9,
@@ -8221,6 +8355,16 @@
     "f": 27,
     "g": {
       "g": 1
+    }
+  },
+  "yellow cheese (cup)": {
+    "kcal": 350,
+    "p": 25,
+    "c": 1,
+    "f": 28,
+    "g": {
+      "g": 1,
+      "cup": 100
     }
   },
   "yellow cherry tomatoes": {

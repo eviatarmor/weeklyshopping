@@ -1,0 +1,132 @@
+{
+  "slug": "hs-cheese-and-mushroom-burekitas",
+  "kind": "meal",
+  "title": "Cheese and Mushroom Burekitas",
+  "subtitle": "with a kashkaval sour cream pastry",
+  "description": "Small rectangular pastries of kashkaval and sour cream dough filled with slow-cooked porcini and button mushrooms. The filling makes enough for half the dough.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%99%d7%98%d7%a1-%d7%92%d7%91%d7%99%d7%a0%d7%94-%d7%95%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/08/kmahim-18-1140x641-1598872334.jpg",
+  "servings": 6,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "mushroom",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 500,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Cold Butter",
+      "qty": 300,
+      "unit": "g",
+      "product": "butter"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 200,
+      "unit": "g",
+      "product": "sour-cream"
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Dried Porcini Mushrooms",
+      "qty": 5,
+      "unit": "g",
+      "product": "dried-porcini-mushrooms"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 750,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Thyme",
+      "qty": 10,
+      "product": "thyme"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Nigella Seeds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place the flour, salt and cold butter in a mixer with the paddle attachment and mix to crumbs. Add the sour cream and mix to a dough. Add the grated kashkaval and mix until even. Flatten by hand to a rectangle about 2 cm thick, wrap in cling film and refrigerate for 2 hours."
+    },
+    {
+      "text": "Soak the porcini in 1/2 cup boiling water for about 10 minutes."
+    },
+    {
+      "text": "Meanwhile, heat the olive oil in a medium pot and fry the finely chopped onion over medium heat for 5 minutes until golden. Add the finely chopped button mushrooms, the porcini and 3-4 tablespoons of the soaking liquid, and season with salt, pepper and thyme leaves. Cook about 5 minutes until the sauce reduces. Taste and adjust seasoning. Add the butter while stirring and cook for about 20 minutes over medium-high heat until the liquid has almost completely reduced. Cool."
+    },
+    {
+      "text": "Preheat the oven to 200°C and line 2 trays with baking paper."
+    },
+    {
+      "text": "Divide the dough into 2 parts and roll one part out on a floured surface to 2 mm thick. Cut 5 cm squares with a pizza cutter or sharp knife. Place a teaspoon of mushroom filling in the centre of each, fold into a rectangle and press the edges together firmly. Arrange on the tray, brush with beaten egg and sprinkle with nigella seeds or sesame seeds."
+    },
+    {
+      "text": "Bake for 15-20 minutes until lightly golden."
+    }
+  ],
+  "nutrition": {
+    "kcal": 955,
+    "proteinG": 19.3,
+    "carbsG": 72.3,
+    "fatG": 66.6,
+    "estimated": true
+  }
+}

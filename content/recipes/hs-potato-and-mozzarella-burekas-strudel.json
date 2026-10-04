@@ -1,0 +1,104 @@
+{
+  "slug": "hs-potato-and-mozzarella-burekas-strudel",
+  "kind": "meal",
+  "title": "Potato and Mozzarella Burekas Strudel",
+  "subtitle": "with chives and garlic",
+  "description": "A long burekas-style roll of pilas or puff pastry filled with baked mashed potato, garlic, chives and smoked mozzarella. Rest it for 5 minutes before slicing so it holds together.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a9%d7%98%d7%a8%d7%95%d7%93%d7%9c-%d7%aa%d7%a4%d7%95%d7%97%d7%99-%d7%90%d7%93%d7%9e%d7%94-%d7%95%d7%9e%d7%95%d7%a6%d7%a8%d7%9c%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/830_510-10-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 110,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "strudel",
+    "potato",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 700,
+      "unit": "g",
+      "product": "potato"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Chives",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "chives"
+    },
+    {
+      "name": "Sea Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Smoked Mozzarella",
+      "qty": 250,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Pilas Pastry",
+      "qty": 350,
+      "unit": "g"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds",
+      "optional": true
+    },
+    {
+      "name": "Nigella Seeds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Bake the unpeeled potatoes for about 1 hour until soft."
+    },
+    {
+      "text": "Cool, peel and mash the potatoes. Add the crushed garlic, chives, salt, pepper and grated mozzarella and mix."
+    },
+    {
+      "text": "Spread the pastry sheet on a floured surface or baking paper, spread the mash across the third of the sheet nearest you and roll into a tight, long roll. Press the ends together and place seam side down on a tray. Refrigerate for at least 20 minutes (it can be kept up to 48 hours or frozen)."
+    },
+    {
+      "text": "Preheat the oven to 200°C, brush the strudel with beaten egg and sprinkle with sesame and/or nigella seeds."
+    },
+    {
+      "text": "Bake for 30 minutes until deep golden. Let it stand for 5 minutes before slicing, otherwise it will fall apart."
+    }
+  ],
+  "nutrition": {
+    "kcal": 338,
+    "proteinG": 20.3,
+    "carbsG": 31.8,
+    "fatG": 14.5,
+    "estimated": true
+  }
+}

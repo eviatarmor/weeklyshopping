@@ -1,0 +1,151 @@
+{
+  "slug": "hs-gluten-free-cheese-and-pizza-sauce-burekas",
+  "kind": "meal",
+  "title": "Gluten-Free Cheese and Pizza Sauce Burekas",
+  "subtitle": "sambusak-style half-moons",
+  "description": "Gluten-free yeast dough half-moons filled with tomato sauce, feta, mozzarella and yellow cheese. The dough is a little sticky, so a floured silicone mat helps.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9e%d7%91%d7%95%d7%a1%d7%a7-%d7%9c%d7%9c%d7%90-%d7%92%d7%9c%d7%95%d7%98%d7%9f-%d7%91%d7%9e%d7%99%d7%9c%d7%95%d7%99-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%a8%d7%95%d7%98%d7%91-%d7%a4/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/IMG_0605-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 150,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "gluten-free",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Bread Flour",
+      "qty": 500,
+      "unit": "g",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Gluten-Free Pastry Flour",
+      "qty": 250,
+      "unit": "g",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Bread Improver",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Xanthan Gum",
+      "qty": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Dried Yeast",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "yeast"
+    },
+    {
+      "name": "Lukewarm Water",
+      "qty": 420,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Egg Yolks",
+      "qty": 3
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 120,
+      "unit": "ml",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Cornflour",
+      "qty": 40,
+      "unit": "g",
+      "product": "cornflour"
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 200,
+      "unit": "g",
+      "product": "tomato-sauce"
+    },
+    {
+      "name": "Feta",
+      "qty": 250,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 250,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Yellow Cheese",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "sesame-seeds"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix all the dough ingredients in a mixer with a dough hook until combined, adding water if needed. Knead for 10 minutes on medium speed until slightly sticky. Cover with cling film and let rise until doubled."
+    },
+    {
+      "text": "Flour the work surface well with cornflour. Divide the dough into 3 parts and roll each to 1/2 cm thick. Cut 12 cm rounds."
+    },
+    {
+      "text": "Spoon tomato sauce into the centre of each round and sprinkle with the crumbled feta, grated mozzarella and yellow cheese. Fold into half-moons and press the edges with your fingers or a fork."
+    },
+    {
+      "text": "Place on trays lined with baking paper, cover with towels and let rise a second time for 45-60 minutes."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Brush with beaten egg and sprinkle with sesame seeds. Bake for 30 minutes until golden. Cool slightly."
+    }
+  ],
+  "nutrition": {
+    "kcal": 687,
+    "proteinG": 30.2,
+    "carbsG": 25.4,
+    "fatG": 52.9,
+    "estimated": true
+  }
+}

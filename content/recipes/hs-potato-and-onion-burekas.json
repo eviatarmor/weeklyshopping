@@ -1,0 +1,99 @@
+{
+  "slug": "hs-potato-and-onion-burekas",
+  "kind": "meal",
+  "title": "Potato and Onion Burekas",
+  "subtitle": "in rolled pilas pastry",
+  "description": "Small rolls of thin pilas pastry filled with mashed potato and soft onion, left open at the ends so the filling peeks out while baking.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%aa%d7%a4%d7%95%d7%97%d7%99-%d7%90%d7%93%d7%9e%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/650-15-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "potato",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pilas Pastry",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 3,
+      "product": "potato"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C and line 3 trays with baking paper. Boil, peel and mash the potatoes."
+    },
+    {
+      "text": "Heat a pan over medium heat, add the olive oil and finely chopped onion and fry for about 5 minutes, stirring occasionally, until soft. Cool well."
+    },
+    {
+      "text": "Transfer the onion to a bowl with its oil. Add the mashed potato, season with salt and pepper, mix, then taste and adjust."
+    },
+    {
+      "text": "Spread the pastry on the work surface with the plastic side down. Cut across into 15 strips 6 cm wide, then cut each strip into 3 rectangles to make 45 rectangles of 6 x 8 cm. Place a teaspoon of filling along the narrow edge of each rectangle and roll into a small log (there is no need to seal the ends; the filling peeks out a little while baking)."
+    },
+    {
+      "text": "Place the burekas on the trays seam side down. Beat the egg with the water, brush over and sprinkle with sesame seeds."
+    },
+    {
+      "text": "Bake in the hot oven for 20-25 minutes until golden. Serve hot with hard-boiled eggs, olives and cucumbers. Store airtight in the fridge for up to 3 days and reheat at 170°C for a few minutes."
+    }
+  ],
+  "nutrition": {
+    "kcal": 152,
+    "proteinG": 3.3,
+    "carbsG": 19.4,
+    "fatG": 6.9,
+    "estimated": true
+  }
+}

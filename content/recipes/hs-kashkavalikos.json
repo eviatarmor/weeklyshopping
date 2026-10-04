@@ -1,0 +1,67 @@
+{
+  "slug": "hs-kashkavalikos",
+  "kind": "meal",
+  "title": "Kashkavalikos",
+  "subtitle": "flower-shaped kashkaval burekas",
+  "description": "Turkish pilas pastry brushed with butter and covered with kashkaval, cut into squares and rolled into flower-shaped burekas.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a9%d7%a7%d7%91%d7%9c%d7%99%d7%a7%d7%95%d7%a1/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/05/kashkavalikos_830X510-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "cheese",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Turkish Pilas Pastry",
+      "qty": 1,
+      "unit": "packet"
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 400,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C on turbo (fan-forced) and line a tray with baking paper."
+    },
+    {
+      "text": "Spread the pastry on the work surface and brush generously with the melted butter. Scatter the coarsely grated kashkaval over all the pastry and press down with your palms."
+    },
+    {
+      "text": "Cut the pastry in half across and then into squares of about 10 cm."
+    },
+    {
+      "text": "Make 6 cuts in each square with a pizza cutter, 1 cm apart, leaving a 1 1/2 cm border uncut at the top and bottom. Roll the pastry square diagonally from the right corner into a small roll and fold into a flower shape. Place on the tray."
+    },
+    {
+      "text": "Bake for about 25 minutes until nicely golden."
+    },
+    {
+      "text": "Best served the same day, but it keeps in the fridge for up to two days; reheat in a hot oven before serving."
+    }
+  ],
+  "nutrition": {
+    "kcal": 353,
+    "proteinG": 16.8,
+    "carbsG": 0.7,
+    "fatG": 32.2,
+    "estimated": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "hs-low-carb-goat-cheese-burekitas",
+  "kind": "meal",
+  "title": "Low-Carb Goat Cheese Burekitas",
+  "subtitle": "with an almond flour cheese dough",
+  "description": "Low-carb triangles with a dough of melted yellow cheese and almond flour, filled with slices of goat cheese and sprinkled with sesame.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%99%d7%98%d7%a1-%d7%93%d7%9c%d7%99-%d7%a4%d7%97%d7%9e%d7%99%d7%9e%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/A66I5349-1140x641.jpg",
+  "servings": 3,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "low-carb",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Yellow Cheese",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Almond Meal",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Himalayan Salt",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Goat Cheese Log",
+      "qty": 1
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "sesame-seeds"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Melt the yellow cheese in the microwave for about 30 seconds and mix with the almond meal and salt into a dough. Roll out and cut into rounds."
+    },
+    {
+      "text": "Place a slice of goat cheese in the centre of each round and fold into a triangle. Brush with beaten egg and sprinkle with sesame seeds."
+    },
+    {
+      "text": "Bake in an oven or toaster oven at 160-170°C for about 15 minutes."
+    }
+  ],
+  "nutrition": {
+    "kcal": 540,
+    "proteinG": 26.5,
+    "carbsG": 12.6,
+    "fatG": 45.6,
+    "estimated": true
+  }
+}

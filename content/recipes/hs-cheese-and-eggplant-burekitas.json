@@ -1,0 +1,124 @@
+{
+  "slug": "hs-cheese-and-eggplant-burekitas",
+  "kind": "meal",
+  "title": "Cheese and Eggplant Burekitas",
+  "subtitle": "with an overnight yeast dough",
+  "description": "Yeasted butter pastry half-moons filled with salty cheese, hard Tzfat cheese and roasted eggplant flesh. Start the dough the night before.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%99%d7%98%d7%a1-%d7%91%d7%9e%d7%99%d7%9c%d7%95%d7%99-%d7%92%d7%91%d7%99%d7%a0%d7%94-%d7%95%d7%97%d7%a6%d7%99%d7%9c%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/Image_8094-1140x641-1629031890.jpg",
+  "servings": 6,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 500,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Yeast",
+      "qty": 25,
+      "unit": "g",
+      "product": "yeast"
+    },
+    {
+      "name": "Water",
+      "qty": 300,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 200,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Salty White Cheese",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Tzfat Cheese",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Egg Yolk",
+      "qty": 1
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "sesame-seeds"
+    }
+  ],
+  "steps": [
+    {
+      "text": "The night before, mix the flour, yeast, water, sugar, salt and soft butter in a mixer with a dough hook for 8 minutes until the dough is pliable and not sticky. Cover and refrigerate overnight."
+    },
+    {
+      "text": "Roast the eggplant until soft and scoop out 100 g of flesh. Mix it with the cheeses, egg yolk, salt and pepper in a bowl."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Roll the dough out to 3-4 mm thick and cut 10 cm rounds. Place a teaspoon of filling in the centre of each, fold into half-moons and press the edges with a fork. Brush with beaten egg and sprinkle with sesame seeds. Place on a tray with space between them."
+    },
+    {
+      "text": "Bake for about 20 minutes until golden. If freezing, wait until the pastries cool to room temperature."
+    }
+  ],
+  "nutrition": {
+    "kcal": 737,
+    "proteinG": 19.7,
+    "carbsG": 70.3,
+    "fatG": 42.3,
+    "estimated": true
+  }
+}

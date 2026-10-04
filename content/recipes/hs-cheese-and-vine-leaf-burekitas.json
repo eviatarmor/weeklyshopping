@@ -1,0 +1,144 @@
+{
+  "slug": "hs-cheese-and-vine-leaf-burekitas",
+  "kind": "meal",
+  "title": "Cheese and Vine Leaf Burekitas",
+  "subtitle": "with ricotta and sheep milk yoghurt",
+  "description": "Spelt pastry half-moons filled with caramelised onion, vine leaves, raisins, ricotta and sheep milk yoghurt, wrapped in olive oil brushed vine leaves for baking.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%99%d7%98%d7%a1-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%a2%d7%9c%d7%99-%d7%92%d7%a4%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/04/HashulChan-Hamachleva-17436-copy-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wholemeal Spelt Flour",
+      "qty": 300,
+      "unit": "g",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 140,
+      "unit": "ml",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 50,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Maple Syrup",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "maple-syrup"
+    },
+    {
+      "name": "Water",
+      "qty": 90,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Fresh Vine Leaves",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "green-chilli"
+    },
+    {
+      "name": "Raisins",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "sultanas"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 200,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Sheep Milk Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sea Salt",
+      "product": "salt",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the dough: mix the spelt flour, 50 g olive oil, cream, a pinch of salt, maple syrup and water into a smooth dough, wrap in cling film and chill for 20 minutes."
+    },
+    {
+      "text": "Make the filling: heat 3 tablespoons olive oil in a pan and fry the chopped onion for about 10 minutes over medium heat until golden. Add the chopped vine leaves, pepper, 1/2 teaspoon salt, chilli and raisins and stir for 3-4 minutes. Remove from the heat and cool."
+    },
+    {
+      "text": "Transfer to a bowl, add the ricotta, yoghurt and 1 egg and mix until even."
+    },
+    {
+      "text": "Preheat the oven to 175°C and line a tray with baking paper."
+    },
+    {
+      "text": "Roll the dough thinly to 1/4-1/2 cm and cut 8 cm rounds. Cover with a towel."
+    },
+    {
+      "text": "Brush the edge of each round with beaten egg, place about 1 teaspoon of filling in the centre, fold into a half-moon and press with a fork to seal. Place on the tray and brush with the remaining beaten egg. Brush halved blanched vine leaves with olive oil, wrap them around the burekitas and sprinkle with sea salt."
+    },
+    {
+      "text": "Bake for 17-20 minutes until golden and crisp."
+    }
+  ],
+  "nutrition": {
+    "kcal": 496,
+    "proteinG": 13.7,
+    "carbsG": 43.1,
+    "fatG": 31.6,
+    "estimated": true
+  }
+}

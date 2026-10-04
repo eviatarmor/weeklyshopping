@@ -1,0 +1,103 @@
+{
+  "slug": "hs-artichoke-leek-and-camembert-burekas-braid",
+  "kind": "meal",
+  "title": "Artichoke, Leek and Camembert Burekas Braid",
+  "subtitle": "with Manchego in puff pastry",
+  "description": "A plaited puff pastry burekas loaf filled with artichoke hearts, blanched leek, camembert and Manchego. It can be filled and frozen, then baked straight from the freezer.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%90%d7%a8%d7%98%d7%99%d7%a9%d7%95%d7%a7-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%94-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%aa-%d7%a7%d7%9e%d7%9e%d7%91%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/830_510-3-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 100,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "baked",
+    "savoury"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "qty": 600,
+      "unit": "g",
+      "product": "puff-pastry"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "qty": 10,
+      "product": "artichoke-hearts"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Leek",
+      "qty": 300,
+      "unit": "g",
+      "product": "leek"
+    },
+    {
+      "name": "Camembert",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Manchego Cheese",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fry the cubed artichoke hearts in a hot pan with the oil for 5 minutes until golden (or skip this step). Season with salt and pepper and transfer to a bowl."
+    },
+    {
+      "text": "Blanch the chopped leek in boiling salted water for about 5 minutes. Drain well and squeeze out the excess water. Add to the bowl with the artichokes, add the camembert pieces and grated Manchego and mix."
+    },
+    {
+      "text": "Spread the pastry on baking paper. Place the filling on the middle third along its whole length. Cut diagonal strips from the two outer thirds without detaching them from the centre. Cover the filling with the strips, alternating from each side, to give a plaited look."
+    },
+    {
+      "text": "Freeze for 1 hour until the pastry is completely frozen. You can prepare up to here and keep in the freezer until needed."
+    },
+    {
+      "text": "Preheat the oven to 190°C."
+    },
+    {
+      "text": "Transfer the braid on its baking paper to a tray and brush with beaten egg."
+    },
+    {
+      "text": "Bake for about 35 minutes until the pastry is golden and cooked through."
+    }
+  ],
+  "nutrition": {
+    "kcal": 677,
+    "proteinG": 10.5,
+    "carbsG": 57.3,
+    "fatG": 45,
+    "estimated": true
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "hs-swiss-chard-burekas-cups",
+  "kind": "meal",
+  "title": "Swiss Chard Burekas Cups",
+  "subtitle": "with kashkaval and ricotta in filo",
+  "description": "Filo squares pressed into a muffin tin and filled with a blended chard, kashkaval and ricotta mixture, then baked until golden.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%9e%d7%a0%d7%92%d7%95%d7%9c%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/Bishulim-4.6.15-22-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "filo",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Swiss Chard",
+      "qty": 500,
+      "unit": "g",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 100,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Filo Pastry Sheets",
+      "qty": 2
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the chard leaves in a little olive oil until completely soft. Season with salt and pepper and leave to cool. Process in a food processor to a coarse paste."
+    },
+    {
+      "text": "Grate 100 g of the kashkaval and crumble the ricotta. Mix the chard with the cheeses and adjust the seasoning if needed."
+    },
+    {
+      "text": "Preheat the oven to 190°C. Brush one filo sheet with olive oil, place a second sheet on top and brush again. Cut the sheets into 15 x 15 cm squares."
+    },
+    {
+      "text": "Line a muffin tin with the filo squares and fill with the chard and cheese mixture. Fold the edges inwards."
+    },
+    {
+      "text": "Sprinkle with the remaining 2 tablespoons grated kashkaval and bake until browned."
+    }
+  ],
+  "nutrition": {
+    "kcal": 212,
+    "proteinG": 12.5,
+    "carbsG": 5.7,
+    "fatG": 16.4,
+    "estimated": true
+  }
+}

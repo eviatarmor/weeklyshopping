@@ -1,0 +1,116 @@
+{
+  "slug": "hs-eggplant-and-kashkaval-burekas",
+  "kind": "meal",
+  "title": "Eggplant and Kashkaval Burekas",
+  "subtitle": "with ready-made pilas pastry",
+  "description": "Quick triangle burekas of pilas pastry filled with fire-roasted eggplant, fried onion and kashkaval. Serve hot with hard-boiled eggs, olives and cucumbers.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%97%d7%a6%d7%99%d7%9c%d7%99%d7%9d-%d7%95%d7%a7%d7%a9%d7%a7%d7%91%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/חצילים-830-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "eggplant",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pilas Pastry",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 2,
+      "product": "eggplant"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Poppy Seeds",
+      "product": "poppy-seeds",
+      "optional": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Char the eggplants over an open flame for a few minutes on each side until blackened and soft. Cool for 10-15 minutes, peel and drain the flesh in a sieve for about 1 hour."
+    },
+    {
+      "text": "Roughly chop the eggplant flesh and place in a bowl."
+    },
+    {
+      "text": "Heat a pan over medium heat, add the olive oil and finely chopped onion and fry for about 5 minutes, stirring occasionally, until soft. Cool well."
+    },
+    {
+      "text": "Add the onion and its oil to the eggplant. Add the coarsely grated kashkaval, season with a little salt and pepper and mix."
+    },
+    {
+      "text": "Preheat the oven to 180°C and line 3 trays with baking paper."
+    },
+    {
+      "text": "Spread out the pastry with the plastic side down. Cut across into 12 strips 8 cm wide, then cut each strip into 3 squares to make 36 squares. Place a teaspoon of filling in the centre of each square, close into a triangle and press the edges firmly."
+    },
+    {
+      "text": "Place on the trays. Beat the egg with the water, brush the pastries and sprinkle with poppy or sesame seeds."
+    },
+    {
+      "text": "Bake in the hot oven for 20-25 minutes until golden. Serve hot with hard-boiled eggs, olives and cucumbers. Store airtight in the fridge for up to 3 days and reheat at 170°C for a few minutes."
+    }
+  ],
+  "nutrition": {
+    "kcal": 162,
+    "proteinG": 6.7,
+    "carbsG": 9.6,
+    "fatG": 11.7,
+    "estimated": true
+  }
+}

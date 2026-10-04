@@ -1,0 +1,130 @@
+{
+  "slug": "hs-eggplant-and-feta-burekitas",
+  "kind": "meal",
+  "title": "Eggplant and Feta Burekitas",
+  "subtitle": "with kashkaval",
+  "description": "Soft butter and oil dough half-moons filled with roasted eggplant, feta and kashkaval.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%99%d7%98%d7%a1-%d7%97%d7%a6%d7%99%d7%9c%d7%99%d7%9d-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%94-%d7%91%d7%95%d7%9c%d7%92%d7%a8%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-26-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "eggplant",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 500,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 100,
+      "unit": "ml",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 120,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 0.5,
+      "unit": "packet",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Roasted Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Feta",
+      "qty": 120,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Egg Yolk",
+      "qty": 1
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs",
+      "optional": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the dough: mix the flour, butter, oil, water, baking powder and 1 teaspoon flat salt into a smooth, soft, pleasant dough."
+    },
+    {
+      "text": "Make the filling: peel and chop the roasted eggplant and mix with the feta, finely grated kashkaval, salt, pepper and egg yolk into an even mixture (add the breadcrumbs only if the mixture is too loose)."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Roll the dough into small balls of 35 g each. Flatten them, place a teaspoon of filling in the centre of each and close into crescents. Press the edges with a fork or pinch with your fingers and place on a tray lined with baking paper."
+    },
+    {
+      "text": "Brush with beaten egg, sprinkle with sesame seeds and bake for about 25 minutes or until lightly golden."
+    }
+  ],
+  "nutrition": {
+    "kcal": 702,
+    "proteinG": 17,
+    "carbsG": 64.5,
+    "fatG": 41.4,
+    "estimated": true
+  }
+}

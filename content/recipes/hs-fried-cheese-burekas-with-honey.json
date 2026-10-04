@@ -1,0 +1,176 @@
+{
+  "slug": "hs-fried-cheese-burekas-with-honey",
+  "kind": "meal",
+  "title": "Fried Cheese Burekas with Honey",
+  "subtitle": "with a rose and basil seed yoghurt dip",
+  "description": "Fried half-moons of a cooked-flour dough filled with ricotta, mozzarella, pecorino and parmesan, drizzled with lavender honey and served with a rose and basil seed yoghurt dip.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9e%d7%91%d7%95%d7%a1%d7%a7-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%9e%d7%91%d7%a6%d7%a7-%d7%a8%d7%91%d7%95%d7%9a/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/05/IMG_3123-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 120,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "fried",
+    "cheese",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Water",
+      "qty": 300,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tipo 00 Flour",
+      "qty": 490,
+      "unit": "g",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Durum Flour",
+      "qty": 90,
+      "unit": "g",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Salt",
+      "qty": 5,
+      "unit": "g",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Egg Yolks",
+      "qty": 3
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Ricotta",
+      "qty": 150,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 60,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Pecorino",
+      "qty": 50,
+      "unit": "g"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Dried Mint",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "dried-mint"
+    },
+    {
+      "name": "Canola Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Dried Lavender",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Blue Cheese",
+      "qty": 30,
+      "unit": "g",
+      "product": "blue-cheese",
+      "optional": true
+    },
+    {
+      "name": "Goat Milk Yoghurt",
+      "qty": 200,
+      "unit": "ml",
+      "product": "yoghurt"
+    },
+    {
+      "name": "Basil Seeds",
+      "qty": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "name": "Dried Rose Petals",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Rosewater",
+      "qty": 1,
+      "unit": "tsp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring 250 ml water and the olive oil to the boil, reduce to medium-low, add 90 g of the 00 flour, the durum flour and 1 tsp of the salt, and cook for 5 minutes, stirring vigorously. Remove from the heat, cool slightly, shape into a ball by hand, wrap in cling film and refrigerate for 1 hour."
+    },
+    {
+      "text": "Mix the cooked dough in a mixer with a dough hook for 30 seconds. Add 1 egg yolk and 400 g of 00 flour and mix until you have a stable dough."
+    },
+    {
+      "text": "Roll out to 2 mm thick with a pasta machine or rolling pin and cut 10 cm rounds. The dough can be made up to 3 days ahead; take it out of the fridge 20 minutes before rolling."
+    },
+    {
+      "text": "Whisk the remaining 2 egg yolks and the egg, crumble in the ricotta, add the mozzarella, pecorino, parmesan, mint and 4 g salt and mix until even."
+    },
+    {
+      "text": "Place a spoonful of filling on each round, brush the edges with a little water, fold into half-moons and press to seal."
+    },
+    {
+      "text": "Heat oil for deep frying in a wide, deep pot. Fry 2-3 burekas at a time, about 1 1/2 minutes per side, turning with a slotted spoon. Drain on a plate."
+    },
+    {
+      "text": "Meanwhile, bring the honey, 2 tablespoons water and the lavender to the boil for about 1 minute and remove from the heat."
+    },
+    {
+      "text": "Mix the yoghurt, 50 ml water, basil seeds, rose petals and rosewater and leave for 20 minutes until the seeds swell and the dip thickens slightly."
+    },
+    {
+      "text": "Arrange the burekas on a platter, pour the honey over, scatter with blue cheese if using, and serve with the yoghurt dip."
+    }
+  ],
+  "nutrition": {
+    "kcal": 513,
+    "proteinG": 22.1,
+    "carbsG": 30.8,
+    "fatG": 34.2,
+    "estimated": true
+  }
+}

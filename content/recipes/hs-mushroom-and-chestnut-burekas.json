@@ -1,0 +1,129 @@
+{
+  "slug": "hs-mushroom-and-chestnut-burekas",
+  "kind": "meal",
+  "title": "Mushroom and Chestnut Burekas",
+  "subtitle": "with ricotta and parmesan",
+  "description": "Puff pastry triangles filled with sauteed mixed mushrooms, thyme, ricotta, parmesan and chopped chestnuts.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%a2%d7%a8%d7%9e%d7%95%d7%a0%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/shutterstock_1804638121-1140x641-1611569087.jpg",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "mushroom",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "qty": 1,
+      "unit": "kg",
+      "product": "puff-pastry"
+    },
+    {
+      "name": "Mixed Mushrooms",
+      "qty": 1,
+      "unit": "kg",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Fresh Thyme",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "thyme"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 150,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "parmesan"
+    },
+    {
+      "name": "Chestnuts",
+      "qty": 4
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a pan with the oil, add the sliced mushrooms and fry over high heat until browned. Season with salt and pepper and transfer to a bowl."
+    },
+    {
+      "text": "Add the butter, finely chopped onion and thyme leaves to the pan and fry gently until lightly golden. Add the crushed garlic and fry for another 30 seconds until fragrant but not browned. Transfer to the bowl with the mushrooms, add the ricotta, parmesan and chopped chestnuts and mix."
+    },
+    {
+      "text": "Cut the pastry into 10 cm squares, fill each with a spoonful of filling, brush the edges with beaten egg and fold into triangles."
+    },
+    {
+      "text": "Arrange on a tray lined with baking paper and freeze for about 30 minutes until the pastry firms up again."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Brush with beaten egg and bake for 15-20 minutes until golden."
+    }
+  ],
+  "nutrition": {
+    "kcal": 1146,
+    "proteinG": 22.3,
+    "carbsG": 84.5,
+    "fatG": 79,
+    "estimated": true
+  }
+}

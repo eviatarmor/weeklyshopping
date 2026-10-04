@@ -1,0 +1,104 @@
+{
+  "slug": "hs-potato-and-mushroom-burekas",
+  "kind": "meal",
+  "title": "Potato and Mushroom Burekas",
+  "subtitle": "in crisp filo rolls",
+  "description": "Filo rolls filled with mashed potato and portobello mushrooms cooked with onion, coriander seed and cumin.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%aa%d7%a4%d7%95%d7%97%d7%99-%d7%90%d7%93%d7%9e%d7%94-%d7%95%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/Bishulim-4.6.15-34-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "filo",
+    "baked",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 4,
+      "product": "potato"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 200,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Filo Pastry Sheets",
+      "qty": 4
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sesame-seeds"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the potatoes, boil and mash them. Season with salt and pepper and leave to cool."
+    },
+    {
+      "text": "Thinly slice the mushrooms and onion and saute with the spices and olive oil until the liquid has fully evaporated. Leave to cool."
+    },
+    {
+      "text": "Brush two filo sheets with olive oil and stack them. Cut into rectangles 20 cm long and 10 cm wide."
+    },
+    {
+      "text": "Place a strip of mashed potato across the bottom of the pastry (you can use a piping bag) and top with the onion and mushroom mixture. Roll into a log and place seam side down on a tray. Repeat with the remaining filo sheets."
+    },
+    {
+      "text": "Brush with olive oil, sprinkle with sesame seeds and bake at 180-190°C until browned."
+    }
+  ],
+  "nutrition": {
+    "kcal": 244,
+    "proteinG": 6.4,
+    "carbsG": 41.7,
+    "fatG": 6.6,
+    "estimated": true
+  }
+}

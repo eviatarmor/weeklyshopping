@@ -1,0 +1,152 @@
+{
+  "slug": "hs-authentic-kashkaval-burekas",
+  "kind": "meal",
+  "title": "Authentic Kashkaval Burekas",
+  "subtitle": "served Sabich-style with eggplant, egg and tahini",
+  "description": "Puff pastry half-moons filled with a creamy white cheese and sour cream filling, served opened and stuffed with roasted eggplant salad, hard-boiled egg and tahini. Defrost the pastry the night before.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%a7%d7%a9%d7%a7%d7%91%d7%9c-%d7%90%d7%a1%d7%9c%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/¬___ץ___פ____£__פ___¬_¢_ץ_ƒ____ס_ש_ק-1140x641-1545833789.jpg",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "qty": 1,
+      "unit": "packet",
+      "product": "puff-pastry"
+    },
+    {
+      "name": "Eggs",
+      "qty": 5,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "sesame-seeds"
+    },
+    {
+      "name": "Cream Cheese (light)",
+      "qty": 125,
+      "unit": "g"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 120,
+      "unit": "g",
+      "product": "sour-cream"
+    },
+    {
+      "name": "Low-Fat Baking Cheese",
+      "qty": 180,
+      "unit": "g"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Egg Yolk",
+      "qty": 1
+    },
+    {
+      "name": "Milk",
+      "qty": 30,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 25,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 4,
+      "product": "tomato"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 5,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Tahini",
+      "qty": 1,
+      "unit": "cup",
+      "product": "tahini"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Defrost the puff pastry in the fridge overnight."
+    },
+    {
+      "text": "Make the filling: mix the cream cheese, sour cream, baking cheese, salt, oil, egg yolk, milk and flour in a bowl and refrigerate for about 1 hour to set."
+    },
+    {
+      "text": "Carefully unroll the pastry on a floured surface and roll out to 3 mm thick. Cut 10 cm rounds with a cup or cutter."
+    },
+    {
+      "text": "Pipe a tablespoon of filling onto each round, brush the edges with a little egg or water, fold in half and seal well."
+    },
+    {
+      "text": "Brush with beaten egg, sprinkle with sesame seeds and bake at 180°C for 15-20 minutes."
+    },
+    {
+      "text": "To serve, slice the eggplant, place on a baking tray, drizzle with olive oil and bake at 170°C for about 15 minutes until golden. Chop into cubes."
+    },
+    {
+      "text": "Mix the chopped tomatoes and chopped spring onions in a bowl and add the eggplant cubes. Cut each burekas open across the width with a knife (not all the way through)."
+    },
+    {
+      "text": "Fill each burekas with a spoonful of the salad and a slice of hard-boiled egg (boil 4 eggs for slicing). Drizzle with tahini and garnish with parsley if you like."
+    }
+  ],
+  "nutrition": {
+    "kcal": 464,
+    "proteinG": 15.6,
+    "carbsG": 21.7,
+    "fatG": 37.6,
+    "estimated": true
+  }
+}

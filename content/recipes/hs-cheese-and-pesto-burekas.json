@@ -1,0 +1,129 @@
+{
+  "slug": "hs-cheese-and-pesto-burekas",
+  "kind": "meal",
+  "title": "Cheese and Pesto Burekas",
+  "subtitle": "with a sour cream pastry",
+  "description": "Burekas-style pastry strips filled with feta, cream cheese, kashkaval and pesto, easy to shape and simple to break apart after baking.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%99%d7%98%d7%a1-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa-%d7%95%d7%a4%d7%a1%d7%98%d7%95-%d7%a4%d7%98%d7%a0%d7%98/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/05/babka-piknik-high36-1140x641-1652014043.jpg",
+  "servings": 6,
+  "prepMinutes": 360,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 500,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Cold Butter",
+      "qty": 250,
+      "unit": "g",
+      "product": "butter"
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 10,
+      "unit": "g",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 200,
+      "unit": "g",
+      "product": "sour-cream"
+    },
+    {
+      "name": "Feta",
+      "qty": 300,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Cream Cheese",
+      "qty": 300,
+      "unit": "g",
+      "product": "cream-cheese"
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Pesto",
+      "qty": 300,
+      "unit": "g",
+      "product": "pesto"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix the flour, cold cubed butter, baking powder and salt in a mixer with the paddle attachment until crumbly. Add the sour cream and mix just until combined. Flatten into a disc, wrap in cling film and refrigerate for at least 5 hours (overnight is best)."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Crumble the feta and grate the kashkaval. Mix all the filling ingredients (feta, cream cheese, kashkaval, black pepper, nutmeg and pesto) until smooth and even."
+    },
+    {
+      "text": "Roll out the dough and cut it into six 14 x 15 cm rectangles."
+    },
+    {
+      "text": "Spread about three tablespoons of filling along one long side of a rectangle. Fold the dough over lengthwise so the clean half covers the filling, and press to seal. Make 3-4 deep cuts across the width without cutting all the way through, so the pastry breaks easily into pieces after baking. Repeat with the remaining rectangles."
+    },
+    {
+      "text": "Brush with beaten egg, sprinkle with sesame seeds and bake for 10-15 minutes until nicely golden."
+    }
+  ],
+  "nutrition": {
+    "kcal": 1326,
+    "proteinG": 31.4,
+    "carbsG": 72.2,
+    "fatG": 101.1,
+    "estimated": true
+  }
+}

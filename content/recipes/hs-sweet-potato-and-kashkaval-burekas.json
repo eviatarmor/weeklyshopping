@@ -1,0 +1,85 @@
+{
+  "slug": "hs-sweet-potato-and-kashkaval-burekas",
+  "kind": "meal",
+  "title": "Sweet Potato and Kashkaval Burekas",
+  "subtitle": "with a crisp parmesan coating",
+  "description": "Layered filo triangles filled with mashed roasted sweet potato and kashkaval, topped with parmesan instead of sesame for a crisp, cheesy crust. Great for brunch.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%a1-%d7%91%d7%98%d7%98%d7%94-%d7%95%d7%a7%d7%a9%d7%a7%d7%91%d7%9c-%d7%91%d7%9e%d7%a2%d7%98%d7%94-%d7%a4%d7%a8%d7%9e%d7%96%d7%9f-%d7%a4%d7%a8%d7%99%d7%9a/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/107_Sweet-Potato-Frico-Burekas2-e1566718134694-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 120,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "filo",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Filo Pastry Sheets",
+      "qty": 12
+    },
+    {
+      "name": "Sweet Potatoes",
+      "qty": 2,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C. Prick the sweet potatoes with a fork, wrap each in foil, place on baking paper on the oven rack and bake for about 1 hour until soft. Reduce the oven to 180°C. Cool the sweet potatoes for 1/2 hour, remove the foil, halve them and scoop the flesh into a medium bowl. Add the kashkaval, salt and pepper and mash until combined."
+    },
+    {
+      "text": "Line a tray with baking paper. Cover the filo sheets with a damp towel so they do not dry out. Take one sheet, brush with olive oil, place another sheet on top, brush the top and cut the sheets into strips 9-10 cm wide and about 30 cm long."
+    },
+    {
+      "text": "Place 2 1/2-3 tablespoons of filling on the bottom of a strip, about 1 1/2 cm from the bottom edge. Fold the right corner over the filling to the side of the strip to form a triangle. Keep folding the triangle up and diagonally to the end of the strip to get a multi-layered triangle. Press the edges together and place on the tray with the fold facing down. Repeat with the remaining filo, oiling two sheets at a time, stacking, cutting into strips, filling and folding. Space them apart on the tray."
+    },
+    {
+      "text": "Brush with olive oil and sprinkle with the parmesan. Bake for 20-22 minutes and serve hot. They keep in the fridge for up to 3 days or the freezer for up to 3 months; thaw and reheat at 180°C for 8-10 minutes."
+    }
+  ],
+  "nutrition": {
+    "kcal": 338,
+    "proteinG": 9.5,
+    "carbsG": 17.4,
+    "fatG": 26.1,
+    "estimated": true
+  }
+}

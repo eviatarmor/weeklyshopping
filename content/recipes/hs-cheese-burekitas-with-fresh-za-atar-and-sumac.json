@@ -1,0 +1,165 @@
+{
+  "slug": "hs-cheese-burekitas-with-fresh-za-atar-and-sumac",
+  "kind": "meal",
+  "title": "Cheese Burekitas with Fresh Za'atar and Sumac",
+  "subtitle": "yeasted half-moons with four cheeses",
+  "description": "Yeasted butter and egg dough half-moons filled with kashkaval, feta, parmesan and soft white cheese, flavoured with fresh za'atar leaves and sumac. They can be frozen before baking.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%a8%d7%a7%d7%99%d7%98%d7%a1-%d7%92%d7%91%d7%99%d7%a0%d7%94-%d7%a2%d7%9d-%d7%96%d7%a2%d7%aa%d7%a8-%d7%98%d7%a8%d7%99-%d7%95%d7%a1%d7%95%d7%9e%d7%90%d7%a7/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/בורקיטס-830-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 110,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "burekas",
+    "pastry",
+    "baked",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 300,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Yeast",
+      "qty": 25,
+      "unit": "g",
+      "product": "yeast"
+    },
+    {
+      "name": "Milk",
+      "qty": 70,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Butter",
+      "qty": 70,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Fresh Za'atar Leaves",
+      "qty": 30
+    },
+    {
+      "name": "Sumac",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-sumac"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Kashkaval Cheese",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Feta",
+      "qty": 100,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Cream Cheese (light)",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the dough: mix all the dough ingredients in a mixer with a dough hook until smooth. Cover and let rise for about 1 hour in the fridge."
+    },
+    {
+      "text": "Make the filling: heat the olive oil in a pan and fry the chopped onion until golden. Add the garlic, chopped za'atar leaves, sumac, salt and pepper and fry for another minute. Cool."
+    },
+    {
+      "text": "Mix the cheeses in a bowl, add the onion mixture and adjust the seasoning."
+    },
+    {
+      "text": "Preheat the oven to 180°C and line 2 trays with baking paper."
+    },
+    {
+      "text": "Flour the work surface and roll the dough to 2 mm thick. Cut 6 cm rounds and place a teaspoon of filling in the centre of each. Close into half-moons and press firmly with pinches or a fork."
+    },
+    {
+      "text": "Place on the trays, brush with beaten egg and sprinkle with sesame seeds."
+    },
+    {
+      "text": "Bake for 20 minutes until golden. To freeze, freeze unbaked on a tray, then transfer to a box; bake from frozen, adding 5 minutes."
+    }
+  ],
+  "nutrition": {
+    "kcal": 589,
+    "proteinG": 22.4,
+    "carbsG": 45.8,
+    "fatG": 35.1,
+    "estimated": true
+  }
+}
