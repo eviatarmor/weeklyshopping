@@ -1,0 +1,102 @@
+{
+  "slug": "mk-vegetable-noodle-soup",
+  "kind": "meal",
+  "title": "Vegetable Noodle Soup",
+  "subtitle": "with cauliflower, broccoli and zucchini",
+  "description": "A light but filling soup of cauliflower, broccoli and zucchini simmered in stock, finished with thin noodles.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-de93221782d6581026.htm",
+  "imageUrl": "https://img.mako.co.il/2024/12/03/vegetable_soup_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "soup",
+    "noodle",
+    "vegan",
+    "vegetable"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 0.5,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 0.5,
+      "product": "broccoli"
+    },
+    {
+      "name": "Bay Leaves",
+      "qty": 2,
+      "product": "bay-leaves"
+    },
+    {
+      "name": "Dried Chilli",
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "l",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 4,
+      "product": "zucchini"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Thin Noodles",
+      "qty": 1,
+      "unit": "cup"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fry the diced onion and garlic in a pot until gently translucent, about 2 minutes."
+    },
+    {
+      "text": "Add the cauliflower and broccoli florets, bay leaves and chilli, then the stock (or water). Bring to the boil."
+    },
+    {
+      "text": "Reduce the heat, cover the pot and cook for a quarter of an hour."
+    },
+    {
+      "text": "Add the diced zucchini and finely chopped parsley, season with salt and cook for another quarter of an hour, until the vegetables are tender but still have a bite."
+    },
+    {
+      "text": "Cook the noodles separately and add them to the soup."
+    }
+  ]
+}

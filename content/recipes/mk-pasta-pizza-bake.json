@@ -1,0 +1,101 @@
+{
+  "slug": "mk-pasta-pizza-bake",
+  "kind": "meal",
+  "title": "Pasta Pizza Bake",
+  "subtitle": "with cottage cheese and olives",
+  "description": "Short pasta is mixed with a creamy cottage cheese and olive custard, layered with tomato passata and topped with melted cheese. Baked until golden.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-004b6b346a4b581026.htm",
+  "imageUrl": "https://img.mako.co.il/2023/01/15/pasta_pizza_danya_autoOrient_w.jpg",
+  "servings": 8,
+  "prepMinutes": 60,
+  "tags": [
+    "mako",
+    "pasta",
+    "baked",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Short Pasta",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Cooking Cream (15%)",
+      "qty": 250,
+      "unit": "ml"
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 250,
+      "unit": "g",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Pitted Green Olives",
+      "qty": 1,
+      "unit": "cup",
+      "product": "green-olives"
+    },
+    {
+      "name": "Salt",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Passata",
+      "qty": 350,
+      "unit": "g",
+      "product": "tomato-passata"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "mozzarella"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta for half the time stated on the packet. Drain."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "In a bowl, mix the cream, cottage cheese, halved olives, salt, pepper and eggs."
+    },
+    {
+      "text": "Combine the pasta with the creamy mixture and mix well."
+    },
+    {
+      "text": "Grease a baking dish with a little olive oil. Spread half the pasta mixture evenly in the dish and pour a thin layer of passata over it. Spread the remaining pasta mixture on top and pour over the rest of the passata."
+    },
+    {
+      "text": "Sprinkle with the grated cheese, cover with foil and bake for 40 minutes. Remove the foil and bake for another 15 minutes, until golden."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "mk-eggplant-and-mozzarella-puff-pastry-bake",
+  "kind": "meal",
+  "title": "Eggplant and Mozzarella Puff Pastry Bake",
+  "subtitle": "a big pie for the whole family",
+  "description": "Two sheets of puff pastry filled with roasted eggplant, tomato, pizza sauce and mozzarella. Baked until golden and served hot.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-ca9c00924fb5481026.htm",
+  "imageUrl": "https://img.mako.co.il/2022/11/09/NofarZur_eggplant_pastry_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "mako",
+    "pastry",
+    "baked",
+    "eggplant",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "qty": 2,
+      "unit": "packet",
+      "product": "puff-pastry"
+    },
+    {
+      "name": "Eggplants",
+      "qty": 2,
+      "product": "eggplant"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 3,
+      "product": "tomato"
+    },
+    {
+      "name": "Pizza Sauce",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pasta-sauce"
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil",
+      "optional": true
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 200,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Slice the eggplants thickly and bake at 200°C with olive oil and coarse salt for 15-20 minutes, until browned. Leave the oven on."
+    },
+    {
+      "text": "Slice the tomatoes to a medium thickness. Line a baking tray with baking paper."
+    },
+    {
+      "text": "Lay one sheet of puff pastry on the tray and spread evenly with pizza sauce, leaving a clean border."
+    },
+    {
+      "text": "Arrange the eggplant slices, then the tomato slices on top, and sprinkle with coarse salt, olive oil and a few basil leaves."
+    },
+    {
+      "text": "Add a layer of mozzarella slices and cover with the second sheet of pastry. Press the edges of the two sheets together."
+    },
+    {
+      "text": "Brush the pastry with beaten egg and sprinkle with sesame seeds. Cut a few diagonal slits in the pastry."
+    },
+    {
+      "text": "Bake for 20-25 minutes, until golden, and serve hot."
+    }
+  ]
+}

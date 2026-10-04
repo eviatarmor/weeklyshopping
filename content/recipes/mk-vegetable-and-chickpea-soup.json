@@ -1,0 +1,115 @@
+{
+  "slug": "mk-vegetable-and-chickpea-soup",
+  "kind": "meal",
+  "title": "Vegetable and Chickpea Soup",
+  "subtitle": "with turmeric, coriander and parsley",
+  "description": "A hearty vegetable soup with chickpeas, potato, pumpkin and zucchini, gently seasoned with turmeric and black pepper. Only 10 minutes of prep.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-05240c53f1bc381027.htm",
+  "imageUrl": "https://img.mako.co.il/2016/10/09/boazlavi_soup_i.jpg",
+  "servings": 10,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "soup",
+    "vegan",
+    "israeli",
+    "chickpea"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "pantry": true
+    },
+    {
+      "name": "White Onions",
+      "qty": 7,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Celery Stalks",
+      "qty": 2
+    },
+    {
+      "name": "Chickpeas (cooked)",
+      "qty": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Carrots",
+      "qty": 8,
+      "product": "carrot"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 6,
+      "product": "potato"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 3,
+      "product": "zucchini"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 500,
+      "unit": "g",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander"
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Turmeric",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roughly chop the onions, thinly slice the celery, slice the carrots, cube the potatoes, zucchini and pumpkin, and chop the coriander and parsley."
+    },
+    {
+      "text": "Fry the onion, celery and chickpeas over high heat for about 5 minutes. Add the carrot and potato and keep frying, stirring, for about 2 minutes."
+    },
+    {
+      "text": "Add water to cover the ingredients and bring to the boil."
+    },
+    {
+      "text": "Add the zucchini and pumpkin and bring to the boil again."
+    },
+    {
+      "text": "Reduce the heat and add the coriander and parsley. Stir for about 2 minutes and season with the salt, pepper and turmeric."
+    },
+    {
+      "text": "Cook covered at a gentle simmer until the potatoes are tender."
+    }
+  ]
+}

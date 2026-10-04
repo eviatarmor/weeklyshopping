@@ -1,0 +1,93 @@
+{
+  "slug": "mk-baked-zucchini-and-feta-patties",
+  "kind": "meal",
+  "title": "Baked Zucchini and Feta Patties",
+  "subtitle": "with chilli and black pepper",
+  "description": "Grated zucchini and onion are mixed with egg, feta and flour and baked rather than fried. They come out golden and almost look fried, with very little oil.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-5d70c157b0d7281027.htm",
+  "imageUrl": "https://img.mako.co.il/2022/08/08/ZUC_READY_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "mako",
+    "zucchini",
+    "baked",
+    "vegetarian",
+    "patties"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 4,
+      "product": "zucchini"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Feta",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "feta"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Grate the zucchini and onion on the coarse side of a grater, then squeeze out the liquid well with your hands or a sieve."
+    },
+    {
+      "text": "Add the eggs, feta, flour and seasonings and mix to a uniform mixture."
+    },
+    {
+      "text": "Line a large tray with baking paper, brush with a little olive oil and arrange the patties on it."
+    },
+    {
+      "text": "Bake for 20-25 minutes, then flip the patties and bake for another 10 minutes, until golden."
+    }
+  ]
+}
