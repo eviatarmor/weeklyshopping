@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/haim_tibi-e1676979216552-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 120,
+  "nutrition": {
+    "kcal": 1135,
+    "proteinG": 42.7,
+    "carbsG": 134.6,
+    "fatG": 46.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/sarit_goffen-6912-1140x641-1549959342.jpg",
   "servings": 4,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 418,
+    "proteinG": 14,
+    "carbsG": 31.7,
+    "fatG": 27.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

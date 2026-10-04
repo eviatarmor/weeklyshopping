@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/12/IMG_0214_kruvit-1140x641-1554631720.jpg",
   "servings": 4,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 248,
+    "proteinG": 14,
+    "carbsG": 28.8,
+    "fatG": 9.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "fritters",

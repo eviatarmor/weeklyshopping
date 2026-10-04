@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tandoori-cauliflower-spinach-rice-pilaf-f217ba64.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 697,
+    "proteinG": 18.9,
+    "carbsG": 95.6,
+    "fatG": 28.4,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/04/1651042311_19857-1140x641-1651044054.jpg",
   "servings": 4,
   "prepMinutes": 120,
+  "nutrition": {
+    "kcal": 570,
+    "proteinG": 10,
+    "carbsG": 72.6,
+    "fatG": 26.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "dumplings",

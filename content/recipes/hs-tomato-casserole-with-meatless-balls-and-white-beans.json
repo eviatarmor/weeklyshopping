@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/650_500-2-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 605,
+    "proteinG": 27.4,
+    "carbsG": 57.6,
+    "fatG": 31,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "casserole",

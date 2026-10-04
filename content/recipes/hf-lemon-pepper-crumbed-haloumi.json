@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/lemon-pepper-crumbed-haloumi-0616edc0.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 811,
+    "proteinG": 32.4,
+    "carbsG": 70.6,
+    "fatG": 45.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -101,8 +108,8 @@
       "name": "Smokey Aioli",
       "qty": 1,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a827bf430006c6eac0b6fa2-b3f5ddf8.png",
-      "blend": "smokey-aioli"
+      "blend": "smokey-aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a827bf430006c6eac0b6fa2-b3f5ddf8.png"
     }
   ],
   "steps": [

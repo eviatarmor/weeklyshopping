@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-oregano-glazed-haloumi-tacos-372e8446.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 854,
+    "proteinG": 36.1,
+    "carbsG": 90.6,
+    "fatG": 40.1,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

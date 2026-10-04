@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5ffe6b03625a2b70fa5508ba-2acb0ebb.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 975,
+    "proteinG": 32.5,
+    "carbsG": 113.2,
+    "fatG": 44.8,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -109,8 +116,8 @@
       "name": "Creamy Pesto Dressing",
       "qty": 1,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png",
-      "blend": "creamy-pesto-dressing"
+      "blend": "creamy-pesto-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png"
     },
     {
       "name": "Greek-Style Yoghurt",

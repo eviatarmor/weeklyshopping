@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/8907-1-1140x641-1576656099.jpg",
   "servings": 4,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 270,
+    "proteinG": 7.2,
+    "carbsG": 13.2,
+    "fatG": 19.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/IMG_3892-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 316,
+    "proteinG": 7.8,
+    "carbsG": 41.3,
+    "fatG": 15.8,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "ragu",

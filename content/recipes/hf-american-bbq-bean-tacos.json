@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creole-bbq-bean-tacos-8f1afe7c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 991,
+    "proteinG": 35.8,
+    "carbsG": 136.5,
+    "fatG": 37.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

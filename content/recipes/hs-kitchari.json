@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/tomatos-kichery2-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 55,
+  "nutrition": {
+    "kcal": 528,
+    "proteinG": 15.5,
+    "carbsG": 82.6,
+    "fatG": 14.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

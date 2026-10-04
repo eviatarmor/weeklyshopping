@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/sarit_goffen-6500-1140x641-1563287604.jpg",
   "servings": 4,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 324,
+    "proteinG": 9.8,
+    "carbsG": 41.7,
+    "fatG": 15.2,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pasta",

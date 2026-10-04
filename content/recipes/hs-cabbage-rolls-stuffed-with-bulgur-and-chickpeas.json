@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/03/כרוב-ממולא-3-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 110,
+  "nutrition": {
+    "kcal": 479,
+    "proteinG": 13.4,
+    "carbsG": 67.9,
+    "fatG": 20.1,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

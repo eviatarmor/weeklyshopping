@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/07/spagetini-1140x641-1554304053.jpg",
   "servings": 4,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 767,
+    "proteinG": 24.9,
+    "carbsG": 105.5,
+    "fatG": 28.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pasta",

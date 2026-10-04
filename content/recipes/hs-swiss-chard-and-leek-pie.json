@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/mangold650-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 396,
+    "proteinG": 9.3,
+    "carbsG": 17.5,
+    "fatG": 33.2,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pie",

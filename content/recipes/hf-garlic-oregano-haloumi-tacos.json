@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/garlic-oregano-haloumi-tacos-45263d8e.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 864,
+    "proteinG": 31.4,
+    "carbsG": 80.3,
+    "fatG": 47.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

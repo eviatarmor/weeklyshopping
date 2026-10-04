@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-quinoa-bean-bowl-715b6d99.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 836,
+    "proteinG": 38.9,
+    "carbsG": 123.1,
+    "fatG": 24.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

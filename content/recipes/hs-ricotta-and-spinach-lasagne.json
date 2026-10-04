@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/05/spinich_830-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 70,
+  "nutrition": {
+    "kcal": 592,
+    "proteinG": 20.5,
+    "carbsG": 69.6,
+    "fatG": 25.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "lasagne",

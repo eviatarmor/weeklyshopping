@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/ben-edoi0174-Kayel-cake-e1588274563741-1140x641-1588274617.jpg",
   "servings": 6,
   "prepMinutes": 120,
+  "nutrition": {
+    "kcal": 408,
+    "proteinG": 9.6,
+    "carbsG": 34.2,
+    "fatG": 24.9,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

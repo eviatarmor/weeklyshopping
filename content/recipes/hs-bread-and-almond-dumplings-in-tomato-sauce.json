@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/07/hila_alpert_4_n-1140x641-1625902090.jpg",
   "servings": 4,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 975,
+    "proteinG": 31.6,
+    "carbsG": 91.9,
+    "fatG": 55.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

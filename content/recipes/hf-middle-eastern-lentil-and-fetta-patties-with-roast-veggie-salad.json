@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/middle-eastern-lentil-fetta-patties-674e0258.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 884,
+    "proteinG": 41.4,
+    "carbsG": 109.4,
+    "fatG": 34.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

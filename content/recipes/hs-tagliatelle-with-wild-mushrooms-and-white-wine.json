@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/DSCF3717-e1541594427467-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 717,
+    "proteinG": 27.5,
+    "carbsG": 70.7,
+    "fatG": 31.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pasta",

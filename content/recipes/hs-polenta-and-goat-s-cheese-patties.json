@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/04/HashulChan-Hamachleva-17383-copy-1140x641-1619428809.jpg",
   "servings": 4,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 800,
+    "proteinG": 20.5,
+    "carbsG": 90.8,
+    "fatG": 42.9,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

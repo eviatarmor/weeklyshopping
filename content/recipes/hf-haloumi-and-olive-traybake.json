@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-olive-tray-bake-e0089da2.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 774,
+    "proteinG": 28.2,
+    "carbsG": 77,
+    "fatG": 41.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -94,8 +101,8 @@
       "name": "Creamy Pesto Dressing",
       "qty": 1,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png",
-      "blend": "creamy-pesto-dressing"
+      "blend": "creamy-pesto-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png"
     }
   ],
   "steps": [

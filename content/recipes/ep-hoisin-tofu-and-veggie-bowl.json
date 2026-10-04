@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/hoisin-tofu-veggie-bowl-bb590203.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 848,
+    "proteinG": 33.3,
+    "carbsG": 104.5,
+    "fatG": 35.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "everyplate",

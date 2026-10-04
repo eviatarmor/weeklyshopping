@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roast-veggie-basil-pesto-freekeh-bowl-ae67bacc.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 669,
+    "proteinG": 21.5,
+    "carbsG": 69.5,
+    "fatG": 35.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

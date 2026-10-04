@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/%D7%99%D7%95%D7%92%D7%91-%D7%99%D7%A8%D7%95%D7%A12-1-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 150,
+  "nutrition": {
+    "kcal": 581,
+    "proteinG": 14.8,
+    "carbsG": 73,
+    "fatG": 25.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "gnocchi",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/05/IMG_3934-1140x641-1622717057.jpg",
   "servings": 4,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 402,
+    "proteinG": 6,
+    "carbsG": 44.7,
+    "fatG": 23,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "rosti",

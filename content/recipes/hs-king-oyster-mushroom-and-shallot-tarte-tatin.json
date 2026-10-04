@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/taten-00107-e1566139919293-1140x641-1566140167.jpg",
   "servings": 4,
   "prepMinutes": 75,
+  "nutrition": {
+    "kcal": 1116,
+    "proteinG": 18.8,
+    "carbsG": 101,
+    "fatG": 72.8,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "tart",

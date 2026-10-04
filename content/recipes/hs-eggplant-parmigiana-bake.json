@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/melanzena-1140x641-1623231593.jpg",
   "servings": 4,
   "prepMinutes": 70,
+  "nutrition": {
+    "kcal": 757,
+    "proteinG": 29.5,
+    "carbsG": 55.4,
+    "fatG": 47.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

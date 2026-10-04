@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/easy-spiced-chickpea-stew-new-2fcb2a2a.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 967,
+    "proteinG": 36.9,
+    "carbsG": 129.1,
+    "fatG": 32.9,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "everyplate",

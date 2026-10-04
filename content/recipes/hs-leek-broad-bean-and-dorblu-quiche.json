@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/08/leek-fava-bean-dorblu-quiche-1140x641-1597062585.jpg",
   "servings": 6,
   "prepMinutes": 150,
+  "nutrition": {
+    "kcal": 927,
+    "proteinG": 23.2,
+    "carbsG": 59.1,
+    "fatG": 67,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "quiche",

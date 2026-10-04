@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/650_500-139-1140x641.jpg",
   "servings": 8,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 672,
+    "proteinG": 26.4,
+    "carbsG": 62.6,
+    "fatG": 35.2,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "lasagne",

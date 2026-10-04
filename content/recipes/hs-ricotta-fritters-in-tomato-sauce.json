@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/Derech-Haochel-15-min-print-02-e1554296019517-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 617,
+    "proteinG": 41.7,
+    "carbsG": 45.5,
+    "fatG": 29.9,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

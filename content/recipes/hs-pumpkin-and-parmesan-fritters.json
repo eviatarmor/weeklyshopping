@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650x500-1140x641-1545824180.jpg",
   "servings": 4,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 377,
+    "proteinG": 15.6,
+    "carbsG": 44,
+    "fatG": 16.4,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pumpkin",

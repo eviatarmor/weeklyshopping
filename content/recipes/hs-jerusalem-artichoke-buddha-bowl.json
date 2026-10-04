@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/חיים-יוסף-11-1140x641-1541679898.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 806,
+    "proteinG": 13.7,
+    "carbsG": 81.9,
+    "fatG": 50.1,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-thyme-glazed-haloumi-35ad880b.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 894,
+    "proteinG": 41.6,
+    "carbsG": 92.7,
+    "fatG": 41.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

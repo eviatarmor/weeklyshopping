@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/05/Tos_830-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 689,
+    "proteinG": 38.9,
+    "carbsG": 45.2,
+    "fatG": 39.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pie",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/05/high-ido-7-1600x1200-1-1140x641-1653832663.jpg",
   "servings": 4,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 853,
+    "proteinG": 24.9,
+    "carbsG": 105.8,
+    "fatG": 37.4,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

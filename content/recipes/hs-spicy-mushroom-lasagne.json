@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/Spicy_Mushroom_Lasagne-e1609776701974-1140x641-1609776946.jpg",
   "servings": 6,
   "prepMinutes": 150,
+  "nutrition": {
+    "kcal": 648,
+    "proteinG": 23.7,
+    "carbsG": 62.6,
+    "fatG": 37,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

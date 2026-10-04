@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/04/DSCF1044-1140x641-1655980072.jpg",
   "servings": 4,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 243,
+    "proteinG": 6.5,
+    "carbsG": 17.4,
+    "fatG": 17.5,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "eggplant",

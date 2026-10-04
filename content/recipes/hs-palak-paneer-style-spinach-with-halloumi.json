@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/shutterstock_620862110-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 344,
+    "proteinG": 12.6,
+    "carbsG": 5.4,
+    "fatG": 31,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "curry",

@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mild-sweet-potato-coconut-curry-4e335940.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1020,
+    "proteinG": 20,
+    "carbsG": 125.1,
+    "fatG": 53,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

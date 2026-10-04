@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/DANP7379-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 180,
+  "nutrition": {
+    "kcal": 561,
+    "proteinG": 27.3,
+    "carbsG": 63.6,
+    "fatG": 22.5,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "tofu",

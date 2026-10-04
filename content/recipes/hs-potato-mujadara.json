@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/magadara-1140x641-1574846003.jpg",
   "servings": 4,
   "prepMinutes": 100,
+  "nutrition": {
+    "kcal": 381,
+    "proteinG": 11.9,
+    "carbsG": 62.3,
+    "fatG": 9.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

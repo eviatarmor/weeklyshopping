@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/haloumi-chargrilled-capsicum-burger-f5841d17.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 844,
+    "proteinG": 31.6,
+    "carbsG": 102.5,
+    "fatG": 34.9,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/hamin-no-meat-1140x641-1575988189.jpg",
   "servings": 6,
   "prepMinutes": 270,
+  "nutrition": {
+    "kcal": 577,
+    "proteinG": 14.8,
+    "carbsG": 110.7,
+    "fatG": 12,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/eight_013.jpg-1140x641-1544269333.png",
   "servings": 1,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 388,
+    "proteinG": 18.1,
+    "carbsG": 60.4,
+    "fatG": 11,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "burger",

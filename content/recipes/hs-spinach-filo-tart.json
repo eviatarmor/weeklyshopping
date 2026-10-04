@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/03/650_500-146-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 667,
+    "proteinG": 25.8,
+    "carbsG": 19.4,
+    "fatG": 54.5,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "tart",

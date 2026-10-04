@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/05/Hashulchan-Dor-vanger-08.05.20226874-1600x1200-1-e1653893233186-1140x641-1653893357.jpg",
   "servings": 4,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 166,
+    "proteinG": 5.8,
+    "carbsG": 26.2,
+    "fatG": 6.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

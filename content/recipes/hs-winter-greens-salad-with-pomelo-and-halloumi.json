@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/12/IMG_0021_resize_wide-1140x641-1640862867.jpg",
   "servings": 4,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 805,
+    "proteinG": 19,
+    "carbsG": 47.7,
+    "fatG": 63.2,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "salad",

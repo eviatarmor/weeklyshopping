@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/06/DSCF5127-e1574841938687-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 120,
+  "nutrition": {
+    "kcal": 909,
+    "proteinG": 21.5,
+    "carbsG": 84.1,
+    "fatG": 57.5,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "quiche",

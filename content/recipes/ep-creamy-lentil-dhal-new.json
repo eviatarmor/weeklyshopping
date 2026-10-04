@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-lentil-dhal-new-315ed87d.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 939,
+    "proteinG": 28.8,
+    "carbsG": 97.9,
+    "fatG": 51.1,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "everyplate",
@@ -86,8 +93,8 @@
       "name": "Bengal Curry Paste",
       "qty": 0.5,
       "unit": "sachet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f814ecbf90d9f528421-c8820c52.png",
-      "blend": "bengal-curry-paste"
+      "blend": "bengal-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5ec39f814ecbf90d9f528421-c8820c52.png"
     },
     {
       "name": "Tomato Paste",

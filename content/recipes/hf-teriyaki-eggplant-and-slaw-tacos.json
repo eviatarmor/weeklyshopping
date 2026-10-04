@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/teriyaki-eggplant-slaw-tacos-5794fba5.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 739,
+    "proteinG": 19.6,
+    "carbsG": 106.2,
+    "fatG": 27.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -94,8 +101,8 @@
       "name": "Sesame Dressing",
       "qty": 1,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5db11c36bdaa2069cd690dd1-014522d3.png",
-      "blend": "sesame-dressing"
+      "blend": "sesame-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5db11c36bdaa2069cd690dd1-014522d3.png"
     },
     {
       "name": "Slaw Mix",

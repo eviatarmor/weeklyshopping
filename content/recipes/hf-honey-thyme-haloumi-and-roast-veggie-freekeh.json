@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/honey-thyme-haloumi-roast-veggie-freekeh-584f21c7.jpg",
   "servings": 2,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 910,
+    "proteinG": 38.2,
+    "carbsG": 90.5,
+    "fatG": 46.4,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -100,8 +107,8 @@
       "name": "Creamy Pesto Dressing",
       "qty": 1,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png",
-      "blend": "creamy-pesto-dressing"
+      "blend": "creamy-pesto-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5bf4ad65ae08b577513e4072-ccd48def.png"
     },
     {
       "name": "Water",

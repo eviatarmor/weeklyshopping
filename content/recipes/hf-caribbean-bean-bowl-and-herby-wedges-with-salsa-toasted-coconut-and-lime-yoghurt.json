@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/jerk-black-bean-bowl-spiced-potato-wedges-b90cf37c.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 711,
+    "proteinG": 29.8,
+    "carbsG": 109.1,
+    "fatG": 21.1,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

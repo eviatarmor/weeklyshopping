@@ -247,7 +247,9 @@ function RecipePage() {
                 <div className="text-[11px] text-muted-foreground">{n.label}</div>
               </div>
             ))}
-            <p className="col-span-4 text-[11px] text-muted-foreground">Per serving · estimate from {source.label}</p>
+            <p className="col-span-4 text-[11px] text-muted-foreground">
+              Per serving · {recipe.nutritionEstimated ? "estimated from the ingredients" : `estimate from ${source.label}`}
+            </p>
           </section>
         )}
 

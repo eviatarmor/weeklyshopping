@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-bean-corn-burrito-bowl-27912bd0.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 961,
+    "proteinG": 32.9,
+    "carbsG": 139.9,
+    "fatG": 34.4,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/soup_830x510-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 244,
+    "proteinG": 8,
+    "carbsG": 40.9,
+    "fatG": 6.9,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "soup",

@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/crumbed-tofu-sushi-bowl-89604280.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 874,
+    "proteinG": 24.6,
+    "carbsG": 100.6,
+    "fatG": 43.8,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

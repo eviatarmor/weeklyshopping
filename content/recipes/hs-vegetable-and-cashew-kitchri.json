@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/open_650x500-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 655,
+    "proteinG": 13.8,
+    "carbsG": 93.1,
+    "fatG": 27.1,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "rice",

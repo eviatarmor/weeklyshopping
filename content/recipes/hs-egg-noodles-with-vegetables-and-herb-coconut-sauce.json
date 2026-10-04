@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/Nudels_004-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 368,
+    "proteinG": 7.1,
+    "carbsG": 39.9,
+    "fatG": 21.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

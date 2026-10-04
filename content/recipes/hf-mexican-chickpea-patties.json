@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5fb20d9e3787c23f14698798-eedd1045.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 920,
+    "proteinG": 33.4,
+    "carbsG": 134.8,
+    "fatG": 29.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -135,8 +142,8 @@
       "name": "Smokey Aioli",
       "qty": 1,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a827bf430006c6eac0b6fa2-b3f5ddf8.png",
-      "blend": "smokey-aioli"
+      "blend": "smokey-aioli",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5a827bf430006c6eac0b6fa2-b3f5ddf8.png"
     }
   ],
   "steps": [

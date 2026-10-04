@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5ed74c4e27795208c7273845-f0f6d884.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 904,
+    "proteinG": 35.4,
+    "carbsG": 151.3,
+    "fatG": 22.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -96,8 +103,8 @@
       "name": "Mild Chipotle Sauce",
       "qty": 0.5,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png",
-      "blend": "mild-chipotle-sauce"
+      "blend": "mild-chipotle-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
     },
     {
       "name": "Tomato",

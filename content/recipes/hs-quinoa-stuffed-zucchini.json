@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/02/IMG_1061nn-1140x641-1582447744.jpg",
   "servings": 4,
   "prepMinutes": 70,
+  "nutrition": {
+    "kcal": 441,
+    "proteinG": 14.5,
+    "carbsG": 45.2,
+    "fatG": 24.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "stuffed",

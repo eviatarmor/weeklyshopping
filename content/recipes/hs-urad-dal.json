@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/Al-Hashulchan-00210-e1576419359541-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 236,
+    "proteinG": 13.4,
+    "carbsG": 34.7,
+    "fatG": 5.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "dal",

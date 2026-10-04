@@ -48,6 +48,8 @@ export const recipeSchema = z.object({
       proteinG: z.number().nonnegative().optional(),
       carbsG: z.number().nonnegative().optional(),
       fatG: z.number().nonnegative().optional(),
+      /** True when we worked it out from the ingredients because the source didn't publish it. */
+      estimated: z.boolean().optional(),
     })
     .optional(),
   tags: z.array(z.string()).default([]),

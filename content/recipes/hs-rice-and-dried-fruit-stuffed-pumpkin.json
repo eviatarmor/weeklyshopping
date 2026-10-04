@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/03/דלעת-ממולאת-2-e1554633926847-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 100,
+  "nutrition": {
+    "kcal": 550,
+    "proteinG": 11.3,
+    "carbsG": 76.2,
+    "fatG": 23.4,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pumpkin",

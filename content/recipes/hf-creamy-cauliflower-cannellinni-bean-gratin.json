@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-cauliflower-cannellinni-bean-gratin-f1e90719.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 742,
+    "proteinG": 31.1,
+    "carbsG": 83.5,
+    "fatG": 33.9,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/11/DSF6120_H-2000x1125-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 635,
+    "proteinG": 31.9,
+    "carbsG": 101.6,
+    "fatG": 11.1,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "lentils",

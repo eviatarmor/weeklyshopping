@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-101-1140x641-1577087816.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 383,
+    "proteinG": 17.2,
+    "carbsG": 29.9,
+    "fatG": 23.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "fritters",

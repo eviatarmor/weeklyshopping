@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/Untitled-Capture1660-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 150,
+  "nutrition": {
+    "kcal": 495,
+    "proteinG": 17,
+    "carbsG": 51.5,
+    "fatG": 26.9,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "moussaka",

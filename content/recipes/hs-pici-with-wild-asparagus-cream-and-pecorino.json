@@ -7,6 +7,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/10/פסטה-פיצי-ואספרגוס-בר-מיכאל-גרטופסקי-1-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 70,
+  "nutrition": {
+    "kcal": 755,
+    "proteinG": 21.3,
+    "carbsG": 77.1,
+    "fatG": 40.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pasta",

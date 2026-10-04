@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/pumkin-tart-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 718,
+    "proteinG": 14.3,
+    "carbsG": 47.6,
+    "fatG": 55.2,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "quiche",

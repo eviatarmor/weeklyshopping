@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/Al-Hashulchan-00155n-e1575795016952-1140x641-1575795055.jpg",
   "servings": 4,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 471,
+    "proteinG": 18.6,
+    "carbsG": 18.7,
+    "fatG": 38.3,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "skillet",

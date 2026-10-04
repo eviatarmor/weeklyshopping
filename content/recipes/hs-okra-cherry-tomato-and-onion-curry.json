@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/12/curry-e1578315466625-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 339,
+    "proteinG": 5.9,
+    "carbsG": 20.5,
+    "fatG": 28.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

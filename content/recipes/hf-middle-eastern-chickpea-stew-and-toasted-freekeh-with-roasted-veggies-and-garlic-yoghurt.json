@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/middle-eastern-chickpea-stew-toasted-freekeh-b760784c.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 997,
+    "proteinG": 32.5,
+    "carbsG": 105.9,
+    "fatG": 51.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

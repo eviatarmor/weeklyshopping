@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-roasted-vegetable-fusilli-f5083e33.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 811,
+    "proteinG": 28.7,
+    "carbsG": 110.8,
+    "fatG": 29.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

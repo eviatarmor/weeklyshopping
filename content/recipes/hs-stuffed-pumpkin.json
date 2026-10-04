@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/02/tomer1182-1-e1612700252237-1140x641-1612700304.jpg",
   "servings": 6,
   "prepMinutes": 180,
+  "nutrition": {
+    "kcal": 731,
+    "proteinG": 17.2,
+    "carbsG": 96.3,
+    "fatG": 33,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/650_50086-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 70,
+  "nutrition": {
+    "kcal": 985,
+    "proteinG": 20.2,
+    "carbsG": 70.3,
+    "fatG": 68.8,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pastry",

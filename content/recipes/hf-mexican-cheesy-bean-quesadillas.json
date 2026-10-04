@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-cheesy-bean-quesadillas-e2467db3.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 950,
+    "proteinG": 34.6,
+    "carbsG": 116.8,
+    "fatG": 40.9,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -109,8 +116,8 @@
       "name": "Mild Chipotle Sauce",
       "qty": 1,
       "unit": "tub",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png",
-      "blend": "mild-chipotle-sauce"
+      "blend": "mild-chipotle-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
     },
     {
       "name": "Sour Cream",

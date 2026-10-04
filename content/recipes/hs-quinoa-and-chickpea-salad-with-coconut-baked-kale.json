@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/07/hummus650-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 537,
+    "proteinG": 17.4,
+    "carbsG": 59.5,
+    "fatG": 26.8,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

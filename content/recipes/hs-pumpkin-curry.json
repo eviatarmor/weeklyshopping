@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/cary_dlat_5145-1140x641-1594193437.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 741,
+    "proteinG": 10.9,
+    "carbsG": 57.2,
+    "fatG": 58.2,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "curry",

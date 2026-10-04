@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/IMG_2306-e1609938541439-1140x641-1609938595.jpg",
   "servings": 4,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 726,
+    "proteinG": 18.5,
+    "carbsG": 99,
+    "fatG": 30.4,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "freekeh",

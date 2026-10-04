@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/cheesy-mexican-lentil-quesadillas-fda5ddde.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 806,
+    "proteinG": 31.9,
+    "carbsG": 109.7,
+    "fatG": 29.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

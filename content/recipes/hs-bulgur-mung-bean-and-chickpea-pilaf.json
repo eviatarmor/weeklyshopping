@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/burgul-with-humus_018-1140x641-1624358068.jpg",
   "servings": 4,
   "prepMinutes": 70,
+  "nutrition": {
+    "kcal": 561,
+    "proteinG": 14.5,
+    "carbsG": 64.5,
+    "fatG": 29.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "bulgur",

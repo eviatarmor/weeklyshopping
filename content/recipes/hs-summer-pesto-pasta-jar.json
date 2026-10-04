@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/12/מסעדות-חדשות2-1140x641.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 656,
+    "proteinG": 20.4,
+    "carbsG": 113.1,
+    "fatG": 13,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

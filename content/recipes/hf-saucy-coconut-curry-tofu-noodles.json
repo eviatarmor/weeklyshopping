@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/saucy-coconut-curry-tofu-noodles-ad084b96.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 786,
+    "proteinG": 34,
+    "carbsG": 86.7,
+    "fatG": 36.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

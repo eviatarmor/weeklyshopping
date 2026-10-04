@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/malaysian-satay-tofu-tacos-95af57b0.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 834,
+    "proteinG": 32.9,
+    "carbsG": 73.9,
+    "fatG": 47.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

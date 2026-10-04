@@ -32,6 +32,7 @@ export type RecipeFields = {
   proteinG: number | null;
   carbsG: number | null;
   fatG: number | null;
+  nutritionEstimated: boolean;
   tags: string[];
   steps: { text: string; imageUrl?: string }[];
   addedAt: string;

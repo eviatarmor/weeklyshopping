@@ -22,6 +22,7 @@ export type StoreRecipe = {
   proteinG: number | null;
   carbsG: number | null;
   fatG: number | null;
+  nutritionEstimated: boolean;
   tags: string[];
   steps: { text: string; imageUrl?: string }[];
   addedAt: string;
@@ -60,6 +61,7 @@ export function buildStore(content: Content): ContentStore {
     proteinG: r.nutrition?.proteinG ?? null,
     carbsG: r.nutrition?.carbsG ?? null,
     fatG: r.nutrition?.fatG ?? null,
+    nutritionEstimated: r.nutrition?.estimated ?? false,
     tags: r.tags,
     steps: r.steps,
     addedAt: r.addedAt,

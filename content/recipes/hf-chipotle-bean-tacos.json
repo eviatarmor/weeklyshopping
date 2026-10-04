@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5fcd6c700da94b65b75e7dd6-bbfd0522.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 937,
+    "proteinG": 33.8,
+    "carbsG": 114.7,
+    "fatG": 41,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -103,8 +110,8 @@
       "name": "Mild Chipotle Sauce",
       "qty": 1,
       "unit": "tub",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png",
-      "blend": "mild-chipotle-sauce"
+      "blend": "mild-chipotle-sauce",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5d1c537ecd4a3400116d9aa4-9f46f717.png"
     },
     {
       "name": "Mini Flour Tortillas",

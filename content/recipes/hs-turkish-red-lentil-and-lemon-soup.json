@@ -7,6 +7,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/06/marak_830-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 449,
+    "proteinG": 21.6,
+    "carbsG": 60.8,
+    "fatG": 13,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/07/אורז_ומש_2-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 356,
+    "proteinG": 8.6,
+    "carbsG": 59,
+    "fatG": 11.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/01/Stuffed_Aubergine-1140x641-1609676013.jpg",
   "servings": 4,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 815,
+    "proteinG": 23.2,
+    "carbsG": 53.3,
+    "fatG": 60.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

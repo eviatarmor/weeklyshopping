@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/Refaello_008.jpg-1140x641-1542991156.png",
   "servings": 4,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 894,
+    "proteinG": 19.6,
+    "carbsG": 114.5,
+    "fatG": 37.8,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

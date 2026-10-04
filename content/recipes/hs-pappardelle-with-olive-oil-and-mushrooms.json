@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/09/MG_9910-1140x641.jpg",
   "servings": 3,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 574,
+    "proteinG": 17.5,
+    "carbsG": 70,
+    "fatG": 25.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pasta",

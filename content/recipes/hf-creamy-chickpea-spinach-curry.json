@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/creamy-chickpea-spinach-curry-b46dea7c.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 898,
+    "proteinG": 33.4,
+    "carbsG": 126.2,
+    "fatG": 29.4,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/WhatsApp-Image-2020-03-15-at-11.10.59-AM-1140x641.jpeg",
   "servings": 4,
   "prepMinutes": 75,
+  "nutrition": {
+    "kcal": 859,
+    "proteinG": 24.1,
+    "carbsG": 119.1,
+    "fatG": 32.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pie",

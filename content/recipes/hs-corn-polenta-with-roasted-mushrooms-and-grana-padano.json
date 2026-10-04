@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/02/650_500-64-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 566,
+    "proteinG": 16.3,
+    "carbsG": 71.6,
+    "fatG": 24,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "polenta",

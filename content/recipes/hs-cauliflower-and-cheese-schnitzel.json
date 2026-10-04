@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2022/03/zohar-day-3-high5-e1648470360406-1140x641-1648470418.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 353,
+    "proteinG": 18.2,
+    "carbsG": 37.5,
+    "fatG": 15.8,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "cauliflower",

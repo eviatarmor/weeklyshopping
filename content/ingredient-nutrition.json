@@ -1,0 +1,8345 @@
+{
+  "adzuki beans": {
+    "kcal": 329,
+    "p": 19.9,
+    "c": 62.9,
+    "f": 0.5,
+    "g": {
+      "cup": 200
+    }
+  },
+  "all-american spice blend": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 6,
+    "g": {
+      "sachet": 6
+    },
+    "kit": {
+      "sachet": 15
+    }
+  },
+  "all-purpose seasoning": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 6,
+    "g": {
+      "sachet": 6
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "allspice": {
+    "kcal": 263,
+    "p": 6.1,
+    "c": 72,
+    "f": 8.7,
+    "g": {
+      "tsp": 1.9,
+      "pinch": 0.3
+    }
+  },
+  "allspice berries": {
+    "kcal": 263,
+    "p": 6.1,
+    "c": 72,
+    "f": 8.7,
+    "g": {
+      "tsp": 2,
+      "count": 0.1
+    }
+  },
+  "almond butter": {
+    "kcal": 614,
+    "p": 21,
+    "c": 19,
+    "f": 56,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "almond meal": {
+    "kcal": 590,
+    "p": 21,
+    "c": 20,
+    "f": 53,
+    "g": {
+      "g": 1,
+      "tbsp": 8
+    }
+  },
+  "almond tahini": {
+    "kcal": 614,
+    "p": 21,
+    "c": 19,
+    "f": 56,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "almonds": {
+    "kcal": 579,
+    "p": 21,
+    "c": 22,
+    "f": 50,
+    "g": {
+      "cup": 143,
+      "count": 1.2
+    }
+  },
+  "amba": {
+    "kcal": 120,
+    "p": 1,
+    "c": 20,
+    "f": 4,
+    "g": {
+      "count": 15
+    }
+  },
+  "apple": {
+    "kcal": 52,
+    "p": 0.3,
+    "c": 13.8,
+    "f": 0.2,
+    "g": {
+      "count": 180
+    }
+  },
+  "apple cider": {
+    "kcal": 45,
+    "p": 0,
+    "c": 11,
+    "f": 0,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "apple cider vinegar": {
+    "kcal": 22,
+    "p": 0,
+    "c": 0.9,
+    "f": 0,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "arabic lettuce": {
+    "kcal": 15,
+    "p": 1.4,
+    "c": 2.9,
+    "f": 0.2,
+    "g": {
+      "count": 250
+    }
+  },
+  "arak": {
+    "kcal": 230,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "cup": 235
+    }
+  },
+  "arborio rice": {
+    "kcal": 360,
+    "p": 6.7,
+    "c": 80,
+    "f": 0.6,
+    "g": {
+      "cup": 200,
+      "g": 1
+    }
+  },
+  "artichoke hearts": {
+    "kcal": 47,
+    "p": 3.3,
+    "c": 10.5,
+    "f": 0.2,
+    "g": {
+      "count": 30
+    }
+  },
+  "asian greens": {
+    "kcal": 13,
+    "p": 1.5,
+    "c": 2.2,
+    "f": 0.2,
+    "g": {
+      "bunch": 300,
+      "count": 100
+    }
+  },
+  "asian sauce": {
+    "kcal": 120,
+    "p": 2,
+    "c": 25,
+    "f": 0.5,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "asparagus": {
+    "kcal": 20,
+    "p": 2.2,
+    "c": 3.9,
+    "f": 0.1,
+    "g": {
+      "count": 15,
+      "g": 1,
+      "bunch": 250
+    }
+  },
+  "avocado": {
+    "kcal": 160,
+    "p": 2,
+    "c": 8.5,
+    "f": 14.7,
+    "g": {
+      "count": 150
+    }
+  },
+  "baby artichokes": {
+    "kcal": 47,
+    "p": 3.3,
+    "c": 10.5,
+    "f": 0.2,
+    "g": {
+      "count": 40
+    }
+  },
+  "baby beetroot": {
+    "kcal": 43,
+    "p": 1.6,
+    "c": 9.6,
+    "f": 0.2,
+    "g": {
+      "bunch": 400
+    }
+  },
+  "baby broccoli": {
+    "kcal": 35,
+    "p": 2.8,
+    "c": 7,
+    "f": 0.4,
+    "g": {
+      "bunch": 200
+    }
+  },
+  "baby carrots": {
+    "kcal": 41,
+    "p": 0.9,
+    "c": 9.6,
+    "f": 0.2,
+    "g": {
+      "count": 20,
+      "bunch": 300
+    }
+  },
+  "baby eggplants": {
+    "kcal": 25,
+    "p": 1,
+    "c": 6,
+    "f": 0.2,
+    "g": {
+      "count": 80
+    }
+  },
+  "baby fennel": {
+    "kcal": 31,
+    "p": 1.2,
+    "c": 7.3,
+    "f": 0.2,
+    "g": {
+      "count": 100
+    }
+  },
+  "baby mozzarella balls": {
+    "kcal": 280,
+    "p": 18,
+    "c": 2,
+    "f": 22,
+    "g": {
+      "count": 15
+    }
+  },
+  "baby potatoes": {
+    "kcal": 77,
+    "p": 2,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "g": 1,
+      "packet": 500
+    }
+  },
+  "baby spinach": {
+    "kcal": 23,
+    "p": 2.9,
+    "c": 3.6,
+    "f": 0.4,
+    "g": {
+      "g": 1,
+      "cup": 30
+    }
+  },
+  "baby spinach leaves": {
+    "kcal": 23,
+    "p": 2.9,
+    "c": 3.6,
+    "f": 0.4,
+    "g": {
+      "bag": 120
+    },
+    "kit": {
+      "bag": 60
+    }
+  },
+  "baby turnip": {
+    "kcal": 28,
+    "p": 0.9,
+    "c": 6.4,
+    "f": 0.1,
+    "g": {
+      "count": 60
+    }
+  },
+  "baby zucchini": {
+    "kcal": 17,
+    "p": 1.2,
+    "c": 3.1,
+    "f": 0.3,
+    "g": {
+      "count": 50
+    }
+  },
+  "baguette": {
+    "kcal": 274,
+    "p": 9.5,
+    "c": 56,
+    "f": 1.5,
+    "g": {
+      "count": 250
+    }
+  },
+  "baharat": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 10,
+    "g": {
+      "tsp": 2.5,
+      "tbsp": 7.5,
+      "pinch": 0.3
+    }
+  },
+  "bake-at-home burger buns": {
+    "kcal": 270,
+    "p": 9,
+    "c": 48,
+    "f": 4,
+    "g": {
+      "count": 60
+    }
+  },
+  "bake-at-home ciabatta": {
+    "kcal": 270,
+    "p": 9,
+    "c": 52,
+    "f": 3,
+    "g": {
+      "count": 100
+    }
+  },
+  "baking powder": {
+    "kcal": 53,
+    "p": 0,
+    "c": 28,
+    "f": 0,
+    "g": {
+      "tsp": 4
+    }
+  },
+  "baking soda": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "balsamic vinegar": {
+    "kcal": 88,
+    "p": 0.5,
+    "c": 17,
+    "f": 0,
+    "g": {
+      "tbsp": 20,
+      "tsp": 5,
+      "cup": 255
+    }
+  },
+  "bao buns": {
+    "kcal": 250,
+    "p": 7,
+    "c": 50,
+    "f": 2,
+    "g": {
+      "count": 50
+    }
+  },
+  "barberries": {
+    "kcal": 330,
+    "p": 4,
+    "c": 75,
+    "f": 3,
+    "g": {
+      "count": 0.3
+    }
+  },
+  "basil": {
+    "kcal": 23,
+    "p": 3.2,
+    "c": 2.7,
+    "f": 0.6,
+    "g": {
+      "punnet": 30,
+      "bunch": 30,
+      "count": 0.5,
+      "tbsp": 2,
+      "cup": 20,
+      "g": 1
+    },
+    "kit": {
+      "punnet": 10
+    }
+  },
+  "basil flowers": {
+    "kcal": 23,
+    "p": 3.2,
+    "c": 2.7,
+    "f": 0.6,
+    "g": {
+      "count": 0.2
+    }
+  },
+  "basil leaves": {
+    "kcal": 23,
+    "p": 3.2,
+    "c": 2.7,
+    "f": 0.6,
+    "g": {
+      "bunch": 30
+    }
+  },
+  "basil pesto": {
+    "kcal": 450,
+    "p": 5,
+    "c": 5,
+    "f": 45,
+    "g": {
+      "packet": 50,
+      "sachet": 50,
+      "tub": 150
+    },
+    "kit": {
+      "packet": 50,
+      "sachet": 50,
+      "tub": 50
+    }
+  },
+  "basmati rice": {
+    "kcal": 350,
+    "p": 8,
+    "c": 77,
+    "f": 0.6,
+    "g": {
+      "packet": 250,
+      "count": 250,
+      "cup": 200,
+      "g": 1
+    },
+    "kit": {
+      "packet": 150
+    }
+  },
+  "bay leaf": {
+    "kcal": 313,
+    "p": 7.6,
+    "c": 75,
+    "f": 8.4,
+    "g": {
+      "count": 0.2
+    }
+  },
+  "bay leaves": {
+    "kcal": 313,
+    "p": 7.6,
+    "c": 75,
+    "f": 8.4,
+    "g": {
+      "count": 0.2
+    }
+  },
+  "bbq sauce": {
+    "kcal": 150,
+    "p": 1,
+    "c": 35,
+    "f": 0.5,
+    "g": {
+      "tub": 40
+    },
+    "kit": {
+      "tub": 35
+    }
+  },
+  "bean sprouts": {
+    "kcal": 30,
+    "p": 3,
+    "c": 6,
+    "f": 0.2,
+    "g": {
+      "bunch": 150,
+      "cup": 90
+    }
+  },
+  "beetroot": {
+    "kcal": 43,
+    "p": 1.6,
+    "c": 9.6,
+    "f": 0.2,
+    "g": {
+      "count": 100,
+      "g": 1
+    }
+  },
+  "bengal curry paste": {
+    "kcal": 150,
+    "p": 3,
+    "c": 12,
+    "f": 10,
+    "g": {
+      "sachet": 50,
+      "packet": 50
+    },
+    "kit": {
+      "sachet": 50,
+      "packet": 50
+    }
+  },
+  "bicarbonate of soda": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tbsp": 18,
+      "tsp": 4
+    }
+  },
+  "bicarbonate soda": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tsp": 4
+    }
+  },
+  "black beans": {
+    "kcal": 100,
+    "p": 6.5,
+    "c": 18,
+    "f": 0.5,
+    "g": {
+      "tin": 240
+    },
+    "kit": {
+      "tin": 400
+    }
+  },
+  "black beluga lentils": {
+    "kcal": 350,
+    "p": 25,
+    "c": 60,
+    "f": 1,
+    "g": {
+      "g": 1
+    }
+  },
+  "black lentils": {
+    "kcal": 350,
+    "p": 25,
+    "c": 60,
+    "f": 1,
+    "g": {
+      "g": 1,
+      "cup": 200
+    }
+  },
+  "black mustard seeds": {
+    "kcal": 508,
+    "p": 26,
+    "c": 28,
+    "f": 36,
+    "g": {
+      "tsp": 3
+    }
+  },
+  "black olives": {
+    "kcal": 115,
+    "p": 0.8,
+    "c": 6,
+    "f": 11,
+    "g": {
+      "cup": 135
+    }
+  },
+  "black pepper": {
+    "kcal": 251,
+    "p": 10,
+    "c": 64,
+    "f": 3.3,
+    "g": {
+      "tsp": 2.3,
+      "count": 0.05,
+      "pinch": 0.3,
+      "tbsp": 6.9,
+      "g": 1
+    }
+  },
+  "black peppercorns": {
+    "kcal": 251,
+    "p": 10,
+    "c": 64,
+    "f": 3.3,
+    "g": {
+      "tbsp": 7,
+      "tsp": 2.4
+    }
+  },
+  "black rice": {
+    "kcal": 350,
+    "p": 8,
+    "c": 75,
+    "f": 3,
+    "g": {
+      "cup": 200
+    }
+  },
+  "blanched almonds": {
+    "kcal": 579,
+    "p": 21,
+    "c": 22,
+    "f": 50,
+    "g": {
+      "tbsp": 9
+    }
+  },
+  "blue cheese": {
+    "kcal": 353,
+    "p": 21,
+    "c": 2.3,
+    "f": 29,
+    "g": {
+      "g": 1
+    }
+  },
+  "boiling water": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "l": 1000,
+      "cup": 250,
+      "ml": 1
+    }
+  },
+  "bok choy": {
+    "kcal": 13,
+    "p": 1.5,
+    "c": 2.2,
+    "f": 0.2,
+    "g": {
+      "count": 150
+    }
+  },
+  "brandy": {
+    "kcal": 230,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tbsp": 19
+    }
+  },
+  "bread": {
+    "kcal": 265,
+    "p": 9,
+    "c": 49,
+    "f": 3.2,
+    "g": {
+      "slice": 35,
+      "count": 35
+    }
+  },
+  "breadcrumbs": {
+    "kcal": 395,
+    "p": 13,
+    "c": 72,
+    "f": 5,
+    "g": {
+      "cup": 110,
+      "g": 1,
+      "tbsp": 7
+    }
+  },
+  "breadcrumbs (gluten-free)": {
+    "kcal": 380,
+    "p": 3,
+    "c": 80,
+    "f": 3,
+    "g": {
+      "tbsp": 7
+    }
+  },
+  "brewed black tea": {
+    "kcal": 1,
+    "p": 0,
+    "c": 0.3,
+    "f": 0,
+    "g": {
+      "cup": 250
+    }
+  },
+  "broad beans": {
+    "kcal": 72,
+    "p": 5.4,
+    "c": 11,
+    "f": 0.6,
+    "g": {
+      "count": 3
+    }
+  },
+  "broccoli": {
+    "kcal": 34,
+    "p": 2.8,
+    "c": 7,
+    "f": 0.4,
+    "g": {
+      "head": 350,
+      "cup": 90,
+      "count": 350,
+      "g": 1
+    }
+  },
+  "broccoli florets": {
+    "kcal": 34,
+    "p": 2.8,
+    "c": 7,
+    "f": 0.4,
+    "g": {
+      "cup": 90
+    }
+  },
+  "broccolini": {
+    "kcal": 35,
+    "p": 3.4,
+    "c": 5,
+    "f": 0.5,
+    "g": {
+      "count": 25
+    }
+  },
+  "brown basmati rice": {
+    "kcal": 350,
+    "p": 9,
+    "c": 74,
+    "f": 2.5,
+    "g": {
+      "cup": 200
+    }
+  },
+  "brown long grain rice": {
+    "kcal": 360,
+    "p": 7.5,
+    "c": 76,
+    "f": 2.7,
+    "g": {
+      "cup": 200
+    }
+  },
+  "brown mustard seeds": {
+    "kcal": 508,
+    "p": 26,
+    "c": 28,
+    "f": 36,
+    "g": {
+      "sachet": 5
+    },
+    "kit": {
+      "sachet": 5
+    }
+  },
+  "brown onion": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.3,
+    "f": 0.1,
+    "g": {
+      "count": 150,
+      "unit(s)": 150
+    }
+  },
+  "brown onions": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.3,
+    "f": 0.1,
+    "g": {
+      "count": 150
+    }
+  },
+  "brown rice": {
+    "kcal": 360,
+    "p": 7.5,
+    "c": 76,
+    "f": 2.7,
+    "g": {
+      "packet": 250,
+      "count": 250,
+      "cup": 200
+    },
+    "kit": {
+      "packet": 150
+    }
+  },
+  "brown rice noodles": {
+    "kcal": 360,
+    "p": 7,
+    "c": 80,
+    "f": 2.5,
+    "g": {
+      "packet": 180
+    }
+  },
+  "brown short grain rice": {
+    "kcal": 360,
+    "p": 7.5,
+    "c": 76,
+    "f": 2.7,
+    "g": {
+      "cup": 200
+    }
+  },
+  "brown sugar": {
+    "kcal": 380,
+    "p": 0,
+    "c": 98,
+    "f": 0,
+    "g": {
+      "tbsp": 18,
+      "tsp": 4.5,
+      "cup": 200
+    }
+  },
+  "brussels sprouts": {
+    "kcal": 43,
+    "p": 3.4,
+    "c": 9,
+    "f": 0.3,
+    "g": {
+      "cup": 90
+    }
+  },
+  "buckwheat": {
+    "kcal": 343,
+    "p": 13,
+    "c": 72,
+    "f": 3.4,
+    "g": {
+      "cup": 170
+    }
+  },
+  "buffalo mozzarella": {
+    "kcal": 280,
+    "p": 17,
+    "c": 2,
+    "f": 22,
+    "g": {
+      "count": 125
+    }
+  },
+  "bulgur": {
+    "kcal": 342,
+    "p": 12,
+    "c": 76,
+    "f": 1.3,
+    "g": {
+      "cup": 160
+    }
+  },
+  "burger bun": {
+    "kcal": 270,
+    "p": 9,
+    "c": 48,
+    "f": 4,
+    "g": {
+      "count": 60
+    }
+  },
+  "burger buns": {
+    "kcal": 270,
+    "p": 9,
+    "c": 48,
+    "f": 4,
+    "g": {
+      "count": 60
+    }
+  },
+  "butter": {
+    "kcal": 717,
+    "p": 0.9,
+    "c": 0.1,
+    "f": 81,
+    "g": {
+      "g": 1,
+      "tbsp": 20,
+      "count": 250
+    }
+  },
+  "butter puff pastry": {
+    "kcal": 558,
+    "p": 7,
+    "c": 43,
+    "f": 40,
+    "g": {
+      "packet": 375,
+      "g": 1
+    }
+  },
+  "butternut pumpkin": {
+    "kcal": 45,
+    "p": 1,
+    "c": 10,
+    "f": 0.1,
+    "g": {
+      "count": 1000,
+      "cup": 140,
+      "g": 1
+    }
+  },
+  "butternut squash": {
+    "kcal": 45,
+    "p": 1,
+    "c": 10,
+    "f": 0.1,
+    "g": {
+      "count": 1000
+    }
+  },
+  "button mushrooms": {
+    "kcal": 22,
+    "p": 3.1,
+    "c": 3.3,
+    "f": 0.3,
+    "g": {
+      "g": 1,
+      "packet": 250,
+      "kg": 1000,
+      "count": 20
+    }
+  },
+  "cabbage": {
+    "kcal": 25,
+    "p": 1.3,
+    "c": 5.8,
+    "f": 0.1,
+    "g": {
+      "g": 1,
+      "count": 1000
+    }
+  },
+  "cabbage leaves": {
+    "kcal": 25,
+    "p": 1.3,
+    "c": 5.8,
+    "f": 0.1,
+    "g": {
+      "count": 40
+    }
+  },
+  "caesar dressing": {
+    "kcal": 400,
+    "p": 2,
+    "c": 4,
+    "f": 42,
+    "g": {
+      "packet": 30
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "canned crushed tomatoes": {
+    "kcal": 24,
+    "p": 1.3,
+    "c": 4.3,
+    "f": 0.2,
+    "g": {
+      "g": 1
+    }
+  },
+  "canned diced tomatoes": {
+    "kcal": 22,
+    "p": 1.2,
+    "c": 4,
+    "f": 0.2,
+    "g": {
+      "g": 1
+    }
+  },
+  "cannellini beans": {
+    "kcal": 100,
+    "p": 7,
+    "c": 17,
+    "f": 0.5,
+    "g": {
+      "tin": 240
+    },
+    "kit": {
+      "tin": 400
+    }
+  },
+  "canola oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "count": 18,
+      "tbsp": 18,
+      "ml": 0.92,
+      "cup": 230
+    }
+  },
+  "capers": {
+    "kcal": 23,
+    "p": 2.4,
+    "c": 4.9,
+    "f": 0.9,
+    "g": {
+      "tbsp": 15
+    }
+  },
+  "capsicum": {
+    "kcal": 26,
+    "p": 1,
+    "c": 6,
+    "f": 0.3,
+    "g": {
+      "count": 200
+    }
+  },
+  "capsicum and tomato spread": {
+    "kcal": 100,
+    "p": 2,
+    "c": 15,
+    "f": 4,
+    "g": {
+      "jar": 200
+    }
+  },
+  "capsicum paste": {
+    "kcal": 60,
+    "p": 2,
+    "c": 10,
+    "f": 1,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "capsicums": {
+    "kcal": 26,
+    "p": 1,
+    "c": 6,
+    "f": 0.3,
+    "g": {
+      "count": 200
+    }
+  },
+  "caramelised onion chutney": {
+    "kcal": 180,
+    "p": 1,
+    "c": 40,
+    "f": 1,
+    "g": {
+      "packet": 30,
+      "tub": 50
+    },
+    "kit": {
+      "packet": 50,
+      "tub": 50
+    }
+  },
+  "caraway seeds": {
+    "kcal": 333,
+    "p": 20,
+    "c": 50,
+    "f": 15,
+    "g": {
+      "tsp": 2
+    }
+  },
+  "cardamom pods": {
+    "kcal": 311,
+    "p": 11,
+    "c": 68,
+    "f": 7,
+    "g": {
+      "count": 0.2
+    }
+  },
+  "carrot": {
+    "kcal": 41,
+    "p": 0.9,
+    "c": 9.6,
+    "f": 0.2,
+    "g": {
+      "count": 120,
+      "unit(s)": 120,
+      "cup": 130
+    }
+  },
+  "carrot juice": {
+    "kcal": 40,
+    "p": 0.9,
+    "c": 9.3,
+    "f": 0.2,
+    "g": {
+      "cup": 245
+    }
+  },
+  "carrots": {
+    "kcal": 41,
+    "p": 0.9,
+    "c": 9.6,
+    "f": 0.2,
+    "g": {
+      "count": 120
+    }
+  },
+  "cashew mayonnaise": {
+    "kcal": 400,
+    "p": 3,
+    "c": 6,
+    "f": 40,
+    "g": {
+      "count": 20
+    }
+  },
+  "cashew tzatziki": {
+    "kcal": 120,
+    "p": 3,
+    "c": 6,
+    "f": 9,
+    "g": {
+      "count": 30
+    }
+  },
+  "cashews": {
+    "kcal": 553,
+    "p": 18,
+    "c": 30,
+    "f": 44,
+    "g": {
+      "count": 2,
+      "tbsp": 9,
+      "cup": 140
+    }
+  },
+  "cauliflower": {
+    "kcal": 25,
+    "p": 1.9,
+    "c": 5,
+    "f": 0.3,
+    "g": {
+      "portion": 150,
+      "count": 900,
+      "g": 1,
+      "kg": 1000,
+      "cup": 100
+    }
+  },
+  "cauliflower florets": {
+    "kcal": 25,
+    "p": 1.9,
+    "c": 5,
+    "f": 0.3,
+    "g": {
+      "cup": 100
+    }
+  },
+  "cavolo nero": {
+    "kcal": 49,
+    "p": 4.3,
+    "c": 9,
+    "f": 0.9,
+    "g": {
+      "cup": 40
+    }
+  },
+  "cayenne pepper": {
+    "kcal": 318,
+    "p": 12,
+    "c": 57,
+    "f": 17,
+    "g": {
+      "count": 1
+    }
+  },
+  "celeriac": {
+    "kcal": 42,
+    "p": 1.5,
+    "c": 9.2,
+    "f": 0.3,
+    "g": {
+      "count": 500
+    }
+  },
+  "celery": {
+    "kcal": 14,
+    "p": 0.7,
+    "c": 3,
+    "f": 0.2,
+    "g": {
+      "count": 40,
+      "bunch": 600,
+      "cup": 100,
+      "g": 1
+    }
+  },
+  "celery leaves": {
+    "kcal": 14,
+    "p": 0.7,
+    "c": 3,
+    "f": 0.2,
+    "g": {
+      "count": 1,
+      "cup": 20
+    }
+  },
+  "challah": {
+    "kcal": 290,
+    "p": 9,
+    "c": 50,
+    "f": 6,
+    "g": {
+      "count": 500,
+      "cup": 60
+    }
+  },
+  "chanterelle mushrooms": {
+    "kcal": 32,
+    "p": 1.5,
+    "c": 7,
+    "f": 0.5,
+    "g": {
+      "packet": 150
+    }
+  },
+  "chapati": {
+    "kcal": 300,
+    "p": 8,
+    "c": 50,
+    "f": 7,
+    "g": {
+      "count": 60
+    }
+  },
+  "chapati wraps": {
+    "kcal": 300,
+    "p": 8,
+    "c": 50,
+    "f": 7,
+    "g": {
+      "count": 60
+    }
+  },
+  "chard": {
+    "kcal": 19,
+    "p": 1.8,
+    "c": 3.7,
+    "f": 0.2,
+    "g": {
+      "bunch": 400,
+      "cup": 36
+    }
+  },
+  "chard leaves": {
+    "kcal": 19,
+    "p": 1.8,
+    "c": 3.7,
+    "f": 0.2,
+    "g": {
+      "count": 40
+    }
+  },
+  "chargrilled capsicum relish": {
+    "kcal": 100,
+    "p": 1.5,
+    "c": 20,
+    "f": 2,
+    "g": {
+      "tub": 100
+    },
+    "kit": {
+      "tub": 50
+    }
+  },
+  "cheddar": {
+    "kcal": 403,
+    "p": 25,
+    "c": 1.3,
+    "f": 33,
+    "g": {
+      "g": 1
+    }
+  },
+  "cheddar cheese": {
+    "kcal": 403,
+    "p": 25,
+    "c": 1.3,
+    "f": 33,
+    "g": {
+      "packet": 100,
+      "count": 20
+    },
+    "kit": {
+      "packet": 50
+    }
+  },
+  "chermoula spice mix": {
+    "kcal": 300,
+    "p": 10,
+    "c": 50,
+    "f": 8,
+    "g": {
+      "sachet": 10
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "cherry tomatoes": {
+    "kcal": 18,
+    "p": 0.9,
+    "c": 3.9,
+    "f": 0.2,
+    "g": {
+      "punnet": 250,
+      "g": 1,
+      "kg": 1000,
+      "count": 15,
+      "cup": 150
+    },
+    "kit": {
+      "punnet": 250
+    }
+  },
+  "chestnuts": {
+    "kcal": 213,
+    "p": 2.4,
+    "c": 45,
+    "f": 2.2,
+    "g": {
+      "g": 1
+    }
+  },
+  "chickpea flour": {
+    "kcal": 387,
+    "p": 22,
+    "c": 58,
+    "f": 7,
+    "g": {
+      "cup": 120,
+      "tbsp": 8
+    }
+  },
+  "chickpeas": {
+    "kcal": 120,
+    "p": 7,
+    "c": 16,
+    "f": 2.5,
+    "g": {
+      "tin": 240
+    },
+    "kit": {
+      "tin": 400
+    }
+  },
+  "chicory": {
+    "kcal": 23,
+    "p": 1.7,
+    "c": 4.7,
+    "f": 0.3,
+    "g": {
+      "count": 150
+    }
+  },
+  "chilli": {
+    "kcal": 40,
+    "p": 1.9,
+    "c": 9,
+    "f": 0.4,
+    "g": {
+      "count": 15
+    }
+  },
+  "chilli flakes": {
+    "kcal": 318,
+    "p": 12,
+    "c": 57,
+    "f": 17,
+    "g": {
+      "pinch": 0.3,
+      "tsp": 2,
+      "count": 0.3
+    }
+  },
+  "chilli oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tsp": 4.5
+    }
+  },
+  "chilli powder": {
+    "kcal": 282,
+    "p": 13,
+    "c": 50,
+    "f": 14,
+    "g": {
+      "tsp": 2.6,
+      "count": 2.6
+    }
+  },
+  "chilli sauce": {
+    "kcal": 60,
+    "p": 1,
+    "c": 13,
+    "f": 0.5,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "chinese tofu": {
+    "kcal": 76,
+    "p": 8,
+    "c": 1.9,
+    "f": 4.8,
+    "g": {
+      "packet": 300,
+      "block": 300
+    },
+    "kit": {
+      "packet": 300,
+      "block": 300
+    }
+  },
+  "chipotle paste": {
+    "kcal": 100,
+    "p": 2,
+    "c": 18,
+    "f": 3,
+    "g": {
+      "count": 15
+    }
+  },
+  "chives": {
+    "kcal": 30,
+    "p": 3.3,
+    "c": 4.4,
+    "f": 0.7,
+    "g": {
+      "tbsp": 3,
+      "count": 1,
+      "cup": 50
+    }
+  },
+  "chopped salad": {
+    "kcal": 20,
+    "p": 1,
+    "c": 4,
+    "f": 0.2,
+    "g": {
+      "count": 250
+    }
+  },
+  "chopped vegetable salad": {
+    "kcal": 20,
+    "p": 1,
+    "c": 4,
+    "f": 0.2,
+    "g": {
+      "count": 250
+    }
+  },
+  "cinnamon": {
+    "kcal": 247,
+    "p": 4,
+    "c": 81,
+    "f": 1.2,
+    "g": {
+      "pinch": 0.3,
+      "tsp": 2.6,
+      "count": 2.6
+    }
+  },
+  "cinnamon stick": {
+    "kcal": 247,
+    "p": 4,
+    "c": 81,
+    "f": 1.2,
+    "g": {
+      "count": 3
+    }
+  },
+  "cinnamon sticks": {
+    "kcal": 247,
+    "p": 4,
+    "c": 81,
+    "f": 1.2,
+    "g": {
+      "count": 3
+    }
+  },
+  "cloves": {
+    "kcal": 274,
+    "p": 6,
+    "c": 66,
+    "f": 13,
+    "g": {
+      "count": 0.1
+    }
+  },
+  "coarse bulgur": {
+    "kcal": 342,
+    "p": 12,
+    "c": 76,
+    "f": 1.3,
+    "g": {
+      "cup": 160,
+      "g": 1
+    }
+  },
+  "coarse cornmeal": {
+    "kcal": 362,
+    "p": 8,
+    "c": 77,
+    "f": 3.6,
+    "g": {
+      "cup": 160
+    }
+  },
+  "coarse freekeh": {
+    "kcal": 340,
+    "p": 13,
+    "c": 65,
+    "f": 2.5,
+    "g": {
+      "cup": 170
+    }
+  },
+  "coarse salt": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tbsp": 18,
+      "count": 5,
+      "cup": 288,
+      "tsp": 6,
+      "g": 1,
+      "kg": 1000
+    }
+  },
+  "coarse sea salt": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "count": 5
+    }
+  },
+  "coconut butter": {
+    "kcal": 660,
+    "p": 6,
+    "c": 23,
+    "f": 62,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "coconut cream": {
+    "kcal": 197,
+    "p": 2,
+    "c": 3,
+    "f": 21,
+    "g": {
+      "box": 250,
+      "tin": 400,
+      "ml": 1,
+      "cup": 250
+    },
+    "kit": {
+      "box": 200,
+      "tin": 270
+    }
+  },
+  "coconut milk": {
+    "kcal": 180,
+    "p": 2,
+    "c": 3,
+    "f": 19,
+    "g": {
+      "tin": 400,
+      "box": 250,
+      "cup": 250,
+      "ml": 1
+    },
+    "kit": {
+      "tin": 270,
+      "box": 250
+    }
+  },
+  "coconut oil": {
+    "kcal": 862,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tbsp": 18,
+      "count": 18,
+      "cup": 216
+    }
+  },
+  "coconut sweet chilli mayonnaise": {
+    "kcal": 400,
+    "p": 1,
+    "c": 20,
+    "f": 35,
+    "g": {
+      "packet": 50
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "coconut water": {
+    "kcal": 19,
+    "p": 0.7,
+    "c": 3.7,
+    "f": 0.2,
+    "g": {
+      "cup": 240
+    }
+  },
+  "cold butter": {
+    "kcal": 717,
+    "p": 0.9,
+    "c": 0.1,
+    "f": 81,
+    "g": {
+      "g": 1
+    }
+  },
+  "cold water": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tsp": 5,
+      "tbsp": 20,
+      "ml": 1,
+      "cup": 250
+    }
+  },
+  "cooked beetroot": {
+    "kcal": 44,
+    "p": 1.7,
+    "c": 10,
+    "f": 0.2,
+    "g": {
+      "count": 100
+    }
+  },
+  "cooked black lentils": {
+    "kcal": 116,
+    "p": 9,
+    "c": 20,
+    "f": 0.4,
+    "g": {
+      "cup": 190
+    }
+  },
+  "cooked brown round rice": {
+    "kcal": 123,
+    "p": 2.7,
+    "c": 26,
+    "f": 1,
+    "g": {
+      "cup": 160
+    }
+  },
+  "cooked chickpeas": {
+    "kcal": 164,
+    "p": 8.9,
+    "c": 27,
+    "f": 2.6,
+    "g": {
+      "g": 1,
+      "cup": 160,
+      "count": 0.6
+    }
+  },
+  "cooked kidney beans": {
+    "kcal": 127,
+    "p": 8.7,
+    "c": 22,
+    "f": 0.5,
+    "g": {
+      "cup": 180
+    }
+  },
+  "cooked pumpkin": {
+    "kcal": 20,
+    "p": 0.7,
+    "c": 4.9,
+    "f": 0.1,
+    "g": {
+      "cup": 245
+    }
+  },
+  "cooked red quinoa": {
+    "kcal": 120,
+    "p": 4.4,
+    "c": 21,
+    "f": 1.9,
+    "g": {
+      "cup": 185
+    }
+  },
+  "cooked rice": {
+    "kcal": 130,
+    "p": 2.7,
+    "c": 28,
+    "f": 0.3,
+    "g": {
+      "cup": 160,
+      "count": 160
+    }
+  },
+  "cooked white beans": {
+    "kcal": 139,
+    "p": 9.7,
+    "c": 25,
+    "f": 0.4,
+    "g": {
+      "cup": 180
+    }
+  },
+  "cooked white rice": {
+    "kcal": 130,
+    "p": 2.7,
+    "c": 28,
+    "f": 0.3,
+    "g": {
+      "count": 160
+    }
+  },
+  "cooking cream": {
+    "kcal": 300,
+    "p": 2.5,
+    "c": 4,
+    "f": 30,
+    "g": {
+      "ml": 1,
+      "packet": 300
+    }
+  },
+  "coriander": {
+    "kcal": 23,
+    "p": 2.1,
+    "c": 3.7,
+    "f": 0.5,
+    "g": {
+      "bag": 30,
+      "count": 1,
+      "bunch": 60,
+      "tbsp": 2,
+      "cup": 16,
+      "g": 1
+    },
+    "kit": {
+      "bag": 20
+    }
+  },
+  "coriander leaves": {
+    "kcal": 23,
+    "p": 2.1,
+    "c": 3.7,
+    "f": 0.5,
+    "g": {
+      "count": 0.5
+    }
+  },
+  "coriander root": {
+    "kcal": 23,
+    "p": 2.1,
+    "c": 3.7,
+    "f": 0.5,
+    "g": {
+      "count": 5
+    }
+  },
+  "coriander seeds": {
+    "kcal": 298,
+    "p": 12,
+    "c": 55,
+    "f": 18,
+    "g": {
+      "tsp": 2,
+      "count": 0.02,
+      "tbsp": 6
+    }
+  },
+  "corn": {
+    "kcal": 86,
+    "p": 3.3,
+    "c": 19,
+    "f": 1.2,
+    "g": {
+      "cob": 200,
+      "count": 200
+    }
+  },
+  "corn cobs": {
+    "kcal": 86,
+    "p": 3.3,
+    "c": 19,
+    "f": 1.2,
+    "g": {
+      "count": 200
+    }
+  },
+  "corn oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "cornflour": {
+    "kcal": 354,
+    "p": 0.3,
+    "c": 88,
+    "f": 0.1,
+    "g": {
+      "tbsp": 10
+    }
+  },
+  "cos lettuce": {
+    "kcal": 17,
+    "p": 1.2,
+    "c": 3.3,
+    "f": 0.3,
+    "g": {
+      "head": 300,
+      "count": 300
+    }
+  },
+  "cottage cheese": {
+    "kcal": 98,
+    "p": 11,
+    "c": 3.4,
+    "f": 4.3,
+    "g": {
+      "g": 1,
+      "cup": 225,
+      "packet": 250,
+      "tbsp": 18
+    }
+  },
+  "couscous": {
+    "kcal": 360,
+    "p": 12.8,
+    "c": 73,
+    "f": 0.6,
+    "g": {
+      "packet": 250
+    },
+    "kit": {
+      "packet": 150
+    }
+  },
+  "cream": {
+    "kcal": 340,
+    "p": 2.1,
+    "c": 2.8,
+    "f": 36,
+    "g": {
+      "cup": 245,
+      "ml": 1,
+      "tbsp": 19
+    }
+  },
+  "cream cheese": {
+    "kcal": 342,
+    "p": 6,
+    "c": 4,
+    "f": 34,
+    "g": {
+      "g": 1
+    }
+  },
+  "creamy pesto dressing": {
+    "kcal": 400,
+    "p": 2,
+    "c": 5,
+    "f": 40,
+    "g": {
+      "packet": 30
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "creme fraiche": {
+    "kcal": 300,
+    "p": 2.5,
+    "c": 3,
+    "f": 30,
+    "g": {
+      "g": 1,
+      "count": 200,
+      "tbsp": 20
+    }
+  },
+  "crispy fried onions": {
+    "kcal": 570,
+    "p": 6,
+    "c": 38,
+    "f": 43,
+    "g": {
+      "cup": 40
+    }
+  },
+  "crispy shallots": {
+    "kcal": 570,
+    "p": 6,
+    "c": 38,
+    "f": 43,
+    "g": {
+      "sachet": 15,
+      "packet": 15
+    },
+    "kit": {
+      "sachet": 15,
+      "packet": 15
+    }
+  },
+  "croutons": {
+    "kcal": 407,
+    "p": 11,
+    "c": 74,
+    "f": 6,
+    "g": {
+      "g": 1
+    }
+  },
+  "crushed peanuts": {
+    "kcal": 585,
+    "p": 26,
+    "c": 16,
+    "f": 50,
+    "g": {
+      "packet": 20,
+      "sachet": 20
+    },
+    "kit": {
+      "packet": 25,
+      "sachet": 25
+    }
+  },
+  "crushed tomatoes": {
+    "kcal": 24,
+    "p": 1.3,
+    "c": 4.3,
+    "f": 0.2,
+    "g": {
+      "tin": 400,
+      "g": 1,
+      "count": 400,
+      "l": 1030
+    }
+  },
+  "cucumber": {
+    "kcal": 15,
+    "p": 0.7,
+    "c": 3.6,
+    "f": 0.1,
+    "g": {
+      "count": 200
+    }
+  },
+  "cucumbers": {
+    "kcal": 15,
+    "p": 0.7,
+    "c": 3.6,
+    "f": 0.1,
+    "g": {
+      "count": 200
+    }
+  },
+  "cumin": {
+    "kcal": 375,
+    "p": 18,
+    "c": 44,
+    "f": 22,
+    "g": {
+      "tsp": 2
+    }
+  },
+  "cumin seeds": {
+    "kcal": 375,
+    "p": 18,
+    "c": 44,
+    "f": 22,
+    "g": {
+      "tsp": 2,
+      "tbsp": 6
+    }
+  },
+  "currants": {
+    "kcal": 283,
+    "p": 4,
+    "c": 74,
+    "f": 0.5,
+    "g": {
+      "packet": 50
+    },
+    "kit": {
+      "packet": 25
+    }
+  },
+  "curry leaves": {
+    "kcal": 108,
+    "p": 6.1,
+    "c": 18.7,
+    "f": 1,
+    "g": {
+      "count": 0.1
+    }
+  },
+  "curry powder": {
+    "kcal": 325,
+    "p": 14,
+    "c": 58,
+    "f": 14,
+    "g": {
+      "tsp": 2,
+      "count": 2,
+      "tbsp": 6
+    }
+  },
+  "dark beer": {
+    "kcal": 45,
+    "p": 0.5,
+    "c": 3.5,
+    "f": 0,
+    "g": {
+      "cup": 250
+    }
+  },
+  "dark raisins": {
+    "kcal": 299,
+    "p": 3.1,
+    "c": 79,
+    "f": 0.5,
+    "g": {
+      "cup": 150
+    }
+  },
+  "dark roasted peanut butter": {
+    "kcal": 600,
+    "p": 25,
+    "c": 15,
+    "f": 50,
+    "g": {
+      "packet": 30
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "date syrup": {
+    "kcal": 300,
+    "p": 1,
+    "c": 75,
+    "f": 0,
+    "g": {
+      "cup": 330,
+      "tbsp": 28,
+      "tsp": 7
+    }
+  },
+  "date syrup (silan)": {
+    "kcal": 300,
+    "p": 1,
+    "c": 75,
+    "f": 0,
+    "g": {
+      "tbsp": 28
+    }
+  },
+  "delicata squash": {
+    "kcal": 40,
+    "p": 1,
+    "c": 10,
+    "f": 0.1,
+    "g": {
+      "count": 400
+    }
+  },
+  "diced tomatoes": {
+    "kcal": 22,
+    "p": 1.2,
+    "c": 4,
+    "f": 0.2,
+    "g": {
+      "tin": 400
+    },
+    "kit": {
+      "tin": 400
+    }
+  },
+  "diced tomatoes with garlic & olive oil": {
+    "kcal": 40,
+    "p": 1.3,
+    "c": 6,
+    "f": 1.2,
+    "g": {
+      "tin": 400,
+      "box": 400
+    },
+    "kit": {
+      "tin": 400,
+      "box": 400
+    }
+  },
+  "dijon mustard": {
+    "kcal": 70,
+    "p": 4,
+    "c": 4,
+    "f": 4,
+    "g": {
+      "tub": 20,
+      "tsp": 5
+    },
+    "kit": {
+      "tub": 20
+    }
+  },
+  "dill": {
+    "kcal": 43,
+    "p": 3.5,
+    "c": 7,
+    "f": 1.1,
+    "g": {
+      "tbsp": 2,
+      "bunch": 20,
+      "g": 1,
+      "count": 1
+    }
+  },
+  "dorblu cheese": {
+    "kcal": 350,
+    "p": 19,
+    "c": 1,
+    "f": 30,
+    "g": {
+      "g": 1
+    }
+  },
+  "dried apricots": {
+    "kcal": 241,
+    "p": 3.4,
+    "c": 63,
+    "f": 0.5,
+    "g": {
+      "cup": 130
+    }
+  },
+  "dried basil": {
+    "kcal": 233,
+    "p": 23,
+    "c": 48,
+    "f": 4,
+    "g": {
+      "pinch": 0.3
+    }
+  },
+  "dried black beans": {
+    "kcal": 341,
+    "p": 21,
+    "c": 63,
+    "f": 1.4,
+    "g": {
+      "cup": 190
+    }
+  },
+  "dried black-eyed peas": {
+    "kcal": 336,
+    "p": 23,
+    "c": 60,
+    "f": 1.3,
+    "g": {
+      "g": 1
+    }
+  },
+  "dried broad beans": {
+    "kcal": 341,
+    "p": 26,
+    "c": 58,
+    "f": 1.5,
+    "g": {
+      "cup": 180
+    }
+  },
+  "dried butter beans": {
+    "kcal": 336,
+    "p": 21,
+    "c": 60,
+    "f": 0.7,
+    "g": {
+      "g": 1
+    }
+  },
+  "dried chickpeas": {
+    "kcal": 364,
+    "p": 19,
+    "c": 61,
+    "f": 6,
+    "g": {
+      "g": 1,
+      "cup": 200
+    }
+  },
+  "dried chilli": {
+    "kcal": 282,
+    "p": 13,
+    "c": 50,
+    "f": 14,
+    "g": {
+      "count": 1,
+      "tsp": 1.5
+    }
+  },
+  "dried chilli flakes": {
+    "kcal": 318,
+    "p": 12,
+    "c": 57,
+    "f": 17,
+    "g": {
+      "tsp": 2,
+      "count": 0.3
+    }
+  },
+  "dried chillies": {
+    "kcal": 282,
+    "p": 13,
+    "c": 50,
+    "f": 14,
+    "g": {
+      "count": 1
+    }
+  },
+  "dried cranberries": {
+    "kcal": 308,
+    "p": 0.1,
+    "c": 82,
+    "f": 1.4,
+    "g": {
+      "tbsp": 8,
+      "g": 1
+    }
+  },
+  "dried fettuccine": {
+    "kcal": 360,
+    "p": 12,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "packet": 500
+    }
+  },
+  "dried kaffir lime leaves": {
+    "kcal": 90,
+    "p": 3,
+    "c": 18,
+    "f": 1,
+    "g": {
+      "count": 0.3
+    }
+  },
+  "dried lime": {
+    "kcal": 100,
+    "p": 3,
+    "c": 25,
+    "f": 0.5,
+    "g": {
+      "count": 10
+    }
+  },
+  "dried mint": {
+    "kcal": 285,
+    "p": 20,
+    "c": 53,
+    "f": 6,
+    "g": {
+      "tsp": 0.7,
+      "tbsp": 2
+    }
+  },
+  "dried mixed herbs": {
+    "kcal": 265,
+    "p": 10,
+    "c": 52,
+    "f": 5,
+    "g": {
+      "tsp": 1
+    }
+  },
+  "dried mixed mushrooms": {
+    "kcal": 290,
+    "p": 25,
+    "c": 55,
+    "f": 3,
+    "g": {
+      "g": 1
+    }
+  },
+  "dried mushrooms": {
+    "kcal": 290,
+    "p": 25,
+    "c": 55,
+    "f": 3,
+    "g": {
+      "g": 1
+    }
+  },
+  "dried oregano": {
+    "kcal": 265,
+    "p": 9,
+    "c": 69,
+    "f": 4.3,
+    "g": {
+      "sachet": 5,
+      "tsp": 1
+    },
+    "kit": {
+      "sachet": 3
+    }
+  },
+  "dried peas": {
+    "kcal": 341,
+    "p": 25,
+    "c": 60,
+    "f": 1.2,
+    "g": {
+      "cup": 200
+    }
+  },
+  "dried persian limes": {
+    "kcal": 100,
+    "p": 3,
+    "c": 25,
+    "f": 0.5,
+    "g": {
+      "count": 10
+    }
+  },
+  "dried plums": {
+    "kcal": 240,
+    "p": 2.2,
+    "c": 64,
+    "f": 0.4,
+    "g": {
+      "count": 10
+    }
+  },
+  "dried porcini mushrooms": {
+    "kcal": 290,
+    "p": 25,
+    "c": 55,
+    "f": 3,
+    "g": {
+      "packet": 30,
+      "g": 1
+    },
+    "kit": {
+      "packet": 10
+    }
+  },
+  "dried red chillies": {
+    "kcal": 282,
+    "p": 13,
+    "c": 50,
+    "f": 14,
+    "g": {
+      "count": 1
+    }
+  },
+  "dried red kidney beans": {
+    "kcal": 333,
+    "p": 24,
+    "c": 60,
+    "f": 0.8,
+    "g": {
+      "g": 1
+    }
+  },
+  "dried shiitake mushrooms": {
+    "kcal": 296,
+    "p": 10,
+    "c": 75,
+    "f": 1,
+    "g": {
+      "count": 3
+    }
+  },
+  "dried sour cherries": {
+    "kcal": 300,
+    "p": 2,
+    "c": 75,
+    "f": 1,
+    "g": {
+      "count": 1.5
+    }
+  },
+  "dried sudanese chillies": {
+    "kcal": 282,
+    "p": 13,
+    "c": 50,
+    "f": 14,
+    "g": {
+      "count": 1
+    }
+  },
+  "dried sweet peppers": {
+    "kcal": 290,
+    "p": 12,
+    "c": 55,
+    "f": 6,
+    "g": {
+      "count": 5
+    }
+  },
+  "dried white beans": {
+    "kcal": 333,
+    "p": 23,
+    "c": 60,
+    "f": 0.9,
+    "g": {
+      "g": 1
+    }
+  },
+  "dried yeast": {
+    "kcal": 325,
+    "p": 40,
+    "c": 41,
+    "f": 7.6,
+    "g": {
+      "tsp": 3,
+      "tbsp": 9
+    }
+  },
+  "dried za'atar leaves": {
+    "kcal": 270,
+    "p": 9,
+    "c": 50,
+    "f": 5,
+    "g": {
+      "tbsp": 2
+    }
+  },
+  "dry white wine": {
+    "kcal": 82,
+    "p": 0.1,
+    "c": 2.6,
+    "f": 0,
+    "g": {
+      "cup": 245,
+      "ml": 1,
+      "tbsp": 20
+    }
+  },
+  "dukkah": {
+    "kcal": 500,
+    "p": 16,
+    "c": 25,
+    "f": 40,
+    "g": {
+      "sachet": 10
+    },
+    "kit": {
+      "sachet": 15
+    }
+  },
+  "durum flour": {
+    "kcal": 360,
+    "p": 12,
+    "c": 73,
+    "f": 1.5,
+    "g": {
+      "count": 100,
+      "g": 1
+    }
+  },
+  "durum wheat flour": {
+    "kcal": 360,
+    "p": 12,
+    "c": 73,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "egg": {
+    "kcal": 143,
+    "p": 12.6,
+    "c": 0.7,
+    "f": 9.5,
+    "g": {
+      "count": 50
+    }
+  },
+  "egg noodles": {
+    "kcal": 380,
+    "p": 12,
+    "c": 72,
+    "f": 4,
+    "g": {
+      "packet": 200
+    }
+  },
+  "egg white": {
+    "kcal": 52,
+    "p": 11,
+    "c": 0.7,
+    "f": 0.2,
+    "g": {
+      "count": 33
+    }
+  },
+  "egg whites": {
+    "kcal": 52,
+    "p": 11,
+    "c": 0.7,
+    "f": 0.2,
+    "g": {
+      "count": 33
+    }
+  },
+  "egg yolk": {
+    "kcal": 322,
+    "p": 16,
+    "c": 3.6,
+    "f": 27,
+    "g": {
+      "count": 17
+    }
+  },
+  "egg yolks": {
+    "kcal": 322,
+    "p": 16,
+    "c": 3.6,
+    "f": 27,
+    "g": {
+      "count": 17
+    }
+  },
+  "eggplant": {
+    "kcal": 25,
+    "p": 1,
+    "c": 6,
+    "f": 0.2,
+    "g": {
+      "count": 350
+    }
+  },
+  "eggplants": {
+    "kcal": 25,
+    "p": 1,
+    "c": 6,
+    "f": 0.2,
+    "g": {
+      "count": 350,
+      "g": 1
+    }
+  },
+  "eggs": {
+    "kcal": 143,
+    "p": 12.6,
+    "c": 0.7,
+    "f": 9.5,
+    "g": {
+      "count": 50
+    }
+  },
+  "enchilada sauce": {
+    "kcal": 40,
+    "p": 1,
+    "c": 7,
+    "f": 1,
+    "g": {
+      "packet": 100
+    },
+    "kit": {
+      "packet": 100
+    }
+  },
+  "eschalots": {
+    "kcal": 72,
+    "p": 2.5,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "g": 1,
+      "count": 25
+    }
+  },
+  "eshallot": {
+    "kcal": 72,
+    "p": 2.5,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "count": 25
+    }
+  },
+  "extra virgin olive oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "fava beans": {
+    "kcal": 88,
+    "p": 7.6,
+    "c": 17,
+    "f": 0.7,
+    "g": {
+      "cup": 150
+    }
+  },
+  "fennel": {
+    "kcal": 31,
+    "p": 1.2,
+    "c": 7.3,
+    "f": 0.2,
+    "g": {
+      "count": 300
+    }
+  },
+  "fennel bulbs": {
+    "kcal": 31,
+    "p": 1.2,
+    "c": 7.3,
+    "f": 0.2,
+    "g": {
+      "count": 300
+    }
+  },
+  "fennel seeds": {
+    "kcal": 345,
+    "p": 16,
+    "c": 52,
+    "f": 15,
+    "g": {
+      "sachet": 5,
+      "tbsp": 6,
+      "tsp": 2
+    },
+    "kit": {
+      "sachet": 5
+    }
+  },
+  "feta": {
+    "kcal": 264,
+    "p": 14,
+    "c": 4,
+    "f": 21,
+    "g": {
+      "g": 1,
+      "cup": 150,
+      "count": 100
+    }
+  },
+  "fetta cheese": {
+    "kcal": 264,
+    "p": 14,
+    "c": 4,
+    "f": 21,
+    "g": {
+      "block": 200
+    },
+    "kit": {
+      "block": 50
+    }
+  },
+  "fettuccine": {
+    "kcal": 360,
+    "p": 12,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "packet": 500,
+      "g": 1
+    },
+    "kit": {
+      "packet": 200
+    }
+  },
+  "field mushrooms": {
+    "kcal": 22,
+    "p": 3.1,
+    "c": 3.3,
+    "f": 0.3,
+    "g": {
+      "count": 50
+    }
+  },
+  "filo pastry": {
+    "kcal": 300,
+    "p": 8.5,
+    "c": 56,
+    "f": 3.5,
+    "g": {
+      "g": 1,
+      "packet": 375,
+      "slice": 25,
+      "count": 25
+    }
+  },
+  "fine breadcrumbs": {
+    "kcal": 395,
+    "p": 13,
+    "c": 72,
+    "f": 5,
+    "g": {
+      "packet": 100
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "fine bulgur": {
+    "kcal": 342,
+    "p": 12,
+    "c": 76,
+    "f": 1.3,
+    "g": {
+      "cup": 160
+    }
+  },
+  "firm tofu": {
+    "kcal": 120,
+    "p": 13,
+    "c": 2,
+    "f": 7,
+    "g": {
+      "block": 300,
+      "packet": 300,
+      "g": 1
+    },
+    "kit": {
+      "block": 300
+    }
+  },
+  "firm white cheese": {
+    "kcal": 300,
+    "p": 20,
+    "c": 2,
+    "f": 24,
+    "g": {
+      "g": 1
+    }
+  },
+  "flaked almonds": {
+    "kcal": 590,
+    "p": 21,
+    "c": 22,
+    "f": 50,
+    "g": {
+      "packet": 100,
+      "tbsp": 8
+    },
+    "kit": {
+      "packet": 20
+    }
+  },
+  "flaky sea salt": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "count": 1
+    }
+  },
+  "flatbread": {
+    "kcal": 275,
+    "p": 9,
+    "c": 50,
+    "f": 5,
+    "g": {
+      "count": 80
+    }
+  },
+  "flaxseed": {
+    "kcal": 534,
+    "p": 18,
+    "c": 29,
+    "f": 42,
+    "g": {
+      "cup": 170
+    }
+  },
+  "freekeh": {
+    "kcal": 340,
+    "p": 13,
+    "c": 65,
+    "f": 2.5,
+    "g": {
+      "packet": 250,
+      "cup": 180,
+      "g": 1
+    },
+    "kit": {
+      "packet": 150
+    }
+  },
+  "fresh black-eyed beans": {
+    "kcal": 90,
+    "p": 3,
+    "c": 17,
+    "f": 0.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "fresh cheese (tavor)": {
+    "kcal": 260,
+    "p": 10,
+    "c": 3,
+    "f": 23,
+    "g": {
+      "g": 1
+    }
+  },
+  "fresh cherries": {
+    "kcal": 63,
+    "p": 1,
+    "c": 16,
+    "f": 0.2,
+    "g": {
+      "g": 1
+    }
+  },
+  "fresh chilli": {
+    "kcal": 40,
+    "p": 1.9,
+    "c": 9,
+    "f": 0.4,
+    "g": {
+      "count": 15
+    }
+  },
+  "fresh dill": {
+    "kcal": 43,
+    "p": 3.5,
+    "c": 7,
+    "f": 1.1,
+    "g": {
+      "count": 2,
+      "bunch": 30,
+      "tbsp": 2,
+      "cup": 15
+    }
+  },
+  "fresh ginger": {
+    "kcal": 80,
+    "p": 1.8,
+    "c": 18,
+    "f": 0.8,
+    "g": {
+      "tsp": 2,
+      "slice": 5,
+      "g": 1,
+      "count": 40,
+      "tbsp": 6
+    }
+  },
+  "fresh green leaves": {
+    "kcal": 25,
+    "p": 2.5,
+    "c": 3,
+    "f": 0.4,
+    "g": {
+      "count": 10
+    }
+  },
+  "fresh herbs": {
+    "kcal": 40,
+    "p": 3,
+    "c": 6,
+    "f": 0.8,
+    "g": {
+      "count": 5,
+      "tbsp": 3
+    }
+  },
+  "fresh lasagne sheets": {
+    "kcal": 270,
+    "p": 10,
+    "c": 52,
+    "f": 2,
+    "g": {
+      "g": 1,
+      "count": 30
+    }
+  },
+  "fresh mint": {
+    "kcal": 44,
+    "p": 3.3,
+    "c": 8,
+    "f": 0.7,
+    "g": {
+      "bunch": 30,
+      "count": 2
+    }
+  },
+  "fresh oregano": {
+    "kcal": 70,
+    "p": 2,
+    "c": 12,
+    "f": 2,
+    "g": {
+      "count": 2,
+      "pinch": 0.3,
+      "tbsp": 3
+    }
+  },
+  "fresh pappardelle": {
+    "kcal": 270,
+    "p": 10,
+    "c": 52,
+    "f": 2,
+    "g": {
+      "g": 1
+    }
+  },
+  "fresh peas": {
+    "kcal": 81,
+    "p": 5.4,
+    "c": 14,
+    "f": 0.4,
+    "g": {
+      "cup": 150
+    }
+  },
+  "fresh porcini mushrooms": {
+    "kcal": 35,
+    "p": 3.1,
+    "c": 5,
+    "f": 0.5,
+    "g": {
+      "kg": 1000
+    }
+  },
+  "fresh ricotta": {
+    "kcal": 170,
+    "p": 11,
+    "c": 3,
+    "f": 13,
+    "g": {
+      "g": 1,
+      "tbsp": 20
+    }
+  },
+  "fresh spinach": {
+    "kcal": 23,
+    "p": 2.9,
+    "c": 3.6,
+    "f": 0.4,
+    "g": {
+      "g": 1
+    }
+  },
+  "fresh thyme": {
+    "kcal": 100,
+    "p": 5.6,
+    "c": 24,
+    "f": 1.7,
+    "g": {
+      "count": 1,
+      "tbsp": 3,
+      "tsp": 1,
+      "bunch": 20
+    }
+  },
+  "fresh thyme leaves": {
+    "kcal": 100,
+    "p": 5.6,
+    "c": 24,
+    "f": 1.7,
+    "g": {
+      "tsp": 1
+    }
+  },
+  "fresh turmeric": {
+    "kcal": 80,
+    "p": 2,
+    "c": 17,
+    "f": 1,
+    "g": {
+      "cm": 3,
+      "tbsp": 8
+    }
+  },
+  "fresh tvorog cheese": {
+    "kcal": 150,
+    "p": 17,
+    "c": 3,
+    "f": 8,
+    "g": {
+      "g": 1
+    }
+  },
+  "fresh yeast": {
+    "kcal": 105,
+    "p": 8.4,
+    "c": 18,
+    "f": 1.9,
+    "g": {
+      "g": 1
+    }
+  },
+  "fresh za'atar": {
+    "kcal": 70,
+    "p": 2,
+    "c": 12,
+    "f": 2,
+    "g": {
+      "tbsp": 3,
+      "count": 2
+    }
+  },
+  "fresh za'atar leaves": {
+    "kcal": 70,
+    "p": 2,
+    "c": 12,
+    "f": 2,
+    "g": {
+      "count": 2,
+      "bunch": 40,
+      "packet": 30
+    }
+  },
+  "fried onion": {
+    "kcal": 520,
+    "p": 5,
+    "c": 45,
+    "f": 35,
+    "g": {
+      "count": 15
+    }
+  },
+  "frozen artichoke hearts": {
+    "kcal": 45,
+    "p": 3,
+    "c": 9,
+    "f": 0.2,
+    "g": {
+      "g": 1
+    }
+  },
+  "frozen peas": {
+    "kcal": 77,
+    "p": 5.2,
+    "c": 12,
+    "f": 0.4,
+    "g": {
+      "cup": 150,
+      "g": 1
+    }
+  },
+  "frozen spinach": {
+    "kcal": 25,
+    "p": 3,
+    "c": 3,
+    "f": 0.4,
+    "g": {
+      "packet": 250
+    }
+  },
+  "fusilli": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "packet": 500
+    },
+    "kit": {
+      "packet": 200
+    }
+  },
+  "garam masala": {
+    "kcal": 380,
+    "p": 14,
+    "c": 45,
+    "f": 15,
+    "g": {
+      "tsp": 2.5,
+      "tbsp": 7.5
+    }
+  },
+  "garlic": {
+    "kcal": 149,
+    "p": 6.4,
+    "c": 33,
+    "f": 0.5,
+    "g": {
+      "clove": 4,
+      "count": 40,
+      "tsp": 3,
+      "g": 1
+    }
+  },
+  "garlic & herb seasoning": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 5,
+    "g": {
+      "sachet": 8
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "garlic aioli": {
+    "kcal": 600,
+    "p": 1,
+    "c": 3,
+    "f": 65,
+    "g": {
+      "packet": 50
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "garlic and ginger paste": {
+    "kcal": 100,
+    "p": 2,
+    "c": 15,
+    "f": 3,
+    "g": {
+      "tbsp": 18,
+      "tsp": 6
+    }
+  },
+  "garlic powder": {
+    "kcal": 331,
+    "p": 17,
+    "c": 73,
+    "f": 0.7,
+    "g": {
+      "tsp": 3
+    }
+  },
+  "georgian cheese": {
+    "kcal": 260,
+    "p": 17,
+    "c": 2,
+    "f": 21,
+    "g": {
+      "g": 1
+    }
+  },
+  "ghee": {
+    "kcal": 900,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tbsp": 18,
+      "g": 1
+    }
+  },
+  "ginger": {
+    "kcal": 80,
+    "p": 1.8,
+    "c": 18,
+    "f": 0.8,
+    "g": {
+      "knob": 15,
+      "tsp": 2,
+      "count": 40,
+      "tbsp": 6,
+      "g": 1
+    }
+  },
+  "glass noodles": {
+    "kcal": 350,
+    "p": 0.2,
+    "c": 86,
+    "f": 0.1,
+    "g": {
+      "g": 1
+    }
+  },
+  "globe artichokes": {
+    "kcal": 47,
+    "p": 3.3,
+    "c": 11,
+    "f": 0.2,
+    "g": {
+      "kg": 1000
+    }
+  },
+  "gnocchi": {
+    "kcal": 150,
+    "p": 3.5,
+    "c": 33,
+    "f": 0.5,
+    "g": {
+      "packet": 500
+    },
+    "kit": {
+      "packet": 500
+    }
+  },
+  "goat cheese": {
+    "kcal": 270,
+    "p": 18,
+    "c": 1,
+    "f": 22,
+    "g": {
+      "packet": 100,
+      "count": 100,
+      "g": 1
+    },
+    "kit": {
+      "packet": 50
+    }
+  },
+  "goat feta": {
+    "kcal": 260,
+    "p": 17,
+    "c": 1,
+    "f": 21,
+    "g": {
+      "g": 1
+    }
+  },
+  "goat's cheese": {
+    "kcal": 270,
+    "p": 18,
+    "c": 1,
+    "f": 22,
+    "g": {
+      "g": 1,
+      "count": 100
+    }
+  },
+  "goat's cheese log": {
+    "kcal": 270,
+    "p": 18,
+    "c": 1,
+    "f": 22,
+    "g": {
+      "g": 1,
+      "count": 150
+    }
+  },
+  "goat's cheese ravioli": {
+    "kcal": 250,
+    "p": 10,
+    "c": 35,
+    "f": 8,
+    "g": {
+      "packet": 300
+    }
+  },
+  "goat's feta": {
+    "kcal": 260,
+    "p": 17,
+    "c": 1,
+    "f": 21,
+    "g": {
+      "g": 1,
+      "cup": 150,
+      "tbsp": 10
+    }
+  },
+  "goat's gouda": {
+    "kcal": 370,
+    "p": 25,
+    "c": 2,
+    "f": 29,
+    "g": {
+      "g": 1
+    }
+  },
+  "goat's milk": {
+    "kcal": 69,
+    "p": 3.6,
+    "c": 4.5,
+    "f": 4.1,
+    "g": {
+      "l": 1030
+    }
+  },
+  "goat's milk yoghurt": {
+    "kcal": 65,
+    "p": 3.6,
+    "c": 4.5,
+    "f": 3.5,
+    "g": {
+      "cup": 250,
+      "g": 1
+    }
+  },
+  "goat's yoghurt": {
+    "kcal": 65,
+    "p": 3.6,
+    "c": 4.5,
+    "f": 3.5,
+    "g": {
+      "count": 150,
+      "ml": 1.03,
+      "g": 1,
+      "cup": 250
+    }
+  },
+  "gorgonzola": {
+    "kcal": 360,
+    "p": 21,
+    "c": 0,
+    "f": 30,
+    "g": {
+      "g": 1
+    }
+  },
+  "gorgonzola dolce": {
+    "kcal": 350,
+    "p": 19,
+    "c": 0.5,
+    "f": 30,
+    "g": {
+      "g": 1
+    }
+  },
+  "grana padano": {
+    "kcal": 392,
+    "p": 33,
+    "c": 0,
+    "f": 28,
+    "g": {
+      "g": 1,
+      "tbsp": 5
+    }
+  },
+  "granny smith apples": {
+    "kcal": 52,
+    "p": 0.3,
+    "c": 14,
+    "f": 0.2,
+    "g": {
+      "count": 170
+    }
+  },
+  "granulated coffee": {
+    "kcal": 350,
+    "p": 12,
+    "c": 41,
+    "f": 0.5,
+    "g": {
+      "tbsp": 5
+    }
+  },
+  "grape honey": {
+    "kcal": 290,
+    "p": 0.5,
+    "c": 72,
+    "f": 0,
+    "g": {
+      "tbsp": 28
+    }
+  },
+  "grape molasses": {
+    "kcal": 290,
+    "p": 0.5,
+    "c": 72,
+    "f": 0,
+    "g": {
+      "tsp": 9
+    }
+  },
+  "grapeseed oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "grated parmesan cheese": {
+    "kcal": 431,
+    "p": 38,
+    "c": 4,
+    "f": 29,
+    "g": {
+      "packet": 20
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "greek-style yoghurt": {
+    "kcal": 97,
+    "p": 9,
+    "c": 4,
+    "f": 5,
+    "g": {
+      "packet": 170
+    },
+    "kit": {
+      "packet": 100
+    }
+  },
+  "green almonds": {
+    "kcal": 40,
+    "p": 2,
+    "c": 6,
+    "f": 1,
+    "g": {
+      "count": 10
+    }
+  },
+  "green beans": {
+    "kcal": 31,
+    "p": 1.8,
+    "c": 7,
+    "f": 0.2,
+    "g": {
+      "bag": 200,
+      "count": 8,
+      "g": 1,
+      "cup": 110
+    },
+    "kit": {
+      "bag": 150
+    }
+  },
+  "green cabbage": {
+    "kcal": 25,
+    "p": 1.3,
+    "c": 6,
+    "f": 0.1,
+    "g": {
+      "count": 900
+    }
+  },
+  "green capsicum": {
+    "kcal": 20,
+    "p": 0.9,
+    "c": 4.6,
+    "f": 0.2,
+    "g": {
+      "count": 150
+    }
+  },
+  "green cardamom pods": {
+    "kcal": 311,
+    "p": 11,
+    "c": 68,
+    "f": 7,
+    "g": {
+      "count": 0.2
+    }
+  },
+  "green chilli": {
+    "kcal": 40,
+    "p": 2,
+    "c": 9,
+    "f": 0.2,
+    "g": {
+      "count": 15,
+      "tsp": 3
+    }
+  },
+  "green chillies": {
+    "kcal": 40,
+    "p": 2,
+    "c": 9,
+    "f": 0.2,
+    "g": {
+      "count": 15
+    }
+  },
+  "green curry paste": {
+    "kcal": 130,
+    "p": 2.5,
+    "c": 12,
+    "f": 8,
+    "g": {
+      "count": 50,
+      "tsp": 6,
+      "tbsp": 20
+    }
+  },
+  "green garlic": {
+    "kcal": 60,
+    "p": 2.5,
+    "c": 13,
+    "f": 0.3,
+    "g": {
+      "count": 30
+    }
+  },
+  "green lentils": {
+    "kcal": 340,
+    "p": 25,
+    "c": 55,
+    "f": 1.5,
+    "g": {
+      "cup": 200,
+      "g": 1
+    }
+  },
+  "green olives": {
+    "kcal": 145,
+    "p": 1,
+    "c": 4,
+    "f": 15,
+    "g": {
+      "count": 4
+    }
+  },
+  "green peas": {
+    "kcal": 81,
+    "p": 5.4,
+    "c": 14,
+    "f": 0.4,
+    "g": {
+      "cup": 150,
+      "g": 1
+    }
+  },
+  "green tomatoes": {
+    "kcal": 23,
+    "p": 1.2,
+    "c": 5,
+    "f": 0.2,
+    "g": {
+      "count": 120
+    }
+  },
+  "green zucchini": {
+    "kcal": 17,
+    "p": 1.2,
+    "c": 3.1,
+    "f": 0.3,
+    "g": {
+      "count": 200
+    }
+  },
+  "ground allspice": {
+    "kcal": 263,
+    "p": 6,
+    "c": 72,
+    "f": 8.7,
+    "g": {
+      "pinch": 0.3
+    }
+  },
+  "ground almonds": {
+    "kcal": 590,
+    "p": 21,
+    "c": 22,
+    "f": 50,
+    "g": {
+      "g": 1
+    }
+  },
+  "ground black pepper": {
+    "kcal": 251,
+    "p": 10,
+    "c": 64,
+    "f": 3.3,
+    "g": {
+      "tsp": 2.3
+    }
+  },
+  "ground black sesame seeds": {
+    "kcal": 573,
+    "p": 18,
+    "c": 23,
+    "f": 50,
+    "g": {
+      "cup": 140
+    }
+  },
+  "ground cardamom": {
+    "kcal": 311,
+    "p": 11,
+    "c": 68,
+    "f": 7,
+    "g": {
+      "tsp": 2,
+      "tbsp": 6
+    }
+  },
+  "ground chilli": {
+    "kcal": 282,
+    "p": 12,
+    "c": 50,
+    "f": 14,
+    "g": {
+      "count": 5
+    }
+  },
+  "ground cinnamon": {
+    "kcal": 247,
+    "p": 4,
+    "c": 81,
+    "f": 1.2,
+    "g": {
+      "tsp": 2.6
+    }
+  },
+  "ground cloves": {
+    "kcal": 274,
+    "p": 6,
+    "c": 66,
+    "f": 13,
+    "g": {
+      "count": 0.1,
+      "pinch": 0.3
+    }
+  },
+  "ground coffee": {
+    "kcal": 350,
+    "p": 14,
+    "c": 48,
+    "f": 14,
+    "g": {
+      "tsp": 2
+    }
+  },
+  "ground coriander": {
+    "kcal": 298,
+    "p": 12,
+    "c": 55,
+    "f": 17,
+    "g": {
+      "tsp": 1.8,
+      "tbsp": 5.4
+    }
+  },
+  "ground coriander seeds": {
+    "kcal": 298,
+    "p": 12,
+    "c": 55,
+    "f": 17,
+    "g": {
+      "tsp": 1.8
+    }
+  },
+  "ground cumin": {
+    "kcal": 375,
+    "p": 18,
+    "c": 44,
+    "f": 22,
+    "g": {
+      "count": 2,
+      "tsp": 2,
+      "tbsp": 6
+    }
+  },
+  "ground flaxseed": {
+    "kcal": 534,
+    "p": 18,
+    "c": 29,
+    "f": 42,
+    "g": {
+      "tbsp": 7
+    }
+  },
+  "ground ginger": {
+    "kcal": 335,
+    "p": 9,
+    "c": 72,
+    "f": 4,
+    "g": {
+      "tsp": 2,
+      "count": 2
+    }
+  },
+  "ground hazelnuts": {
+    "kcal": 628,
+    "p": 15,
+    "c": 17,
+    "f": 61,
+    "g": {
+      "cup": 110
+    }
+  },
+  "ground nigella seeds": {
+    "kcal": 345,
+    "p": 16,
+    "c": 44,
+    "f": 22,
+    "g": {
+      "tsp": 2.5
+    }
+  },
+  "ground shatta pepper": {
+    "kcal": 280,
+    "p": 10,
+    "c": 50,
+    "f": 6,
+    "g": {
+      "tsp": 3
+    }
+  },
+  "ground turmeric": {
+    "kcal": 312,
+    "p": 10,
+    "c": 67,
+    "f": 3.3,
+    "g": {
+      "tsp": 3,
+      "tbsp": 9
+    }
+  },
+  "ground white pepper": {
+    "kcal": 296,
+    "p": 10,
+    "c": 69,
+    "f": 2.1,
+    "g": {
+      "tsp": 2.4
+    }
+  },
+  "gruyere": {
+    "kcal": 413,
+    "p": 30,
+    "c": 0.4,
+    "f": 32,
+    "g": {
+      "g": 1
+    }
+  },
+  "gruyere cheese": {
+    "kcal": 413,
+    "p": 30,
+    "c": 0.4,
+    "f": 32,
+    "g": {
+      "cup": 110
+    }
+  },
+  "guacamole": {
+    "kcal": 150,
+    "p": 2,
+    "c": 8,
+    "f": 13,
+    "g": {
+      "count": 100
+    }
+  },
+  "halloumi": {
+    "kcal": 320,
+    "p": 22,
+    "c": 2,
+    "f": 25,
+    "g": {
+      "g": 1,
+      "slice": 30
+    }
+  },
+  "haloumi": {
+    "kcal": 320,
+    "p": 22,
+    "c": 2,
+    "f": 25,
+    "g": {
+      "block": 250,
+      "packet": 180
+    },
+    "kit": {
+      "block": 180,
+      "packet": 180
+    }
+  },
+  "hard tzfatit cheese": {
+    "kcal": 300,
+    "p": 22,
+    "c": 1,
+    "f": 24,
+    "g": {
+      "g": 1
+    }
+  },
+  "hard yoghurt cheese": {
+    "kcal": 250,
+    "p": 12,
+    "c": 4,
+    "f": 20,
+    "g": {
+      "count": 50
+    }
+  },
+  "hard-boiled egg": {
+    "kcal": 155,
+    "p": 13,
+    "c": 1.1,
+    "f": 11,
+    "g": {
+      "count": 50
+    }
+  },
+  "harissa": {
+    "kcal": 90,
+    "p": 3,
+    "c": 10,
+    "f": 4,
+    "g": {
+      "tsp": 6
+    }
+  },
+  "hazelnuts": {
+    "kcal": 628,
+    "p": 15,
+    "c": 17,
+    "f": 61,
+    "g": {
+      "bunch": 100
+    }
+  },
+  "hoisin sauce": {
+    "kcal": 220,
+    "p": 3,
+    "c": 44,
+    "f": 3.4,
+    "g": {
+      "packet": 30
+    },
+    "kit": {
+      "packet": 40
+    }
+  },
+  "honey": {
+    "kcal": 304,
+    "p": 0.3,
+    "c": 82,
+    "f": 0,
+    "g": {
+      "tsp": 7,
+      "tbsp": 28
+    }
+  },
+  "hot paprika": {
+    "kcal": 282,
+    "p": 14,
+    "c": 54,
+    "f": 13,
+    "g": {
+      "count": 3,
+      "tsp": 2.3
+    }
+  },
+  "hot smoked paprika": {
+    "kcal": 282,
+    "p": 14,
+    "c": 54,
+    "f": 13,
+    "g": {
+      "tsp": 2.3
+    }
+  },
+  "hot water": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "cup": 250
+    }
+  },
+  "iced water": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "cup": 250,
+      "tbsp": 20
+    }
+  },
+  "indian curry powder": {
+    "kcal": 325,
+    "p": 14,
+    "c": 58,
+    "f": 14,
+    "g": {
+      "tsp": 2
+    }
+  },
+  "instant couscous": {
+    "kcal": 360,
+    "p": 12.8,
+    "c": 73,
+    "f": 0.6,
+    "g": {
+      "packet": 125,
+      "g": 1
+    }
+  },
+  "instant polenta": {
+    "kcal": 360,
+    "p": 8,
+    "c": 78,
+    "f": 1,
+    "g": {
+      "cup": 160,
+      "g": 1
+    }
+  },
+  "israeli couscous": {
+    "kcal": 360,
+    "p": 12,
+    "c": 73,
+    "f": 1.5,
+    "g": {
+      "cup": 175,
+      "g": 1
+    }
+  },
+  "italian herbs": {
+    "kcal": 270,
+    "p": 12,
+    "c": 50,
+    "f": 5,
+    "g": {
+      "sachet": 5
+    },
+    "kit": {
+      "sachet": 3
+    }
+  },
+  "japanese dressing": {
+    "kcal": 150,
+    "p": 2,
+    "c": 18,
+    "f": 8,
+    "g": {
+      "tub": 30
+    },
+    "kit": {
+      "tub": 40
+    }
+  },
+  "japanese pumpkin": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 10,
+    "f": 0.1,
+    "g": {
+      "count": 1000
+    }
+  },
+  "japanese tofu": {
+    "kcal": 70,
+    "p": 7,
+    "c": 2,
+    "f": 4,
+    "g": {
+      "packet": 300,
+      "block": 300
+    },
+    "kit": {
+      "packet": 300,
+      "block": 300
+    }
+  },
+  "jasmine rice": {
+    "kcal": 360,
+    "p": 7,
+    "c": 80,
+    "f": 0.6,
+    "g": {
+      "packet": 250,
+      "count": 100,
+      "g": 1
+    },
+    "kit": {
+      "packet": 150
+    }
+  },
+  "jerusalem artichoke": {
+    "kcal": 73,
+    "p": 2,
+    "c": 17,
+    "f": 0,
+    "g": {
+      "kg": 1000
+    }
+  },
+  "jerusalem artichokes": {
+    "kcal": 73,
+    "p": 2,
+    "c": 17,
+    "f": 0,
+    "g": {
+      "g": 1,
+      "count": 60
+    }
+  },
+  "kalamata olives": {
+    "kcal": 115,
+    "p": 0.8,
+    "c": 6,
+    "f": 11,
+    "g": {
+      "packet": 100,
+      "tub": 150,
+      "g": 1,
+      "count": 5
+    },
+    "kit": {
+      "packet": 50,
+      "tub": 50
+    }
+  },
+  "kale": {
+    "kcal": 35,
+    "p": 2.9,
+    "c": 4.4,
+    "f": 1.5,
+    "g": {
+      "cup": 20,
+      "count": 15,
+      "tbsp": 2,
+      "bunch": 200
+    }
+  },
+  "kashkaval": {
+    "kcal": 350,
+    "p": 25,
+    "c": 1,
+    "f": 28,
+    "g": {
+      "count": 25,
+      "g": 1
+    }
+  },
+  "kashkaval cheese": {
+    "kcal": 350,
+    "p": 25,
+    "c": 1,
+    "f": 28,
+    "g": {
+      "g": 1,
+      "cup": 110
+    }
+  },
+  "kecap manis": {
+    "kcal": 250,
+    "p": 2,
+    "c": 58,
+    "f": 0,
+    "g": {
+      "sachet": 25
+    },
+    "kit": {
+      "sachet": 40
+    }
+  },
+  "kent pumpkin": {
+    "kcal": 35,
+    "p": 1.5,
+    "c": 7,
+    "f": 0.2,
+    "g": {
+      "kg": 1000
+    }
+  },
+  "ketchup": {
+    "kcal": 100,
+    "p": 1.2,
+    "c": 25,
+    "f": 0.1,
+    "g": {
+      "count": 15
+    }
+  },
+  "king oyster mushroom": {
+    "kcal": 35,
+    "p": 3,
+    "c": 7,
+    "f": 0.4,
+    "g": {
+      "count": 80
+    }
+  },
+  "king oyster mushrooms": {
+    "kcal": 35,
+    "p": 3,
+    "c": 7,
+    "f": 0.4,
+    "g": {
+      "count": 80
+    }
+  },
+  "kohlrabi": {
+    "kcal": 27,
+    "p": 1.7,
+    "c": 6.2,
+    "f": 0.1,
+    "g": {
+      "count": 200
+    }
+  },
+  "kombu": {
+    "kcal": 43,
+    "p": 1.7,
+    "c": 10,
+    "f": 0.6,
+    "g": {
+      "count": 10
+    }
+  },
+  "labneh": {
+    "kcal": 170,
+    "p": 7,
+    "c": 4,
+    "f": 14,
+    "g": {
+      "g": 1,
+      "count": 30
+    }
+  },
+  "large chard leaves": {
+    "kcal": 19,
+    "p": 1.8,
+    "c": 3.7,
+    "f": 0.2,
+    "g": {
+      "count": 40
+    }
+  },
+  "large pasta shells": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "large tomatoes": {
+    "kcal": 18,
+    "p": 0.9,
+    "c": 3.9,
+    "f": 0.2,
+    "g": {
+      "count": 180
+    }
+  },
+  "large tortilla": {
+    "kcal": 300,
+    "p": 8,
+    "c": 50,
+    "f": 7,
+    "g": {
+      "count": 70
+    }
+  },
+  "large tortillas": {
+    "kcal": 300,
+    "p": 8,
+    "c": 50,
+    "f": 7,
+    "g": {
+      "count": 70
+    }
+  },
+  "large white onions": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.3,
+    "f": 0.1,
+    "g": {
+      "count": 200
+    }
+  },
+  "lasagne sheets": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1,
+      "packet": 250
+    }
+  },
+  "leek": {
+    "kcal": 61,
+    "p": 1.5,
+    "c": 14,
+    "f": 0.3,
+    "g": {
+      "count": 200
+    }
+  },
+  "leeks": {
+    "kcal": 61,
+    "p": 1.5,
+    "c": 14,
+    "f": 0.3,
+    "g": {
+      "count": 200,
+      "g": 1
+    }
+  },
+  "lemon": {
+    "kcal": 29,
+    "p": 1.1,
+    "c": 9,
+    "f": 0.3,
+    "g": {
+      "count": 100,
+      "tsp": 2,
+      "slice": 10
+    }
+  },
+  "lemon juice": {
+    "kcal": 22,
+    "p": 0.4,
+    "c": 7,
+    "f": 0.2,
+    "g": {
+      "count": 30,
+      "cup": 250,
+      "tbsp": 20,
+      "ml": 1.03,
+      "tsp": 5
+    }
+  },
+  "lemon pepper seasoning": {
+    "kcal": 250,
+    "p": 8,
+    "c": 55,
+    "f": 3,
+    "g": {
+      "sachet": 5
+    },
+    "kit": {
+      "sachet": 5
+    }
+  },
+  "lemon tahini": {
+    "kcal": 400,
+    "p": 10,
+    "c": 10,
+    "f": 35,
+    "g": {
+      "count": 30
+    }
+  },
+  "lemon zest": {
+    "kcal": 47,
+    "p": 1.5,
+    "c": 16,
+    "f": 0.3,
+    "g": {
+      "count": 6,
+      "tsp": 2,
+      "tbsp": 6
+    }
+  },
+  "lemongrass": {
+    "kcal": 99,
+    "p": 1.8,
+    "c": 25,
+    "f": 0.5,
+    "g": {
+      "count": 30
+    }
+  },
+  "lemons": {
+    "kcal": 29,
+    "p": 1.1,
+    "c": 9,
+    "f": 0.3,
+    "g": {
+      "count": 100
+    }
+  },
+  "lentil flour": {
+    "kcal": 350,
+    "p": 25,
+    "c": 60,
+    "f": 1.5,
+    "g": {
+      "tbsp": 10,
+      "cup": 130
+    }
+  },
+  "lentils": {
+    "kcal": 100,
+    "p": 8,
+    "c": 16,
+    "f": 0.6,
+    "g": {
+      "tin": 240,
+      "packet": 250
+    },
+    "kit": {
+      "tin": 400,
+      "packet": 100
+    }
+  },
+  "lettuce": {
+    "kcal": 15,
+    "p": 1.4,
+    "c": 2.9,
+    "f": 0.2,
+    "g": {
+      "slice": 10,
+      "count": 300
+    }
+  },
+  "light beer": {
+    "kcal": 29,
+    "p": 0.3,
+    "c": 1.6,
+    "f": 0,
+    "g": {
+      "ml": 1
+    }
+  },
+  "light thickened cream": {
+    "kcal": 190,
+    "p": 2.7,
+    "c": 4,
+    "f": 18,
+    "g": {
+      "packet": 300
+    },
+    "kit": {
+      "packet": 100
+    }
+  },
+  "lime": {
+    "kcal": 30,
+    "p": 0.7,
+    "c": 10,
+    "f": 0.2,
+    "g": {
+      "count": 70
+    }
+  },
+  "linguine": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "long green peppers": {
+    "kcal": 25,
+    "p": 1,
+    "c": 5,
+    "f": 0.2,
+    "g": {
+      "count": 40
+    }
+  },
+  "long red chilli": {
+    "kcal": 40,
+    "p": 1.9,
+    "c": 9,
+    "f": 0.4,
+    "g": {
+      "count": 20
+    }
+  },
+  "mace": {
+    "kcal": 475,
+    "p": 6.7,
+    "c": 50,
+    "f": 32,
+    "g": {
+      "count": 1
+    }
+  },
+  "madras curry powder": {
+    "kcal": 325,
+    "p": 12,
+    "c": 55,
+    "f": 14,
+    "g": {
+      "tbsp": 6
+    }
+  },
+  "mafaldine pasta": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "majadra": {
+    "kcal": 150,
+    "p": 6,
+    "c": 27,
+    "f": 2,
+    "g": {
+      "count": 200
+    }
+  },
+  "makrut lime leaves": {
+    "kcal": 50,
+    "p": 2,
+    "c": 10,
+    "f": 0.5,
+    "g": {
+      "leaves": 0.5
+    }
+  },
+  "malaysian tofu": {
+    "kcal": 120,
+    "p": 13,
+    "c": 3,
+    "f": 7,
+    "g": {
+      "packet": 300,
+      "block": 300
+    },
+    "kit": {
+      "packet": 300,
+      "block": 300
+    }
+  },
+  "mallow leaves": {
+    "kcal": 30,
+    "p": 3,
+    "c": 5,
+    "f": 0.5,
+    "g": {
+      "count": 5
+    }
+  },
+  "mallow leaves (khubeiza)": {
+    "kcal": 30,
+    "p": 3,
+    "c": 5,
+    "f": 0.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "maple syrup": {
+    "kcal": 260,
+    "p": 0,
+    "c": 67,
+    "f": 0.1,
+    "g": {
+      "tbsp": 28,
+      "tsp": 7,
+      "cup": 335
+    }
+  },
+  "marinated artichoke quarters": {
+    "kcal": 110,
+    "p": 2,
+    "c": 6,
+    "f": 9,
+    "g": {
+      "g": 1
+    }
+  },
+  "mascarpone": {
+    "kcal": 430,
+    "p": 4.5,
+    "c": 4,
+    "f": 44,
+    "g": {
+      "g": 1,
+      "tbsp": 15
+    }
+  },
+  "matzo": {
+    "kcal": 390,
+    "p": 11,
+    "c": 83,
+    "f": 1,
+    "g": {
+      "count": 30
+    }
+  },
+  "matzo meal": {
+    "kcal": 360,
+    "p": 11,
+    "c": 76,
+    "f": 1,
+    "g": {
+      "count": 100
+    }
+  },
+  "mayonnaise": {
+    "kcal": 680,
+    "p": 1,
+    "c": 1.5,
+    "f": 75,
+    "g": {
+      "tbsp": 18,
+      "packet": 50,
+      "count": 18,
+      "tsp": 6
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "mexican fiesta spice blend": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 6,
+    "g": {
+      "sachet": 8
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "mexican seasoning": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 6,
+    "g": {
+      "sachet": 8
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "micro beetroot": {
+    "kcal": 30,
+    "p": 3,
+    "c": 4,
+    "f": 0.5,
+    "g": {
+      "packet": 30
+    }
+  },
+  "mild caribbean jerk seasoning": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 6,
+    "g": {
+      "sachet": 8
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "mild chipotle sauce": {
+    "kcal": 400,
+    "p": 1,
+    "c": 8,
+    "f": 40,
+    "g": {
+      "tub": 50,
+      "count": 50,
+      "packet": 50
+    },
+    "kit": {
+      "tub": 30,
+      "packet": 30
+    }
+  },
+  "mild north indian spice blend": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 6,
+    "g": {
+      "sachet": 8
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "milk": {
+    "kcal": 61,
+    "p": 3.3,
+    "c": 4.8,
+    "f": 3.3,
+    "g": {
+      "tbsp": 20.5,
+      "cup": 258,
+      "l": 1030,
+      "ml": 1.03
+    }
+  },
+  "millet": {
+    "kcal": 378,
+    "p": 11,
+    "c": 73,
+    "f": 4.2,
+    "g": {
+      "cup": 200,
+      "g": 1
+    }
+  },
+  "mini cucumbers": {
+    "kcal": 15,
+    "p": 0.7,
+    "c": 3.6,
+    "f": 0.1,
+    "g": {
+      "count": 60
+    }
+  },
+  "mini flour tortillas": {
+    "kcal": 300,
+    "p": 8,
+    "c": 50,
+    "f": 7,
+    "g": {
+      "count": 25
+    }
+  },
+  "mint": {
+    "kcal": 44,
+    "p": 3.3,
+    "c": 8,
+    "f": 0.7,
+    "g": {
+      "bunch": 30,
+      "count": 2,
+      "tbsp": 2
+    }
+  },
+  "mint leaves": {
+    "kcal": 44,
+    "p": 3.3,
+    "c": 8,
+    "f": 0.7,
+    "g": {
+      "cup": 20
+    }
+  },
+  "mint stalks": {
+    "kcal": 44,
+    "p": 3.3,
+    "c": 8,
+    "f": 0.7,
+    "g": {
+      "count": 2
+    }
+  },
+  "mirin": {
+    "kcal": 240,
+    "p": 0.2,
+    "c": 43,
+    "f": 0,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "miso paste": {
+    "kcal": 200,
+    "p": 12,
+    "c": 26,
+    "f": 6,
+    "g": {
+      "tsp": 6
+    }
+  },
+  "mixed dried fruit": {
+    "kcal": 300,
+    "p": 2,
+    "c": 70,
+    "f": 0.5,
+    "g": {
+      "cup": 160
+    }
+  },
+  "mixed fresh herbs": {
+    "kcal": 40,
+    "p": 3,
+    "c": 6,
+    "f": 0.8,
+    "g": {
+      "count": 5,
+      "tbsp": 3,
+      "cup": 25,
+      "bunch": 40
+    }
+  },
+  "mixed fresh herbs (coriander, mint, parsley, spring onion, dill)": {
+    "kcal": 40,
+    "p": 3,
+    "c": 6,
+    "f": 0.8,
+    "g": {
+      "cup": 25
+    }
+  },
+  "mixed fresh herbs (parsley, dill, coriander, spring onion)": {
+    "kcal": 40,
+    "p": 3,
+    "c": 6,
+    "f": 0.8,
+    "g": {
+      "cup": 25
+    }
+  },
+  "mixed green leaves (spinach, spring onion, parsley)": {
+    "kcal": 30,
+    "p": 3,
+    "c": 4.5,
+    "f": 0.5,
+    "g": {
+      "cup": 25
+    }
+  },
+  "mixed herbs": {
+    "kcal": 270,
+    "p": 12,
+    "c": 50,
+    "f": 5,
+    "g": {
+      "count": 5
+    }
+  },
+  "mixed mushrooms": {
+    "kcal": 25,
+    "p": 3,
+    "c": 3,
+    "f": 0.3,
+    "g": {
+      "g": 1,
+      "packet": 200
+    }
+  },
+  "mixed nuts": {
+    "kcal": 610,
+    "p": 20,
+    "c": 15,
+    "f": 53,
+    "g": {
+      "cup": 140
+    }
+  },
+  "mixed nuts (pecans, pistachios, pine nuts)": {
+    "kcal": 650,
+    "p": 14,
+    "c": 14,
+    "f": 58,
+    "g": {
+      "cup": 140
+    }
+  },
+  "mixed pumpkin, sunflower and sesame seeds": {
+    "kcal": 560,
+    "p": 22,
+    "c": 16,
+    "f": 47,
+    "g": {
+      "tbsp": 9
+    }
+  },
+  "mixed quinoa": {
+    "kcal": 360,
+    "p": 13,
+    "c": 64,
+    "f": 6,
+    "g": {
+      "cup": 170
+    }
+  },
+  "mixed salad leaves": {
+    "kcal": 17,
+    "p": 1.5,
+    "c": 3,
+    "f": 0.2,
+    "g": {
+      "bag": 120
+    },
+    "kit": {
+      "bag": 60
+    }
+  },
+  "mixed sesame seeds": {
+    "kcal": 573,
+    "p": 18,
+    "c": 23,
+    "f": 50,
+    "g": {
+      "sachet": 10
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "mixed sunflower and pumpkin seeds": {
+    "kcal": 570,
+    "p": 24,
+    "c": 15,
+    "f": 48,
+    "g": {
+      "g": 1
+    }
+  },
+  "mixed vegetables": {
+    "kcal": 50,
+    "p": 2.5,
+    "c": 9,
+    "f": 0.4,
+    "g": {
+      "count": 100
+    }
+  },
+  "mixed wild mushrooms": {
+    "kcal": 25,
+    "p": 3,
+    "c": 3,
+    "f": 0.3,
+    "g": {
+      "packet": 200,
+      "g": 1
+    }
+  },
+  "molokhia leaves": {
+    "kcal": 32,
+    "p": 3,
+    "c": 5,
+    "f": 0.5,
+    "g": {
+      "cup": 30
+    }
+  },
+  "mozzarella": {
+    "kcal": 280,
+    "p": 22,
+    "c": 2.2,
+    "f": 22,
+    "g": {
+      "g": 1,
+      "count": 125,
+      "cup": 110
+    }
+  },
+  "mulukhiyah leaves": {
+    "kcal": 32,
+    "p": 3,
+    "c": 5,
+    "f": 0.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "mumbai spice blend": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 6,
+    "g": {
+      "sachet": 8
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "mung beans": {
+    "kcal": 347,
+    "p": 24,
+    "c": 63,
+    "f": 1.2,
+    "g": {
+      "cup": 200,
+      "g": 1
+    }
+  },
+  "mushrooms": {
+    "kcal": 22,
+    "p": 3.1,
+    "c": 3.3,
+    "f": 0.3,
+    "g": {
+      "packet": 200,
+      "g": 1
+    }
+  },
+  "mustard": {
+    "kcal": 66,
+    "p": 4,
+    "c": 6,
+    "f": 4,
+    "g": {
+      "tsp": 5
+    }
+  },
+  "mustard powder": {
+    "kcal": 475,
+    "p": 26,
+    "c": 35,
+    "f": 29,
+    "g": {
+      "tsp": 2
+    }
+  },
+  "mustard seeds": {
+    "kcal": 508,
+    "p": 26,
+    "c": 28,
+    "f": 36,
+    "g": {
+      "tsp": 3
+    }
+  },
+  "natural yoghurt": {
+    "kcal": 61,
+    "p": 3.5,
+    "c": 4.7,
+    "f": 3.3,
+    "g": {
+      "ml": 1.03,
+      "count": 150,
+      "g": 1,
+      "cup": 250,
+      "tbsp": 20,
+      "tub": 200
+    }
+  },
+  "nutmeg": {
+    "kcal": 525,
+    "p": 6,
+    "c": 49,
+    "f": 36,
+    "g": {
+      "count": 7,
+      "tsp": 2.2,
+      "pinch": 0.3
+    }
+  },
+  "nutritional yeast": {
+    "kcal": 350,
+    "p": 50,
+    "c": 36,
+    "f": 5,
+    "g": {
+      "tbsp": 5,
+      "cup": 60
+    }
+  },
+  "nutritional yeast flakes": {
+    "kcal": 350,
+    "p": 50,
+    "c": 36,
+    "f": 5,
+    "g": {
+      "cup": 60
+    }
+  },
+  "oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tbsp": 18,
+      "count": 18,
+      "cup": 216
+    }
+  },
+  "oil (for deep frying)": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "count": 18
+    }
+  },
+  "oil (for frying)": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "count": 18
+    }
+  },
+  "oil for deep frying": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "count": 18
+    }
+  },
+  "oil for frying": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "count": 18
+    }
+  },
+  "okra": {
+    "kcal": 33,
+    "p": 1.9,
+    "c": 7.5,
+    "f": 0.2,
+    "g": {
+      "g": 1,
+      "cup": 100,
+      "count": 12
+    }
+  },
+  "olive oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "count": 18,
+      "tbsp": 18,
+      "cup": 216,
+      "ml": 0.92
+    }
+  },
+  "olive oil (for frying)": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "count": 18
+    }
+  },
+  "olive oil spray": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "count": 1
+    }
+  },
+  "onion": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.3,
+    "f": 0.1,
+    "g": {
+      "count": 150
+    }
+  },
+  "onion jam": {
+    "kcal": 200,
+    "p": 1,
+    "c": 48,
+    "f": 0.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "onions": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.3,
+    "f": 0.1,
+    "g": {
+      "count": 150,
+      "kg": 1000
+    }
+  },
+  "orange": {
+    "kcal": 47,
+    "p": 0.9,
+    "c": 12,
+    "f": 0.1,
+    "g": {
+      "count": 150
+    }
+  },
+  "orange juice": {
+    "kcal": 45,
+    "p": 0.7,
+    "c": 10.4,
+    "f": 0.2,
+    "g": {
+      "cup": 250
+    }
+  },
+  "orecchiette pasta": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "oregano": {
+    "kcal": 70,
+    "p": 2,
+    "c": 12,
+    "f": 2,
+    "g": {
+      "bunch": 20,
+      "count": 1
+    }
+  },
+  "organic tomato sauce": {
+    "kcal": 30,
+    "p": 1.4,
+    "c": 5.5,
+    "f": 0.3,
+    "g": {
+      "cup": 250
+    }
+  },
+  "oyster mushrooms": {
+    "kcal": 33,
+    "p": 3.3,
+    "c": 6,
+    "f": 0.4,
+    "g": {
+      "g": 1,
+      "count": 20
+    }
+  },
+  "pad thai sauce": {
+    "kcal": 150,
+    "p": 1,
+    "c": 35,
+    "f": 0.5,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "palm sugar": {
+    "kcal": 375,
+    "p": 0,
+    "c": 94,
+    "f": 0,
+    "g": {
+      "tbsp": 15
+    }
+  },
+  "paneer": {
+    "kcal": 296,
+    "p": 18,
+    "c": 3.5,
+    "f": 23,
+    "g": {
+      "g": 1
+    }
+  },
+  "panko breadcrumbs": {
+    "kcal": 360,
+    "p": 12,
+    "c": 72,
+    "f": 2,
+    "g": {
+      "packet": 150
+    },
+    "kit": {
+      "packet": 50
+    }
+  },
+  "pappardelle": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "paprika": {
+    "kcal": 282,
+    "p": 14,
+    "c": 54,
+    "f": 13,
+    "g": {
+      "count": 3,
+      "tsp": 2.3
+    }
+  },
+  "parmesan": {
+    "kcal": 431,
+    "p": 38,
+    "c": 4,
+    "f": 29,
+    "g": {
+      "g": 1,
+      "tbsp": 5,
+      "count": 20,
+      "cup": 100
+    }
+  },
+  "parmesan and pecorino mix": {
+    "kcal": 420,
+    "p": 36,
+    "c": 3,
+    "f": 29,
+    "g": {
+      "cup": 100
+    }
+  },
+  "parmesan cheese": {
+    "kcal": 431,
+    "p": 38,
+    "c": 4,
+    "f": 29,
+    "g": {
+      "packet": 20
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "parmesan rind": {
+    "kcal": 431,
+    "p": 38,
+    "c": 4,
+    "f": 29,
+    "g": {
+      "count": 20
+    }
+  },
+  "parmesan shavings": {
+    "kcal": 431,
+    "p": 38,
+    "c": 4,
+    "f": 29,
+    "g": {
+      "count": 5
+    }
+  },
+  "parsley": {
+    "kcal": 36,
+    "p": 3,
+    "c": 6.3,
+    "f": 0.8,
+    "g": {
+      "bag": 50,
+      "bunch": 50,
+      "count": 2,
+      "cup": 30,
+      "tbsp": 4,
+      "tsp": 1.3,
+      "g": 1
+    },
+    "kit": {
+      "bag": 10
+    }
+  },
+  "parsley and dill": {
+    "kcal": 40,
+    "p": 3.2,
+    "c": 6.6,
+    "f": 0.9,
+    "g": {
+      "cup": 30
+    }
+  },
+  "parsley root": {
+    "kcal": 55,
+    "p": 2.6,
+    "c": 12,
+    "f": 0.6,
+    "g": {
+      "count": 100
+    }
+  },
+  "parsley stalks": {
+    "kcal": 36,
+    "p": 3,
+    "c": 6.3,
+    "f": 0.8,
+    "g": {
+      "tbsp": 4
+    }
+  },
+  "passata": {
+    "kcal": 30,
+    "p": 1.5,
+    "c": 5.5,
+    "f": 0.2,
+    "g": {
+      "box": 500,
+      "ml": 1.04,
+      "jar": 690
+    },
+    "kit": {
+      "box": 200
+    }
+  },
+  "pasta": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1,
+      "packet": 500,
+      "count": 75
+    }
+  },
+  "pasta flour": {
+    "kcal": 350,
+    "p": 11,
+    "c": 73,
+    "f": 1.2,
+    "g": {
+      "g": 1
+    }
+  },
+  "pasta flour (00)": {
+    "kcal": 350,
+    "p": 11,
+    "c": 73,
+    "f": 1.2,
+    "g": {
+      "g": 1
+    }
+  },
+  "pasta shells": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "pea shoots": {
+    "kcal": 40,
+    "p": 3,
+    "c": 5,
+    "f": 0.5,
+    "g": {
+      "count": 5
+    }
+  },
+  "pea sprouts": {
+    "kcal": 40,
+    "p": 3,
+    "c": 5,
+    "f": 0.5,
+    "g": {
+      "count": 5
+    }
+  },
+  "peanut butter": {
+    "kcal": 600,
+    "p": 25,
+    "c": 20,
+    "f": 50,
+    "g": {
+      "cup": 270,
+      "tbsp": 19
+    }
+  },
+  "pear": {
+    "kcal": 57,
+    "p": 0.4,
+    "c": 15,
+    "f": 0.1,
+    "g": {
+      "count": 180
+    }
+  },
+  "pearl barley": {
+    "kcal": 352,
+    "p": 10,
+    "c": 78,
+    "f": 1.2,
+    "g": {
+      "cup": 200,
+      "g": 1
+    }
+  },
+  "pearl couscous": {
+    "kcal": 360,
+    "p": 12,
+    "c": 73,
+    "f": 1.5,
+    "g": {
+      "packet": 250
+    },
+    "kit": {
+      "packet": 150
+    }
+  },
+  "pears": {
+    "kcal": 57,
+    "p": 0.4,
+    "c": 15,
+    "f": 0.1,
+    "g": {
+      "count": 180
+    }
+  },
+  "peas": {
+    "kcal": 81,
+    "p": 5.4,
+    "c": 14,
+    "f": 0.4,
+    "g": {
+      "g": 1,
+      "cup": 150
+    }
+  },
+  "pecans": {
+    "kcal": 690,
+    "p": 9,
+    "c": 14,
+    "f": 72,
+    "g": {
+      "cup": 110
+    }
+  },
+  "pecorino": {
+    "kcal": 390,
+    "p": 28,
+    "c": 0.5,
+    "f": 31,
+    "g": {
+      "g": 1,
+      "cup": 100,
+      "count": 20
+    }
+  },
+  "peeled & chopped pumpkin": {
+    "kcal": 35,
+    "p": 1.5,
+    "c": 7,
+    "f": 0.2,
+    "g": {
+      "packet": 500
+    },
+    "kit": {
+      "packet": 400
+    }
+  },
+  "peeled chestnuts": {
+    "kcal": 195,
+    "p": 2.5,
+    "c": 44,
+    "f": 1.4,
+    "g": {
+      "packet": 200
+    }
+  },
+  "pepitas": {
+    "kcal": 560,
+    "p": 30,
+    "c": 11,
+    "f": 49,
+    "g": {
+      "packet": 100
+    },
+    "kit": {
+      "packet": 25
+    }
+  },
+  "persian lime": {
+    "kcal": 30,
+    "p": 0.7,
+    "c": 10,
+    "f": 0.2,
+    "g": {
+      "tsp": 5
+    }
+  },
+  "persian rice": {
+    "kcal": 360,
+    "p": 7,
+    "c": 80,
+    "f": 0.6,
+    "g": {
+      "g": 1
+    }
+  },
+  "pesto": {
+    "kcal": 450,
+    "p": 5,
+    "c": 5,
+    "f": 45,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "pickled ginger": {
+    "kcal": 20,
+    "p": 0.2,
+    "c": 4.5,
+    "f": 0,
+    "g": {
+      "tsp": 5
+    }
+  },
+  "pickled mango": {
+    "kcal": 100,
+    "p": 0.5,
+    "c": 20,
+    "f": 2,
+    "g": {
+      "g": 1
+    }
+  },
+  "pickles": {
+    "kcal": 12,
+    "p": 0.4,
+    "c": 2,
+    "f": 0.2,
+    "g": {
+      "count": 30,
+      "slice": 5
+    }
+  },
+  "pine nuts": {
+    "kcal": 673,
+    "p": 14,
+    "c": 13,
+    "f": 68,
+    "g": {
+      "packet": 50,
+      "g": 1,
+      "count": 0.5,
+      "cup": 140,
+      "bunch": 20,
+      "tbsp": 9,
+      "tsp": 3
+    },
+    "kit": {
+      "packet": 20
+    }
+  },
+  "pineapple slices": {
+    "kcal": 50,
+    "p": 0.5,
+    "c": 13,
+    "f": 0.1,
+    "g": {
+      "tin": 220
+    },
+    "kit": {
+      "tin": 227
+    }
+  },
+  "pink peppercorns": {
+    "kcal": 300,
+    "p": 10,
+    "c": 50,
+    "f": 5,
+    "g": {
+      "tbsp": 6
+    }
+  },
+  "pistachios": {
+    "kcal": 562,
+    "p": 20,
+    "c": 28,
+    "f": 45,
+    "g": {
+      "packet": 100
+    },
+    "kit": {
+      "packet": 25
+    }
+  },
+  "pita": {
+    "kcal": 275,
+    "p": 9,
+    "c": 55,
+    "f": 1.2,
+    "g": {
+      "count": 60
+    }
+  },
+  "pita bread": {
+    "kcal": 275,
+    "p": 9,
+    "c": 55,
+    "f": 1.2,
+    "g": {
+      "count": 60
+    }
+  },
+  "pitted green olives": {
+    "kcal": 145,
+    "p": 1,
+    "c": 4,
+    "f": 15,
+    "g": {
+      "g": 1
+    }
+  },
+  "pizza bases": {
+    "kcal": 270,
+    "p": 8,
+    "c": 52,
+    "f": 3,
+    "g": {
+      "count": 150
+    }
+  },
+  "plain flour": {
+    "kcal": 364,
+    "p": 10,
+    "c": 76,
+    "f": 1,
+    "g": {
+      "tbsp": 9,
+      "cup": 125,
+      "tsp": 3,
+      "g": 1,
+      "kg": 1000,
+      "count": 125
+    }
+  },
+  "plant-based mince": {
+    "kcal": 200,
+    "p": 18,
+    "c": 6,
+    "f": 11,
+    "g": {
+      "g": 1
+    }
+  },
+  "polenta": {
+    "kcal": 360,
+    "p": 8,
+    "c": 79,
+    "f": 1,
+    "g": {
+      "g": 1,
+      "cup": 160
+    }
+  },
+  "polenta (not instant)": {
+    "kcal": 360,
+    "p": 8,
+    "c": 79,
+    "f": 1,
+    "g": {
+      "cup": 160
+    }
+  },
+  "pomegranate": {
+    "kcal": 83,
+    "p": 1.7,
+    "c": 19,
+    "f": 1.2,
+    "g": {
+      "count": 200
+    }
+  },
+  "pomegranate juice": {
+    "kcal": 54,
+    "p": 0.2,
+    "c": 13,
+    "f": 0.3,
+    "g": {
+      "tbsp": 20,
+      "cup": 250
+    }
+  },
+  "pomegranate molasses": {
+    "kcal": 280,
+    "p": 0.5,
+    "c": 70,
+    "f": 0,
+    "g": {
+      "tsp": 7,
+      "cup": 340,
+      "tbsp": 21
+    }
+  },
+  "pomegranate seeds": {
+    "kcal": 83,
+    "p": 1.7,
+    "c": 19,
+    "f": 1.2,
+    "g": {
+      "tbsp": 10,
+      "cup": 175
+    }
+  },
+  "pomelo": {
+    "kcal": 38,
+    "p": 0.8,
+    "c": 9.6,
+    "f": 0,
+    "g": {
+      "count": 600,
+      "cup": 190
+    }
+  },
+  "poppy seeds": {
+    "kcal": 525,
+    "p": 18,
+    "c": 28,
+    "f": 42,
+    "g": {
+      "cup": 140
+    }
+  },
+  "porcini powder": {
+    "kcal": 300,
+    "p": 30,
+    "c": 40,
+    "f": 5,
+    "g": {
+      "tbsp": 6
+    }
+  },
+  "portobello mushrooms": {
+    "kcal": 22,
+    "p": 2.1,
+    "c": 3.3,
+    "f": 0.3,
+    "g": {
+      "count": 80,
+      "g": 1,
+      "packet": 200
+    }
+  },
+  "potato": {
+    "kcal": 77,
+    "p": 2,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "count": 200
+    }
+  },
+  "potatoes": {
+    "kcal": 77,
+    "p": 2,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "count": 200,
+      "g": 1,
+      "kg": 1000
+    }
+  },
+  "pouring cream": {
+    "kcal": 340,
+    "p": 2.1,
+    "c": 2.8,
+    "f": 36,
+    "g": {
+      "cup": 250
+    }
+  },
+  "preserved lemon": {
+    "kcal": 20,
+    "p": 0.8,
+    "c": 4,
+    "f": 0.5,
+    "g": {
+      "cup": 180,
+      "tsp": 5,
+      "tbsp": 15,
+      "slice": 15
+    }
+  },
+  "prunes": {
+    "kcal": 240,
+    "p": 2.2,
+    "c": 64,
+    "f": 0.4,
+    "g": {
+      "count": 10
+    }
+  },
+  "puff pastry": {
+    "kcal": 558,
+    "p": 7,
+    "c": 45,
+    "f": 38,
+    "g": {
+      "g": 1
+    }
+  },
+  "pumpkin": {
+    "kcal": 26,
+    "p": 1,
+    "c": 6.5,
+    "f": 0.1,
+    "g": {
+      "g": 1,
+      "cup": 140,
+      "kg": 1000,
+      "count": 1500
+    }
+  },
+  "pumpkin seeds": {
+    "kcal": 559,
+    "p": 30,
+    "c": 11,
+    "f": 49,
+    "g": {
+      "cup": 130
+    }
+  },
+  "purple potatoes": {
+    "kcal": 77,
+    "p": 2,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "count": 150
+    }
+  },
+  "purslane": {
+    "kcal": 20,
+    "p": 2,
+    "c": 3.4,
+    "f": 0.1,
+    "g": {
+      "g": 1
+    }
+  },
+  "purslane leaves": {
+    "kcal": 20,
+    "p": 2,
+    "c": 3.4,
+    "f": 0.1,
+    "g": {
+      "cup": 40
+    }
+  },
+  "quatre epices": {
+    "kcal": 300,
+    "p": 10,
+    "c": 55,
+    "f": 5,
+    "g": {
+      "tsp": 2.5
+    }
+  },
+  "quince": {
+    "kcal": 57,
+    "p": 0.4,
+    "c": 15,
+    "f": 0.1,
+    "g": {
+      "count": 250
+    }
+  },
+  "quinoa": {
+    "kcal": 368,
+    "p": 14,
+    "c": 64,
+    "f": 6,
+    "g": {
+      "cup": 170
+    }
+  },
+  "radiatori pasta": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "radishes": {
+    "kcal": 16,
+    "p": 0.7,
+    "c": 3.4,
+    "f": 0.1,
+    "g": {
+      "count": 15
+    }
+  },
+  "raisins": {
+    "kcal": 299,
+    "p": 3,
+    "c": 79,
+    "f": 0.5,
+    "g": {
+      "cup": 165
+    }
+  },
+  "ras el hanout": {
+    "kcal": 300,
+    "p": 10,
+    "c": 50,
+    "f": 10,
+    "g": {
+      "sachet": 6,
+      "tsp": 2.5
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "raw tahini": {
+    "kcal": 595,
+    "p": 17,
+    "c": 21,
+    "f": 54,
+    "g": {
+      "cup": 250
+    }
+  },
+  "red cabbage": {
+    "kcal": 31,
+    "p": 1.4,
+    "c": 7.4,
+    "f": 0.2,
+    "g": {
+      "count": 900,
+      "cup": 70
+    }
+  },
+  "red capsicum": {
+    "kcal": 31,
+    "p": 1,
+    "c": 6,
+    "f": 0.3,
+    "g": {
+      "count": 200
+    }
+  },
+  "red capsicums": {
+    "kcal": 31,
+    "p": 1,
+    "c": 6,
+    "f": 0.3,
+    "g": {
+      "count": 200
+    }
+  },
+  "red chilli": {
+    "kcal": 40,
+    "p": 1.9,
+    "c": 9,
+    "f": 0.4,
+    "g": {
+      "count": 15,
+      "tsp": 3
+    }
+  },
+  "red chillies": {
+    "kcal": 40,
+    "p": 1.9,
+    "c": 9,
+    "f": 0.4,
+    "g": {
+      "count": 15
+    }
+  },
+  "red curry paste": {
+    "kcal": 130,
+    "p": 3,
+    "c": 15,
+    "f": 7,
+    "g": {
+      "tbsp": 18,
+      "tsp": 6
+    }
+  },
+  "red grapes": {
+    "kcal": 69,
+    "p": 0.7,
+    "c": 18,
+    "f": 0.2,
+    "g": {
+      "bunch": 300,
+      "cup": 150
+    }
+  },
+  "red kidney beans": {
+    "kcal": 100,
+    "p": 7,
+    "c": 18,
+    "f": 0.5,
+    "g": {
+      "tin": 240
+    },
+    "kit": {
+      "tin": 400
+    }
+  },
+  "red lentils": {
+    "kcal": 358,
+    "p": 24,
+    "c": 60,
+    "f": 1,
+    "g": {
+      "packet": 500,
+      "tin": 70,
+      "cup": 200,
+      "g": 1
+    },
+    "kit": {
+      "packet": 100,
+      "tin": 400
+    }
+  },
+  "red onion": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9,
+    "f": 0.1,
+    "g": {
+      "count": 150,
+      "slice": 15
+    }
+  },
+  "red onions": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9,
+    "f": 0.1,
+    "g": {
+      "count": 150
+    }
+  },
+  "red potatoes": {
+    "kcal": 77,
+    "p": 2,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "count": 170
+    }
+  },
+  "red quinoa": {
+    "kcal": 368,
+    "p": 14,
+    "c": 64,
+    "f": 6,
+    "g": {
+      "cup": 170
+    }
+  },
+  "red rice": {
+    "kcal": 356,
+    "p": 8,
+    "c": 76,
+    "f": 2.5,
+    "g": {
+      "cup": 190
+    }
+  },
+  "red wine": {
+    "kcal": 85,
+    "p": 0.1,
+    "c": 2.6,
+    "f": 0,
+    "g": {
+      "cup": 250,
+      "ml": 1
+    }
+  },
+  "red wine vinegar": {
+    "kcal": 19,
+    "p": 0,
+    "c": 0.3,
+    "f": 0,
+    "g": {
+      "cup": 250,
+      "tbsp": 20
+    }
+  },
+  "rice": {
+    "kcal": 360,
+    "p": 7,
+    "c": 80,
+    "f": 0.6,
+    "g": {
+      "count": 180,
+      "tbsp": 12
+    }
+  },
+  "rice flour": {
+    "kcal": 366,
+    "p": 6,
+    "c": 80,
+    "f": 1.4,
+    "g": {
+      "tbsp": 10,
+      "cup": 160
+    }
+  },
+  "rice vermicelli": {
+    "kcal": 360,
+    "p": 6,
+    "c": 83,
+    "f": 0.6,
+    "g": {
+      "g": 1
+    }
+  },
+  "rice vinegar": {
+    "kcal": 18,
+    "p": 0,
+    "c": 0.4,
+    "f": 0,
+    "g": {
+      "tbsp": 20,
+      "cup": 250,
+      "tsp": 5
+    }
+  },
+  "rice wine vinegar": {
+    "kcal": 18,
+    "p": 0,
+    "c": 0.4,
+    "f": 0,
+    "g": {
+      "tsp": 5,
+      "tbsp": 20,
+      "cup": 250
+    }
+  },
+  "ricotta": {
+    "kcal": 174,
+    "p": 11,
+    "c": 3,
+    "f": 13,
+    "g": {
+      "g": 1,
+      "tbsp": 20,
+      "cup": 250
+    }
+  },
+  "ricotta salata": {
+    "kcal": 330,
+    "p": 20,
+    "c": 3,
+    "f": 27,
+    "g": {
+      "g": 1
+    }
+  },
+  "ripe tomatoes": {
+    "kcal": 18,
+    "p": 0.9,
+    "c": 3.9,
+    "f": 0.2,
+    "g": {
+      "count": 150
+    }
+  },
+  "risoni": {
+    "kcal": 360,
+    "p": 12,
+    "c": 73,
+    "f": 1.5,
+    "g": {
+      "packet": 500
+    },
+    "kit": {
+      "packet": 200
+    }
+  },
+  "risotto rice": {
+    "kcal": 350,
+    "p": 7,
+    "c": 78,
+    "f": 0.6,
+    "g": {
+      "g": 1
+    }
+  },
+  "roasted almonds": {
+    "kcal": 600,
+    "p": 21,
+    "c": 9,
+    "f": 53,
+    "g": {
+      "packet": 100,
+      "cup": 150,
+      "tbsp": 10
+    },
+    "kit": {
+      "packet": 25
+    }
+  },
+  "roasted artichokes": {
+    "kcal": 100,
+    "p": 2,
+    "c": 6,
+    "f": 8,
+    "g": {
+      "jar": 200
+    }
+  },
+  "roasted capsicum": {
+    "kcal": 40,
+    "p": 1,
+    "c": 7,
+    "f": 1,
+    "g": {
+      "count": 150
+    }
+  },
+  "roasted cashews": {
+    "kcal": 580,
+    "p": 17,
+    "c": 30,
+    "f": 47,
+    "g": {
+      "packet": 100
+    },
+    "kit": {
+      "packet": 25
+    }
+  },
+  "roasted chickpea flour": {
+    "kcal": 387,
+    "p": 22,
+    "c": 58,
+    "f": 7,
+    "g": {
+      "cup": 110
+    }
+  },
+  "roasted hazelnuts": {
+    "kcal": 646,
+    "p": 15,
+    "c": 17,
+    "f": 61,
+    "g": {
+      "g": 1
+    }
+  },
+  "roasted peanuts": {
+    "kcal": 600,
+    "p": 26,
+    "c": 16,
+    "f": 50,
+    "g": {
+      "packet": 100,
+      "bunch": 30,
+      "count": 1,
+      "cup": 150
+    },
+    "kit": {
+      "packet": 25
+    }
+  },
+  "roasted pepper spread": {
+    "kcal": 120,
+    "p": 2,
+    "c": 10,
+    "f": 8,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "rocket": {
+    "kcal": 25,
+    "p": 2.6,
+    "c": 3.7,
+    "f": 0.7,
+    "g": {
+      "count": 3,
+      "bunch": 100,
+      "packet": 60
+    }
+  },
+  "rocket leaves": {
+    "kcal": 25,
+    "p": 2.6,
+    "c": 3.7,
+    "f": 0.7,
+    "g": {
+      "bag": 60
+    },
+    "kit": {
+      "bag": 60
+    }
+  },
+  "rolled oats": {
+    "kcal": 375,
+    "p": 13,
+    "c": 60,
+    "f": 7,
+    "g": {
+      "tbsp": 7,
+      "cup": 90,
+      "g": 1
+    }
+  },
+  "roma tomatoes": {
+    "kcal": 18,
+    "p": 0.9,
+    "c": 3.9,
+    "f": 0.2,
+    "g": {
+      "count": 80
+    }
+  },
+  "roquefort": {
+    "kcal": 369,
+    "p": 21.5,
+    "c": 2,
+    "f": 31,
+    "g": {
+      "g": 1
+    }
+  },
+  "rosemary": {
+    "kcal": 131,
+    "p": 3.3,
+    "c": 21,
+    "f": 5.9,
+    "g": {
+      "count": 2,
+      "bunch": 20
+    }
+  },
+  "rosewater": {
+    "kcal": 10,
+    "p": 0,
+    "c": 2,
+    "f": 0,
+    "g": {
+      "tsp": 5
+    }
+  },
+  "round zucchini": {
+    "kcal": 17,
+    "p": 1.2,
+    "c": 3.1,
+    "f": 0.3,
+    "g": {
+      "count": 150
+    }
+  },
+  "saffron threads": {
+    "kcal": 310,
+    "p": 11,
+    "c": 65,
+    "f": 6,
+    "g": {
+      "count": 0.05,
+      "pinch": 0.3
+    }
+  },
+  "sage": {
+    "kcal": 315,
+    "p": 10.6,
+    "c": 61,
+    "f": 12.7,
+    "g": {
+      "count": 1
+    }
+  },
+  "sage leaves": {
+    "kcal": 315,
+    "p": 10.6,
+    "c": 61,
+    "f": 12.7,
+    "g": {
+      "count": 0.5,
+      "bunch": 20
+    }
+  },
+  "sake": {
+    "kcal": 134,
+    "p": 0.5,
+    "c": 5,
+    "f": 0,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "salt": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tsp": 6,
+      "count": 1,
+      "tbsp": 18,
+      "pinch": 0.3,
+      "g": 1
+    }
+  },
+  "savory leaves": {
+    "kcal": 271,
+    "p": 7,
+    "c": 69,
+    "f": 6,
+    "g": {
+      "count": 0.3
+    }
+  },
+  "sea salt": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tsp": 5,
+      "pinch": 0.3,
+      "tbsp": 15,
+      "count": 1
+    }
+  },
+  "self-raising flour": {
+    "kcal": 349,
+    "p": 10,
+    "c": 73,
+    "f": 1.2,
+    "g": {
+      "tbsp": 9,
+      "g": 1
+    }
+  },
+  "semolina": {
+    "kcal": 360,
+    "p": 13,
+    "c": 73,
+    "f": 1.1,
+    "g": {
+      "cup": 165
+    }
+  },
+  "sesame buns": {
+    "kcal": 290,
+    "p": 10,
+    "c": 50,
+    "f": 5,
+    "g": {
+      "count": 60
+    }
+  },
+  "sesame dressing": {
+    "kcal": 300,
+    "p": 2,
+    "c": 20,
+    "f": 24,
+    "g": {
+      "packet": 30
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "sesame oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tbsp": 18,
+      "tsp": 4.5,
+      "cup": 216
+    }
+  },
+  "sesame oil blend": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tub": 15
+    },
+    "kit": {
+      "tub": 20
+    }
+  },
+  "sesame seeds": {
+    "kcal": 573,
+    "p": 18,
+    "c": 23,
+    "f": 50,
+    "g": {
+      "sachet": 5,
+      "cup": 150,
+      "tbsp": 8,
+      "count": 0.01
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "shallot": {
+    "kcal": 72,
+    "p": 2.5,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "count": 30
+    }
+  },
+  "shallots": {
+    "kcal": 72,
+    "p": 2.5,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "count": 30
+    }
+  },
+  "shatta pepper": {
+    "kcal": 60,
+    "p": 2,
+    "c": 8,
+    "f": 2,
+    "g": {
+      "tsp": 5
+    }
+  },
+  "shelled broad beans": {
+    "kcal": 88,
+    "p": 7.6,
+    "c": 12,
+    "f": 0.7,
+    "g": {
+      "cup": 170
+    }
+  },
+  "sherry vinegar": {
+    "kcal": 19,
+    "p": 0,
+    "c": 0.5,
+    "f": 0,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "shiitake mushrooms": {
+    "kcal": 34,
+    "p": 2.2,
+    "c": 7,
+    "f": 0.5,
+    "g": {
+      "count": 15,
+      "g": 1
+    }
+  },
+  "shimeji mushrooms": {
+    "kcal": 25,
+    "p": 2.5,
+    "c": 4,
+    "f": 0.4,
+    "g": {
+      "g": 1,
+      "packet": 150
+    }
+  },
+  "short grain rice": {
+    "kcal": 360,
+    "p": 7,
+    "c": 80,
+    "f": 0.6,
+    "g": {
+      "cup": 200,
+      "g": 1
+    }
+  },
+  "short hollow pasta": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "short pasta": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "packet": 500,
+      "g": 1
+    }
+  },
+  "short-grain brown rice": {
+    "kcal": 355,
+    "p": 7.5,
+    "c": 74,
+    "f": 2.8,
+    "g": {
+      "cup": 200
+    }
+  },
+  "short-grain rice": {
+    "kcal": 360,
+    "p": 7,
+    "c": 80,
+    "f": 0.6,
+    "g": {
+      "cup": 200
+    }
+  },
+  "shortcrust pastry": {
+    "kcal": 500,
+    "p": 6,
+    "c": 50,
+    "f": 30,
+    "g": {
+      "g": 1
+    }
+  },
+  "shredded cabbage mix": {
+    "kcal": 25,
+    "p": 1.3,
+    "c": 5.8,
+    "f": 0.1,
+    "g": {
+      "bag": 400
+    },
+    "kit": {
+      "bag": 150
+    }
+  },
+  "shredded coconut": {
+    "kcal": 660,
+    "p": 6.9,
+    "c": 24,
+    "f": 65,
+    "g": {
+      "packet": 100,
+      "cup": 80
+    },
+    "kit": {
+      "packet": 20
+    }
+  },
+  "shushka peppers": {
+    "kcal": 30,
+    "p": 1.5,
+    "c": 6,
+    "f": 0.3,
+    "g": {
+      "count": 15
+    }
+  },
+  "silan": {
+    "kcal": 290,
+    "p": 1,
+    "c": 72,
+    "f": 0,
+    "g": {
+      "tbsp": 21
+    }
+  },
+  "silken tofu": {
+    "kcal": 55,
+    "p": 5,
+    "c": 1.5,
+    "f": 3,
+    "g": {
+      "g": 1
+    }
+  },
+  "silverbeet": {
+    "kcal": 19,
+    "p": 1.8,
+    "c": 3.7,
+    "f": 0.2,
+    "g": {
+      "bunch": 600,
+      "count": 80,
+      "kg": 1000,
+      "cup": 36
+    }
+  },
+  "slaw mix": {
+    "kcal": 30,
+    "p": 1.3,
+    "c": 6,
+    "f": 0.2,
+    "g": {
+      "bag": 400
+    },
+    "kit": {
+      "bag": 150
+    }
+  },
+  "sliced almonds": {
+    "kcal": 579,
+    "p": 21,
+    "c": 22,
+    "f": 50,
+    "g": {
+      "packet": 100
+    }
+  },
+  "sliced mushrooms": {
+    "kcal": 22,
+    "p": 3,
+    "c": 3.3,
+    "f": 0.3,
+    "g": {
+      "punnet": 200
+    },
+    "kit": {
+      "punnet": 200
+    }
+  },
+  "slivered almonds": {
+    "kcal": 579,
+    "p": 21,
+    "c": 22,
+    "f": 50,
+    "g": {
+      "cup": 110
+    }
+  },
+  "small black lentils": {
+    "kcal": 350,
+    "p": 25,
+    "c": 60,
+    "f": 1,
+    "g": {
+      "cup": 200
+    }
+  },
+  "small cucumbers": {
+    "kcal": 15,
+    "p": 0.7,
+    "c": 3.6,
+    "f": 0.1,
+    "g": {
+      "count": 100
+    }
+  },
+  "small eggplants": {
+    "kcal": 25,
+    "p": 1,
+    "c": 6,
+    "f": 0.2,
+    "g": {
+      "count": 150
+    }
+  },
+  "small onions": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.3,
+    "f": 0.1,
+    "g": {
+      "count": 100
+    }
+  },
+  "small pasta": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1,
+      "cup": 110
+    }
+  },
+  "small soup pasta": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "cup": 110
+    }
+  },
+  "small zucchini": {
+    "kcal": 17,
+    "p": 1.2,
+    "c": 3.1,
+    "f": 0.3,
+    "g": {
+      "count": 120
+    }
+  },
+  "smoked mozzarella": {
+    "kcal": 290,
+    "p": 24,
+    "c": 2,
+    "f": 21,
+    "g": {
+      "g": 1
+    }
+  },
+  "smoked paprika": {
+    "kcal": 282,
+    "p": 14,
+    "c": 54,
+    "f": 13,
+    "g": {
+      "sachet": 5,
+      "tsp": 2.5,
+      "pinch": 0.3
+    },
+    "kit": {
+      "sachet": 5
+    }
+  },
+  "smokey aioli": {
+    "kcal": 600,
+    "p": 1,
+    "c": 3,
+    "f": 65,
+    "g": {
+      "packet": 50
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "smooth mustard": {
+    "kcal": 66,
+    "p": 4,
+    "c": 6,
+    "f": 3.5,
+    "g": {
+      "tsp": 5
+    }
+  },
+  "snake beans": {
+    "kcal": 31,
+    "p": 1.8,
+    "c": 7,
+    "f": 0.1,
+    "g": {
+      "g": 1
+    }
+  },
+  "snow peas": {
+    "kcal": 42,
+    "p": 2.8,
+    "c": 7.5,
+    "f": 0.2,
+    "g": {
+      "bag": 150,
+      "count": 6,
+      "g": 1,
+      "cup": 65
+    },
+    "kit": {
+      "bag": 100
+    }
+  },
+  "soda water": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "cup": 250
+    }
+  },
+  "soft goat's cheese": {
+    "kcal": 270,
+    "p": 18,
+    "c": 1,
+    "f": 21,
+    "g": {
+      "g": 1,
+      "jar": 150
+    }
+  },
+  "soft tofu": {
+    "kcal": 55,
+    "p": 5,
+    "c": 1.5,
+    "f": 3,
+    "g": {
+      "g": 1
+    }
+  },
+  "soft-boiled eggs": {
+    "kcal": 143,
+    "p": 12.6,
+    "c": 0.7,
+    "f": 9.5,
+    "g": {
+      "count": 50
+    }
+  },
+  "sour cream": {
+    "kcal": 198,
+    "p": 2.4,
+    "c": 4,
+    "f": 19,
+    "g": {
+      "packet": 200,
+      "count": 200,
+      "g": 1,
+      "jar": 200,
+      "ml": 1,
+      "cup": 240
+    },
+    "kit": {
+      "packet": 100
+    }
+  },
+  "southeast asian spice blend": {
+    "kcal": 300,
+    "p": 10,
+    "c": 50,
+    "f": 8,
+    "g": {
+      "sachet": 10
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "soy sauce": {
+    "kcal": 60,
+    "p": 8,
+    "c": 6,
+    "f": 0.1,
+    "g": {
+      "tbsp": 20,
+      "tsp": 6,
+      "drizzle": 5,
+      "cup": 290
+    }
+  },
+  "spaghetti": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "spaghettini": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "spelt breadcrumbs": {
+    "kcal": 370,
+    "p": 13,
+    "c": 70,
+    "f": 3,
+    "g": {
+      "cup": 100
+    }
+  },
+  "spelt flour": {
+    "kcal": 338,
+    "p": 14.6,
+    "c": 70,
+    "f": 2.4,
+    "g": {
+      "cup": 120,
+      "g": 1,
+      "tbsp": 8
+    }
+  },
+  "spelt grains": {
+    "kcal": 338,
+    "p": 14.6,
+    "c": 70,
+    "f": 2.4,
+    "g": {
+      "g": 1
+    }
+  },
+  "spinach": {
+    "kcal": 23,
+    "p": 2.9,
+    "c": 3.6,
+    "f": 0.4,
+    "g": {
+      "bunch": 250,
+      "g": 1,
+      "cup": 30,
+      "kg": 1000
+    }
+  },
+  "spinach & rocket mix": {
+    "kcal": 24,
+    "p": 2.8,
+    "c": 3.6,
+    "f": 0.5,
+    "g": {
+      "bag": 120
+    },
+    "kit": {
+      "bag": 60
+    }
+  },
+  "spinach and ricotta ravioli": {
+    "kcal": 220,
+    "p": 9,
+    "c": 30,
+    "f": 7,
+    "g": {
+      "g": 1
+    }
+  },
+  "spinach falafel": {
+    "kcal": 250,
+    "p": 10,
+    "c": 25,
+    "f": 13,
+    "g": {
+      "tub": 250,
+      "count": 30
+    },
+    "kit": {
+      "tub": 200
+    }
+  },
+  "spinach leaves": {
+    "kcal": 23,
+    "p": 2.9,
+    "c": 3.6,
+    "f": 0.4,
+    "g": {
+      "g": 1
+    }
+  },
+  "spring garlic": {
+    "kcal": 60,
+    "p": 3,
+    "c": 13,
+    "f": 0.3,
+    "g": {
+      "bunch": 150
+    }
+  },
+  "spring onion": {
+    "kcal": 32,
+    "p": 1.8,
+    "c": 7.3,
+    "f": 0.2,
+    "g": {
+      "count": 15
+    }
+  },
+  "spring onions": {
+    "kcal": 32,
+    "p": 1.8,
+    "c": 7.3,
+    "f": 0.2,
+    "g": {
+      "bunch": 100,
+      "count": 15,
+      "tsp": 2
+    }
+  },
+  "sprouted azuki beans": {
+    "kcal": 110,
+    "p": 8,
+    "c": 18,
+    "f": 0.3,
+    "g": {
+      "cup": 100
+    }
+  },
+  "sprouted mung beans": {
+    "kcal": 30,
+    "p": 3,
+    "c": 6,
+    "f": 0.2,
+    "g": {
+      "cup": 104
+    }
+  },
+  "st maure goat cheese": {
+    "kcal": 300,
+    "p": 19,
+    "c": 1,
+    "f": 25,
+    "g": {
+      "count": 200
+    }
+  },
+  "star anise": {
+    "kcal": 337,
+    "p": 17.6,
+    "c": 50,
+    "f": 16,
+    "g": {
+      "count": 1
+    }
+  },
+  "steamed rice": {
+    "kcal": 130,
+    "p": 2.7,
+    "c": 28,
+    "f": 0.3,
+    "g": {
+      "count": 150
+    }
+  },
+  "sugar": {
+    "kcal": 387,
+    "p": 0,
+    "c": 100,
+    "f": 0,
+    "g": {
+      "tsp": 4,
+      "tbsp": 16,
+      "cup": 200,
+      "pinch": 0.3,
+      "count": 4
+    }
+  },
+  "sugar snap peas": {
+    "kcal": 42,
+    "p": 2.8,
+    "c": 7.5,
+    "f": 0.2,
+    "g": {
+      "bag": 150
+    },
+    "kit": {
+      "bag": 100
+    }
+  },
+  "sumac": {
+    "kcal": 300,
+    "p": 4,
+    "c": 60,
+    "f": 10,
+    "g": {
+      "tsp": 3,
+      "tbsp": 8
+    }
+  },
+  "sun-dried tomato paste": {
+    "kcal": 215,
+    "p": 5,
+    "c": 25,
+    "f": 11,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "sun-dried tomatoes": {
+    "kcal": 258,
+    "p": 14,
+    "c": 56,
+    "f": 3,
+    "g": {
+      "g": 1,
+      "packet": 100,
+      "cup": 55
+    }
+  },
+  "sunflower seeds": {
+    "kcal": 584,
+    "p": 21,
+    "c": 20,
+    "f": 51,
+    "g": {
+      "cup": 140
+    }
+  },
+  "sunflower sprouts": {
+    "kcal": 30,
+    "p": 3,
+    "c": 3,
+    "f": 1,
+    "g": {
+      "cup": 33
+    }
+  },
+  "sweet chilli sauce": {
+    "kcal": 230,
+    "p": 0.3,
+    "c": 56,
+    "f": 0.2,
+    "g": {
+      "packet": 50,
+      "tub": 50,
+      "cup": 300,
+      "tbsp": 22
+    },
+    "kit": {
+      "packet": 35,
+      "tub": 35
+    }
+  },
+  "sweet corn kernels": {
+    "kcal": 86,
+    "p": 3.3,
+    "c": 19,
+    "f": 1.2,
+    "g": {
+      "cup": 165
+    }
+  },
+  "sweet paprika": {
+    "kcal": 282,
+    "p": 14,
+    "c": 54,
+    "f": 13,
+    "g": {
+      "tsp": 2.3,
+      "tbsp": 7
+    }
+  },
+  "sweet potato": {
+    "kcal": 86,
+    "p": 1.6,
+    "c": 20,
+    "f": 0.1,
+    "g": {
+      "count": 250,
+      "g": 1
+    }
+  },
+  "sweet potato leaves": {
+    "kcal": 35,
+    "p": 3,
+    "c": 6,
+    "f": 0.5,
+    "g": {
+      "bunch": 200
+    }
+  },
+  "sweet potatoes": {
+    "kcal": 86,
+    "p": 1.6,
+    "c": 20,
+    "f": 0.1,
+    "g": {
+      "count": 250
+    }
+  },
+  "sweetcorn": {
+    "kcal": 86,
+    "p": 3.3,
+    "c": 19,
+    "f": 1.2,
+    "g": {
+      "tin": 125,
+      "count": 200
+    },
+    "kit": {
+      "tin": 300
+    }
+  },
+  "swiss brown mushrooms": {
+    "kcal": 22,
+    "p": 3,
+    "c": 3.3,
+    "f": 0.3,
+    "g": {
+      "packet": 200
+    }
+  },
+  "swiss chard": {
+    "kcal": 19,
+    "p": 1.8,
+    "c": 3.7,
+    "f": 0.2,
+    "g": {
+      "kg": 1000,
+      "bunch": 600
+    }
+  },
+  "swiss chard leaves": {
+    "kcal": 19,
+    "p": 1.8,
+    "c": 3.7,
+    "f": 0.2,
+    "g": {
+      "g": 1
+    }
+  },
+  "tabor cheese": {
+    "kcal": 300,
+    "p": 20,
+    "c": 2,
+    "f": 24,
+    "g": {
+      "g": 1
+    }
+  },
+  "tagliatelle": {
+    "kcal": 360,
+    "p": 13,
+    "c": 72,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "tahini": {
+    "kcal": 595,
+    "p": 17,
+    "c": 21,
+    "f": 54,
+    "g": {
+      "cup": 250,
+      "count": 20,
+      "g": 1,
+      "tbsp": 20
+    }
+  },
+  "tamarind paste": {
+    "kcal": 239,
+    "p": 2.8,
+    "c": 62,
+    "f": 0.6,
+    "g": {
+      "tbsp": 20,
+      "tsp": 7
+    }
+  },
+  "tandoori paste": {
+    "kcal": 130,
+    "p": 3,
+    "c": 12,
+    "f": 8,
+    "g": {
+      "tub": 100
+    },
+    "kit": {
+      "tub": 50
+    }
+  },
+  "tandoori spice mix": {
+    "kcal": 300,
+    "p": 12,
+    "c": 50,
+    "f": 10,
+    "g": {
+      "tsp": 3
+    }
+  },
+  "tapioca flour": {
+    "kcal": 358,
+    "p": 0.2,
+    "c": 88,
+    "f": 0,
+    "g": {
+      "cup": 120
+    }
+  },
+  "tarragon": {
+    "kcal": 295,
+    "p": 23,
+    "c": 42,
+    "f": 7,
+    "g": {
+      "count": 1
+    }
+  },
+  "tasty cheese": {
+    "kcal": 400,
+    "p": 25,
+    "c": 0.1,
+    "f": 33,
+    "g": {
+      "g": 1
+    }
+  },
+  "teriyaki sauce": {
+    "kcal": 90,
+    "p": 4,
+    "c": 17,
+    "f": 0,
+    "g": {
+      "sachet": 50
+    },
+    "kit": {
+      "sachet": 40
+    }
+  },
+  "tex-mex spice blend": {
+    "kcal": 300,
+    "p": 10,
+    "c": 52,
+    "f": 8,
+    "g": {
+      "sachet": 10
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "thai red curry paste": {
+    "kcal": 130,
+    "p": 3,
+    "c": 15,
+    "f": 7,
+    "g": {
+      "tin": 100
+    },
+    "kit": {
+      "tin": 50
+    }
+  },
+  "thick goat's yoghurt": {
+    "kcal": 70,
+    "p": 4,
+    "c": 5,
+    "f": 4,
+    "g": {
+      "count": 150
+    }
+  },
+  "thick natural yoghurt": {
+    "kcal": 90,
+    "p": 5,
+    "c": 5,
+    "f": 5,
+    "g": {
+      "cup": 260,
+      "count": 200
+    }
+  },
+  "thick pita": {
+    "kcal": 275,
+    "p": 9,
+    "c": 55,
+    "f": 1.2,
+    "g": {
+      "count": 100
+    }
+  },
+  "thick tahini": {
+    "kcal": 595,
+    "p": 17,
+    "c": 21,
+    "f": 54,
+    "g": {
+      "count": 20
+    }
+  },
+  "thickened cream": {
+    "kcal": 340,
+    "p": 2.1,
+    "c": 2.8,
+    "f": 36,
+    "g": {
+      "ml": 1,
+      "cup": 250
+    }
+  },
+  "thin rice noodles": {
+    "kcal": 360,
+    "p": 6,
+    "c": 83,
+    "f": 0.6,
+    "g": {
+      "g": 1
+    }
+  },
+  "thyme": {
+    "kcal": 101,
+    "p": 5.6,
+    "c": 24,
+    "f": 1.7,
+    "g": {
+      "bunch": 20,
+      "count": 1,
+      "tbsp": 4,
+      "tsp": 1.3
+    }
+  },
+  "thyme leaves": {
+    "kcal": 101,
+    "p": 5.6,
+    "c": 24,
+    "f": 1.7,
+    "g": {
+      "tbsp": 4,
+      "tsp": 1.3
+    }
+  },
+  "tinned tomatoes": {
+    "kcal": 20,
+    "p": 1,
+    "c": 4,
+    "f": 0.1,
+    "g": {
+      "tin": 400
+    }
+  },
+  "toasted almonds": {
+    "kcal": 600,
+    "p": 21,
+    "c": 9,
+    "f": 53,
+    "g": {
+      "tbsp": 9
+    }
+  },
+  "toasted coconut flakes": {
+    "kcal": 660,
+    "p": 6.9,
+    "c": 24,
+    "f": 65,
+    "g": {
+      "count": 5
+    }
+  },
+  "toasted flaked almonds": {
+    "kcal": 600,
+    "p": 21,
+    "c": 9,
+    "f": 53,
+    "g": {
+      "tbsp": 7
+    }
+  },
+  "toasted pine nuts": {
+    "kcal": 673,
+    "p": 14,
+    "c": 13,
+    "f": 68,
+    "g": {
+      "cup": 140
+    }
+  },
+  "toasted sesame seeds": {
+    "kcal": 573,
+    "p": 18,
+    "c": 23,
+    "f": 50,
+    "g": {
+      "tbsp": 8
+    }
+  },
+  "toasted walnuts and hazelnuts": {
+    "kcal": 660,
+    "p": 15,
+    "c": 10,
+    "f": 63,
+    "g": {
+      "cup": 130
+    }
+  },
+  "tofu": {
+    "kcal": 120,
+    "p": 13,
+    "c": 2,
+    "f": 7,
+    "g": {
+      "g": 1,
+      "kg": 1000,
+      "packet": 300
+    }
+  },
+  "tofu spread": {
+    "kcal": 180,
+    "p": 9,
+    "c": 5,
+    "f": 14,
+    "g": {
+      "g": 1
+    }
+  },
+  "tomato": {
+    "kcal": 18,
+    "p": 0.9,
+    "c": 3.9,
+    "f": 0.2,
+    "g": {
+      "count": 150,
+      "slice": 20
+    }
+  },
+  "tomato juice": {
+    "kcal": 17,
+    "p": 0.8,
+    "c": 3.5,
+    "f": 0.1,
+    "g": {
+      "cup": 250
+    }
+  },
+  "tomato ketchup": {
+    "kcal": 110,
+    "p": 1.2,
+    "c": 26,
+    "f": 0.1,
+    "g": {
+      "tsp": 6
+    }
+  },
+  "tomato paste": {
+    "kcal": 82,
+    "p": 4.3,
+    "c": 19,
+    "f": 0.5,
+    "g": {
+      "sachet": 35,
+      "tbsp": 21,
+      "tin": 140,
+      "cup": 260,
+      "packet": 70,
+      "g": 1,
+      "tsp": 7
+    },
+    "kit": {
+      "sachet": 35
+    }
+  },
+  "tomato puree": {
+    "kcal": 38,
+    "p": 1.7,
+    "c": 8,
+    "f": 0.3,
+    "g": {
+      "cup": 250
+    }
+  },
+  "tomato sauce": {
+    "kcal": 100,
+    "p": 1.2,
+    "c": 24,
+    "f": 0.1,
+    "g": {
+      "count": 15,
+      "tbsp": 22
+    }
+  },
+  "tomatoes": {
+    "kcal": 18,
+    "p": 0.9,
+    "c": 3.9,
+    "f": 0.2,
+    "g": {
+      "count": 150,
+      "kg": 1000,
+      "g": 1
+    }
+  },
+  "tortillas": {
+    "kcal": 300,
+    "p": 8,
+    "c": 50,
+    "f": 7,
+    "g": {
+      "count": 40
+    }
+  },
+  "tri colour quinoa": {
+    "kcal": 368,
+    "p": 14,
+    "c": 64,
+    "f": 6,
+    "g": {
+      "packet": 400
+    },
+    "kit": {
+      "packet": 150
+    }
+  },
+  "turmeric": {
+    "kcal": 312,
+    "p": 10,
+    "c": 67,
+    "f": 3,
+    "g": {
+      "tsp": 3,
+      "pinch": 0.3,
+      "tbsp": 9
+    }
+  },
+  "turnip": {
+    "kcal": 28,
+    "p": 0.9,
+    "c": 6.4,
+    "f": 0.1,
+    "g": {
+      "count": 120
+    }
+  },
+  "turnips": {
+    "kcal": 28,
+    "p": 0.9,
+    "c": 6.4,
+    "f": 0.1,
+    "g": {
+      "count": 120
+    }
+  },
+  "tuscan kale": {
+    "kcal": 35,
+    "p": 2.9,
+    "c": 4.4,
+    "f": 1.5,
+    "g": {
+      "bunch": 200
+    }
+  },
+  "tzatziki": {
+    "kcal": 80,
+    "p": 3.5,
+    "c": 4,
+    "f": 5.6,
+    "g": {
+      "count": 200
+    }
+  },
+  "tzfat cheese": {
+    "kcal": 280,
+    "p": 18,
+    "c": 1,
+    "f": 23,
+    "g": {
+      "g": 1
+    }
+  },
+  "tzfatit cheese": {
+    "kcal": 280,
+    "p": 18,
+    "c": 1,
+    "f": 23,
+    "g": {
+      "g": 1
+    }
+  },
+  "udon noodles": {
+    "kcal": 130,
+    "p": 4,
+    "c": 27,
+    "f": 0.5,
+    "g": {
+      "packet": 200
+    },
+    "kit": {
+      "packet": 400
+    }
+  },
+  "unhulled tahini": {
+    "kcal": 595,
+    "p": 17,
+    "c": 21,
+    "f": 54,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "vacuum-packed chestnuts": {
+    "kcal": 180,
+    "p": 2.5,
+    "c": 40,
+    "f": 1.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "vegetable oil": {
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100,
+    "g": {
+      "tbsp": 18,
+      "cup": 216,
+      "count": 15
+    }
+  },
+  "vegetable soup seasoning": {
+    "kcal": 250,
+    "p": 8,
+    "c": 45,
+    "f": 4,
+    "g": {
+      "tbsp": 10
+    }
+  },
+  "vegetable stock": {
+    "kcal": 5,
+    "p": 0.3,
+    "c": 0.8,
+    "f": 0.1,
+    "g": {
+      "cube": 10,
+      "cup": 250,
+      "l": 1000,
+      "ml": 1
+    }
+  },
+  "vegetable stock pot": {
+    "kcal": 150,
+    "p": 3,
+    "c": 25,
+    "f": 4,
+    "g": {
+      "tub": 100
+    },
+    "kit": {
+      "tub": 28
+    }
+  },
+  "vegetable stock powder": {
+    "kcal": 230,
+    "p": 8,
+    "c": 38,
+    "f": 5,
+    "g": {
+      "sachet": 10
+    },
+    "kit": {
+      "sachet": 10
+    }
+  },
+  "vermicelli": {
+    "kcal": 360,
+    "p": 12,
+    "c": 74,
+    "f": 1.5,
+    "g": {
+      "cup": 100
+    }
+  },
+  "vine leaves": {
+    "kcal": 93,
+    "p": 5,
+    "c": 17,
+    "f": 2,
+    "g": {
+      "count": 5,
+      "cup": 30,
+      "g": 1
+    }
+  },
+  "vinegar": {
+    "kcal": 18,
+    "p": 0,
+    "c": 0.04,
+    "f": 0,
+    "g": {
+      "tbsp": 20,
+      "cup": 250,
+      "drizzle": 5
+    }
+  },
+  "wakame": {
+    "kcal": 260,
+    "p": 18,
+    "c": 45,
+    "f": 3,
+    "g": {
+      "packet": 10
+    }
+  },
+  "wakame seaweed": {
+    "kcal": 45,
+    "p": 3,
+    "c": 9,
+    "f": 0.6,
+    "g": {
+      "g": 1
+    }
+  },
+  "walnuts": {
+    "kcal": 654,
+    "p": 15,
+    "c": 14,
+    "f": 65,
+    "g": {
+      "packet": 100,
+      "g": 1,
+      "cup": 120
+    },
+    "kit": {
+      "packet": 25
+    }
+  },
+  "warm water": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "tbsp": 20,
+      "cup": 250
+    }
+  },
+  "wasabi mayonnaise": {
+    "kcal": 600,
+    "p": 1,
+    "c": 4,
+    "f": 65,
+    "g": {
+      "packet": 50
+    },
+    "kit": {
+      "packet": 30
+    }
+  },
+  "water": {
+    "kcal": 0,
+    "p": 0,
+    "c": 0,
+    "f": 0,
+    "g": {
+      "cup": 250,
+      "tbsp": 20,
+      "tsp": 5,
+      "count": 250,
+      "ml": 1,
+      "l": 1000
+    }
+  },
+  "water spinach": {
+    "kcal": 19,
+    "p": 2.6,
+    "c": 3.1,
+    "f": 0.2,
+    "g": {
+      "bunch": 250
+    }
+  },
+  "watermelon": {
+    "kcal": 30,
+    "p": 0.6,
+    "c": 7.6,
+    "f": 0.2,
+    "g": {
+      "cup": 150
+    }
+  },
+  "watermelon rind": {
+    "kcal": 18,
+    "p": 0.5,
+    "c": 4,
+    "f": 0.1,
+    "g": {
+      "count": 200
+    }
+  },
+  "wheat berries": {
+    "kcal": 340,
+    "p": 13,
+    "c": 72,
+    "f": 2.5,
+    "g": {
+      "cup": 180,
+      "g": 1
+    }
+  },
+  "white bean flour": {
+    "kcal": 340,
+    "p": 21,
+    "c": 60,
+    "f": 1.5,
+    "g": {
+      "cup": 120
+    }
+  },
+  "white bread": {
+    "kcal": 265,
+    "p": 9,
+    "c": 49,
+    "f": 3.2,
+    "g": {
+      "count": 30
+    }
+  },
+  "white cabbage": {
+    "kcal": 25,
+    "p": 1.3,
+    "c": 5.8,
+    "f": 0.1,
+    "g": {
+      "count": 1000
+    }
+  },
+  "white miso": {
+    "kcal": 200,
+    "p": 12,
+    "c": 25,
+    "f": 6,
+    "g": {
+      "tbsp": 18
+    }
+  },
+  "white onion": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.3,
+    "f": 0.1,
+    "g": {
+      "count": 150,
+      "g": 1
+    }
+  },
+  "white onions": {
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.3,
+    "f": 0.1,
+    "g": {
+      "count": 150
+    }
+  },
+  "white pepper": {
+    "kcal": 296,
+    "p": 10,
+    "c": 69,
+    "f": 2.1,
+    "g": {
+      "count": 0.1,
+      "tsp": 2.5
+    }
+  },
+  "white quinoa": {
+    "kcal": 368,
+    "p": 14,
+    "c": 64,
+    "f": 6,
+    "g": {
+      "cup": 170
+    }
+  },
+  "white urad lentils": {
+    "kcal": 341,
+    "p": 25,
+    "c": 59,
+    "f": 1.6,
+    "g": {
+      "cup": 200
+    }
+  },
+  "white vinegar": {
+    "kcal": 18,
+    "p": 0,
+    "c": 0.04,
+    "f": 0,
+    "g": {
+      "tbsp": 20
+    }
+  },
+  "white wine": {
+    "kcal": 82,
+    "p": 0.1,
+    "c": 2.6,
+    "f": 0,
+    "g": {
+      "cup": 250,
+      "ml": 1
+    }
+  },
+  "white wine vinegar": {
+    "kcal": 19,
+    "p": 0,
+    "c": 0.4,
+    "f": 0,
+    "g": {
+      "tsp": 5,
+      "cup": 250,
+      "tbsp": 20
+    }
+  },
+  "whole cumin seeds": {
+    "kcal": 375,
+    "p": 18,
+    "c": 44,
+    "f": 22,
+    "g": {
+      "tbsp": 6
+    }
+  },
+  "whole peeled tomatoes": {
+    "kcal": 20,
+    "p": 1,
+    "c": 4,
+    "f": 0.1,
+    "g": {
+      "tin": 400
+    }
+  },
+  "wholegrain basmati rice": {
+    "kcal": 350,
+    "p": 8,
+    "c": 75,
+    "f": 2.5,
+    "g": {
+      "cup": 190
+    }
+  },
+  "wholegrain dijon mustard": {
+    "kcal": 100,
+    "p": 6,
+    "c": 6,
+    "f": 6,
+    "g": {
+      "tbsp": 15
+    }
+  },
+  "wholegrain mustard": {
+    "kcal": 100,
+    "p": 6,
+    "c": 6,
+    "f": 6,
+    "g": {
+      "tbsp": 15
+    }
+  },
+  "wholemeal flour": {
+    "kcal": 340,
+    "p": 13,
+    "c": 61,
+    "f": 2.5,
+    "g": {
+      "cup": 120,
+      "tbsp": 8
+    }
+  },
+  "wholemeal pasta": {
+    "kcal": 350,
+    "p": 13,
+    "c": 66,
+    "f": 2.5,
+    "g": {
+      "g": 1
+    }
+  },
+  "wholemeal penne": {
+    "kcal": 350,
+    "p": 13,
+    "c": 66,
+    "f": 2.5,
+    "g": {
+      "packet": 500
+    }
+  },
+  "wholemeal spelt flour": {
+    "kcal": 338,
+    "p": 14.6,
+    "c": 70,
+    "f": 2.4,
+    "g": {
+      "g": 1,
+      "tbsp": 8
+    }
+  },
+  "wide rice noodles": {
+    "kcal": 360,
+    "p": 6,
+    "c": 83,
+    "f": 0.6,
+    "g": {
+      "g": 1
+    }
+  },
+  "wild mushrooms": {
+    "kcal": 25,
+    "p": 3,
+    "c": 3.5,
+    "f": 0.4,
+    "g": {
+      "count": 20,
+      "packet": 200,
+      "g": 1
+    }
+  },
+  "yellow capsicum": {
+    "kcal": 27,
+    "p": 1,
+    "c": 6.3,
+    "f": 0.2,
+    "g": {
+      "count": 200
+    }
+  },
+  "yellow cheese": {
+    "kcal": 350,
+    "p": 25,
+    "c": 1.3,
+    "f": 27,
+    "g": {
+      "g": 1
+    }
+  },
+  "yellow cherry tomatoes": {
+    "kcal": 18,
+    "p": 0.9,
+    "c": 3.9,
+    "f": 0.2,
+    "g": {
+      "count": 15
+    }
+  },
+  "yellow curry paste": {
+    "kcal": 130,
+    "p": 3,
+    "c": 15,
+    "f": 7,
+    "g": {
+      "tub": 100
+    },
+    "kit": {
+      "tub": 50
+    }
+  },
+  "yellow potatoes": {
+    "kcal": 77,
+    "p": 2,
+    "c": 17,
+    "f": 0.1,
+    "g": {
+      "kg": 1000
+    }
+  },
+  "yellow squash": {
+    "kcal": 16,
+    "p": 1.2,
+    "c": 3.4,
+    "f": 0.2,
+    "g": {
+      "packet": 300,
+      "bag": 400
+    },
+    "kit": {
+      "packet": 200,
+      "bag": 200
+    }
+  },
+  "yellow zucchini": {
+    "kcal": 17,
+    "p": 1.2,
+    "c": 3.1,
+    "f": 0.3,
+    "g": {
+      "count": 200
+    }
+  },
+  "young beet greens": {
+    "kcal": 22,
+    "p": 2.2,
+    "c": 4.3,
+    "f": 0.1,
+    "g": {
+      "cup": 40
+    }
+  },
+  "young broad bean pods": {
+    "kcal": 40,
+    "p": 3,
+    "c": 7,
+    "f": 0.3,
+    "g": {
+      "g": 1
+    }
+  },
+  "young chard leaves": {
+    "kcal": 19,
+    "p": 1.8,
+    "c": 3.7,
+    "f": 0.2,
+    "g": {
+      "count": 20
+    }
+  },
+  "za'atar": {
+    "kcal": 300,
+    "p": 10,
+    "c": 35,
+    "f": 15,
+    "g": {
+      "tbsp": 7,
+      "tsp": 2.3
+    }
+  },
+  "za'atar leaves": {
+    "kcal": 300,
+    "p": 10,
+    "c": 35,
+    "f": 15,
+    "g": {
+      "tbsp": 4
+    }
+  },
+  "zucchini": {
+    "kcal": 17,
+    "p": 1.2,
+    "c": 3.1,
+    "f": 0.3,
+    "g": {
+      "count": 200,
+      "g": 1,
+      "cup": 125
+    }
+  },
+  "zucchini flowers": {
+    "kcal": 15,
+    "p": 1,
+    "c": 2.5,
+    "f": 0.2,
+    "g": {
+      "count": 10
+    }
+  }
+}

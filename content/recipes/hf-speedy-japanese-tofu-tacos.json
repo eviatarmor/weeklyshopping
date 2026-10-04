@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/japanese-tofu-tacos-bea32b98.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 751,
+    "proteinG": 21.4,
+    "carbsG": 85.8,
+    "fatG": 37.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -88,8 +95,8 @@
       "name": "Japanese Dressing",
       "qty": 1,
       "unit": "tub",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png",
-      "blend": "japanese-dressing"
+      "blend": "japanese-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png"
     },
     {
       "name": "Crispy Shallots",

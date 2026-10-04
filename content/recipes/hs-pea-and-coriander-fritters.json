@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/pea-fritters-1140x641-1576676083.jpg",
   "servings": 4,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 231,
+    "proteinG": 12.1,
+    "carbsG": 23.2,
+    "fatG": 9.2,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "fritters",

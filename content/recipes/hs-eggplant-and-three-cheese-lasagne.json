@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/06/aeg9145_eggplant_lasanga-e1592907834324-1140x641-1592908178.jpg",
   "servings": 6,
   "prepMinutes": 110,
+  "nutrition": {
+    "kcal": 637,
+    "proteinG": 26.9,
+    "carbsG": 59.4,
+    "fatG": 34,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "lasagne",

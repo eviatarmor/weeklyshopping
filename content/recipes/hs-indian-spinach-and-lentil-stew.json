@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/08/double-2-1-1140x641-1566154122.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 362,
+    "proteinG": 19.6,
+    "carbsG": 41.5,
+    "fatG": 14.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "indian",

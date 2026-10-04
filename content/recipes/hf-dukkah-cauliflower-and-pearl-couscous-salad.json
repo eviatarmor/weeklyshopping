@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/dukkah-cauliflower-roast-veggie-couscous-salad-789df230.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 745,
+    "proteinG": 24.7,
+    "carbsG": 112.4,
+    "fatG": 23.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

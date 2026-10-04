@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pesto-mushroom-parmesan-gnocchi-24c1446f.jpg",
   "servings": 2,
   "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 806,
+    "proteinG": 21.7,
+    "carbsG": 105.7,
+    "fatG": 34.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

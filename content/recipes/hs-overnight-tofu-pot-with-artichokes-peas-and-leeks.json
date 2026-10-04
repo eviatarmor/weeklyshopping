@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/01/Dor-Kedmi-hashulchan-1-1-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 520,
+  "nutrition": {
+    "kcal": 507,
+    "proteinG": 26,
+    "carbsG": 62.6,
+    "fatG": 19.1,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

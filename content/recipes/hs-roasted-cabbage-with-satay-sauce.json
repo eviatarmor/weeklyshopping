@@ -7,6 +7,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/08/asian-kruv-satai_830-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 55,
+  "nutrition": {
+    "kcal": 426,
+    "proteinG": 7.4,
+    "carbsG": 23.3,
+    "fatG": 36.4,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

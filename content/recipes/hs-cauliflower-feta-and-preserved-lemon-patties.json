@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/11/DOR9299-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 21.7,
+    "carbsG": 44.1,
+    "fatG": 30.7,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "patties",

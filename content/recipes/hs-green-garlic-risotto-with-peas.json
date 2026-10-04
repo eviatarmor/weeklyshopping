@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/08/rissotto-1140x641-1597915559.jpg",
   "servings": 4,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 522,
+    "proteinG": 10,
+    "carbsG": 74,
+    "fatG": 16,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "risotto",

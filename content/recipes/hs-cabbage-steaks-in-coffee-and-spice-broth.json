@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/12/ha-shulhan0327-e1640609817454-1140x641-1640609926.jpg",
   "servings": 4,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 623,
+    "proteinG": 12.8,
+    "carbsG": 51.8,
+    "fatG": 43.1,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "cabbage",

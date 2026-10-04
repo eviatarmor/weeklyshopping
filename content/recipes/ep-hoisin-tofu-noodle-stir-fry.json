@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/hoisin-tofu-noodle-stir-fry-90cbbd4a.jpg",
   "servings": 2,
   "prepMinutes": 25,
+  "nutrition": {
+    "kcal": 604,
+    "proteinG": 31.1,
+    "carbsG": 61.3,
+    "fatG": 27.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "everyplate",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/humus-with-rice_090-1140x641-1624279660.jpg",
   "servings": 4,
   "prepMinutes": 55,
+  "nutrition": {
+    "kcal": 509,
+    "proteinG": 13.5,
+    "carbsG": 67.9,
+    "fatG": 22.4,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "rice",

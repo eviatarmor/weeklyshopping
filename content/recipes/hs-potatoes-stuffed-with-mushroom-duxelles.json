@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-86-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 60,
+  "nutrition": {
+    "kcal": 493,
+    "proteinG": 12.9,
+    "carbsG": 45.9,
+    "fatG": 30.4,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "potato",

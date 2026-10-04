@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/ftc-falafel-lemony-couscous-4360a022.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 898,
+    "proteinG": 32.2,
+    "carbsG": 126.8,
+    "fatG": 31.3,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

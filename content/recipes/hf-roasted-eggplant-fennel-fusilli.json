@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/roasted-eggplant-fennel-fusilli-5d1346ae.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 796,
+    "proteinG": 24.4,
+    "carbsG": 111.5,
+    "fatG": 29.8,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh"

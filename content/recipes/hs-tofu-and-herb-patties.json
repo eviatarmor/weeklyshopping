@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/06/kzizot_tufo-rotated-1140x641-1655797573.jpg",
   "servings": 6,
   "prepMinutes": 80,
+  "nutrition": {
+    "kcal": 517,
+    "proteinG": 29,
+    "carbsG": 19.8,
+    "fatG": 37.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5ef2ea11c6c4f5606b573c84-83507897.jpg",
   "servings": 2,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 663,
+    "proteinG": 21.9,
+    "carbsG": 102.3,
+    "fatG": 21.3,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",
@@ -54,8 +61,8 @@
       "name": "Bengal Curry Paste",
       "qty": 0.5,
       "unit": "packet",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56de2bfb4dab715c428b4569-a466620b.png",
-      "blend": "bengal-curry-paste"
+      "blend": "bengal-curry-paste",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/56de2bfb4dab715c428b4569-a466620b.png"
     },
     {
       "name": "Mumbai Spice Blend",

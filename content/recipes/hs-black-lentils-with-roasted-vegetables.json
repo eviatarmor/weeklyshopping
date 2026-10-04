@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/01/aeg4846-e1580202111299-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 665,
+    "proteinG": 22.2,
+    "carbsG": 58.6,
+    "fatG": 40,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "lentils",

@@ -7,6 +7,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-197-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 233,
+    "proteinG": 10.2,
+    "carbsG": 28.2,
+    "fatG": 8.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "burger",

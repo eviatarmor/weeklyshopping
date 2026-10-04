@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/mexican-black-bean-chilli-rice-0d19ec65.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 811,
+    "proteinG": 25.1,
+    "carbsG": 121.3,
+    "fatG": 27.2,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "everyplate",

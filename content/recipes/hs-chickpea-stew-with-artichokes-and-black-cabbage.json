@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/09/Al-Hashulchan-00187-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 100,
+  "nutrition": {
+    "kcal": 885,
+    "proteinG": 30.8,
+    "carbsG": 85.4,
+    "fatG": 50.8,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "stew",

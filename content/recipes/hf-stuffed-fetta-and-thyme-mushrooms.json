@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/stuffed-fetta-thyme-mushrooms-67c00820.jpg",
   "servings": 2,
   "prepMinutes": 35,
+  "nutrition": {
+    "kcal": 409,
+    "proteinG": 12,
+    "carbsG": 32.8,
+    "fatG": 27.6,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

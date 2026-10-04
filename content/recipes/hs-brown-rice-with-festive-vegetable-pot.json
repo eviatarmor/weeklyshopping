@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/03/OrezMale-e1584003074324-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 210,
+  "nutrition": {
+    "kcal": 638,
+    "proteinG": 10.8,
+    "carbsG": 83.5,
+    "fatG": 30.7,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

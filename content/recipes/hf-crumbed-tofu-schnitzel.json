@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5ec4d0926dd2e57d92677e52-50826200.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 763,
+    "proteinG": 25.4,
+    "carbsG": 88.4,
+    "fatG": 35.5,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh"
@@ -57,8 +64,8 @@
       "name": "Japanese Dressing",
       "qty": 1,
       "unit": "tub",
-      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png",
-      "blend": "japanese-dressing"
+      "blend": "japanese-dressing",
+      "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_200/hellofresh_s3/ingredient/5aa5dc98ae08b507e21b13e2-e35a259a.png"
     },
     {
       "name": "Plain Flour",

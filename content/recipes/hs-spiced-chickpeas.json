@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2020/12/shutterstock_1238593795-1140x641-1623924385.jpg",
   "servings": 4,
   "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 374,
+    "proteinG": 15.3,
+    "carbsG": 47,
+    "fatG": 15,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "chickpeas",

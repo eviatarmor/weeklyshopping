@@ -8,6 +8,13 @@
   "imageUrl": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/southeast-asian-roast-veggie-curry-a9070c45.jpg",
   "servings": 2,
   "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 1081,
+    "proteinG": 24.7,
+    "carbsG": 152.4,
+    "fatG": 45.8,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hellofresh",

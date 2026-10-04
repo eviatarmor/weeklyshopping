@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-183-1140x641.jpg",
   "servings": 6,
   "prepMinutes": 75,
+  "nutrition": {
+    "kcal": 360,
+    "proteinG": 8.6,
+    "carbsG": 64.8,
+    "fatG": 7.6,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "biryani",

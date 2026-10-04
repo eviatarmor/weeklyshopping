@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/11/sate-00077-e1579705685223-1140x641-1579705721.jpg",
   "servings": 8,
   "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 645,
+    "proteinG": 17.3,
+    "carbsG": 33.6,
+    "fatG": 48.8,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "bake",

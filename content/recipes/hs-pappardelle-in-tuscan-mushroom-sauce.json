@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/mushroom2-1140x641-1590475384.jpg",
   "servings": 4,
   "prepMinutes": 45,
+  "nutrition": {
+    "kcal": 800,
+    "proteinG": 30.2,
+    "carbsG": 97.6,
+    "fatG": 32.1,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pasta",

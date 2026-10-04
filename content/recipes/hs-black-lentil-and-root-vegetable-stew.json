@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/Rinat_Tzadok_003.jpg-1140x641-1542992867.png",
   "servings": 6,
   "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 424,
+    "proteinG": 20.9,
+    "carbsG": 58.1,
+    "fatG": 13.3,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",

@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2017/05/pizzabia_830-1140x641.jpg",
   "servings": 4,
   "prepMinutes": 100,
+  "nutrition": {
+    "kcal": 1006,
+    "proteinG": 45.3,
+    "carbsG": 107.7,
+    "fatG": 44.5,
+    "estimated": true
+  },
   "tags": [
     "hashulchan",
     "pizza",

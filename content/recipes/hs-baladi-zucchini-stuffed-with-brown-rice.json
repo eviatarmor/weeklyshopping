@@ -8,6 +8,13 @@
   "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2021/07/memlaim_meirav_6_n-1140x641-1626264415.jpg",
   "servings": 6,
   "prepMinutes": 180,
+  "nutrition": {
+    "kcal": 388,
+    "proteinG": 11.9,
+    "carbsG": 77.6,
+    "fatG": 6.3,
+    "estimated": true
+  },
   "tags": [
     "vegetarian",
     "hashulchan",
