@@ -1,0 +1,119 @@
+{
+  "slug": "dn-crispy-peanut-tofu-and-noodles-with-capsicum-and-spring-onion",
+  "kind": "meal",
+  "title": "Crispy Peanut Tofu and Noodles",
+  "subtitle": "with Capsicum and Spring Onion",
+  "description": "It’s plant power all the way with our super-tasty vegan dishes! Our meat-free, dairy-free, honey-free dishes are amped with plant-based proteins, fresh produce, nuts and seeds. Best of all, they’re for everyone, whether you’re vegan, vegetarian or flexitarian.",
+  "sourceUrl": "https://dinnerly.com.au/menu/702469-crispy-peanut-tofu-and-noodles-with-capsicum-and-spring-onion",
+  "imageUrl": "https://marleyspoon.com/media/recipes/380764/main_photos/large/crunchy_sweet_chilli_tofu_and_noodles-25b6e359d262922f53c937ca88c5931f.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 765,
+    "proteinG": 28.1,
+    "carbsG": 100.9,
+    "fatG": 25
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Chinese Barbecue Seasoning",
+      "qty": 2,
+      "blend": "asian-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70729/photos/medium/seasoning_chinese_barbecue_5g_ms-dbffc271e2e68bff38b736a1e279d7c3.jpeg"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 1,
+      "unit": "packet",
+      "product": "kecap-manis",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70851/photos/medium/ing_kecap_manis-f06ee546719aa5901a24a885565ede77.jpg"
+    },
+    {
+      "name": "Udon Noodles",
+      "qty": 180,
+      "unit": "g",
+      "product": "udon-noodles",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71047/photos/medium/noodles_udon_180g-51bc1d97cbbd55a6d1a6e78ac44c952a.jpeg"
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of water to the boil for the noodles. Thinly slice the capsicum and spring onion (see Make it yours). Crush or finely chop 2 garlic cloves. Cut the tofu into triangles. Combine the garlic, Chinese barbecue seasoning, kecap manis and 2 tsp white vinegar in a bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4125321/photos/large/134023_1-42ba1e591096bfb584c05b8b6d4d185f.jpeg"
+    },
+    {
+      "text": "Cook udon noodles: Cook the noodles in the pan of boiling water for 8 mins or until tender. Drain, then rinse under cold water to prevent the noodles from sticking.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4125324/photos/large/134023_2-07a5727c7fd878ec97c77077491c376d.jpeg"
+    },
+    {
+      "text": "Warm tofu: Meanwhile, put the tofu and 1 tbs plain flour in a bowl, season with salt and pepper and toss to coat. Heat 1 tbs vegetable oil in a medium deep frypan over medium-high heat. Cook the tofu, turning regularly, for 3-4 mins until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4125326/photos/large/134023_3-dc4e6a6e6c298acedf3ef90e7a373797.jpeg"
+    },
+    {
+      "text": "Stir-fry capsicum: Heat 2 tsp vegetable oil in the same pan over medium-high heat. Stir-fry the capsicum for 3-4 mins until softened. Add the noodles and kecap manis mixture and stir-fry for 2 mins or until the sauce is thickened and the noodles are warmed through. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4125327/photos/large/134023_4-97b4ab7af30607a3dc3e2c03c870bcf1.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the noodle mixture and tofu among bowls, scatter over the spring onion and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4125328/photos/large/134023_5-144f5acc358652136a02f62087b5152f.jpeg"
+    },
+    {
+      "text": "Make it yours: Empty out the crisper drawer and boost your veggies by adding whatever you have on hand. Broccoli, mushrooms, carrot or beans would all work well. Simply slice or chop, then stir-fry with the capsicum in Step 4.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4125329/photos/large/134023_6-1e0ecc0e5c3a6ef6787e9c3590b879d6.jpeg"
+    }
+  ]
+}

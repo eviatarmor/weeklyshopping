@@ -1,0 +1,135 @@
+{
+  "slug": "dn-balanced-tofu-buddha-bowl-with-brown-rice-and-avocado",
+  "kind": "meal",
+  "title": "Balanced Tofu Buddha Bowl",
+  "subtitle": "with Brown Rice and Avocado",
+  "description": "Our 'balanced' recipes are just that – high in nutritive value (that's fibre-rich veggies, lean proteins and wholegrains, just between us), so these dishes are good for you in every which way! They're perfect for anyone looking to minimise their intake of refined foods without sacrificing on taste.",
+  "sourceUrl": "https://dinnerly.com.au/menu/718513-balanced-tofu-buddha-bowl-with-brown-rice-and-avocado",
+  "imageUrl": "https://marleyspoon.com/media/recipes/387353/main_photos/large/balanced_tofu_buddha_bowl-27fa45cf3cb8b757105147cc17381317.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 695,
+    "proteinG": 25.3,
+    "carbsG": 60.6,
+    "fatG": 36.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly",
+    "nutritious",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70667/photos/medium/rice_brown_125g_ms-bb2b40f31e627b853d57fde2dd7b6559.jpeg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36662/photos/medium/ing_avocado-256dcb7b22e9a750995f0af810284915.jpg"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70693/photos/medium/nuts_peanuts_salted_roasted_20g_ms-236a35bb8324f165d7cbe175c6a435df.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Check your avocado is ripe before starting this recipe (see Cooking tip). Fill a medium saucepan three-quarters full with water and bring to the boil (see Kitchen 101). Add the rice and cook for 25-27 mins until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4221654/photos/large/prep_ingredients-889b0b94ef54eefacf1d1dcaf241a9b5.jpeg"
+    },
+    {
+      "text": "Pickle carrot: Meanwhile, shred the carrot using a julienne peeler or coarsely grate with a box grater. Combine 1 tbs white vinegar and 1 tsp sugar in a large bowl. Add the carrot and toss to combine. Set aside to pickle, tossing occasionally, until needed.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4221655/photos/large/pickle_vegies-83c6c2b3fd88e9fdf1d00859976c66bf.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Cut the tofu into 2cm chunks. Slice the avocado. Coarsely chop the peanuts. Crush or finely chop 1 garlic clove. Pick the coriander leaves, discarding the stems.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4221656/photos/large/warm_tofu-d435dcb4d9b9a07a19ed26ff2eb145b1.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat 2 tsp vegetable oil in a medium frypan over medium heat. Cook the tofu and garlic, stirring, for 3-4 mins until the tofu is golden and warmed through. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4221657/photos/large/make_dressing-bac0b39811be1620ee7b9941713968e0.jpeg"
+    },
+    {
+      "text": "Serve up: Drain the carrot, reserving 2 tsp pickling liquid. Combine 1 tbs mayonnaise, 1 tsp soy sauce and the reserved pickling liquid in a bowl. Divide the rice among bowls. Top with the tofu, avocado, pickled carrot and coriander. Scatter over the peanuts and drizzle with the mayo dressing. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4221658/photos/large/serve_up-fb22644025bef92cb05a200b340e6eb8.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Did you know brown rice cooks best by rapidly boiling in plenty of water? Using the absorption method (boiling with less water and then allowing it to absorb) can make it gluggy, so make sure to fill the pan generously with water, then drain well once the rice is tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4221659/photos/large/kitchen_101-c589bbae8d7092dc23771c27ce08793a.jpeg"
+    }
+  ]
+}

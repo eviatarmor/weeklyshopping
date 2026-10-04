@@ -1,0 +1,108 @@
+{
+  "slug": "dn-indian-veggie-pizzas-with-garlic-yoghurt",
+  "kind": "meal",
+  "title": "Indian Veggie Pizzas",
+  "subtitle": "with Garlic Yoghurt",
+  "description": "Indian pizza - it that a thing? Try these fat naan bases loaded with masala chickpeas, juicy cherry tomatoes and garlicky yoghurt, and you'll totally get it.",
+  "sourceUrl": "https://dinnerly.com.au/menu/18457-indian-veggie-pizzas-with-garlic-yoghurt",
+  "imageUrl": "https://marleyspoon.com/media/recipes/18457/main_photos/large/DID00148HERO_IndianVeggiePizzas_01-9c7aa28058ecb5f0858cf70bbfdfa2f4.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 730,
+    "proteinG": 26,
+    "carbsG": 87.9,
+    "fatG": 25.7
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Naan Breads",
+      "qty": 2,
+      "product": "naan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35804/photos/medium/ing_naan_bread-59ce24385791d83c3809432bb116209a.jpg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 150,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31698/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 250,
+      "unit": "g",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34473/photos/medium/ing_tomates_cherry-16f4b52c7d4fef061248e2e523d718e7.jpg"
+    },
+    {
+      "name": "Masala Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70738/photos/medium/seasoning_indian_masala_mild_10g_ms-b0271f635040ac6b6d533bbdb1511018.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt and Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C. Line a oven tray with baking paper. Crush or finely chop 1 garlic clove. Halve the cherry tomatoes. Rinse and drain the chickpeas.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/68694/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Make topping: Put the chickpeas, 1 tbs Indian masala spice blend (see cooking tip), half the yoghurt and half the garlic in a bowl, season with salt and pepper and stir well to coat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/68695/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Make garlic yoghurt: Combine the remaining yoghurt and garlic in a separate bowl, season with salt and pepper, then spread over the naan, leaving a 2cm border. Reserve any remainder to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/68696/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Bake pizzas: Transfer the naan to the lined tray and top with the chickpea mixture and tomatoes. Drizzle with 2 tsp olive oil and season with salt and pepper. Bake for 10 mins or until the bases are golden and the tomatoes are soft.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/68697/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Meanwhile, put the spinach in a medium frypan over medium heat and stir-fry for 1-2 mins until wilted. Top the pizzas with the wilted spinach, dollop over any remaining garlic yoghurt and season with salt and pepper to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/68698/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Kitchen hack: To make your yoghurt a drizzling consistency, add a little cold water and stir to combine. For a nice crisp pizza base, put the oven tray in the oven while preheating, then put the uncooked pizzas on the hot tray.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/68699/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

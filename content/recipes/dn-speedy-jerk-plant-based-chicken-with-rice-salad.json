@@ -1,0 +1,117 @@
+{
+  "slug": "dn-speedy-jerk-plant-based-chicken-with-rice-salad",
+  "kind": "meal",
+  "title": "Speedy Jerk Plant-Based 'Chicken'",
+  "subtitle": "with Rice Salad",
+  "description": "Five easy steps, minimal pans and prep… we cut the fluff but not the flavour in our speedy recipes. In just 20 minutes, you’ll have this masterpiece on the table and be crowned in glory too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/363711-speedy-jerk-plant-based-chicken-with-rice-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/363711/main_photos/large/super_fast_jerk_plant_based_chicken-4b5a29ea5d7c80b313e9aa0b74398967.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 505,
+    "proteinG": 25.6,
+    "carbsG": 47.5,
+    "fatG": 29.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Caribbean Seasoning",
+      "qty": 2,
+      "blend": "jerk-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70724/photos/medium/seasoning_caribbean_5g_ms-6b39f63e5574d03046aa3c8863e367af.jpeg"
+    },
+    {
+      "name": "Plant-Based Chicken-Style Strips",
+      "qty": 200,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70556/photos/medium/plant_based_chicken_strips_200g-990ccb15ae8fd272e13c268dfd89e286.jpeg"
+    },
+    {
+      "name": "Microwave Basmati Rice",
+      "qty": 250,
+      "unit": "g",
+      "product": "basmati-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70878/photos/medium/rice_microwave_basmati_rice_250g-45591a84e6ede8d2e134b080fba92adf.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White or Red Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Coarsely chop the onion (see Kitchen notes) and tomato. Thinly slice the cucumber.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2092600/photos/large/248933_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Cook chicken-style strips: Combine 2 tsp Caribbean seasoning and a generous drizzle of olive oil in a large bowl and season with salt and pepper. Add the chicken-style strips and toss to coat. Heat a medium frypan over medium-high heat. Cook the chicken-style strips, stirring occasionally, for 3-4 mins until browned and warmed through. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2092601/photos/large/248933_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Microwave rice: Meanwhile, massage the packet of rice to loosen and tear a 2cm opening for the steam to escape. Heat in the microwave for 90 secs or until warmed through (see Cooking tip).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2092602/photos/large/248933_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Make rice salad: Put the remaining Caribbean seasoning, 1 tbs white wine vinegar and 1 tsp sugar in a large bowl. Season with salt and pepper and stir until the sugar dissolves. Add the onion, tomato, cucumber and rice and toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2092603/photos/large/248933_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Combine 2 tbs vegan mayonnaise (see Kitchen notes) and 2 tsp water in a bowl. Divide the rice salad among bowls and top with the chicken-style strips. Dollop with the vegan mayo and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2092604/photos/large/248933_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Kitchen notes: Raw onion can have a strong taste when chunky. If you prefer a milder flavour, slice it very thinly, then soak in salted cold water for 5 mins. Alternatively, cook the onion with the chicken-style strips in Step 2. ~ If you aren't following a vegan diet, use whatever mayonnaise you have on hand.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2092605/photos/large/248933_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "dn-zucchini-pasta-and-lemon-crumbs-budget-busting-tummy-fillers",
+  "kind": "meal",
+  "title": "Zucchini Pasta and Lemon Crumbs",
+  "subtitle": "Budget-Busting Tummy Fillers!",
+  "description": "Filling, tried-and-true flavours, and even more budget-friendly than our core menu – that’s our Thrifty Feed recipes! These classic dishes are perfect for when you want to put tasty, honest-to-goodness food on the table, and enjoy even more savings to boot.",
+  "sourceUrl": "https://dinnerly.com.au/menu/504432-zucchini-pasta-and-lemon-crumbs-budget-busting-tummy-fillers",
+  "imageUrl": "https://marleyspoon.com/media/recipes/504432/main_photos/large/thrifty-6a4bd6e36d2f4991845312c1c28d96c3.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 675,
+    "proteinG": 22.9,
+    "carbsG": 86.8,
+    "fatG": 23.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32394/photos/medium/ing_zucchini-83c81bdb81a19f7c2cefcc32f0631213.jpg"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31745/photos/medium/ing_lemon-bb4851a6b388b32d5bd77badeb832a9a.jpg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70659/photos/medium/panko_breadcrumbs_40g_ms-63446b3601a828a75edc9bf225674fc6.jpeg"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 250,
+      "unit": "g",
+      "product": "spaghetti",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32776/photos/medium/ing_spaghetti-e015cad043724667055d18db6624ba82.jpg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Italian Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70741/photos/medium/seasoning_italian_10g_ms-ef0e060567654b160f5754a80898ba94.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the spaghetti. Cut the zucchini into 1cm-thick rounds. Finely grate the zest of half the lemon, then juice the half. Cut the remaining lemon into wedges. Finely grate the parmesan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2936901/photos/large/204783_1-b1c5e37746558fb32d6365615b7107b1.jpeg"
+    },
+    {
+      "text": "Make lemon crumbs: Heat 2 tsp olive oil in a large deep frypan over medium-high heat. Cook the breadcrumbs, stirring, for 3-4 mins until golden. Transfer to a bowl, add the lemon zest, season with salt and pepper and stir to combine. Reserve the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2936903/photos/large/204783_2-eff74cd9a52bd4068ae019780ec38fd1.jpeg"
+    },
+    {
+      "text": "Cook pasta: Add three-quarters of the spaghetti (see Did you know?) to the pan of boiling water and cook, stirring occasionally, for 12 mins or until al dente. Reserve 125ml (½ cup) cooking water, then drain. Crumble 1 stock cube into the reserved cooking water and stir to dissolve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2936905/photos/large/204783_3-ee2f2fca2bb21867f174c18a9378803b.jpeg"
+    },
+    {
+      "text": "Cook zucchini: Meanwhile, heat 1 tbs olive oil in the reserved pan over medium-high heat. Cook the zucchini for 5-6 mins each side until browned and tender. Reduce the heat to medium. Add the Italian seasoning and stock, then coarsely mash the zucchini. Cook, stirring, for 1-2 mins until slightly thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2936908/photos/large/204783_4-360611768673f5fe9cb738ead69b170c.jpeg"
+    },
+    {
+      "text": "Serve up: Add the spaghetti to the zucchini mixture and toss to combine. Remove the pan from the heat. Stir in three-quarters of the parmesan and 2 tsp lemon juice. Taste, then season with salt and pepper. Divide the zucchini pasta among bowls, then scatter with the lemon crumbs and remaining parmesan. Serve with the lemon wedges and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2936910/photos/large/204783_5-580eed810715f4378e5fd5973480d88b.jpeg"
+    },
+    {
+      "text": "Did you know?: Wondering why we only suggest using three-quarters of the spaghetti? All our recipes are approved by our nutritionist who is guided by the Australian Guide to Healthy Eating, ensuring you get a meal that's both nutritious and delicious! This recipe makes the perfect portion of sauce for this amount of spaghetti.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2936912/photos/large/204783_6-442a290bb7b910768585b77f3b3d888a.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "dn-grilled-summer-peach-eton-mess-with-toasted-pistachios-and-yoghurt",
+  "kind": "meal",
+  "title": "Grilled Summer Peach Eton Mess",
+  "subtitle": "with Toasted Pistachios and Yoghurt",
+  "description": "Celebrate the festive season with this special Christmas dessert. With sweet grilled peaches, ready-made meringues and yoghurt cream layered into glasses with toasted pistachios, it couldn't be easier – or more delicious!",
+  "sourceUrl": "https://dinnerly.com.au/menu/40132-grilled-summer-peach-eton-mess-with-toasted-pistachios-and-yoghurt",
+  "imageUrl": "https://marleyspoon.com/media/recipes/40132/main_photos/large/grilled_summer_peach_eton_mess-8b904d0a4a3b1f9573218776e56ac9c9.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 460,
+    "proteinG": 8.5,
+    "carbsG": 59.8,
+    "fatG": 20.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "qty": 2,
+      "product": "peach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34902/photos/medium/ing_peach_yellow-00518e0e6a5af9c15ee568a3134b5a24.jpg"
+    },
+    {
+      "name": "Maple Syrup",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "maple-syrup",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36779/photos/medium/ing_syrup_maple-c29963a503d6ad6665217dbdf925823f.jpg"
+    },
+    {
+      "name": "Vanilla Paste",
+      "qty": 5,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40718/photos/medium/vanilla_paste_heilali_5g_sachet_5g-4b799beaf74c98c7f1d0f8e2a31578a7.jpeg"
+    },
+    {
+      "name": "Cooking Cream",
+      "qty": 300,
+      "unit": "ml",
+      "product": "cooking-cream",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70395/photos/medium/cream_uht_250ml-47c02061fdac2e927b2eeba458cdeeb4.jpeg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31758/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Pistachios",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pistachios",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70696/photos/medium/nuts_pistachios_20g_ms-0ba35d3df073df03c3999340c2d4cd13.jpeg"
+    },
+    {
+      "name": "Meringues",
+      "qty": 50,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40605/photos/medium/meringues_2x25g_disc_adora_50g-27827782a296af7cdec21849fe3126e3.jpeg"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grill peaches: Preheat the grill to medium. Line an oven tray with baking paper. Halve the peaches, remove the stones, then put, cut side up, on the lined tray. Brush the cut sides with half the maple syrup, then grill for 10-12 mins until tender and golden. Remove from the grill and cool. Switch to oven mode and preheat to 200C.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/158592/photos/large/grill_peaches-c81d8f976c487adf5316a74a7ccd58de.jpeg"
+    },
+    {
+      "text": "Whip cream: Meanwhile, put the vanilla paste, half the cream and 1 tbs sugar in a bowl. Whip the cream until slightly thickened, then gently fold the yoghurt into the cream.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/158593/photos/large/whip_cream-266d58834660bee132443aace200f535.jpeg"
+    },
+    {
+      "text": "Toast pistachios: Put the pistachios on an oven tray and toast in the oven for 3-5 mins until golden. Cool, then roughly chop.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/158594/photos/large/toast_pistachios-7a2f2950a6564d29aad7bd9f976e5880.jpeg"
+    },
+    {
+      "text": "Assemble dessert: Carefully break the meringues into large bite-size pieces. Cut the peaches into thin wedges. Layer the meringue, peaches, yoghurt cream and remaining maple syrup into 300ml glasses or serving bowls.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/158595/photos/large/assemble_dessert-df0da231f302db697e3dd4eaf6e2f7a2.jpeg"
+    },
+    {
+      "text": "Serve up: Scatter the pistachios over the Eton mess and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/158596/photos/large/serve_up-1639a2360833e68f4a2a583acc13f331.jpeg"
+    },
+    {
+      "text": "Did you know?: The recipe for Eton mess is believed to have originated from Eton College in England during the late 19th century. It was to be served at a cricket match but was dropped on the floor. Rather than waste the food, it was simply scooped up and served to guests in individual bowls. We don't suggest you drop the dessert, but you can be creative with how you serve it!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/158597/photos/large/make_it_yours-1d516c3cff66844d22b3408e6a3f5376.jpeg"
+    }
+  ]
+}

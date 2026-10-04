@@ -1,0 +1,129 @@
+{
+  "slug": "dn-middle-eastern-veggie-soup-cook-once-serve-more",
+  "kind": "meal",
+  "title": "Middle Eastern Veggie Soup",
+  "subtitle": "Cook Once, Serve More!",
+  "description": "Serve up more with our Feed A Crowd recipes! Using more hearty ingredients like filling carbs, proteins and veggies, you can satisfy extra hungry tummies or keep something for tomorrow’s lunch. If you’re on a 2-person plan, these recipes make 4 portions; on a 4-person plan, they make 8 portions.",
+  "sourceUrl": "https://dinnerly.com.au/menu/514456-middle-eastern-veggie-soup-cook-once-serve-more",
+  "imageUrl": "https://marleyspoon.com/media/recipes/514456/main_photos/large/feed-d6abb9ea54710b71680c8311789a9648.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 400,
+    "proteinG": 13.9,
+    "carbsG": 47.2,
+    "fatG": 13.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Celery Stalks",
+      "qty": 3,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34068/photos/medium/ing_celery-a141d756a8aa3437b55409a79f201eec.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 760,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71386/photos/medium/tetra_chickpeas_380g-97bfc7d58e6a0714309024e6eb18399e.jpeg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Moroccan Seasoning",
+      "qty": 2,
+      "blend": "mild-moroccan-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70759/photos/medium/seasoning_moroccan_10g_ms-6e8002c7f2ef53567cdf1a57ffedd51b.jpeg"
+    },
+    {
+      "name": "Tomato Passata",
+      "qty": 400,
+      "unit": "g",
+      "product": "tomato-passata",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70359/photos/medium/tomatoes_passata_200g-042eb073d040503d15606857bf2bc693.jpeg"
+    },
+    {
+      "name": "Wholemeal Rolls",
+      "qty": 4,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/39080/photos/medium/bread_gourmet_wholemeal_mini_roll_30093_2_pack_80g-414f4d648425b906f68dd855c8c826bc.jpeg"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 500,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 180C, fan-forced. Quarter the carrots lengthwise and thinly slice. Thinly slice the celery. Crush or finely chop 2 garlic cloves. Drain and rinse the chickpeas. Crumble the stock cubes into a heatproof jug, add 500ml (2 cups) boiling water and stir to dissolve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2997052/photos/large/62661_1-0fd7debf8acd9e09029d3a4231eddbcd.jpeg"
+    },
+    {
+      "text": "Start soup: Heat 2 tbs olive oil in a large saucepan over medium heat. Add the carrot, celery and garlic and cook, stirring, for 3 mins or until starting to soften. Add the Moroccan seasoning (see Feed A Crowd) and 1 tbs plain flour and cook, stirring, for 1 min or until fragrant and golden.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2997053/photos/large/62661_2-bd701359f1d33bbd9adee5a1cc23e4d0.jpeg"
+    },
+    {
+      "text": "Simmer soup: Add the chickpeas, tomato passata, stock, 500ml (2 cups) water and 1 tbs honey to the veggie mixture and stir to combine. Bring to the boil, then reduce the heat to medium-low and cook, covered, for 15 mins or until the soup is slightly thickened and the veggies are tender. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2997054/photos/large/62661_3-19de0cb9861fa41f12b1f4f0ff80486e.jpeg"
+    },
+    {
+      "text": "Warm rolls: Meanwhile, put the rolls on an oven tray and bake for 5 mins or until warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2997055/photos/large/62661_4-affd81c79702c0507c129d077bd1e465.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the soup among bowls. Serve with the warm rolls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2997056/photos/large/62661_5-44af7d87997439dfa85d7871cdbe2dfa.jpeg"
+    },
+    {
+      "text": "Feed A Crowd: Our Moroccan seasoning has a mild chilli kick. If you aren't keen on too much chilli, adjust the amount to taste.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2997057/photos/large/62661_6-ad978d06ee93589e2ecdc963e9e61210.jpeg"
+    }
+  ]
+}

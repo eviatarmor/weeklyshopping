@@ -1,0 +1,106 @@
+{
+  "slug": "dn-super-fast-pumpkin-ravioli-no-chop-less-prep-fuss-free",
+  "kind": "meal",
+  "title": "Super Fast: Pumpkin Ravioli",
+  "subtitle": "No chop, less prep, fuss free!",
+  "description": "Looking for the trifecta of easy, quick and delicious? We've got you covered with tender ravioli in a simple red pesto sauce, plus salad leaves for freshness and hazelnuts for crunch.",
+  "sourceUrl": "https://dinnerly.com.au/menu/78659-super-fast-pumpkin-ravioli-no-chop-less-prep-fuss-free",
+  "imageUrl": "https://marleyspoon.com/media/recipes/78659/main_photos/large/super_fast_pumpkin_ravioli-f15cfd569e0eec435fb56a7b3d72b227.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 635,
+    "proteinG": 17.9,
+    "carbsG": 53.3,
+    "fatG": 39
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chicken-Style Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32254/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Red Pesto",
+      "qty": 50,
+      "unit": "g",
+      "product": "pesto",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70495/photos/medium/red_pesto_sachet_50g-59f509344e3bebb1c1709b3d685ca451.jpeg"
+    },
+    {
+      "name": "Pumpkin and Caramelised Onion Ravioli",
+      "qty": 325,
+      "unit": "g",
+      "product": "fresh-ravioli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70468/photos/medium/pasta_pumpkin_caramelised_onion_ravioli_lg_325g-097814aa3d077925fdc2857c83dc045c.jpeg"
+    },
+    {
+      "name": "Roasted Hazelnuts",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70687/photos/medium/nuts_hazelnuts_roasted_skinless_20g_ms-2ed8a2a9faa5ac8dd747eb8179d33851.jpeg"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70412/photos/medium/pp_mixed_salad_leaves_50g-92c69de34106c58c3bef32cb2cf4c0a1.jpeg"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 250,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a large saucepan of salted water to the boil for the ravioli. Crumble 1 stock cube into a heatproof jug, add 1 tbs tomato paste and 250ml (1 cup) boiling water and stir to dissolve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381891/photos/large/prep_ingredients-f83a0980987f54af7adbc16df82ae1b2.jpeg"
+    },
+    {
+      "text": "Make pesto sauce: Heat a generous drizzle of olive oil in a medium deep frypan over medium-high heat. Add the red pesto and cook, stirring, for 1 min or until fragrant. Add the tomato stock and bring to a simmer. Cook, stirring, for 3-4 mins until slightly thickened. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381892/photos/large/start_sauce-6d1bc7bc880299c493e0fca6f75eac26.jpeg"
+    },
+    {
+      "text": "Cook ravioli: Meanwhile, cook the ravioli in the pan of boiling water for 3 mins or until al dente. Drain, then immediately add to the sauce and gently stir to combine (see Kitchen 101). Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381893/photos/large/cook_sauce-4b6f0867f5dff0bc7c68dd251207e003.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the ravioli among bowls. Scatter over the hazelnuts and serve with the salad leaves (see Cooking tip). Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381894/photos/large/cook_ravioli-ce5e0187981408c2d01ba279aa5fb604.jpeg"
+    },
+    {
+      "text": "...: Were you expecting another step? You're not gonna find it here. You're all done!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381895/photos/large/serve_up-7d884efc120bfa73950d19ff52c7c61f.jpeg"
+    },
+    {
+      "text": "Kitchen 101: The big rounds of ravioli look robust, but they actually love to be handled with care. Be gentle when draining and handling the cooked ravioli to ensure they don't break.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381896/photos/large/kitchen_101-793db0a007524b0e34abb1d7d1128e71.jpeg"
+    }
+  ]
+}

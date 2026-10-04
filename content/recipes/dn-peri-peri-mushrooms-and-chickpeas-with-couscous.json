@@ -1,0 +1,132 @@
+{
+  "slug": "dn-peri-peri-mushrooms-and-chickpeas-with-couscous",
+  "kind": "meal",
+  "title": "Peri Peri Mushrooms and Chickpeas",
+  "subtitle": "with Couscous",
+  "description": "Mushrooms, tomatoes and chickpeas get a kick along here with a touch of peri peri spice. Served on easy-peasy to prepare couscous, it's a one-pan winner.",
+  "sourceUrl": "https://dinnerly.com.au/menu/35313-peri-peri-mushrooms-and-chickpeas-with-couscous",
+  "imageUrl": "https://marleyspoon.com/media/recipes/35313/main_photos/large/peri_peri_tomato_and_mushroom_chickpeas-c8caaf19c26c468f289d7903b772dea7.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 570,
+    "proteinG": 24.5,
+    "carbsG": 81.3,
+    "fatG": 10.7
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "qty": 375,
+      "unit": "g",
+      "product": "mushrooms",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35498/photos/medium/ing_mushrooms_portobello-c2d35d2e1ce1bbc53ff0b73469097a55.jpg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70647/photos/medium/grain_couscous_150g_ms-03bc468f163457504aaeb20c382bae08.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 390,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Peri Peri Spice Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70102/photos/medium/seasoning_smoked_peri_peri_5g_dn-bd53ed0efa64b497995e1764c0d1b439.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 180,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Cut the mushrooms into 1cm-thick slices. Trim the spring onion, then thinly slice. Thinly slice 1 garlic clove. Drain and rinse the chickpeas.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133584/photos/large/prep_ingredients-6cdca4925958c1d2fac2b5cb7dfda872.jpeg"
+    },
+    {
+      "text": "Cook couscous: Put the couscous in a large heatproof bowl, pour over 180ml (¾ cup) boiling water and cover with a plate. Stand for 5 mins or until the water is absorbed. Fluff the grains with a fork and season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133585/photos/large/cook_couscous-c6ec11dead3746199246cf09e017f16a.jpeg"
+    },
+    {
+      "text": "Brown mushrooms: Meanwhile, heat 3 tsp olive oil in a medium deep frypan over medium-high heat. Cook the mushrooms and garlic, stirring, for 3-4 mins until browned.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133586/photos/large/brown_mushrooms-ef25de1a9eceae9bd80fa63615648bb8.jpeg"
+    },
+    {
+      "text": "Simmer veggies: Add the chickpeas, tomatoes, 2 tsp peri peri seasoning, 60ml (¼ cup) water, 1 tbs tomato paste and 1 tsp sugar to the pan. Bring to the boil. Reduce the heat to medium and cook, stirring occasionally, for 10-12 mins until thickened. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133587/photos/large/simmer_dish-371761a97c062525441f6d7ef55db8b4.jpeg"
+    },
+    {
+      "text": "Serve up: Stir 1 tsp red wine vinegar and half the spring onion into the chickpea mixture. Taste, then season with salt and pepper. Divide the couscous and chickpea mixture among bowls. Scatter over the remaining spring onion and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133588/photos/large/finish_and_serve_up-6566b4c771d4e96daf6843db1229e8fe.jpeg"
+    },
+    {
+      "text": "Make it yours: Cool things down with a dollop of creamy Greek yoghurt, then scatter over some coriander leaves for a burst of freshness.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133589/photos/large/make_it_yours-f0553935fe6de8b7b2807cbbde011c9c.jpeg"
+    }
+  ]
+}

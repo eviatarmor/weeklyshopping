@@ -1,0 +1,105 @@
+{
+  "slug": "dn-smoky-vegan-tofu-pizza-with-capsicum-and-mayo-drizzle",
+  "kind": "meal",
+  "title": "Smoky Vegan Tofu Pizza",
+  "subtitle": "with Capsicum and Mayo Drizzle",
+  "description": "Hey speed freaks; sharpen a knife, tie your apron, brush off a chopping board, then GO! Our fast recipes are ready in 25 minutes or less, thanks to our hack-packed, fail-safe cooking steps. Did we mention ‘yumness guaranteed’?",
+  "sourceUrl": "https://dinnerly.com.au/menu/135799-smoky-vegan-tofu-pizza-with-capsicum-and-mayo-drizzle",
+  "imageUrl": "https://marleyspoon.com/media/recipes/135799/main_photos/large/smoky-f11bfb82e432b9f05c61032a262981b2.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 655,
+    "proteinG": 25.6,
+    "carbsG": 67.3,
+    "fatG": 29.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31679/photos/medium/capsicum_green_180g-a1cba818ebb922c51487dac9a045a0d4.jpeg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "qty": 40,
+      "unit": "ml",
+      "product": "mayonnaise",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40275/photos/medium/mayonnaise_vegan_40g-72ec5bc994428cdb785dd7eba25b9373.jpeg"
+    },
+    {
+      "name": "Smoky Barbecue Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70772/photos/medium/seasoning_smoky_barbecue_10g_ms-617ae675525f979a4a68490b15698dff.jpeg"
+    },
+    {
+      "name": "Pita Breads",
+      "qty": 4,
+      "product": "pita-bread",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40276/photos/medium/ing_pita_pocket_souvlaki-11fa7187f9f6ecef87b08ec0f0e7ea48.jpg"
+    },
+    {
+      "name": "Barbecue Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C, fan-forced. Line a large oven tray with baking paper. Thinly slice the tomato. Thinly slice the capsicum into rings. Thinly slice the tofu.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/725593/photos/large/prep_ingredients-06735cf0cc4353235f68adbf3eb5887a.jpeg"
+    },
+    {
+      "text": "Make smoky mayo: Put the mayonnaise, ½ tsp barbecue seasoning and 1 tsp water in a bowl, season with salt and pepper and stir to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/725594/photos/large/warm_tofu-0c42e013cd6b56e3ee3611e84855f926.jpeg"
+    },
+    {
+      "text": "Assemble pizzas: Put 2 pita breads on the lined tray. Spread 2 tbs barbecue sauce evenly over the pitas (see Make it yours), then top with the tomato, capsicum and tofu. Scatter over the remaining barbecue seasoning. Drizzle 2 tsp olive oil over the pizzas and season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/725595/photos/large/assemble_pizzas-fafa7338c270c06de17917a2c1807bd1.jpeg"
+    },
+    {
+      "text": "Bake pizzas: Bake the pizzas for 8-10 mins until golden and crisp.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/725596/photos/large/bake_pizzas-e3805b8623b83191b778f945e52e56c8.jpeg"
+    },
+    {
+      "text": "Serve up: Drizzle the smoky mayo over the pizzas. Cut into wedges and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/725597/photos/large/serve_up-bbb8f133b68e03878aa5d77881f79f39.jpeg"
+    },
+    {
+      "text": "Make it yours: If you don’t have barbecue sauce, simply sub in tomato sauce instead.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/725598/photos/large/make_it_yours-5726fa14df75d36515ca0fa68319204a.jpeg"
+    }
+  ]
+}

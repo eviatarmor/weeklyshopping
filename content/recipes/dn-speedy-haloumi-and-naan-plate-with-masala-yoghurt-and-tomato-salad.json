@@ -1,0 +1,109 @@
+{
+  "slug": "dn-speedy-haloumi-and-naan-plate-with-masala-yoghurt-and-tomato-salad",
+  "kind": "meal",
+  "title": "Speedy Haloumi and Naan Plate",
+  "subtitle": "with Masala Yoghurt and Tomato Salad",
+  "description": "Doesn't this look inviting! With golden haloumi, soft naan bread and a vibrant salad, your tastebuds will love it too. Drizzle with a masala yoghurt and dig in.",
+  "sourceUrl": "https://dinnerly.com.au/menu/65169-speedy-haloumi-and-naan-plate-with-masala-yoghurt-and-tomato-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/65169/main_photos/large/pan_fried_haloumi_and_naan_plate-f1b134a1c82acef629383337c443fcb3.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 745,
+    "proteinG": 33,
+    "carbsG": 65.2,
+    "fatG": 39.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31758/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Masala Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70110/photos/medium/seasoning_indian_masala_mild_5g_dn-5c7fc76662ce9b018690c7d5f17eb85c.jpeg"
+    },
+    {
+      "name": "Naan Breads",
+      "qty": 2,
+      "product": "naan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35804/photos/medium/ing_naan_bread-59ce24385791d83c3809432bb116209a.jpg"
+    },
+    {
+      "name": "Pinch of Sugar",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Halve the cucumber lengthwise, scrape out the seeds using a teaspoon, then thinly slice. Cut the tomatoes into 1cm chunks. Finely chop the spring onion. Cut the haloumi into 1cm-thick slices.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/313233/photos/large/prep_ingredients-e0c6e1582904f37e96386dbfab6aee4f.jpeg"
+    },
+    {
+      "text": "Make masala yoghurt: Combine the yoghurt, half the masala seasoning, half the spring onion and a pinch of sugar in a bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/313234/photos/large/make_masala_yoghurt-3fdf75126a8b963ce9f947aa031ce523.jpeg"
+    },
+    {
+      "text": "Marinate haloumi: Put the haloumi and remaining masala seasoning in a separate bowl and toss to coat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/313235/photos/large/marinate_haloumi-c4c802d11c95a9671d929d2fd5b29c79.jpeg"
+    },
+    {
+      "text": "Pan-fry haloumi: Heat a medium frypan over medium heat. Toast the naan, one at a time, for 1 min each side or until lightly golden. Heat 2 tsp olive oil in the same pan over medium-high heat. Cook the haloumi for 1 min each side or until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/313236/photos/large/pan_fry_haloumi-18f1ba7a2153e2b930115efb903f73bd.jpeg"
+    },
+    {
+      "text": "Serve up: Put the cucumber, tomato, remaining spring onion and 2 tsp olive oil in a bowl. Season with salt and pepper and toss to combine. Cut each naan into 4 pieces. Divide the naan, salad and haloumi among plates, drizzle with the masala yoghurt and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/313237/photos/large/serve_up-a5c5f0f5e5db832a30dc8d36df7fffb1.jpeg"
+    },
+    {
+      "text": "Make it yours: If you have some on hand, serve with lemon wedges to squeeze over the salad for extra zing.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/313238/photos/large/make_it_yours-68d09bd160e62a64fab2889867e64d25.jpeg"
+    }
+  ]
+}

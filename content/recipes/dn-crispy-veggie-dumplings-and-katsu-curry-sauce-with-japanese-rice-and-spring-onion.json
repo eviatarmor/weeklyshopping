@@ -1,0 +1,111 @@
+{
+  "slug": "dn-crispy-veggie-dumplings-and-katsu-curry-sauce-with-japanese-rice-and-spring-onion",
+  "kind": "meal",
+  "title": "Crispy Veggie Dumplings and Katsu Curry Sauce",
+  "subtitle": "with Japanese Rice and Spring Onion",
+  "description": "Craving a dinner that’s delightfully delish and easy to get on the table? We’re on a mission to make cooking more fun, extra yum and even simpler – this recipe, packed with quality fresh ingredients, is all that and more. Get cooking!",
+  "sourceUrl": "https://dinnerly.com.au/menu/611945-crispy-veggie-dumplings-and-katsu-curry-sauce-with-japanese-rice-and-spring-onion",
+  "imageUrl": "https://marleyspoon.com/media/recipes/611945/main_photos/large/crispy_veggie_dumplings_and_katsu_curry_sauce-e1f8f870378db3344f818aee6f995cee.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 670,
+    "proteinG": 17.1,
+    "carbsG": 100.7,
+    "fatG": 17.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Japanese Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "white-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31711/photos/medium/ing_rice_short_grain-f63751680a97bbeb745492f9a14af8f2.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Malaysian Mild Curry Powder",
+      "qty": 1,
+      "unit": "packet",
+      "product": "curry-powder",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70108/photos/medium/spice_malaysian_curry_mild_seasoning_10g-54f2980d4d4df29f96e3557975912eb8.jpeg"
+    },
+    {
+      "name": "Stir-Fry Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "stir-fry-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70938/photos/medium/sauce_vegan_stirfry_70g-b10fb4bfb4f4e2e53ae1e63245cf80c5.jpeg"
+    },
+    {
+      "name": "Asian Greens and Shiitake Dumplings",
+      "qty": 300,
+      "unit": "g",
+      "product": "frozen-dumplings",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70471/photos/medium/dumpling_asian_greens_300g-5bdab141c9e1b780f6d4e9050109db91.jpeg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "plain-flour",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Rinse the rice until the water runs clear. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer over medium heat. Reduce the heat to low and cook for 12 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581938/photos/large/240841_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Start curry sauce: While the rice is cooking, crush or finely chop 2 garlic cloves. Cut the carrot into 1.5cm-thick rounds. Thinly slice the spring onion on an angle. Heat 2 tsp vegetable oil in a small frypan over medium-high heat. Cook the carrot, stirring occasionally, for 4-5 mins until softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581942/photos/large/240841_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Simmer curry sauce: Add 1 tsp plain flour to the carrot and and cook, stirring, for 2 mins or until foaming. Stir in the garlic and 1 tsp curry powder and cook for 30 secs or until fragrant. Add the stir-fry sauce and 125 ml (½ cup) water and cook, stirring, for 3-4 mins until slightly thickened. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581952/photos/large/240841_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Pan-fry dumplings: Heat 1 tbs vegetable oil in a medium deep frypan over medium-high heat. Cook the dumplings, without turning, for 2-3 mins until golden on one side. Carefully add 60ml (¼ cup) water (take extra care adding water to the hot pan as the oil can spit and the steam created is very hot). Cover and steam for 3 mins or until the dumplings are tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581956/photos/large/240841_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the rice, dumplings and curry sauce among bowls. Scatter with the spring onion and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581958/photos/large/240841_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Make it herby: If you have some on hand, scatter over a handful of coriander or mint leaves for a burst of freshness.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581963/photos/large/240841_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

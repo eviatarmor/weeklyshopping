@@ -1,0 +1,113 @@
+{
+  "slug": "dn-low-cal-chickpea-and-cauliflower-curry-with-coriander-and-red-rice",
+  "kind": "meal",
+  "title": "Low-Cal Chickpea and Cauliflower Curry",
+  "subtitle": "with Coriander and Red Rice",
+  "description": "Wholesome is on the menu with this aromatic curry. Simmer nutty chickpeas and tender cauliflower in a mild-spiced tomato sauce, then serve with nutrient-rich red rice.",
+  "sourceUrl": "https://dinnerly.com.au/menu/64349-low-cal-chickpea-and-cauliflower-curry-with-coriander-and-red-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/64349/main_photos/large/low_cal_chickpea_and_cauliflower_curry-c2b0775ac5eb9de1663cd345e1f655e2.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 525,
+    "proteinG": 15.9,
+    "carbsG": 87.5,
+    "fatG": 11.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "calorie conscious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Rice",
+      "qty": 125,
+      "unit": "g",
+      "product": "white-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70262/photos/medium/rice_red_125g-a1fe02deaea17e6ae5b4bf85144ca837.jpeg"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 250,
+      "unit": "g",
+      "product": "cauliflower",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31629/photos/medium/ing_cauliflower_whole-7468342622972c73f1095b412d9437e5.jpg"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Masala Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70738/photos/medium/seasoning_indian_masala_mild_10g_ms-b0271f635040ac6b6d533bbdb1511018.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Fill a medium saucepan three-quarters full with water and bring to the boil. Add the rice and cook for 25 mins or until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/303684/photos/large/cook_rice-fbca72f1538463bf47c9780786fe29ad.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, cut the cauliflower into small florets. Reserve half the coriander sprigs, then finely chop the remaining leaves and stems, keeping them separate. Crush or finely chop 2 garlic cloves. Drain and rinse the chickpeas.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/303685/photos/large/prep_ingredients-c0377c9c55a94828daca0fd965f59c76.jpeg"
+    },
+    {
+      "text": "Cook aromatics: Heat 1 tbs vegetable oil in a medium deep frypan over medium heat. Cook the cauliflower, coriander stems, garlic and masala seasoning, stirring, for 2 mins or until fragrant. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/303686/photos/large/cook_aromatics-4c11e5d1ce9419722b95af7ed8d019db.jpeg"
+    },
+    {
+      "text": "Simmer curry: Add the tomatoes, chickpeas, 1 tsp sugar and 125ml (½ cup) water to the cauliflower mixture and bring to the boil. Reduce the heat to medium-low, cover and cook, stirring occasionally, for 15 mins or until the sauce is thickened. Stir in the chopped coriander leaves. Taste, then season with salt and pepper. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/303687/photos/large/simmer_curry-993d26d20181aa0bc24bbf3e567f1178.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the rice and curry among bowls. Top with the reserved coriander sprigs and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/303688/photos/large/serve_up-d3e59d309d6f4904aa6b0730831dfca2.jpeg"
+    },
+    {
+      "text": "Make it yours: If you like your curries with a kick of heat, scatter over chilli flakes or sliced fresh chilli to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/303689/photos/large/make_it_yours-c02aac9419a13fb09e81f96128f314a5.jpeg"
+    }
+  ]
+}

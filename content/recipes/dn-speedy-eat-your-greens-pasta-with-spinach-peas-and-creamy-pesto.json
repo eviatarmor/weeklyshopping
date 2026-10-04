@@ -1,0 +1,94 @@
+{
+  "slug": "dn-speedy-eat-your-greens-pasta-with-spinach-peas-and-creamy-pesto",
+  "kind": "meal",
+  "title": "Speedy Eat-Your-Greens Pasta",
+  "subtitle": "with Spinach, Peas and Creamy Pesto",
+  "description": "Five easy steps, minimal pans and prep… we cut the fluff but not the flavour in our speedy recipes. In just 20 minutes, you’ll have this masterpiece on the table and be crowned in glory too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/240298-speedy-eat-your-greens-pasta-with-spinach-peas-and-creamy-pesto",
+  "imageUrl": "https://marleyspoon.com/media/recipes/240298/main_photos/large/super_fast_eat_your_greens_pasta-879d8ed2b01121b4e8849331a92a9617.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 705,
+    "proteinG": 27.1,
+    "carbsG": 76.6,
+    "fatG": 30.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 250,
+      "unit": "g",
+      "product": "spaghetti",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32776/photos/medium/ing_spaghetti-e015cad043724667055d18db6624ba82.jpg"
+    },
+    {
+      "name": "Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 100,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32389/photos/medium/ing_baby_spinach-f3486d8248bc703219e93950aa64ba5b.jpg"
+    },
+    {
+      "name": "Creamy Pesto Dressing",
+      "qty": 50,
+      "unit": "g",
+      "product": "salad-dressing",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70501/photos/medium/creamy_pesto_dressing_sachet_50g-a88179c1a44735e1cefbfbf28cb6f6a0.jpeg"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sunflower-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70710/photos/medium/seeds_sunflower_seed_kernels_20g_ms-875a3a355847730da09b59dbcd30c5a0.jpeg"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grate cheese: Bring a medium saucepan of salted water to the boil for the spaghetti. Coarsely grate the parmesan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1352200/photos/large/141041_1-1b482778d159503b7ff4a5efc1c0ff2e.jpeg"
+    },
+    {
+      "text": "Cook spaghetti and peas: Add three-quarters of the spaghetti to the pan of boiling water and cook, stirring occasionally, for 10 mins. Add the peas and cook for a further 2 mins or until the spaghetti is al dente and the peas are tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1352201/photos/large/141041_2-8fd61732433c8dac3a1405fd10cf5805.jpeg"
+    },
+    {
+      "text": "Add spinach: Add the spinach to the spaghetti and peas and stir to wilt. Reserve 60ml (¼ cup) cooking water, then drain. Return the spaghetti mixture to the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1352202/photos/large/141041_3-8b1b5903d7139328c21351c4b2794263.jpeg"
+    },
+    {
+      "text": "Finish spaghetti: Return the pan to low heat. Add the pesto dressing, reserved cooking water and half the parmesan to the spaghetti mixture and stir until slightly thickened and the cheese is melted. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1352203/photos/large/141041_4-7515ac154694a367cf946acd7de9c5f1.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the pesto spaghetti among bowls. Scatter over the sunflower seeds (see Make it yours) and remaining parmesan and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1352204/photos/large/141041_5-0861be8c5d7052ad76834ae43441b143.jpeg"
+    },
+    {
+      "text": "Make it yours: If you'd like to add a little crunch, put the sunflower seeds in a cold small frypan over medium heat. Toast, tossing, for 2-3 mins until evenly golden, then scatter over the spaghetti.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1352205/photos/large/141041_6-33e2edcce4a44442ccf348a212809420.jpeg"
+    }
+  ]
+}

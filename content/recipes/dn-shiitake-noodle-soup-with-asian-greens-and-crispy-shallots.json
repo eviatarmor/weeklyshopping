@@ -1,0 +1,109 @@
+{
+  "slug": "dn-shiitake-noodle-soup-with-asian-greens-and-crispy-shallots",
+  "kind": "meal",
+  "title": "Shiitake Noodle Soup",
+  "subtitle": "with Asian Greens and Crispy Shallots",
+  "description": "Doesn't this look good? Don't you want to grab your chopsticks and slurp up all those delicious noodles, veggies and shiitakes in that light, gingery broth? Go on, we know you want to!",
+  "sourceUrl": "https://dinnerly.com.au/menu/58351-shiitake-noodle-soup-with-asian-greens-and-crispy-shallots",
+  "imageUrl": "https://marleyspoon.com/media/recipes/58351/main_photos/large/shiitake_and_udon_noodle_soup-762723a7bdd624b3884b47ade3688293.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 335,
+    "proteinG": 16.8,
+    "carbsG": 38,
+    "fatG": 5.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "product": "ginger",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35061/photos/medium/ing_ginger-f190264899105ae2f2bfb1a6e5fef9a2.jpg"
+    },
+    {
+      "name": "Dashi Powder",
+      "qty": 10,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/39492/photos/medium/vegetable_dashi_powder_10g-71fe055c47ca7f67caad128b2ffc420d.jpeg"
+    },
+    {
+      "name": "Dried Shiitake Mushrooms",
+      "qty": 20,
+      "unit": "g",
+      "product": "shiitake-mushrooms",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31914/photos/medium/dried_whole_shiitake_mushrooms_20g_dn-b436f67c640c872f062e53373448b3b7.jpeg"
+    },
+    {
+      "name": "Pak Choy",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "bok-choy",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35212/photos/medium/ing_bok_choy_baby-f7caffe0fafd3ee7b4a2c993fc049403.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Egg Noodles",
+      "qty": 200,
+      "unit": "g",
+      "product": "egg-noodles",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31669/photos/medium/ing_noodles_fresh_egg-6f8aada8e394b9445892bd7ae2d268ee.jpg"
+    },
+    {
+      "name": "Fried Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70641/photos/medium/dried_fried_shallots_10g_ms-29be38279064ea2cfd59957564160e08.jpeg"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make broth: Peel and finely grate the ginger. Put 1L (4 cups) water in a medium saucepan over high heat. Add the ginger, dashi powder, shiitake mushrooms and 2 tbs soy sauce and bring to the boil. Reduce the heat to medium, then cover and cook, stirring occasionally, for 15 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269196/photos/large/make_broth-9bf22a2c2919752547466aac1f038bb5.jpeg"
+    },
+    {
+      "text": "Prep veggies: Meanwhile, bring a small saucepan of water to the boil for the eggs. Bring a medium saucepan of water to the boil for the noodles. Quarter the pak choy lengthwise. Peel the carrot, then shred using a julienne peeler (see Kitchen 101) or coarsely grate with a box grater.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269197/photos/large/prep_veggies-f6a0ca73f9fded0930a8962617f03009.jpeg"
+    },
+    {
+      "text": "Boil eggs: Cook 2 eggs in the pan of boiling water for 6 mins for soft-boiled or 8 mins for hard-boiled. Drain, then cool in cold water. Peel and halve the eggs.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269198/photos/large/boil_eggs-9661b94ead0c6f59a8a4239a4457d885.jpeg"
+    },
+    {
+      "text": "Cook noodles: Cook half the noodles (see Cooking tip) in the pan of boiling water for 3-4 mins until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269199/photos/large/cook_noodles-e06b6b8c77fc5b2bd6fcafbfc0f6eb52.jpeg"
+    },
+    {
+      "text": "Serve up: Using kitchen tongs, remove the mushrooms from the broth and thinly slice. Add the pak choy to the broth and cook for 1 min or until just tender. Remove the pan from the heat. Divide the noodles, carrot, mushrooms and pak choy among bowls, then ladle over the broth. Top with the egg and fried shallots and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269200/photos/large/serve_up-4343c0b8762b2b435ee43bfc945c4b58.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Do you own a julienne peeler? We love using them in our recipes, as they make short work of veggie prep. They look similar to a veggie peeler but with serrated teeth. You simply drag the peeler along the vegetable – and voila! – you have a pretty pile of professional-looking julienne strips.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269201/photos/large/kitchen_101-9159a2c568a9fdd59e0bf07f0159e0d8.jpeg"
+    }
+  ]
+}

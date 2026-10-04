@@ -1,0 +1,99 @@
+{
+  "slug": "dn-creamy-coconut-gnocchi-with-lemon-and-spinach",
+  "kind": "meal",
+  "title": "Creamy Coconut Gnocchi",
+  "subtitle": "with Lemon and Spinach",
+  "description": "It’s plant power all the way with our super-tasty vegan dishes! Our meat-free, dairy-free, honey-free dishes are amped with plant-based proteins, fresh produce, nuts and seeds. Best of all, they’re for everyone, whether you’re vegan, vegetarian or flexitarian.",
+  "sourceUrl": "https://dinnerly.com.au/menu/263782-creamy-coconut-gnocchi-with-lemon-and-spinach",
+  "imageUrl": "https://marleyspoon.com/media/recipes/263782/main_photos/large/creamy_coconut_gnocchi-925bbec1b631c943f3433997279356a0.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 710,
+    "proteinG": 15.8,
+    "carbsG": 94.4,
+    "fatG": 28.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31745/photos/medium/ing_lemon-bb4851a6b388b32d5bd77badeb832a9a.jpg"
+    },
+    {
+      "name": "Gnocchi",
+      "qty": 400,
+      "unit": "g",
+      "product": "gnocchi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70077/photos/medium/pasta_gnocchi_400g-baa76122fe6e02359a43db86287dfcb4.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Pepper and Garlic Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "pepper-and-garlic-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70765/photos/medium/seasoning_pepper_and_garlic_10g_ms-a9998ac7d36ff594555d8e70ec0744b2.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 100,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32389/photos/medium/ing_baby_spinach-f3486d8248bc703219e93950aa64ba5b.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a large saucepan of salted water to the boil for the gnocchi. Finely chop the onion. Finely grate the zest of half the lemon, then juice the half. Cut the remaining lemon into wedges.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1493068/photos/large/75323_1-0ddafab2f6d304c6e1b606b9639a277b.jpeg"
+    },
+    {
+      "text": "Cook gnocchi: Add the gnocchi to the pan of boiling water (make sure the water is at a rapid boil). Stir to separate the gnocchi, then return to the boil and cook for 3 mins. Reserve 60ml (¼ cup) cooking water, then drain the gnocchi.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1493069/photos/large/75323_2-b732b7c7d50bfb710de3b77bc542fd14.jpeg"
+    },
+    {
+      "text": "Make sauce: Meanwhile, heat 1 tbs olive oil in a medium deep frypan over medium heat. Cook the onion, stirring, for 3-4 mins until softened. Add the coconut milk, 3 tsp pepper and garlic seasoning (see Make it milder), lemon zest, 3 tsp lemon juice and the reserved cooking water. Bring to the boil, then reduce the heat to medium and cook for 3-4 mins until thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1493070/photos/large/75323_3-2e2d71a7d02e665de69a4d001fafa746.jpeg"
+    },
+    {
+      "text": "Add spinach: Add the gnocchi and spinach to the sauce and cook, gently stirring, for 1 min or until the spinach is wilted and the gnocchi is warmed through. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1493071/photos/large/75323_4-0e31985c6bdc8a6dc5c9d9113d332b03.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the gnocchi among bowls and serve with the lemon wedges for squeezing over. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1493072/photos/large/75323_5-001505882f2836a8dcb1255dde5db69c.jpeg"
+    },
+    {
+      "text": "Make it milder: Our pepper and garlic seasoning is an easy way to give an instant flavour boost. With salt, pepper, dried garlic and ground ginger, it makes the sauce extra delicious. It does have a mild peppery kick, so reduce the amount if you prefer less heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1493073/photos/large/75323_6-f06668d260b09f989fd032c5390de6e8.jpeg"
+    }
+  ]
+}

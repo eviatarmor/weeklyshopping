@@ -1,0 +1,99 @@
+{
+  "slug": "dn-super-fast-cheesy-pesto-flatbreads-on-the-table-in-under-20-minutes",
+  "kind": "meal",
+  "title": "Super Fast: Cheesy Pesto Flatbreads",
+  "subtitle": "On the table in under 20 minutes!",
+  "description": "Five easy steps, minimal pans and prep… we cut the fluff but not the flavour in our 'super-fast' recipes. In just 20 minutes, you’ll have this masterpiece on the table and be crowned in glory too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/134065-super-fast-cheesy-pesto-flatbreads-on-the-table-in-under-20-minutes",
+  "imageUrl": "https://marleyspoon.com/media/recipes/134065/main_photos/large/quick_lunch_cheesy_pesto_flatbreads-440a90cb4e7e3ca420ecd583f8cc1257.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 560,
+    "proteinG": 23.1,
+    "carbsG": 48.5,
+    "fatG": 29.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "packet",
+      "product": "dried-oregano",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70803/photos/medium/spice_dried_oregano_2g_ms-72d4763af26fc9115e4485dc4ae3f129.jpeg"
+    },
+    {
+      "name": "Pita Breads",
+      "qty": 4,
+      "product": "pita-bread",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40276/photos/medium/ing_pita_pocket_souvlaki-11fa7187f9f6ecef87b08ec0f0e7ea48.jpg"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 50,
+      "unit": "g",
+      "product": "pesto",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70491/photos/medium/basil_pesto_sachet_50g-59f18a1474c14e5adec89ef85de7490f.jpeg"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the grill to medium-high (see Make it yours). Line a large oven tray with foil. Coarsely grate the cheddar and parmesan. Halve the tomato lengthwise, then thinly slice.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/715189/photos/large/67333_1-b3eb91093a72a902f0ade38e244e4754.jpeg"
+    },
+    {
+      "text": "Make cheese mixture: Put the cheddar, parmesan and oregano in a bowl, season with pepper and stir to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/715190/photos/large/67333_2-b6fc02cbbc00022e3093919563c4d0d3.jpeg"
+    },
+    {
+      "text": "Assemble flatbreads: Put 2 pitas on the lined tray. Scatter over half the cheese mixture. Top with the tomato, then scatter over the remaining cheese mixture.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/715191/photos/large/67333_3-99c4530f2cc7ffaafdf23da19c4e25d8.jpeg"
+    },
+    {
+      "text": "Grill flatbreads: Grill the flatbreads for 5-6 mins until golden and the cheese is melted.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/715192/photos/large/67333_4-ccb870028a7f7a10b120afa67b4cfdab.jpeg"
+    },
+    {
+      "text": "Serve up: Combine the pesto and 1 tsp red wine vinegar in a bowl, then drizzle over the flatbreads. Cut into wedges and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/715193/photos/large/67333_5-d81a87bad4b4aafe422d8628eaa8ce5d.jpeg"
+    },
+    {
+      "text": "Make it yours: Like even crispier flatbreads? Grilling them is fast and easy, but if you'd prefer a crunchier base, cook them in a 220C oven for 10-12 mins until golden.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/715194/photos/large/67333_6-94efe979a1b5e54aaf7874e9e536bf30.jpeg"
+    }
+  ]
+}

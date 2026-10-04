@@ -1,0 +1,118 @@
+{
+  "slug": "dn-balanced-mild-szechuan-tofu-bowl-with-brown-rice-pickled-carrot-and-peanuts",
+  "kind": "meal",
+  "title": "Balanced Mild Szechuan Tofu Bowl",
+  "subtitle": "with Brown Rice, Pickled Carrot and Peanuts",
+  "description": "Our 'balanced' recipes are just that – high in nutritive value (that's fibre-rich veggies, lean proteins and wholegrains, just between us), so these dishes are good for you in every which way! They're perfect for anyone looking to minimise their intake of refined foods without sacrificing on taste.",
+  "sourceUrl": "https://dinnerly.com.au/menu/446665-balanced-mild-szechuan-tofu-bowl-with-brown-rice-pickled-carrot-and-peanuts",
+  "imageUrl": "https://marleyspoon.com/media/recipes/446665/main_photos/large/balanced_mild_szechuan_tofu_bowl-26acaa6d0187a59a22420b6dcbc1ccd1.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 585,
+    "proteinG": 26.4,
+    "carbsG": 67.5,
+    "fatG": 22
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "calorie conscious",
+    "kid friendly",
+    "nutritious",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "qty": 125,
+      "unit": "g",
+      "product": "brown-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37637/photos/medium/ing_rice_brown-f516ab478d25c27b094a8d56405489bb.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Plain Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71342/photos/medium/tofu_plain_200g-2e498fd8f9d845afd46ea3038077b151.jpeg"
+    },
+    {
+      "name": "Szechuan Stir-Fry Sauce",
+      "qty": 50,
+      "unit": "g",
+      "product": "stir-fry-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71169/photos/medium/sauce_szechuan_stir_fry_50g-0fcd0a5aa5fadb72498ee70a772642c2.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "qty": 20,
+      "unit": "g",
+      "product": "peanuts",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31915/photos/medium/ing_peanuts_salted_roasted-9ca68b3bb5fff00d0196eed31e9688ad.jpg"
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 3,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Fill a medium saucepan three-quarters full with water and bring to the boil. Add the rice and cook for 25-27 mins until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2590312/photos/large/158150_1-35d44ff365e0c4ea5de3887100e4fa91.jpeg"
+    },
+    {
+      "text": "Pickle carrot: Meanwhile, peel the carrot into ribbons with a vegetable peeler. Combine 3 tsp white vinegar, 1½ tsp sugar and ¼ tsp salt in a large bowl. Add the carrot and toss to combine. Set aside to pickle, tossing occasionally, until needed.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2590313/photos/large/158150_2-947f5579e5085210df439206169736fb.jpeg"
+    },
+    {
+      "text": "Stir-fry tofu: Slice the tofu. Heat 2 tsp vegetable oil in a large frypan over medium-high heat. Stir-fry the tofu for 2 mins or until browned.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2590314/photos/large/158150_3-be9455b050143c8f1cc73c9c1445c983.jpeg"
+    },
+    {
+      "text": "Add sauce and spinach: Add the stir-fry sauce to the tofu and stir-fry for a further 1-2 mins until warmed through. Add the spinach and toss until slightly wilted. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2590315/photos/large/158150_4-69459f7d2181e6dcc622e3324714fee4.jpeg"
+    },
+    {
+      "text": "Serve up: Coarsely chop the peanuts. Divide the rice, tofu stir-fry and drained pickled carrot among bowls. Scatter over the peanuts and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2590316/photos/large/158150_5-0eab5f903f923f9a3f28fdf7261a3af1.jpeg"
+    },
+    {
+      "text": "Kitchen notes: Add a kick with a pinch of chilli flakes, or boost the freshness with a scattering of thinly sliced spring onion, if you have some on hand.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2590317/photos/large/158150_6-77c9a43b1ada44ad612b12e70dd13012.jpeg"
+    }
+  ]
+}

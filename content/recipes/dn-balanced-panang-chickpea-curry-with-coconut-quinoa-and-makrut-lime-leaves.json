@@ -1,0 +1,130 @@
+{
+  "slug": "dn-balanced-panang-chickpea-curry-with-coconut-quinoa-and-makrut-lime-leaves",
+  "kind": "meal",
+  "title": "Balanced Panang Chickpea Curry",
+  "subtitle": "with Coconut Quinoa and Makrut Lime Leaves",
+  "description": "Our 'balanced' recipes are just that – high in nutritive value (that's fibre-rich veggies, lean proteins and wholegrains, just between us), so these dishes are good for you in every which way! They're perfect for anyone looking to minimise their intake of refined foods without sacrificing on taste.",
+  "sourceUrl": "https://dinnerly.com.au/menu/718590-balanced-panang-chickpea-curry-with-coconut-quinoa-and-makrut-lime-leaves",
+  "imageUrl": "https://marleyspoon.com/media/recipes/387390/main_photos/large/balanced_panang_chickpea_curry-4a7dafe70223cfe87b0cc3fd3ed9cae5.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 718,
+    "proteinG": 22.7,
+    "carbsG": 83.9,
+    "fatG": 29.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 250,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33346/photos/medium/ing_butternut_pumpkin-3000ea2a963a7ee84343a1cb7b6175b1.jpg"
+    },
+    {
+      "name": "Pak Choy",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "bok-choy",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35212/photos/medium/ing_bok_choy_baby-f7caffe0fafd3ee7b4a2c993fc049403.jpg"
+    },
+    {
+      "name": "Makrut Lime Leaves",
+      "qty": 1,
+      "unit": "packet",
+      "product": "kaffir-lime-leaves",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40297/photos/medium/ing_kaffir_lime_leaves-df5d7bc71532587f2808f1a3818d41ba.jpg"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71672/photos/medium/can_chickpeas_400g-97bfc7d58e6a0714309024e6eb18399e.jpeg"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "packet",
+      "product": "quinoa",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70653/photos/medium/grain_quinoa_white_125g_ms-b9605b901fdb6827c6c999cc8146dc80.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Yellow Curry Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37084/photos/medium/ing_yellow_curry_paste-4dc2275b0ac617a52295473df0dfc3f1.jpg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Peel the pumpkin and cut into 2cm chunks. Trim the pak choy, then halve lengthwise and cut into 3cm lengths. Separate the lime leaves, remove the central vein from 1 leaf and thinly slice. Reserve the remaining leaf. Drain and rinse the chickpeas. Rinse the quinoa well in a sieve, then drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4222112/photos/large/105514_1-f699e10274b32858bb0fdb8aec424dbd.jpeg"
+    },
+    {
+      "text": "Cook quinoa: Heat 1 tsp vegetable oil in a small saucepan over medium-high heat. Cook the quinoa, stirring, for 3-4 mins until toasted. Add the reserved lime leaf, 60ml (¼ cup) coconut milk and 180ml (¾ cup) water and bring to a simmer. Cover and reduce the heat to low. Cook for 12-15 mins until the liquid is absorbed and quinoa is tender. Turn off the heat and stand, covered, for 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4222113/photos/large/105514_2-ee639745a4bbdd1707de89eef9fc5e11.jpeg"
+    },
+    {
+      "text": "Start curry: Meanwhile, heat 1 tsp vegetable oil in a medium saucepan over medium heat. Cook the pumpkin, stirring, for 3-4 mins until slightly softened. Add the curry paste (see Make it milder) and chickpeas and cook, stirring, for 2 mins or until fragrant. Stir in the remaining coconut milk and 125ml (½ cup) water and bring to a simmer.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4222116/photos/large/105514_3-b8b08fe1f10974a60a5b5d530fd8afbc.jpeg"
+    },
+    {
+      "text": "Simmer curry: Reduce the heat to medium-low, cover and cook the curry, stirring occasionally, for 12 mins or until the pumpkin is tender. Arrange the pak choy on top of the curry, cover and cook for a further 1-2 mins until the leaves are wilted.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4222119/photos/large/105514_4-df558e95151b1eaa4cb923b2498e41c1.jpeg"
+    },
+    {
+      "text": "Serve up: Stir 2 tsp soy sauce, 2 tsp white vinegar and 1 tsp honey into the curry. Remove the pan from the heat. Taste, then season with salt and pepper. Fluff the quinoa with a fork. Divide the quinoa and curry among bowls and scatter over the sliced lime leaf. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4222123/photos/large/105514_5-5613f16981994339a1607b80437685e1.jpeg"
+    },
+    {
+      "text": "Make it milder: Our yellow curry paste has a mild kick to it. For those who like their curry with less spice, use half the paste.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4222125/photos/large/105514_6-808111ad89033725c99c023f12053124.jpeg"
+    }
+  ]
+}

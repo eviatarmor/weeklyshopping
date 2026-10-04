@@ -1,0 +1,121 @@
+{
+  "slug": "dn-tempeh-nasi-goreng-with-green-beans-and-carrots",
+  "kind": "meal",
+  "title": "Tempeh Nasi Goreng",
+  "subtitle": "with Green Beans and Carrots",
+  "description": "Nasi goreng simply means ‘fried rice’ and it's easy to see why it's one of Indonesia's most loved dishes: it's quick, tasty and filling. Our version adds nutty-tasting tempeh made from soybeans, and is topped off with sliced omelette.",
+  "sourceUrl": "https://dinnerly.com.au/menu/38717-tempeh-nasi-goreng-with-green-beans-and-carrots",
+  "imageUrl": "https://marleyspoon.com/media/recipes/38717/main_photos/large/tempeh_nasi_goreng-4b267e2bc031800b7733b0776e065f55.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 770,
+    "proteinG": 32.8,
+    "carbsG": 98.1,
+    "fatG": 34.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70673/photos/medium/rice_jasmine_150g_ms-738732293471033ed769ed790327aa6d.jpeg"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 150,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31688/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Tempeh Burgers",
+      "qty": 2,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40213/photos/medium/tempeh_burgers_200g_200g-a9dc94e2bf1346a59fa44b7c894ba43e.jpeg"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "kecap-manis",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38378/photos/medium/ing_kecap_manis-f06ee546719aa5901a24a885565ede77.jpg"
+    },
+    {
+      "name": "Sambal Oelek",
+      "qty": 3,
+      "unit": "tsp",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33080/photos/medium/ing_sambal_oelek_vegan-f4567785e0aa8355fe19b72d746e2d09.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Rinse the rice until the water runs clear. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer over medium heat. Reduce the heat to low and cook for 12 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149592/photos/large/cook_rice-1c71bf231ad63caa9d9a9371402963a6.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, crush or finely chop 2 garlic cloves. Coarsely chop the onion. Cut the unpeeled carrot into 1cm chunks. Trim the beans and cut into 3cm lengths. Chop the tempeh into 1 cm chunks. Combine the kecap manis, sambal oelek (see Make it yours) and 1 tbs soy sauce in a bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149593/photos/large/prep_ingredients-5489aa7c63d62e2ecb3142f93e4bd7f5.jpeg"
+    },
+    {
+      "text": "Cook omelette: Whisk 2 eggs in a bowl, then season with salt and pepper. Heat 2 tsp vegetable oil in a medium frypan over medium-high heat. Add the egg mixture and swirl to coat the base of the pan. Cook for 2-3 mins until the egg lifts easily from the sides, then loosely roll up the omelette. Transfer to a board, cool slightly, then cut into strips.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149594/photos/large/cook_the_eggs-94f32f8a2da237a3bd6b6f128497286c.jpeg"
+    },
+    {
+      "text": "Make fried rice: Heat 2 tsp vegetable oil in the pan over high heat and stir-fry the tempeh for 2-3 mins until warmed through. Remove from the pan. Heat 1 tbs vegetable oil in the pan. Stir-fry the garlic, onion, carrot and beans for 1-2 mins until the veggies are just tender. Add the rice and kecap manis mixture and stir to combine. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149595/photos/large/make_fried_rice-6387417ca76955894d646e762704398d.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the nasi goreng among bowls and top with the fried tempeh and omelette. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149596/photos/large/serve_up-e820ec10fb0f4da9ef0ac393856a77ff.jpeg"
+    },
+    {
+      "text": "Make it yours: Sambal oelek is an Asian paste made from a variety of ingredients including chilli, vinegar and sugar. This provides spice as well as depth of flavour. If you aren't a big fan of spicy foods, feel free to use less, or none at all!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149597/photos/large/kitchen_tip-a8628d06dfd692301f192dc7a9229394.jpeg"
+    }
+  ]
+}

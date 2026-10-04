@@ -1,0 +1,125 @@
+{
+  "slug": "dn-kid-approved-cheesy-veggie-taco-bake-with-capsicum-and-corn",
+  "kind": "meal",
+  "title": "Kid Approved: Cheesy Veggie Taco Bake",
+  "subtitle": "with Capsicum and Corn",
+  "description": "Keep the kids happy – and the adults too! Simply choose our 'kid-approved' recipes filled with crowd-pleasing flavours and ingredients, then watch the whole family tuck in. You can thank us later!",
+  "sourceUrl": "https://dinnerly.com.au/menu/277762-kid-approved-cheesy-veggie-taco-bake-with-capsicum-and-corn",
+  "imageUrl": "https://marleyspoon.com/media/recipes/277762/main_photos/large/kid-9c8bb4ff53f3856c53363581be473283.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 645,
+    "proteinG": 26.7,
+    "carbsG": 74.2,
+    "fatG": 22.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31679/photos/medium/capsicum_green_180g-a1cba818ebb922c51487dac9a045a0d4.jpeg"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34662/photos/medium/ing_tomato_roma-92c29b35b68d6299ca6ed0f0df617786.jpg"
+    },
+    {
+      "name": "Corn Cob",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70184/photos/medium/corn_cob_silk_trimmed_300g-80eeba55725dc5fa0d8431960af607dc.jpeg"
+    },
+    {
+      "name": "Kidney Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31526/photos/medium/Red_kidney_bean-e3de4f2f19d61eb708813c15759aa8eb.jpg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Tex-Mex Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70780/photos/medium/seasoning_tex_mex_10g_ms-7373c66b0ca0af21eed224f169266b7c.jpeg"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 50,
+      "unit": "g",
+      "product": "tomato-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31831/photos/medium/ing_tomato_paste-d250075c2d9331aa8907ff9db2ffcf17.jpg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Tomato or Barbecue Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C, fan-forced. Grease a 2L (8 cup) baking dish. Cut the capsicum and tomatoes into 1cm chunks. Discard the husk and silks from the corn, then slice the kernels from the cob. Drain and rinse the beans. Coarsely grate the cheese.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1576942/photos/large/74676_1-5c169c1f9a0d7452a407a9d906d1d16d.jpeg"
+    },
+    {
+      "text": "Start filling: Heat 2 tsp olive oil in a medium frypan over medium-high heat. Cook the corn, capsicum and Tex-Mex seasoning, stirring, for 4 mins or until charred. Add the tomato and tomato paste and cook, stirring, for 2 mins or until the tomato is softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1576943/photos/large/74676_2-7273d4d6689b67da7dc49a5f9cae7c4b.jpeg"
+    },
+    {
+      "text": "Simmer filling: Add the beans, 2 tsp soy sauce and 80ml (⅓ cup) water to the veggie mixture and bring to the boil. Reduce the heat to medium and cook, stirring occasionally, for 5-7 mins until thickened. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1576944/photos/large/74676_3-933c8d17154d283dae0bd8be7802b7e1.jpeg"
+    },
+    {
+      "text": "Assemble and bake tacos: Divide the bean mixture among the tortillas. Fold in half, then stack upright in the baking dish. Scatter over the cheese and season with salt and pepper. Bake for 10 mins or until the cheese is melted and the tacos are warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1576945/photos/large/74676_4-6fb0f121c59400f6738cbb71569dcf7a.jpeg"
+    },
+    {
+      "text": "Serve up: Drizzle the tacos with the tomato sauce, divide among plates and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1576946/photos/large/74676_5-c4e030368784be4f9b514e88cac6e675.jpeg"
+    },
+    {
+      "text": "Did you know?: Getting your daily five serves of veg is just as important for the little ones as it is for the big kids! Eating a colourful and varied diet will give your body the mix of nutrients it needs – this is often called 'eating the rainbow'. Ask the kids to list all the colours they can see in their tacos. What other 'colours' have they eaten today?",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1576947/photos/large/74676_6-090bdce731b8ab4a434f8657826063d1.jpeg"
+    }
+  ]
+}

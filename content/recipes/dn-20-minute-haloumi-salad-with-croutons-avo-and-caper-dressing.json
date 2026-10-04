@@ -1,0 +1,118 @@
+{
+  "slug": "dn-20-minute-haloumi-salad-with-croutons-avo-and-caper-dressing",
+  "kind": "meal",
+  "title": "20-Minute Haloumi Salad",
+  "subtitle": "with Croutons, Avo and Caper Dressing",
+  "description": "Prepare to meet the salad of your dreams. It's an irresistible combo of creamy avocado, crunchy croutons, a piquant caper dressing and salty, squeaky haloumi to top things off.",
+  "sourceUrl": "https://dinnerly.com.au/menu/91225-20-minute-haloumi-salad-with-croutons-avo-and-caper-dressing",
+  "imageUrl": "https://marleyspoon.com/media/recipes/91225/main_photos/large/20_minute_haloumi_salad-101c1713ee2d9d2e75e25f2dc09d9872.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 795,
+    "proteinG": 30.4,
+    "carbsG": 20.1,
+    "fatG": 65.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Little Gem Lettuce",
+      "qty": 1,
+      "product": "iceberg-lettuce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37752/photos/medium/pp_lettuce_gem_cos_head_200g-30e20847544bc260d73b3c4c2de31cdd.jpeg"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36662/photos/medium/ing_avocado-256dcb7b22e9a750995f0af810284915.jpg"
+    },
+    {
+      "name": "Capers",
+      "qty": 1,
+      "unit": "packet",
+      "product": "capers",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70575/photos/medium/capers_in_vinegar_10g_ms-07b18c4bf658b41bf5b06b6bdc81b010.jpeg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Wholemeal Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/39080/photos/medium/bread_gourmet_wholemeal_mini_roll_30093_2_pack_80g-414f4d648425b906f68dd855c8c826bc.jpeg"
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "qty": 40,
+      "unit": "ml",
+      "product": "mayonnaise",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40275/photos/medium/mayonnaise_vegan_40g-72ec5bc994428cdb785dd7eba25b9373.jpeg"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard",
+      "pantry": true
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil eggs: Preheat the grill to high. Line an oven tray with foil. Bring a small saucepan of water to the boil. Cook 2 eggs in the pan of boiling water for 6 mins for soft-boiled or 8 mins for hard-boiled. Drain, then cool in cold water.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/461331/photos/large/73858_1-72d89bf47621b9d640e75bfcc09273d5.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, trim and coarsely chop the lettuce. Thinly slice the avocado. Finely chop the capers (see Make it yours). Cut the haloumi and bread rolls into 2cm chunks.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/461332/photos/large/73858_2-f9669d5b2f81791fa7e819ce3cc198a5.jpeg"
+    },
+    {
+      "text": "Grill haloumi and bread: Put the haloumi in a bowl, add a generous drizzle of olive oil and toss to coat. Put on the lined tray and grill for 4 mins. Put the bread in the same bowl, add a generous drizzle of olive oil, season with salt and pepper and toss to coat. Add the bread to the tray, turn the haloumi and grill for a further 4 mins or until the haloumi and bread are golden.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/461333/photos/large/73858_3-388f8f23a38a9cb6ec8a69e4b495b951.jpeg"
+    },
+    {
+      "text": "Make dressing: Combine the capers, mayonnaise, 1 tsp dijon mustard and 1 tsp white wine vinegar in a bowl. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/461334/photos/large/73858_4-25c7b95595328d630d5efaa836d0f0be.jpeg"
+    },
+    {
+      "text": "Serve up: Peel and halve the eggs. Divide the lettuce, avocado and egg among bowls. Top with the haloumi and croutons and drizzle with the caper dressing. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/461335/photos/large/73858_5-b9fd1f232960f3fe54a73b6f8ec4b548.jpeg"
+    },
+    {
+      "text": "Make it yours: Not everyone loves capers. Simply leave them out of the dressing and serve them at the table (chopped or whole) if you prefer.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/461336/photos/large/73858_6-962dd0e7a4490d1b47039153748b1485.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "dn-italian-double-choc-chip-cookies-with-almond-and-macadamia",
+  "kind": "meal",
+  "title": "Italian Double Choc Chip Cookies",
+  "subtitle": "with Almond and Macadamia",
+  "description": "Introducing easy one-bowl choc chip cookies! Almond meal gives them a chewy Italian twist and they're not only studded with both white and dark choc chips, but we've also added macadamias.",
+  "sourceUrl": "https://dinnerly.com.au/menu/53406-italian-double-choc-chip-cookies-with-almond-and-macadamia",
+  "imageUrl": "https://marleyspoon.com/media/recipes/53406/main_photos/large/italian-ea6b4c975ef26849db95114b67121922.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 310,
+    "proteinG": 5.7,
+    "carbsG": 14.4,
+    "fatG": 25.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Roasted Macadamias",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70691/photos/medium/nuts_macadamia_roasted_40g_ms-e2c19cfed6f0a27fe495197bcb850c22.jpeg"
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "qty": 50,
+      "unit": "g",
+      "product": "choc-chips",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40699/photos/medium/chocolate_dark_belgian_chips_50g_dn-1a98fea29de845c459fc0ee6a0962b35.jpeg"
+    },
+    {
+      "name": "Almond Meal",
+      "qty": 150,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70267/photos/medium/almond_meal_150g-02d238e51ebaac3d9b8cf584f46eb17d.jpeg"
+    },
+    {
+      "name": "Maple Syrup",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "maple-syrup",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36779/photos/medium/ing_syrup_maple-c29963a503d6ad6665217dbdf925823f.jpg"
+    },
+    {
+      "name": "Vanilla Bean Paste",
+      "qty": 5,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40718/photos/medium/vanilla_paste_heilali_5g_sachet_5g-4b799beaf74c98c7f1d0f8e2a31578a7.jpeg"
+    },
+    {
+      "name": "White Chocolate Chips",
+      "qty": 50,
+      "unit": "g",
+      "product": "choc-chips",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70279/photos/medium/chocolate_white_50g-9b1ef40b3bf55d84ca848bc8d11b0353.jpeg"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 60,
+      "unit": "ml",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 180C. Line a large oven tray with baking paper. Roughly chop the macadamias. Roughly chop half the dark chocolate. Melt 20g butter.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/232230/photos/large/prep_ingredients-f941611790f7871150806e9d31cddcb4.jpeg"
+    },
+    {
+      "text": "Make dough: Put the almond meal, maple syrup, vanilla bean paste, melted butter and 60ml (¼ cup) olive oil in a large bowl and stir well to combine. Add the macadamias, white chocolate and unchopped dark chocolate and stir to combine (the cookie dough will be moist and sticky).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/232231/photos/large/make_dough-af917ef11b354992142a7ee0eaf144c6.jpeg"
+    },
+    {
+      "text": "Shape cookies: Using damp hands, roll heaped tablespoons of cookie dough into 8 equal balls. Put on the lined tray, leaving a 3cm gap between them, and flatten slightly.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/232232/photos/large/shape_cookies-b31da6897c9b5157b1e474dd3f62fed4.jpeg"
+    },
+    {
+      "text": "Decorate cookies: Scatter the chopped dark chocolate over the tops of the cookies and lightly press in.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/232233/photos/large/decorate_cookies-5fd3c7d4200d51f809ed92f3f2f8152b.jpeg"
+    },
+    {
+      "text": "Bake cookies: Bake the cookies for 15 mins or until light golden and just cooked through (see Make it yours). Cool on the tray, then enjoy. Store any leftover cookies in an airtight container for up to 5 days.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/232234/photos/large/bake_cookies-d7f44894ba3de9759566eba09b7ebb62.jpeg"
+    },
+    {
+      "text": "Make it yours: If you prefer a firmer cookie, bake them for an extra 2-3 mins until darker golden in colour.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/232235/photos/large/make_it_yours-c7234861f20c31a8fb19c1e2aa8a7d31.jpeg"
+    }
+  ]
+}

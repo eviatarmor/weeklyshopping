@@ -1,0 +1,114 @@
+{
+  "slug": "dn-reduced-carb-haloumi-salad-with-harissa-roasted-vegetables-and-kale",
+  "kind": "meal",
+  "title": "Reduced-Carb Haloumi Salad",
+  "subtitle": "with Harissa Roasted Vegetables and Kale",
+  "description": "Can we have a ‘yay’ from the crowd for filling proteins, seasonal veggies and good, healthy fats? Our reduced-carb recipes feature all that, and contain less than 30 grams of carbohydrates per serve!",
+  "sourceUrl": "https://dinnerly.com.au/menu/371996-reduced-carb-haloumi-salad-with-harissa-roasted-vegetables-and-kale",
+  "imageUrl": "https://marleyspoon.com/media/recipes/371996/main_photos/large/haloumi_and_roasted_vegetable_salad-d58cc3852f9cb730c0120671db66bf2e.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 550,
+    "proteinG": 26.5,
+    "carbsG": 18.2,
+    "fatG": 40.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "carb conscious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 250,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33346/photos/medium/ing_butternut_pumpkin-3000ea2a963a7ee84343a1cb7b6175b1.jpg"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Harissa Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "harissa-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70737/photos/medium/seasoning_harissa_5g_ms-1f18083d1786183e0c8b0bb200bd5e04.jpeg"
+    },
+    {
+      "name": "Tuscan Kale",
+      "qty": 100,
+      "unit": "g",
+      "product": "kale",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37183/photos/medium/pp_kale_tuscan_100g-9c04cd00d927423878e920f7ea54308a.jpeg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sunflower-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70710/photos/medium/seeds_sunflower_seed_kernels_20g_ms-875a3a355847730da09b59dbcd30c5a0.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep veggies: Preheat the oven to 220C, fan-forced. Line 2 oven trays with baking paper. Peel the pumpkin, then cut into 5mm-thick slices. Cut the capsicum into 2cm chunks. Cut the onion into thick wedges.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2142310/photos/large/prep_veggies-794da86efd4ed52ab491611792b4d6c1.jpeg"
+    },
+    {
+      "text": "Roast veggies: Combine 2 tsp harissa seasoning (our harissa seasoning is spicy, so reduce the amount if you prefer less heat) and 2 tsp olive oil in a bowl. Put the pumpkin, capsicum and onion on the lined trays, drizzle with the harissa oil and turn to coat. Roast for 20 mins or until tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2142311/photos/large/roast_veggies-7fd17651fa2269721cde7396a4f056d5.jpeg"
+    },
+    {
+      "text": "Prep kale: Meanwhile, tear the kale leaves into small pieces, discarding the stems, and put in a large bowl. Drizzle with 2 tsp olive oil, season with salt and massage for 1 min or until softened and slightly darkened (see Kitchen 101).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2142312/photos/large/prep_kale-0c1f1523697b67402ff1e50bb4f763ec.jpeg"
+    },
+    {
+      "text": "Cook haloumi: Slice the haloumi. Put the sunflower seeds in a cold medium frypan over medium heat and toast, tossing, for 3-4 mins until evenly golden. Remove from the pan. Heat 1 tbs olive oil in the pan over medium-high heat. Cook the haloumi for 2 mins each side or until golden. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2142313/photos/large/cook_haloumi-adebac54941d56a5ff175efbf29c62c5.jpeg"
+    },
+    {
+      "text": "Serve up: Add the roasted veggies and 2 tsp red wine vinegar to the kale and toss to combine. Divide the vegetable salad among plates. Top with the haloumi and scatter over the sunflower seeds. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2142314/photos/large/serve_up-4457e734e25a8f32e4b8213a24534dcd.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Yes, you read it correctly – kale needs to be massaged! This helps to break down the tough fibres, making it tender and easier to eat. Gently pinch and squeeze the leaves until they start to shrink, soften and darken a little.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2142315/photos/large/kitchen_tip-4a51dc7c80b93f8897e0afbd77aab4d3.jpeg"
+    }
+  ]
+}

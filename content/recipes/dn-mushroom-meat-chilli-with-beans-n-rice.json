@@ -1,0 +1,121 @@
+{
+  "slug": "dn-mushroom-meat-chilli-with-beans-n-rice",
+  "kind": "meal",
+  "title": "Mushroom 'Meat' Chilli",
+  "subtitle": "with Beans 'n' Rice",
+  "description": "Stop the flavour bus! Here's a fab recipe from our culinary dream team. Like all our dishes, it's got five easy cooking steps plus tips and hacks to make it your own. We think it’s a total winner – but you tell us! Leave a rating and comment through your account to let us know your thoughts.",
+  "sourceUrl": "https://dinnerly.com.au/menu/144792-mushroom-meat-chilli-with-beans-n-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/144792/main_photos/large/mushroom_meat_chilli-9a74e3c6e713a9ba7b4337133740af1d.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 895,
+    "proteinG": 27.3,
+    "carbsG": 105.7,
+    "fatG": 44.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Kidney Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31526/photos/medium/Red_kidney_bean-e3de4f2f19d61eb708813c15759aa8eb.jpg"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70665/photos/medium/rice_basmati_150g_ms-295486fcd2e255689930dd9df88cd519.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Mushroom Meat",
+      "qty": 250,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40486/photos/medium/plant_based_mushroom_meat_fable_250g_250g-cc56628b1d33d994a3c9503e6516d76d.jpeg"
+    },
+    {
+      "name": "Smoky Barbecue Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70772/photos/medium/seasoning_smoky_barbecue_10g_ms-617ae675525f979a4a68490b15698dff.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Thinly slice the spring onion, keeping the white and green parts separate. Drain and rinse half the beans.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/779535/photos/large/144792_1-b161b050f7bde6118d3f31c2e74b74ae.jpeg"
+    },
+    {
+      "text": "Cook rice: Fill a medium saucepan three-quarters full with water and bring to the boil. Add the rice and cook for 12 mins or until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/779536/photos/large/144792_2-1ad6e47964904b30722c3d171c55aa78.jpeg"
+    },
+    {
+      "text": "Start chilli: Meanwhile, heat 2 tsp olive oil in a medium deep frypan over medium-high heat. Add the white part of the spring onion and cook, stirring, for 1 min or until softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/779537/photos/large/144792_3-bbaf8f935fde7eda74dbd2ef2f9072d4.jpeg"
+    },
+    {
+      "text": "Finish chilli: Add the beans, tomatoes, mushroom meat, barbecue seasoning, 1 tbs tomato paste, 1 tbs tomato sauce and 125ml (½ cup) water to the pan and bring to a simmer. Reduce the heat to medium, cover and cook, stirring occasionally, for 15 mins or until the mushroom meat is tender. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/779538/photos/large/144792_4-3ce695abb979227b5b93b69e525a63b9.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the rice and chilli among bowls, dollop with the vegan mayonnaise, scatter with the remaining spring onion and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/779539/photos/large/144792_5-82fa23d098b7e8e83ae699caa02fa5bc.jpeg"
+    },
+    {
+      "text": "Make it yours: Yee-ha, time to break out the grated vegan cheese or guacamole! Scatter some grated vegan cheddar over each serve, or spoon over either purchased or home-made guac, right before eating.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/779540/photos/large/144792_6-ba39aeb5e0e7aae1a788bdfb379650a5.jpeg"
+    }
+  ]
+}

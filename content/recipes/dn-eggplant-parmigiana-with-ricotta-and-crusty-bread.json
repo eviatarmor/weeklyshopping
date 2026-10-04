@@ -1,0 +1,132 @@
+{
+  "slug": "dn-eggplant-parmigiana-with-ricotta-and-crusty-bread",
+  "kind": "meal",
+  "title": "Eggplant Parmigiana",
+  "subtitle": "with Ricotta and Crusty Bread",
+  "description": "Here, eggplant slices are fried to golden softness, layered with sauce and ricotta, then baked. Served with a salad and bread rolls to mop up the sauce, it's delicioso!",
+  "sourceUrl": "https://dinnerly.com.au/menu/35315-eggplant-parmigiana-with-ricotta-and-crusty-bread",
+  "imageUrl": "https://marleyspoon.com/media/recipes/35315/main_photos/large/eggplant-04f96dd9e30b7c330a65ea884b03d600.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 485,
+    "proteinG": 16.9,
+    "carbsG": 40.6,
+    "fatG": 25.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34663/photos/medium/ing_eggplant-6995d39ec1e648a8ff8d8405591300cc.jpg"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Can Cherry Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 125,
+      "unit": "g",
+      "product": "ricotta",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38059/photos/medium/ing_ricotta-2a8be5a93ab99803a82a3710c4bcceb6.jpg"
+    },
+    {
+      "name": "Italian Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70741/photos/medium/seasoning_italian_10g_ms-ef0e060567654b160f5754a80898ba94.jpeg"
+    },
+    {
+      "name": "Wholemeal Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/39080/photos/medium/bread_gourmet_wholemeal_mini_roll_30093_2_pack_80g-414f4d648425b906f68dd855c8c826bc.jpeg"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "rocket",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70415/photos/medium/pp_rocket_leaves_50g-7ae7fc29173d93a36787f907e6356ac8.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C. Take a thin slice off the sides of the eggplant so that all slices will be flat, then cut lengthwise into 4 slices, about 1.5cm-thick. Season all over with salt (see Kitchen 101). Thinly slice the onion (see Cooking tip) and 1 garlic clove.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/130374/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Cook sauce: Heat 2 tsp olive oil in a medium saucepan over medium-high heat. Cook the garlic and half the onion, stirring constantly, for 2-3 mins until soft. Add the tomatoes, 1 tbs tomato paste, 1 tbs tomato sauce and 2 tbs water. Bring to the boil, then reduce the heat to medium and cook for 10 mins or until thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/130375/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Pan-fry eggplant: Meanwhile, pat the eggplant dry with paper towel to remove the excess moisture. Put 2 tbs plain flour in a shallow dish, season with salt and pepper, then dust the eggplant, shaking off the excess. Heat 1 tbs olive oil in a large frypan over medium-high heat. Cook the eggplant for 3-4 mins each side until golden. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/130376/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Assemble and bake: Put half the eggplant in a 1L (4 cup) baking dish, then pour over half the sauce. Dollop over half the ricotta and scatter with ½ tsp dried Italian herbs. Season with salt and pepper. Repeat with the remaining eggplant, sauce and ricotta, then scatter with ½ tsp dried Italian herbs. Put the dish on an oven tray and bake for 20 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/130377/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Add the rolls to the tray and cook for a further 5 mins or until the eggplant is tender and the bread is warmed through. Meanwhile, put the rocket, remaining onion and 2 tsp olive oil in a large bowl, season with salt and toss to combine. Divide the eggplant parmigiana, rocket salad and warm rolls among plates and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/130378/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Kitchen 101: Salting the eggplant before cooking helps to draw out the slightly bitter juices and makes it even more delicious. It's important to pat it dry with paper towel before cooking to remove the juices and any excess salt.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/130379/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "dn-street-style-plant-based-kofta-pitas-with-cucumber-and-tomato-salad",
+  "kind": "meal",
+  "title": "Street-Style Plant-Based Kofta Pitas",
+  "subtitle": "with Cucumber and Tomato Salad",
+  "description": "Looking for dinner on the table quick smart? These fast recipes are ready in 25 minutes or less and all come with yumness guaranteed.",
+  "sourceUrl": "https://dinnerly.com.au/menu/488519-street-style-plant-based-kofta-pitas-with-cucumber-and-tomato-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/488519/main_photos/large/street-59be2280da1cafd839f58f35d2cd0f4b.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 835,
+    "proteinG": 33.5,
+    "carbsG": 64.2,
+    "fatG": 47.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Pita Pockets",
+      "qty": 2,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40707/photos/medium/bread_pita_pocket_large_2_pack_210g-dd68a6cea413a682a7feebb6b9aac2bc.jpeg"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 250,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70237/photos/medium/plant_based_mince_v2_250g-feb6bf707afe7eee8bf05c88ca7b1be7.jpeg"
+    },
+    {
+      "name": "Kofta Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "kofta-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70746/photos/medium/seasoning_kofta_10g_ms-db870afe252d9a0f970a3885933b377b.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red or White Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make salad: Preheat the oven to 200C, fan-forced (see Make it faster). Thinly slice the onion and cucumber with a sharp knife or mandoline. Thinly slice the tomato. Combine 1 tbs olive oil and 2 tsp red wine vinegar in a large bowl and season with salt and pepper. Add the onion, cucumber and tomato and toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2841428/photos/large/134043_1-fa0806c1c15eded17b309e15561e37a7.jpeg"
+    },
+    {
+      "text": "Warm pita: Halve the pita to form 4 pockets, put in a single layer on an oven tray and cover the tray with foil. Heat in the oven for 10 mins or until softened and warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2841431/photos/large/134043_2-165d0666bd74785b058e4d9a5b34dbfd.jpeg"
+    },
+    {
+      "text": "Make koftas: Meanwhile, combine the plant-based mince and kofta seasoning in a large bowl and season with salt and pepper. Using damp hands, combine well, then shape into 4 oval-shaped koftas. Heat 2 tsp olive oil in a medium frypan over medium-high heat. Cook the koftas, turning, for 6-8 mins until browned and cooked through. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2841435/photos/large/134043_3-0e3c9bf0e947b666df075079f44757d4.jpeg"
+    },
+    {
+      "text": "Make garlic mayo: Crush ½ garlic clove. Combine the garlic, 2 tbs mayonnaise and 1 tsp water in a bowl and season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2841438/photos/large/134043_4-f351b0a85e4cb6b247abf28e45b94d4d.jpeg"
+    },
+    {
+      "text": "Serve up: Gently open up the pita pockets, fill with the kofta and salad and drizzle with the garlic mayo. Divide the pita among plates and serve with any remaining salad. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2841440/photos/large/134043_5-6f756345d1a665a511a70f1e3745dd9f.jpeg"
+    },
+    {
+      "text": "Make it faster: We've warmed the pita in the oven, but you can use a microwave instead. Halve the pita to form 4 pockets. Put on a plate, slightly overlapping, and microwave for 30 secs or until warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2841441/photos/large/134043_6-aee04cda53ecdc1cadc231f67f7971b2.jpeg"
+    }
+  ]
+}

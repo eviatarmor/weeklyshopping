@@ -1,0 +1,111 @@
+{
+  "slug": "dn-mexican-pumpkin-and-freekeh-salad-with-feta-and-avocado",
+  "kind": "meal",
+  "title": "Mexican Pumpkin and Freekeh Salad",
+  "subtitle": "with Feta and Avocado",
+  "description": "Make midweek meals easy by letting your oven do most of the work. Simply tumble capsicum and pumpkin into a tray, jazz things up with Mexican spice, then roast in the oven while you prepare the freekeh.",
+  "sourceUrl": "https://dinnerly.com.au/menu/37947-mexican-pumpkin-and-freekeh-salad-with-feta-and-avocado",
+  "imageUrl": "https://marleyspoon.com/media/recipes/37947/main_photos/large/mexican_pumpkin_and_freekeh_salad-9a6bdb6c2bad870250404f005fc7a2d5.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 595,
+    "proteinG": 17.6,
+    "carbsG": 59.6,
+    "fatG": 30.7
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 400,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31517/photos/medium/ing_butternut_pumpkin-3000ea2a963a7ee84343a1cb7b6175b1.jpg"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Mexican Spice Blend",
+      "qty": 5,
+      "unit": "g",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/39205/photos/medium/spice_mexican_moderate_heat_5g_dn-59c2d9f40e130612d0d728ea705b8c6f.jpeg"
+    },
+    {
+      "name": "Freekeh",
+      "qty": 1,
+      "unit": "packet",
+      "product": "freekeh",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70649/photos/medium/grain_freekeh_cracked_125g_ms-b59f4810c0921440cf80fd91602911fb.jpeg"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32038/photos/medium/ing_lime-18d0944abae22c25cc0f703fc952053f.jpg"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36662/photos/medium/ing_avocado-256dcb7b22e9a750995f0af810284915.jpg"
+    },
+    {
+      "name": "Feta",
+      "qty": 50,
+      "unit": "g",
+      "product": "feta",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31813/photos/medium/ing_feta_cheese-dd151343b0a1a7826609cb744aa6aa75.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep veggies: Preheat the oven to 200C. Peel the pumpkin and cut into 3cm chunks. Cut the capsicum into 2cm chunks.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/145746/photos/large/prep_veggies-829aff6645a8e0617e201669e8d153dd.jpeg"
+    },
+    {
+      "text": "Roast veggies: Put the pumpkin, capsicum, 2 tsp Mexican spice blend (see Make it yours) and 2 tsp olive oil in a roasting pan. Season with salt and pepper and toss to coat. Roast, turning halfway, for 25-30 mins until tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/145747/photos/large/roast_veggies-746c3e545e05819f094349f05574ce29.jpeg"
+    },
+    {
+      "text": "Cook freekeh: Meanwhile, put 100g (½ cup) freekeh (see Make it yours) in a medium saucepan with 1L (4 cups) water and bring to the boil. Reduce the heat to medium and cook, partially covered, for 15-18 mins until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/145748/photos/large/cook_freekeh-5305c3fd066a910f71b6da778fd03873.jpeg"
+    },
+    {
+      "text": "Make dressing: Juice half the lime into a bowl. Add 2 tsp olive oil and 2 tsp honey, season with salt and pepper and whisk to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/145749/photos/large/make_dressing-bb824f154c084170691ed12545bb64d5.jpeg"
+    },
+    {
+      "text": "Serve up: Thinly slice the avocado. Add the freekeh and dressing to the roasted veggies and toss well to combine. Divide the freekeh salad among bowls. Top with the avocado and crumble over the feta. Cut the remaining lime into wedges, serve with the salad and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/145750/photos/large/finish_and_serve_up-654fac392804d6379af922a422e0aed4.jpeg"
+    },
+    {
+      "text": "Make it yours: We've suggested this amount of Mexican spice blend for flavour, but if you prefer less heat or have little ones, reduce the seasoning to taste. ~ To keep within our healthy eating guidelines, only use 100g of the freekeh. However, if you wish to use all the freekeh, simply increase the amount of dressing.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/145751/photos/large/make_it_yours-a339942f3c42e3ac61e66fb3fd1c6e8f.jpeg"
+    }
+  ]
+}

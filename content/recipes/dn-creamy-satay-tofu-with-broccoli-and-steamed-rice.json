@@ -1,0 +1,125 @@
+{
+  "slug": "dn-creamy-satay-tofu-with-broccoli-and-steamed-rice",
+  "kind": "meal",
+  "title": "Creamy Satay Tofu",
+  "subtitle": "with Broccoli and Steamed Rice",
+  "description": "Golden strips of satay tofu and tender vegetables are served with soft steamed rice – perfect to soak up the luxurious, creamy peanut sauce. Totally slurpable!",
+  "sourceUrl": "https://dinnerly.com.au/menu/58361-creamy-satay-tofu-with-broccoli-and-steamed-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/58361/main_photos/large/creamy_satay_tofu-66e762ba62f97af113c7d5a6440c4b8c.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 830,
+    "proteinG": 34.7,
+    "carbsG": 81.8,
+    "fatG": 48
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Head Broccoli",
+      "qty": 1,
+      "product": "broccoli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33122/photos/medium/ing_broccoli-48f04011a71f2172a095afeaf3c73c85.jpg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70673/photos/medium/rice_jasmine_150g_ms-738732293471033ed769ed790327aa6d.jpeg"
+    },
+    {
+      "name": "Peanut Butter",
+      "qty": 40,
+      "unit": "g",
+      "product": "peanut-butter",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40670/photos/medium/paste_peanut_butter_natural_40g-af55b1aef0505695b8ccd7a608647179.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 125,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Crush or finely chop 2 garlic cloves. Thinly slice the onion. Peel the carrot, then halve lengthwise and thinly slice on an angle. Coarsely chop the broccoli stem into 1cm chunks. Cut the head into small florets. Cut the tofu pieces into thick strips.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/262116/photos/large/prep_ingredients-95f7607a9fef28ebf85dbe643e84a6c0.jpeg"
+    },
+    {
+      "text": "Cook rice: Rinse the rice until the water runs clear. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer over medium heat. Reduce the heat to low and cook for 12 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/262117/photos/large/cook_rice-0e0768c5c3d5a7bb086be43ceaf4d46f.jpeg"
+    },
+    {
+      "text": "Warm tofu: Meanwhile, put the peanut butter and 125ml (½ cup) boiling water in a jug and stir to combine. Add the coconut milk and 1 tbs soy sauce and stir to combine. Heat 2 tsp vegetable oil in a medium deep frypan over medium-high heat. Cook the tofu for 1-2 mins each side until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/262118/photos/large/warm_tofu-f2919e7a7149587d84177b07510a85d2.jpeg"
+    },
+    {
+      "text": "Simmer sauce: Heat 2 tsp vegetable oil in the pan over medium heat. Add the garlic, onion, carrot and broccoli stem and florets and cook, stirring, for 5 mins. Add the peanut butter mixture and stir to combine. Bring to the boil, then reduce the heat to medium-low and cook for a further 5 mins or until the sauce is slightly thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/262119/photos/large/simmer_sauce-d8a9d92fb93d03e2ebc4a5c88ae75642.jpeg"
+    },
+    {
+      "text": "Serve up: Add the tofu to the pan and cook for 3-4 mins until warmed through. Taste, then season with salt and pepper. Divide the rice among bowls, top with the satay tofu and vegetables and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/262120/photos/large/serve_up-cf066589c0f5ea8837dc1d4fee873a27.jpeg"
+    },
+    {
+      "text": "Make it yours: If you have a herb garden or any leftover coriander in your fridge, scatter some over the top of this dish, or finely chop and stir into the rice for a flavour twist.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/262121/photos/large/make_it_yours-9bc1fb5a05ebbcc72fa969908f8af91a.jpeg"
+    }
+  ]
+}

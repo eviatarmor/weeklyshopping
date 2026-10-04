@@ -21,7 +21,7 @@ const MEAT_PATTERN =
   /\b(chicken|beef|pork|lamb|bacon|prawns?|shrimp|fish|salmon|barramundi|basa|hoki|cod|chorizo|sausages?|ham|turkey|prosciutto|salami|pancetta|anchov\w*|tuna|duck|veal|venison|kangaroo|squid|calamari|mussels?|clams?|crab|lobster|steak|mince|gelatine?)\b/i;
 // "Plant-based mince", "chicken-style stock" and the like are vegetarian.
 // Australian "chicken salt" is a seasoning, normally made without chicken.
-const MEAT_EXCEPTIONS = /\b(chicken|beef)-style\b|plant-based|vegan|veggie|vegetarian|meat-free|meatless|vegetable stock|mushroom stock|chicken salt/i;
+const MEAT_EXCEPTIONS = /\b(chicken|beef)-style\b|plant-based|vegan|veggie|vegetarian|meat-free|meatless|vegetable stock|mushroom stock|chicken salt|\bvego\b|kale and cashew|sun-dried tomato sausage|fruit mince/i;
 
 export function meatIngredients(names: string[]): string[] {
   return names.filter((n) => MEAT_PATTERN.test(n) && !MEAT_EXCEPTIONS.test(n));

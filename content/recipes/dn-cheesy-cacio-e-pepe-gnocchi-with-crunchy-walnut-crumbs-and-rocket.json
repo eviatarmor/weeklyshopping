@@ -1,0 +1,121 @@
+{
+  "slug": "dn-cheesy-cacio-e-pepe-gnocchi-with-crunchy-walnut-crumbs-and-rocket",
+  "kind": "meal",
+  "title": "Cheesy Cacio e Pepe Gnocchi",
+  "subtitle": "with Crunchy Walnut Crumbs and Rocket",
+  "description": "Hey speed freaks; sharpen a knife, tie your apron, brush off a chopping board, then GO! Our fast recipes are ready in 25 minutes or less, thanks to our hack-packed, fail-safe cooking steps. Did we mention ‘yumness guaranteed’?",
+  "sourceUrl": "https://dinnerly.com.au/menu/124529-cheesy-cacio-e-pepe-gnocchi-with-crunchy-walnut-crumbs-and-rocket",
+  "imageUrl": "https://marleyspoon.com/media/recipes/124529/main_photos/large/cheesy_cacio_e_pepe_gnocchi-68e54d81745fca3134a11d92edaf3f0f.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 740,
+    "proteinG": 19.7,
+    "carbsG": 99.8,
+    "fatG": 28.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Walnuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "walnuts",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70699/photos/medium/nuts_walnuts_20g_ms-99fcbd70541e4c68f13217ee92312a6f.jpeg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 25,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70880/photos/medium/cheese_parmesan_25g-337d25a92d6b0a5b69f6d462913e4a67.jpeg"
+    },
+    {
+      "name": "Gnocchi",
+      "qty": 400,
+      "unit": "g",
+      "product": "gnocchi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70077/photos/medium/pasta_gnocchi_400g-baa76122fe6e02359a43db86287dfcb4.jpeg"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 20,
+      "unit": "g",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32843/photos/medium/ing_panko_breadcrumbs-afc5c1334f86532411df45373349ba32.jpg"
+    },
+    {
+      "name": "Pepper and Garlic Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "pepper-and-garlic-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70765/photos/medium/seasoning_pepper_and_garlic_10g_ms-a9998ac7d36ff594555d8e70ec0744b2.jpeg"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "rocket",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70415/photos/medium/pp_rocket_leaves_50g-7ae7fc29173d93a36787f907e6356ac8.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Balsamic or Red Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a large saucepan of salted water to the boil for the gnocchi. Coarsely chop the walnuts. Crush or finely chop 1 garlic clove. Finely grate the parmesan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/657989/photos/large/124529_1-1ecafbcc0f78cfeaa5c2a5db4b74d60d.jpeg"
+    },
+    {
+      "text": "Cook gnocchi: Add the gnocchi to the pan of boiling water (make sure the water is at a rapid boil), stir to separate, then return to the boil and cook for 3 mins. Reserve 125ml (½ cup) cooking water, then drain. Wipe the pan clean and reserve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/657990/photos/large/124529_2-8b53b099f16bb152819403fa0c6dd261.jpeg"
+    },
+    {
+      "text": "Toast walnut crumbs: Heat 2 tsp olive oil in a medium frypan over medium-high heat. Cook the walnuts, garlic and breadcrumbs, stirring, for 3-4 mins until golden. Season with salt and pepper. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/657991/photos/large/124529_3-29436ef8a2db13e878afea9f4a6d9cd6.jpeg"
+    },
+    {
+      "text": "Make sauce: Heat 20g butter in the reserved saucepan over medium-low heat. Add the gnocchi, reserved cooking water, parmesan and 3 tsp pepper and garlic seasoning (see Did you know?) and cook, stirring, for 1-2 mins until the sauce is thickened. Remove the pan from the heat. Taste, then season with salt.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/657992/photos/large/124529_4-7468da00b794f94d882d85fe2546c9c6.jpeg"
+    },
+    {
+      "text": "Serve up: Combine 2 tsp olive oil and 2 tsp balsamic vinegar in a large bowl and season with salt and pepper. Add the rocket and toss to coat. Divide the gnocchi among plates and scatter over the walnut crumbs. Serve with the rocket and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/657993/photos/large/124529_5-1abd4934b4c4986893db3c8b63d251a6.jpeg"
+    },
+    {
+      "text": "Did you know?: Cacio e pepe, which translates as 'cheese and pepper', is a traditional Roman pasta dish that's renowned for its simplicity and deliciousness. Here, we've used pepper and garlic seasoning to give that peppery kick; reduce the amount if you prefer less heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/657994/photos/large/124529_6-7d24a094b351c322de2bb8bae88daad7.jpeg"
+    }
+  ]
+}

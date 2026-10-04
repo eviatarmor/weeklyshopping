@@ -1,0 +1,101 @@
+{
+  "slug": "dn-speedy-eat-your-greens-fettuccine-with-spinach-peas-and-pesto",
+  "kind": "meal",
+  "title": "Speedy Eat-Your-Greens Fettuccine",
+  "subtitle": "with Spinach, Peas and Pesto",
+  "description": "Five easy steps, minimal pans and prep… we cut the fluff but not the flavour in our speedy recipes. In just 20 minutes, you’ll have this masterpiece on the table and be crowned in glory too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/447564-speedy-eat-your-greens-fettuccine-with-spinach-peas-and-pesto",
+  "imageUrl": "https://marleyspoon.com/media/recipes/447564/main_photos/large/speedy_eat_your_greens_fettuccine-fa4a5f0e21f9990c6d00dba19f3b3929.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 840,
+    "proteinG": 34.1,
+    "carbsG": 85.3,
+    "fatG": 38.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Fresh Fettuccine Pasta",
+      "qty": 300,
+      "unit": "g",
+      "product": "fettuccine",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71265/photos/medium/pasta_fettuccine_300g-5524c0aeeaf02932311d2c15f6d71e47.jpeg"
+    },
+    {
+      "name": "Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 100,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32389/photos/medium/ing_baby_spinach-f3486d8248bc703219e93950aa64ba5b.jpg"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 50,
+      "unit": "g",
+      "product": "pesto",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70491/photos/medium/basil_pesto_sachet_50g-59f18a1474c14e5adec89ef85de7490f.jpeg"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 20,
+      "unit": "g",
+      "product": "sunflower-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33325/photos/medium/ing_sunflower_seeds-92cddac624ac56c6398119ebc71ec502.jpg"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grate cheese: Bring a large saucepan of salted water to the boil for the pasta. Coarsely grate the parmesan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2595706/photos/large/141041_1-1b482778d159503b7ff4a5efc1c0ff2e.jpeg"
+    },
+    {
+      "text": "Cook pasta and peas: Add the pasta to the pan of boiling water and cook, stirring to separate the strands, for 1 min. Add the peas and cook for a further 2 mins or until the pasta is al dente and the peas are tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2595707/photos/large/141041_2-8fd61732433c8dac3a1405fd10cf5805.jpeg"
+    },
+    {
+      "text": "Add spinach: Add the spinach to the pasta and peas and stir to wilt. Reserve 60ml (¼ cup) cooking water, then drain. Return the pasta mixture to the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2595708/photos/large/141041_3-8b1b5903d7139328c21351c4b2794263.jpeg"
+    },
+    {
+      "text": "Finish pasta: Return the pan to low heat. Add the pesto, reserved cooking water and half the parmesan to the pasta mixture and stir until slightly thickened and the cheese is melted. Remove the pan from the heat. Add 1 tbs mayonnaise and stir to combine. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2595709/photos/large/141041_4-7515ac154694a367cf946acd7de9c5f1.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the pesto pasta among bowls. Scatter over the sunflower seeds (see Make it yours) and remaining parmesan and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2595710/photos/large/141041_5-0861be8c5d7052ad76834ae43441b143.jpeg"
+    },
+    {
+      "text": "Make it yours: If you'd like to add a little crunch, put the sunflower seeds in a cold small frypan over medium heat. Toast, tossing, for 2-3 mins until evenly golden, then scatter over the pasta.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2595711/photos/large/141041_6-33e2edcce4a44442ccf348a212809420.jpeg"
+    }
+  ]
+}

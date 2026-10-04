@@ -1,0 +1,124 @@
+{
+  "slug": "dn-plant-based-meatballs-and-spaghetti-with-tomato-sauce",
+  "kind": "meal",
+  "title": "Plant-Based Meatballs and Spaghetti",
+  "subtitle": "with Tomato Sauce",
+  "description": "This is our vegetarian spin on the beloved Italian classic. With meat-free meatballs simmered in a rich tomato sauce, then twirled through spaghetti, it's sure to be a hit!",
+  "sourceUrl": "https://dinnerly.com.au/menu/56915-plant-based-meatballs-and-spaghetti-with-tomato-sauce",
+  "imageUrl": "https://marleyspoon.com/media/recipes/56915/main_photos/large/plant_based_meatballs_and_spaghetti-46c0f3538a99638cc4b33a639d61bcca.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 865,
+    "proteinG": 40.4,
+    "carbsG": 92.2,
+    "fatG": 34.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31905/photos/medium/ing_parsley-b796d1e1a29a36a912425caa2545574c.jpg"
+    },
+    {
+      "name": "V2 Plant-Based Mince",
+      "qty": 250,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70237/photos/medium/plant_based_mince_v2_250g-feb6bf707afe7eee8bf05c88ca7b1be7.jpeg"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 20,
+      "unit": "g",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32843/photos/medium/ing_panko_breadcrumbs-afc5c1334f86532411df45373349ba32.jpg"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 250,
+      "unit": "g",
+      "product": "spaghetti",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32776/photos/medium/ing_spaghetti-e015cad043724667055d18db6624ba82.jpg"
+    },
+    {
+      "name": "Italian Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70105/photos/medium/seasoning_italian_5g-650d40b4a4f50eec9dcbcc11ba0e873a.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 390,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the spaghetti. Finely chop the onion. Finely chop the parsley, including the stems. Crush or finely chop 2 garlic cloves. Put the plant-based mince, breadcrumbs and 1 egg in a bowl and season with salt and pepper. Using damp hands, combine well, then shape into walnut-sized balls.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260136/photos/large/prep_ingredients-d378ebe1300deb5f48f4f6e85c894fcd.jpeg"
+    },
+    {
+      "text": "Cook spaghetti: Cook three-quarters of the spaghetti in the pan of boiling water for 12 mins or until al dente. Reserve 60ml (¼ cup) cooking water, then drain the spaghetti.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260137/photos/large/cook_spaghetti-16b615ee7e603b5ba1768864a31c7fce.jpeg"
+    },
+    {
+      "text": "Brown meatballs: Meanwhile, heat 1 tbs olive oil in a medium deep frypan over medium-high heat. Cook the meatballs, turning occasionally, for 4 mins or until browned. Remove from the pan. Heat 2 tsp olive oil in the pan over medium heat. Cook the onion for 3-4 mins until softened. Add the Italian seasoning, parsley stems and garlic, then cook, stirring, for 1-2 mins until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260138/photos/large/brown_meatballs-5c1f5cf2fe0d43ec484799f4717de402.jpeg"
+    },
+    {
+      "text": "Simmer sauce: Add the tomatoes, 1 tbs tomato paste and 125ml (½ cup) water to the pan and bring to the boil. Reduce the heat to medium, add the meatballs and cook, stirring occasionally, for 6 mins or until slightly reduced.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260139/photos/large/simmer_sauce-1346826a7a6519ace3c70efeff638d65.jpeg"
+    },
+    {
+      "text": "Serve up: Add the spaghetti and reserved cooking water to the sauce, season with salt and pepper and toss to coat. Divide the meatballs and spaghetti among bowls, scatter over the remaining parsley and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260140/photos/large/serve_up-92133ff82a86abd9db6bf303c73d268e.jpeg"
+    },
+    {
+      "text": "Make it yours: Like things cheesy? Scatter over grated mozzarella or cheddar to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260141/photos/large/make_it_yours-bfcd5263ad0421f57fbc99420bc0a652.jpeg"
+    }
+  ]
+}

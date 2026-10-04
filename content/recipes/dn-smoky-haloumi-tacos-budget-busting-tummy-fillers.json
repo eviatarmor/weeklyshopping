@@ -1,0 +1,120 @@
+{
+  "slug": "dn-smoky-haloumi-tacos-budget-busting-tummy-fillers",
+  "kind": "meal",
+  "title": "Smoky Haloumi Tacos",
+  "subtitle": "Budget-Busting Tummy Fillers!",
+  "description": "Filling, tried-and-true flavours, and even more budget-friendly than our core menu – that’s our Thrifty Feed recipes! These classic dishes are perfect for when you want to put tasty, honest-to-goodness food on the table, and enjoy even more savings to boot.",
+  "sourceUrl": "https://dinnerly.com.au/menu/718057-smoky-haloumi-tacos-budget-busting-tummy-fillers",
+  "imageUrl": "https://marleyspoon.com/media/recipes/387158/main_photos/large/smoky_haloumi_tacos_with_mexican_pepitas-f1fa57e03058b8bce9103d29530c0893.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 870,
+    "proteinG": 29.8,
+    "carbsG": 54.3,
+    "fatG": 55.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "qty": 200,
+      "unit": "g",
+      "product": "cabbage",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70408/photos/medium/pp_cabbage_green_portion_cut_200g-95ccf1b4fea39575a0f94333ffebd7e7.jpeg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Pepitas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pepitas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70708/photos/medium/seeds_pepitas_30g_ms-eb346c32d6b98846bfdc139239f99ffe.jpeg"
+    },
+    {
+      "name": "Smoky Barbecue Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70772/photos/medium/seasoning_smoky_barbecue_10g_ms-617ae675525f979a4a68490b15698dff.jpeg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Thinly slice the cabbage with a sharp knife or mandoline. Shred the carrot using a julienne peeler or coarsely grate with a box grater. Slice the haloumi.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4218898/photos/large/352641_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Make slaw: Combine 2 tbs mayonnaise and 2 tsp white wine vinegar in a large bowl. Season with salt and pepper. Add the cabbage and carrot and toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4218903/photos/large/352641_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Toast pepitas: Put the pepitas in a cold small frypan over medium heat. Toast, tossing, for 3-4 mins until evenly golden. Add half the barbecue seasoning, 1 tsp honey and 1 tbs water and cook, tossing, for 1-2 mins until evenly coated. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4218908/photos/large/352641_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Cook haloumi: Meanwhile, heat 2 tsp olive oil in a medium frypan over medium-high heat. Cook the haloumi for 2 mins each side or until golden. Add the remaining barbecue seasoning and 2 tsp water and cook, turning, for 1 min or until the haloumi is coated. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4218917/photos/large/352641_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Put the tortillas on a plate, slightly overlapping, and microwave for 30 secs or until warmed through (see Kitchen hack). Divide the slaw among the tortillas, top with the haloumi and drizzle with any remaining pan glaze. Scatter over the pepitas and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4218923/photos/large/352641_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Kitchen hack: If you don't have a microwave, enclose the tortillas in foil. Put in a 220C oven for 8 mins or until softened and warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4218925/photos/large/352641_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

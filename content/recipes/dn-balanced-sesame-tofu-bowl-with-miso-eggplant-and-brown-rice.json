@@ -1,0 +1,132 @@
+{
+  "slug": "dn-balanced-sesame-tofu-bowl-with-miso-eggplant-and-brown-rice",
+  "kind": "meal",
+  "title": "Balanced Sesame Tofu Bowl",
+  "subtitle": "with Miso Eggplant and Brown Rice",
+  "description": "Bring healthy vibes to your meal plan this week and fuel up on the good stuff. Start with a base of brown rice, top with sesame tofu and miso-marinated eggplant, then finish with a crispy, crunchy carrot and radish salad.",
+  "sourceUrl": "https://dinnerly.com.au/menu/78111-balanced-sesame-tofu-bowl-with-miso-eggplant-and-brown-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/78111/main_photos/large/balanced_soy_and_sesame_tofu-6b245c70ca4416f5e6ef7d3ea9c101b0.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 685,
+    "proteinG": 23.9,
+    "carbsG": 70.5,
+    "fatG": 33.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70667/photos/medium/rice_brown_125g_ms-bb2b40f31e627b853d57fde2dd7b6559.jpeg"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34663/photos/medium/ing_eggplant-6995d39ec1e648a8ff8d8405591300cc.jpg"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 2,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Miso Paste",
+      "qty": 1,
+      "unit": "packet",
+      "product": "miso-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70581/photos/medium/paste_miso_white_20g_ms-a81fcf96ca2c02789b1f249adf25d9ee.jpeg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Radish",
+      "qty": 40,
+      "unit": "g",
+      "product": "radish",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32668/photos/medium/ing_raddish-d43076e6023939397703e62f7d3674d9.jpg"
+    },
+    {
+      "name": "Sesame",
+      "qty": 200,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70474/photos/medium/tofu_sesame_soy_and_ginger_200g-8db503890d6db06a8b20f28e140d0f6d.jpeg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "dijon-mustard",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Preheat the oven to 220C. Line an oven tray with baking paper. Fill a medium saucepan three-quarters full with water and bring to the boil. Add the rice and cook for 25 mins or until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381129/photos/large/prep_ingredients-bcea374613e31f265062dd82b370de81.jpeg"
+    },
+    {
+      "text": "Roast eggplant: Meanwhile, cut the eggplant into 2cm chunks. Thinly slice the spring onions, keeping the white and green parts separate. Combine the eggplant, white part of the spring onion, miso, 1 tbs vegetable oil, 1 tbs dijon mustard and 2 tsp honey in a bowl. Season with salt and pepper. Put on the lined tray and roast for 15 mins or until softened and slightly charred.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381130/photos/large/cook_rice-a66be02f3280fbd9aef6232bdb76d4e7.jpeg"
+    },
+    {
+      "text": "Prep ingredients: While the eggplant is roasting, peel the carrot, then shred using a julienne peeler or coarsely grate with a box grater. Thinly slice the radish. Halve the tofu pieces.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381131/photos/large/roast_eggpplant-fe88d1f1fe973f2505646d473160c6be.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat 1 tbs vegetable oil in a medium frypan over medium-high heat. Cook the tofu, turning occasionally, for 4 mins or until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381132/photos/large/cook_tofu-bba7039f17e94064dd4adea8d3429f46.jpeg"
+    },
+    {
+      "text": "Serve up: Combine the carrot, radish, remaining spring onion, 2 tsp soy sauce and 1 tbs white vinegar in a bowl. Divide the rice among bowls, top with the eggplant and tofu and spoon over any tray juices. Serve with the carrot salad and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381133/photos/large/serve_up-8e19f7ef215914bfa760cf449a19c0d0.jpeg"
+    },
+    {
+      "text": "Make it yours: Got some sesame seeds on hand? Sprinkle over the top for extra nutty flavour and crunch.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/381134/photos/large/make_it_yours-3eb245646131889caae61639f2ea6550.jpeg"
+    }
+  ]
+}

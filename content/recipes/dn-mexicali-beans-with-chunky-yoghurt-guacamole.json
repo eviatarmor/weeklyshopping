@@ -1,0 +1,114 @@
+{
+  "slug": "dn-mexicali-beans-with-chunky-yoghurt-guacamole",
+  "kind": "meal",
+  "title": "Mexicali Beans",
+  "subtitle": "with Chunky Yoghurt Guacamole",
+  "description": "This wholesome Cal-Mex meal hits the mark with richly flavoured beans, zucchini-laced rice and a chunky, creamy mix of yoghurt and avo.",
+  "sourceUrl": "https://dinnerly.com.au/menu/36010-mexicali-beans-with-chunky-yoghurt-guacamole",
+  "imageUrl": "https://marleyspoon.com/media/recipes/36010/main_photos/large/mexicali-e3bc0d05f6e12236dc2f2b3622a24645.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 685,
+    "proteinG": 19.7,
+    "carbsG": 79.6,
+    "fatG": 27.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32394/photos/medium/ing_zucchini-83c81bdb81a19f7c2cefcc32f0631213.jpg"
+    },
+    {
+      "name": "Kidney Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "red-kidney-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31526/photos/medium/Red_kidney_bean-e3de4f2f19d61eb708813c15759aa8eb.jpg"
+    },
+    {
+      "name": "Brown Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70667/photos/medium/rice_brown_125g_ms-bb2b40f31e627b853d57fde2dd7b6559.jpeg"
+    },
+    {
+      "name": "Mexican Spice Blend",
+      "qty": 5,
+      "unit": "g",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/39205/photos/medium/spice_mexican_moderate_heat_5g_dn-59c2d9f40e130612d0d728ea705b8c6f.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 390,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36662/photos/medium/ing_avocado-256dcb7b22e9a750995f0af810284915.jpg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31758/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Fill a medium saucepan three-quarters full with water and bring to the boil for the rice. Meanwhile, coarsely grate the zucchini. Drain and rinse the beans. Cook the rice in the pan of boiling water for 25 mins or until tender. Drain and return to the pan. Stir through the zucchini (see Kitchen tips).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133158/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Cook beans and spices: Meanwhile, heat 1 tbs olive oil in a medium deep frypan over medium-high heat. Cook the beans and 2 tsp Mexican spice blend (see Kitchen tips), stirring, for 2 mins or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133159/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Add tomatoes and simmer: Add the tomatoes and 1 tsp white vinegar to the beans, bring to the boil, then reduce the heat to medium. Cook, stirring occasionally, for 5 mins or until the sauce is thick and chunky. Remove the pan from the heat and season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133160/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Chop avocado: Meanwhile, cut the avocado into 1cm chunks.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133161/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Divide the zucchini rice, Mexicali beans and avocado among bowls, then season with salt and pepper. Dollop with the yoghurt, sprinkle with a pinch of Mexican spice blend, if desired, and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133162/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Kitchen tips: If you are serving this to kids who aren't fond of veggies, you can 'hide' the zucchini by adding it to the bean sauce instead of the rice. ~ We've suggested this amount of Mexican spice blend for flavour, but if you prefer less heat or have little ones, reduce the amount to taste.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/133163/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

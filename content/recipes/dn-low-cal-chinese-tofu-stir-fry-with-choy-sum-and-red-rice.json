@@ -1,0 +1,126 @@
+{
+  "slug": "dn-low-cal-chinese-tofu-stir-fry-with-choy-sum-and-red-rice",
+  "kind": "meal",
+  "title": "Low-Cal Chinese Tofu Stir-Fry",
+  "subtitle": "with Choy Sum and Red Rice",
+  "description": "Enjoy a delicious low-cal dinner in a few simple steps. Cook tofu until golden, stir-fry Asian greens and serve with nutrient-rich red rice.",
+  "sourceUrl": "https://dinnerly.com.au/menu/55443-low-cal-chinese-tofu-stir-fry-with-choy-sum-and-red-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/55443/main_photos/large/low_cal_chinese_tofu_stir_fry-e4ccc80ac29c25ba7cd295af0a990726.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 535,
+    "proteinG": 23.8,
+    "carbsG": 64.8,
+    "fatG": 19.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "calorie conscious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Rice",
+      "qty": 125,
+      "unit": "g",
+      "product": "white-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70262/photos/medium/rice_red_125g-a1fe02deaea17e6ae5b4bf85144ca837.jpeg"
+    },
+    {
+      "name": "Choy Sum",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "asian-greens",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31630/photos/medium/ING_ChoySum-4661ce18fd9462b2ebb5ed5cb0c64fb9.jpg"
+    },
+    {
+      "name": "Long Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31938/photos/medium/ing_chilli_long_red-97d8e3ae86ec9fa54c0046921e7e35e5.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Honey Soy Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37865/photos/medium/ING_Tofu_ChineseHoneySoy-b7f2277ffcfb1ee7d685ae35c66be563.jpg"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70715/photos/medium/seeds_toasted_sesame_seed_mix_5g_ms-7c84f16e8b43b25f35f8254d6ad74fba.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Fill a medium saucepan three-quarters full with water and bring to the boil. Add the rice and cook for 25 mins or until tender. Drain. Meanwhile, cut the choy sum into thirds, keeping the stems and leaves separate.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/250963/photos/large/cook_rice-2ddf9787610b42bf18b6b55c7b43c96b.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Finely chop half the chilli, removing the seeds if less heat is desired (see Did you know?). Crush or finely chop 1 garlic clove. Peel the carrot, then shred using a julienne peeler or coarsely grate with a box grater. Halve the tofu pieces.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/250964/photos/large/prep_ingredients-c7ac35b74fc5534b60ca4708ff162ee5.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat 2 tsp vegetable oil in a medium deep frypan over medium-high heat. Cook the tofu for 1-2 mins each side until golden and warmed through. Remove from the pan, reserving the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/250965/photos/large/warm_tofu-6689a3a506b2aac58869fc5df1dd5fa7.jpeg"
+    },
+    {
+      "text": "Stir-fry veggies: Put 2 tbs soy sauce, 1 tsp white vinegar and 1 tsp honey in a bowl, season with pepper and stir to combine. Heat 2 tsp vegetable oil in the reserved pan over medium-high heat. Stir-fry the choy sum stems, chilli, carrot and garlic for 1 min or until tender but still with crunch.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/250966/photos/large/stir_fry_veggies-19927425540efbab334e2e8485ec356c.jpeg"
+    },
+    {
+      "text": "Serve up: Add the choy sum leaves, tofu and sauce to the pan, then stir-fry for 1 min or until warmed through and just wilted. Remove the pan from the heat. Divide the rice and stir-fry among bowls. Scatter over the sesame seeds and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/250967/photos/large/serve_up-39a6429249d23754ca0037ae3ee2c5de.jpeg"
+    },
+    {
+      "text": "Did you know?: The chemical in chillies that makes them taste hot is called capsaicin, which stimulates the adrenal glands and gives you an endorphin rush. It's no wonder they can be quite addictive! Before adding to your dish, taste a bit of the chopped chilli for heat, which can vary from mild to medium depending on the season.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/250968/photos/large/did_you_know-1baf275d5a8df4b40fcbe12b44285d29.jpeg"
+    }
+  ]
+}

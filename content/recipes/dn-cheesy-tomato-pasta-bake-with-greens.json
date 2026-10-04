@@ -1,0 +1,112 @@
+{
+  "slug": "dn-cheesy-tomato-pasta-bake-with-greens",
+  "kind": "meal",
+  "title": "Cheesy Tomato Pasta Bake",
+  "subtitle": "with Greens",
+  "description": "This hearty macaroni pasta bake has the whole family written on it. Make our easy, cheesy sauce, add pasta and veggies, then pop it in the oven for a quick bake.",
+  "sourceUrl": "https://dinnerly.com.au/menu/61749-cheesy-tomato-pasta-bake-with-greens",
+  "imageUrl": "https://marleyspoon.com/media/recipes/61749/main_photos/large/cheesy_cherry_tomato_pasta_bake-dc60de1cb5f00f04feaab2030479e0f4.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 710,
+    "proteinG": 30.4,
+    "carbsG": 88,
+    "fatG": 24.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32394/photos/medium/ing_zucchini-83c81bdb81a19f7c2cefcc32f0631213.jpg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 100,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31757/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Macaroni Pasta",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70703/photos/medium/pasta_macaroni_200g_ms-210e257b94fa9721c56b679dc02560b9.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Milk",
+      "qty": 60,
+      "unit": "ml",
+      "product": "milk",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 10,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C. Lightly grease a 1.5L (6 cup) baking dish. Bring a large saucepan of salted water to the boil for the pasta. Thinly slice the zucchini into rounds. Thinly slice the spring onion on an angle. Coarsely grate the cheese.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289818/photos/large/prep_ingredients-3180c1995c9c562b9ab2507f3e6b182f.jpeg"
+    },
+    {
+      "text": "Cook pasta: Par-cook the pasta in the pan of boiling water for 4 mins (see Kitchen 101). Reserve 60ml (¼ cup) cooking water, then drain the pasta.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289819/photos/large/cook_pasta-91e22dd3865dd51e646778d38f67ba5c.jpeg"
+    },
+    {
+      "text": "Make sauce: Return the pan to medium heat. Add the reserved cooking water, half the cheese, 60ml (¼ cup) milk, 10g butter and 1 tbs plain flour to the pan. Season with salt and pepper. Cook, stirring constantly, for 1-2 mins until the sauce is smooth and thickened. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289820/photos/large/make_sauce-33de0bba52f7cac5d346da9b6b46c517.jpeg"
+    },
+    {
+      "text": "Assemble pasta bake: Add the pasta, zucchini, spinach and tomatoes to the sauce and season with salt and pepper. Stir to combine, then transfer to the prepared dish. Scatter over the spring onion and remaining cheese.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289821/photos/large/assemble_pasta_bake-3f95c497168c21232905b81c4ec42b0f.jpeg"
+    },
+    {
+      "text": "Bake and serve up: Bake for 10-12 mins until bubbling and golden. Divide the pasta bake among plates and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289822/photos/large/bake_and_serve_up-842e67fe2bb0a83db5341117a3cb8a89.jpeg"
+    },
+    {
+      "text": "Kitchen 101: To avoid overcooked baked pasta, the pasta is only partially cooked at this stage – it will finish cooking in the hot sauce when baked in the oven.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289823/photos/large/kitchen_101-cc57c332268d3d66950fa070b67c1652.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "dn-chinese-tofu-noodles-with-veggies-and-char-siu",
+  "kind": "meal",
+  "title": "Chinese Tofu Noodles",
+  "subtitle": "with Veggies and Char Siu",
+  "description": "Keep the kids happy – and the adults too! Simply choose our 'kid-approved' recipes filled with crowd-pleasing flavours and ingredients, then watch the whole family tuck in. You can thank us later!",
+  "sourceUrl": "https://dinnerly.com.au/menu/368701-chinese-tofu-noodles-with-veggies-and-char-siu",
+  "imageUrl": "https://marleyspoon.com/media/recipes/368701/main_photos/large/kid_approved_chinese_tofu_noodles-fdad4f448342c6d03343ddfed1659542.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 620,
+    "proteinG": 27.2,
+    "carbsG": 90,
+    "fatG": 15.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 150,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31688/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Honey Soy Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37865/photos/medium/ING_Tofu_ChineseHoneySoy-b7f2277ffcfb1ee7d685ae35c66be563.jpg"
+    },
+    {
+      "name": "Char Siu Sauce",
+      "qty": 60,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70455/photos/medium/sauce_char_siu_60g-6d788b33a3b2b3a852640d0f0880c98d.jpeg"
+    },
+    {
+      "name": "Egg Noodles",
+      "qty": 150,
+      "unit": "g",
+      "product": "egg-noodles",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71251/photos/medium/noodles_dried_egg_150g_dn-c7ec1854a2e6b88e09c5e9e7dc8035e5.jpeg"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70712/photos/medium/seeds_toasted_sesame_seed_mix_10g_ms-ca6184db24f576ee2cfcd2e5ffb03bab.jpeg"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Shred the carrot using a julienne peeler or coarsely grate with a box grater (see Kitchen 101). Trim the beans and halve on an angle. Cut the tofu into 2cm chunks. Combine the char siu sauce, 2 tsp soy sauce and 1 tbs water in a bowl and season with pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2122540/photos/large/121569_1-ced4e6a6785f20efa7a0f3319fd10d48.jpeg"
+    },
+    {
+      "text": "Warm tofu: Bring a medium saucepan of water to the boil for the noodles. Heat 2 tsp vegetable oil in a medium deep frypan over medium heat. Cook the tofu for 2 mins each side or until golden and warmed through. Remove from the pan, reserving the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2122541/photos/large/121569_2-08fe1c69301a2bb5a3364e392817e625.jpeg"
+    },
+    {
+      "text": "Cook noodles: Cook the noodles and beans in the pan of boiling water for 2-3 mins until tender. Drain, then rinse under hot water to prevent the noodles from sticking.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2122542/photos/large/121569_3-18f71757e037e3494f385eacaf5ee35e.jpeg"
+    },
+    {
+      "text": "Soften carrot: Meanwhile, heat the reserved pan over medium heat. Cook the carrot, stirring, for 2 mins or until softened. Add the char siu sauce mixture and cook, stirring, for 1 min or until combined.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2122543/photos/large/121569_4-0b2e2b737bcaeceb7da99eaa4c73c489.jpeg"
+    },
+    {
+      "text": "Serve up: Add the tofu and noodles and beans to the carrot mixture and toss to combine and warm through. Divide the noodle mixture among bowls and scatter over the sesame seeds. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2122544/photos/large/121569_5-0db8ed5b427ef60db7def615f655978d.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Do you own a julienne peeler? We love using it in our recipes, as it makes short work of veggie prep. It looks similar to a veggie peeler but with serrated teeth. You simply drag the peeler along the vegetable – and voila! – you have a pretty pile of professional-looking julienne strips.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2122545/photos/large/121569_6-cba46063b392b7c11a1d92d8445f45f6.jpeg"
+    }
+  ]
+}

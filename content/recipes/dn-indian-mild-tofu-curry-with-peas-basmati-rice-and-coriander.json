@@ -1,0 +1,113 @@
+{
+  "slug": "dn-indian-mild-tofu-curry-with-peas-basmati-rice-and-coriander",
+  "kind": "meal",
+  "title": "Indian Mild Tofu Curry",
+  "subtitle": "with Peas, Basmati Rice and Coriander",
+  "description": "Toss marinated tofu through a coconutty sauce laced with mild Indian spices, then serve with peas and basmati rice. It's curry perfection for the whole family.",
+  "sourceUrl": "https://dinnerly.com.au/menu/56913-indian-mild-tofu-curry-with-peas-basmati-rice-and-coriander",
+  "imageUrl": "https://marleyspoon.com/media/recipes/56913/main_photos/large/indian_mild_tofu_curry-e4becdf4917559ae9e4bfc092ae4eedf.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 875,
+    "proteinG": 30,
+    "carbsG": 84.1,
+    "fatG": 42.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70665/photos/medium/rice_basmati_150g_ms-295486fcd2e255689930dd9df88cd519.jpeg"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Curry Paste",
+      "qty": 40,
+      "unit": "g",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70172/photos/medium/paste_butter_chicken_40g-40be4aab0b8a2eb00d7472a2cd3636fb.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Fill a medium saucepan three-quarters full with water and bring to the boil. Add the rice and cook for 12 mins or until tender. Drain and cover to keep warm.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260130/photos/large/cook_rice-f8928f8f38efc8c5e0b866cae44d2911.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, pick the coriander leaves and finely chop the stems. Heat 2 tsp vegetable oil in a medium deep frypan over medium heat. Cook the tofu for 2 mins each side or until golden. Remove from the pan and thinly slice.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260131/photos/large/prep_ingredients-8d3bd421d3e2fa593ca52a7db5b10c7f.jpeg"
+    },
+    {
+      "text": "Cook aromatics: Melt 20g butter (see Make it yours) in the pan over medium-high heat. Add the curry paste and coriander stems and cook, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260132/photos/large/cook_aromatics-f7d683442e8ef104bbf6190eac54c07e.jpeg"
+    },
+    {
+      "text": "Simmer curry: Add the coconut milk, 2 tbs tomato paste and 125ml (½ cup) water to the curry paste and stir to combine. Bring to the boil, then reduce the heat to low and cook for 8 mins or until slightly thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260133/photos/large/simmer_curry-84ec973390d2ef1d6109f431e37a0a35.jpeg"
+    },
+    {
+      "text": "Serve up: Add the peas and tofu to the curry and cook for 4 mins or until the peas are tender and the tofu is warmed through. Remove the pan from the heat. Taste, then season with salt and pepper. Divide the rice and curry among bowls. Top with the coriander leaves and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260134/photos/large/serve_up-cc75dcbf986d6e44b54376f6cdfe02a9.jpeg"
+    },
+    {
+      "text": "Make it yours: If you want to make this recipe vegan, swap the butter for 2 tsp vegetable oil or coconut oil, if you have some on hand in the pantry.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/260135/photos/large/make_it_yours-4e030d4807b28e9ee21273253ea9f09f.jpeg"
+    }
+  ]
+}

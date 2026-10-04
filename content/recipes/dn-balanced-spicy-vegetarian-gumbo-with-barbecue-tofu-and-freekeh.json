@@ -1,0 +1,132 @@
+{
+  "slug": "dn-balanced-spicy-vegetarian-gumbo-with-barbecue-tofu-and-freekeh",
+  "kind": "meal",
+  "title": "Balanced Spicy Vegetarian Gumbo",
+  "subtitle": "with Barbecue Tofu and Freekeh",
+  "description": "Originating in Louisiana, gumbo is part soup, part stew. This vego version combines smoky tofu, capsicum, celery and nutty wholegrains for a hearty meal.",
+  "sourceUrl": "https://dinnerly.com.au/menu/97622-balanced-spicy-vegetarian-gumbo-with-barbecue-tofu-and-freekeh",
+  "imageUrl": "https://marleyspoon.com/media/recipes/97622/main_photos/large/balanced_spicy_vego_gumbo-bc6426c326cb5e6547305443c03f5f63.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 685,
+    "proteinG": 28.4,
+    "carbsG": 81,
+    "fatG": 26.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "qty": 1,
+      "unit": "packet",
+      "product": "freekeh",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70649/photos/medium/grain_freekeh_cracked_125g_ms-b59f4810c0921440cf80fd91602911fb.jpeg"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Celery Stalk",
+      "qty": 1,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34068/photos/medium/ing_celery-a141d756a8aa3437b55409a79f201eec.jpg"
+    },
+    {
+      "name": "Smoky Barbecue Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70488/photos/medium/tofu_smoky_bbq_200g-cba935d37c292967b228ecdc0899169a.jpeg"
+    },
+    {
+      "name": "Cajun Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "cajun-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70721/photos/medium/seasoning_cajun_5g_ms-f6b16ff05482ddec75cc99029a2a4a55.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 430,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook freekeh: Fill a medium saucepan three-quarters full with water and bring to the boil. Cook the freekeh, partially covered, for 18-20 mins until tender. Drain and rinse under cold water.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/495177/photos/large/cook_freekeh-05cf86908a01a99034987a106e02199d.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, thinly slice the onion. Cut the capsicum and celery into 3cm chunks. Quarter the tofu pieces. Put 2 tsp Cajun spice blend, 2 tbs tomato paste, 2 tbs soy sauce and 430ml (1¾ cups) boiling water in a heatproof jug and stir to dissolve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/495178/photos/large/prep_ingredients-b567a59f8062dce274be3fdcb69b89d8.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat 1 tbs olive oil in a large saucepan over medium heat. Cook the tofu for 2 mins each side or until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/495179/photos/large/warm_tofu-e57eb0140683278651853187422fb692.jpeg"
+    },
+    {
+      "text": "Simmer gumbo: Heat 2 tsp olive oil in the same pan over medium heat. Cook the onion, stirring, for 3 mins or until softened. Add the capsicum and celery and cook, stirring, for 2-3 mins until just tender. Stir in the stock, tomatoes and 2 tsp honey and bring to the boil. Reduce the heat to medium and cook, stirring occasionally, for 10 mins or until the sauce is slightly thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/495180/photos/large/cook_veggies-ab8e0b7d491a7f53d1f17d454f69f1c8.jpeg"
+    },
+    {
+      "text": "Serve up: Add the freekeh and tofu to the gumbo and cook for a further 2 mins or until warmed through. Remove the pan from the heat. Taste, then season with salt and pepper. Divide the gumbo among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/495181/photos/large/simmer_and_serve_up-480f74e88ddf22d7fde5c21eed6d220a.jpeg"
+    },
+    {
+      "text": "Did you know?: Gumbo is a speciality of Louisiana cooking, although its origins trace back to French, Spanish and African cultures. There are countless versions, some made with seafood or meat while others include okra, which helps to thicken the stew. And that's how the dish got its name – 'gumbo' is derived from the West African word for okra.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/495182/photos/large/make_it_yours-7aae1191530dd7e1f4ff3db28b6c3d3a.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "dn-baked-falafel-salad-with-yoghurt-dressing-and-croutons",
+  "kind": "meal",
+  "title": "Baked Falafel Salad",
+  "subtitle": "with Yoghurt Dressing and Croutons",
+  "description": "These tasty falafels are oven-baked instead of fried, so they're a cinch to make. Served with creamy yoghurt, crunchy croutons and crisp greens, they're good for you too.",
+  "sourceUrl": "https://dinnerly.com.au/menu/17765-baked-falafel-salad-with-yoghurt-dressing-and-croutons",
+  "imageUrl": "https://marleyspoon.com/media/recipes/17765/main_photos/large/DID00085HERO_BakedFalafelSalad_02-ab425acbdb5f4165d55a187e5b0f9ef3.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 635,
+    "proteinG": 23.3,
+    "carbsG": 64.6,
+    "fatG": 26.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Can Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Parsley",
+      "qty": 40,
+      "unit": "g",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32827/photos/medium/ing_parsley-b796d1e1a29a36a912425caa2545574c.jpg"
+    },
+    {
+      "name": "Sourdough Roll",
+      "qty": 1,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36869/photos/medium/bread_sourdough_baby_baguette_30083_1_pack_10_0g-738ec2ecb38f3225200acf37b7ba10f4.jpeg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31758/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Cumin and Coriander Spice Blend",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70801/photos/medium/spice_cumin_and_coriander_5g_ms-e3a3d1328f15924d9f181dc9f17147ea.jpeg"
+    },
+    {
+      "name": "Red Onions",
+      "qty": 2,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35155/photos/medium/onion_red_180g-a34bfac71dec5464d037196ed52a2368.jpeg"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70412/photos/medium/pp_mixed_salad_leaves_50g-92c69de34106c58c3bef32cb2cf4c0a1.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt and Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Spray Oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C. Line 2 oven trays with baking paper. Rinse and drain the chickpeas. Finely chop the onions and 2 garlic cloves. Finely chop the parsley, including the stems. Tear the bread into croutons, put on one tray and brush or spray with olive oil.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/63402/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Cook onion and spices: Heat 1 tbs olive oil in a medium frypan over medium heat. Cook the onion and garlic, stirring, for 5 mins or until softened. Add 2 tsp cumin and coriander spice blend and cook, stirring, for 1 min or until fragrant. Remove pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/63403/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Make falafel mixture: Meanwhile, put the chickpeas and 1 tbs olive oil in a bowl and mash with a potato masher or fork to a chunky puree. Add the onion mixture and three-quarters of the parsley, season well with salt and pepper and stir until well combined.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/63404/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Bake falafels: Using a ¼ cup measure, shape the falafel mixture into about 7 patties. Carefully put on the lined tray (the mixture is quite soft), spray or brush with olive oil and bake for 10 mins. Add the bread and bake for a further 8-10 mins until the falafels and croutons are golden.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/63405/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Meanwhile, put the yoghurt, remaining parsley and any remaining spice blend in a bowl, season with salt and pepper and whisk to combine. Divide the salad leaves, croutons and baked falafels among plates and drizzle with the yoghurt dressing to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/63406/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Make it yours: If you have an extra red onion on hand, thinly slice and toss through the salad or squeeze over wedges of lemon to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/63407/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

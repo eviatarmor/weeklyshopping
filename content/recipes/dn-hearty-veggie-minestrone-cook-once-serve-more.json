@@ -1,0 +1,130 @@
+{
+  "slug": "dn-hearty-veggie-minestrone-cook-once-serve-more",
+  "kind": "meal",
+  "title": "Hearty Veggie Minestrone",
+  "subtitle": "Cook Once, Serve More!",
+  "description": "Serve up more with our Feed A Crowd recipes! Using more hearty ingredients like filling carbs, proteins and veggies, you can satisfy extra hungry tummies or keep something for tomorrow’s lunch. If you’re on a 2-person plan, these recipes make 4 portions; on a 4-person plan, they make 8 portions.",
+  "sourceUrl": "https://dinnerly.com.au/menu/509199-hearty-veggie-minestrone-cook-once-serve-more",
+  "imageUrl": "https://marleyspoon.com/media/recipes/509199/main_photos/large/feed-c3e98125e3e28e557441ac9b321ab22c.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 485,
+    "proteinG": 15.6,
+    "carbsG": 62.1,
+    "fatG": 15.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Celery Stalk",
+      "qty": 1,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34068/photos/medium/ing_celery-a141d756a8aa3437b55409a79f201eec.jpg"
+    },
+    {
+      "name": "Kale",
+      "qty": 100,
+      "unit": "g",
+      "product": "kale",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37551/photos/medium/ing_kale_green-2a2557bbc0f23252466267c786b88bc7.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Four Mixed Beans",
+      "qty": 800,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32640/photos/medium/ing_beans_three_bean_mix_canned-54156dc69f7a9f3866aee3e2eb331864.jpg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 800,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Sourdough Baby Baguettes",
+      "qty": 2,
+      "product": "baguette",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36869/photos/medium/bread_sourdough_baby_baguette_30083_1_pack_10_0g-738ec2ecb38f3225200acf37b7ba10f4.jpeg"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1,
+      "unit": "l",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Finely chop the carrots and celery. Remove the tough inner stems from the kale, then thinly slice the leaves. Crush or finely chop the garlic. Drain and rinse the beans. Crumble the stock cubes into a heatproof jug, add 1L (4 cups) boiling water and stir to dissolve. Put 20g butter in a bowl to soften.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2965510/photos/large/prep_ingredients-370eb8dc3db0a81d979cbb991e6de77a.jpeg"
+    },
+    {
+      "text": "Start soup: Heat 2 tbs olive oil in a large saucepan over medium heat. Cook the carrot, celery and three-quarters of the garlic, stirring, for 3-5 mins until softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2965511/photos/large/start_soup-590d784b44b258b15903b66bb150f1ba.jpeg"
+    },
+    {
+      "text": "Simmer soup: Add the tomatoes and stock to the veggies and stir to combine. Season with pepper. Bring to the boil, then reduce the heat to medium and cook for 10 mins or until slightly reduced.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2965512/photos/large/simmer_soup-235af78583679e10cd9a495b25c6750d.jpeg"
+    },
+    {
+      "text": "Add beans and kale: Add the beans, kale and 1 tbs sugar to the soup and cook, covered, for 3-4 mins until the kale is wilted. Taste, then season with salt and pepper. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2965513/photos/large/add_beans_and_kale-05a905e2b67593d1ce264a51fb4a9a41.jpeg"
+    },
+    {
+      "text": "Toast bread and serve up: Meanwhile, preheat the grill to high. Thickly slice the baguettes on an angle (see Make it yours). Add the remaining garlic to the butter and stir to combine. Spread the bread with the garlic butter, put on a large oven tray and grill for 3-5 mins until lightly toasted. Divide the soup among bowls and serve with the garlic bread. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2965514/photos/large/toast_bread_and_serve_up-b09f7dacac30fb3e628e585fa1906d89.jpeg"
+    },
+    {
+      "text": "Make it yours: Fancy some crunchy croutons instead? Simply spread the bread with the garlic butter, then cut into small pieces before grilling. Scatter over the soup to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2965515/photos/large/make_it_yours-713ad79aaced682da5406d539e9abf15.jpeg"
+    }
+  ]
+}

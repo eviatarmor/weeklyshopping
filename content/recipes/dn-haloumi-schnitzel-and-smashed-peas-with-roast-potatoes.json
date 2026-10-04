@@ -1,0 +1,114 @@
+{
+  "slug": "dn-haloumi-schnitzel-and-smashed-peas-with-roast-potatoes",
+  "kind": "meal",
+  "title": "Haloumi Schnitzel and Smashed Peas",
+  "subtitle": "with Roast Potatoes",
+  "description": "You may notice this recipe's back for a victory lap – that's because sometimes you can't beat a tried-and-true winner! Our Dinnerly home cooks loved this recipe, so here it is again for you to enjoy its easy cooking, big flavours and satisfying goodness.",
+  "sourceUrl": "https://dinnerly.com.au/menu/445467-haloumi-schnitzel-and-smashed-peas-with-roast-potatoes",
+  "imageUrl": "https://marleyspoon.com/media/recipes/445467/main_photos/large/haloumi_schnitzel_and_smashed_peas-5014056bafff624ead2bea37f22e5a83.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 880,
+    "proteinG": 32.7,
+    "carbsG": 50.3,
+    "fatG": 59.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chat Potatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "baby-potatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37331/photos/medium/ing_potato_chat-1946538269adc955627b6a687affe61a.jpg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 40,
+      "unit": "g",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32844/photos/medium/ing_panko_breadcrumbs-afc5c1334f86532411df45373349ba32.jpg"
+    },
+    {
+      "name": "Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "Burger Sauce",
+      "qty": 40,
+      "unit": "ml",
+      "product": "burger-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70465/photos/medium/sauce_burger_40ml-dec297fde6168962c992598f17fb3123.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 10,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roast potatoes: Preheat the oven to 220C, fan-forced. Line an oven tray with baking paper. Halve the unpeeled potatoes, quartering any large ones, and put on the lined tray. Drizzle with 2 tsp olive oil, season with salt and pepper and toss to coat. Roast for 25 mins or until golden and tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583124/photos/large/prep_ingredients-902ab725260b917ed5c556540fadaf44.jpeg"
+    },
+    {
+      "text": "Crumb haloumi: Meanwhile, drain the haloumi and dry on paper towel, then cut in half horizontally. Whisk 1 egg in a shallow bowl. Put the breadcrumbs and 2 tsp plain flour in separate shallow bowls. Dust the haloumi with the flour, shake off the excess, then dip in the egg and coat in the breadcrumbs.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583125/photos/large/roast_potatoes-a574c95706658aa2a1711b2000da2cd8.jpeg"
+    },
+    {
+      "text": "Cook schnitzels: Bring a small saucepan of salted water to the boil for the peas. Heat 2 tbs olive oil in a medium frypan over medium heat. Cook the schnitzels for 2-3 mins each side until golden and cooked through. Remove from the pan and drain on paper towel. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583126/photos/large/crumb_chicken-c62b4ce9e3800ff9eb64e1b824ee7277.jpeg"
+    },
+    {
+      "text": "Cook peas: Cook the peas in the pan of boiling water for 2 mins or until tender. Drain, then return to the pan. Add 10g butter, season with salt and pepper and coarsely mash.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583127/photos/large/cook_schnitzels-c9ccaf29e5eb777fd2276938478055d5.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the schnitzels, roast potato and smashed peas among plates. Serve with the burger sauce and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583128/photos/large/boil_peas_and_serve_up-a8a2c71fd6942802cc5ee1797c5814c0.jpeg"
+    },
+    {
+      "text": "Did you know?: Panko are the Japanese version of breadcrumbs (panko means 'small pieces of bread'). They're lighter and larger than regular breadcrumbs, producing a much better crunch.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583129/photos/large/did_you_know-8ed063eea14931e3c0b097c3860158e7.jpeg"
+    }
+  ]
+}

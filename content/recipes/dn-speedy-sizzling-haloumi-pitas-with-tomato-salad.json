@@ -1,0 +1,124 @@
+{
+  "slug": "dn-speedy-sizzling-haloumi-pitas-with-tomato-salad",
+  "kind": "meal",
+  "title": "Speedy Sizzling Haloumi Pitas",
+  "subtitle": "with Tomato Salad",
+  "description": "Five easy steps, minimal pans and prep… we cut the fluff but not the flavour in our speedy recipes. In just 20 minutes, you’ll have this masterpiece on the table and be crowned in glory too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/389707-speedy-sizzling-haloumi-pitas-with-tomato-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/389707/main_photos/large/speedy-ab32fb61e9ea391adb399eca46ef5566.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 735,
+    "proteinG": 24.1,
+    "carbsG": 47,
+    "fatG": 49
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71361/photos/medium/dnu_dummy_garlic-5fb4bcd9cbb6a0574ec9707ca29dc14d.jpeg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "South American Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "south-american-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70777/photos/medium/seasoning_south_american_5g_ms-2d1155d896651d999bbf4378455d239d.jpeg"
+    },
+    {
+      "name": "Pita Pockets",
+      "qty": 2,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71373/photos/medium/bread_pita_pockets_2_pack_150g-93491099c636de772019bd2688f25b31.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C, fan-forced. Coarsely chop the tomato. Thinly slice the spring onion. Crush or finely chop 2 garlic cloves. Slice the haloumi. Combine the garlic, South American seasoning and 2 tsp olive oil in a large bowl and season with salt and pepper. Add the haloumi and toss to coat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2248564/photos/large/pickle_onion-228f1945d7ef2e51aa1ef6c9fa91d9e7.jpeg"
+    },
+    {
+      "text": "Warm pita: Halve the pita to form 4 pockets, put in a single layer on an oven tray and cover with foil. Heat in the oven for 10 mins or until softened and warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2248565/photos/large/warm_pitas-bf2c82e293387f971f094b514c0a2739.jpeg"
+    },
+    {
+      "text": "Make salad: Meanwhile, combine 2 tsp olive oil, 2 tsp red wine vinegar and 1 tsp sugar in a large bowl. Add the tomato, spring onion and spinach and toss to combine. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2248566/photos/large/prep_ingredients-67f165ccfc555285db5e8bb219322b23.jpeg"
+    },
+    {
+      "text": "Cook haloumi: Heat a medium frypan over medium-high heat. Cook the haloumi for 2 mins each side or until golden. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2248567/photos/large/cook_pork-24f2ad8d03b6dd9cb61ed9da8aae83ed.jpeg"
+    },
+    {
+      "text": "Serve up: Gently open the pita pockets, then spread with the mayonnaise. Fill with the haloumi and some salad. Serve with the remaining salad and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2248568/photos/large/serve_up-c83d9e6696b317c968f1e73375d5087f.jpeg"
+    },
+    {
+      "text": "Make it herby: If you have some on hand, add coriander or parsley leaves to your pita for a burst of freshness.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2248569/photos/large/make_it_yours-f339d80a196a993be9a704c302d6b798.jpeg"
+    }
+  ]
+}

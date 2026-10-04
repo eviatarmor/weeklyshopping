@@ -1,0 +1,110 @@
+{
+  "slug": "dn-cheesy-vegetable-bake-with-cannellini-beans",
+  "kind": "meal",
+  "title": "Cheesy Vegetable Bake",
+  "subtitle": "with Cannellini Beans",
+  "description": "It’ll be easy to get the kids to gobble their veggies and legumes when you cook them with sweet crushed tomatoes and smother with cheddar that’s baked until gooey.",
+  "sourceUrl": "https://dinnerly.com.au/menu/16492-cheesy-vegetable-bake-with-cannellini-beans",
+  "imageUrl": "https://marleyspoon.com/media/recipes/16492/main_photos/large/WEB_DID00054HERO_CheesyVegetableBake_240_CoOL-389f7725569a2968dfc58b89626d4af7.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 525,
+    "proteinG": 27.9,
+    "carbsG": 34,
+    "fatG": 25.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "calorie conscious",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 100,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32389/photos/medium/ing_baby_spinach-f3486d8248bc703219e93950aa64ba5b.jpg"
+    },
+    {
+      "name": "Pack Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Mature Cheddar",
+      "qty": 100,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31757/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "packet",
+      "product": "dried-oregano",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70803/photos/medium/spice_dried_oregano_2g_ms-72d4763af26fc9115e4485dc4ae3f129.jpeg"
+    },
+    {
+      "name": "Can White Cannellini Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "cannellini-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32639/photos/medium/ing_cannellini_beans_white-c6eebe74106d69c0e598549d00202b2b.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sea Salt and Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C. Crush or finely chop 2 garlic cloves. Cut the capsicum into 1cm chunks, discarding the seeds and membrane.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/57324/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Cook garlic and capsicum: Heat 1 tbs olive oil in a large frypan over medium-high heat. Cook the capsicum and garlic, stirring, for 3-4 mins until softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/57325/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Grate cheese: Meanwhile, drain and rinse the cannellini beans. Coarsely grate two-thirds of the cheese (the remaining cheese won't be used in this dish).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/57326/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Combine ingredients: Add the beans, tomatoes and 1 tsp oregano (the remaining oregano won't be used in this dish) to the pan. Season with salt and pepper and bring to the boil. Remove from the heat, add the baby spinach and stir to combine. Transfer to a 1L (4 cup) baking dish.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/57327/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Bake and serve: Scatter over the grated cheddar and bake for 10 mins or until the cheese is melted and golden. Divide among bowls to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/57328/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Make it yours: Add some warm, crusty, regular or gluten-free bread to mop up all the sauce.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/57329/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "country-seasoning",
+  "kind": "blend",
+  "title": "Country Seasoning",
+  "description": "Homemade approximation of the Dinnerly sachet (savoury herb and pepper rub). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Garlic Powder",
+      "qty": 0.75,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Dried Thyme",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-thyme"
+    },
+    {
+      "name": "Dried Parsley",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dried-parsley"
+    },
+    {
+      "name": "Ground Sage",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-sage"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

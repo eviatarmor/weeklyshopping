@@ -1,0 +1,120 @@
+{
+  "slug": "dn-chermoula-chickpea-bowl-with-quinoa-and-green-goddess-dressing",
+  "kind": "meal",
+  "title": "Chermoula Chickpea Bowl",
+  "subtitle": "with Quinoa and Green Goddess Dressing",
+  "description": "Our 'balanced' recipes are just that – high in nutritive value (that's fibre-rich veggies, lean proteins and wholegrains, just between us), so these dishes are good for you in every which way! They're perfect for anyone looking to minimise their intake of refined foods without sacrificing on taste.",
+  "sourceUrl": "https://dinnerly.com.au/menu/133387-chermoula-chickpea-bowl-with-quinoa-and-green-goddess-dressing",
+  "imageUrl": "https://marleyspoon.com/media/recipes/133387/main_photos/large/chermoula-19cf24333a40cde4c0e331c92c3d8c3c.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 755,
+    "proteinG": 20.9,
+    "carbsG": 73,
+    "fatG": 40.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Chermoula Spice Blend",
+      "qty": 10,
+      "unit": "g",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31980/photos/medium/seasoning_chermoula_10g_dn-7f9939048ecc325fcc3432f249b972fb.jpeg"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "packet",
+      "product": "quinoa",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70653/photos/medium/grain_quinoa_white_125g_ms-b9605b901fdb6827c6c999cc8146dc80.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 100,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32389/photos/medium/ing_baby_spinach-f3486d8248bc703219e93950aa64ba5b.jpg"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36662/photos/medium/ing_avocado-256dcb7b22e9a750995f0af810284915.jpg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31758/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Small Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roast chickpeas: Make sure your avocado is ripe before starting this recipe (see Kitchen hack). Preheat the oven to 200C, fan-forced. Line an oven tray with baking paper. Drain and rinse the chickpeas, then spread over the lined tray. Drizzle with 1 tbs olive oil, scatter over 3 tsp chermoula spice blend and season with salt and pepper. Roast for 15-17 mins until golden and crunchy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/711121/photos/large/roast_chickpeas-7d9a6c63d0477bf2dbe8453c23ae70a1.jpeg"
+    },
+    {
+      "text": "Cook quinoa: Meanwhile, put the quinoa in a sieve, then rinse well and drain. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer. Reduce the heat to low and cook, covered, for 12-15 mins until the water is absorbed and the quinoa is tender. Turn off the heat and stand, covered, for 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/711122/photos/large/cook_quinoa-7ddf32ec0626dc5d567e43a78100c8de.jpeg"
+    },
+    {
+      "text": "Prep ingredients: While the quinoa is cooking, thinly slice the spinach. Coarsely chop the avocado. Crush 1 small garlic clove. Put the spinach in a large bowl, season with salt and pepper and toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/711123/photos/large/prep_ingredients-942b05af217d9bc4a3613de27852d48e.jpeg"
+    },
+    {
+      "text": "Make dressing: Put the yoghurt, avocado, garlic, 1 tbs mayonnaise and 2 tsp white vinegar in a bowl. Mash with a fork until well combined and smooth. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/711124/photos/large/make_dressing-ce565b9d19b158eb32f66113d40f76ab.jpeg"
+    },
+    {
+      "text": "Serve up: Add the quinoa and 1 tbs olive oil to the spinach and toss to combine. Taste, then season with salt and pepper. Divide the quinoa salad among bowls and top with the roasted chickpeas. Spoon over the dressing and scatter over the remaining chermoula spice blend. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/711125/photos/large/serve_up-8e343892aa29d6e45c8c69598983b446.jpeg"
+    },
+    {
+      "text": "Kitchen hack: To speed up the ripening process, put the avocado in a paper bag with a banana and close loosely, then leave on the kitchen bench for a day or two.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/711126/photos/large/cooking_tip-ba782e8e9765902518033d44272eb830.jpeg"
+    }
+  ]
+}

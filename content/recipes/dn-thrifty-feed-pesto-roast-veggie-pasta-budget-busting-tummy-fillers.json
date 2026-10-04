@@ -1,0 +1,97 @@
+{
+  "slug": "dn-thrifty-feed-pesto-roast-veggie-pasta-budget-busting-tummy-fillers",
+  "kind": "meal",
+  "title": "Thrifty Feed: Pesto Roast Veggie Pasta",
+  "subtitle": "Budget-busting tummy fillers!",
+  "description": "Filling, tried-and-true flavours, and even more budget-friendly than our core menu – that’s our Thrifty Feed recipes! These classic dishes are perfect for when you want to put tasty, honest-to-goodness dinners on the table, and enjoy even more savings to boot.",
+  "sourceUrl": "https://dinnerly.com.au/menu/262008-thrifty-feed-pesto-roast-veggie-pasta-budget-busting-tummy-fillers",
+  "imageUrl": "https://marleyspoon.com/media/recipes/262008/main_photos/large/pesto_roast_veggie_macaroni-fdbc23d075576728f837b97aaf297a48.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 840,
+    "proteinG": 25.8,
+    "carbsG": 107.4,
+    "fatG": 31.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Small Sweet Potatoes",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35224/photos/medium/ing_sweet_potato-f96afdc22c390d86babaf457efb2c637.jpg"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Macaroni Pasta",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70703/photos/medium/pasta_macaroni_200g_ms-210e257b94fa9721c56b679dc02560b9.jpeg"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 50,
+      "unit": "g",
+      "product": "pesto",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70491/photos/medium/basil_pesto_sachet_50g-59f18a1474c14e5adec89ef85de7490f.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C, fan-forced. Line a large oven tray with baking paper. Coarsely chop the onion. Cut the unpeeled sweet potatoes into 1cm chunks. Cut the tomatoes into thin wedges. Finely grate the parmesan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1482454/photos/large/194307_1-6a3a50711334a78644e99a6d05bc0b81.jpeg"
+    },
+    {
+      "text": "Roast veggies: Put the onion, sweet potato and tomato on the lined tray. Drizzle with 1 tbs olive oil and season with salt and pepper. Roast the veggies for 20 mins or until golden and tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1482455/photos/large/194307_2-4055c94659b38f17d2cf03f6faf79376.jpeg"
+    },
+    {
+      "text": "Cook pasta: Meanwhile, bring a medium saucepan of salted water to the boil. Cook the pasta in the pan of boiling water, stirring occasionally, for 7 mins or until al dente. Reserve 60ml (¼ cup) cooking water, then drain the pasta and return to the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1482456/photos/large/194307_3-5086e3f30cf0e60348dc6b28b11a9d5d.jpeg"
+    },
+    {
+      "text": "Add pesto: Add the roast veggies, pesto, half the parmesan and the reserved cooking water (see Kitchen 101) to the pasta and gently stir to combine. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1482457/photos/large/194307_4-582323a973c57ea7d89f49736006f401.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the roast veggie macaroni among bowls and scatter over the remaining parmesan. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1482458/photos/large/194307_5-3b10cb8c1256a08047aebb3450157a73.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Adding the starchy pasta cooking water helps emulsify the sauce so that it binds and coats the pasta.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1482459/photos/large/194307_6-a639ad19c75fe19008135916bfbbbc02.jpeg"
+    }
+  ]
+}

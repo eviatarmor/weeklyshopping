@@ -1,0 +1,119 @@
+{
+  "slug": "dn-greek-haloumi-wraps-with-yoghurt-and-salad",
+  "kind": "meal",
+  "title": "Greek Haloumi Wraps",
+  "subtitle": "with Yoghurt and Salad",
+  "description": "Who doesn't love eating with their hands? Simply warm flatbreads, load up with golden haloumi, Greek salad and a drizzle of creamy yoghurt, then dig in!",
+  "sourceUrl": "https://dinnerly.com.au/menu/58355-greek-haloumi-wraps-with-yoghurt-and-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/58355/main_photos/large/greek_haloumi_wraps-8065fe2c76b79f356c9a98589943c832.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 720,
+    "proteinG": 29.1,
+    "carbsG": 50.7,
+    "fatG": 44
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70412/photos/medium/pp_mixed_salad_leaves_50g-92c69de34106c58c3bef32cb2cf4c0a1.jpeg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31758/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Country Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "blend": "country-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70081/photos/medium/seasoning_country_5g-b7cb1f44d1aacb36c73e7ab678d36e2b.jpeg"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C. Thinly slice the haloumi. Cut the tomato and cucumber into 1.5cm chunks.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269202/photos/large/prep_ingredients-1636161994dde7404a79de0899a13fa2.jpeg"
+    },
+    {
+      "text": "Make salad: Put 1 tbs white wine vinegar, 1 tbs olive oil and 1 tsp honey in a large bowl, season with salt and pepper and stir to combine. Add the tomato, cucumber and salad leaves and toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269203/photos/large/make_salad-21c2ac6e4d9be047f1d2e0217895b9a0.jpeg"
+    },
+    {
+      "text": "Warm tortillas: Enclose the tortillas in foil. Put in the oven for 8 mins or until softened and warmed through (see Make it yours).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269204/photos/large/warm_tortillas-58f70fe358debeb794ae9f5ef04f35a9.jpeg"
+    },
+    {
+      "text": "Pan-fry haloumi: Heat 2 tsp olive oil in a medium frypan over high heat. Cook the haloumi, turning, for 1 min or until golden. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269205/photos/large/pan_fry_haloumi-7057aedb01a3d314d0c466d98adbc026.jpeg"
+    },
+    {
+      "text": "Serve up: Put the yoghurt and country seasoning in a bowl and stir to combine. Taste, then season with salt and pepper. Divide the tortillas among plates. Top with the salad, haloumi and yoghurt, then fold over to enclose the filling. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269206/photos/large/serve_up-65338e63f177ad1fdbbdea691668d417.jpeg"
+    },
+    {
+      "text": "Make it yours: Turn these wraps into fresh salad with crunchy tortilla chips! Simply cut the tortillas into wedges and put on an oven tray, spray or brush with olive oil and bake until golden and crisp. Divide among bowls, then top with the salad, haloumi and yoghurt.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/269207/photos/large/make_it_yours-fbdf5a76073bb9f4cd509b30eb174cb5.jpeg"
+    }
+  ]
+}

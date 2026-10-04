@@ -1,0 +1,129 @@
+{
+  "slug": "dn-italian-mushroom-meat-ragu-with-tagliatelle-and-fresh-basil",
+  "kind": "meal",
+  "title": "Italian Mushroom 'Meat' Ragu",
+  "subtitle": "with Tagliatelle and Fresh Basil",
+  "description": "An Italian ragu is cooked for hours until tender and full of flavour. This meat-free version gives the same result, in a fraction of the time. Simply simmer mushroom 'meat' in a herbed tomato sauce, then serve on tagliatelle ribbons.",
+  "sourceUrl": "https://dinnerly.com.au/menu/62453-italian-mushroom-meat-ragu-with-tagliatelle-and-fresh-basil",
+  "imageUrl": "https://marleyspoon.com/media/recipes/62453/main_photos/large/italian_mushroom_ragu-6757db1ec4944ccecd04f16ce82fcd53.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 855,
+    "proteinG": 31.7,
+    "carbsG": 104.8,
+    "fatG": 30.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Basil",
+      "product": "basil",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31898/photos/medium/ing_basil-bd55786005e3d408b7eb01a1685a0f6f.jpg"
+    },
+    {
+      "name": "Tagliatelle Pasta",
+      "qty": 250,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35312/photos/medium/ing_pasta_linguine-2382315eea1ef48a4fa6e6d8a1acfdd4.jpg"
+    },
+    {
+      "name": "Mushroom Meat",
+      "qty": 250,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40486/photos/medium/plant_based_mushroom_meat_fable_250g_250g-cc56628b1d33d994a3c9503e6516d76d.jpeg"
+    },
+    {
+      "name": "Italian Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70105/photos/medium/seasoning_italian_5g-650d40b4a4f50eec9dcbcc11ba0e873a.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "balsamic-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the pasta. Thinly slice the onion. Peel the carrot, then finely chop. Pick the basil leaves, then finely chop the stems. Crush or finely chop 2 garlic cloves.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/294702/photos/large/prep_ingredients-487c32e640b6ca4e9f2893d22c53c43b.jpeg"
+    },
+    {
+      "text": "Cook pasta: Cook three-quarters of the pasta in the pan of boiling water for 8 mins or until al dente. Reserve 375ml (1½ cups) cooking water, then drain the pasta.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/294703/photos/large/cook_pasta-a2abd1faee630cc576b83fdbb2c93aea.jpeg"
+    },
+    {
+      "text": "Brown mushroom meat: Meanwhile, heat 1 tbs olive oil in a medium deep frypan over medium heat. Cook the onion, carrot, basil stems and garlic, stirring, for 4 mins or until softened. Add the mushroom meat and cook, breaking up the lumps (see Make it yours) with a spoon, for 3-4 mins until starting to brown.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/294704/photos/large/brown_mushroom_meat-8c4e6fc758f17ddb4a31fb2415875124.jpeg"
+    },
+    {
+      "text": "Simmer ragu: Add the Italian seasoning and 2 tbs tomato paste to the mushroom meat mixture, then season with salt and pepper. Add the reserved cooking water, half the tomatoes, 2 tsp balsamic vinegar and 1 tsp sugar and bring to the boil. Reduce the heat to medium and cook, stirring occasionally, for 5-7 mins until the mushroom meat is tender and the sauce is slightly thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/294705/photos/large/simmer_ragu-2ee57bb8d56b672442aa486b4ef6fb21.jpeg"
+    },
+    {
+      "text": "Serve up: Remove the pan from the heat. Taste, then season with salt and pepper. Divide the pasta among bowls. Spoon over the ragu, scatter over the basil leaves and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/294706/photos/large/serve_up-71625090293c7416becbe6ef01cf5fbd.jpeg"
+    },
+    {
+      "text": "Make it yours: We have left the mushroom meat quite chunky for this recipe, but you can continue to stir and further break the meat down into finer pieces if you prefer.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/294707/photos/large/make_it_yours-9a56951f382f1f87a0fdb342afb944f7.jpeg"
+    }
+  ]
+}

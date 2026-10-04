@@ -5,6 +5,8 @@ import { normalizeName } from "@/shared/normalize";
 export function sizedImage(url: string | null | undefined, width: number): string | null {
   if (!url) return null;
   if (url.includes("img.hellofresh.com/")) return url.replace(/w_\d+/, `w_${Math.round(width * 2)}`);
+  // Marley Spoon (Dinnerly) serves fixed sizes; use the medium one for cards and thumbnails.
+  if (url.includes("marleyspoon.com/media/") && width <= 300) return url.replace("/large/", "/medium/");
   return url;
 }
 

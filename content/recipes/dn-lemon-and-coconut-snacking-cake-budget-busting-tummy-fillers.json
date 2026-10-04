@@ -1,0 +1,96 @@
+{
+  "slug": "dn-lemon-and-coconut-snacking-cake-budget-busting-tummy-fillers",
+  "kind": "meal",
+  "title": "Lemon and Coconut Snacking Cake",
+  "subtitle": "Budget-Busting Tummy Fillers!",
+  "description": "Filling, tried-and-true flavours, and even more budget-friendly than our core menu – that’s our Thrifty Feed recipes! These classic dishes are perfect for when you want to put tasty, honest-to-goodness food on the table, and enjoy even more savings to boot.",
+  "sourceUrl": "https://dinnerly.com.au/menu/444360-lemon-and-coconut-snacking-cake-budget-busting-tummy-fillers",
+  "imageUrl": "https://marleyspoon.com/media/recipes/444360/main_photos/large/lemon_and_coconut_snacking_cake-44f19a38f4b5a072bdd2aaeeda7d2db3.jpeg",
+  "servings": 2,
+  "prepMinutes": 90,
+  "nutrition": {
+    "kcal": 730,
+    "proteinG": 7.1,
+    "carbsG": 110.7,
+    "fatG": 27.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31745/photos/medium/ing_lemon-bb4851a6b388b32d5bd77badeb832a9a.jpg"
+    },
+    {
+      "name": "Vanilla Cake Mix",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71309/photos/medium/cake_mix_vanilla_340g-00de05858c54954b90e1972935a29056.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Shredded Coconut",
+      "qty": 20,
+      "unit": "g",
+      "product": "desiccated-coconut",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31910/photos/medium/ing_coconut_shredded-1c58a730d8bd32e56d100763c0876c0e.jpg"
+    },
+    {
+      "name": "Icing Sugar",
+      "qty": 150,
+      "unit": "g",
+      "product": "icing-sugar",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70437/photos/medium/sugar_icing_mixture_150g-a463946daec91c55bc2220b7fe6556b9.jpeg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 60,
+      "unit": "ml",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make cake batter: Preheat the oven to 180C, fan-forced. Grease a 10cm x 20cm loaf pan and line base and sides with baking paper. Finely grate the lemon zest. Put the vanilla cake mix, coconut milk, half the lemon zest, 60ml (¼ cup) vegetable oil and 1 egg in a large bowl and whisk for 1 min or until well combined.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2576482/photos/large/370319_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Bake and cool: Pour the batter into the lined pan. Bake for 50 mins or until golden and a skewer inserted into the centre comes out with a few moist crumbs clinging (cover the cake with foil if it starts to brown too quickly). Cool in the pan for 5 mins, then transfer to a wire rack to cool.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2576483/photos/large/370319_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Toast coconut: Meanwhile, put the coconut in a cold small frypan over medium heat. Toast, tossing, for 2-3 mins until evenly golden. Remove from the pan. Set aside to cool.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2576484/photos/large/370319_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Make icing: While the cake is cooling, juice the lemon. Put the icing sugar and 1 tbs lemon juice in a bowl and whisk until well combined.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2576485/photos/large/370319_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Ice cake and serve up: Pour the icing over the cooled cake and scatter with the toasted coconut and remaining zest. Cut the cake into slices and enjoy! Serves 4.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2576486/photos/large/370319_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Make it last: Store in an airtight container for up to 2 days.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2576487/photos/large/370319_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

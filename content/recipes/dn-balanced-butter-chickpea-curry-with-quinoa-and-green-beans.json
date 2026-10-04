@@ -1,0 +1,113 @@
+{
+  "slug": "dn-balanced-butter-chickpea-curry-with-quinoa-and-green-beans",
+  "kind": "meal",
+  "title": "Balanced Butter Chickpea Curry",
+  "subtitle": "with Quinoa and Green Beans",
+  "description": "Here's our healthy vego take on the Indian takeaway fave, and it'll be faster than getting it delivered. Brimming with the goodness of chickpeas, green beans and fragrant coriander, nutritious never tasted so delicious!",
+  "sourceUrl": "https://dinnerly.com.au/menu/93427-balanced-butter-chickpea-curry-with-quinoa-and-green-beans",
+  "imageUrl": "https://marleyspoon.com/media/recipes/93427/main_photos/large/balanced_butter_chickpea_curry-b739281bc3d46e0acfb7aaac44f20e9d.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 665,
+    "proteinG": 19.8,
+    "carbsG": 82.8,
+    "fatG": 26.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "packet",
+      "product": "quinoa",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70653/photos/medium/grain_quinoa_white_125g_ms-b9605b901fdb6827c6c999cc8146dc80.jpeg"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 150,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31688/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Curry Paste",
+      "qty": 40,
+      "unit": "g",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70172/photos/medium/paste_butter_chicken_40g-40be4aab0b8a2eb00d7472a2cd3636fb.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 10,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook quinoa: Put the quinoa in a sieve, then rinse well and drain. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer. Reduce the heat to low and cook, covered, for 12-15 mins until the water is absorbed and the quinoa is tender. Turn off the heat and stand, covered, for 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/470037/photos/large/cook_quinoa-f3f2663b00ad6baf4bed889f61bc85df.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, finely chop the tomatoes. Trim the beans and halve on an angle. Pick the coriander leaves and finely chop the stems. Crush or finely chop 2 garlic cloves. Drain and rinse the chickpeas.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/470038/photos/large/prep_ingredients-64706262ff2c31e961bbbcc796814ade.jpeg"
+    },
+    {
+      "text": "Start curry: Melt 10g butter (see Make it yours) in a medium deep frypan over medium heat. Cook the tomato, coriander stems and garlic, stirring, for 2-3 mins until softened. Add the curry paste and cook, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/470039/photos/large/start_curry-aa9c83ac61dc485ff3790cb130f4d53b.jpeg"
+    },
+    {
+      "text": "Simmer curry: Add the chickpeas, coconut milk and 125ml (½ cup) water to the tomato mixture. Bring to the boil, then reduce the heat to low and cook for 8 mins or until slightly thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/470040/photos/large/simmer_curry-6fb8f3cab7670bad79812304eb6a6bc8.jpeg"
+    },
+    {
+      "text": "Serve up: Add the beans to the curry and cook for 4 mins or until tender. Remove the pan from the heat. Taste, then season with salt and pepper. Divide the quinoa among bowls, spoon over the chickpea curry and scatter with the coriander leaves. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/470041/photos/large/serve_up-9fad36644ee05b8c8194e9c5f2c2c12e.jpeg"
+    },
+    {
+      "text": "Make it yours: If you want to make this recipe vegan, swap the butter for 2 tsp vegetable oil or coconut oil.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/470042/photos/large/kitchen_101-c464d8b4fc14df1a95f0d117dcdb1178.jpeg"
+    }
+  ]
+}

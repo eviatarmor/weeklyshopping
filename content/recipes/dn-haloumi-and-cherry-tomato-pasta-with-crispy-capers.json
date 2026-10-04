@@ -1,0 +1,128 @@
+{
+  "slug": "dn-haloumi-and-cherry-tomato-pasta-with-crispy-capers",
+  "kind": "meal",
+  "title": "Haloumi and Cherry Tomato Pasta",
+  "subtitle": "with Crispy Capers",
+  "description": "Want an instant winner for dinner? Brimming with golden pan-fried haloumi, crispy capers and lush cherry tomatoes, this Italian-inspired pasta is just the ticket.",
+  "sourceUrl": "https://dinnerly.com.au/menu/39179-haloumi-and-cherry-tomato-pasta-with-crispy-capers",
+  "imageUrl": "https://marleyspoon.com/media/recipes/39179/main_photos/large/haloumi-04ef60c29404bf0dcf2f3350ce72fe22.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 815,
+    "proteinG": 33.3,
+    "carbsG": 76.2,
+    "fatG": 39.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 250,
+      "unit": "g",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34473/photos/medium/ing_tomates_cherry-16f4b52c7d4fef061248e2e523d718e7.jpg"
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "qty": 30,
+      "unit": "g",
+      "product": "olives",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38178/photos/medium/ing_olives_black-6b628d2365efc904b3c2a9b80be89080.jpg"
+    },
+    {
+      "name": "Capers",
+      "qty": 1,
+      "unit": "packet",
+      "product": "capers",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70575/photos/medium/capers_in_vinegar_10g_ms-07b18c4bf658b41bf5b06b6bdc81b010.jpeg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Farfalle Pasta",
+      "qty": 200,
+      "unit": "g",
+      "product": "farfalle",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32615/photos/medium/ing_pasta_farfalle-7f8846d363aab57ce4be8f36eb8eb4f9.jpg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the pasta. Thinly slice 1 garlic clove. Halve the tomatoes. Halve the olives. Coarsely chop the capers. Cut the haloumi into 5mm-thick slices.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/148350/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Cook pasta: Cook the pasta in the pan of boiling water for 8-9 mins until al dente. Reserve 80ml (⅓ cup) cooking water, then drain the pasta. Return the pasta to the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/148351/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Fry capers: Meanwhile, heat 1 tbs olive oil in a large frypan over high heat. Cook the capers, stirring occasionally, for 1-2 mins until crispy. Remove from the pan with a slotted spoon.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/148352/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Make sauce: Reduce the heat to medium. Cook the garlic for 30 secs or until fragrant. Add the tomatoes, reserved cooking water, 1 tbs balsamic vinegar, 1 tbs tomato paste and ½ tsp sugar, then season with salt and pepper. Bring to the boil, then reduce the heat to medium and cook, covered, for 10 mins or until the tomatoes are softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/148353/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Meanwhile, heat 2 tsp olive oil in a medium frypan over medium heat. Cook haloumi for 1 min each side or until golden. Remove from pan. Stir spinach, olives and pasta into tomato sauce and cook for 1 min or until warmed through. Taste, then season with salt and pepper. Divide pasta among bowls, top with haloumi, scatter with crispy capers and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/148354/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Make it yours: Bang up the authentic flavour by adding a handful of fresh herbs – try basil or parsley – to the sauce and finish with a drizzle of extra virgin olive oil.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/148355/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

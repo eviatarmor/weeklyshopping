@@ -1,0 +1,70 @@
+{
+  "slug": "umami-seasoning",
+  "kind": "blend",
+  "title": "Umami Seasoning",
+  "description": "Homemade approximation of the Dinnerly sachet (savoury mushroom-style umami, vegetarian). Uses nutritional yeast and vegetable stock powder for the savoury depth, so it is vegetarian. One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "nutritional-yeast"
+    },
+    {
+      "name": "Smoked Paprika",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "vegetable-stock-powder"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

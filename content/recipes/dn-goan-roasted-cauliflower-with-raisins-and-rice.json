@@ -1,0 +1,114 @@
+{
+  "slug": "dn-goan-roasted-cauliflower-with-raisins-and-rice",
+  "kind": "meal",
+  "title": "Goan Roasted Cauliflower",
+  "subtitle": "with Raisins and Rice",
+  "description": "This Indian-inspired pilaf with cauliflower and carrots roasted in mild Goan curry paste is equal parts easy peasy and downright delicious.",
+  "sourceUrl": "https://dinnerly.com.au/menu/16713-goan-roasted-cauliflower-with-raisins-and-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/16713/main_photos/large/WEB_DID00066HERO_GoanRoastedCauliflower_CoOL-8cf6b0169e6991fa4f6ea17b904c65a0.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 715,
+    "proteinG": 16.8,
+    "carbsG": 94.6,
+    "fatG": 25.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Goan-Style Curry Paste",
+      "qty": 40,
+      "unit": "g",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33794/photos/medium/Thai_green_curry_paste-e1602521ce6fbb5a7168299b3c763ee1.jpg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31758/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Raisins",
+      "qty": 50,
+      "unit": "g",
+      "product": "sultanas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32738/photos/medium/ing_raisins-f6bb63d988b9498ce1951995b61076a8.jpg"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70665/photos/medium/rice_basmati_150g_ms-295486fcd2e255689930dd9df88cd519.jpeg"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 500,
+      "unit": "g",
+      "product": "cauliflower",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35661/photos/medium/ing_cauliflower_whole-7468342622972c73f1095b412d9437e5.jpg"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Sea Salt and Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep vegetables: Preheat the oven to 200C. Bring 1L (4 cups) salted water to the boil in a medium saucepan for the rice. Trim the cauliflower, then cut the head into small florets and coarsely chop the stem. Peel the carrots, halve lengthwise, then cut into 2cm-wide chunks.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58326/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Roast vegetables: Put the cauliflower and carrot in a roasting pan. Combine the Goan-style curry paste, 2 tbs olive oil and 2 tsp red or white wine vinegar in a small bowl. Season with salt and pepper. Drizzle over the vegetables, toss to coat, then roast for 18-20 mins until the vegetables are tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58327/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Cook rice: Meanwhile, cook the rice in the pan of boiling water for 12 mins or until tender. Drain, cover to keep warm and set aside.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58328/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Add raisins: Remove the roasted vegetables from the oven. Add the raisins and toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58329/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Divide the rice and Goan roasted vegetables among plates and dollop with the yoghurt to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58330/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Make it yours: Add another dimension to this flavour-packed dish by scattering with chopped coriander to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58331/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

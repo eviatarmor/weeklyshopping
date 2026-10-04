@@ -1,0 +1,138 @@
+{
+  "slug": "dn-mac-n-two-cheese-with-parsley-croutons",
+  "kind": "meal",
+  "title": "Mac ‘n’ Two Cheese",
+  "subtitle": "with Parsley Croutons",
+  "description": "Who can resist a good mac ‘n’ cheese? Not us – especially one with both cheddar and parmesan! Top with crunchy parsley croutons and serve with tender green beans – it will be a winner at dinnertime.",
+  "sourceUrl": "https://dinnerly.com.au/menu/59326-mac-n-two-cheese-with-parsley-croutons",
+  "imageUrl": "https://marleyspoon.com/media/recipes/59326/main_photos/large/mac-b47806e68d357f04ae734aac0d3be4ef.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 855,
+    "proteinG": 31.9,
+    "carbsG": 94.7,
+    "fatG": 36.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sourdough Baby Baguette",
+      "qty": 1,
+      "product": "baguette",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36869/photos/medium/bread_sourdough_baby_baguette_30083_1_pack_10_0g-738ec2ecb38f3225200acf37b7ba10f4.jpeg"
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31905/photos/medium/ing_parsley-b796d1e1a29a36a912425caa2545574c.jpg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 150,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31688/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Macaroni Pasta",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70703/photos/medium/pasta_macaroni_200g_ms-210e257b94fa9721c56b679dc02560b9.jpeg"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 750,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 60,
+      "unit": "ml",
+      "product": "milk",
+      "pantry": true
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "dijon-mustard",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C. Line an oven tray with baking paper. Chop half the baguette into small cubes. Finely chop the parsley leaves, discarding the stems. Trim the beans. Coarsely grate both cheeses. Crumble 1 stock cube into a heatproof jug, add 750ml (3 cups) boiling water and stir to dissolve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/267768/photos/large/prep_ingredients-ebf4f8b5f1dbfcc8f07ccc06001a1927.jpeg"
+    },
+    {
+      "text": "Make parsley croutons: Put the bread, parsley and 1 tbs olive oil in a bowl, season with salt and pepper and toss to combine. Spread over the lined tray and bake for 8 mins or until golden and crisp.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/267769/photos/large/make_parsley_croutons-fdd971280a3e9100ae0919e16949db2d.jpeg"
+    },
+    {
+      "text": "Start cooking: Meanwhile, bring a small saucepan of water to the boil for the beans. Melt 20g butter in a medium saucepan over medium-high heat until foamy. Add 1 tbs plain flour and cook, stirring, for 1 min or until golden. Add the stock, 60ml (¼ cup) milk and 1 tbs dijon mustard and whisk until smooth.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/267770/photos/large/start_cooking-eaaa3cefacce000d0f9c9a008bb8f77c.jpeg"
+    },
+    {
+      "text": "Cook pasta: Add the pasta to the stock mixture and stir to combine. Bring to the boil, then reduce the heat to medium and cook, stirring occasionally, for 10-12 mins until the pasta is tender and the liquid is almost absorbed. Remove the pan from the heat. Meanwhile, cook the beans in the pan of boiling water for 3 mins or until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/267771/photos/large/cook_pasta-a8905824ff998531018c8bb1679208e3.jpeg"
+    },
+    {
+      "text": "Add cheese and serve up: Add the cheese (see Make it yours) to the pasta mixture and stir until melted and combined. Taste, then season with salt and pepper. Divide the mac 'n' cheese among bowls and scatter over the parsley croutons. Serve with the beans and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/267772/photos/large/add_cheese_and_serve_up-3406043c5c1d069b65353489614c266b.jpeg"
+    },
+    {
+      "text": "Make it yours: Looking for a way to get your family to eat more veggies? If you have them on hand, throw finely chopped zucchini, capsicum or baby spinach into the pasta a few minutes before you add the cheese.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/267773/photos/large/make_it_yours-b09014e0f6d14ce065011fd4dea85eff.jpeg"
+    }
+  ]
+}

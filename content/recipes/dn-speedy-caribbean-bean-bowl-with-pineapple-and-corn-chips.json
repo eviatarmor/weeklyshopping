@@ -1,0 +1,111 @@
+{
+  "slug": "dn-speedy-caribbean-bean-bowl-with-pineapple-and-corn-chips",
+  "kind": "meal",
+  "title": "Speedy Caribbean Bean Bowl",
+  "subtitle": "with Pineapple and Corn Chips",
+  "description": "Five easy steps, minimal pans and prep… we cut the fluff but not the flavour in our speedy recipes. In just 20 minutes, you’ll have this masterpiece on the table and be crowned in glory too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/718205-speedy-caribbean-bean-bowl-with-pineapple-and-corn-chips",
+  "imageUrl": "https://marleyspoon.com/media/recipes/387221/main_photos/large/speedy_caribbean_bean_and_pineapple_bowl-db3dfb3ff75b2c3aff66db20421af5fb.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 592,
+    "proteinG": 16.1,
+    "carbsG": 73.7,
+    "fatG": 21.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "calorie conscious",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32038/photos/medium/ing_lime-18d0944abae22c25cc0f703fc952053f.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "black-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31521/photos/medium/ing_black_beans-d187a0429a4703d1c53f062cd7177244.jpg"
+    },
+    {
+      "name": "Pineapple Pieces",
+      "qty": 225,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71134/photos/medium/can_pineapple_in_juice_225g-e351e107af0d3b5a9f7a1ac325ee6dcd.jpeg"
+    },
+    {
+      "name": "Caribbean Seasoning",
+      "qty": 2,
+      "blend": "jerk-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70724/photos/medium/seasoning_caribbean_5g_ms-6b39f63e5574d03046aa3c8863e367af.jpeg"
+    },
+    {
+      "name": "Corn Chips",
+      "qty": 150,
+      "unit": "g",
+      "product": "tortilla-chips",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71182/photos/medium/corn_chips_mini_round_150g-28cfc6021e808dbce8c52464c01048d6.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Finely chop the cucumber and tomato. Cut the lime into wedges. Crush or finely chop the garlic. Drain and rinse the beans. Reserve 1 tbs pineapple juice, then drain the pineapple pieces.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219806/photos/large/167244_1-31c222ee54639a572ab2ae3897259e28.jpeg"
+    },
+    {
+      "text": "Cook garlic: Heat a drizzle of olive oil in a medium saucepan over medium heat. Cook the garlic, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219807/photos/large/167244_2-ed4e0098b99308b8f8707548ff07d970.jpeg"
+    },
+    {
+      "text": "Warm beans: Add the beans and Caribbean seasoning to the garlic and cook, stirring, for 3-4 mins until the beans are coated and warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219808/photos/large/167244_3-25dd5519b6406cd753b4935f6a5e1e06.jpeg"
+    },
+    {
+      "text": "Add pineapple: Add the pineapple and reserved pineapple juice to the beans and cook, stirring, for a further 1 min or until the pineapple is warm and the mixture is combined. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219809/photos/large/167244_4-4b417261c9239bb2c3b5a21aa446471c.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the corn chips, bean mixture, cucumber and tomato among bowls. Serve with the lime wedges and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219810/photos/large/167244_5-7ecdd93908a1a934d0554f56aeb5844d.jpeg"
+    },
+    {
+      "text": "Make it yours: Feel free to add other salad goodies from your veggie drawer, such as coriander leaves or sliced avocado.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219811/photos/large/167244_6-c9775aa2feb242e1d983672cdfe22d86.jpeg"
+    }
+  ]
+}

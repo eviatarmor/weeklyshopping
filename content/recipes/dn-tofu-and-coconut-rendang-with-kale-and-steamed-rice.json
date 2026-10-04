@@ -1,0 +1,112 @@
+{
+  "slug": "dn-tofu-and-coconut-rendang-with-kale-and-steamed-rice",
+  "kind": "meal",
+  "title": "Tofu and Coconut Rendang",
+  "subtitle": "with Kale and Steamed Rice",
+  "description": "Rendang is a popular Indonesian-Malaysian curry, usually made with beef. Our family-friendly vegan version serves up peanut satay tofu and kale cooked in a mild coconutty curry sauce.",
+  "sourceUrl": "https://dinnerly.com.au/menu/53078-tofu-and-coconut-rendang-with-kale-and-steamed-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/53078/main_photos/large/tofu-384a877cd42c4a234a0e9bf82af0bf98.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 745,
+    "proteinG": 26.4,
+    "carbsG": 77.7,
+    "fatG": 44.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70673/photos/medium/rice_jasmine_150g_ms-738732293471033ed769ed790327aa6d.jpeg"
+    },
+    {
+      "name": "Kale",
+      "qty": 100,
+      "unit": "g",
+      "product": "kale",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37551/photos/medium/ing_kale_green-2a2557bbc0f23252466267c786b88bc7.jpg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Rendang Curry Paste",
+      "qty": 35,
+      "unit": "g",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70130/photos/medium/bamboe_rendang_curry_paste_35g-9d1cb401181c56eb0ff34027b394297d.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 180,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Rinse the rice until the water runs clear. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer over medium heat. Reduce the heat to low and cook for 12 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/230382/photos/large/cook_rice-fedda99c2685d808f53f89ef37e920f9.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, crush or finely chop 1 garlic clove. Remove the tough inner stems from the kale, then coarsely shred the leaves. Quarter the tofu pieces. Crumble 1 stock cube into a heatproof jug, add 180ml (¾ cup) boiling water and stir to dissolve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/230383/photos/large/prep_ingredients-bbedeec56710cc704660a71ff04337b4.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat 1 tbs vegetable oil in a medium deep frypan over medium-high heat. Cook the tofu for 2 mins each side or until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/230384/photos/large/warm_tofu-58569a2894771bb85277a130267a66d1.jpeg"
+    },
+    {
+      "text": "Simmer curry: Heat 2 tsp vegetable oil in the pan over medium heat. Cook the curry paste and garlic, stirring, for 1-2 mins until fragrant and the paste 'splits' (see Kitchen 101). Add the stock and coconut milk, bring to the boil, then reduce the heat to low and cook for 10 mins or until slightly thickened. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/230385/photos/large/simmer_curry-26f748bf0ff693c815b70ee25fe39441.jpeg"
+    },
+    {
+      "text": "Serve up: Add the tofu and kale leaves to the curry and cook for a further 3-4 mins until the kale is wilted. Divide the rice among bowls, top with the curry and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/230386/photos/large/serve_up-975e185ad06e0354d401adecf22a8b40.jpeg"
+    },
+    {
+      "text": "Kitchen 101: The oils in the pan and the sauce start to separate and this is what is termed 'splitting' – don't worry, this is a key part to a classic rendang.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/230387/photos/large/kitchen_101-7b339bc968238d37355055def56e090d.jpeg"
+    }
+  ]
+}

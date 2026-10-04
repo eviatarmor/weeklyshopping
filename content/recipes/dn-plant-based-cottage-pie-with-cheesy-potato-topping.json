@@ -1,0 +1,120 @@
+{
+  "slug": "dn-plant-based-cottage-pie-with-cheesy-potato-topping",
+  "kind": "meal",
+  "title": "Plant-Based Cottage Pie",
+  "subtitle": "with Cheesy Potato Topping",
+  "description": "Whether you're full-time vego or part-time only, our varied range of vegetarian dishes really hits the spot. Bursting with veggies, dairy, legumes, grains and nuts, they're packed with flavour, they’ll fill you up and they're totally mouth-watering too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/210020-plant-based-cottage-pie-with-cheesy-potato-topping",
+  "imageUrl": "https://marleyspoon.com/media/recipes/210020/main_photos/large/plant_based_cottage_pie-e08be33a2e7aaed23c3fbcc013d7779b.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 807,
+    "proteinG": 39.4,
+    "carbsG": 63.8,
+    "fatG": 40
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 250,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70237/photos/medium/plant_based_mince_v2_250g-feb6bf707afe7eee8bf05c88ca7b1be7.jpeg"
+    },
+    {
+      "name": "Aussie Barbecue Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "aussie-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70718/photos/medium/seasoning_aussie_barbecue_10g_ms-b6ffc88f5e69bb48407fd9b938c9d1d6.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Milk",
+      "qty": 60,
+      "unit": "ml",
+      "product": "milk",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make potato topping: Peel the potatoes and cut into 2cm chunks. Put in a medium saucepan, cover with cold salted water and bring to the boil. Reduce the heat to medium and cook for 10-12 mins until tender. Drain, then return the potato to the pan and mash until smooth. Add 60ml (¼ cup) milk and 2 tsp olive oil, season with salt and pepper and stir until combined.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1170550/photos/large/107201_1-b6cbf929964998549fdd5b45ad699b88.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, grease a 1.5L (6 cup) baking dish. Finely chop the carrots. Crush or finely chop 2 garlic cloves. Coarsely grate the cheese.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1170551/photos/large/107201_2-69933ac07999650ca7d8fe9d86bd6099.jpeg"
+    },
+    {
+      "text": "Brown plant-based mince: Heat 1 tbs olive oil in a medium deep frypan over medium heat. Cook the carrot and garlic, stirring, for 3-4 mins until softened. Increase the heat to medium-high, add the plant-based mince and cook, breaking up the lumps with a spoon, for 5-6 mins until browned (see Kitchen 101).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1170552/photos/large/107201_3-9e41f01eee669d7789a5ed0e59eb0d89.jpeg"
+    },
+    {
+      "text": "Simmer filling: Add the barbecue seasoning to the mince mixture and cook, stirring, for 30 secs or until fragrant. Stir in the tomatoes, 1 tsp sugar and 1½ tbs water and bring to the boil. Reduce the heat to medium and cook, stirring occasionally, for 6-8 mins until slightly thickened. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1170553/photos/large/107201_4-7297c1480594904734fdd1593f5e887e.jpeg"
+    },
+    {
+      "text": "Grill pie and serve up: While the filling is simmering, preheat the grill to high. Spoon the filling into the baking dish. Top with the mashed potato and scatter over the cheese. Grill for 5-8 mins until the cheese is melted and the mixture is bubbling. Divide the cottage pie among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1170554/photos/large/107201_5-16aafb38dcf6a74f976e9179feaa587a.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Plant-based mince looks, cooks and tastes like minced meat but is made from plant-based protein. It's important to keep it moving in the pan so it doesn't stick.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1170555/photos/large/107201_6-7d5bbca7cdc1e88a25f54f847ffb7ab0.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "dn-reduced-carb-mild-tofu-curry-with-pumpkin-and-spinach",
+  "kind": "meal",
+  "title": "Reduced-Carb Mild Tofu Curry",
+  "subtitle": "with Pumpkin and Spinach",
+  "description": "Can we have a ‘yay’ from the crowd for filling proteins, seasonal veggies and good, healthy fats? Our reduced-carb recipes feature all that, and contain less than 30 grams of carbohydrates per serve!",
+  "sourceUrl": "https://dinnerly.com.au/menu/363594-reduced-carb-mild-tofu-curry-with-pumpkin-and-spinach",
+  "imageUrl": "https://marleyspoon.com/media/recipes/363594/main_photos/large/reduced-e6ddcb1f1e927e406a1ce1a480195d0d.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 555,
+    "proteinG": 21.7,
+    "carbsG": 24.9,
+    "fatG": 37.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "carb conscious",
+    "calorie conscious",
+    "kid friendly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Kent Pumpkin",
+      "qty": 400,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32667/photos/medium/pp_pumpkin_japanese_portion_cut_skin_on_400g-436324eb60a55e3b6c512eddb1a45f75.jpeg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Masala Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70738/photos/medium/seasoning_indian_masala_mild_10g_ms-b0271f635040ac6b6d533bbdb1511018.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 125,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Peel the pumpkin, then cut into 2cm chunks. Cut the tofu into 2cm pieces. Crumble 1 stock cube into a heatproof jug, add 125ml (½ cup) boiling water and stir to dissolve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2091898/photos/large/prep_ingredients-4a8ce31d3093d4c545f7bfb5b7dbbe9f.jpeg"
+    },
+    {
+      "text": "Start curry: Heat 2 tsp vegetable oil in a medium saucepan over medium heat. Cook the pumpkin and masala seasoning, stirring, for 3-4 mins until golden and fragrant (see Make it spicy).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2091899/photos/large/brown_pumpkin-53585c8713724609cae944e70aa4e920.jpeg"
+    },
+    {
+      "text": "Simmer curry: Stir the stock and coconut milk into the pumpkin mixture and season with salt and pepper. Bring to the boil, then reduce the heat to medium-low and cook, covered, stirring occasionally, for 12-15 mins until the pumpkin is tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2091900/photos/large/simmer_sauce-dbfaccaa85f7797198a46f1d79eb9114.jpeg"
+    },
+    {
+      "text": "Warm tofu: Meanwhile, heat 2 tsp vegetable oil in a medium frypan over high heat. Cook the tofu for 2-3 mins each side until golden and warmed through. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2091901/photos/large/warm_tofu-f4f6768739255ef4ee1f6fcd1998bcd5.jpeg"
+    },
+    {
+      "text": "Serve up: Stir the spinach leaves into the pumpkin curry and cook, uncovered, for a further 1-2 mins until the spinach is wilted. Divide the curry among bowls, top with the tofu and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2091902/photos/large/serve_up-565f10f952dd33727db38a6c47b91f10.jpeg"
+    },
+    {
+      "text": "Make it spicy: Like your curries hot? Fry some chopped fresh chilli with the pumpkin to turn up the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2091903/photos/large/make_it_yours-a088d5049ab7108e4cf887d4950ea032.jpeg"
+    }
+  ]
+}

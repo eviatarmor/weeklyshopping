@@ -1,0 +1,112 @@
+{
+  "slug": "dn-speedy-californian-haloumi-wraps-with-special-sauce",
+  "kind": "meal",
+  "title": "Speedy Californian Haloumi Wraps",
+  "subtitle": "with Special Sauce",
+  "description": "Five easy steps, minimal pans and prep… we cut the fluff but not the flavour in our speedy recipes. In just 20 minutes, you’ll have this masterpiece on the table and be crowned in glory too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/381438-speedy-californian-haloumi-wraps-with-special-sauce",
+  "imageUrl": "https://marleyspoon.com/media/recipes/381438/main_photos/large/speedy-fbb95987d8945a05fd5a7dcf3e1f5b12.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 720,
+    "proteinG": 26.9,
+    "carbsG": 45.8,
+    "fatG": 46.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71361/photos/medium/dnu_dummy_garlic-5fb4bcd9cbb6a0574ec9707ca29dc14d.jpeg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Tex-Mex Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70780/photos/medium/seasoning_tex_mex_10g_ms-7373c66b0ca0af21eed224f169266b7c.jpeg"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70412/photos/medium/pp_mixed_salad_leaves_50g-92c69de34106c58c3bef32cb2cf4c0a1.jpeg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "Burger Sauce",
+      "qty": 40,
+      "unit": "ml",
+      "product": "burger-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70465/photos/medium/sauce_burger_40ml-dec297fde6168962c992598f17fb3123.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red or White Wine Vinegar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Cut the tomato into 2cm chunks. Crush or finely chop 2 garlic cloves. Slice the haloumi. Combine the garlic, Tex-Mex seasoning and 2 tsp olive oil in a large bowl and season with salt and pepper. Add the haloumi and toss to coat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2198962/photos/large/68961_1-1514b564b2d00a2c5581d0c22a162514.jpeg"
+    },
+    {
+      "text": "Dress salad leaves: Combine 2 tsp olive oil and ½ tsp red wine vinegar in a large bowl and season with salt and pepper. Add the salad leaves and toss to coat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2198963/photos/large/68961_2-f0024dc0fb9d0566061cf84c32fc9489.jpeg"
+    },
+    {
+      "text": "Pan-fry haloumi: Heat a medium frypan over medium-high heat. Cook the haloumi for 2 mins each side or until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2198964/photos/large/68961_3-3a375e322f7f63c5f580b89fa659a7e5.jpeg"
+    },
+    {
+      "text": "Warm tortillas: Put the tortillas on a plate, slightly overlapping, and microwave for 30 secs or until warmed through (see Kitchen hack).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2198965/photos/large/68961_4-a388348f4d4db52ae58481ea7569f726.jpeg"
+    },
+    {
+      "text": "Serve up: Spread the tortillas with the burger sauce, then top with the haloumi, salad leaves and tomato. Roll up and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2198966/photos/large/68961_5-445f057bf130365f21c9d42ca4815e48.jpeg"
+    },
+    {
+      "text": "Kitchen hack: If you don't have a microwave, heat a large frypan over medium-high heat. Warm the tortillas, in batches, for 30 secs each side or until warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2198967/photos/large/68961_6-856c9e80792b548f080671739e280d89.jpeg"
+    }
+  ]
+}

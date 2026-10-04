@@ -1,0 +1,112 @@
+{
+  "slug": "dn-rocket-and-pesto-pasta-with-broccoli-and-raisins",
+  "kind": "meal",
+  "title": "Rocket and Pesto Pasta",
+  "subtitle": "with Broccoli and Raisins",
+  "description": "Inject some sunshine into dinnertime. Toss some oh-so-good-for-you broccoli, rocket, intense red pesto and sweet raisins through chewy casarecce pasta – smiles guaranteed.",
+  "sourceUrl": "https://dinnerly.com.au/menu/37131-rocket-and-pesto-pasta-with-broccoli-and-raisins",
+  "imageUrl": "https://marleyspoon.com/media/recipes/37131/main_photos/large/rocket-1029a6970101f50cb1fe0d78b943f115.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 830,
+    "proteinG": 29.8,
+    "carbsG": 82.8,
+    "fatG": 39.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31745/photos/medium/ing_lemon-bb4851a6b388b32d5bd77badeb832a9a.jpg"
+    },
+    {
+      "name": "Head Broccoli",
+      "qty": 1,
+      "product": "broccoli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33122/photos/medium/ing_broccoli-48f04011a71f2172a095afeaf3c73c85.jpg"
+    },
+    {
+      "name": "Raisins",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sultanas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70643/photos/medium/dried_raisins_20g_ms-814c8068dff17e38bac7cc002cb65b43.jpeg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Casarecce Pasta",
+      "qty": 200,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31664/photos/medium/ing_pasta_casarecce-1cd9ed094d79e70142f2eac0879523c7.jpg"
+    },
+    {
+      "name": "Red Pesto",
+      "qty": 75,
+      "unit": "g",
+      "product": "pesto",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37156/photos/medium/sundried_tomato_pesto-aadf4651cd027c33e8e99073d489ebc1.jpg"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "rocket",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70415/photos/medium/pp_rocket_leaves_50g-7ae7fc29173d93a36787f907e6356ac8.jpeg"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 60,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the pasta. Finely grate the zest of half the lemon, then juice the half. Coarsely chop the broccoli stem into 1cm chunks and cut the head into small florets. Finely chop the raisins. Finely grate the parmesan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138852/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Soak raisins: Put the raisins in a bowl, pour over 60ml (¼ cup) boiling water and soak for 5 mins. Remove the raisins, reserving the soaking liquid and raisins separately.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138853/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Cook pasta: Meanwhile, cook the pasta in the pan of boiling water for 9-10 mins until al dente. Reserve 60ml (¼ cup) cooking water, then drain the pasta (see Kitchen hack).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138854/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Cook broccoli: Heat 1 tbs olive oil in a large frypan over medium-high heat. Add the broccoli, lemon zest and raisin liquid. Cover and cook, tossing the pan frequently, for 5 mins or until tender. Stir in the pasta, reserved cooking water, pesto, raisins, three-quarters of the lemon juice and two-thirds of the parmesan and cook for 2-3 mins until warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138855/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Taste, then season the pasta mixture with salt and pepper. Stir in half the rocket, then remove from the heat. Toss the remaining rocket with the remaining lemon juice in a bowl. Divide the pesto pasta among bowls, scatter over the remaining parmesan and serve with the rocket salad. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138856/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Kitchen hack: Using a little of the pasta cooking water in pasta sauces is a traditional Italian method. The starchy cooking water helps to loosen and thicken the sauce, with silky results.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138857/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

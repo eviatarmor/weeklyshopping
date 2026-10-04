@@ -1,0 +1,106 @@
+{
+  "slug": "dn-smoky-capsicum-and-cheese-panini-midday-mega-saver",
+  "kind": "meal",
+  "title": "Smoky Capsicum and Cheese Panini",
+  "subtitle": "Midday Mega-Saver!",
+  "description": "Down tools and drool… it’s lunch time! Whether in the staff room at work or al desko at home, eating a yummy lunch is key to work-life happiness. So make your lunch smarter, quicker and way more affordable with our tasty recipes.",
+  "sourceUrl": "https://dinnerly.com.au/menu/403011-smoky-capsicum-and-cheese-panini-midday-mega-saver",
+  "imageUrl": "https://marleyspoon.com/media/recipes/403011/main_photos/large/smoky_capsicum_and_cheese_panini-285ca827a398bb91989c4784f923aa7a.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 500,
+    "proteinG": 17.4,
+    "carbsG": 49.5,
+    "fatG": 24.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Milk Buns",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36858/photos/medium/bread_milk_bun_30086_2_pack_180g-908ed0509a664009401dc7ac69dae08f.jpeg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Smoky Barbecue Sauce",
+      "qty": 50,
+      "unit": "g",
+      "product": "bbq-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71142/photos/medium/sauce_sticky_rib_marinade_50g-cefefb0661a03be54dff754d4dc3e627.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sunflower-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70710/photos/medium/seeds_sunflower_seed_kernels_20g_ms-875a3a355847730da09b59dbcd30c5a0.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White or Red Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the sandwich press (see Kitchen hack). Cut the capsicum into 1.5cm-thick strips. Halve the buns. Coarsely grate the cheese.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2328383/photos/large/342283_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Soften capsicum: Put the capsicum and 1 tbs water in a microwave-safe dish (see Kitchen hacks), cover and microwave for 5 mins or until softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2328385/photos/large/342283_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Assemble panini: Spread the bun bases and tops with the barbecue sauce. Layer with the cheese, capsicum and one-third of the spinach. Sandwich with the bun tops.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2328387/photos/large/342283_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Cook panini: Put the panini in the sandwich press, close and cook for 2-3 mins until golden and the cheese is melted. Cut the panini in half.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2328389/photos/large/342283_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Make salad and serve up: Meanwhile, combine a drizzle of olive oil and a drizzle of white wine vinegar in a large bowl. Season with salt and pepper. Add the sunflower seeds and remaining spinach and toss to coat. Divide the panini among plates and serve with the spinach salad. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2328391/photos/large/342283_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Kitchen hacks: Don't have a sandwich press? Put the panini on an oven tray and bake in a 200C oven for 8-10 mins until golden and the cheese is melted. ~ Don't have a microwave? You can cook the capsicum on the sandwich press or in a frypan, turning occasionally, for 3-4 mins until charred.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2328393/photos/large/342283_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "dn-golden-spiced-rice-bowls-and-chilli-beans-with-cauliflower-and-mango-yoghurt",
+  "kind": "meal",
+  "title": "Golden Spiced Rice Bowls and Chilli Beans",
+  "subtitle": "with Cauliflower and Mango Yoghurt",
+  "description": "Whether you're full-time vego or part-time only, our varied range of vegetarian dishes really hits the spot. Bursting with veggies, dairy, legumes, grains and nuts, they're packed with flavour, they’ll fill you up and they're totally mouth-watering too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/502879-golden-spiced-rice-bowls-and-chilli-beans-with-cauliflower-and-mango-yoghurt",
+  "imageUrl": "https://marleyspoon.com/media/recipes/502879/main_photos/large/golden_bollywood_rice_cake_and_chilli_beans-d6f06291be64101488fb85fde5294df4.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 530,
+    "proteinG": 15.3,
+    "carbsG": 85.8,
+    "fatG": 13.7
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "calorie conscious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Indian Butter Curry Paste",
+      "qty": 50,
+      "unit": "g",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71157/photos/medium/paste_indian_butter_curry_50g-b82509710075efbe439976916874a9a3.jpeg"
+    },
+    {
+      "name": "Cauliflower Rice",
+      "qty": 300,
+      "unit": "g",
+      "product": "white-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71215/photos/medium/pp_cauliflower_rice_300g-438f74d1d7fbd59f8764032d6b784f7f.jpeg"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70665/photos/medium/rice_basmati_150g_ms-295486fcd2e255689930dd9df88cd519.jpeg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 150,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31688/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 130,
+      "unit": "g",
+      "product": "greek-yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71362/photos/medium/yoghurt_natural_tub_130g-aa595c6bc5f69cb55a6550b59554b91d.jpeg"
+    },
+    {
+      "name": "Mango Chutney",
+      "qty": 45,
+      "unit": "g",
+      "product": "mango-chutney",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71106/photos/medium/mango_chutney_pot_45g-45b5c351f5b15fd89441175430301695.jpeg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Pinch of Chilli Flakes",
+      "product": "chilli-flakes",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fry curry paste: Heat 2 tsp vegetable oil in a medium deep frypan over medium heat. Add the curry paste and cook, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2927590/photos/large/249103_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Start rice: Add the cauliflower rice and basmati rice to the curry paste and stir to combine. Season with salt and pepper. Stir in 350ml water, cover and bring to a simmer over medium heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2927591/photos/large/249103_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Finish rice: Reduce the heat to medium-low and cook the rice mixture for 13-14 mins until the rice is tender and the water is absorbed. Remove from the heat and stand, covered, for 5 mins. Fluff the rice mixture with a fork.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2927592/photos/large/249103_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Cook beans: Meanwhile, trim the beans. Heat 2 tsp vegetable oil in a medium frypan over medium-high heat. Add the beans, season with salt and pepper and cook, stirring, for 3 mins or until almost tender. Add a pinch of chilli flakes, if using, and cook for a further 1-2 mins until the beans are slightly blistered. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2927593/photos/large/249103_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Combine the yoghurt and mango chutney in a bowl. Divide the rice mixture, chilli beans and mango yoghurt among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2927594/photos/large/249103_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Make it herby: If you have some on hand, scatter over a handful of coriander, mint or parsley leaves for a burst of freshness.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2927595/photos/large/249103_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

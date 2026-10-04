@@ -1,0 +1,99 @@
+{
+  "slug": "dn-speedy-pesto-pumpkin-ravioli-with-feta-and-toasted-almonds",
+  "kind": "meal",
+  "title": "Speedy Pesto Pumpkin Ravioli",
+  "subtitle": "with Feta and Toasted Almonds",
+  "description": "Get dinner on the table in record time with these plump pumpkin ravioli. Simply toss in basil pesto, add tomato for freshness, then finish with creamy feta.",
+  "sourceUrl": "https://dinnerly.com.au/menu/54006-speedy-pesto-pumpkin-ravioli-with-feta-and-toasted-almonds",
+  "imageUrl": "https://marleyspoon.com/media/recipes/54006/main_photos/large/speedy_pesto_pumpkin_ravioli-d6addfb1619bd2de3e6a17d66e90f6d5.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 770,
+    "proteinG": 23.2,
+    "carbsG": 75,
+    "fatG": 41.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Slivered Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70682/photos/medium/nuts_almonds_slivered_20g_ms-2406fddd395681ce762437e24e2c786b.jpeg"
+    },
+    {
+      "name": "Pumpkin and Onion Ravioli",
+      "qty": 300,
+      "unit": "g",
+      "product": "fresh-ravioli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70073/photos/medium/pasta_pumpkin_and_onion_small_ravioli_300g-e06e438e6d38860e0ee3026b3b73c4c1.jpeg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 75,
+      "unit": "g",
+      "product": "pesto",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38049/photos/medium/Basil_Pesto-68def98d8b9dcd7a10b98dbe445e1235.jpg"
+    },
+    {
+      "name": "Feta",
+      "qty": 50,
+      "unit": "g",
+      "product": "feta",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31813/photos/medium/ing_feta_cheese-dd151343b0a1a7826609cb744aa6aa75.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a large saucepan of salted water to the boil for the ravioli. Cut the tomato into 1cm chunks.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/242533/photos/large/prep_ingredients-7ffd15f2e8ce6801e437bad38319a8e5.jpeg"
+    },
+    {
+      "text": "Toast almonds: Put the almonds in a cold small frypan over medium heat. Toast, tossing, for 3-4 mins until evenly golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/242534/photos/large/toast_almonds-975593d21dddd89e5b3ee677de0dad1c.jpeg"
+    },
+    {
+      "text": "Cook ravioli: Cook the ravioli in the pan of boiling water for 5 mins or until al dente. Reserve 60ml (¼ cup) cooking water, then drain. Return the ravioli to the pan. Crumble 1 stock cube into the reserved cooking water and stir until dissolved.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/242535/photos/large/cook_ravioli-2c3ce0190bc751436203b119e0b8a3ce.jpeg"
+    },
+    {
+      "text": "Add pesto: Add the pesto, stock mixture and 2 tsp olive oil to the ravioli and cook, stirring, over medium-high heat for 2 mins or until coated and warmed through. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/242536/photos/large/add_pesto-abeb3d87920b91f1c0ce05c3e0e0f58e.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the ravioli among bowls, crumble over the feta, then scatter over the tomato and toasted almonds. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/242537/photos/large/serve_up-43bd6c9f00d6dd0d84db55cbfab13dbe.jpeg"
+    },
+    {
+      "text": "Make it yours: Have fussy eaters? Combine the tomato, feta and almonds in a bowl, drizzle with a little oil or vinaigrette and serve as a salad on the side.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/242538/photos/large/make_it_yours-e50b3a44c653addb32bd6f462019c15a.jpeg"
+    }
+  ]
+}

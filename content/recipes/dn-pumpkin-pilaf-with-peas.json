@@ -1,0 +1,110 @@
+{
+  "slug": "dn-pumpkin-pilaf-with-peas",
+  "kind": "meal",
+  "title": "Pumpkin Pilaf",
+  "subtitle": "with Peas",
+  "description": "With basmati rice, a few veg and a spoonful of Moroccan spices, you can have a knockout vego meal on the table by adding stock, boiling it, then standing until tender.",
+  "sourceUrl": "https://dinnerly.com.au/menu/16331-pumpkin-pilaf-with-peas",
+  "imageUrl": "https://marleyspoon.com/media/recipes/16331/main_photos/large/WEB_DID00042HERO_PumpkinPilaf_067_CoOL-79d7631103c22d2f24fdfcdb3180c277.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 510,
+    "proteinG": 14.3,
+    "carbsG": 81.6,
+    "fatG": 11.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70665/photos/medium/rice_basmati_150g_ms-295486fcd2e255689930dd9df88cd519.jpeg"
+    },
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 400,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31517/photos/medium/ing_butternut_pumpkin-3000ea2a963a7ee84343a1cb7b6175b1.jpg"
+    },
+    {
+      "name": "Ras El Hanout Spice Blend",
+      "qty": 10,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31981/photos/medium/ing_ras_el_hanout-ce001b68bada9ea0f00e7daa41551095.jpg"
+    },
+    {
+      "name": "Green Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31748/photos/medium/ing_onion_brown-17206b9ad0c350d7da6f8bd9646988ea.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sea Salt and Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a kettle to the boil. Finely chop the onion and 2 garlic cloves. Peel and coarsely grate the pumpkin.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56316/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Make stock: Crumble the stock cubes into a heatproof jug, add 400ml boiling water and stir to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56317/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Start pilaf: Heat 1 tbs olive oil in a large saucepan over medium heat and cook the onion and garlic, stirring regularly, for 2-3 mins until softened. Add the ras el hanout spice blend and cook, stirring, for 30 secs or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56318/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Add pumpkin: Stir in the rice, mixing well to coat in the spices. Add the grated pumpkin and stock, stir to combine and bring to the boil. Cover, then reduce the heat to low and simmer for 15 mins or until the liquid is absorbed.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56319/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Remove from the heat. Stir in the peas, season with salt and pepper, then cover and sit for 2-3 mins until the peas are heated through. Divide the pilaf among plates to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56320/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Extra credit: For added sweetness, stir 2 tbs raisins into the rice before serving. You could also serve the pilaf with a dressed mixed salad.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56321/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "dn-hearty-italian-minestrone-budget-busting-tummy-fillers",
+  "kind": "meal",
+  "title": "Hearty Italian Minestrone",
+  "subtitle": "Budget-Busting Tummy Fillers!",
+  "description": "Filling, tried-and-true flavours, and even more budget-friendly than our core menu – that’s our Thrifty Feed recipes! These classic dishes are perfect for when you want to put tasty, honest-to-goodness food on the table, and enjoy even more savings to boot.",
+  "sourceUrl": "https://dinnerly.com.au/menu/487518-hearty-italian-minestrone-budget-busting-tummy-fillers",
+  "imageUrl": "https://marleyspoon.com/media/recipes/487518/main_photos/large/hearty-1c0f3c6e542e6e012383554064b383ba.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 895,
+    "proteinG": 30.4,
+    "carbsG": 138,
+    "fatG": 18.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Wholemeal Bread Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/39080/photos/medium/bread_gourmet_wholemeal_mini_roll_30093_2_pack_80g-414f4d648425b906f68dd855c8c826bc.jpeg"
+    },
+    {
+      "name": "Four Mixed Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32640/photos/medium/ing_beans_three_bean_mix_canned-54156dc69f7a9f3866aee3e2eb331864.jpg"
+    },
+    {
+      "name": "Italian Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70741/photos/medium/seasoning_italian_10g_ms-ef0e060567654b160f5754a80898ba94.jpeg"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 50,
+      "unit": "g",
+      "product": "tomato-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31831/photos/medium/ing_tomato_paste-d250075c2d9331aa8907ff9db2ffcf17.jpg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 800,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Macaroni Pasta",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70703/photos/medium/pasta_macaroni_200g_ms-210e257b94fa9721c56b679dc02560b9.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C, fan-forced. Bring a medium saucepan of salted water to the boil for the pasta. Cut the carrots into 1cm chunks. Finely chop the onion. Crush or finely chop 2 garlic cloves. Cut the bread rolls in half. Drain and rinse the beans.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2835424/photos/large/191899_1-9d69883df0214dc790c98437f5b2aa35.jpeg"
+    },
+    {
+      "text": "Soften veggies: Heat 1 tbs olive oil in a medium saucepan over medium-high heat. Cook the carrot, onion and garlic, stirring, for 4 mins or until the onion is softened. Add the Italian seasoning and half the tomato paste and cook, stirring, for 30 secs or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2835425/photos/large/191899_2-b4f6492e017c3d89de6b5d5b8a70de41.jpeg"
+    },
+    {
+      "text": "Simmer soup: Stir the beans, tomatoes, 1 tsp sugar and 250ml (1 cup) water into the veggies and bring to a simmer. Reduce the heat to medium and cook, covered, for 8 mins to develop the flavour.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2835426/photos/large/191899_3-5149972de5b6e56077f3352bd013c475.jpeg"
+    },
+    {
+      "text": "Cook pasta and bake rolls: Meanwhile, cook the pasta in the pan of boiling water for 6 mins or until almost al dente. Drain. While the pasta is cooking, put the rolls, cut-side up, on an oven tray. Drizzle with 2 tsp olive oil, season with salt and pepper and bake for 6 mins or until toasted.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2835427/photos/large/191899_4-bd47c0de17bb6747ef138233867096a9.jpeg"
+    },
+    {
+      "text": "Serve up: Add the pasta to the soup. Taste, then season with salt and pepper. Divide the soup among bowls and serve with the rolls (see Kitchen 101). Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2835428/photos/large/191899_5-0e027e2bb7c93692944e92ea9b9f8b7c.jpeg"
+    },
+    {
+      "text": "Kitchen 101: The soup is best served immediately after cooking, as the pasta will continue to cook in the hot liquid and may become soft and mushy on standing.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2835429/photos/large/191899_6-c398442d6a38a7ac5e31f2ba1ce774a3.jpeg"
+    }
+  ]
+}

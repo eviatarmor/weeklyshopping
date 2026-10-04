@@ -1,0 +1,102 @@
+{
+  "slug": "dn-greek-haloumi-pasta-with-oregano-and-cherry-tomatoes",
+  "kind": "meal",
+  "title": "Greek Haloumi Pasta",
+  "subtitle": "with Oregano and Cherry Tomatoes",
+  "description": "Welcome spring with this sunny bowl of herby, cherry tomato pasta. We've grated the haloumi into the mix instead of serving it in slices, so there's delicious cheesiness in every bite.",
+  "sourceUrl": "https://dinnerly.com.au/menu/36335-greek-haloumi-pasta-with-oregano-and-cherry-tomatoes",
+  "imageUrl": "https://marleyspoon.com/media/recipes/36335/main_photos/large/greek_haloumi_pasta-2027150aa5735db7d77cf51eaeb5cdee.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 705,
+    "proteinG": 33.6,
+    "carbsG": 75.9,
+    "fatG": 26.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 250,
+      "unit": "g",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34473/photos/medium/ing_tomates_cherry-16f4b52c7d4fef061248e2e523d718e7.jpg"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Oregano",
+      "product": "dried-oregano",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37918/photos/medium/ing_fresh_oregano-2583adc2efa218b96615c04cf966ae2e.jpg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31745/photos/medium/ing_lemon-bb4851a6b388b32d5bd77badeb832a9a.jpg"
+    },
+    {
+      "name": "Shell Pasta",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70702/photos/medium/pasta_large_shell_200g_ms-204bbd41d6456fb8998a7ed76585a53e.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the pasta. Halve the tomatoes. Finely chop the onion. Coarsely chop the oregano leaves, discarding the stems. Coarsely grate the haloumi. Finely grate the zest of half the lemon, then juice the half. Cut the remaining lemon half into wedges. Crush or finely chop 2 garlic cloves.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138804/photos/large/prep_ingredients-93b21dd65e51e970ba5a6a5ea83ab7d7.jpeg"
+    },
+    {
+      "text": "Cook pasta: Cook the pasta in the pan of boiling water for 8 mins or until just al dente (see Kitchen 101). Reserve 2 tbs cooking water, then drain well.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138805/photos/large/cook_pasta-d25ad3407066e6edc80b7fdc9e712d93.jpeg"
+    },
+    {
+      "text": "Blister tomatoes: Meanwhile, heat 1 tbs olive oil in a medium deep frypan over high heat. Cook the tomato, without stirring, for 3-4 mins until golden and blistered.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138806/photos/large/blister_tomatoes-9839a4172c5f33860492ecd1442b20db.jpeg"
+    },
+    {
+      "text": "Add pasta: Reduce the heat to medium, add the garlic to the pan and cook, stirring occasionally, for 1 min or until fragrant. Add the pasta and reserved cooking water, toss to combine, then cook for a further 1-2 mins until glossy. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138807/photos/large/cook_haloumi-f9ee96f10f32029d204b3942f95c7dd9.jpeg"
+    },
+    {
+      "text": "Serve up: Add the onion, 2 tsp lemon zest, 1 tbs lemon juice, three-quarters of the haloumi and half the oregano to the pan and stir to combine. Taste, then season with salt and pepper. Divide the haloumi pasta among bowls and scatter over the remaining haloumi and oregano. Serve with the lemon wedges and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138808/photos/large/dress_and_serve_up-f9e0d946a554c188f20fb7074f43ffb2.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Don't be tempted to cook the pasta for longer than this – it will continue to cook to perfect doneness when it's added to the pan in step 4.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138809/photos/large/make_it_yours-6cb3514659f74d2c79e25082084cb379.jpeg"
+    }
+  ]
+}

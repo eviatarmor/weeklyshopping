@@ -1,0 +1,126 @@
+{
+  "slug": "dn-balanced-falafel-and-quinoa-tabouleh-with-feta-yoghurt-and-crispy-pepitas",
+  "kind": "meal",
+  "title": "Balanced Falafel and Quinoa Tabouleh",
+  "subtitle": "with Feta, Yoghurt and Crispy Pepitas",
+  "description": "Our 'balanced' recipes are just that – high in nutritive value (that's fibre-rich veggies, lean proteins and wholegrains, just between us), so these dishes are good for you in every which way! They're perfect for anyone looking to minimise their intake of refined foods without sacrificing on taste.",
+  "sourceUrl": "https://dinnerly.com.au/menu/508553-balanced-falafel-and-quinoa-tabouleh-with-feta-yoghurt-and-crispy-pepitas",
+  "imageUrl": "https://marleyspoon.com/media/recipes/508553/main_photos/large/balanced_falafel_and_quinoa_tabouleh-7a91fe427d762710e2ebb80ad5e59fd7.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 775,
+    "proteinG": 27.6,
+    "carbsG": 68.5,
+    "fatG": 41.9
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "packet",
+      "product": "quinoa",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70653/photos/medium/grain_quinoa_white_125g_ms-b9605b901fdb6827c6c999cc8146dc80.jpeg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31905/photos/medium/ing_parsley-b796d1e1a29a36a912425caa2545574c.jpg"
+    },
+    {
+      "name": "Pepitas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pepitas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70708/photos/medium/seeds_pepitas_30g_ms-eb346c32d6b98846bfdc139239f99ffe.jpeg"
+    },
+    {
+      "name": "Falafel",
+      "qty": 200,
+      "unit": "g",
+      "product": "falafel",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71498/photos/medium/falafel_green_200g-03a31beaf8e30a66de88632fa00e3fb5.jpeg"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 130,
+      "unit": "g",
+      "product": "greek-yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71362/photos/medium/yoghurt_natural_tub_130g-aa595c6bc5f69cb55a6550b59554b91d.jpeg"
+    },
+    {
+      "name": "Feta",
+      "qty": 50,
+      "unit": "g",
+      "product": "feta",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31813/photos/medium/ing_feta_cheese-dd151343b0a1a7826609cb744aa6aa75.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White or Red Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook quinoa: Rinse the quinoa well in a sieve, then drain (see Kitchen 101). Heat a small saucepan over medium heat, add the quinoa and cook, stirring, for 3-4 mins until golden and toasted. Add 250ml (1 cup) water and bring to a simmer. Cover and reduce the heat to low. Cook for 12-15 mins until the water is absorbed and the quinoa is tender. Turn off the heat and stand, covered, for 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2961634/photos/large/prep_ingredients-a48bbb619913b4a158492279a8916c86.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, finely chop the tomato and cucumber. Finely chop the parsley leaves and stems. Put 2 tsp olive oil, 2 tsp white wine vinegar and 1 tsp honey in a bowl, season with salt and pepper and whisk to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2961635/photos/large/cook_quinoa-ebfbb01ff70a18cc8dfa414cee49a6e9.jpeg"
+    },
+    {
+      "text": "Fry falafel: Cook the pepitas in a cold medium frypan over medium heat, tossing, for 3-4 mins until toasted. Remove from the pan. Heat 1 tbs olive oil in the pan over medium-high heat. Cook the falafel, turning regularly, for 3-5 mins until golden. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2961636/photos/large/toast_pepitas-c832a52f75403083c1085768491c04c2.jpeg"
+    },
+    {
+      "text": "Toss tomato and cucumber: Put the tomato, cucumber and half the parsley leaves and stems in a large bowl, add half the dressing and toss to combine. Stir the remaining dressing and remaining parsley into the quinoa.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2961637/photos/large/fry_falafels-83ce0358e11bfb53c3a588c2fe6be3e3.jpeg"
+    },
+    {
+      "text": "Serve up: Put the yoghurt and 1 tbs water in a bowl, season with salt and pepper and stir to combine. Divide the quinoa, tomato mixture and falafel among bowls. Crumble over the feta and drizzle with the yoghurt mixture. Scatter over the pepitas and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2961638/photos/large/serve_up-e01a3d8fdb79956625d7a52dcd080250.jpeg"
+    },
+    {
+      "text": "Kitchen 101: It’s important to rinse the quinoa well to remove the natural coating called saponin, which can make it taste bitter or soapy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2961639/photos/large/kitchen_101-5d95e4b8726fa84c1f1d04c6844922ec.jpeg"
+    }
+  ]
+}

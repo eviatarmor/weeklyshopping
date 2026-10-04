@@ -1,0 +1,110 @@
+{
+  "slug": "dn-smoky-baked-beans-cook-once-serve-more",
+  "kind": "meal",
+  "title": "Smoky Baked Beans",
+  "subtitle": "Cook Once, Serve More!",
+  "description": "Serve up more with our Feed A Crowd recipes! Using more hearty ingredients like filling carbs, proteins and veggies, you can satisfy extra hungry tummies or keep something for tomorrow’s lunch. If you’re on a 2-person plan, these recipes make 4 portions; on a 4-person plan, they make 8 portions.",
+  "sourceUrl": "https://dinnerly.com.au/menu/503598-smoky-baked-beans-cook-once-serve-more",
+  "imageUrl": "https://marleyspoon.com/media/recipes/503598/main_photos/large/feed-1ad8b7aaf2d4fb81f973f9a83f894d31.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 585,
+    "proteinG": 22,
+    "carbsG": 79.8,
+    "fatG": 16.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 400,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31517/photos/medium/ing_butternut_pumpkin-3000ea2a963a7ee84343a1cb7b6175b1.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Four Mixed Beans",
+      "qty": 800,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32640/photos/medium/ing_beans_three_bean_mix_canned-54156dc69f7a9f3866aee3e2eb331864.jpg"
+    },
+    {
+      "name": "Smoky Barbecue Seasoning",
+      "qty": 2,
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70772/photos/medium/seasoning_smoky_barbecue_10g_ms-617ae675525f979a4a68490b15698dff.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Pita Breads",
+      "qty": 4,
+      "product": "pita-bread",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40276/photos/medium/ing_pita_pocket_souvlaki-11fa7187f9f6ecef87b08ec0f0e7ea48.jpg"
+    },
+    {
+      "name": "Shredded Cheese Mix",
+      "qty": 50,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71412/photos/medium/cheese_mozzarella_and_cheddar_mix_50g-b341eb8bac5470e07731bfa1164939b1.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Barbecue Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C, fan-forced. Line 2 oven trays with baking paper. Peel the pumpkin and cut into 2cm chunks. Crush or finely chop 2 garlic cloves. Drain and rinse the beans.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2931904/photos/large/prep_ingredients-c60c063424b9124192a9193ba02c1df3.jpeg"
+    },
+    {
+      "text": "Cook pumpkin: Heat 1 tbs olive oil in a large deep frypan over medium heat. Cook the pumpkin, turning occasionally, for 4-5 mins until golden. Add the barbecue seasoning, half the garlic and 2 tbs barbecue sauce and cook, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2931905/photos/large/cook_pumpkin-be2930cab82292630af884b7dc77fe19.jpeg"
+    },
+    {
+      "text": "Simmer beans: Add the beans, tomatoes and 125ml (½ cup) water to the pumpkin mixture, then bring to the boil. Reduce the heat to medium and cook for 15 mins or until slightly thickened and the pumpkin is tender. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2931906/photos/large/simmer_beans-3f0a8a1d734ce474aab7ae416ef2dbe9.jpeg"
+    },
+    {
+      "text": "Bake pita dippers: Meanwhile, combine the remaining garlic and 1 tbs olive oil in a bowl. Brush the garlic oil over the pita, then cut into wedges. Put the pita dippers on the oven trays (don't worry if they overlap slightly), scatter over the cheese and bake, swapping the trays halfway, for 8-10 mins until the cheese is melted and the pita dippers are crisp.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2931907/photos/large/bake_pita_dippers-70f78f48084e4b3ea8881f6e2b4c15c6.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the smoky baked beans among bowls, serve with the cheesy pita dippers and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2931908/photos/large/serve_up-120799089ec72c18c74646e549ac9ec5.jpeg"
+    },
+    {
+      "text": "Feed A Crowd: If you have some on hand, drizzle sour cream or Greek-style yoghurt over the beans before serving to add some cooling creaminess.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2931909/photos/large/feed_a_crowd-98bdd653a32eb962facd4f5f537fb56e.jpeg"
+    }
+  ]
+}

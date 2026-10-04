@@ -5,7 +5,8 @@
  *   pnpm recipe:bulk hellofresh-all   # every HelloFresh AU recipe tagged "veggie"
  *   pnpm recipe:bulk everyplate   # every EveryPlate AU recipe tagged "veggie"
  *   pnpm recipe:bulk mealime      # every Mealime recipe with a vegetarian/vegan variant
- *   ... [--force] [--limit N]
+ *   pnpm recipe:bulk dinnerly     # every vegetarian Dinnerly AU recipe since 2018
+ *   ... [--force] [--limit N] [--concurrency N]
  *
  * Every recipe also goes through the --vegetarian ingredient check, so anything
  * with meat or seafood is rejected even if the source tagged it vegetarian.
@@ -15,11 +16,14 @@ import { writeFile } from "node:fs/promises";
 import { fetchText, mapLimit, newReport, nextData, rejections, saveRecipe, type Report } from "./lib/common.ts";
 import { convertHelloFresh, fetchHelloFreshRecipe, type HfRecipe } from "./lib/hellofresh.ts";
 import { MEALIME_VEGAN, MEALIME_VEGETARIAN, convertMealime, fetchMealimeRecipe } from "./lib/mealime.ts";
+import { convertDinnerly, dinnerlyVegetarianMenu, fetchDinnerlyRecipe, isDinnerlyVegetarian } from "./lib/dinnerly.ts";
 
 const [source, ...rest] = process.argv.slice(2);
 const force = rest.includes("--force");
 const limitArg = rest.indexOf("--limit");
 const limit = limitArg >= 0 ? Number(rest[limitArg + 1]) : Infinity;
+const concurrencyArg = rest.indexOf("--concurrency");
+const concurrency = concurrencyArg >= 0 ? Number(rest[concurrencyArg + 1]) : 4;
 
 type Job = { label: string; load: (report: Report) => Promise<RecipeContent> };
 
@@ -100,11 +104,24 @@ async function mealimeJobs(): Promise<Job[]> {
     }));
 }
 
+async function dinnerlyJobs(): Promise<Job[]> {
+  const menu = await dinnerlyVegetarianMenu();
+  return menu.map((m) => ({
+    label: `dinnerly ${m.id} ${m.title}`,
+    load: async (report) => {
+      const recipe = await fetchDinnerlyRecipe(m.id);
+      if (!isDinnerlyVegetarian(recipe)) throw new Error(`not vegetarian (dietType ${recipe.dietType})`);
+      return convertDinnerly(recipe, m.slug, report);
+    },
+  }));
+}
+
 const SOURCES: Record<string, () => Promise<Job[]>> = {
   hellofresh: helloFreshJobs,
   "hellofresh-all": helloFreshAllJobs,
   everyplate: everyPlateJobs,
   mealime: mealimeJobs,
+  dinnerly: dinnerlyJobs,
 };
 const loadJobs = source ? SOURCES[source] : undefined;
 if (!loadJobs) {
@@ -119,7 +136,7 @@ const unmatched = new Map<string, number>();
 const missingBlends = new Map<string, number>();
 const slugs = new Set<string>();
 
-await mapLimit(jobs, 4, async (job) => {
+await mapLimit(jobs, concurrency, async (job) => {
   const report = newReport();
   try {
     const recipe = await job.load(report);

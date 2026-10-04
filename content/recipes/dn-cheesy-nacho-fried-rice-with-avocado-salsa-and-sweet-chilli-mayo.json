@@ -1,0 +1,127 @@
+{
+  "slug": "dn-cheesy-nacho-fried-rice-with-avocado-salsa-and-sweet-chilli-mayo",
+  "kind": "meal",
+  "title": "Cheesy Nacho Fried Rice",
+  "subtitle": "with Avocado Salsa and Sweet Chilli Mayo",
+  "description": "Keep the kids happy – and the adults too! Simply choose our 'kid-approved' recipes filled with crowd-pleasing flavours and ingredients, then watch the whole family tuck in. You can thank us later!",
+  "sourceUrl": "https://dinnerly.com.au/menu/391984-cheesy-nacho-fried-rice-with-avocado-salsa-and-sweet-chilli-mayo",
+  "imageUrl": "https://marleyspoon.com/media/recipes/391984/main_photos/large/kid-a68e7c9865d522ed7446f087cf3bea4d.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 910,
+    "proteinG": 23.6,
+    "carbsG": 100,
+    "fatG": 43.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "basmati-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70665/photos/medium/rice_basmati_150g_ms-295486fcd2e255689930dd9df88cd519.jpeg"
+    },
+    {
+      "name": "Tex-Mex Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70780/photos/medium/seasoning_tex_mex_10g_ms-7373c66b0ca0af21eed224f169266b7c.jpeg"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36662/photos/medium/ing_avocado-256dcb7b22e9a750995f0af810284915.jpg"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71361/photos/medium/dnu_dummy_garlic-5fb4bcd9cbb6a0574ec9707ca29dc14d.jpeg"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "black-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31521/photos/medium/ing_black_beans-d187a0429a4703d1c53f062cd7177244.jpg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "qty": 50,
+      "unit": "g",
+      "product": "sweet-chilli-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70859/photos/medium/sauce_sweet_chilli_40ml-e5cee88e949b0909ae1d22ef7222b807.jpeg"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Check your avocado is ripe before starting this recipe (see Cooking tip). Rinse the rice until the water runs clear. Put in a small saucepan with half the Tex-Mex seasoning and 250ml (1 cup) water, cover and bring to the boil. Reduce heat to low and cook for 12 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for 5 mins. Fluff the rice with a fork.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2262226/photos/large/166230_1-5056121de015b982b132b9026701513e.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, coarsely chop the avocado and tomatoes. Crush or finely chop 2 garlic cloves. Drain and rinse the beans. Coarsely grate the cheese. Put the avocado, tomato and 1 tsp white wine vinegar in a bowl. Season with salt and pepper and gently stir to combine. Preheat the grill to high. Grease a 1L (4 cup) baking dish.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2262227/photos/large/166230_2-0acb125c8a5fead3c612683f7d1a540a.jpeg"
+    },
+    {
+      "text": "Make fried rice: Heat 2 tsp vegetable oil in a medium deep frypan over medium-high heat. Cook the beans, stirring, for 4 mins or until warmed through. Add the garlic and remaining Tex-Mex seasoning and cook, stirring, for 30 secs or until fragrant. Stir in the rice and 2 tsp vegetable oil and cook for 2 mins or until well combined. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2262228/photos/large/166230_3-5d273a55efd6ef401c630e7a158aab02.jpeg"
+    },
+    {
+      "text": "Melt cheese: Season the fried rice with salt and pepper. Transfer to the baking dish and scatter over the cheese. Grill for 4-5 mins until the cheese is golden and melted. While the fried rice is grilling, put 2 tbs mayonnaise in a bowl. Add the sweet chilli sauce and stir until lightly rippled. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2262229/photos/large/166230_4-b1508f48432dbf7a87586211c307c361.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the cheesy fried rice and avocado salsa among bowls and drizzle with the sweet chilli mayo. Or put everything on the table for everyone to help themselves. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2262230/photos/large/166230_5-c31ffc832924c8a215978aaf5d1d1a0e.jpeg"
+    },
+    {
+      "text": "Kitchen hack: If your mayonnaise is too thick to drizzle, simply stir in 1 tsp water to make a thinner consistency.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2262231/photos/large/166230_6-7af1c021d039af3a2cb79b5036bfcd4d.jpeg"
+    }
+  ]
+}

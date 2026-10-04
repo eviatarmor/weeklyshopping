@@ -1,0 +1,108 @@
+{
+  "slug": "dn-apricot-and-coconut-bliss-logs-with-almond-cashew-and-fig",
+  "kind": "meal",
+  "title": "Apricot and Coconut Bliss Logs",
+  "subtitle": "with Almond, Cashew and Fig",
+  "description": "Packed with dried apricots, figs, cashews and coconut, these healthy morsels of yum – our family-friendly take on bliss balls – make the perfect snack for lunchboxes or a morning or afternoon pick-me-up.",
+  "sourceUrl": "https://dinnerly.com.au/menu/55725-apricot-and-coconut-bliss-logs-with-almond-cashew-and-fig",
+  "imageUrl": "https://marleyspoon.com/media/recipes/55725/main_photos/large/apricot_and_coconut_bliss_logs-1228d98a349156a2d35ff8f6da6786ec.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 130,
+    "proteinG": 3.1,
+    "carbsG": 10.6,
+    "fatG": 8.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Diced Dried Figs",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70640/photos/medium/dried_figs_diced_60g_ms-954a6dec146344f869eda3004deeccea.jpeg"
+    },
+    {
+      "name": "Diced Dried Apricots",
+      "qty": 120,
+      "unit": "g",
+      "product": "dried-apricots",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70273/photos/medium/dried_apricot_5_8mm_120g-ae9a33159998727b6788b18f173f1985.jpeg"
+    },
+    {
+      "name": "Maple Syrup",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "maple-syrup",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36779/photos/medium/ing_syrup_maple-c29963a503d6ad6665217dbdf925823f.jpg"
+    },
+    {
+      "name": "Shredded Coconut",
+      "qty": 80,
+      "unit": "g",
+      "product": "desiccated-coconut",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70233/photos/medium/coconut_shredded_80g-b21d060287586308c2092dae4cca90eb.jpeg"
+    },
+    {
+      "name": "Cashews",
+      "qty": 80,
+      "unit": "g",
+      "product": "cashews",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32897/photos/medium/ing_nuts_cashew_2-abd87ce585ef74fce4f23011c6fc5bd4.jpg"
+    },
+    {
+      "name": "Almond Meal",
+      "qty": 150,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70267/photos/medium/almond_meal_150g-02d238e51ebaac3d9b8cf584f46eb17d.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak fruit: Line an oven tray with baking paper. Put the figs, apricots, maple syrup, 1 tbs olive oil and 2 tbs boiling water in a heatproof bowl and stir to combine. Soak for 5 mins or until softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/245923/photos/large/soak_fruit-ec15e68642d746c540b8e70ae86aaef1.jpeg"
+    },
+    {
+      "text": "Process coconut: Meanwhile, put the coconut in a food processor and pulse until coarsely chopped. Transfer half the coconut to a large bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/245924/photos/large/process_coconut-15441d169a953f6052374005a17654ad.jpeg"
+    },
+    {
+      "text": "Process nuts and fruit: Add the cashews to the coconut in the food processor and process until finely chopped. Add the almond meal and fruit mixture and process until combined.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/245925/photos/large/process_nuts_and_fruit-2135240ae5b719a97dd15f6cf1afd931.jpeg"
+    },
+    {
+      "text": "Shape logs: Using damp hands, roll tablespoons of the mixture into 20 balls, then shape into logs about 5cm in length. Put on the lined tray.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/245926/photos/large/shape_logs-edcfe2f9c21755a98cc920218b6fd021.jpeg"
+    },
+    {
+      "text": "Coat logs: Roll the logs in the remaining coconut to coat. Transfer to an airtight container and refrigerate for at least 2 hours before serving. Store in the fridge for up to 1 week. Enjoy! Makes 20 bliss logs (1 per serve).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/245927/photos/large/coat_logs-feb4bcf2a666e48ce6fce2b7148a6eb9.jpeg"
+    },
+    {
+      "text": "Make it again: Use this recipe for bliss logs to make your own version! Think roasted walnuts or macadamias instead of cashews, or swap the figs for dates. For a protein boost, add 2 tsp chia seeds.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/245928/photos/large/make_it_again-f710eae63b9d0989514e6c590f40c9bc.jpeg"
+    }
+  ]
+}

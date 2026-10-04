@@ -1,0 +1,118 @@
+{
+  "slug": "dn-chimichurri-haloumi-steaks-with-sweet-potato-mash-and-tomato-salad",
+  "kind": "meal",
+  "title": "Chimichurri Haloumi Steaks",
+  "subtitle": "with Sweet Potato Mash and Tomato Salad",
+  "description": "Whether you're full-time vego or part-time only, our varied range of vegetarian dishes really hits the spot. Bursting with veggies, dairy, legumes, grains and nuts, they're packed with flavour, they’ll fill you up and they're totally mouth-watering too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/375401-chimichurri-haloumi-steaks-with-sweet-potato-mash-and-tomato-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/375401/main_photos/large/chimichurri_haloumi_steaks-c95fd023971b10961ccd395b0e3a33fe.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 505,
+    "proteinG": 23.4,
+    "carbsG": 33,
+    "fatG": 29.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Small Sweet Potatoes",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35224/photos/medium/ing_sweet_potato-f96afdc22c390d86babaf457efb2c637.jpg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34662/photos/medium/ing_tomato_roma-92c29b35b68d6299ca6ed0f0df617786.jpg"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31905/photos/medium/ing_parsley-b796d1e1a29a36a912425caa2545574c.jpg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "South American Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "south-american-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70777/photos/medium/seasoning_south_american_5g_ms-2d1155d896651d999bbf4378455d239d.jpeg"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red or White Wine Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make mash: Peel the sweet potatoes and cut into 2cm chunks. Put in a medium saucepan, cover with water and bring to the boil. Reduce the heat to medium and cook for 8-10 mins until tender. Drain, then return to the pan. Mash the sweet potato until smooth, then add 20g butter, season with salt and pepper and stir until combined.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2162740/photos/large/make_mash-c4b961bc5abb4b34078732c3c4ac88a7.jpeg"
+    },
+    {
+      "text": "Make salad: Meanwhile, coarsely chop the tomato. Thinly slice half the onion (see Kitchen 101). Pick the parsley leaves and finely chop the stems. Combine 2 tsp olive oil, 2 tsp red wine vinegar and 1 tsp dijon mustard in a large bowl and season with salt and pepper. Add the tomato, onion and parsley leaves and toss to coat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2162741/photos/large/make_salad-2e3305bdb9728b89b84f4117c757cfe3.jpeg"
+    },
+    {
+      "text": "Marinate haloumi: Cut the haloumi in half horizontally. Combine the parsley stems, South American seasoning and 1 tbs olive oil in a large bowl and season with salt and pepper. Add the haloumi and turn to coat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2162742/photos/large/marinate_pork-69fed1a3f86d3baba762d1d6d8c3f080.jpeg"
+    },
+    {
+      "text": "Pan-fry haloumi: Heat a medium frypan over medium-high heat. Cook the haloumi for 2 mins each side or until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2162743/photos/large/pan_fry_pork-277f36a6b049d5b54861611cdb03a113.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the haloumi steaks, sweet potato mash and salad among plates and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2162744/photos/large/serve_up-9a62cc145b7336b2f7b66605de3cef36.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Raw onion can have a strong taste if chunky, so very thinly slice with a sharp knife or use a mandoline if you have one.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2162745/photos/large/kitchen_101-88dc44d30eab23da27f6419b32f9d594.jpeg"
+    }
+  ]
+}

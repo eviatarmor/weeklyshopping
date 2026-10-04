@@ -1,0 +1,112 @@
+{
+  "slug": "dn-eggplant-and-capsicum-pasta-with-parmesan",
+  "kind": "meal",
+  "title": "Eggplant and Capsicum Pasta",
+  "subtitle": "with Parmesan",
+  "description": "Inspired by the Italian eggplant classic ‘pasta alla norma’, this easy breezy take on the original is simply delicious.",
+  "sourceUrl": "https://dinnerly.com.au/menu/16863-eggplant-and-capsicum-pasta-with-parmesan",
+  "imageUrl": "https://marleyspoon.com/media/recipes/16863/main_photos/large/WEB_DID00071HERO_PenneEggplant_CoOL-211c5a01765674da06ea88c070165915.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 665,
+    "proteinG": 21.8,
+    "carbsG": 82.5,
+    "fatG": 24.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Penne Pasta",
+      "qty": 1,
+      "unit": "packet",
+      "product": "penne",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70705/photos/medium/pasta_penne_200g_ms-bab8ac7430051fe85959aa050a344787.jpeg"
+    },
+    {
+      "name": "Pack Diced Italian Tomatoes",
+      "qty": 390,
+      "unit": "g",
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "packet",
+      "product": "dried-oregano",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70803/photos/medium/spice_dried_oregano_2g_ms-72d4763af26fc9115e4485dc4ae3f129.jpeg"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34663/photos/medium/ing_eggplant-6995d39ec1e648a8ff8d8405591300cc.jpg"
+    },
+    {
+      "name": "Chilli Flakes",
+      "product": "chilli-flakes",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Clove",
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt and Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the pasta. Cut the eggplant into 1-2cm chunks. Cut the capsicum into 1-2cm chunks, discarding the seeds and membrane. Crush or finely chop 2 garlic cloves.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58872/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Cook vegetables: Heat 2 tbs olive oil in a medium frypan over medium heat. Cook the eggplant and capsicum, stirring regularly, for 8-10 mins until softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58873/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Cook pasta: Meanwhile, cook the pasta in the pan of boiling water for 8-10 mins until al dente. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58874/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Add tomatoes: Add the garlic to the eggplant mixture and cook, stirring, for 1 min or until fragrant. Add the tomatoes, 1 tsp of the dried oregano (the remaining oregano won't be used in this dish) and a pinch of dried chilli flakes, if desired. Season with salt and pepper and cook for 6-8 mins until thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58875/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Meanwhile, finely grate half the parmesan (the remaining parmesan won't be used in this dish). Add the pasta to the sauce, toss to combine, then divide among bowls. Scatter over the grated parmesan to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58876/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Make it yours: A bit of basil never goes amiss when you're talking Italian food, so feel free to break out some chopped leaves and scatter over to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/58877/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "dn-veggie-tagine-with-apricot-quinoa",
+  "kind": "meal",
+  "title": "Veggie Tagine",
+  "subtitle": "with Apricot Quinoa",
+  "description": "A tagine is simply a Moroccan stew-like dish, often with fruit added to balance the savoury flavours. This hearty pumpkin, capsicum and bean version is served with apricot-flecked, protein-rich quinoa.",
+  "sourceUrl": "https://dinnerly.com.au/menu/52474-veggie-tagine-with-apricot-quinoa",
+  "imageUrl": "https://marleyspoon.com/media/recipes/52474/main_photos/large/veggie_tagine-d59179e6939e5befe01410a769be2f9c.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 665,
+    "proteinG": 20.4,
+    "carbsG": 101,
+    "fatG": 18.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Japanese Pumpkin",
+      "qty": 400,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32667/photos/medium/pp_pumpkin_japanese_portion_cut_skin_on_400g-436324eb60a55e3b6c512eddb1a45f75.jpeg"
+    },
+    {
+      "name": "Red Capsicums",
+      "qty": 2,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 150,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31688/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "packet",
+      "product": "quinoa",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70653/photos/medium/grain_quinoa_white_125g_ms-b9605b901fdb6827c6c999cc8146dc80.jpeg"
+    },
+    {
+      "name": "Diced Dried Apricots",
+      "qty": 60,
+      "unit": "g",
+      "product": "dried-apricots",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36902/photos/medium/diced_apricots-60af49fc2f8a3f5f77113417d0b8b40b.jpg"
+    },
+    {
+      "name": "Moroccan Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "mild-moroccan-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70759/photos/medium/seasoning_moroccan_10g_ms-6e8002c7f2ef53567cdf1a57ffedd51b.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 390,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "tomato-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Peel the pumpkin, then cut into 2cm chunks. Cut the capsicums into 2cm chunks. Trim the beans, then cut into thirds on an angle. Crush or finely chop 2 garlic cloves.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/233509/photos/large/prep_ingredients-b4baddb7367cd210a890ee25e7dd85f7.jpeg"
+    },
+    {
+      "text": "Cook quinoa: Put the quinoa in a sieve, then rinse well and drain (see Kitchen 101). Put the quinoa and apricots in a small saucepan with 250ml (1 cup) water, season with salt, cover and bring to a simmer. Reduce the heat to low and cook, covered, for 12-15 mins until the water is absorbed and the quinoa is tender. Turn off the heat and stand, covered, for 5 mins. Stir in 2 tsp olive oil.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/233510/photos/large/cook_quinoa-b15206f7a07e3ec0fd1d1c8e5f561ed2.jpeg"
+    },
+    {
+      "text": "Start tagine: Meanwhile, heat 1 tbs olive oil in a medium deep frypan over medium heat. Cook the pumpkin, capsicum, garlic and 1 tbs Moroccan seasoning, stirring, for 1-2 mins until fragrant. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/233511/photos/large/start_tagine-3d4e29c4f6d4941c87bdfb1ea9541180.jpeg"
+    },
+    {
+      "text": "Simmer tagine: Add the tomatoes, 1 tsp honey and 125ml (½ cup) water to the pumpkin mixture and bring to the boil. Reduce the heat to low and cook, covered, for 6-8 mins until the pumpkin is tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/233512/photos/large/simmer_tagine-99412a3bcc13e449f5b46818ef891b69.jpeg"
+    },
+    {
+      "text": "Serve up: Add the beans and 1 tsp tomato sauce to the pan and cook for 2-3 mins until the beans are tender. Taste, then season with salt and pepper. Divide the apricot quinoa and veggie tagine among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/233513/photos/large/serve_up-6e55d8cdd9d0908969c34cc78d97d058.jpeg"
+    },
+    {
+      "text": "Kitchen 101: It’s important to rinse the quinoa well to remove the natural coating called saponin, which can make it taste bitter or soapy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/233514/photos/large/kitchen_101-6431fb095f562ba962caa5176c24db44.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "dn-haloumi-and-spicy-cajun-rice-with-corn-salsa",
+  "kind": "meal",
+  "title": "Haloumi and Spicy Cajun Rice",
+  "subtitle": "with Corn Salsa",
+  "description": "Put a spring in your step with this sunny dish. Boost rice with Cajun spices, top with golden haloumi and a vibrant salsa, then bask in deliciousness.",
+  "sourceUrl": "https://dinnerly.com.au/menu/87075-haloumi-and-spicy-cajun-rice-with-corn-salsa",
+  "imageUrl": "https://marleyspoon.com/media/recipes/87075/main_photos/large/haloumi_and_spicy_cajun_rice-641f4c5ffbff8dc7803c4df5e89e5f93.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 715,
+    "proteinG": 26.1,
+    "carbsG": 71.8,
+    "fatG": 34.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Corn Kernels",
+      "qty": 300,
+      "unit": "g",
+      "product": "tinned-corn",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37713/photos/medium/ING_CornKernels-171f804d509fe7d958bf7f4ce9d33753.jpg"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70673/photos/medium/rice_jasmine_150g_ms-738732293471033ed769ed790327aa6d.jpeg"
+    },
+    {
+      "name": "Cajun Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "cajun-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70721/photos/medium/seasoning_cajun_5g_ms-f6b16ff05482ddec75cc99029a2a4a55.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.25,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red or White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Cut the cucumber and tomato into 1cm chunks. Thinly slice the spring onion on an angle. Crush or finely chop 2 garlic cloves. Cut the haloumi into 1cm-thick slices. Drain and rinse the corn. Rinse the rice under cold water until the water runs clear.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/436179/photos/large/69666_1-0e29ef23352b17dfd1b0b9c98098dd9e.jpeg"
+    },
+    {
+      "text": "Cook aromatics: Heat 2 tsp olive oil in a small saucepan over medium heat. Cook the garlic, half the spring onion and 2 tsp Cajun seasoning, stirring, for 30 secs or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/436180/photos/large/69666_2-1fb50ec536cc452cf9f2c72c7e7f6d35.jpeg"
+    },
+    {
+      "text": "Add rice: Add the rice and 310ml (1¼ cups) water to the spring onion mixture, cover and bring to a simmer. Reduce the heat to low and cook for 13 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/436181/photos/large/69666_3-441b6287a3a936d577ac77bc87c9389c.jpeg"
+    },
+    {
+      "text": "Make salsa: Meanwhile, put 1 tsp olive oil and 1 tsp red wine vinegar in a large bowl. Add the cucumber, corn and remaining spring onion, season with salt and pepper and stir to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/436182/photos/large/69666_4-bf8305a89953e4ef9186ef2f03e03f35.jpeg"
+    },
+    {
+      "text": "Fry haloumi and serve up: Heat 2 tsp olive oil in a medium frypan over medium-high heat. Cook the haloumi for 1-2 mins each side until golden. Remove from the pan. Stir the tomato into the rice. Divide the Cajun rice and haloumi among bowls, spoon over the salsa and any juices and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/436183/photos/large/69666_5-c4ddfe2c87ce88d664dd70ec125ed333.jpeg"
+    },
+    {
+      "text": "Did you know?: Haloumi is a brined, slightly springy cheese originally from Cyprus. Traditionally it was made from a mixture of goat and sheep milk, although these days cow's milk is also used.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/436184/photos/large/69666_6-a12dfe3b9a55dc20b39e26c111534aa6.jpeg"
+    }
+  ]
+}

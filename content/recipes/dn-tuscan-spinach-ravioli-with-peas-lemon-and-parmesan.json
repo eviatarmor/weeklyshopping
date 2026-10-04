@@ -1,0 +1,100 @@
+{
+  "slug": "dn-tuscan-spinach-ravioli-with-peas-lemon-and-parmesan",
+  "kind": "meal",
+  "title": "Tuscan Spinach Ravioli",
+  "subtitle": "with Peas, Lemon and Parmesan",
+  "description": "Craving a dinner that’s delightfully delish and easy to get on the table? We’re on a mission to make cooking more fun, extra yum and even simpler – this recipe, packed with quality fresh ingredients, is all that and more. Get cooking!",
+  "sourceUrl": "https://dinnerly.com.au/menu/389959-tuscan-spinach-ravioli-with-peas-lemon-and-parmesan",
+  "imageUrl": "https://marleyspoon.com/media/recipes/389959/main_photos/large/speedy_tuscan_mushroom_and_prosciutto_ravioli-36d70579275bff41f74c00bc380f5dd4.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 535,
+    "proteinG": 23.4,
+    "carbsG": 61.5,
+    "fatG": 19.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31745/photos/medium/ing_lemon-bb4851a6b388b32d5bd77badeb832a9a.jpg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 25,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70880/photos/medium/cheese_parmesan_25g-337d25a92d6b0a5b69f6d462913e4a67.jpeg"
+    },
+    {
+      "name": "Spinach and Ricotta Fiore Ravioli",
+      "qty": 325,
+      "unit": "g",
+      "product": "fresh-ravioli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71261/photos/medium/pasta_spinach_ricotta_fiore_325g-38cbc83d6960472cd6f7562d89abac59.jpeg"
+    },
+    {
+      "name": "Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Tuscan Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70784/photos/medium/seasoning_tuscan_10g_ms-fb6bf68b033f6120f62c0520f2fc4bcd.jpeg"
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the ravioli and peas. Finely grate the zest of half the lemon, then juice the half. Finely grate the parmesan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2250076/photos/large/167684_1-31a16c41da45d9a0881a0b888c9112c0.jpeg"
+    },
+    {
+      "text": "Cook ravioli and peas: Add the ravioli and peas to the pan of boiling water and cook for 2 mins or until the ravioli is just under al dente and the peas are tender. Reserve 60ml (¼ cup) cooking water, then drain the ravioli (see Kitchen 101) and peas.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2250077/photos/large/167684_2-aadcc31583e8f33d6ffb3184694d567b.jpeg"
+    },
+    {
+      "text": "Finish ravioli: Melt 20g butter in the same pan over medium heat. Add the ravioli and peas, reserved cooking water, spinach and 3 tsp Tuscan seasoning and cook, stirring, for 1 min or until the ravioli is cooked through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2250078/photos/large/167684_3-407fb31997ff7ce31037473d9fd8af34.jpeg"
+    },
+    {
+      "text": "Add lemon: Remove the pan from the heat and gently stir in the lemon zest and 1 tbs lemon juice. Taste, then season with pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2250079/photos/large/167684_4-097fb44fd39a29618bac886cf183e5a1.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the Tuscan ravioli among bowls, scatter over the parmesan and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2250080/photos/large/167684_5-657c266a9fec9012aa5fd0a5200f9282.jpeg"
+    },
+    {
+      "text": "Kitchen 101: The big rounds of ravioli look robust, but they actually love to be handled with care. Be gentle when draining and handling the cooked ravioli to ensure they don't break.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2250081/photos/large/167684_6-ebb5f9051f6980b4061c910828e4e39e.jpeg"
+    }
+  ]
+}

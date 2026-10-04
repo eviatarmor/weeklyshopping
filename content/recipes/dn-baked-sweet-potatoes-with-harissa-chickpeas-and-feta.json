@@ -1,0 +1,127 @@
+{
+  "slug": "dn-baked-sweet-potatoes-with-harissa-chickpeas-and-feta",
+  "kind": "meal",
+  "title": "Baked Sweet Potatoes",
+  "subtitle": "with Harissa Chickpeas and Feta",
+  "description": "If it's flavour you're after, this has got it all: harissa-spiced chickpeas, soft roasted sweet potato and creamy feta, with a fresh tomato salsa to bring it all together.",
+  "sourceUrl": "https://dinnerly.com.au/menu/35918-baked-sweet-potatoes-with-harissa-chickpeas-and-feta",
+  "imageUrl": "https://marleyspoon.com/media/recipes/35918/main_photos/large/baked_sweet_potatoes-11e088c2f3f865a2cb71e2f323b87d56.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 540,
+    "proteinG": 16.9,
+    "carbsG": 48.4,
+    "fatG": 27.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "calorie conscious",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Tomato Medley",
+      "qty": 200,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37687/photos/medium/ING_Tomato_MixMedley200g_306-2b6c4e5853075b152cb2779841831ba0.jpg"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Harissa Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "harissa-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70737/photos/medium/seasoning_harissa_5g_ms-1f18083d1786183e0c8b0bb200bd5e04.jpeg"
+    },
+    {
+      "name": "Feta",
+      "qty": 50,
+      "unit": "g",
+      "product": "feta",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31813/photos/medium/ing_feta_cheese-dd151343b0a1a7826609cb744aa6aa75.jpg"
+    },
+    {
+      "name": "Sweet Potatoes",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35224/photos/medium/ing_sweet_potato-f96afdc22c390d86babaf457efb2c637.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C. Line two oven trays with baking paper. Peel the sweet potato, then cut lengthwise into 1.5cm-thick slices (see Kitchen tips). Drain and rinse the chickpeas. Cut the tomatoes into quarters. Finely chop the coriander, including the stems.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137118/photos/large/prep_ingredients-fc2042c397e6060e686721263e7a35d8.jpeg"
+    },
+    {
+      "text": "Roast sweet potato: Put the sweet potato on one lined tray, brush with 1 tbs olive oil, season with salt and pepper and toss to coat. Roast, turning halfway, for 15-20 mins until golden and tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137119/photos/large/roast_sweet_potato-c175b2e631bbee26d671e6f188980270.jpeg"
+    },
+    {
+      "text": "Cook chickpeas: Meanwhile, put the chickpeas, 2 tsp harissa seasoning (see Kitchen tips), 2 tsp olive oil and 2 tsp tomato paste in a bowl. Season with salt and stir to coat. Spread the chickpeas over the remaining lined tray and bake for 10 minutes or until crisp.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137120/photos/large/cook_chickpeas-16c0c81879aadcf8d9bd6685696bf590.jpeg"
+    },
+    {
+      "text": "Make tomato salsa: Meanwhile, put the tomato, coriander, 1 tbs red wine vinegar, 2 tsp olive oil, 1 tsp dijon mustard and ¼ tsp sugar in a bowl. Season with salt and pepper and stir to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137121/photos/large/make_salsa-7f838ba242b0b4e5952b4f2727bcf52c.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the sweet potato among plates and top with the chickpeas and tomato salsa. Scatter over the feta and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137122/photos/large/serve_it_up-c829248dd2ffa9c98cded9fa58b6cb0c.jpeg"
+    },
+    {
+      "text": "Kitchen tips: The sweet potato can be difficult to cut lengthways. If you find this too hard, cut the sweet potato on an angle into 1.5cm-thick rounds. ~ Harissa contains chilli, so if you are cooking for young children, you can add 1 tsp harissa seasoning to half the chickpea and tomato paste mixture and roast on separate ends of the oven tray.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137123/photos/large/make_it_yours-597c9402a675195662d639839ca8ec7f.jpeg"
+    }
+  ]
+}

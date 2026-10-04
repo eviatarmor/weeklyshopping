@@ -1,0 +1,158 @@
+{
+  "slug": "dn-mushroom-meat-kebab-n-chips-meal-combo-fam-fave-meals-for-feasting",
+  "kind": "meal",
+  "title": "Mushroom 'Meat' 'Kebab'-n-Chips Meal Combo",
+  "subtitle": "Fam-fave meals for feasting!",
+  "description": "It’s the end of the week and that means it’s family feast night! Time to get the gang together around the table for some chit-chat and laughs, all while tucking into a lip-smacking meal. These family meal combos are customisable – choose from three different tasty proteins for delish food that always hits the spot. Plus, they come with not one but two sides for an indulgent feed, giving you even more bang for your buck!",
+  "sourceUrl": "https://dinnerly.com.au/menu/462939-mushroom-meat-kebab-n-chips-meal-combo-fam-fave-meals-for-feasting",
+  "imageUrl": "https://marleyspoon.com/media/recipes/462939/main_photos/large/beef_doner_kebab_n_chips_meal_combo-6b188b4faa9edc2d74c3457be96be001.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 1105,
+    "proteinG": 34.8,
+    "carbsG": 116.3,
+    "fatG": 51.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 3,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32648/photos/medium/ing_garlic-31d180b9c5d07fd09ae7e07aaf7726f4.jpg"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34662/photos/medium/ing_tomato_roma-92c29b35b68d6299ca6ed0f0df617786.jpg"
+    },
+    {
+      "name": "Cos Lettuce",
+      "qty": 1,
+      "product": "cos-lettuce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70844/photos/medium/pp_lettuce_cos_heart_200g-617270dbb9b5a829e77baed1a3492c30.jpeg"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Radish",
+      "qty": 40,
+      "unit": "g",
+      "product": "radish",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32668/photos/medium/ing_raddish-d43076e6023939397703e62f7d3674d9.jpg"
+    },
+    {
+      "name": "Mushroom Meat",
+      "qty": 250,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40486/photos/medium/plant_based_mushroom_meat_fable_250g_250g-cc56628b1d33d994a3c9503e6516d76d.jpeg"
+    },
+    {
+      "name": "Smoky Barbecue Sauce",
+      "qty": 50,
+      "unit": "g",
+      "product": "bbq-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71142/photos/medium/sauce_sticky_rib_marinade_50g-cefefb0661a03be54dff754d4dc3e627.jpeg"
+    },
+    {
+      "name": "Kofta Seasoning",
+      "qty": 10,
+      "unit": "g",
+      "blend": "kofta-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70132/photos/medium/spice_kofta_seasoning_10g-e01b5e5b11acdd46955c3a35a409af6f.jpeg"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 130,
+      "unit": "g",
+      "product": "greek-yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71362/photos/medium/yoghurt_natural_tub_130g-aa595c6bc5f69cb55a6550b59554b91d.jpeg"
+    },
+    {
+      "name": "Sriracha Chilli Sauce",
+      "qty": 25,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70857/photos/medium/ing_sriracha_sauce-3c3d2b038699521f5e5bbe6b71e3fd0c.jpg"
+    },
+    {
+      "name": "Hummus",
+      "qty": 100,
+      "unit": "g",
+      "product": "hummus",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71310/photos/medium/hommus_sachet_50g_yumi_s-17070bec0acb8d94d4a0dda6ba93545a.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tomato-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bake chips: Preheat the oven to 220C, fan-forced. Line a large oven tray with baking paper. Cut the unpeeled potatoes into 1cm-thick chips. Put the potato on the lined tray, drizzle with 2 tsp olive oil, season with salt and pepper and toss to coat. Bake for 25-30 mins until golden and tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2687956/photos/large/448815_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, crush the garlic (see Kitchen 101). Coarsely chop the tomatoes. Trim the lettuce, then coarsely chop. Cut the cucumber into long batons. Cut the radish into wedges. Combine 3 tsp white wine vinegar and 1 tsp sugar in a large shallow dish. Add the cucumber and radish and toss to coat. Set aside to pickle, tossing occasionally, until needed.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2687957/photos/large/448815_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Cook mushroom meat: Thinly slice the mushroom meat. Heat 2 tsp olive oil in a medium frypan over high heat. Cook the mushroom meat, stirring, for 4-5 mins until browned and crisp. Stir in the barbecue sauce, kofta seasoning and 1 tbs water until combined. Remove the pan from the heat and cover to keep warm.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2687958/photos/large/448815_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Make sauces: While the mushroom meat is cooking, combine the garlic and yoghurt in a bowl and season with salt and pepper. Combine the sriracha sauce (see Kitchen 101) and 2 tbs tomato sauce in a separate bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2687959/photos/large/448815_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Make salad and serve up: Combine the tomato, lettuce, 1 tsp white wine vinegar and 2 tsp olive oil in a bowl and season with salt and pepper. Divide the chips among bowls and top with the mushroom meat mixture. Drizzle with the yoghurt garlic sauce and sriracha-tomato sauce. Serve the 'kebab' chips with the salad, pickled cucumber and radish and hummus. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2687960/photos/large/448815_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Garlic used raw needs to be crushed or finely chopped. If you are chopping the garlic, sprinkle the garlic with a little salt while chopping to help it break down. ~ Sriracha is a Thai hot chilli sauce. If you prefer less heat, reduce the sriracha in the sauce, or serve it on the side for those who like some heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2687961/photos/large/448815_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

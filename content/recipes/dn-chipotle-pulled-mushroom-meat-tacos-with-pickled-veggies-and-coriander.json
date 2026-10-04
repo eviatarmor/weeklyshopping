@@ -1,0 +1,135 @@
+{
+  "slug": "dn-chipotle-pulled-mushroom-meat-tacos-with-pickled-veggies-and-coriander",
+  "kind": "meal",
+  "title": "Chipotle Pulled Mushroom 'Meat' Tacos",
+  "subtitle": "with Pickled Veggies and Coriander",
+  "description": "It’s plant power all the way with our super-tasty vegan dishes! Our meat-free, dairy-free, honey-free dishes are amped with plant-based proteins, fresh produce, nuts and seeds. Best of all, they’re for everyone, whether you're vegan, vegetarian or flexitarian.",
+  "sourceUrl": "https://dinnerly.com.au/menu/611903-chipotle-pulled-mushroom-meat-tacos-with-pickled-veggies-and-coriander",
+  "imageUrl": "https://marleyspoon.com/media/recipes/611903/main_photos/large/pulled-116f8827bbfd804032044395a9ea8c06.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 865,
+    "proteinG": 24.1,
+    "carbsG": 77.2,
+    "fatG": 49.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Chipotle in Adobo Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31925/photos/medium/sauce_chipotle_in_adobo_20g-4477c69edb27fbd0a36f39a01bbd2cc2.jpeg"
+    },
+    {
+      "name": "Mushroom Meat",
+      "qty": 250,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40486/photos/medium/plant_based_mushroom_meat_fable_250g_250g-cc56628b1d33d994a3c9503e6516d76d.jpeg"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 50,
+      "unit": "g",
+      "product": "tomato-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31831/photos/medium/ing_tomato_paste-d250075c2d9331aa8907ff9db2ffcf17.jpg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Thinly slice the onion. Pick the coriander leaves and finely chop the stems. Shred the carrot using a julienne peeler or coarsely grate with a box grater. Peel the cucumber into ribbons using a vegetable peeler.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581716/photos/large/prep_ingredients-9335cf45164ede8aec3276f86760753c.jpeg"
+    },
+    {
+      "text": "Pickle veggies: Combine 1 tbs white vinegar and 2 tsp sugar in a large bowl. Add the carrot, cucumber, coriander leaves and half the onion and toss to combine. Set aside to pickle, tossing occasionally, until needed. Combine 1 tsp chipotle (see Kitchen notes), 1½ tbs vegan mayonnaise and 1 tsp water in a bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581717/photos/large/pickle_veggies-996b912ff62a100c52b720951f67987e.jpeg"
+    },
+    {
+      "text": "Brown mushroom meat: Heat 1 tbs olive oil in a medium deep frypan over medium-high heat. Cook the mushroom meat, breaking up the lumps with a spoon, for 2 mins or until starting to brown. Add the coriander stems, remaining onion and remaining chipotle and cook, stirring, for 3 mins or until the onion is softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581718/photos/large/brown_mushroom_meat-2648f53cb913658fef687a2a0d3ca7ef.jpeg"
+    },
+    {
+      "text": "Simmer mushroom meat: Add 1½ tbs tomato paste, 1 tbs soy sauce and 180ml (¾ cup) water to the mushroom meat mixture and bring to the boil. Reduce the heat to medium, cover and cook for 12-15 mins until the mushroom meat is tender and the sauce is thickened. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581719/photos/large/simmer_mushroom_meat-90746ffa850a50b530c685b512a5b9e3.jpeg"
+    },
+    {
+      "text": "Serve up: Put the tortillas on a plate, slightly overlapping, and microwave for 30 secs or until warmed through (see Cooking tip). Top the tortillas with the mushroom meat mixture and drained pickled veggies. Drizzle with the chipotle mayo and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581720/photos/large/serve_up-3686f8cadf181484a1295ee38d642eda.jpeg"
+    },
+    {
+      "text": "Kitchen notes: We've suggested this amount of chipotle for flavour, but if you prefer less heat, reduce the chipotle to taste. ~ If you aren't following a vegan diet, use whatever mayonnaise you have on hand.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3581721/photos/large/make_it_yours-e67bf353c2d5757f7c39a5d8d0ae248c.jpeg"
+    }
+  ]
+}

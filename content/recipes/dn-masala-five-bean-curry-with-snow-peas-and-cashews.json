@@ -1,0 +1,120 @@
+{
+  "slug": "dn-masala-five-bean-curry-with-snow-peas-and-cashews",
+  "kind": "meal",
+  "title": "Masala Five Bean Curry",
+  "subtitle": "with Snow Peas and Cashews",
+  "description": "Made with a blend of five protein-rich beans cooked in a creamy masala sauce, topped with cashews and served with crunchy veggies, this Indian-style curry is oh so tasty and good for you too.",
+  "sourceUrl": "https://dinnerly.com.au/menu/36877-masala-five-bean-curry-with-snow-peas-and-cashews",
+  "imageUrl": "https://marleyspoon.com/media/recipes/36877/main_photos/large/masala_five_beans-84718964646325b6cbeb68441710cd84.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 515,
+    "proteinG": 16.4,
+    "carbsG": 29.5,
+    "fatG": 33.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Cabbage",
+      "qty": 150,
+      "unit": "g",
+      "product": "red-cabbage",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33201/photos/medium/ing_red_cabbage-526efb46afe756145281fca903c01773.jpg"
+    },
+    {
+      "name": "Snow Peas",
+      "qty": 100,
+      "unit": "g",
+      "product": "snow-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35793/photos/medium/ing_peas_snow-f41ba98492101de808df407f4d71369e.jpg"
+    },
+    {
+      "name": "Cashew Nuts",
+      "qty": 80,
+      "unit": "g",
+      "product": "cashews",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32897/photos/medium/ing_nuts_cashew_2-abd87ce585ef74fce4f23011c6fc5bd4.jpg"
+    },
+    {
+      "name": "Five Mixed Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38903/photos/medium/ing_beans_three_bean_mix_canned-54156dc69f7a9f3866aee3e2eb331864.jpg"
+    },
+    {
+      "name": "Indian Masala Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70110/photos/medium/seasoning_indian_masala_mild_5g_dn-5c7fc76662ce9b018690c7d5f17eb85c.jpeg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Finely shred the cabbage. Trim the snow peas, then halve on an angle. Coarsely chop three-quarters of the cashews (see Kitchen note). Crush or finely chop 1 garlic clove. Drain and rinse the mixed beans.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/141954/photos/large/prep_ingredients-af9b78214c3361ddb23c4e9971339b81.jpeg"
+    },
+    {
+      "text": "Start cooking beans: Heat 2 tsp olive oil in a medium deep frypan over medium heat. Cook the mixed beans, garlic and 2 tsp Indian masala seasoning, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/141955/photos/large/start_cooking_beans-f7f229c05a27a799e685060045b5dde2.jpeg"
+    },
+    {
+      "text": "Simmer beans: Add the coconut milk and 80ml (⅓ cup) water, season with salt and pepper and bring to a simmer. Cook, stirring occasionally, for 10 mins or until the sauce is slightly reduced. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/141956/photos/large/simmer_beans-0bfb37db621a29216dd42691383a47cf.jpeg"
+    },
+    {
+      "text": "Prep veggies: Meanwhile, bring a small saucepan of water to the boil for the snow peas. Combine 2 tsp white vinegar and ½ tsp honey in a large bowl. Add the cabbage, season with salt and pepper and toss to combine. Cook the snow peas in the pan of boiling water for 1 min or until bright green. Drain and season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/141957/photos/large/prep_veggies-ca2db4847800409f042672a2f745835c.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the masala beans, cabbage and snow peas among bowls. Scatter over the cashews and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/141958/photos/large/serve_up-95fbd95c0a9f5292526e583ea878717d.jpeg"
+    },
+    {
+      "text": "Kitchen note: To keep within our healthy eating guidelines, we've used only three-quarters of the cashews.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/141959/photos/large/make_it_yours-506b629beebe801a18634f88df01d1b1.jpeg"
+    }
+  ]
+}

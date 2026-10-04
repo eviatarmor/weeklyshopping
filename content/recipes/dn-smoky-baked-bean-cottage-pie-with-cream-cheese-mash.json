@@ -1,0 +1,112 @@
+{
+  "slug": "dn-smoky-baked-bean-cottage-pie-with-cream-cheese-mash",
+  "kind": "meal",
+  "title": "Smoky Baked Bean Cottage Pie",
+  "subtitle": "with Cream Cheese Mash",
+  "description": "A little different to your usual cottage pie, this one swaps meat for a filling of smoky mixed beans and tomato, then tops it off with a mash enriched with cream cheese.",
+  "sourceUrl": "https://dinnerly.com.au/menu/85125-smoky-baked-bean-cottage-pie-with-cream-cheese-mash",
+  "imageUrl": "https://marleyspoon.com/media/recipes/85125/main_photos/large/smoky_baked_bean_cottage_pie-3e5f5545a0edb027dcf28b2f4faedd61.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 570,
+    "proteinG": 20.9,
+    "carbsG": 62.1,
+    "fatG": 22.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Cream Cheese",
+      "qty": 250,
+      "unit": "g",
+      "product": "cream-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70447/photos/medium/cheese_cream_250g-7072f752bf7f4bad546385e9963b9cf2.jpeg"
+    },
+    {
+      "name": "Green Capsicum",
+      "qty": 1,
+      "product": "green-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31679/photos/medium/capsicum_green_180g-a1cba818ebb922c51487dac9a045a0d4.jpeg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Five Mixed Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38903/photos/medium/ing_beans_three_bean_mix_canned-54156dc69f7a9f3866aee3e2eb331864.jpg"
+    },
+    {
+      "name": "Smoky Barbecue Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70772/photos/medium/seasoning_smoky_barbecue_10g_ms-617ae675525f979a4a68490b15698dff.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make mash: Preheat the oven to 220C (see Make it faster). Grease a 1L (4 cup) baking dish. Peel the potatoes and cut into 2cm chunks. Put the potato in a medium saucepan of cold salted water and bring to the boil. Reduce the heat to medium and cook for 10 mins or until tender. Drain, then return to the pan and mash until smooth. Stir in half the cream cheese and season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/421281/photos/large/67183_1-da03a8cb67487c62d13d7e4f3a0481ad.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, cut the capsicum into 2cm chunks. Cut the tomato into 1cm chunks. Crush or finely chop 2 garlic cloves. Drain and rinse the beans.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/421282/photos/large/67183_2-f08eaa6e0bf3f4fe2ec91a8fd3582280.jpeg"
+    },
+    {
+      "text": "Soften capsicum: Heat 2 tsp olive oil in a medium deep frypan over medium heat. Cook the capsicum, stirring occasionally, for 4-5 mins until softened. Add the tomato, garlic, smoky barbecue seasoning and 2 tbs tomato paste and cook, stirring, for 2 mins or until fragrant. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/421283/photos/large/67183_3-d5229cc95d3d385cecaca0f67d79a9fc.jpeg"
+    },
+    {
+      "text": "Add beans and simmer: Stir the beans and 125ml (½ cup) water into the veggie mixture and bring to the boil. Reduce the heat to medium-high and cook, covered, stirring occasionally, for 6-8 mins until slightly thickened. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/421284/photos/large/67183_4-b1281713b42562b4cd73c8480522ec4f.jpeg"
+    },
+    {
+      "text": "Bake pie and serve up: Transfer the bean mixture to the baking dish and spoon over the mash. Bake the pie for 10-12 mins until the mash is golden and the filling is bubbling. Divide the pie among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/421285/photos/large/67183_5-672747f1773ff332cc7d3bcf9316d020.jpeg"
+    },
+    {
+      "text": "Make it faster: Short on time? If so, there's no need to turn the oven on to bake the pie. Simply divide the cream cheese mash among bowls, then top with the bean mixture.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/421286/photos/large/67183_6-68d4a3a6d13196c54e47ba384493cc75.jpeg"
+    }
+  ]
+}

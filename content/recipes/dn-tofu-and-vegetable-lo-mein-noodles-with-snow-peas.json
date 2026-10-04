@@ -1,0 +1,127 @@
+{
+  "slug": "dn-tofu-and-vegetable-lo-mein-noodles-with-snow-peas",
+  "kind": "meal",
+  "title": "Tofu and Vegetable Lo Mein Noodles",
+  "subtitle": "with Snow Peas",
+  "description": "Lo Mein simply means ‘tossed noodles’ and making it couldn’t be easier. The noodles are soaked and then tossed in a delicious sauce with veggies, then topped with silky tofu.",
+  "sourceUrl": "https://dinnerly.com.au/menu/35916-tofu-and-vegetable-lo-mein-noodles-with-snow-peas",
+  "imageUrl": "https://marleyspoon.com/media/recipes/35916/main_photos/large/tofu_and_vegetable_lo_mein_noodles-21c49acbe7de0c95052f35fca331f16e.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 550,
+    "proteinG": 29.7,
+    "carbsG": 50.9,
+    "fatG": 22.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Silken Firm Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70382/photos/medium/tofu_lite_firm_300g-62ff626140b47698c8881ee26a491d53.jpeg"
+    },
+    {
+      "name": "Snow Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "snow-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31693/photos/medium/ing_peas_snow-f41ba98492101de808df407f4d71369e.jpg"
+    },
+    {
+      "name": "Pak Choy",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "bok-choy",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35212/photos/medium/ing_bok_choy_baby-f7caffe0fafd3ee7b4a2c993fc049403.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Hokkien Noodles",
+      "qty": 220,
+      "unit": "g",
+      "product": "egg-noodles",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70231/photos/medium/noodles_thin_hokkien_taings_450g-bf23f550458db7c9eaf96f70603deaf2.jpeg"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "hoisin-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31861/photos/medium/ing_hoisin_sauce-b000d29acd680d677d6a4d52d1d362a8.jpg"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "packet",
+      "product": "cornflour",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70602/photos/medium/flour_corn_10g_ms-a86fcadd4f88f5803b64423ecec54375.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Carefully remove the tofu according to the packet instructions, then drain on paper towel. Trim the snow peas, then halve on an angle. Trim the pak choy, then cut into 3cm lengths. Thinly slice 2 garlic cloves. Peel the carrot, then shred using a julienne peeler or grate with a box grater.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137106/photos/large/prep_ingredients-a549bbcf4dc138b00d0e8fb1507ba0c6.jpeg"
+    },
+    {
+      "text": "Soak noodles: Meanwhile, put the noodles (see Kitchen notes) in a large heatproof bowl, cover generously with boiling water and soak for 3 mins, using a fork to gently separate the noodles after they start to soften. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137107/photos/large/cook_noodles-d99c14c60024569ecc3d717ac0a1904b.jpeg"
+    },
+    {
+      "text": "Make sauce: Meanwhile, cut the tofu into 1.5cm chunks. Put the hoisin sauce, 1 tsp cornflour, 1 tbs soy sauce, ½ tsp sugar and 1 tbs water in a bowl. Season with pepper and stir to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137108/photos/large/make_sauce-3483a604df32d0b937215ae00c758a9a.jpeg"
+    },
+    {
+      "text": "Stir-fry veggies: Heat 1 tbs vegetable oil in a large frypan over high heat. Stir-fry the pak choy, garlic and carrot for 1 min. Add the noodles, sauce and snow peas and stir-fry for 2 mins or until the vegetables are tender but still have crunch. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137109/photos/large/stir_fry_veggies-13d0906f0c15c88d3e219ea7384d3d82.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the noodle stir-fry among bowls and top with the tofu (see Kitchen notes). Drizzle the tofu with 2 tsp soy sauce and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137110/photos/large/serve_up-fe4b536317d823df9600f6d6e4c9da20.jpeg"
+    },
+    {
+      "text": "Kitchen notes: We've substituted hokkien noodles for the egg noodles pictured due to availability. Don't worry, the dish will be just as delicious! ~ The tofu is served at room temperature as a refreshing contrast against the warm noodles. If preferred, add the tofu to the pan at the end of step 4, cover and stand for a few minutes until warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137111/photos/large/kitchen_101-1958059a77c9156257a2f746c7b81b98.jpeg"
+    }
+  ]
+}

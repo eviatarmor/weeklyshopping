@@ -1,0 +1,116 @@
+{
+  "slug": "dn-chinese-fried-rice-with-vego-patties-and-sugar-snap-peas",
+  "kind": "meal",
+  "title": "Chinese Fried Rice",
+  "subtitle": "with Vego Patties and Sugar Snap Peas",
+  "description": "This vego fried rice has got it all! A medley of tender veg, crunchy golden patties and jasmine rice, all tossed in sweet, sticky soy sauce. What's more, it'll be on the table in a flash!",
+  "sourceUrl": "https://dinnerly.com.au/menu/63441-chinese-fried-rice-with-vego-patties-and-sugar-snap-peas",
+  "imageUrl": "https://marleyspoon.com/media/recipes/63441/main_photos/large/chinese_fried_rice-764b64fe2ddaa9c963dee689f52ba656.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 720,
+    "proteinG": 22.1,
+    "carbsG": 129.6,
+    "fatG": 20.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70673/photos/medium/rice_jasmine_150g_ms-738732293471033ed769ed790327aa6d.jpeg"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Sugar Snap Peas",
+      "qty": 100,
+      "unit": "g",
+      "product": "sugar-snap-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33220/photos/medium/ing_peas_sugar_snap-4611d49dfb27a0e988a57b8faba60d96.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Veggie Mince Patties",
+      "qty": 2,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40269/photos/medium/natraburger_mince_pattie_2_x_120g_vegan_240g-6b0ad113cd453697208e2017b7d121be.jpeg"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "kecap-manis",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38378/photos/medium/ing_kecap_manis-f06ee546719aa5901a24a885565ede77.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1.25,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Rinse the rice until the water runs clear. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer over medium heat. Reduce the heat to low and cook for 12 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/301542/photos/large/cook_rice-a44459dcde9d58094ceac21d5941930c.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, thinly slice the capsicum. Thinly slice the sugar snap peas lengthwise. Crush or finely chop 1 garlic clove. Peel the carrot, then shred using a julienne peeler or coarsely grate with a box grater. Lightly whisk 1 egg.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/301543/photos/large/prep_ingredients-3e92a2b31c0e1dc7f482ad893b1c531e.jpeg"
+    },
+    {
+      "text": "Cook omelette: Heat 1 tsp vegetable oil in a medium deep frypan over medium-high heat. Add the beaten egg and swirl to coat the base of the pan. Cook for 1 min or until just set, then loosely roll up the omelette in the pan. Remove from the pan and cool slightly, then cut into strips.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/301544/photos/large/cook_omelette-f778afc39233a859be3a23edd383ebdb.jpeg"
+    },
+    {
+      "text": "Pan-fry veggie patties: Heat 1 tbs vegetable oil in the same pan over high heat (see Kitchen 101). Reduce the heat to medium-high and cook the veggie patties for 3-4 mins each side until light golden. Remove from the pan, leaving any remaining oil in the pan. Add the carrot, capsicum, kecap manis and garlic to the pan and stir-fry for 2 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/301545/photos/large/pan_fry_veggie_patties-83ba20afd649731cccfc16c851fe506d.jpeg"
+    },
+    {
+      "text": "Finish and serve up: Add the sugar snap peas and 1½ tbs soy sauce to the pan and stir-fry for 1-2 mins until the veggies are tender but still with crunch. Add the rice and stir-fry until well combined. Remove the pan from the heat. Tear or cut the patties into bite-sized pieces. Divide the fried rice among bowls and top with the torn patties and omelette strips. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/301546/photos/large/finish_and_serve_up-24a5adba3c49d9bbe4cd3fbd544c165c.jpeg"
+    },
+    {
+      "text": "Kitchen 101: It's important to have the pan very hot before adding the veggie patties so they develop a nice golden crust.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/301547/photos/large/kitchen_101-75dda509a022bcf1f474e90fb2643056.jpeg"
+    }
+  ]
+}

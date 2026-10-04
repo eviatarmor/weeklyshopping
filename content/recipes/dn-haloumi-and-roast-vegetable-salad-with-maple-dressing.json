@@ -1,0 +1,113 @@
+{
+  "slug": "dn-haloumi-and-roast-vegetable-salad-with-maple-dressing",
+  "kind": "meal",
+  "title": "Haloumi and Roast Vegetable Salad",
+  "subtitle": "with Maple Dressing",
+  "description": "With roasted veggies, golden slices of haloumi, lentils and fresh spinach tossed in a killer maple syrup dressing, this salad is an absolute dream.",
+  "sourceUrl": "https://dinnerly.com.au/menu/36885-haloumi-and-roast-vegetable-salad-with-maple-dressing",
+  "imageUrl": "https://marleyspoon.com/media/recipes/36885/main_photos/large/haloumi-b7306e0d45c3a02dc79ca666b004cbd8.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 720,
+    "proteinG": 37.5,
+    "carbsG": 68.7,
+    "fatG": 28.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "French-Style Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70621/photos/medium/grain_french_style_lentils_100g_ms-2057cff630432a402e9e854942a6a508.jpeg"
+    },
+    {
+      "name": "Maple Syrup",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "maple-syrup",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34352/photos/medium/ing_maple_syrup-fb09575870945076d6e8689be5621b47.jpg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 70,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Sweet Potatoes",
+      "qty": 2,
+      "product": "sweet-potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35224/photos/medium/ing_sweet_potato-f96afdc22c390d86babaf457efb2c637.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.25,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C. Line an oven tray with baking paper. Peel the sweet potato, then cut into 1cm chunks. Cut the capsicum into 2cm chunks. Put the vegetables on the lined tray. Cut the haloumi into 5mm-thick slices. Crush 1 garlic clove.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137334/photos/large/prep_veggies-2c5182acc6bdfc5ef7a04576a7a9fed1.jpeg"
+    },
+    {
+      "text": "Roast veggies: Bring a medium saucepan of water to the boil for the lentils. Drizzle the vegetables with 1 tbs olive oil, season with salt and pepper and toss to coat. Roast, turning halfway, for 15 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137335/photos/large/roast_veggies-2380413cb8dab3705467c750ea25cd6e.jpeg"
+    },
+    {
+      "text": "Cook lentils: Meanwhile, cook the lentils in the pan of boiling water over medium heat, stirring occasionally, for 20-22 mins until tender. Drain, then cool under cold running water.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137336/photos/large/cook_lentils-c99c042b64630d11865ff4c50a0f4600.jpeg"
+    },
+    {
+      "text": "Cook haloumi: Put the haloumi on top of the vegetables, drizzle with 1 tsp olive oil and roast for a further 10 mins or until the haloumi is golden and the vegetables are tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137337/photos/large/cook_haloumi-76093615a6352abbd25f4647d6e46a08.jpeg"
+    },
+    {
+      "text": "Serve up: Combine the garlic, maple syrup and 2 tbs balsamic vinegar in a large bowl. Add the lentils, spinach leaves, roasted vegetables and haloumi, season with salt and pepper and toss to combine. Divide among bowls and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137338/photos/large/serve_up-dbd7a07a3d77e3229736348cda84fc89.jpeg"
+    },
+    {
+      "text": "Make it yours: Add some chopped toasted almonds to the salad for extra crunch.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137339/photos/large/make_it_yours-ed911e97d78a304d9a91f096f28e9da1.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "dn-mexican-black-bean-soup-with-cheesy-tortilla-crisps",
+  "kind": "meal",
+  "title": "Mexican Black Bean Soup",
+  "subtitle": "with Cheesy Tortilla Crisps",
+  "description": "Loaded with beans and lots of chunky veggies, this hearty Mexican soup tastes even better when topped with cheesy, crispy tortillas.",
+  "sourceUrl": "https://dinnerly.com.au/menu/36337-mexican-black-bean-soup-with-cheesy-tortilla-crisps",
+  "imageUrl": "https://marleyspoon.com/media/recipes/36337/main_photos/large/mexican_black_bean_soup-c8523c49ce0ad667d8dd3aa1332d8345.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 580,
+    "proteinG": 25.5,
+    "carbsG": 56.2,
+    "fatG": 22.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicums",
+      "qty": 2,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31679/photos/medium/capsicum_green_180g-a1cba818ebb922c51487dac9a045a0d4.jpeg"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 400,
+      "unit": "g",
+      "product": "black-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31521/photos/medium/ing_black_beans-d187a0429a4703d1c53f062cd7177244.jpg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Mexican Spice Blend",
+      "qty": 5,
+      "unit": "g",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/39205/photos/medium/spice_mexican_moderate_heat_5g_dn-59c2d9f40e130612d0d728ea705b8c6f.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 390,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Flour Wraps",
+      "qty": 4,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40276/photos/medium/ing_pita_pocket_souvlaki-11fa7187f9f6ecef87b08ec0f0e7ea48.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C. Cut the capsicums into 1cm chunks. Peel the carrots, halve lengthwise and thinly slice. Crush or finely chop 1 garlic clove. Drain and rinse the black beans. Coarsely grate the cheese.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138828/photos/large/prep_ingredients-cc7e4179c1692e1f1e434f5248b1fe09.jpeg"
+    },
+    {
+      "text": "Cook soup base: Heat 1 tbs olive oil in a medium saucepan over medium heat. Cook the capsicum, carrot and garlic, stirring, for 3-4 mins until softened. Add 2 tsp Mexican spice blend and cook, stirring, for 1 min. Add 1 tbs tomato paste and cook for 1 min.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138829/photos/large/cook_soup_base-1c07b3ca954e7909b631f47bd3b809cb.jpeg"
+    },
+    {
+      "text": "Make tortilla crisps: Add the tomatoes and 500ml (2 cups) water to the pan and stir to combine. Bring to a simmer, then reduce the heat to low and cook, covered, for 10 mins. Meanwhile, line an oven tray with baking paper. Put 2 wraps on the tray and scatter over the cheese. Bake for 6-8 mins until melted, golden and crisp. Cut into strips or shards.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138830/photos/large/make_tortilla_dippers-dfbfdce180a656e4b3d97a82807c9a4c.jpeg"
+    },
+    {
+      "text": "Finish soup: Put the black beans in a bowl and gently mash to a chunky consistency. Add the beans to the soup and season well with salt and pepper. Cook, covered, for 5-7 mins until the beans are warmed through. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138831/photos/large/finish_soup-96ed99d3049e497d409b3add6571b150.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the soup among bowls and top with some cheesy tortilla crisps. Serve the remaining crisps on the side and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138832/photos/large/serve_up-eb9f05c404892246b05a5db4dc93f36b.jpeg"
+    },
+    {
+      "text": "Make it yours: Go for the full Mexican experience and top your soup with sour cream and scatter with fresh coriander.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/138833/photos/large/make_it_yours-6bed68e60147a40ce20c4317c4942021.jpeg"
+    }
+  ]
+}

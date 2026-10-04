@@ -1,0 +1,111 @@
+{
+  "slug": "dn-kid-approved-smoky-vego-burgers-with-shake-n-bake-fries-and-special-sauce",
+  "kind": "meal",
+  "title": "Kid Approved: Smoky Vego Burgers",
+  "subtitle": "with Shake 'n' Bake Fries and Special Sauce",
+  "description": "Keep the kids happy – and the adults too! Simply choose our 'kid-approved' recipes filled with crowd-pleasing flavours and ingredients, then watch the whole family tuck in. You can thank us later!",
+  "sourceUrl": "https://dinnerly.com.au/menu/489895-kid-approved-smoky-vego-burgers-with-shake-n-bake-fries-and-special-sauce",
+  "imageUrl": "https://marleyspoon.com/media/recipes/489895/main_photos/large/kid_approved_smoky_vego_burgers-4ec835b0a5afaa61f6c2878269cc041f.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 910,
+    "proteinG": 29.9,
+    "carbsG": 90.1,
+    "fatG": 44.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Smoky Barbecue Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70772/photos/medium/seasoning_smoky_barbecue_10g_ms-617ae675525f979a4a68490b15698dff.jpeg"
+    },
+    {
+      "name": "Plant-Based Patties",
+      "qty": 2,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70883/photos/medium/plant_based_burger_patty_2_pack_226g-e60dfc5942ed8594a36d4c5513c7d034.jpeg"
+    },
+    {
+      "name": "White Bread Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40560/photos/medium/bread_continental_vegan_roll_30098_2_pack_160_g-404b0da9bfe0ff505aac99c752a95d28.jpeg"
+    },
+    {
+      "name": "Burger Sauce",
+      "qty": 40,
+      "unit": "ml",
+      "product": "burger-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70465/photos/medium/sauce_burger_40ml-dec297fde6168962c992598f17fb3123.jpeg"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70412/photos/medium/pp_mixed_salad_leaves_50g-92c69de34106c58c3bef32cb2cf4c0a1.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Barbecue Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C, fan-forced. Line a large oven tray with baking paper. Cut the unpeeled potatoes into 1cm-thick fries. Thinly slice the tomato.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2849686/photos/large/112244_1-df5e39caaad7cfd44a927a53986ee0e6.jpeg"
+    },
+    {
+      "text": "Shake 'n' bake fries: Combine the barbecue seasoning and 1 tbs olive oil in a large bowl. Add the potato and shake the bowl until the potato is coated (see Kitchen hack). Put the potato on the lined tray and bake on the upper oven shelf, turning halfway, for 30 mins or until golden.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2849687/photos/large/112244_2-c0734db0c7aa1694a7ca2c423e7feccc.jpeg"
+    },
+    {
+      "text": "Cook plant-based patties: Meanwhile, combine 2 tbs barbecue sauce and 1 tbs water in a bowl. Heat 2 tsp olive oil in a medium frypan over medium heat. Cook the patties for 3 mins each side or until warmed through. Add the sauce mixture and cook, turning, for 1-2 mins until the patties are glazed. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2849688/photos/large/112244_3-7239ddf33f3d764760b05a54c6f500c2.jpeg"
+    },
+    {
+      "text": "Toast rolls: While the patties are cooking, cut the bread rolls in half. Put on an oven tray, cut-side up, and bake on the lower shelf for 4-5 mins until lightly toasted.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2849689/photos/large/112244_4-b8cfd97c344ac61d6bd6d6d41edd67fd.jpeg"
+    },
+    {
+      "text": "Serve up: Spread the roll bases and tops with the burger sauce. Layer the bases with the salad leaves, patties and tomato, then sandwich with the tops. Serve with the fries and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2849690/photos/large/112244_5-6f405c75956d8067d8180c98fff95a89.jpeg"
+    },
+    {
+      "text": "Kitchen hack: Shaking the fries in a bowl with olive oil and seasoning ensures they are coated evenly.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2849691/photos/large/112244_6-ffb1a45670d44240ac2523ddc4ecdd8c.jpeg"
+    }
+  ]
+}

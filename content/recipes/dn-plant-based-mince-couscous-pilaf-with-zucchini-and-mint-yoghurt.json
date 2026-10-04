@@ -1,0 +1,119 @@
+{
+  "slug": "dn-plant-based-mince-couscous-pilaf-with-zucchini-and-mint-yoghurt",
+  "kind": "meal",
+  "title": "Plant-Based Mince Couscous Pilaf",
+  "subtitle": "with Zucchini and Mint Yoghurt",
+  "description": "Whether you're full-time vego or part-time only, our varied range of vegetarian dishes really hits the spot. Bursting with veggies, dairy, legumes, grains and nuts, they're packed with flavour, they’ll fill you up and they're totally mouth-watering too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/256610-plant-based-mince-couscous-pilaf-with-zucchini-and-mint-yoghurt",
+  "imageUrl": "https://marleyspoon.com/media/recipes/256610/main_photos/large/plant_based_mince_couscous_pilaf-cc815332b1d6f6ae071cb42aa415f5f6.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 660,
+    "proteinG": 35.8,
+    "carbsG": 65.3,
+    "fatG": 26.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32394/photos/medium/ing_zucchini-83c81bdb81a19f7c2cefcc32f0631213.jpg"
+    },
+    {
+      "name": "Mint",
+      "product": "mint",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31903/photos/medium/herb_mint_20g-8b7686363eac5e00a1411a38ea61b802.jpeg"
+    },
+    {
+      "name": "Plant-Based Mince",
+      "qty": 250,
+      "unit": "g",
+      "product": "plant-based-mince",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70237/photos/medium/plant_based_mince_v2_250g-feb6bf707afe7eee8bf05c88ca7b1be7.jpeg"
+    },
+    {
+      "name": "Chermoula Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70726/photos/medium/seasoning_chermoula_5g_ms-5e8bab4b1f88b81559acc7974c5cc4ed.jpeg"
+    },
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70647/photos/medium/grain_couscous_150g_ms-03bc468f163457504aaeb20c382bae08.jpeg"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "greek-yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70925/photos/medium/yoghurt_natural_tub_100g-f249eb8777dd790b22d224f0d3165b5b.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 200,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Red or White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Thinly slice the zucchini. Reserve a few whole leaves, then coarsely chop the mint, discarding the stems. Crush or finely chop 2 garlic cloves.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1450066/photos/large/prep_ingredients-343e749e92fda23c05c0f74563cdae00.jpeg"
+    },
+    {
+      "text": "Brown mince: Heat 2 tsp olive oil in a medium deep frypan over medium-high heat. Cook the plant-based mince, breaking up the lumps with a spoon, for 5-6 mins until browned. Remove from the pan with a slotted spoon.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1450067/photos/large/fry_lamb-02d405384308611f6e550f4bd306e11f.jpeg"
+    },
+    {
+      "text": "Cook zucchini: Return the pan to medium heat. Cook the zucchini, stirring, for 4 mins or until just tender. Add the mince, garlic and chermoula spice blend and cook, stirring, for 30 secs or until fragrant. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1450068/photos/large/fry_zucchini-64c34f4c8e0adf13d7f930bd306d8bc3.jpeg"
+    },
+    {
+      "text": "Add couscous: Stir the couscous and 200ml boiling water into the mince mixture. Cover and remove the pan from the heat. Stand for 5 mins or until the water is absorbed. Fluff with a fork. Stir in half the chopped mint. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1450069/photos/large/add_couscous-2ba9e1480fd9ed7bbbcab2d631edb060.jpeg"
+    },
+    {
+      "text": "Serve up: Combine the yoghurt, remaining chopped mint and 1 tsp red wine vinegar in a bowl. Divide the couscous pilaf among bowls and top with the mint yoghurt and reserved mint leaves. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1450070/photos/large/serve_up-486f0929069bf1c07a4a57c3f0b09952.jpeg"
+    },
+    {
+      "text": "Make it yours: If you have some on hand, scatter over some toasted pepitas or slivered almonds for crunch.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1450071/photos/large/make_it_yours-5ce41fec3c1d74f079aacb5521d8bd84.jpeg"
+    }
+  ]
+}

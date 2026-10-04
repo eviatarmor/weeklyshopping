@@ -1,0 +1,107 @@
+{
+  "slug": "dn-creamy-spinach-and-ricotta-ravioli-with-walnuts",
+  "kind": "meal",
+  "title": "Creamy Spinach and Ricotta Ravioli",
+  "subtitle": "with Walnuts",
+  "description": "Looking for dinner on the table quick smart? These fast recipes are ready in 25 minutes or less and all come with yumness guaranteed.",
+  "sourceUrl": "https://dinnerly.com.au/menu/238441-creamy-spinach-and-ricotta-ravioli-with-walnuts",
+  "imageUrl": "https://marleyspoon.com/media/recipes/238441/main_photos/large/creamy_spinach_and_ricotta_ravioli-079164a4d668bd3d57cbcd8ff896b5ac.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 830,
+    "proteinG": 19.4,
+    "carbsG": 64.3,
+    "fatG": 54.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "walnuts",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70699/photos/medium/nuts_walnuts_20g_ms-99fcbd70541e4c68f13217ee92312a6f.jpeg"
+    },
+    {
+      "name": "Spinach and Ricotta Fiore Ravioli",
+      "qty": 325,
+      "unit": "g",
+      "product": "fresh-ravioli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71261/photos/medium/pasta_spinach_ricotta_fiore_325g-38cbc83d6960472cd6f7562d89abac59.jpeg"
+    },
+    {
+      "name": "Tuscan Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70784/photos/medium/seasoning_tuscan_10g_ms-fb6bf68b033f6120f62c0520f2fc4bcd.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Cream",
+      "qty": 200,
+      "unit": "ml",
+      "product": "thickened-cream",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71073/photos/medium/cream_thickened_200ml-b569fdbaedc32c726e8a87ac903dc420.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a large saucepan of salted water to the boil for the ravioli. Finely chop the onion. Coarsely chop the walnuts (see Make it yours).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1341070/photos/large/238441_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Cook ravioli: Cook the ravioli in the pan of boiling water for 3 mins or until al dente. Reserve 60ml (¼ cup) cooking water, then drain the ravioli.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1341071/photos/large/238441_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Start sauce: Meanwhile, heat 2 tsp olive oil in a medium deep frypan over medium heat. Cook the onion, stirring, for 3-4 mins until softened. Add the Tuscan seasoning and 2 tbs tomato paste and cook, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1341072/photos/large/238441_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Finish sauce: Stir the reserved cooking water, spinach and half the cream into the sauce and cook for 2-3 mins until thickened. Add the ravioli and gently stir to coat. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1341073/photos/large/238441_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the ravioli among plates and scatter with the walnuts. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1341074/photos/large/238441_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Make it yours: If you have the time and want to add a little more crunch, toast the walnuts before chopping them. Put the walnuts in a cold small frypan over medium heat and toast, tossing, for 3-4 mins until golden. Remove from the pan, then coarsely chop before scattering over your pasta.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1341075/photos/large/238441_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

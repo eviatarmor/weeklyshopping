@@ -1,0 +1,104 @@
+{
+  "slug": "dn-creamy-pesto-pasta-with-roast-tomatoes-and-walnuts",
+  "kind": "meal",
+  "title": "Creamy Pesto Pasta",
+  "subtitle": "with Roast Tomatoes and Walnuts",
+  "description": "Pesto pasta just got a whole lot tastier with the addition of roasted cherry tomatoes and a creamy sauce. Finish with a scattering of toasted walnuts.",
+  "sourceUrl": "https://dinnerly.com.au/menu/40424-creamy-pesto-pasta-with-roast-tomatoes-and-walnuts",
+  "imageUrl": "https://marleyspoon.com/media/recipes/40424/main_photos/large/creamy-9cfeee965f8978def3ded891dabd7fdf.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 875,
+    "proteinG": 17.2,
+    "carbsG": 78.5,
+    "fatG": 53.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 250,
+      "unit": "g",
+      "product": "cherry-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34473/photos/medium/ing_tomates_cherry-16f4b52c7d4fef061248e2e523d718e7.jpg"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Tagliatelle Pasta",
+      "qty": 250,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35312/photos/medium/ing_pasta_linguine-2382315eea1ef48a4fa6e6d8a1acfdd4.jpg"
+    },
+    {
+      "name": "Basil Pesto",
+      "qty": 75,
+      "unit": "g",
+      "product": "pesto",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38049/photos/medium/Basil_Pesto-68def98d8b9dcd7a10b98dbe445e1235.jpg"
+    },
+    {
+      "name": "Walnuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "walnuts",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70700/photos/medium/nuts_walnuts_40g_ms-8b9ebbc3fc9bcf68f4e1b7de78a36b78.jpeg"
+    },
+    {
+      "name": "Cream WAS 300ml",
+      "qty": 250,
+      "unit": "ml",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70395/photos/medium/cream_uht_250ml-47c02061fdac2e927b2eeba458cdeeb4.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C. Line an oven tray with baking paper. Bring a medium saucepan of salted water to the boil for the pasta. Halve the tomatoes. Cut the onion into thin wedges. Thinly slice 2 garlic cloves. Coarsely chop the walnuts.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/155436/photos/large/prep_ingredients-23560ebb8c072e0439676cfc95678e31.jpeg"
+    },
+    {
+      "text": "Roast veggies: Put the tomato, onion and garlic on the lined tray. Drizzle with 1 tbs olive oil, season with salt and pepper and toss to coat. Roast for 12-14 mins until the veggies are golden and tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/155437/photos/large/roast_veggies-07d77993952affdd08e259726adbb590.jpeg"
+    },
+    {
+      "text": "Cook pasta: Meanwhile, cook three-quarters of the pasta in the pan of boiling water for 7-9 mins until al dente. Drain, then return to the pan. Add the pesto and half the cream and stir to combine. Cover to keep warm.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/155438/photos/large/cook_pasta-655f34eaef33a56e50931be77966bcee.jpeg"
+    },
+    {
+      "text": "Toast walnuts: Put the walnuts in a cold small frypan over medium heat. Toast, stirring, for 3-4 mins until golden. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/155439/photos/large/toast_walnuts-83511c310e92fd338479f2b2ffd55099.jpeg"
+    },
+    {
+      "text": "Serve up: Add the veggies and any tray juices to the pasta and stir to combine (see Kitchen tip). Taste, then season with salt and pepper. Divide the creamy pesto pasta among bowls, scatter over the walnuts and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/155440/photos/large/serve_up-ff43fad117a1ff0036157a82ee6edfab.jpeg"
+    },
+    {
+      "text": "Kitchen tip: If your pasta mixture has cooled down too much, just warm through over medium-low heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/155441/photos/large/kitchen_tip-7802b11d72a76784d5688685698479e9.jpeg"
+    }
+  ]
+}

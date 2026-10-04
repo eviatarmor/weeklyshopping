@@ -1,0 +1,120 @@
+{
+  "slug": "dn-pan-fried-barbecue-haloumi-with-shoestring-fries-and-spinach-salad",
+  "kind": "meal",
+  "title": "Pan-Fried Barbecue Haloumi",
+  "subtitle": "with Shoestring Fries and Spinach Salad",
+  "description": "Whether you're full-time vego or part-time only, our varied range of vegetarian dishes really hits the spot. Bursting with veggies, dairy, legumes, grains and nuts, they're packed with flavour, they’ll fill you up and they're totally mouth-watering too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/448934-pan-fried-barbecue-haloumi-with-shoestring-fries-and-spinach-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/448934/main_photos/large/pan-510e3c5eb4b38cf3d1df91405036bccc.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 655,
+    "proteinG": 26.3,
+    "carbsG": 44.7,
+    "fatG": 39.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Aussie Barbecue Seasoning",
+      "qty": 10,
+      "unit": "g",
+      "blend": "aussie-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70545/photos/medium/seasoning_aussie_barbecue_10g-6b86a158cc963fad8ae9e181c73d06f0.jpeg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White or Red Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "red-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "dijon-mustard",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bake fries: Preheat the oven to 220C, fan-forced. Line a large oven tray with baking paper. Cut the unpeeled potatoes into matchsticks (see Kitchen hack). Put the potato, 1 tbs olive oil and 1 tsp barbecue seasoning in a bowl, season with salt and pepper and toss to coat. Put on the lined tray and bake for 20-25 mins until tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2603926/photos/large/73372_1-66508fc98d118f002e46f7aaa5a36f4c.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, cut the tomato into wedges. Shred the carrot using a julienne peeler or coarsely grate with a box grater. Halve the haloumi horizontally.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2603927/photos/large/73372_2-94b649ca0050224a4405b62e18946f3e.jpeg"
+    },
+    {
+      "text": "Pan-fry haloumi: Combine the remaining barbecue seasoning and 2 tsp olive oil in a large bowl and season with salt and pepper. Add the haloumi and turn to coat. Heat a small frypan over medium-high heat. Cook the haloumi for 2 mins each side or until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2603928/photos/large/73372_3-f8bb3273c537009e048c699cc6687d43.jpeg"
+    },
+    {
+      "text": "Toss salad: Put 2 tsp olive oil, 1 tsp white wine vinegar, ½ tsp dijon mustard and ¼ tsp sugar in a large bowl, season with salt and pepper and whisk to combine. Add the tomato, carrot and spinach and toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2603929/photos/large/73372_4-a67951e63ade96faab0e47032effbd70.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the haloumi, fries and salad among plates. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2603930/photos/large/73372_5-dc7f22410c2ed5b9e51c50959b2bdd88.jpeg"
+    },
+    {
+      "text": "Kitchen hack: Here's an easy way to cut the potatoes into matchsticks: thinly slice lengthwise, then stack the slices and cut into matchsticks.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2603931/photos/large/73372_6-28f57d2e41e837f9a15da95a330f2a8c.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "dn-cauliflower-and-chickpea-masala-with-naan-bread",
+  "kind": "meal",
+  "title": "Cauliflower and Chickpea Masala",
+  "subtitle": "with Naan Bread",
+  "description": "Enjoy the aromatic flavours of Indian cooking with this masala-spiced dish of cauliflower and chickpeas. Scatter with coriander for zingy freshness.",
+  "sourceUrl": "https://dinnerly.com.au/menu/34090-cauliflower-and-chickpea-masala-with-naan-bread",
+  "imageUrl": "https://marleyspoon.com/media/recipes/34090/main_photos/large/cauliflower_and_chickpea_masala-2424ff0eeab291d15c1e4b616d724616.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 730,
+    "proteinG": 23.6,
+    "carbsG": 81.2,
+    "fatG": 30.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 250,
+      "unit": "g",
+      "product": "cauliflower",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31629/photos/medium/ing_cauliflower_whole-7468342622972c73f1095b412d9437e5.jpg"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Masala Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "masala-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70738/photos/medium/seasoning_indian_masala_mild_10g_ms-b0271f635040ac6b6d533bbdb1511018.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 390,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Naan Breads",
+      "qty": 2,
+      "product": "naan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35804/photos/medium/ing_naan_bread-59ce24385791d83c3809432bb116209a.jpg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 100,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31758/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Paste",
+      "product": "tomato-paste",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Rinse and drain the chickpeas. Cut the cauliflower into small florets. Crush or finely chop 2 garlic cloves. Pick half the coriander leaves, then coarsely chop the remaining coriander, including the stems.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/127686/photos/large/prep_ingredients-d86ba55fd287304ffe02c3a7a16dc53f.jpeg"
+    },
+    {
+      "text": "Brown cauliflower: Heat 1½ tbs olive oil in a medium deep frypan over medium heat. Cook the cauliflower, garlic and 1 tbs masala seasoning, stirring, for 2 mins or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/127687/photos/large/brown_cauliflower-285ae4f87644692771030c46011ed36e.jpeg"
+    },
+    {
+      "text": "Simmer masala: Add the chickpeas, tomatoes, 1 tbs tomato paste and 125ml (½ cup) water and bring to the boil. Reduce the heat to medium-low and cook, covered, stirring occasionally, for 15 mins or until the sauce is thickened. Taste, then season with salt and pepper. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/127688/photos/large/cook_masala-ca4e724045468e5175ffc6d0637ec31d.jpeg"
+    },
+    {
+      "text": "Toast naan: Meanwhile, heat a large frypan over medium heat. Toast the naan, one at a time, for 1 min each side or until lightly golden and warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/127689/photos/large/toast_naan-735452018470876e1825f2bdef2efb05.jpeg"
+    },
+    {
+      "text": "Serve up: Add the chopped coriander to the masala, stir to combine, then divide among bowls. Scatter over the coriander leaves and drizzle with the yoghurt. Serve with the naan and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/127690/photos/large/serve_up-6453aee0f8f9e9525636b019cd6f2246.jpeg"
+    },
+    {
+      "text": "Make it yours: If you like your curries with heat, scatter over dried chilli flakes or sliced fresh chilli to serve",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/127691/photos/large/make_it_yours-39fc27782770f7a8e2bb28603fc53505.jpeg"
+    }
+  ]
+}

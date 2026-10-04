@@ -1,0 +1,128 @@
+{
+  "slug": "dn-italian-cheese-pasta-with-kale-salad",
+  "kind": "meal",
+  "title": "Italian Cheese Pasta",
+  "subtitle": "with Kale Salad",
+  "description": "You could call this cheesy pasta or by its Italian name, 'cacio e pepe' (literally cheese and pepper), but we call it simply delicious! Serve with a kale and spring onion salad for a boost of greens.",
+  "sourceUrl": "https://dinnerly.com.au/menu/38383-italian-cheese-pasta-with-kale-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/38383/main_photos/large/italian_cheese_pasta-74b6d2e4f4cced91dcf0475d3fc2488b.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 855,
+    "proteinG": 34.4,
+    "carbsG": 85.3,
+    "fatG": 40.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "qty": 100,
+      "unit": "g",
+      "product": "kale",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37551/photos/medium/ing_kale_green-2a2557bbc0f23252466267c786b88bc7.jpg"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 250,
+      "unit": "g",
+      "product": "spaghetti",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32776/photos/medium/ing_spaghetti-e015cad043724667055d18db6624ba82.jpg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37660/photos/medium/ing_parsley-b796d1e1a29a36a912425caa2545574c.jpg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31756/photos/medium/cheese_parmesan_100g-e6073766be97267d759156e6ccb19443.jpeg"
+    },
+    {
+      "name": "Pepitas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pepitas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70708/photos/medium/seeds_pepitas_30g_ms-eb346c32d6b98846bfdc139239f99ffe.jpeg"
+    },
+    {
+      "name": "Dried Currants",
+      "qty": 1,
+      "unit": "packet",
+      "product": "currants",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70633/photos/medium/dried_currants_20g_ms-0376122f220a838a6d0c2f7bcfc9a879.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep kale: Bring a medium saucepan of salted water to the boil for the pasta. Tear or chop the kale leaves into small pieces, discarding the stems. Combine the kale, 1 tbs olive oil and a pinch of salt in a bowl, then use your hands to massage the kale for 2 mins or until it has broken down slightly (see Kitchen 101).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149142/photos/large/prep_kale-3982f5117a85856b9a16167f65f93f69.jpeg"
+    },
+    {
+      "text": "Cook pasta: Cook three-quarters of the pasta in the pan of boiling water for 8 mins. Reserve 250ml (1 cup) cooking water, then drain the pasta. Meanwhile, thinly slice the spring onion. Finely chop the parsley leaves, discarding the stems. Finely grate the parmesan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149143/photos/large/cook_pasta-1618b3197ed7254433eee9d4525acbbe.jpeg"
+    },
+    {
+      "text": "Make salad: Put the pepitas in a cold medium deep frypan over medium heat. Toast, tossing, for 3-4 mins until evenly golden. Remove from pan and cool slightly, then coarsely chop. Reserve the pan. Put 1 tbs white wine vinegar and 2 tsp honey in a large bowl, season with salt and pepper and whisk to combine. Add the kale, spring onion, parsley and currants and toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149144/photos/large/make_salad-edb5b4051d4ebfd8a10f16f31e6c1eda.jpeg"
+    },
+    {
+      "text": "Combine pasta and cheese: Add the reserved cooking water to the reserved pan and bring to the boil over medium-high heat. Add the pasta, three-quarters of the parmesan, 20g butter and 1 tsp freshly ground black pepper, if desired, and stir to combine. Cook, stirring, for 2-3 mins until the pasta is cooked through and most of the liquid is absorbed. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149145/photos/large/sauce_pasta-4686ed38f3026e5bb79146b1cf6b82f6.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the pasta among bowls and top with the remaining parmesan. Scatter the pepitas over the salad. Serve the pasta with the kale salad and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149146/photos/large/serve_up-bdca640a3db38e69d3b58bf1065ba18d.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Yes, you read it correctly – kale needs to be massaged! This is a really important step because it helps to break down the tough fibres, making it tender and easier to eat. Gently pinch and squeeze the leaves with your fingers until they start to shrink, soften and darken a little.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/149147/photos/large/kitchen_tip-00b4039c3745f7a509a3d57efff84c32.jpeg"
+    }
+  ]
+}

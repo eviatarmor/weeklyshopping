@@ -1,0 +1,97 @@
+{
+  "slug": "dn-air-fryer-two-cheese-n-greens-toasties-midday-mega-saver",
+  "kind": "meal",
+  "title": "Air Fryer Two-Cheese 'n' Greens Toasties",
+  "subtitle": "Midday Mega-Saver!",
+  "description": "Down tools and drool… it’s lunch time! Whether in the staff room at work or al desko at home, eating a yummy lunch is key to work-life happiness. So make your lunch smarter, quicker and way more affordable with our tasty recipes.",
+  "sourceUrl": "https://dinnerly.com.au/menu/399363-air-fryer-two-cheese-n-greens-toasties-midday-mega-saver",
+  "imageUrl": "https://marleyspoon.com/media/recipes/399363/main_photos/large/air_fryer_two_cheese_and_greens_toastie-e416fc4e2adf0379ca004c3ede21d51a.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 390,
+    "proteinG": 17.6,
+    "carbsG": 39,
+    "fatG": 17.7
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Silverbeet",
+      "qty": 100,
+      "unit": "g",
+      "product": "silverbeet",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31752/photos/medium/ing_silverbeet-9c7937cdd91a5462716343f317093ca4.jpg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "White Bread Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40560/photos/medium/bread_continental_vegan_roll_30098_2_pack_160_g-404b0da9bfe0ff505aac99c752a95d28.jpeg"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "packet",
+      "product": "dried-oregano",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70803/photos/medium/spice_dried_oregano_2g_ms-72d4763af26fc9115e4485dc4ae3f129.jpeg"
+    },
+    {
+      "name": "Feta",
+      "qty": 50,
+      "unit": "g",
+      "product": "feta",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31813/photos/medium/ing_feta_cheese-dd151343b0a1a7826609cb744aa6aa75.jpg"
+    },
+    {
+      "name": "Olive Oil Spray",
+      "product": "cooking-spray",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep greens: Preheat the air fryer to 200C (see Don't have an air fryer?). Discard the stems from the silverbeet and thinly slice the leaves. Thinly slice the spring onion.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306498/photos/large/362181_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Grate cheddar: Coarsely grate the cheddar.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306501/photos/large/362181_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Prep bread rolls: Cut the bread rolls in half. Spray or brush the cut side of each half with olive oil.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306502/photos/large/362181_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Assemble toasties: Divide the silverbeet among the bread roll bases, scatter over a pinch of oregano and lightly season with salt and pepper. Top with the spring onion and cheddar, crumble over the feta and sandwich with the tops. Generously spray or brush the tops with olive oil and scatter over a pinch of oregano.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306503/photos/large/362181_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Air-fry toasties: Put the toasties in the air-fryer basket, in batches if necessary. Air-fry the toasties for 5 mins or until golden and crisp. Cut the toasties in half, divide among plates and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306504/photos/large/362181_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Don't have an air fryer?: No worries, you can cook the toasties in your oven. Preheat the oven to 220C, fan-forced. Put the toasties on an oven tray lined with baking paper and bake for 6-8 mins until golden and crisp.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306505/photos/large/362181_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

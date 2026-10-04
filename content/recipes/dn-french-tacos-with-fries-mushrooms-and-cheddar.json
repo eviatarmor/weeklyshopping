@@ -1,0 +1,119 @@
+{
+  "slug": "dn-french-tacos-with-fries-mushrooms-and-cheddar",
+  "kind": "meal",
+  "title": "French Tacos",
+  "subtitle": "with Fries, Mushrooms and Cheddar",
+  "description": "Crispy baked tacos with fries in the filling? No wonder these are a fast-food staple in France! We've traded the usual meat for mushrooms in our vego version, but kept all the saucy, cheesy goodness.",
+  "sourceUrl": "https://dinnerly.com.au/menu/90783-french-tacos-with-fries-mushrooms-and-cheddar",
+  "imageUrl": "https://marleyspoon.com/media/recipes/90783/main_photos/large/french_tacos-c0e96afcd91304d31860d3d373b862d3.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 800,
+    "proteinG": 20.6,
+    "carbsG": 69,
+    "fatG": 46.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Mushrooms",
+      "qty": 200,
+      "unit": "g",
+      "product": "mushrooms",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35496/photos/medium/ing_mushrooms-93f66f779e0860f58ae9fbcfe85def93.jpg"
+    },
+    {
+      "name": "Green Capsicum",
+      "qty": 1,
+      "product": "green-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31679/photos/medium/capsicum_green_180g-a1cba818ebb922c51487dac9a045a0d4.jpeg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Tex-Mex Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "tex-mex-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70780/photos/medium/seasoning_tex_mex_10g_ms-7373c66b0ca0af21eed224f169266b7c.jpeg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Barbecue Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bake fries: Preheat the oven to 220C. Line 2 oven trays with baking paper. Cut the unpeeled potato into 1cm-thick fries. Put on a lined tray, drizzle with 1 tbs olive oil and season with salt and pepper. Bake for 15-18 mins until golden and tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/457557/photos/large/73229_1-1ee668fdf06f03332d9cb18df7fd72ae.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, thickly slice the mushrooms. Cut the capsicum into thin strips. Coarsely grate the cheese.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/457558/photos/large/73229_2-3f899c4ad60d8b8224b94b291b3a20b1.jpeg"
+    },
+    {
+      "text": "Cook mushrooms: Heat 2 tsp olive oil in a medium frypan over medium-high heat. Cook the mushrooms, stirring, for 2 mins or until softened. Add the capsicum and cook for 2 mins or until tender. Add the Tex-Mex seasoning and 1 tbs barbecue sauce and cook, stirring, for 1 min or until fragrant. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/457559/photos/large/73229_3-553a051004cd85eab6b4dc1a2766f2c5.jpeg"
+    },
+    {
+      "text": "Assemble tacos: Combine 2 tbs mayonnaise and 1 tbs tomato sauce in a bowl. Spread the tortillas with the mayo mixture and top with the fries and mushroom mixture (see Make it yours). Sprinkle with the cheese and fold over to enclose. Put on the remaining lined tray.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/457560/photos/large/73229_4-bc2dc6181a27c862f4c1646cd9b035ea.jpeg"
+    },
+    {
+      "text": "Bake and serve up: Bake the tacos for 6-8 mins until golden and the cheese is melted. Divide among plates and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/457561/photos/large/73229_5-c1833071e66a4229e0def2853002e121.jpeg"
+    },
+    {
+      "text": "Make it yours: Chilli lovers, go wild and scatter chopped bird's eyes over the filling before baking the tacos.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/457562/photos/large/73229_6-cec9a5a9ff3b0cb0a6955a2b018298ac.jpeg"
+    }
+  ]
+}

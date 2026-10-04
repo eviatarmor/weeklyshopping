@@ -1,0 +1,126 @@
+{
+  "slug": "dn-thrifty-feed-indian-chickpea-curry-rolls-budget-busting-tummy-fillers",
+  "kind": "meal",
+  "title": "Thrifty Feed: Indian Chickpea Curry Rolls",
+  "subtitle": "Budget-busting tummy fillers!",
+  "description": "Filling, tried-and-true flavours, and even more budget-friendly than our core menu – that’s our Thrifty Feed recipes! These classic dishes are perfect for when you want to put tasty, honest-to-goodness dinners on the table, and enjoy even more savings to boot.",
+  "sourceUrl": "https://dinnerly.com.au/menu/276079-thrifty-feed-indian-chickpea-curry-rolls-budget-busting-tummy-fillers",
+  "imageUrl": "https://marleyspoon.com/media/recipes/276079/main_photos/large/thrifty-64e3355783db03a855843c7a3b5e593a.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 710,
+    "proteinG": 21.7,
+    "carbsG": 91.5,
+    "fatG": 25.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Small Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35224/photos/medium/ing_sweet_potato-f96afdc22c390d86babaf457efb2c637.jpg"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Sri Lankan Curry Powder",
+      "qty": 1,
+      "unit": "packet",
+      "product": "curry-powder",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71011/photos/medium/seasoning_sri_lankan_curry_10g_ms-de9ea1277ca4ad803524a0cfda43d18f.jpeg"
+    },
+    {
+      "name": "Indian Butter Curry Paste",
+      "qty": 50,
+      "unit": "g",
+      "product": "tikka-masala-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71157/photos/medium/paste_indian_butter_curry_50g-b82509710075efbe439976916874a9a3.jpeg"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 50,
+      "unit": "g",
+      "product": "tomato-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31831/photos/medium/ing_tomato_paste-d250075c2d9331aa8907ff9db2ffcf17.jpg"
+    },
+    {
+      "name": "White Bread Rolls",
+      "qty": 2,
+      "product": "bread-rolls",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40560/photos/medium/bread_continental_vegan_roll_30098_2_pack_160_g-404b0da9bfe0ff505aac99c752a95d28.jpeg"
+    },
+    {
+      "name": "Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Vegan Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Cut the unpeeled sweet potato into 1.5 cm chunks. Finely chop half the onion and thinly slice the remaining half. Drain and rinse the chickpeas. Put the sliced onion and 1 tsp white vinegar in a bowl and toss to coat. Set aside to pickle, tossing occasionally, until needed.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1566844/photos/large/243397_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Start curry: Heat 2 tsp vegetable oil in a medium deep frypan over medium heat. Cook the chopped onion, stirring, for 2-3 mins until softened. Add the curry powder, Indian butter curry paste and tomato paste and cook, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1566845/photos/large/243397_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Simmer curry: Add the sweet potato, chickpeas and 375ml (1½ cups) water to the onion mixture. Increase the heat to medium-high and cook, covered, for 14 mins or until the sweet potato is tender. Increase the heat to high, add the peas and cook, covered, for 2 mins or until tender. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1566846/photos/large/243397_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Toast bread rolls: Meanwhile, preheat the grill to high. Cut the bread rolls in half. Put on an oven tray, cut-side up, and grill for 4-5 mins until lightly toasted.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1566847/photos/large/243397_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Drain the pickled onion, discarding the pickling liquid. Spread the bread roll bases with 2 tbs vegan mayonnaise, then fill with the curry and pickled onion. Sandwich with the tops and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1566848/photos/large/243397_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Make it yours: This is a saucy curry so eating it in a roll can be a little messy – yet so delicious! If you prefer, simply serve the bread alongside instead.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/1566849/photos/large/243397_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "dn-tray-baked-eggplant-parmi-with-golden-wedges-and-salad",
+  "kind": "meal",
+  "title": "Tray-Baked Eggplant Parmi",
+  "subtitle": "with Golden Wedges and Salad",
+  "description": "Our spin on this Italian classic delivers up baked crumbed eggplant topped with tomatoes and lots of melty cheese. And what better accompaniment than some roasted potato wedges!",
+  "sourceUrl": "https://dinnerly.com.au/menu/89333-tray-baked-eggplant-parmi-with-golden-wedges-and-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/89333/main_photos/large/sheet_pan_eggplant_parmigiana-a5d8a8d01dcbcfce2f62a0979dca740b.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 620,
+    "proteinG": 25.9,
+    "carbsG": 70.3,
+    "fatG": 23.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34663/photos/medium/ing_eggplant-6995d39ec1e648a8ff8d8405591300cc.jpg"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70660/photos/medium/panko_breadcrumbs_75g_ms-f8f9876aa9eb8f30445afd268cef5b8b.jpeg"
+    },
+    {
+      "name": "Tuscan Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70784/photos/medium/seasoning_tuscan_10g_ms-fb6bf68b033f6120f62c0520f2fc4bcd.jpeg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Mixed Salad Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "mixed-salad-leaves",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70412/photos/medium/pp_mixed_salad_leaves_50g-92c69de34106c58c3bef32cb2cf4c0a1.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil Spray",
+      "product": "cooking-spray",
+      "pantry": true
+    },
+    {
+      "name": "Red or White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bake wedges: Preheat the oven to 220C (see Kitchen notes). Line 2 oven trays with baking paper. Cut the unpeeled potatoes into 2cm-thick wedges. Put the potato on a lined tray, drizzle with 2 tsp olive oil and season with salt and pepper. Roast for 25 mins or until tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/448641/photos/large/71743_1-3b88b5742f6d5a4167a8cd27e765e46a.jpeg"
+    },
+    {
+      "text": "Crumb eggplant: Meanwhile, trim the eggplant (see Kitchen notes), then cut lengthwise into 4 slices. Whisk 2 eggs in a shallow bowl. Put the breadcrumbs in a separate shallow bowl. Sprinkle the Tuscan seasoning over both sides of the eggplant slices. Dip the eggplant in the egg and coat in the breadcrumbs.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/448642/photos/large/71743_2-ac3da441a1eca6ce9aea6bd29b8d339f.jpeg"
+    },
+    {
+      "text": "Bake eggplant: Put the eggplant on the remaining lined tray and spray with olive oil. Bake for 15-20 mins until tender. Coarsely grate the cheese. Top the eggplant with half the tomatoes and scatter over the cheese. Bake for a further 5 mins or until the cheese is melted.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/448643/photos/large/71743_3-2e60a82f45214c3daf3138cac7244b6a.jpeg"
+    },
+    {
+      "text": "Dress salad leaves: Meanwhile, combine 2 tsp olive oil and 1 tsp red wine vinegar in a large bowl and season with salt and pepper. Add the salad leaves and toss to coat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/448644/photos/large/71743_4-b3b15d25352a83fbaa724961735abd5c.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the eggplant, potato wedges and salad leaves among plates and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/448645/photos/large/71743_5-13b150685e90695f80dfd11bedf2370e.jpeg"
+    },
+    {
+      "text": "Kitchen notes: We've baked the eggplant for a healthier touch, but for a crisp, golden finish, pan-fry the eggplant in olive oil until tender. Drain on paper towel. ~ Only 300g eggplant is needed for this recipe, so if your eggplant looks very large, you may want to check the weight. Alternatively, use all the eggplant, but cut it into 1cm-thick slices.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/448646/photos/large/71743_6-17a1dc1d75c28e65503944dcc23f90fe.jpeg"
+    }
+  ]
+}

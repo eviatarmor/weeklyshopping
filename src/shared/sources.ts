@@ -4,6 +4,7 @@ const SOURCES: [RegExp, RecipeSource][] = [
   [/hellofresh\./, { id: "hellofresh", label: "HelloFresh" }],
   [/everyplate\./, { id: "everyplate", label: "EveryPlate" }],
   [/mealime\.com/, { id: "mealime", label: "Mealime" }],
+  [/dinnerly\./, { id: "dinnerly", label: "Dinnerly" }],
   [/reddit\.com/, { id: "reddit", label: "r/hellofresh" }],
 ];
 

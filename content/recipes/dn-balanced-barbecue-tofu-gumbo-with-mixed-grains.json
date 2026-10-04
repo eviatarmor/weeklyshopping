@@ -1,0 +1,135 @@
+{
+  "slug": "dn-balanced-barbecue-tofu-gumbo-with-mixed-grains",
+  "kind": "meal",
+  "title": "Balanced Barbecue Tofu Gumbo",
+  "subtitle": "with Mixed Grains",
+  "description": "Our 'balanced' recipes are just that – high in nutritive value (that's fibre-rich veggies, lean proteins and wholegrains, just between us), so these dishes are good for you in every which way! They're perfect for anyone looking to minimise their intake of refined foods without sacrificing on taste.",
+  "sourceUrl": "https://dinnerly.com.au/menu/154315-balanced-barbecue-tofu-gumbo-with-mixed-grains",
+  "imageUrl": "https://marleyspoon.com/media/recipes/154315/main_photos/large/balanced_barbecue_tofu_gumbo-2130da6de15d6b39742aa34c82c1fa18.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 675,
+    "proteinG": 32.5,
+    "carbsG": 78.3,
+    "fatG": 22.2
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown and Black Rice with Quinoa",
+      "qty": 1,
+      "unit": "packet",
+      "product": "quinoa",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70840/photos/medium/rice_brown_black_rice_with_quinoa_125g_ms-44f5be3434774f3bf4548a3a56722a8d.jpeg"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Smoky Barbecue Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70772/photos/medium/seasoning_smoky_barbecue_10g_ms-617ae675525f979a4a68490b15698dff.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 400,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "tomato-paste",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 430,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice blend: Fill a medium saucepan three-quarters full with water and bring to the boil. Add the rice blend and cook for 22-24 mins until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/836553/photos/large/101384_1-cae2251195070e8434b39c5f28427cdc.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, cut the capsicum into 3cm chunks. Thinly slice the onion. Quarter the tofu pieces. To make the stock, put the barbecue seasoning, 2 tbs tomato paste, 2 tbs soy sauce and 430ml (1¾ cups) boiling water in a heatproof jug and stir to dissolve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/836554/photos/large/101384_2-49d62245c80041f8c53e8f58cab59050.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat 2 tsp olive oil in a medium saucepan over medium heat. Cook the tofu for 2 mins each side or until golden and warmed through. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/836555/photos/large/101384_3-edf5a2f098a051a277f8224f58640361.jpeg"
+    },
+    {
+      "text": "Simmer gumbo: Heat 2 tsp olive oil in the same pan over medium heat. Cook the onion, stirring, for 3 mins or until softened. Add the capsicum and cook, stirring, for 2-3 mins until just tender. Stir in the stock, tomatoes and 1 tsp sugar and bring to the boil. Reduce the heat to medium and cook, stirring occasionally, for 10 mins or until the sauce is slightly thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/836556/photos/large/101384_4-099b452d6d31cc97aef7dd6f9a616cc8.jpeg"
+    },
+    {
+      "text": "Serve up: Add the peas to the gumbo and cook for 3 mins or until tender. Add the rice blend and tofu and stir until combined and warmed through. Remove the pan from the heat. Taste, then season with salt and pepper. Divide the gumbo among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/836557/photos/large/101384_5-6100fb9c849ad477554b2cdf6d029623.jpeg"
+    },
+    {
+      "text": "Did you know?: Gumbo is a speciality of Louisiana cooking, although its origins trace back to French, Spanish and African cultures. There are countless versions, some made with seafood or meat while others include okra, which helps to thicken the stew. And that's how the dish got its name – 'gumbo' is derived from the West African word for okra.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/836558/photos/large/101384_6-eb5e64f12f32983d59ed362dabfe438c.jpeg"
+    }
+  ]
+}

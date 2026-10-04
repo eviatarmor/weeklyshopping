@@ -1,0 +1,125 @@
+{
+  "slug": "dn-tofu-red-curry-rice-with-baby-corn-and-spring-onion",
+  "kind": "meal",
+  "title": "Tofu Red Curry Rice",
+  "subtitle": "with Baby Corn and Spring Onion",
+  "description": "Everyone loves fried rice – plus it's quick to make and so adaptable! This version adds satay tofu, pak choy and baby corn cooked in a flavour-packed red curry paste.",
+  "sourceUrl": "https://dinnerly.com.au/menu/39001-tofu-red-curry-rice-with-baby-corn-and-spring-onion",
+  "imageUrl": "https://marleyspoon.com/media/recipes/39001/main_photos/large/tofu_red_curry_rice-1ab96c62d11dbfedeba5fd35e77817b9.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 565,
+    "proteinG": 29.9,
+    "carbsG": 74.9,
+    "fatG": 25.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70673/photos/medium/rice_jasmine_150g_ms-738732293471033ed769ed790327aa6d.jpeg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Pak Choy",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "bok-choy",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35212/photos/medium/ing_bok_choy_baby-f7caffe0fafd3ee7b4a2c993fc049403.jpg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Baby Corn",
+      "qty": 425,
+      "unit": "g",
+      "product": "corn-cob",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31508/photos/medium/ing_corn_baby-b6279fd962951f2969dc6cb800ce4fd5.jpg"
+    },
+    {
+      "name": "Red Curry Paste",
+      "qty": 30,
+      "unit": "g",
+      "product": "red-curry-paste",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37137/photos/medium/ing_red_curry_paste-7fcaf11c2bdc26cb095370b798c4b10e.jpg"
+    },
+    {
+      "name": "Fried Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70641/photos/medium/dried_fried_shallots_10g_ms-29be38279064ea2cfd59957564160e08.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Rinse the rice until the water runs clear. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer over medium heat. Reduce the heat to low and cook for 12 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/151158/photos/large/cook_rice-ca32dfecee3b5459c5bf2698ef3a9b47.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, crush or finely chop 2 garlic cloves. Thinly slice the spring onion, keeping the white and green parts separate. Trim the pak choy and cut into 3cm chunks. Cut the tofu into 2cm chunks. Drain and rinse the baby corn, then halve lengthwise.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/151159/photos/large/prep_ingredients-e5c582a62d9362df39f4060df404f35b.jpeg"
+    },
+    {
+      "text": "Make fried rice: Heat 1 tbs vegetable oil in a medium frypan over high heat. Stir-fry the tofu and corn for 2-3 mins until the corn is light golden. Add the garlic, white part of the spring onion, three-quarters of the curry paste (see Make it yours) and 2 tsp soy sauce. Stir-fry for 30 secs or until fragrant, then stir in the rice.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/151160/photos/large/make_fried_rice-bbc95fa57c37405ad043077515f8407c.jpeg"
+    },
+    {
+      "text": "Cook eggs: Make two indents in the rice mixture, then crack 2 eggs into the indents. Drizzle 1 tbs water over the rice, then top with the pak choy. Reduce the heat to medium-high and cook, covered, for 3-4 mins until the pak choy is tender and the eggs are cooked to your liking. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/151161/photos/large/cook_eggs-b4daaa53bcc74a98f152f5d912d81070.jpeg"
+    },
+    {
+      "text": "Serve up: Scatter over the fried shallots and remaining spring onion. Divide the red curry rice (it's OK if it has a slightly crusty base) among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/151162/photos/large/serve_up-3e3f04bf59cd1e2412a3ca0a3003199f.jpeg"
+    },
+    {
+      "text": "Make it yours: Curry pastes are a great way of adding lots of flavour quickly! If you aren't keen on too much heat, simply reduce the amount of curry paste and add a little more soy sauce and a pinch of sugar to taste.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/151163/photos/large/cooking_tip-7d9f2cdcd9fb9e428ffcb26d997db2e8.jpeg"
+    }
+  ]
+}

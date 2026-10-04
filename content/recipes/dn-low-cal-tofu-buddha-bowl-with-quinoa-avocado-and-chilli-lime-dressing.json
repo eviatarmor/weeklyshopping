@@ -1,0 +1,126 @@
+{
+  "slug": "dn-low-cal-tofu-buddha-bowl-with-quinoa-avocado-and-chilli-lime-dressing",
+  "kind": "meal",
+  "title": "Low-Cal Tofu Buddha Bowl",
+  "subtitle": "with Quinoa, Avocado and Chilli-Lime Dressing",
+  "description": "Find your zen with this vegan Buddha bowl. The colourful patchwork of glazed tofu, slaw and avocado on zingy quinoa is sure to get your tastebuds singing.",
+  "sourceUrl": "https://dinnerly.com.au/menu/61549-low-cal-tofu-buddha-bowl-with-quinoa-avocado-and-chilli-lime-dressing",
+  "imageUrl": "https://marleyspoon.com/media/recipes/61549/main_photos/large/low_cal_tofu_buddha_bowl-701c6d2a63f419a83fae0c25c095d679.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 595,
+    "proteinG": 23.1,
+    "carbsG": 61.8,
+    "fatG": 25.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "calorie conscious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "packet",
+      "product": "quinoa",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70653/photos/medium/grain_quinoa_white_125g_ms-b9605b901fdb6827c6c999cc8146dc80.jpeg"
+    },
+    {
+      "name": "Tofu",
+      "qty": 300,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70382/photos/medium/tofu_lite_firm_300g-62ff626140b47698c8881ee26a491d53.jpeg"
+    },
+    {
+      "name": "Red Cabbage",
+      "qty": 150,
+      "unit": "g",
+      "product": "red-cabbage",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33201/photos/medium/ing_red_cabbage-526efb46afe756145281fca903c01773.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Lime",
+      "qty": 1,
+      "product": "lime",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32038/photos/medium/ing_lime-18d0944abae22c25cc0f703fc952053f.jpg"
+    },
+    {
+      "name": "Sriracha Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sriracha",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31929/photos/medium/ing_sriracha_sauce-3c3d2b038699521f5e5bbe6b71e3fd0c.jpg"
+    },
+    {
+      "name": "Avocado",
+      "qty": 1,
+      "product": "avocado",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36662/photos/medium/ing_avocado-256dcb7b22e9a750995f0af810284915.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook quinoa: Put the quinoa in a sieve, then rinse well and drain (see Kitchen 101). Put the quinoa in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer. Reduce the heat to low and cook, covered, for 12-15 mins until the water is absorbed and the quinoa is tender. Turn off the heat and stand, covered, for 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/287730/photos/large/cook_quinoa-72abf3bbe5a1d87f5760aa6177fdccc9.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, carefully remove the tofu according to the packet instructions, then drain on paper towel. Thinly slice the cabbage with a mandoline or sharp knife. Crush or finely chop 2 garlic cloves. Peel the carrot, then shred using a julienne peeler or coarsely grate with a box grater.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/287731/photos/large/prep_ingredients-b18cddf38be24eb25750c7ac2b960882.jpeg"
+    },
+    {
+      "text": "Make sauce: Finely grate the zest of half the lime, then juice the half. Cut the remaining half into wedges. Combine the lime juice, lime zest, sriracha sauce, 2 tbs soy sauce and 2 tsp sugar in a bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/287732/photos/large/make_sauce-52f7c15e6c259266b90ded974a94a06c.jpeg"
+    },
+    {
+      "text": "Warm tofu: Cut the tofu into 2cm cubes. Heat 2 tsp olive oil in a medium frypan over medium-high heat. Add the tofu and cook, turning occasionally, for 5 mins or until golden. Add the garlic and sriracha mixture, reserving 2 tsp sriracha mixture in a large bowl, and bring to a simmer. Toss the tofu to coat in the glaze, then remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/287733/photos/large/warm_tofu-d44c29997a4e9a9906df20e803d72a11.jpeg"
+    },
+    {
+      "text": "Serve up: Add 2 tsp olive oil to the reserved sriracha mixture, season with salt and pepper and whisk to combine. Add the cabbage and carrot and toss to combine. Thinly slice the avocado. Divide the quinoa, tofu, slaw and avocado among bowls. Drizzle with the glaze and serve with the lime wedges to squeeze over. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/287734/photos/large/serve_up-9c6e8b034ef1fe328b8085bb145b3707.jpeg"
+    },
+    {
+      "text": "Kitchen 101: It’s important to rinse the quinoa well to remove the natural coating called saponin, which can make it taste bitter or soapy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/287735/photos/large/kitchen_101-4debb11399fc7dde60ed6b78a5942b20.jpeg"
+    }
+  ]
+}

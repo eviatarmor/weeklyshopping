@@ -1,0 +1,122 @@
+{
+  "slug": "dn-august-snack-special-pumpkin-and-parmesan-muffins",
+  "kind": "meal",
+  "title": "August Snack Special!",
+  "subtitle": "Pumpkin and Parmesan Muffins",
+  "description": "Get your bake on (and beat your next snack attack!) with these wholesome savoury muffins. They're made with mashed pumpkin to keep them moist, flavoured with spices and parmesan, then topped with pepitas for toothsome crunch.",
+  "sourceUrl": "https://dinnerly.com.au/menu/86495-august-snack-special-pumpkin-and-parmesan-muffins",
+  "imageUrl": "https://marleyspoon.com/media/recipes/86495/main_photos/large/august-60bcea5ba4ea9efe3968738f44c692a6.jpeg",
+  "servings": 2,
+  "prepMinutes": 50,
+  "nutrition": {
+    "kcal": 195,
+    "proteinG": 5,
+    "carbsG": 12.4,
+    "fatG": 13.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Unsalted Butter",
+      "qty": 250,
+      "unit": "g",
+      "product": "unsalted-butter",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70139/photos/medium/tanq_butter_unsalted_250g-f662037ef86c6e8f3d479784703da5fe.jpeg"
+    },
+    {
+      "name": "Kent Pumpkin",
+      "qty": 400,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32667/photos/medium/pp_pumpkin_japanese_portion_cut_skin_on_400g-436324eb60a55e3b6c512eddb1a45f75.jpeg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31814/photos/medium/ing_parmesan-3d7dbf93636c05c785f3ac79525be092.jpg"
+    },
+    {
+      "name": "Country Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "blend": "country-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70081/photos/medium/seasoning_country_5g-b7cb1f44d1aacb36c73e7ab678d36e2b.jpeg"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 300,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70209/photos/medium/flour_plain_all_purpose_220g-ad939cde7e15c3bdfc106a299a4b4b9d.jpeg"
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 10,
+      "unit": "g",
+      "product": "baking-powder",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70274/photos/medium/powder_baking_10g_dn-88ed861eb8da15cb313b16d5c037f12a.jpeg"
+    },
+    {
+      "name": "Pepitas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "pepitas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70708/photos/medium/seeds_pepitas_30g_ms-eb346c32d6b98846bfdc139239f99ffe.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "milk",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Remove the butter, eggs and milk from the fridge to come to room temperature. Preheat the oven to 180C. Coarsely chop 125g butter and put in a large bowl to soften. Peel the pumpkin and cut into 1cm chunks. Finely grate the parmesan. Line a 12-hole muffin pan with paper cases.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/427563/photos/large/61961_1-f12c11f847b4a3ec5107f23cddc1bad4.jpeg"
+    },
+    {
+      "text": "Cook pumpkin: Heat 1 tbs olive oil in a medium frypan over medium-high heat. Cook the pumpkin, stirring, for 3 mins or until golden. Reduce the heat to low, add 1 tbs water, then cover and cook for a further 10-12 mins until the pumpkin is tender and the moisture has evaporated (see Kitchen 101). Remove the pan from the heat. Transfer the pumpkin to a large bowl and mash until smooth.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/427564/photos/large/61961_2-7b6d4532dff7093add11b2f5804d5e28.jpeg"
+    },
+    {
+      "text": "Combine dry ingredients: Meanwhile, put the country seasoning, 150g (1 cup) plain flour and 2 tsp baking powder in a bowl and whisk until combined (there's no need to sift the flour, as whisking everything together will remove any lumps).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/427565/photos/large/61961_3-725c975162111ee55f4d663c2e87f3b5.jpeg"
+    },
+    {
+      "text": "Make batter: Whisk the softened butter until smooth. Gradually whisk in 2 tbs milk, then add 2 eggs, one at a time, whisking after each addition. Stir in the flour mixture until just combined. Fold in the pumpkin and half the parmesan. Divide the batter evenly among the muffin holes, then scatter over the remaining parmesan and the pepitas.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/427566/photos/large/61961_4-8a67f92c6da92f8284627f1585948f73.jpeg"
+    },
+    {
+      "text": "Bake muffins: Bake for 15-20 mins until golden and a skewer inserted into the centre comes out clean. Cool in the pan for 5 mins, then transfer to a wire rack. Enjoy the muffins warm or at room temperature. Makes 12 muffins (1 per serve).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/427567/photos/large/61961_5-f69b818a8382eb96dcbd687189f2e4a2.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Evaporating all the moisture ensures that the muffins will be light and fluffy instead of dense.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/427568/photos/large/61961_6-59f17b6a80a69fcdbe5126ef8702cc01.jpeg"
+    }
+  ]
+}

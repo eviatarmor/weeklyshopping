@@ -1,0 +1,102 @@
+{
+  "slug": "dn-balanced-pumpkin-and-spinach-dhal-with-feta-and-coconut-drizzle",
+  "kind": "meal",
+  "title": "Balanced Pumpkin and Spinach Dhal",
+  "subtitle": "with Feta and Coconut Drizzle",
+  "description": "Our 'balanced' recipes are just that – high in nutritive value (that's fibre-rich veggies, lean proteins and wholegrains, just between us), so these dishes are good for you in every which way! They're perfect for anyone looking to minimise their intake of refined foods without sacrificing on taste.",
+  "sourceUrl": "https://dinnerly.com.au/menu/718133-balanced-pumpkin-and-spinach-dhal-with-feta-and-coconut-drizzle",
+  "imageUrl": "https://marleyspoon.com/media/recipes/387189/main_photos/large/balanced_coconut_ripple_pumpkin_dhal-1d82c85726d8d5138e39e70645d1b9da.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 565,
+    "proteinG": 26.6,
+    "carbsG": 37.5,
+    "fatG": 32.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "no added wheat",
+    "calorie conscious",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 250,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33346/photos/medium/ing_butternut_pumpkin-3000ea2a963a7ee84343a1cb7b6175b1.jpg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34662/photos/medium/ing_tomato_roma-92c29b35b68d6299ca6ed0f0df617786.jpg"
+    },
+    {
+      "name": "Coconut Milk",
+      "qty": 200,
+      "unit": "ml",
+      "product": "coconut-milk",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37026/photos/medium/ing_milk-f3acbba67adc4da0c8767f74eac9e608.jpg"
+    },
+    {
+      "name": "Red Split Lentils",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-lentils",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70623/photos/medium/grain_red_split_lentils_100g_ms-862de1730445a6dda4f00a49bac80114.jpeg"
+    },
+    {
+      "name": "Vadouvan Curry Powder",
+      "qty": 1,
+      "unit": "packet",
+      "product": "curry-powder",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70828/photos/medium/spice_vadouvan_blend_10g_ms-417ffba43e1e26f27fd98f67d576de36.jpeg"
+    },
+    {
+      "name": "Baby Spinach Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "baby-spinach",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70405/photos/medium/pp_baby_spinach_leaves_50g-577ec1ab11c594b58f87dcb13856443c.jpeg"
+    },
+    {
+      "name": "Feta",
+      "qty": 100,
+      "unit": "g",
+      "product": "feta",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31813/photos/medium/ing_feta_cheese-dd151343b0a1a7826609cb744aa6aa75.jpg"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Peel the pumpkin and cut into bite-sized chunks. Coarsely chop the tomato.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219374/photos/large/165178_1-4a4f3a58a4f925823aaf54422a4ffe08.jpeg"
+    },
+    {
+      "text": "Start dhal: Reserve 1 tbs coconut milk. Combine the pumpkin, tomato, lentils, curry powder, remaining coconut milk and 250ml (1 cup) water in a medium saucepan over medium-high heat. Bring to the boil.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219375/photos/large/165178_2-4e133a7b75a18d08310b21ae329b9975.jpeg"
+    },
+    {
+      "text": "Simmer dhal: Reduce the heat to medium-low, then cover the dhal and cook, stirring occasionally, for 16-18 mins until the lentils are broken down.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219376/photos/large/165178_3-016a3ef0b4c1245fe128607224c825f6.jpeg"
+    },
+    {
+      "text": "Add spinach: Add the spinach to the dhal and cook, stirring, for 30 secs or until the spinach is wilted. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219377/photos/large/165178_4-67ade245e85cb3b64f93b6b499dddb9c.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the dhal among bowls. Drizzle with the reserved coconut milk and crumble over the vegan feta (see Make it yours). Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219378/photos/large/165178_5-4ca55dae5d66fdec9f948f11a8fe7987.jpeg"
+    },
+    {
+      "text": "Make it yours: Dhal is best served soon after cooking, as the lentils will continue to soak up the liquid and may become too thick. If this happens, simply add a little extra boiling water to loosen the dhal.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4219379/photos/large/165178_6-8aa2a92fff37955c37438b32d8e0bd03.jpeg"
+    }
+  ]
+}

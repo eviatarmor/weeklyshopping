@@ -1,0 +1,69 @@
+{
+  "slug": "balinese-seasoning",
+  "kind": "blend",
+  "title": "Balinese Seasoning",
+  "description": "Homemade approximation of the Dinnerly sachet (warm turmeric and ginger Balinese-style mix). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.75,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Ground Ginger",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Onion Powder",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "onion-powder"
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.125,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

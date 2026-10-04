@@ -1,0 +1,99 @@
+{
+  "slug": "dn-vegetarian-larb-lettuce-cups-with-peanuts-and-coriander",
+  "kind": "meal",
+  "title": "Vegetarian Larb Lettuce Cups",
+  "subtitle": "with Peanuts and Coriander",
+  "description": "Make a delicious vegetarian larb with ready-made mushroom patties and Thai spices, then pile into lettuce cups, sprinkle with toppings and tuck in!",
+  "sourceUrl": "https://dinnerly.com.au/menu/40420-vegetarian-larb-lettuce-cups-with-peanuts-and-coriander",
+  "imageUrl": "https://marleyspoon.com/media/recipes/40420/main_photos/large/vegetarian_larb_lettuce_cups-84d587b781240b0a4327b46c4c3dc330.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 525,
+    "proteinG": 18.6,
+    "carbsG": 34.6,
+    "fatG": 34.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31771/photos/medium/onion_red_85g-e030603f8fa147e931e9a29e2e94cd37.jpeg"
+    },
+    {
+      "name": "Baby Cos Lettuce",
+      "qty": 1,
+      "product": "cos-lettuce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37752/photos/medium/pp_lettuce_gem_cos_head_200g-30e20847544bc260d73b3c4c2de31cdd.jpeg"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70693/photos/medium/nuts_peanuts_salted_roasted_20g_ms-236a35bb8324f165d7cbe175c6a435df.jpeg"
+    },
+    {
+      "name": "Mushroom Patties",
+      "qty": 2,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37254/photos/medium/ING_MushroomBurgerPatty_324-f60c49957f59073b47c470f9636cb698.jpg"
+    },
+    {
+      "name": "Thai Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35573/photos/medium/seasoning_thai_5g_dn-4a386354c5f8ebe062db1c18feccac70.jpeg"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of water to the boil for the eggs. Pick the coriander leaves and finely chop the stems, keeping them separate. Finely chop half the onion and very thinly slice the remaining onion (see Make it yours). Separate the lettuce cups. Coarsely chop the peanuts.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/160470/photos/large/prep_ingredients-f63f68023a4b6f1a47e6e8612efebea7.jpeg"
+    },
+    {
+      "text": "Boil eggs: Cook 2 eggs in the pan of boiling water for 6 mins for soft-boiled, or 8 mins for hard-boiled. Remove from the pan and cool in cold water.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/160471/photos/large/cook_eggs-0a7126824d3046ce66d266ffb764a8b7.jpeg"
+    },
+    {
+      "text": "Start larb: Meanwhile, heat 2 tbs vegetable oil in a medium frypan over high heat. Crumble the mushroom patties into the pan and stir-fry for 5 mins or until golden and slightly crispy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/160472/photos/large/stir_fry_patties-00371fd424594abb21aa5e6297077086.jpeg"
+    },
+    {
+      "text": "Finish larb: Add the coriander stems, chopped onion and 2 tsp Thai seasoning to the pan and season with salt and pepper. Stir-fry for 1-2 mins until the onion is starting to soften. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/160473/photos/large/finish_stir_fry-f826dc6932b1642e2a25bfd7c77993c2.jpeg"
+    },
+    {
+      "text": "Serve up: Peel and quarter the eggs. Divide the lettuce cups among plates and top with the mushroom patty mixture, sliced onion and egg. Scatter over the peanuts and coriander leaves and enjoy as lettuce cups or a salad with knives and forks.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/160474/photos/large/serve_up-9e131e0ba33ed6505e21fe2f3235ad29.jpeg"
+    },
+    {
+      "text": "Make it yours: Raw onion can have a strong taste if chunky, so make sure to very thinly slice with a sharp knife or use a mandoline if you have one. Alternatively, simply finely chop the whole onion and stir-fry with the mushroom patties.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/160475/photos/large/make_it_yours-278dd8d6e524ca8ea9b1748b292b6e67.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "dn-balanced-pepper-garlic-tofu-with-stir-fried-veggies-and-red-rice",
+  "kind": "meal",
+  "title": "Balanced Pepper-Garlic Tofu",
+  "subtitle": "with Stir-Fried Veggies and Red Rice",
+  "description": "This elegant dish not only looks good, it's nourishing and it tastes great too. Stir-fry tofu and veg in a lip-smacking sauce, then spoon over nutrient-rich red rice for pure vegan satisfaction.",
+  "sourceUrl": "https://dinnerly.com.au/menu/90117-balanced-pepper-garlic-tofu-with-stir-fried-veggies-and-red-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/90117/main_photos/large/balanced_pepper_garlic_tofu-e572f3765f009cbdd90a81902e53d58c.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 565,
+    "proteinG": 22.8,
+    "carbsG": 71.3,
+    "fatG": 20.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Rice",
+      "qty": 125,
+      "unit": "g",
+      "product": "white-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70262/photos/medium/rice_red_125g-a1fe02deaea17e6ae5b4bf85144ca837.jpeg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 150,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31688/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Smoky Barbecue Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70488/photos/medium/tofu_smoky_bbq_200g-cba935d37c292967b228ecdc0899169a.jpeg"
+    },
+    {
+      "name": "Pepper and Garlic Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "pepper-and-garlic-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70765/photos/medium/seasoning_pepper_and_garlic_10g_ms-a9998ac7d36ff594555d8e70ec0744b2.jpeg"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70715/photos/medium/seeds_toasted_sesame_seed_mix_5g_ms-7c84f16e8b43b25f35f8254d6ad74fba.jpeg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Fill a medium saucepan three-quarters full with water and bring to the boil. Add the rice and cook for 25 mins or until tender. Drain.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450411/photos/large/72038_1-080c71ea03031ef520292049051b808c.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, trim the beans. Thinly slice the capsicum. Cut the spring onion into 3cm lengths.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450412/photos/large/72038_2-5f6436c25033c8d6df1c6ac0847531b8.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat 2 tsp vegetable oil in a medium deep frypan over medium-high heat. Cook the tofu for 2 mins each side or until golden and warmed through. Remove from the pan, reserving the pan. Halve the tofu pieces diagonally to form triangles.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450413/photos/large/72038_3-62b2c8ce0b89b6bece122de42e1fc04e.jpeg"
+    },
+    {
+      "text": "Stir-fry veggies: Heat 2 tsp vegetable oil in the reserved pan over high heat. Stir-fry the beans for 1-2 mins until almost tender. Add the capsicum, spring onion and garlic and stir-fry for 1-2 mins until softened. Add the tofu, pepper and garlic seasoning, 1½ tbs soy sauce and 2 tbs water and stir-fry for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450415/photos/large/72038_4-18acb08445f2e2e8c50b27d5247fb8e6.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the rice and tofu stir-fry among bowls. Scatter over the sesame seeds and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450417/photos/large/72038_5-e712580f4f31c47c742aa55e13f2d1a1.jpeg"
+    },
+    {
+      "text": "Make it yours: Like it hot? Kick up the heat with a scattering of chopped fresh chilli or chilli flakes.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450419/photos/large/72038_6-b6a95d8227b41215daf87e022f0a6779.jpeg"
+    }
+  ]
+}

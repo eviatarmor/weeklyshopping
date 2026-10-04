@@ -1,0 +1,123 @@
+{
+  "slug": "dn-feed-a-crowd-cheesy-bean-quesadillas-same-meal-price-more-servings",
+  "kind": "meal",
+  "title": "Feed A Crowd: Cheesy Bean Quesadillas",
+  "subtitle": "Same Meal Price, More Servings!",
+  "description": "Want extra bang for your buck? Serve up more with our Feed A Crowd recipes. We've added more hearty ingredients like filling carbs and veggies to satisfy hungry tummies. If you’re on a 2-person plan, these recipes make 4 portions; on a 4-person plan, they make 8 portions.",
+  "sourceUrl": "https://dinnerly.com.au/menu/84509-feed-a-crowd-cheesy-bean-quesadillas-same-meal-price-more-servings",
+  "imageUrl": "https://marleyspoon.com/media/recipes/84509/main_photos/large/feed-3a568a0de82aebd8c22e0f08821bc625.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 590,
+    "proteinG": 24.9,
+    "carbsG": 61.3,
+    "fatG": 24.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31680/photos/medium/capsicum_red_160g-e14a8f746ca6232db8d98e1f822be985.jpeg"
+    },
+    {
+      "name": "Green Capsicum",
+      "qty": 1,
+      "product": "green-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31679/photos/medium/capsicum_green_180g-a1cba818ebb922c51487dac9a045a0d4.jpeg"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70814/photos/medium/spice_mexican_moderate_heat_10g_ms-59c2d9f40e130612d0d728ea705b8c6f.jpeg"
+    },
+    {
+      "name": "Five Mixed Beans",
+      "qty": 800,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38903/photos/medium/ing_beans_three_bean_mix_canned-54156dc69f7a9f3866aee3e2eb331864.jpg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 100,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31757/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 12,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "Greek-Style Yoghurt",
+      "qty": 150,
+      "unit": "g",
+      "product": "yoghurt",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31698/photos/medium/ing_yoghurt_greek-355f1d2e86725e42d5104330db73df71.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.25,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red or White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil Spray",
+      "product": "cooking-spray",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Grill capsicums: Preheat the grill to high. Line 2 oven trays with foil. Crush 2 garlic cloves. Quarter the capsicums, discarding the seeds. Put the capsicums on a lined tray, skin side up, drizzle with 2 tsp olive oil and season with salt and pepper. Grill for 8 mins or until tender and slightly charred. Remove from the tray and set aside to cool, reserving the tray (leave the grill on).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/415689/photos/large/grill_capsicums-a517a1517609d8ac2bcde8a36da543b4.jpeg"
+    },
+    {
+      "text": "Cook beans: Meanwhile, heat 2 tsp olive oil in a large deep frypan over medium-high heat. Cook three-quarters of the garlic for 30 secs or until fragrant. Add the Mexican spice blend (see Feed A Crowd) and the beans and their liquid and bring to the boil. Reduce the heat to medium-low and cook for 5 mins or until thickened. Remove from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/415690/photos/large/cook_beans-da464267b6188c90e1a19bb710ca1de8.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Coarsely grate the cheese. Cut half the grilled capsicum into small chunks and put in a bowl. Add 1 tsp olive oil and 1 tsp red wine vinegar, season with salt and pepper and stir to combine. Thinly slice the remaining grilled capsicum.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/415691/photos/large/prep_ingredients-5eaf5b5c678e9c5f90b0ed767153645d.jpeg"
+    },
+    {
+      "text": "Assemble quesadillas: Lightly spray or brush one side of each tortilla with olive oil. Put, oiled side down, on the lined trays. Spread the bean mixture over half of each tortilla, top with the sliced capsicum, then scatter over the cheese. Fold the tortillas over to enclose the filling.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/415692/photos/large/assemble_quesadillas-ad24003b88a93b78409b5d031eebb2c9.jpeg"
+    },
+    {
+      "text": "Grill and serve up: Stir the remaining garlic into the yoghurt and season with salt and pepper. Grill the quesadillas for 2-3 mins each side until golden and the cheese is melted (watch them carefully, as they burn easily). Serve the quesadillas with the capsicum salsa and garlic yoghurt. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/415693/photos/large/grill_and_serve_up-16cd3004c240d94c2bb9f654bdd05462.jpeg"
+    },
+    {
+      "text": "Feed A Crowd: It can be hard to cater to everyone's tastes, especially when it comes to chilli! If you're worried about the heat, stir in half the Mexican spice blend and taste, then add more if desired. Serve any remaining spice or some chopped fresh chilli in a bowl on the table for those who do like to kick up the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/415694/photos/large/feed_a_crowd-65ee6f09d18a037375fd9357e87f2d5e.jpeg"
+    }
+  ]
+}

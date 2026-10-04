@@ -1,0 +1,109 @@
+{
+  "slug": "dn-creamy-summer-corn-pasta-with-zucchini-and-basil",
+  "kind": "meal",
+  "title": "Creamy Summer Corn Pasta",
+  "subtitle": "with Zucchini and Basil",
+  "description": "This easy pasta dish is a celebration of summer. With sweet bursts of corn and zucchini, fresh herbs and a rich, creamy sauce, it will be the new family favourite.",
+  "sourceUrl": "https://dinnerly.com.au/menu/94657-creamy-summer-corn-pasta-with-zucchini-and-basil",
+  "imageUrl": "https://marleyspoon.com/media/recipes/94657/main_photos/large/creamy_summer_corn_pasta-1979caa1b43c93ad30f41454fe32bbd7.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 940,
+    "proteinG": 18.1,
+    "carbsG": 85.2,
+    "fatG": 56.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32394/photos/medium/ing_zucchini-83c81bdb81a19f7c2cefcc32f0631213.jpg"
+    },
+    {
+      "name": "Corn Cob",
+      "qty": 1,
+      "product": "corn-cob",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70184/photos/medium/corn_cob_silk_trimmed_300g-80eeba55725dc5fa0d8431960af607dc.jpeg"
+    },
+    {
+      "name": "Basil",
+      "product": "basil",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31898/photos/medium/ing_basil-bd55786005e3d408b7eb01a1685a0f6f.jpg"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 250,
+      "unit": "g",
+      "product": "spaghetti",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32776/photos/medium/ing_spaghetti-e015cad043724667055d18db6624ba82.jpg"
+    },
+    {
+      "name": "Tuscan Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70784/photos/medium/seasoning_tuscan_10g_ms-fb6bf68b033f6120f62c0520f2fc4bcd.jpeg"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 250,
+      "unit": "ml",
+      "product": "thickened-cream",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70395/photos/medium/cream_uht_250ml-47c02061fdac2e927b2eeba458cdeeb4.jpeg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a medium saucepan of salted water to the boil for the pasta. Finely chop the onion and zucchini. Discard the husk and silks from the corn, then slice the kernels from the cob. Crush or finely chop 2 garlic cloves. Pick the basil leaves, discarding the stems.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/477203/photos/large/76504_1-7c58d6dbc044bad3cc8182f44d98aecf.jpeg"
+    },
+    {
+      "text": "Cook pasta: Cook three-quarters of the pasta in the pan of boiling water for 12 mins or until al dente. Reserve 1 tbs cooking water, then drain the pasta.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/477205/photos/large/76504_2-e27886bac68c37d99f416cc7392518bb.jpeg"
+    },
+    {
+      "text": "Cook veggies: Meanwhile, heat 1 tbs olive oil in a medium deep frypan over medium heat. Cook the onion and garlic, stirring, for 5 mins or until soft. Increase the heat to medium-high, add the zucchini, corn and Tuscan seasoning and cook, stirring, for 4-5 mins until the veggies are softened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/477207/photos/large/76504_3-580efcdf6ff6811941b2e0881969efec.jpeg"
+    },
+    {
+      "text": "Add cream: Stir the cream and reserved cooking water into the corn mixture and bring to the boil. Reduce the heat to medium and cook, stirring, for 1-2 mins until thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/477209/photos/large/76504_4-fe792062ead22b770a638a3262bf6498.jpeg"
+    },
+    {
+      "text": "Serve up: Add the pasta and basil to the corn mixture and stir to combine. Remove the pan from the heat. Taste, then season with salt and pepper. Divide the pasta among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/477211/photos/large/76504_5-0310dd172950638056e8d11d78009ec0.jpeg"
+    },
+    {
+      "text": "Make it yours: Cheese and pasta are a match made in heaven. If you have any on hand, grate some cheddar or parmesan over the pasta before serving.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/477212/photos/large/76504_6-7c1f49df725c0517acf3b040831ee760.jpeg"
+    }
+  ]
+}

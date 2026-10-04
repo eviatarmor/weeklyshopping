@@ -1,0 +1,120 @@
+{
+  "slug": "dn-crunchy-haloumi-schnitzels-with-mash-and-peas",
+  "kind": "meal",
+  "title": "Crunchy Haloumi Schnitzels",
+  "subtitle": "with Mash and Peas",
+  "description": "Craving a dinner that’s delightfully delish and easy to get on the table? We’re on a mission to make cooking more fun, extra yum and even simpler – this recipe, packed with quality fresh ingredients, is all that and more. Get cooking!",
+  "sourceUrl": "https://dinnerly.com.au/menu/377447-crunchy-haloumi-schnitzels-with-mash-and-peas",
+  "imageUrl": "https://marleyspoon.com/media/recipes/377447/main_photos/large/crunchy-d342a8af8cd33a93e4fa641a756f9aa8.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 880,
+    "proteinG": 34.2,
+    "carbsG": 68.3,
+    "fatG": 50.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Smoky Barbecue Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "blend": "smoky-bbq-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36079/photos/medium/seasoning_smoky_barbecue_5g-dbf5776d1552021c2a2acb01e39d00b9.jpeg"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70659/photos/medium/panko_breadcrumbs_40g_ms-63446b3601a828a75edc9bf225674fc6.jpeg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Peas",
+      "qty": 150,
+      "unit": "g",
+      "product": "frozen-peas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31703/photos/medium/ing_frozen_peas-781c66db7b1be732a6a2684f167718fb.jpg"
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 20,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Barbecue Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Crumb haloumi: Whisk 1 egg in a shallow bowl. Combine the barbecue seasoning and 2 tsp plain flour in a separate shallow bowl. Put the breadcrumbs in a third shallow bowl. Drain the haloumi and dry on paper towel, then cut in half horizontally. Dust the haloumi with the flour mixture, shake off the excess, then dip in the egg and coat in the breadcrumbs.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2175016/photos/large/166262_1-0944f262e1f8baab20167500c1600f32.jpeg"
+    },
+    {
+      "text": "Make mash: Peel the potatoes and cut into 2cm chunks. Put the potato in a medium saucepan of cold salted water and bring to the boil. Cook over medium heat for 10-12 mins until tender. Drain, then return to the pan. Mash the potato until smooth, add 10g butter, season with salt and pepper and stir until well combined.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2175017/photos/large/166262_2-aa68cd0ededa2360b3213de18eec41d1.jpeg"
+    },
+    {
+      "text": "Cook schnitzels: Meanwhile, bring a small saucepan of salted water to the boil for the peas. Heat 2 tbs olive oil in a medium frypan over medium heat (see Kitchen 101). Cook the haloumi schnitzels for 3-4 mins each side until golden and cooked through. Remove from the pan and drain on paper towel. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2175018/photos/large/166262_3-e487776ed1442b87233438ff8fbabecf.jpeg"
+    },
+    {
+      "text": "Cook peas: While the schnitzels are cooking, add the peas to the pan of boiling water and cook for 2 mins or until tender. Drain, then return to the pan. Add 10g butter and stir until melted.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2175019/photos/large/166262_4-23caed8cf6adf0af6876c0951fccb83a.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the haloumi schnitzels, mash and peas among plates and serve with the barbecue sauce, if using. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2175020/photos/large/166262_5-8d82bda3446e3759414f64a56c2f8a85.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Cooking the haloumi schnitzels over medium heat gives them a nice golden crumb without burning.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2175021/photos/large/166262_6-8bef7d5d8482abe5c5895c8de070cc70.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "dn-vego-pizzeria-enchiladas-with-olives-and-cheddar",
+  "kind": "meal",
+  "title": "Vego Pizzeria Enchiladas",
+  "subtitle": "with Olives and Cheddar",
+  "description": "Craving a dinner that’s delightfully delish and easy to get on the table? We’re on a mission to make cooking more fun, extra yum and even simpler – this recipe, packed with quality fresh ingredients, is all that and more. Get cooking!",
+  "sourceUrl": "https://dinnerly.com.au/menu/655114-vego-pizzeria-enchiladas-with-olives-and-cheddar",
+  "imageUrl": "https://marleyspoon.com/media/recipes/361428/main_photos/large/tray_bake_vego_pizzeria_enchiladas-05764ee6b66a0f594d49a043c29240d5.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 576,
+    "proteinG": 23.6,
+    "carbsG": 68.4,
+    "fatG": 20
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "calorie conscious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicum",
+      "qty": 1,
+      "product": "red-capsicum",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31679/photos/medium/capsicum_green_180g-a1cba818ebb922c51487dac9a045a0d4.jpeg"
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "qty": 1,
+      "unit": "packet",
+      "product": "olives",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71050/photos/medium/olives_pitted_kalamata_30g_s-669e839ae6c788eefa8ecfb4ae838646.jpeg"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 50,
+      "unit": "g",
+      "product": "cheddar-cheese",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31816/photos/medium/ing_cheese_parmigiano_reggiano-16e0001a6e159ebf5d4302cce2a94a28.jpg"
+    },
+    {
+      "name": "Cannellini Beans",
+      "qty": 380,
+      "unit": "g",
+      "product": "cannellini-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71539/photos/medium/tetra_cannellini_beans_380g-74f0a3ae02f663c2c8daa05ee36dd232.jpeg"
+    },
+    {
+      "name": "Italian Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70741/photos/medium/seasoning_italian_10g_ms-ef0e060567654b160f5754a80898ba94.jpeg"
+    },
+    {
+      "name": "Tomato Passata",
+      "qty": 200,
+      "unit": "g",
+      "product": "tomato-passata",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70359/photos/medium/tomatoes_passata_200g-042eb073d040503d15606857bf2bc693.jpeg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 6,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "Barbecue Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "bbq-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C, fan-forced. Line a medium baking dish with baking paper. Thinly slice the capsicum and olives. Coarsely grate the cheese. Drain and rinse the beans.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3841086/photos/large/306119_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Make filling: Put the beans and Italian seasoning in a large bowl and coarsely mash. Add the capsicum, half the passata, half the cheese and 1 tbs barbecue sauce and stir to combine. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3841087/photos/large/306119_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Assemble enchiladas: Put the tortillas on a clean work surface. Spoon the capsicum mixture down the centre of each tortilla and roll to enclose, then put in the lined dish, seam-side down.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3841088/photos/large/306119_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Bake enchiladas: Pour the remaining passata over the enchiladas. Season with salt and pepper, then scatter with the remaining cheese. Bake for 18 mins or until golden and the cheese is melted.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3841089/photos/large/306119_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Scatter the enchiladas with the olives. Divide among plates or pop the tray bake on the table for everyone to help themselves. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3841090/photos/large/306119_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Make it yours: If you have any herbs in the crisper drawer that need to be used, chop them up and scatter over the enchiladas before serving. Fresh coriander or parsley would work well.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3841091/photos/large/306119_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

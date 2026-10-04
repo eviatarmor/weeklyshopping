@@ -1,0 +1,128 @@
+{
+  "slug": "dn-mushroom-patty-stir-fried-rice-with-broccoli-and-carrot",
+  "kind": "meal",
+  "title": "Mushroom Patty Stir-Fried Rice",
+  "subtitle": "with Broccoli and Carrot",
+  "description": "Mushroom patties add a ‘meaty’ texture and umami flavour to this healthy, fibre-rich brown rice stir-fry. With heaps of carrot and broccoli, this certainly ticks lots of good-for-you boxes.",
+  "sourceUrl": "https://dinnerly.com.au/menu/35914-mushroom-patty-stir-fried-rice-with-broccoli-and-carrot",
+  "imageUrl": "https://marleyspoon.com/media/recipes/35914/main_photos/large/mushroom_patty_stir_fried_rice-bddbdf7cc5a2d2285888f3ae078cd7d5.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 575,
+    "proteinG": 22.9,
+    "carbsG": 89.7,
+    "fatG": 10.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "calorie conscious",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "brown-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70667/photos/medium/rice_brown_125g_ms-bb2b40f31e627b853d57fde2dd7b6559.jpeg"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Head Broccoli",
+      "qty": 1,
+      "product": "broccoli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33122/photos/medium/ing_broccoli-48f04011a71f2172a095afeaf3c73c85.jpg"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37389/photos/medium/onion_brown_85g-52306d74efb008714da4191049632dc0.jpeg"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "kecap-manis",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38378/photos/medium/ing_kecap_manis-f06ee546719aa5901a24a885565ede77.jpg"
+    },
+    {
+      "name": "Mushroom Patties",
+      "qty": 2,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37254/photos/medium/ING_MushroomBurgerPatty_324-f60c49957f59073b47c470f9636cb698.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil Spray",
+      "product": "cooking-spray",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Fill a medium saucepan three-quarters full with water and bring to the boil. Cook three-quarters of the rice (see Kitchen notes) for 25 mins or until tender. Drain, then return to the pan and cover to keep warm.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137094/photos/large/cook_rice-454834e81d6eef380a43f31e2bf863ae.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, peel the carrots, quarter lengthwise, then thinly slice. Trim the broccoli, then finely chop. Thinly slice the onion. Crush or finely chop 2 garlic cloves. Put the kecap manis, 2 tsp soy sauce, 1 tsp white vinegar, ¼ tsp freshly ground black pepper and 1½ tbs water in a bowl and stir to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137095/photos/large/prep_ingredients-202de7db6052707fa47ab4b0e638e524.jpeg"
+    },
+    {
+      "text": "Cook omelette: Put 1 egg in a bowl and whisk to combine. Spray or brush a large frypan with olive oil and heat over medium-high heat. Add the egg mixture and swirl to coat the base of the pan. Cook for 2-3 mins until set, then loosely roll up the omelette in the pan. Transfer to a board, cool slightly, then cut into thin strips. Reserve the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137096/photos/large/cook_omelette-4435b2958647b6ecafd19b28284e7a03.jpeg"
+    },
+    {
+      "text": "Warm patties: Spray or brush the same pan with olive oil and heat over medium-high heat. Cook the mushroom patties (see Kitchen notes) for 2-3 mins each side until warmed through. Remove from the pan. Spray or brush the pan with olive oil again. Stir-fry the carrot, broccoli, onion and garlic for 3 mins or until tender but still with crunch.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137097/photos/large/warm_patties-547b74ddc561463d67fadfda893d029d.jpeg"
+    },
+    {
+      "text": "Finish and serve up: Add the rice to the pan and stir-fry for 1 min. Add the sauce and stir-fry for a further 1-2 mins until the veggies and rice are completely coated and the sauce is absorbed. Slice the mushroom patties. Divide the stir-fry and patties among bowls. Top with the omelette strips and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137098/photos/large/finish_and_serve_up-c20f8ce4ca6c4921a739dcbe2507870a.jpeg"
+    },
+    {
+      "text": "Kitchen notes: We have only used three-quarters of the rice to keep within our healthy eating guidelines, but it would be equally delicious if you decided to use it all. ~ Instead of frying the mushroom patties whole, you could roughly crumble them into the rice in step 5 and stir-fry them together.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/137099/photos/large/make_it_yours-e914d431cd0215526dbc0667dcdefde5.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "dn-speedy-tofu-pho-with-pak-choy-and-vermicelli-noodles",
+  "kind": "meal",
+  "title": "Speedy Tofu Pho",
+  "subtitle": "with Pak Choy and Vermicelli Noodles",
+  "description": "Five easy steps, minimal pans and prep… we cut the fluff but not the flavour in our speedy recipes. In just 20 minutes, you’ll have this masterpiece on the table and be crowned in glory too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/718369-speedy-tofu-pho-with-pak-choy-and-vermicelli-noodles",
+  "imageUrl": "https://marleyspoon.com/media/recipes/387293/main_photos/large/super_fast_tofu_pho-da6a77b0830f1152eeb567fc5337163f.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 560,
+    "proteinG": 22.9,
+    "carbsG": 75.9,
+    "fatG": 16.7
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "calorie conscious",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pak Choy",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "bok-choy",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35212/photos/medium/ing_bok_choy_baby-f7caffe0fafd3ee7b4a2c993fc049403.jpg"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "packet",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Vermicelli Noodles",
+      "qty": 150,
+      "unit": "g",
+      "product": "rice-noodles",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70392/photos/medium/noodles_white_thin_vermicelli_150g-cc9000fc06f3d6bb05352c049e8119c9.jpeg"
+    },
+    {
+      "name": "Vietnamese Pho Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "vietnamese-pho-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70787/photos/medium/seasoning_vietnamese_pho_15g_ms-799a90f8b56fa1a23c791a3cc24951aa.jpeg"
+    },
+    {
+      "name": "Fried Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70641/photos/medium/dried_fried_shallots_10g_ms-29be38279064ea2cfd59957564160e08.jpeg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring 1L (4 cups) water to the boil in a medium saucepan for the noodles. Thickly slice the pak choy stems, leaving the leaves whole. Pick the coriander leaves, discarding the stems. Halve the tofu pieces on an angle.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4220789/photos/large/71059_1-69828cf454ffa9ff7e6321ecf3010560.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat a drizzle of vegetable oil in a small frypan over medium heat. Cook the tofu for 2 mins each side or until golden and warmed through. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4220791/photos/large/71059_2-2c818141eab5896697ccda06a877734e.jpeg"
+    },
+    {
+      "text": "Cook noodles: Meanwhile, cook the noodles in the pan of boiling water for 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4220792/photos/large/71059_3-15e18188fad2cb1752f69cd568848c7c.jpeg"
+    },
+    {
+      "text": "Add pak choy: Add the pak choy, pho seasoning and 1 tsp soy sauce to the noodles. Bring to the boil and cook for 2 mins or until the noodles and pak choy are tender. Remove the pan from the heat. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4220793/photos/large/71059_4-5f09f108bcffb41754fbe1c91f29d049.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the noodles, pak choy and soup among bowls. Top with the tofu, coriander leaves and fried shallots and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4220794/photos/large/71059_5-34d7ef212956a61ce4bb8cd65e334a5b.jpeg"
+    },
+    {
+      "text": "Make it spicy: Chilli lovers, go wild and scatter over chopped bird's eye chilli to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/4220795/photos/large/71059_6-647014b741ef38bc049607382052687f.jpeg"
+    }
+  ]
+}

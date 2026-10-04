@@ -1,0 +1,111 @@
+{
+  "slug": "dn-feed-a-crowd-veggie-enchiladas-same-meal-price-more-servings",
+  "kind": "meal",
+  "title": "Feed A Crowd: Veggie Enchiladas",
+  "subtitle": "Same Meal Price, More Servings!",
+  "description": "Want extra bang for your buck? Serve up more with our Feed A Crowd recipes. We've added more hearty ingredients like filling carbs and veggies to satisfy hungry tummies. If you’re on a 2-person plan, these recipes make 4 portions; on a 4-person plan, they make 8 portions.",
+  "sourceUrl": "https://dinnerly.com.au/menu/95044-feed-a-crowd-veggie-enchiladas-same-meal-price-more-servings",
+  "imageUrl": "https://marleyspoon.com/media/recipes/95044/main_photos/large/feed_a_crowd_veggie_enchiladas-93e3d6cb33e16aebaf88b555fe2ab021.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 680,
+    "proteinG": 24.3,
+    "carbsG": 85.9,
+    "fatG": 22.5
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "qty": 3,
+      "product": "sweet-potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35224/photos/medium/ing_sweet_potato-f96afdc22c390d86babaf457efb2c637.jpg"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "mexican-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70814/photos/medium/spice_mexican_moderate_heat_10g_ms-59c2d9f40e130612d0d728ea705b8c6f.jpeg"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37166/photos/medium/onion_brown_180g-a462e50de0639c45744544f6bc4fcdfd.jpeg"
+    },
+    {
+      "name": "Tomato Passata",
+      "qty": 400,
+      "unit": "g",
+      "product": "tomato-passata",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70359/photos/medium/tomatoes_passata_200g-042eb073d040503d15606857bf2bc693.jpeg"
+    },
+    {
+      "name": "Black Beans",
+      "qty": 800,
+      "unit": "g",
+      "product": "black-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31521/photos/medium/ing_black_beans-d187a0429a4703d1c53f062cd7177244.jpg"
+    },
+    {
+      "name": "Flour Tortillas",
+      "qty": 12,
+      "product": "wraps",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40704/photos/medium/tortilla_6_flour_6_pack_168g-dc0e2973aba97ce9c13e361ab53297df.jpeg"
+    },
+    {
+      "name": "Feta",
+      "qty": 100,
+      "unit": "g",
+      "product": "feta",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31755/photos/medium/ing_feta_cheese-dd151343b0a1a7826609cb744aa6aa75.jpg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roast sweet potato: Preheat the oven to 220C. Line an oven tray with baking paper. Peel the sweet potatoes and cut into 2cm chunks. Put on the lined tray, drizzle with 1 tbs olive oil and scatter over 2 tsp Mexican spice blend (see Feed A Crowd). Season with salt and pepper and toss to coat. Roast for 25 mins or until tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/479523/photos/large/61299_1-13f65ab88919402316bef4bbe3b52ba3.jpeg"
+    },
+    {
+      "text": "Soften onion: Meanwhile, thinly slice the onion. Crush or finely chop 2 garlic cloves. Heat 2 tsp olive oil in a medium frypan over medium heat. Cook the onion and garlic, stirring occasionally, for 3-4 mins until softened. Add half the passata and 2 tsp Mexican spice blend and cook, stirring, for 1 min or until warmed through. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/479524/photos/large/61299_2-24c80d07d3267fc3edc9f297d3145940.jpeg"
+    },
+    {
+      "text": "Assemble enchiladas: Drain and rinse the beans. Put the beans and sweet potato in a bowl and coarsely mash. Stir in the passata mixture and season with salt and pepper. Reline the oven tray with baking paper. Put the tortillas on a clean work surface. Spoon the bean filling down the centre of each tortilla, roll to enclose, then put on the lined tray, seam side down.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/479525/photos/large/61299_3-f1af530bb02951241a790327e7d1f487.jpeg"
+    },
+    {
+      "text": "Bake enchiladas: Spoon the remaining passata over the enchiladas, then crumble over the feta. Bake for 10 mins or until golden.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/479526/photos/large/61299_4-46c0c0621e912e8b58f2b19c636b19ea.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the enchiladas among plates and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/479527/photos/large/61299_5-bd9bbb102f3e76d3d127cb6ab97329d1.jpeg"
+    },
+    {
+      "text": "Feed A Crowd: Our Mexican spice blend has a mild chilli kick, so reduce the amount if you want to avoid the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/479528/photos/large/61299_6-655ea6f3b84278a1160164f3218e953e.jpeg"
+    }
+  ]
+}

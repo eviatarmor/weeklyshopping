@@ -1,0 +1,105 @@
+{
+  "slug": "dn-diy-satay-tofu-rice-paper-rolls-with-mint-and-hoisin-mayo",
+  "kind": "meal",
+  "title": "DIY Satay Tofu Rice Paper Rolls",
+  "subtitle": "with Mint and Hoisin Mayo",
+  "description": "Craving a dinner that’s delightfully delish and easy to get on the table? We’re on a mission to make cooking more fun, extra yum and even simpler – this recipe, packed with quality fresh ingredients, is all that and more. Get cooking!",
+  "sourceUrl": "https://dinnerly.com.au/menu/559459-diy-satay-tofu-rice-paper-rolls-with-mint-and-hoisin-mayo",
+  "imageUrl": "https://marleyspoon.com/media/recipes/559459/main_photos/large/peanutty_tofu_rice_paper_roll_platter-ecf355bbea6062add7e61f10639914fa.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 585,
+    "proteinG": 20.5,
+    "carbsG": 51.9,
+    "fatG": 30.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "calorie conscious",
+    "kid friendly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Peanut Satay Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37835/photos/medium/MalaysianPeanutSatayTofu-6ebd8f639c489d9dab85a053093bf2f9.jpg"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Mint",
+      "product": "mint",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31903/photos/medium/herb_mint_20g-8b7686363eac5e00a1411a38ea61b802.jpeg"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 1,
+      "unit": "packet",
+      "product": "hoisin-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70849/photos/medium/ing_hoisin_sauce-b000d29acd680d677d6a4d52d1d362a8.jpg"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31915/photos/medium/ing_peanuts_salted_roasted-9ca68b3bb5fff00d0196eed31e9688ad.jpg"
+    },
+    {
+      "name": "Rice Paper Variety Pack",
+      "qty": 60,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71409/photos/medium/rice_paper_60g-64f2fe33c4ff6e1782de28d257f475bf.jpeg"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep fillings: Cut the tofu into batons. Cut the cucumber into short batons. Shred the carrot using a julienne peeler or coarsely grate with a box grater. Pick the mint leaves, discarding the stems.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3267086/photos/large/455361_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Make hoisin mayo: Combine the hoisin sauce, 2 tbs mayonnaise and 1 tsp water in a bowl and season with pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3267087/photos/large/455361_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Chop peanuts: Finely chop the peanuts.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3267088/photos/large/455361_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Assemble rolls: Dip 1 sheet of rice paper in a shallow dish of lukewarm water for 20-30 secs until soft and pliable, then lay flat on a board. Add some tofu, cucumber, carrot and mint towards the bottom half of the rice paper. Fold the bottom of the rice paper over the filling and tuck it in tightly. Fold in the sides, then roll up firmly (see Kitchen 101). Repeat to make 12 rolls.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3267089/photos/large/455361_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the rice paper rolls among plates. Scatter over the peanuts and serve with the hoisin mayo. To make it more fun, take the fillings, rice paper sheets and bowls of warm water to the table and let everyone assemble their own rolls. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3267090/photos/large/455361_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Kitchen 101: Cover the finished rice paper rolls with a wet tea towel or damp paper towel. This will prevent the rice paper from drying out and splitting.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/3267091/photos/large/455361_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

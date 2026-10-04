@@ -1,0 +1,125 @@
+{
+  "slug": "dn-korean-noodle-soup-with-tofu-and-mushrooms",
+  "kind": "meal",
+  "title": "Korean Noodle Soup",
+  "subtitle": "with Tofu and Mushrooms",
+  "description": "Looking for a punchy midweek meal? Cook thick udon noodles and shiitake in a broth spiked with Korean chilli paste, then top with slices of cool, silky tofu and sprinkle with sesame seeds.",
+  "sourceUrl": "https://dinnerly.com.au/menu/38107-korean-noodle-soup-with-tofu-and-mushrooms",
+  "imageUrl": "https://marleyspoon.com/media/recipes/38107/main_photos/large/korean_noodle_soup-d6fec6124c67526c2b38be26eae7b017.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 615,
+    "proteinG": 28.4,
+    "carbsG": 36.1,
+    "fatG": 11.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Shiitake Mushrooms",
+      "qty": 40,
+      "unit": "g",
+      "product": "shiitake-mushrooms",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32871/photos/medium/dried_whole_shiitake_mushrooms_40g_dn-a1c68fd24dbb97d9804ce410e3a50717.jpeg"
+    },
+    {
+      "name": "Silken Firm Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70382/photos/medium/tofu_lite_firm_300g-62ff626140b47698c8881ee26a491d53.jpeg"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37151/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Korean Chilli Paste",
+      "qty": 60,
+      "unit": "g",
+      "product": "gochujang",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/33064/photos/medium/ing_korean_chilli_paste-6229fa92df398f35399af2b52912203c.jpg"
+    },
+    {
+      "name": "Vegetable Stock Cubes",
+      "qty": 2,
+      "product": "stock-cubes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32972/photos/medium/ing_chicken_stock_powder-32e787f9651bf2d512661e78c1acdccc.jpg"
+    },
+    {
+      "name": "Udon Noodles",
+      "qty": 220,
+      "unit": "g",
+      "product": "udon-noodles",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70390/photos/medium/noodles_egg_150g-7cff5fe9cf535eb082e5af741007d911.jpeg"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70715/photos/medium/seeds_toasted_sesame_seed_mix_5g_ms-7c84f16e8b43b25f35f8254d6ad74fba.jpeg"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1,
+      "unit": "l",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Simmer shiitake: Fill a medium saucepan with 1L (4 cups) boiling water. Add the shiitake mushrooms, return to the boil, then reduce the heat to medium-low and cook, covered, for 15 mins or until tender. Remove the pan from the heat and strain the mushroom cooking water into a bowl. Cut the shiitake into quarters, discarding the stems (see Kitchen tips). Reserve the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/146970/photos/large/prep_ingredients-b9fce5ada81f93a6da364bcc2653d0a6.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, carefully remove the tofu according to the packet instructions, then drain on paper towel. Thinly slice the spring onion, keeping the white and green parts separate. Crush or finely chop 2 garlic cloves. Put the garlic, chilli paste (see Kitchen tips), 2 tsp soy sauce and 1 tsp sugar in a bowl and stir to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/146971/photos/large/make_chilli_sauce-97c49cc11263475646ac92063f416752.jpeg"
+    },
+    {
+      "text": "Start soup: Crumble the stock cubes into the reserved pan, add the mushroom cooking water and 60ml (¼ cup) water and stir to dissolve. Add the shiitake mushrooms, white part of the spring onion and three-quarters of the chilli mixture and bring to the boil.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/146972/photos/large/make_stock-21fe41e6deedb4e9965dbe7250a8daad.jpeg"
+    },
+    {
+      "text": "Finish soup: Reduce the heat to medium and cook for 1-2 mins until the spring onion is softened. Add the noodles and remove the pan from the heat. Allow to stand for 5 mins, then use a fork to gently separate the noodles.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/146973/photos/large/make_soup-2f5b9ee42a5d701513cc41a0076a26d6.jpeg"
+    },
+    {
+      "text": "Serve up: Thickly slice the tofu. Divide the noodles among bowls, then pour over the soup. Top with the tofu and green part of the spring onion, then sprinkle with the sesame seeds. Spoon over the remaining chilli mixture, if desired, and enjoy.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/146974/photos/large/serve_up-915c0a031806368f9b5b6d6f0cc4c010.jpeg"
+    },
+    {
+      "text": "Kitchen tips: Dried shiitake mushrooms have a chewier texture and richer flavour than fresh shiitake. We've quartered them so they are easier to eat, but thinly slice them if you prefer. ~ Korean chilli paste, or gochujang, has a chilli kick. If you love spice but don't want it too hot, feel free to use less chilli paste.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/146975/photos/large/did_you_know-0cde8f92b662f304e8c7fd2b7342db89.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "dn-crunchy-crumbed-tofu-fingers-and-fries-with-barbecue-drizzle-and-green-salad",
+  "kind": "meal",
+  "title": "Crunchy Crumbed Tofu Fingers and Fries",
+  "subtitle": "with Barbecue Drizzle and Green Salad",
+  "description": "Whether you're full-time vego or part-time only, our varied range of vegetarian dishes really hits the spot. Bursting with veggies, dairy, legumes, grains and nuts, they're packed with flavour, they’ll fill you up and they're totally mouth-watering too!",
+  "sourceUrl": "https://dinnerly.com.au/menu/445449-crunchy-crumbed-tofu-fingers-and-fries-with-barbecue-drizzle-and-green-salad",
+  "imageUrl": "https://marleyspoon.com/media/recipes/445449/main_photos/large/crumbed_tofu_fingers_and_fries-2c52fafdc1f50764fe6ddd1762922ce6.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 755,
+    "proteinG": 28.1,
+    "carbsG": 53,
+    "fatG": 46.8
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly",
+    "climate hero"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31611/photos/medium/potato_white_washed_medium_270g-2f96c616315c9f0cb416443b4a455ac9.jpeg"
+    },
+    {
+      "name": "Celery Stalk",
+      "qty": 1,
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34068/photos/medium/ing_celery-a141d756a8aa3437b55409a79f201eec.jpg"
+    },
+    {
+      "name": "Cos Lettuce",
+      "qty": 1,
+      "product": "cos-lettuce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70844/photos/medium/pp_lettuce_cos_heart_200g-617270dbb9b5a829e77baed1a3492c30.jpeg"
+    },
+    {
+      "name": "Plain Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71342/photos/medium/tofu_plain_200g-2e498fd8f9d845afd46ea3038077b151.jpeg"
+    },
+    {
+      "name": "Country Seasoning",
+      "qty": 10,
+      "unit": "g",
+      "blend": "country-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70082/photos/medium/seasoning_country_10g-8a5163b27fccc027c1d43dbe7d17ca00.jpeg"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 40,
+      "unit": "g",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32844/photos/medium/ing_panko_breadcrumbs-afc5c1334f86532411df45373349ba32.jpg"
+    },
+    {
+      "name": "Smoky Barbecue Sauce",
+      "qty": 50,
+      "unit": "g",
+      "product": "bbq-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/71142/photos/medium/sauce_sticky_rib_marinade_50g-cefefb0661a03be54dff754d4dc3e627.jpeg"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "mayonnaise",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Egg",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 200C, fan-forced. Line a large oven tray with baking paper. Cut the potato into thin matchsticks. Thinly slice the celery. Trim the lettuce, then separate the leaves. Halve each tofu piece lengthwise. Combine ½ tsp country seasoning and 2 tbs mayonnaise in a bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583016/photos/large/368227_1-8158fcf9a89688f5d7cbbb3a5f56de86.jpeg"
+    },
+    {
+      "text": "Bake fries: Spread the potato out on the lined tray. Drizzle with 1 tsp olive oil and toss to coat. Bake, turning halfway, for 30 mins or until golden. Season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583017/photos/large/368227_2-850f5fbc8cd6dd7c50e02cbe4a9f9753.jpeg"
+    },
+    {
+      "text": "Crumb tofu: Meanwhile, whisk 1 egg in a shallow bowl. Put 1 tbs plain flour in a separate shallow bowl. Combine the breadcrumbs and remaining country seasoning in a third bowl. Dust the tofu with flour, shake off the excess, then dip in the egg and coat in the breadcrumb mixture.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583018/photos/large/368227_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Pan-fry tofu: Heat 1½ tbs olive oil in a medium frypan over medium heat (see Make it yours). Cook the tofu for 3-4 mins each side until golden and cooked through. Remove from the pan and drain on a wire rack. Season with salt.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583019/photos/large/368227_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Toss salad and serve up: Combine 1 tsp olive oil and 1 tsp white wine vinegar in a large bowl and season with salt and pepper. Add the celery and lettuce and toss to coat. Divide the tofu fingers, fries and salad among plates. Drizzle the barbecue sauce over the tofu and serve with the mayo. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583020/photos/large/368227_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Make it yours: If you have an air fryer, use it to cook the crumbed tofu instead of pan-frying it – just adjust the cook times.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2583021/photos/large/368227_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

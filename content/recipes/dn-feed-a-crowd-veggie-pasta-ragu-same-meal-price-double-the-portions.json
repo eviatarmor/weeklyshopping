@@ -1,0 +1,111 @@
+{
+  "slug": "dn-feed-a-crowd-veggie-pasta-ragu-same-meal-price-double-the-portions",
+  "kind": "meal",
+  "title": "Feed-A-Crowd Veggie Pasta Ragu:",
+  "subtitle": "Same Meal Price, Double the Portions!",
+  "description": "There’s more to go around with our new Feed A Crowd recipes. With more core ingredients, these larger recipes make double the portions of your current meal plan (2-person plan = 4 portions; 4-person plan = 8 portions).",
+  "sourceUrl": "https://dinnerly.com.au/menu/57259-feed-a-crowd-veggie-pasta-ragu-same-meal-price-double-the-portions",
+  "imageUrl": "https://marleyspoon.com/media/recipes/57259/main_photos/large/feed_a_crowd_veggie_pasta_ragu-31fa7541eb7c2083730fcb5ad5faa9c5.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 740,
+    "proteinG": 29.9,
+    "carbsG": 114.9,
+    "fatG": 14.7
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32394/photos/medium/ing_zucchini-83c81bdb81a19f7c2cefcc32f0631213.jpg"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31756/photos/medium/cheese_parmesan_100g-e6073766be97267d759156e6ccb19443.jpeg"
+    },
+    {
+      "name": "Lentils",
+      "qty": 400,
+      "unit": "g",
+      "product": "brown-lentils",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32217/photos/medium/ing_canned_lentils-dcdf4182c3d68f30231d0273471f1bbe.jpg"
+    },
+    {
+      "name": "Tagliatelle Pasta",
+      "qty": 500,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35321/photos/medium/ing_pasta_linguine-2382315eea1ef48a4fa6e6d8a1acfdd4.jpg"
+    },
+    {
+      "name": "Tuscan Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "italian-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70784/photos/medium/seasoning_tuscan_10g_ms-fb6bf68b033f6120f62c0520f2fc4bcd.jpeg"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "qty": 780,
+      "unit": "g",
+      "product": "diced-tomatoes",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36732/photos/medium/ing_chopped_tomatoes_canned-882cddda776055b05401635e6e73444e.jpg"
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Bring a large saucepan of salted water to the boil for the pasta. Crush or finely chop 2 garlic cloves. Peel the carrots, then coarsely grate the carrot and zucchini. Finely grate the cheese. Drain and rinse the lentils.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263370/photos/large/prep_ingredients-ecb255ddf1d66cb265295932a7260490.jpeg"
+    },
+    {
+      "text": "Cook pasta: Cook the pasta in the pan of boiling water for 8 mins or until al dente. Reserve 125ml (½ cup) cooking water, then drain the pasta.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263371/photos/large/cook_pasta-0e2b45903d666b6949bbe9b8161ef06d.jpeg"
+    },
+    {
+      "text": "Saute garlic and carrot: Meanwhile, heat 1 tbs olive oil in a large deep frypan over medium heat. Cook the garlic and carrot, stirring, for 4 mins or until softened. Add the Tuscan seasoning and cook, stirring, for 1 min or until fragrant.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263372/photos/large/saute_garlic_and_carrot-68be3468c4d133d503490c59b78a611b.jpeg"
+    },
+    {
+      "text": "Simmer ragu: Add the zucchini, lentils, tomatoes and reserved cooking water to the carrot mixture and stir to combine. Bring to the boil, then reduce the heat to medium and cook for 8-10 mins until slightly thickened. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263373/photos/large/simmer_ragu-7c1b7100e42f11e97fd7250f819aadbd.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the pasta and ragu among bowls, scatter over the parmesan and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263374/photos/large/serve_up-43175a5a6bc5566fb83530b2f0521728.jpeg"
+    },
+    {
+      "text": "Feed A Crowd: There's nothing better than a pasta dish to keep everyone happy. Even better, the ragu sauce can be prepped ahead of time and refrigerated until needed. This allows more time for the flavours to develop too! Then, all you have to do is reheat the sauce, grate the cheese and put the pasta on to cook!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263375/photos/large/feed_a_crowd-632c489e65a293e07c418d95889107d2.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "dn-sticky-ginger-tofu-stir-fry-with-green-beans-and-jasmine-rice",
+  "kind": "meal",
+  "title": "Sticky Ginger Tofu Stir-Fry",
+  "subtitle": "with Green Beans and Jasmine Rice",
+  "description": "Speedy deliciousness is on the menu tonight! Simply stir-fry honey soy tofu, beans and carrot in a sticky ginger sauce, then steam some rice and dinner is served!",
+  "sourceUrl": "https://dinnerly.com.au/menu/62451-sticky-ginger-tofu-stir-fry-with-green-beans-and-jasmine-rice",
+  "imageUrl": "https://marleyspoon.com/media/recipes/62451/main_photos/large/sticky-accdd8e85d1a3fe934f1db0d5d08278e.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 570,
+    "proteinG": 22.6,
+    "carbsG": 86.4,
+    "fatG": 23.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70673/photos/medium/rice_jasmine_150g_ms-738732293471033ed769ed790327aa6d.jpeg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 150,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31688/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Honey Soy Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37865/photos/medium/ING_Tofu_ChineseHoneySoy-b7f2277ffcfb1ee7d685ae35c66be563.jpg"
+    },
+    {
+      "name": "Ginger",
+      "product": "ginger",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/35061/photos/medium/ing_ginger-f190264899105ae2f2bfb1a6e5fef9a2.jpg"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "hoisin-sauce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31861/photos/medium/ing_hoisin_sauce-b000d29acd680d677d6a4d52d1d362a8.jpg"
+    },
+    {
+      "name": "Garlic Clove",
+      "qty": 1,
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Rinse the rice until the water runs clear. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer over medium heat. Reduce the heat to low and cook for 12 mins or until tender and the water is absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/286284/photos/large/cook_rice-4e3708f369feb6ae179f727bb3078d0a.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, trim the beans and cut into 4cm lengths on an angle. Peel the carrot, halve lengthwise, then thinly slice on an angle. Cut the tofu into 2cm chunks. Crush or finely chop 1 garlic clove. Peel and finely grate the ginger.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/286285/photos/large/prep_ingredients-0240e56a0790163add2cdd2aeb45358e.jpeg"
+    },
+    {
+      "text": "Warm tofu: Heat 1 tbs vegetable oil in a large frypan over medium-high heat. Cook the tofu, turning occasionally, for 2-3 mins until golden. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/286286/photos/large/warm_tofu-6ddc6b8084b6cb667204e7cbcad3ae1f.jpeg"
+    },
+    {
+      "text": "Stir-fry veggies: Heat 2 tsp vegetable oil in the same pan over medium-high heat. Stir-fry the garlic and ginger for 1 min or until fragrant. Add the beans and carrot and stir-fry for a further 2 mins or until tender but still with crunch.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/286287/photos/large/stir_fry_veggies-9fa7e3961fa4ae9c935654cce7133d6f.jpeg"
+    },
+    {
+      "text": "Serve up: Add the tofu and hoisin sauce to the veggies and gently toss to coat. Remove the pan from the heat. Divide the rice and stir-fry among bowls and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/286288/photos/large/serve_up-4047e8acc9c8f83df0edc0c93279f3b3.jpeg"
+    },
+    {
+      "text": "Make it yours: Up the zing by cooking extra garlic and ginger in vegetable oil until fragrant, then stir through the steamed rice.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/286289/photos/large/make_it_yours-e80fbebf5c5d9613d16c4376bdee07eb.jpeg"
+    }
+  ]
+}

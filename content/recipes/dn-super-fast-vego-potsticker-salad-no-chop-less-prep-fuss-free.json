@@ -1,0 +1,112 @@
+{
+  "slug": "dn-super-fast-vego-potsticker-salad-no-chop-less-prep-fuss-free",
+  "kind": "meal",
+  "title": "Super Fast: Vego Potsticker Salad",
+  "subtitle": "No chop, less prep, fuss free!",
+  "description": "Get dinner on the table in record time with this flavour-packed salad. Team crispy-bottomed pan-fried dumplings with herbs and lettuce leaves, then top with crunchy peanuts and a fried shallot dressing.",
+  "sourceUrl": "https://dinnerly.com.au/menu/89869-super-fast-vego-potsticker-salad-no-chop-less-prep-fuss-free",
+  "imageUrl": "https://marleyspoon.com/media/recipes/89869/main_photos/large/super_fast_vego_potsticker_salad-64d679f9ff77866b980cdd049e99705c.jpeg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 550,
+    "proteinG": 16.1,
+    "carbsG": 51.1,
+    "fatG": 30.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Asian Greens and Shiitake Dumplings",
+      "qty": 300,
+      "unit": "g",
+      "product": "frozen-dumplings",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70471/photos/medium/dumpling_asian_greens_300g-5bdab141c9e1b780f6d4e9050109db91.jpeg"
+    },
+    {
+      "name": "Fried Shallots",
+      "qty": 1,
+      "unit": "packet",
+      "product": "crispy-shallots",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70641/photos/medium/dried_fried_shallots_10g_ms-29be38279064ea2cfd59957564160e08.jpeg"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31901/photos/medium/ing_coriander-db0599e1fb906abce8faf77e4df9edf5.jpg"
+    },
+    {
+      "name": "Baby Cos Lettuce",
+      "qty": 1,
+      "product": "cos-lettuce",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32656/photos/medium/pp_lettuce_baby_cos_head_200g-a115935d8c605678e9e9b557e4784d7c.jpeg"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "qty": 1,
+      "unit": "packet",
+      "product": "peanuts",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70693/photos/medium/nuts_peanuts_salted_roasted_20g_ms-236a35bb8324f165d7cbe175c6a435df.jpeg"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "White Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "honey",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Pan-fry dumplings: Heat a generous drizzle of vegetable oil in a medium deep frypan over medium-high heat. Cook the dumplings, without turning, for 2-3 mins until golden on one side. Carefully add 60ml (¼ cup) water (take extra care adding water to the hot pan, as the oil can spit and the steam created is very hot). Cover and steam for 3 mins or until the dumplings are tender. Remove from the pan.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450567/photos/large/72064_1-d57319e4f52b4756dbaf782d5bac1694.jpeg"
+    },
+    {
+      "text": "Make dressing: Meanwhile, combine the fried shallots, 1 tbs vegetable oil, 1 tbs soy sauce, 1 tbs white vinegar and 2 tsp honey in a bowl (see Make it spicy).",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450568/photos/large/72064_2-94ce52bf6763c3fd0d5ecfb178bf4937.jpeg"
+    },
+    {
+      "text": "Serve up: Coarsely tear the lettuce leaves (see Cooking tip). Coarsely tear the coriander leaves and stems. Divide the lettuce and dumplings among bowls. Drizzle with the dressing and top with the peanuts and coriander. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450569/photos/large/72064_3-d9db8d1eb9d9ef42e99ead2a8547c3e3.jpeg"
+    },
+    {
+      "text": "...: Were you expecting more steps?",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450570/photos/large/72064_4-1d82ca63176214181a0ddf0946fbd262.jpeg"
+    },
+    {
+      "text": "...: You're not gonna find them here. You're all done!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450571/photos/large/72064_5-108c1f1ef2c96b05ebb28affd19f0f95.jpeg"
+    },
+    {
+      "text": "Make it spicy: Dumplings love chilli! Feel free to add some chopped fresh chilli, chilli flakes or chilli oil to your dressing.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/450572/photos/large/72064_6-774217e436c4603f508d7c43e50a3cde.jpeg"
+    }
+  ]
+}

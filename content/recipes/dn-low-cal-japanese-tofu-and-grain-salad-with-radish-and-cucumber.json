@@ -1,0 +1,99 @@
+{
+  "slug": "dn-low-cal-japanese-tofu-and-grain-salad-with-radish-and-cucumber",
+  "kind": "meal",
+  "title": "Low-Cal Japanese Tofu and Grain Salad",
+  "subtitle": "with Radish and Cucumber",
+  "description": "This is one of our easiest recipes! Slice, dice and shred your tofu and vegetables, then toss with wholesome mixed grains and a delicious Japanese-style dressing. Hello veggie bowl heaven!",
+  "sourceUrl": "https://dinnerly.com.au/menu/61753-low-cal-japanese-tofu-and-grain-salad-with-radish-and-cucumber",
+  "imageUrl": "https://marleyspoon.com/media/recipes/61753/main_photos/large/low_cal_japanese_tofu_and_grain_salad-968f5a51f789a449426dcd07d9535dd0.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 595,
+    "proteinG": 24.6,
+    "carbsG": 62.4,
+    "fatG": 25.6
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "calorie conscious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "qty": 125,
+      "unit": "g",
+      "product": "white-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37324/photos/medium/ING_BlackPearlRiceBlend_154-76f8d3a0818a9da7242eda297ba0d8f2.jpg"
+    },
+    {
+      "name": "Honey Soy Tofu",
+      "qty": 200,
+      "unit": "g",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37865/photos/medium/ING_Tofu_ChineseHoneySoy-b7f2277ffcfb1ee7d685ae35c66be563.jpg"
+    },
+    {
+      "name": "Lebanese Cucumber",
+      "qty": 1,
+      "product": "cucumber",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31682/photos/medium/ing_cucumber_lebanese-0a6590b82444387df7353b2beb805be1.jpg"
+    },
+    {
+      "name": "Radish",
+      "qty": 40,
+      "unit": "g",
+      "product": "radish",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32668/photos/medium/ing_raddish-d43076e6023939397703e62f7d3674d9.jpg"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Japanese Dressing",
+      "qty": 80,
+      "unit": "g",
+      "product": "sesame-dressing",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70171/photos/medium/sauce_japanese_style_dressing_40g-b1c8f610481248f2c413d43dca4651d8.jpeg"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sesame-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70715/photos/medium/seeds_toasted_sesame_seed_mix_5g_ms-7c84f16e8b43b25f35f8254d6ad74fba.jpeg"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook grain blend: Fill a medium saucepan three-quarters full with water and bring to the boil. Add the grain blend and cook for 20-22 mins until tender. Drain, then rinse under cold water to cool. Transfer to a large bowl.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289842/photos/large/cook_grain_blend-acd1c33021610e2279677fac199a7d23.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, cut the tofu into 1cm cubes (see Make it yours). Halve the cucumber widthwise, then thinly slice lengthwise. Stack the cucumber slices and cut into matchsticks. Thinly slice the radish. Shred the carrot using a julienne peeler or coarsely grate with a box grater.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289843/photos/large/prep_ingredients-ba324b31893d3fe33f17746956c598de.jpeg"
+    },
+    {
+      "text": "Assemble salad: Add the tofu, cucumber, radish and carrot to the grain blend.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289844/photos/large/assemble_salad-ac78a67825c7c5b4ee0018a022763d32.jpeg"
+    },
+    {
+      "text": "Add dressing: Add the Japanese dressing to the veggie mixture and toss to combine. Taste, then season with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289845/photos/large/add_dressing-76cfcb06e0400820a09b0482970eed34.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the grain salad among bowls and scatter with the sesame seeds. Enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289846/photos/large/serve_up-271f7c58df2e961ccadbfb2250bda43b.jpeg"
+    },
+    {
+      "text": "Make it yours: Prefer your tofu warm? Heat a medium frypan over high heat and lightly spray or brush with vegetable oil. Cook the tofu, turning, for 3 mins or until golden and warmed through.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/289847/photos/large/make_it_yours-8695750be727b37125e141294343a2b8.jpeg"
+    }
+  ]
+}

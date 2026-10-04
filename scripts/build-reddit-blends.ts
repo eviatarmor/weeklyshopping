@@ -77,7 +77,7 @@ const BLENDS: Blend[] = [
   },
   {
     title: "Jerk Seasoning",
-    aliases: ["Jamaican Jerk Seasoning", "Jerk Spice Blend", "Mild Caribbean Jerk Seasoning", "Caribbean Jerk Seasoning"],
+    aliases: ["Jamaican Jerk Seasoning", "Jerk Spice Blend", "Mild Caribbean Jerk Seasoning", "Caribbean Jerk Seasoning", "Caribbean Seasoning"],
     parts: [[12, "garlic"], [12, "thyme"], [8, "onion"], [8, "oregano"], [4, "paprika"], [4, "sugar"], [4, "allspice"], [2, "cinnamon"], [1, "whitePepper"], [1, "cayenne"]],
   },
   { title: "Mediterranean Spice Blend", aliases: ["Mediterranean Spice Mix"], parts: [[2, "oregano"], [1, "mint"], [1, "sumac"], [1, "coriander"]] },
@@ -87,7 +87,7 @@ const BLENDS: Blend[] = [
   { title: "Southwest Spice Blend", aliases: ["South West Spice Blend", "Southwest Spice", "Southwest Seasoning"], parts: [[4, "garlic"], [2, "cumin"], [2, "chilliPowder"]] },
   {
     title: "Smoky BBQ Seasoning",
-    aliases: ["Smokey BBQ Seasoning", "BBQ Seasoning", "Smoky BBQ Spice Blend", "BBQ Spice Blend"],
+    aliases: ["Smokey BBQ Seasoning", "BBQ Seasoning", "Smoky BBQ Spice Blend", "BBQ Spice Blend", "Smoky Barbecue Seasoning"],
     parts: [[8, "smokedPaprika"], [6, "sugar"], [2, "garlic"], [1, "mustardPowder"], [1, "cumin"], [1, "ginger"], [0.5, "blackPepper"]],
   },
   {

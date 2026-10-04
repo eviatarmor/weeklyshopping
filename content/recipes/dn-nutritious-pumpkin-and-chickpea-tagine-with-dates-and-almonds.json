@@ -1,0 +1,111 @@
+{
+  "slug": "dn-nutritious-pumpkin-and-chickpea-tagine-with-dates-and-almonds",
+  "kind": "meal",
+  "title": "Nutritious Pumpkin and Chickpea Tagine",
+  "subtitle": "with Dates and Almonds",
+  "description": "This healthy Morrocan-style stew stars roasted pumpkin, sweet dates and aromatic ras el hanout spices. Exotic, comforting and oh so good!",
+  "sourceUrl": "https://dinnerly.com.au/menu/57251-nutritious-pumpkin-and-chickpea-tagine-with-dates-and-almonds",
+  "imageUrl": "https://marleyspoon.com/media/recipes/57251/main_photos/large/nutritious_pumpkin_and_chickpea_tagine-07728b0312ef943f82c1aebf5565e53e.jpeg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "nutrition": {
+    "kcal": 540,
+    "proteinG": 18.6,
+    "carbsG": 60.4,
+    "fatG": 21.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "nutritious"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 500,
+      "unit": "g",
+      "product": "pumpkin",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/36467/photos/medium/ing_butternut_pumpkin-3000ea2a963a7ee84343a1cb7b6175b1.jpg"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32671/photos/medium/salad_tomato_t-c8fc1eb114590696db56f36958a40285.jpeg"
+    },
+    {
+      "name": "Dried Dates",
+      "qty": 40,
+      "unit": "g",
+      "product": "medjool-dates",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37884/photos/medium/ing_dates-1ce6137c3ca9d21680630cd7edd1039a.jpg"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32394/photos/medium/ing_zucchini-83c81bdb81a19f7c2cefcc32f0631213.jpg"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 400,
+      "unit": "g",
+      "product": "chickpeas",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31527/photos/medium/ing_chickpeas_canned-1451ece5d0630fe6d763a7fb4bcae471.jpg"
+    },
+    {
+      "name": "Ras El Hanout Spice Blend",
+      "qty": 5,
+      "unit": "g",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32859/photos/medium/ing_ras_el_hanout-ce001b68bada9ea0f00e7daa41551095.jpg"
+    },
+    {
+      "name": "Slivered Almonds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "almonds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70683/photos/medium/nuts_almonds_slivered_40g_ms-8eb6336a76e8dd2177f253d3c1754c44.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic Cloves",
+      "qty": 2,
+      "product": "garlic",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roast pumpkin: Preheat the oven to 220C. Line an oven tray with baking paper. Peel the pumpkin and cut into 2cm chunks. Put the pumpkin on the lined tray (see Make it yours). Drizzle with 2 tsp olive oil, season with salt and pepper and toss to coat. Roast for 15 mins or until almost tender. Remove from the oven, keeping the oven on.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263556/photos/large/roast_pumpkin-7916d469bc52030b4db76231d71d8d81.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, halve the tomatoes, then coarsely grate over a bowl to catch the juice, discarding the skin. Halve the dates. Halve the zucchini widthwise, then cut into thin wedges. Crush or finely chop 2 garlic cloves. Drain and rinse the chickpeas.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263557/photos/large/prep_ingredients-a70ef32bad9f47f5449a7c6a4682fdc4.jpeg"
+    },
+    {
+      "text": "Start tagine: Heat 2 tsp olive oil in a medium deep frypan over medium heat. Add the ras el hanout spice blend and garlic and cook, stirring, for 1 min or until fragrant. Add the grated tomato, dates and 180ml (¾ cup) water. Season with salt and pepper. Bring to the boil, then reduce the heat to medium and cook for 5 mins or until slightly thickened.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263558/photos/large/start_tagine-f6603e7b1573762c1ff981bfa07c74ae.jpeg"
+    },
+    {
+      "text": "Add vegetables: Add the chickpeas and roast pumpkin to the tagine, stir to combine, then arrange the zucchini on top. Bring to the boil, then reduce the heat to low and cook, covered, for 6-8 mins until the zucchini is tender. Taste, then season with salt and pepper. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263559/photos/large/add_vegetables-6696af45c34c852ca682439666823058.jpeg"
+    },
+    {
+      "text": "Serve up: Meanwhile, put the almonds on an oven tray and toast for 3-4 mins until golden. Divide the pumpkin and chickpea tagine among bowls, scatter over the almonds and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263560/photos/large/serve_up-ffa0d1d61e15d83e9dfbfce2bf38a9fc.jpeg"
+    },
+    {
+      "text": "Make it yours: Roasting the pumpkin adds a lovely depth of flavour, but if don't feel like turning the oven on, add the pumpkin to the pan in Step 4 along with an extra 60ml (¼ cup) water. You can then simply toast the almonds in a separate small frypan until golden.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/263561/photos/large/make_it_yours-6660e263a29f7f13734eacf5f0280f40.jpeg"
+    }
+  ]
+}

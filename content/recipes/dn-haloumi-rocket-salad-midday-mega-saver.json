@@ -1,0 +1,113 @@
+{
+  "slug": "dn-haloumi-rocket-salad-midday-mega-saver",
+  "kind": "meal",
+  "title": "Haloumi Rocket Salad",
+  "subtitle": "Midday Mega-Saver!",
+  "description": "Down tools and drool… it’s lunch time! Whether in the staff room at work or al desko at home, eating a yummy lunch is key to work-life happiness. So make your lunch smarter, quicker and way more affordable with our tasty recipes.",
+  "sourceUrl": "https://dinnerly.com.au/menu/399366-haloumi-rocket-salad-midday-mega-saver",
+  "imageUrl": "https://marleyspoon.com/media/recipes/399366/main_photos/large/thrifty_lunch_haloumi_rocket_salad-28f412df1c131d735ecb7e9a6f6daa46.jpeg",
+  "servings": 2,
+  "prepMinutes": 15,
+  "nutrition": {
+    "kcal": 725,
+    "proteinG": 30.6,
+    "carbsG": 57.2,
+    "fatG": 41.3
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70647/photos/medium/grain_couscous_150g_ms-03bc468f163457504aaeb20c382bae08.jpeg"
+    },
+    {
+      "name": "Chermoula Seasoning",
+      "qty": 1,
+      "unit": "packet",
+      "blend": "chermoula-spice-blend",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70726/photos/medium/seasoning_chermoula_5g_ms-5e8bab4b1f88b81559acc7974c5cc4ed.jpeg"
+    },
+    {
+      "name": "Haloumi",
+      "qty": 180,
+      "unit": "g",
+      "product": "haloumi",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/37117/photos/medium/ing_halloumi_cheese-543f30e02beae751e08ad84781d7a721.jpg"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/34662/photos/medium/ing_tomato_roma-92c29b35b68d6299ca6ed0f0df617786.jpg"
+    },
+    {
+      "name": "Rocket Leaves",
+      "qty": 50,
+      "unit": "g",
+      "product": "rocket",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70415/photos/medium/pp_rocket_leaves_50g-7ae7fc29173d93a36787f907e6356ac8.jpeg"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 1,
+      "unit": "packet",
+      "product": "sunflower-seeds",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70710/photos/medium/seeds_sunflower_seed_kernels_20g_ms-875a3a355847730da09b59dbcd30c5a0.jpeg"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1.5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 200,
+      "unit": "ml",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "White Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-wine-vinegar",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak couscous: Put the couscous and chermoula seasoning in a large heatproof bowl, add 1 tbs olive oil, pour over 200ml boiling water and cover with a plate. Stand for 5 mins or until the water is absorbed. Season with salt and pepper, then fluff the couscous with a fork.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306514/photos/large/266468_1-499a8467ac3bb15c7bc92a7b9bf8229f.jpeg"
+    },
+    {
+      "text": "Prep ingredients: Meanwhile, slice the haloumi. Coarsely chop the tomato.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306524/photos/large/266468_2-7a4813034d7dddfa8ba6006b27fd1df5.jpeg"
+    },
+    {
+      "text": "Cook haloumi: Heat a drizzle of olive oil in a medium frypan over medium-high heat. Cook the haloumi for 2 mins each side or until golden. Remove the pan from the heat.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306529/photos/large/266468_3-2c58eb29d3998115e8ac9b804a063ea5.jpeg"
+    },
+    {
+      "text": "Toss salad: Add the haloumi, tomato, rocket and 1 tbs white wine vinegar to the couscous and gently toss to combine.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306532/photos/large/266468_4-67748553711fa9d215a8955141720ff9.jpeg"
+    },
+    {
+      "text": "Serve up: Divide the couscous salad among bowls, scatter over the sunflower seeds and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306535/photos/large/266468_5-5ee6b0c70f3ef80250ea13bfc891742f.jpeg"
+    },
+    {
+      "text": "Did you know: Although it looks like a grain, couscous is actually a type of pasta made from semolina flour and water. North African in origin, couscous means 'well rolled', named for the traditional way of making it – the semolina was sprinkled with water and then rolled by hand into tiny balls.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/2306539/photos/large/266468_6-6008943387a372362a097cc2b5e7fe2e.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "harissa-seasoning",
+  "kind": "blend",
+  "title": "Harissa Seasoning",
+  "description": "Homemade approximation of the Dinnerly sachet (smoky chilli and caraway). One batch replaces one sachet.",
+  "servings": 1,
+  "yieldUnit": "sachet",
+  "tags": [
+    "blend"
+  ],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "qty": 0.75,
+      "unit": "tsp",
+      "product": "smoked-paprika"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Chilli Powder",
+      "qty": 0.375,
+      "unit": "tsp",
+      "product": "chilli-powder"
+    },
+    {
+      "name": "Caraway Seeds",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "caraway-seeds"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix everything in a small bowl. Use the whole batch wherever the recipe calls for 1 sachet."
+    }
+  ]
+}

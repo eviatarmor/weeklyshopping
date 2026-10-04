@@ -1,0 +1,111 @@
+{
+  "slug": "dn-tofu-stir-fry-with-chilli-soy-sauce",
+  "kind": "meal",
+  "title": "Tofu Stir-Fry",
+  "subtitle": "with Chilli-Soy Sauce",
+  "description": "Talk about easy. This Asian vegetarian stir-fry combines tofu, green beans and a sweet soy and chilli sauce all in a hot wok. Serve up the warm rice and spoon over.",
+  "sourceUrl": "https://dinnerly.com.au/menu/16378-tofu-stir-fry-with-chilli-soy-sauce",
+  "imageUrl": "https://marleyspoon.com/media/recipes/16378/main_photos/large/WEB_DID00043HERO_TofuStirFry_CoOL-8091c7cb79f93a87b3cc7f48351eaf02.jpg",
+  "servings": 2,
+  "prepMinutes": 20,
+  "nutrition": {
+    "kcal": 615,
+    "proteinG": 26.2,
+    "carbsG": 75.2,
+    "fatG": 21.1
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spring Onion",
+      "qty": 1,
+      "product": "spring-onion",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31869/photos/medium/ing_spring_onions-28aaa526b25fe281c4957123964610a6.jpg"
+    },
+    {
+      "name": "Jasmine Rice",
+      "qty": 1,
+      "unit": "packet",
+      "product": "jasmine-rice",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70673/photos/medium/rice_jasmine_150g_ms-738732293471033ed769ed790327aa6d.jpeg"
+    },
+    {
+      "name": "Long Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31938/photos/medium/ing_chilli_long_red-97d8e3ae86ec9fa54c0046921e7e35e5.jpg"
+    },
+    {
+      "name": "Kecap Manis",
+      "qty": 60,
+      "unit": "ml",
+      "product": "kecap-manis",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/38379/photos/medium/ing_kecap_manis-f06ee546719aa5901a24a885565ede77.jpg"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 200,
+      "unit": "g",
+      "product": "green-beans",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31652/photos/medium/ing_green_beans-0ea7415fa0958e98366b0784508e682d.jpg"
+    },
+    {
+      "name": "Silken Firm Tofu",
+      "qty": 1,
+      "unit": "packet",
+      "product": "tofu",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70382/photos/medium/tofu_lite_firm_300g-62ff626140b47698c8881ee26a491d53.jpeg"
+    },
+    {
+      "name": "Garlic Clove",
+      "product": "garlic",
+      "pantry": true
+    },
+    {
+      "name": "Soy Sauce",
+      "product": "soy-sauce",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Rinse the rice until the water runs clear. Put in a small saucepan with 250ml (1 cup) water, cover and bring to a simmer over medium heat. Reduce the heat to low and cook for 12 mins or until tender and the water has absorbed. Turn off the heat and stand, covered, for at least 5 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56322/photos/large/DNY_Recipe_Card_New_Illustration_01-3c5e09c19014ea60abcdf05ac61091d4.jpg"
+    },
+    {
+      "text": "Prep ingredients: Carefully remove the tofu, according to the packet instructions and drain on paper towel for 5 mins. Thinly slice the spring onion, keeping the white and green parts separate. Thinly slice 2 garlic cloves. Finely chop the chilli, removing the seeds if less heat is desired. Trim the beans and cut into 3-4cm lengths.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56323/photos/large/DNY_Recipe_Card_New_Illustration_02-2926580d9bbc8c56d65fa9aea6b809f9.jpg"
+    },
+    {
+      "text": "Start stir-fry: Heat 1 tbs vegetable oil in a wok or deep frypan over medium heat and stir-fry the garlic, white part of the spring onion and chilli (see cooking tip) for 1 min or until fragrant, being careful not to burn the garlic. Add the beans and cook for 1-2 mins.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56324/photos/large/DNY_Recipe_Card_New_Illustration_03-a49ec27f5bf99ddf4ba0511d16af9859.jpg"
+    },
+    {
+      "text": "Add tofu: Add the tofu, gently breaking it up into large pieces with a wooden spoon. Add 1 tbs soy sauce and 2 tbs kecap manis (the remaining kecap manis won't be used in this dish) and cook, stirring to coat, for 1-2 mins until the tofu is heated through and the beans are tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56325/photos/large/DNY_Recipe_Card_New_Illustration_04-bc759d4f4e2c78354fd94ba1a59b85a9.jpg"
+    },
+    {
+      "text": "Serve up: Divide the rice and stir-fry among bowls and scatter over the remaining spring onion to serve.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56326/photos/large/DNY_Recipe_Card_New_Illustration_05-5a7a1690f603c65ff6737795493d279d.jpg"
+    },
+    {
+      "text": "Kitchen hack: For a delicious twist, add some roasted cashews when serving.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/56327/photos/large/DNY_Recipe_Card_New_Illustration_HACK-4d24763fbe97269c0089cc30f420a7fa.jpg"
+    }
+  ]
+}
