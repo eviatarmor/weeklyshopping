@@ -62,9 +62,11 @@ export default defineConfig({
             urlPattern: ({ url }) => url.origin === self.location.origin && url.pathname.startsWith("/data/"),
             handler: "StaleWhileRevalidate",
             options: {
-              cacheName: "recipe-data",
+              // Bump the name to drop anything a previous version cached.
+              cacheName: "recipe-data-v2",
               expiration: { maxEntries: 4000, maxAgeSeconds: 60 * 60 * 24 * 60 },
-              cacheableResponse: { statuses: [200] },
+              // Only real JSON: never keep an HTML page (login or fallback) in place of data.
+              cacheableResponse: { statuses: [200], headers: { "content-type": "application/json" } },
             },
           },
           {

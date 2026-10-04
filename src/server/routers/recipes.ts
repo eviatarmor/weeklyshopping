@@ -5,6 +5,7 @@ import { protectedProcedure, router } from "../trpc";
 import { recipeCooked, recipeRatings } from "../db/schema";
 import { addItems, setUsuallyHave } from "../list-service";
 import { recommend } from "../recommend";
+import { recipeDetail } from "../content-store";
 
 /**
  * Recipe content itself is served as static files (/data/...), so these
@@ -43,6 +44,13 @@ export const recipesRouter = router({
       s.lastCookedAt = Math.max(s.lastCookedAt ?? 0, c.cookedAt);
     }
     return stats;
+  }),
+
+  /** Fallback for /data/r/<slug>.json, served from memory (never touches the database). */
+  content: protectedProcedure.input(z.object({ slug: z.string() })).query(({ ctx, input }) => {
+    const detail = recipeDetail(ctx.store, input.slug);
+    if (!detail) throw new TRPCError({ code: "NOT_FOUND" });
+    return detail;
   }),
 
   /** Ratings (with names) and recent cooks for one recipe. */

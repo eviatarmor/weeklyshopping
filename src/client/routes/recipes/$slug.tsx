@@ -71,6 +71,7 @@ function RecipePage() {
     return (
       <div className="p-8 text-center">
         <p className="mb-4 text-muted-foreground">Recipe not found.</p>
+        {error && <p className="mb-4 text-xs break-words text-muted-foreground/70">{error.message}</p>}
         <Button asChild variant="outline">
           <Link to="/recipes">Back to recipes</Link>
         </Button>
