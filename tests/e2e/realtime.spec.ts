@@ -56,3 +56,19 @@ test("recipe ingredients go through the pantry check onto the list", async ({ br
   await page.goto("/");
   await expect(page.getByText("for Creamy Mushroom & White Bean Pie").first()).toBeVisible();
 });
+
+test("meal filters don't leak into the blends tab", async ({ browser, baseURL }) => {
+  const page = await openAs(browser, "alex@dev.local", baseURL!);
+  await page.getByRole("link", { name: "Recipes" }).click();
+  const search = page.getByPlaceholder(/Search .*recipes/);
+  await search.fill("zzz-no-such-recipe");
+  await expect(page.getByText("No recipes match.")).toBeVisible();
+
+  await page.getByRole("button", { name: "Blends" }).click();
+  await expect(page.getByPlaceholder("Search blends")).toHaveValue("");
+  await expect(page.getByRole("link", { name: /All American Spice Blend/ })).toBeVisible();
+
+  // Back on meals, the meal search is still there.
+  await page.getByRole("button", { name: "Meals" }).click();
+  await expect(page.getByPlaceholder(/Search .*recipes/)).toHaveValue("zzz-no-such-recipe");
+});

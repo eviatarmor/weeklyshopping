@@ -9,7 +9,8 @@ const SOURCES: [RegExp, RecipeSource][] = [
 
 /** Where a recipe came from, for badges and filtering. */
 export function recipeSource(sourceUrl: string | null | undefined): RecipeSource {
-  if (!sourceUrl) return { id: "house", label: "Our recipe" };
+  // No source URL: a blend we wrote ourselves to approximate a HelloFresh/EveryPlate sachet.
+  if (!sourceUrl) return { id: "diy", label: "DIY estimate" };
   for (const [pattern, source] of SOURCES) if (pattern.test(sourceUrl)) return source;
   const host = new URL(sourceUrl).hostname.replace(/^www\./, "");
   return { id: host, label: host };

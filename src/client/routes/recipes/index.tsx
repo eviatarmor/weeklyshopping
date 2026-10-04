@@ -11,9 +11,13 @@ import { sizedImage } from "@/client/lib/images";
 const searchSchema = z.object({
   kind: z.enum(["meal", "blend"]).optional().catch(undefined),
   sort: z.enum(["top", "new", "untried", "quick"]).optional().catch(undefined),
-  source: z.string().max(40).optional().catch(undefined),
 });
 type Sort = NonNullable<z.infer<typeof searchSchema>["sort"]>;
+type Kind = "meal" | "blend";
+
+/** Each tab (meals / blends) keeps its own search, source and tag filters. */
+type Filters = { query: string; tag: string | null; source: string | null };
+const NO_FILTERS: Filters = { query: "", tag: null, source: null };
 
 export const Route = createFileRoute("/recipes/")({
   validateSearch: (search) => searchSchema.parse(search),
@@ -53,8 +57,9 @@ function RecipesPage() {
   const kind = search.kind ?? "meal";
   const sort = search.sort ?? "top";
   const navigate = Route.useNavigate();
-  const [query, setQuery] = useState("");
-  const [tag, setTag] = useState<string | null>(null);
+  const [filtersByKind, setFiltersByKind] = useState<Record<Kind, Filters>>({ meal: NO_FILTERS, blend: NO_FILTERS });
+  const { query, tag, source } = filtersByKind[kind];
+  const setFilters = (patch: Partial<Filters>) => setFiltersByKind((all) => ({ ...all, [kind]: { ...all[kind], ...patch } }));
   const [shown, setShown] = useState(PAGE_SIZE);
   const sentinel = useRef<HTMLDivElement>(null);
   const { data, isPending } = useQuery(trpc.recipes.list.queryOptions({ kind }));
@@ -81,13 +86,13 @@ function RecipesPage() {
       (r) =>
         (!q || `${r.title} ${r.subtitle ?? ""}`.toLowerCase().includes(q)) &&
         (!tag || r.tags.includes(tag)) &&
-        (!search.source || r.source.id === search.source),
+        (!source || r.source.id === source),
     );
     return kind === "meal" ? sortRecipes(filtered, sort) : filtered.sort((a, b) => a.title.localeCompare(b.title));
-  }, [data, query, tag, sort, kind, search.source]);
+  }, [data, query, tag, sort, kind, source]);
 
   // Reset paging when the filters change, then grow as the user scrolls.
-  useEffect(() => setShown(PAGE_SIZE), [query, tag, sort, kind, search.source]);
+  useEffect(() => setShown(PAGE_SIZE), [query, tag, sort, kind, source]);
   useEffect(() => {
     const el = sentinel.current;
     if (!el) return;
@@ -105,7 +110,7 @@ function RecipesPage() {
         action={
           <Segmented
             value={kind}
-            onChange={(k) => void navigate({ search: (s) => ({ ...s, kind: k, source: undefined }) })}
+            onChange={(k) => void navigate({ search: (s) => ({ ...s, kind: k }) })}
             options={[
               { value: "meal", label: "Meals" },
               { value: "blend", label: "Blends" },
@@ -118,7 +123,7 @@ function RecipesPage() {
             <Search className="size-4 text-muted-foreground" />
             <input
               value={query}
-              onChange={(e) => setQuery(e.target.value)}
+              onChange={(e) => setFilters({ query: e.target.value })}
               placeholder={kind === "meal" ? `Search ${data?.length ?? ""} recipes` : "Search blends"}
               className="h-full flex-1 bg-transparent outline-none placeholder:text-muted-foreground"
             />
@@ -126,11 +131,11 @@ function RecipesPage() {
         </div>
         {sources.length > 1 && (
           <div className="no-scrollbar flex gap-2 overflow-x-auto px-4 pb-2">
-            <Chip active={!search.source} onClick={() => void navigate({ search: (p) => ({ ...p, source: undefined }) })}>
+            <Chip active={!source} onClick={() => setFilters({ source: null })}>
               All sources
             </Chip>
             {sources.map(([id, { label, count }]) => (
-              <Chip key={id} active={search.source === id} onClick={() => void navigate({ search: (p) => ({ ...p, source: p.source === id ? undefined : id }) })}>
+              <Chip key={id} active={source === id} onClick={() => setFilters({ source: source === id ? null : id })}>
                 {label} <span className="opacity-60">{count}</span>
               </Chip>
             ))}
@@ -145,7 +150,7 @@ function RecipesPage() {
             ))}
             <span className="w-px shrink-0 bg-border" />
             {tags.map((t) => (
-              <Chip key={t} active={tag === t} onClick={() => setTag(tag === t ? null : t)} className="capitalize">
+              <Chip key={t} active={tag === t} onClick={() => setFilters({ tag: tag === t ? null : t })} className="capitalize">
                 {t}
               </Chip>
             ))}

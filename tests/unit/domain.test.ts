@@ -193,7 +193,7 @@ describe("recipeSource", () => {
     expect(recipeSource("https://www.hellofresh.com.au/recipes/x")).toEqual({ id: "hellofresh", label: "HelloFresh" });
     expect(recipeSource("https://www.everyplate.com.au/recipes/x").label).toBe("EveryPlate");
     expect(recipeSource("https://www.mealime.com/recipes/x/1").label).toBe("Mealime");
-    expect(recipeSource(null).id).toBe("house");
+    expect(recipeSource(null)).toEqual({ id: "diy", label: "DIY estimate" });
     expect(recipeSource("https://www.example.org/r")).toEqual({ id: "example.org", label: "example.org" });
   });
 });
