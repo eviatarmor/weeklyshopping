@@ -1,0 +1,103 @@
+{
+  "slug": "mk-turkish-vegetable-stew",
+  "kind": "meal",
+  "title": "Turkish Vegetable Stew",
+  "subtitle": "in a garlicky tomato sauce",
+  "description": "Cubes of potato, eggplant and zucchini are fried, then simmered with tomatoes and garlic into one big happy stew.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-16e524193f8c0a1027.htm",
+  "imageUrl": "https://img.mako.co.il/2026/09/22/turkishsalad_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "stew",
+    "turkish",
+    "vegan",
+    "vegetable"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Chilli Flakes",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the potatoes and part-peel the eggplant in stripes. Cut the potatoes, eggplant and zucchini into cubes and dry them well with paper towel."
+    },
+    {
+      "text": "Fry each vegetable separately until golden, then remove and set aside."
+    },
+    {
+      "text": "Fry the chopped onion until soft and lightly golden. Add the crushed garlic and fry for 30 seconds."
+    },
+    {
+      "text": "Add the tomato paste and fry for another 1-2 minutes."
+    },
+    {
+      "text": "Grate or blend the tomatoes and add them with the chilli flakes, salt and black pepper. Cook for a few minutes until a sauce forms."
+    },
+    {
+      "text": "Add the fried vegetables and stir gently. Cover and cook over medium heat for 10-15 minutes."
+    }
+  ]
+}

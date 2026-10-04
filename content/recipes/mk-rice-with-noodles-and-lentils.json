@@ -1,0 +1,74 @@
+{
+  "slug": "mk-rice-with-noodles-and-lentils",
+  "kind": "meal",
+  "title": "Rice with Noodles and Lentils",
+  "subtitle": "a quick, filling one-pot meal",
+  "description": "Soft rice and red lentils mixed with golden fried thin noodles for depth and flavour. A quick lunch or dinner that comes together in 30 minutes.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-059046c3539cd91026.htm",
+  "imageUrl": "https://img.mako.co.il/2026/04/26/orezwithlentilsran3_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "rice",
+    "lentils",
+    "israeli",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "qty": 3,
+      "unit": "cup",
+      "product": "white-rice"
+    },
+    {
+      "name": "Red Lentils",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "red-lentils"
+    },
+    {
+      "name": "Thin Noodles (Vermicelli)",
+      "qty": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 8,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a medium-large pot and add plenty of olive oil. Fry the noodles with 1 tsp salt until golden."
+    },
+    {
+      "text": "Add 1 cup of water to the noodles and cook for a few more minutes until softened."
+    },
+    {
+      "text": "In a separate pot, bring about 8 cups of water to the boil with 1 tsp salt. Add the rice and lentils and cook over low heat for 10 minutes, until soft."
+    },
+    {
+      "text": "Drain the rice and lentils and add them to the pot with the cooked noodles."
+    },
+    {
+      "text": "Stir well so the noodles are spread through the rice. Drizzle with olive oil and serve."
+    }
+  ]
+}

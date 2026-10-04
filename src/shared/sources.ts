@@ -6,6 +6,7 @@ const SOURCES: [RegExp, RecipeSource][] = [
   [/mealime\.com/, { id: "mealime", label: "Mealime" }],
   [/dinnerly\./, { id: "dinnerly", label: "Dinnerly" }],
   [/reddit\.com/, { id: "reddit", label: "r/hellofresh" }],
+  [/mako\.co\.il/, { id: "mako", label: "Mako" }],
 ];
 
 /** Where a recipe came from, for badges and filtering. */

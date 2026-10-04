@@ -1,0 +1,98 @@
+{
+  "slug": "mk-spinach-and-feta-filo-pie",
+  "kind": "meal",
+  "title": "Spinach and Feta Filo Pie",
+  "subtitle": "layered with no folding",
+  "description": "A crisp, golden family pie of filo layers, spinach and feta, baked in a milk and egg custard. Cut, scatter, pour and bake, then eat it straight from the oven.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-0251c4dcd02bf91026.htm",
+  "imageUrl": "https://img.mako.co.il/2026/07/30/IMG_8558_re_autoOrient_w.jpg",
+  "servings": 8,
+  "prepMinutes": 50,
+  "tags": [
+    "mako",
+    "pie",
+    "baked",
+    "vegetarian",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Filo Pastry Sheets",
+      "qty": 28
+    },
+    {
+      "name": "Spinach",
+      "qty": 200,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 400,
+      "unit": "ml",
+      "product": "milk"
+    },
+    {
+      "name": "Feta",
+      "qty": 250,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Butter",
+      "qty": 30,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "optional": true,
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Steam the spinach in a frying pan with a little water, then set aside."
+    },
+    {
+      "text": "In a bowl, whisk the eggs, milk, 3 tbsp olive oil, a little salt and black pepper."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Mix the spinach with the crumbled feta."
+    },
+    {
+      "text": "Cut the filo sheets into long strips and separate the strips."
+    },
+    {
+      "text": "Line a baking dish with baking paper and brush with a little olive oil. Scatter a third of the filo over the base, pour over a third of the milk and egg mixture and scatter over half of the spinach and feta. Repeat with another third of the filo, a third of the custard and the rest of the filling. Cover with the remaining filo, pour over the remaining custard and dot with cubes of butter."
+    },
+    {
+      "text": "Bake for 30-35 minutes, until golden and crisp."
+    }
+  ]
+}

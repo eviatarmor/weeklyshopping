@@ -1,0 +1,109 @@
+{
+  "slug": "mk-roasted-vegetable-salad",
+  "kind": "meal",
+  "title": "Roasted Vegetable Salad",
+  "subtitle": "with chickpeas and spicy yoghurt tahini",
+  "description": "Cauliflower, carrots and chickpeas roasted in the oven, dressed with a spicy yoghurt and tahini sauce and topped with feta, parsley and almonds.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-71cac922bca3e91027.htm",
+  "imageUrl": "https://img.mako.co.il/2026/05/18/roastedsalad_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "mako",
+    "salad",
+    "roasted",
+    "chickpeas",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Chickpeas",
+      "qty": 1,
+      "unit": "tin",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Paprika",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Garlic Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "garlic-powder"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Tahini",
+      "product": "tahini"
+    },
+    {
+      "name": "Feta",
+      "product": "feta",
+      "optional": true
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "optional": true
+    },
+    {
+      "name": "Almonds",
+      "product": "almonds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Cut the cauliflower into small florets, slice the carrots and red onion into strips and drain the chickpeas. Line a baking tray with baking paper and arrange the vegetables and chickpeas on it. Drizzle with olive oil and add the spices. Roast for about 50 minutes, until golden and tender."
+    },
+    {
+      "text": "Make the sauce: mix the sauce ingredients well until fairly runny. A stick blender helps."
+    },
+    {
+      "text": "Transfer the vegetables to a bowl, pour over the sauce and serve with crumbled feta, parsley and almonds."
+    }
+  ]
+}

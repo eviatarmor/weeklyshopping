@@ -1,0 +1,119 @@
+{
+  "slug": "mk-classic-broccoli-pie",
+  "kind": "meal",
+  "title": "Classic Broccoli Pie",
+  "subtitle": "simple and comforting",
+  "description": "A simple, comforting pie of broccoli, cottage cheese, sour cream and cheeses with a breadcrumb top.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-b3133e9843c1e91026.htm",
+  "imageUrl": "https://img.mako.co.il/2026/05/12/pashtidatbrocoliyael_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "mako",
+    "pie",
+    "baked",
+    "vegetarian",
+    "broccoli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "qty": 600,
+      "unit": "g",
+      "product": "broccoli"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 250,
+      "unit": "g",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 200,
+      "unit": "ml",
+      "product": "sour-cream"
+    },
+    {
+      "name": "Tasty Cheese (grated)",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Feta",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "feta"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "panko-breadcrumbs"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prepare the broccoli: if using fresh, blanch in boiling water for 3-4 minutes and drain. Chop roughly. If using frozen florets, thaw and squeeze out the liquid."
+    },
+    {
+      "text": "Preheat the oven to 180°C and grease a rectangular baking dish."
+    },
+    {
+      "text": "In a bowl, mix the eggs, cottage cheese, sour cream, cheeses, olive oil (or melted butter), flour and baking powder. Season with salt, pepper and crushed garlic."
+    },
+    {
+      "text": "Add the broccoli and mix well."
+    },
+    {
+      "text": "Transfer to the dish, sprinkle a thin layer of breadcrumbs on top and bake for 40-45 minutes, until golden and set."
+    },
+    {
+      "text": "Cool slightly and serve."
+    }
+  ]
+}

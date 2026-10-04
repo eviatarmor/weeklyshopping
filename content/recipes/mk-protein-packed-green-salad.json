@@ -1,0 +1,86 @@
+{
+  "slug": "mk-protein-packed-green-salad",
+  "kind": "meal",
+  "title": "Protein-Packed Green Salad",
+  "subtitle": "with crispy roasted quinoa",
+  "description": "A lettuce-free green salad with edamame and quinoa for plenty of protein. The quinoa is roasted until crunchy, like croutons.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-37431891f111e91027.htm",
+  "imageUrl": "https://img.mako.co.il/2026/05/10/IMG_4863_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "salad",
+    "quinoa",
+    "vegan",
+    "asian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "qty": 0.5,
+      "product": "cabbage"
+    },
+    {
+      "name": "Edamame",
+      "qty": 1,
+      "unit": "cup",
+      "product": "frozen-edamame"
+    },
+    {
+      "name": "Cucumbers",
+      "qty": 3,
+      "product": "cucumber"
+    },
+    {
+      "name": "Celery",
+      "qty": 2,
+      "product": "celery"
+    },
+    {
+      "name": "Coriander",
+      "product": "coriander"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 4,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "cup",
+      "product": "quinoa"
+    },
+    {
+      "name": "Sesame Oil",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "sesame-oil"
+    },
+    {
+      "name": "Soy Sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "soy-sauce",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C fan-forced."
+    },
+    {
+      "text": "Cook the quinoa in boiling water and drain. Spread it on a baking tray lined with baking paper, add the sesame oil and soy sauce and mix. Roast until the quinoa is golden and completely dry, like croutons (about 30 minutes)."
+    },
+    {
+      "text": "Mix all the dressing ingredients until smooth."
+    },
+    {
+      "text": "Put the chopped cabbage, edamame, sliced cucumbers, chopped celery, coriander and spring onions in a large salad bowl. Pour over the dressing, add the quinoa, toss and serve."
+    }
+  ]
+}

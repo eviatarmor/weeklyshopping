@@ -1,0 +1,79 @@
+{
+  "slug": "mk-vegan-tofu-shawarma",
+  "kind": "meal",
+  "title": "Vegan Tofu Shawarma",
+  "subtitle": "in a pita with tahini and salads",
+  "description": "Meat-free shawarma with golden crispy tofu, browned onion and plenty of seasoning, cooked in one pan and stuffed into a pita with tahini, salads and pickles.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-b162873308900a1026.htm",
+  "imageUrl": "https://img.mako.co.il/2026/08/16/tofuwarma_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "tofu",
+    "vegan",
+    "israeli",
+    "shawarma"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Firm Tofu",
+      "qty": 300,
+      "unit": "g",
+      "product": "tofu"
+    },
+    {
+      "name": "Onions",
+      "qty": 3,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    },
+    {
+      "name": "Pita",
+      "product": "pita-bread",
+      "optional": true
+    },
+    {
+      "name": "Tahini",
+      "product": "tahini",
+      "optional": true
+    },
+    {
+      "name": "Pickles",
+      "product": "pickles",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Slice the onions into strips and fry in a little oil until softened, translucent and lightly golden."
+    },
+    {
+      "text": "Meanwhile, drain the tofu, wrap it in a clean towel and press well to remove as much liquid as possible."
+    },
+    {
+      "text": "Cut the tofu into thin strips and add to the pan with the onion."
+    },
+    {
+      "text": "Fry the tofu, stirring gently so it doesn't break, until lightly golden and crisp."
+    },
+    {
+      "text": "Mix all the seasoning ingredients in a bowl until combined."
+    },
+    {
+      "text": "Pour the seasoning into the pan and stir gently so the tofu and onion are well coated."
+    },
+    {
+      "text": "Keep frying for a few more minutes, until the liquid reduces and the shawarma turns a deep, rich brown."
+    },
+    {
+      "text": "Serve in a pita, flatbread or on a plate with tahini, salads, pickles and any other toppings you like."
+    }
+  ]
+}

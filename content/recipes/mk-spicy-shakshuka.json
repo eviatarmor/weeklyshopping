@@ -1,0 +1,116 @@
+{
+  "slug": "mk-spicy-shakshuka",
+  "kind": "meal",
+  "title": "Spicy Shakshuka",
+  "subtitle": "with fresh chilli and tomatoes",
+  "description": "A fiery shakshuka with green chilli, red chilli and hot paprika, made with fresh tomatoes. Use capsicum instead of the red chillies for a milder version.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-2bee055378f5f91027.htm",
+  "imageUrl": "https://img.mako.co.il/2026/07/14/spicy_shaksuka1_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "shakshuka",
+    "eggs",
+    "israeli",
+    "spicy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "pantry": true
+    },
+    {
+      "name": "Long Green Chilli (Shushka)",
+      "qty": 1
+    },
+    {
+      "name": "Green Chillies",
+      "qty": 2,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Red Chillies",
+      "qty": 2,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 6,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 10,
+      "product": "tomato"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Hot Paprika",
+      "product": "sweet-paprika",
+      "optional": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 4,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "optional": true
+    },
+    {
+      "name": "Bread",
+      "product": "bread",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a wide frying pan."
+    },
+    {
+      "text": "Add the long green chilli, green chillies and red chillies and fry over medium heat for 4-5 minutes, until they start to soften."
+    },
+    {
+      "text": "Add the thinly sliced garlic and fry for another minute, just until fragrant."
+    },
+    {
+      "text": "Peel and dice the tomatoes. Add them with the sugar, stir well and cook over medium-high heat for 30-40 minutes, until the tomatoes break down into a thick sauce and most of the liquid has reduced. Stir occasionally so it doesn't burn."
+    },
+    {
+      "text": "Add the sweet paprika, hot paprika and salt, stir well and cook for another 3-5 minutes."
+    },
+    {
+      "text": "Make wells in the sauce and crack in the eggs. Cover the pan and cook to your liking."
+    },
+    {
+      "text": "Sprinkle with chopped parsley and serve immediately with fresh bread."
+    }
+  ]
+}

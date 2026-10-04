@@ -1,0 +1,120 @@
+{
+  "slug": "mk-easy-spinach-and-cheese-lasagne",
+  "kind": "meal",
+  "title": "Easy Spinach and Cheese Lasagne",
+  "subtitle": "with ricotta, cottage cheese and mozzarella",
+  "description": "Layers of lightly sauteed spinach and a simple cheese mixture between lasagne sheets, with only 5 minutes of assembly.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-47d054ddff52e91027.htm",
+  "imageUrl": "https://img.mako.co.il/2026/05/14/spinachlasagnayael_re_autoOrient_w.jpg",
+  "servings": 6,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "lasagne",
+    "pasta",
+    "baked",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Lasagne Sheets",
+      "qty": 1,
+      "unit": "packet",
+      "product": "lasagne-sheets"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Spinach",
+      "qty": 200,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 250,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 250,
+      "unit": "g",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 200,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Cooking Cream",
+      "qty": 1,
+      "product": "cooking-cream"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Heat a little olive oil in a frying pan. Saute the roughly chopped spinach until wilted. Add the crushed garlic and let it cool slightly."
+    },
+    {
+      "text": "In a large bowl, mix the ricotta, cottage cheese, cooking cream, eggs, half the mozzarella, half the parmesan and the spinach. Season with salt, pepper and nutmeg."
+    },
+    {
+      "text": "Spread a thin layer of the mixture on the base of a baking dish. Top with lasagne sheets, then a layer of the cheese and spinach mixture. Repeat until the filling is used up."
+    },
+    {
+      "text": "Sprinkle the remaining mozzarella and parmesan on top."
+    },
+    {
+      "text": "Cover with foil and bake for about 40 minutes. Remove the foil and bake for another 20 minutes, until nicely golden."
+    },
+    {
+      "text": "Let the lasagne rest for 10 minutes before cutting so it sets."
+    }
+  ]
+}
