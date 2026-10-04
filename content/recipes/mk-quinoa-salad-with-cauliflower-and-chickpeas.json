@@ -1,0 +1,66 @@
+{
+  "slug": "mk-quinoa-salad-with-cauliflower-and-chickpeas",
+  "kind": "meal",
+  "title": "Quinoa Salad with Cauliflower and Chickpeas",
+  "subtitle": "roasted chickpeas and cauliflower over quinoa",
+  "description": "A hearty salad of quinoa, roasted cauliflower and crisp roasted chickpeas, tossed in a vinaigrette. It is good served cold or warm.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-0f295bc433bbd81027.htm",
+  "imageUrl": "https://img.mako.co.il/2024/02/18/kinoa_humus_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 120,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "salad",
+    "quinoa",
+    "vegan",
+    "roasted"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "cup",
+      "product": "quinoa"
+    },
+    {
+      "name": "Frozen Chickpeas",
+      "qty": 1,
+      "unit": "packet",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the frozen chickpeas according to the packet instructions, drain and pat dry with a towel. Toss with the roasting seasoning mix until fully coated, spread on a baking tray lined with baking paper and bake for 40 minutes at 180°C. Let cool."
+    },
+    {
+      "text": "Break the cauliflower into small florets and clean them (soaking in water with 2 tablespoons of vinegar for 10 minutes, then rinsing well and drying, works well). Toss the florets with the seasoning mix and roast for 40 minutes at 200°C, turning halfway."
+    },
+    {
+      "text": "Rinse the quinoa very well, drain and cook with 1.5 cups of water for 13 minutes in a covered pot. Turn off the heat and leave covered for about 15 minutes. Spread on a tray to cool."
+    },
+    {
+      "text": "Assemble the salad: combine the quinoa and cauliflower in a bowl and scatter the roasted chickpeas on top. Mix the vinaigrette ingredients and pour over the salad. Sprinkle with parsley and thinly sliced red onion and serve, cold or warm."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "mk-stuffed-pasta-shells",
+  "kind": "meal",
+  "title": "Stuffed Pasta Shells",
+  "subtitle": "with a mushroom and tofu filling, baked in tomato sauce",
+  "description": "Large pasta shells filled with mushrooms, tofu and soy cheese, baked in a tomato sauce and topped with a vegan parmesan of nutritional yeast and breadcrumbs.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-3b06acf1c23cf81026.htm",
+  "imageUrl": "https://img.mako.co.il/2024/05/29/orly_yammi_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "pasta",
+    "baked",
+    "vegan",
+    "stuffed"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Large Pasta Shells",
+      "qty": 30
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Brown Onion",
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "product": "garlic"
+    },
+    {
+      "name": "Mushrooms",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Firm Tofu",
+      "product": "tofu"
+    },
+    {
+      "name": "Vegan Soy Cheese"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "product": "nutritional-yeast"
+    },
+    {
+      "name": "Breadcrumbs",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Thyme",
+      "product": "thyme",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Check how many shells fit in your baking dish and cook that many for about 90 percent of the time on the packet. Drain."
+    },
+    {
+      "text": "Make the filling: heat oil in a pan and fry the onion and garlic until lightly golden."
+    },
+    {
+      "text": "Add the mushrooms and fry, stirring, until all the liquid evaporates. Add the tofu and soy cheese, season and fry together for another 4-5 minutes. Taste and adjust the seasoning."
+    },
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Make the sauce: fry the onion in a little oil. Add the garlic and keep frying."
+    },
+    {
+      "text": "Add the tomatoes and spices and cook for a few minutes. Transfer the sauce to the baking dish."
+    },
+    {
+      "text": "Assemble: fill the shells with the filling, arrange them in the sauce and bake for 15-20 minutes."
+    },
+    {
+      "text": "Make the vegan parmesan by mixing the nutritional yeast and breadcrumbs. Remove the dish from the oven, sprinkle over the vegan parmesan and thyme leaves, and serve."
+    }
+  ]
+}

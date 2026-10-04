@@ -1,0 +1,86 @@
+{
+  "slug": "mk-spinach-and-feta-bread-bake",
+  "kind": "meal",
+  "title": "Spinach and Feta Bread Bake",
+  "subtitle": "savoury bread pudding with spinach and Bulgarian cheese",
+  "description": "A savoury bread pudding made from day-old sweet bread or croissants soaked in a spinach, egg and milk custard with feta, rested overnight and baked until golden.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-24314c6eb0d3291026.htm",
+  "imageUrl": "https://img.mako.co.il/2024/09/29/pashtidat_lehem_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 181,
+  "tags": [
+    "mako",
+    "baked",
+    "casserole",
+    "spinach",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Challah",
+      "qty": 0.5
+    },
+    {
+      "name": "Cooked Spinach",
+      "qty": 3,
+      "unit": "cup",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Eggs",
+      "qty": 4,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Milk",
+      "qty": 1,
+      "unit": "cup",
+      "product": "milk"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Nutmeg",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Feta",
+      "qty": 250,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the bread into thick slices (cut croissants lengthwise). Arrange tightly in an ovenproof dish with the inner side facing up."
+    },
+    {
+      "text": "Mix the spinach, eggs, milk, salt, pepper and nutmeg and pour over the bread. Crumble the feta on top. Cover with cling wrap and refrigerate for at least 6 hours."
+    },
+    {
+      "text": "Before serving, preheat the oven to 180°C and bake for 45 minutes until the cheese is golden. A few minutes before the end of baking, sprinkle over a little parmesan."
+    }
+  ]
+}

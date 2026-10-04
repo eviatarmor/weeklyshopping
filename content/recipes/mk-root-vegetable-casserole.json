@@ -1,0 +1,132 @@
+{
+  "slug": "mk-root-vegetable-casserole",
+  "kind": "meal",
+  "title": "Root Vegetable Casserole",
+  "subtitle": "with chestnuts, mushrooms and a balsamic glaze",
+  "description": "Carrots, beetroot, kohlrabi, shallots, mushrooms and chestnuts slowly braised with sage, cardamom, balsamic vinegar and pomegranate molasses.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-c9df9a75bf78491026.htm",
+  "imageUrl": "https://img.mako.co.il/2022/12/01/esrvtvrubh_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "stew",
+    "root vegetables",
+    "vegan",
+    "winter"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sage",
+      "qty": 5,
+      "unit": "slice",
+      "product": "sage"
+    },
+    {
+      "name": "Bay Leaves",
+      "qty": 3,
+      "product": "bay-leaves"
+    },
+    {
+      "name": "Cardamom Pods",
+      "qty": 8
+    },
+    {
+      "name": "Carrots",
+      "qty": 4,
+      "product": "carrot"
+    },
+    {
+      "name": "Beetroot",
+      "qty": 3,
+      "product": "beetroot"
+    },
+    {
+      "name": "Kohlrabi",
+      "qty": 3
+    },
+    {
+      "name": "Eschalots",
+      "qty": 8,
+      "product": "eschalot"
+    },
+    {
+      "name": "Garlic",
+      "qty": 6,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 12,
+      "product": "mushrooms"
+    },
+    {
+      "name": "Peeled Chestnuts",
+      "qty": 1,
+      "unit": "packet"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar"
+    },
+    {
+      "name": "Honey",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Halve the carrots lengthwise, then cut crosswise into 3-4 cm pieces."
+    },
+    {
+      "text": "Cut the beetroot and kohlrabi lengthwise into eight wedges each."
+    },
+    {
+      "text": "Heat a wide pot and add the oil. Add all the vegetables, the cardamom, bay leaves and sage, salt and pepper, and fry, stirring, for about 3 minutes."
+    },
+    {
+      "text": "Add the remaining ingredients, stir well and bring to the boil."
+    },
+    {
+      "text": "Cover and cook over low heat for about 1 hour, stirring occasionally."
+    }
+  ]
+}

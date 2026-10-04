@@ -1,0 +1,82 @@
+{
+  "slug": "mk-eggplant-schnitzel-in-tomato-sauce",
+  "kind": "meal",
+  "title": "Eggplant Schnitzel in Tomato Sauce",
+  "subtitle": "roasted, crumbed and pan-fried, with parmesan and basil",
+  "description": "Whole eggplants are roasted, peeled, then crumbed like a schnitzel and fried until golden, and served over a quick garlicky tomato sauce.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-cee62070cb51391027.htm",
+  "imageUrl": "https://img.mako.co.il/2024/11/10/EggplantSchnitzel_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "mako",
+    "eggplant",
+    "schnitzel",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "qty": 2,
+      "product": "eggplant"
+    },
+    {
+      "name": "Plain Flour",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Breadcrumbs",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Vegetable Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomato Passata",
+      "product": "tomato-passata"
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan"
+    },
+    {
+      "name": "Basil",
+      "product": "basil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C. Prick the eggplants with a fork and place on a tray lined with baking paper. Roast for 45 minutes, turning every quarter of an hour so they cook evenly. Let cool slightly."
+    },
+    {
+      "text": "Gently peel the eggplants with a knife."
+    },
+    {
+      "text": "Dip each eggplant in flour, then egg and finally breadcrumbs, as for a schnitzel."
+    },
+    {
+      "text": "Heat oil in a deep pan. Fry the eggplants on both sides until golden and drain on a rack."
+    },
+    {
+      "text": "Make the sauce: fry the garlic for a few seconds and add the remaining sauce ingredients in order. Cook together, stirring, for 4 minutes. Taste and adjust the seasoning."
+    },
+    {
+      "text": "To serve: put a few spoonfuls of sauce on a serving plate and top with a fried eggplant. Grate over parmesan and scatter with fresh basil."
+    }
+  ]
+}

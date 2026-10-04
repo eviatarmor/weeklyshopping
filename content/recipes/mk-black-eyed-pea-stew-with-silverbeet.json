@@ -1,0 +1,96 @@
+{
+  "slug": "mk-black-eyed-pea-stew-with-silverbeet",
+  "kind": "meal",
+  "title": "Black-Eyed Pea Stew with Silverbeet",
+  "subtitle": "a Rosh Hashanah favourite, with honey and pomegranate",
+  "description": "A stew of dried and fresh black-eyed peas, golden onion and silverbeet, lightly sweetened with honey and scattered with pomegranate seeds.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-40c00731470c281026.htm",
+  "imageUrl": "https://img.mako.co.il/2022/08/21/LUBIA_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 181,
+  "tags": [
+    "mako",
+    "stew",
+    "black-eyed peas",
+    "israeli",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Black-Eyed Peas",
+      "qty": 250,
+      "unit": "g",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "White Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Black-Eyed Peas",
+      "qty": 6,
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Silverbeet",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "silverbeet"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the dried black-eyed peas overnight in water, then cook them in plenty of boiling water for about 30 minutes, until tender. Drain."
+    },
+    {
+      "text": "Finely chop the onion and fry in a deep pan with olive oil until golden. Add the roughly chopped fresh black-eyed peas and fry for 1-2 minutes."
+    },
+    {
+      "text": "Add half a cup of boiling water and cook for about 5 minutes."
+    },
+    {
+      "text": "Add the chopped silverbeet and the seasonings, mix and cook for about 3 minutes."
+    },
+    {
+      "text": "Turn off the heat, add the cooked dried black-eyed peas and the honey, and transfer to a plate."
+    },
+    {
+      "text": "Garnish with pomegranate seeds and serve."
+    }
+  ]
+}

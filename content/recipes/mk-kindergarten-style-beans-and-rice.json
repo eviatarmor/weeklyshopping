@@ -1,0 +1,116 @@
+{
+  "slug": "mk-kindergarten-style-beans-and-rice",
+  "kind": "meal",
+  "title": "Kindergarten-Style Beans and Rice",
+  "subtitle": "slow-cooked white beans in tomato with vermicelli rice",
+  "description": "Tender white beans stewed in a paprika and tomato base, served with rice cooked with toasted vermicelli noodles.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-9782d26188ef091027.htm",
+  "imageUrl": "https://img.mako.co.il/2024/03/24/shuitVeOrez_autoOrient_w.jpg",
+  "servings": 8,
+  "prepMinutes": 181,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "beans",
+    "stew",
+    "israeli",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried White Beans",
+      "qty": 300,
+      "unit": "g",
+      "product": "cannellini-beans"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White Onion",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Sugar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "white-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Bay Leaves",
+      "qty": 2,
+      "product": "bay-leaves"
+    },
+    {
+      "name": "Salt",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "White Rice",
+      "product": "white-rice"
+    },
+    {
+      "name": "Vermicelli Noodles",
+      "product": "rice-noodles"
+    },
+    {
+      "name": "Water",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a wide, shallow pot. Add the onion and garlic and fry for 3-4 minutes until the onion softens."
+    },
+    {
+      "text": "Drain the beans (soaked for at least 12 hours in plenty of water) and add them to the pot. Add the paprika, tomato paste, sugar, bay leaves, salt and pepper and fry, stirring, for 2-3 minutes. Add water to about 3 cm above the beans and bring to the boil."
+    },
+    {
+      "text": "Cover the pot, lower the heat and cook for 1.5 to 2 hours until the beans are very soft (you can also cook them in a 120°C oven)."
+    },
+    {
+      "text": "Make the rice with noodles: heat oil in a small pot, add the vermicelli and fry for 3-4 minutes, stirring, until golden."
+    },
+    {
+      "text": "Add the rice and fry for another 2-3 minutes. Add salt and pour in boiling water. Stir and bring to the boil again. Lower the heat, check the salt, cover and cook for 20 minutes."
+    },
+    {
+      "text": "Turn off the heat and leave the pot covered for about 5 more minutes. Serve the rice with the beans in deep bowls."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "mk-su-borek-with-cheese-filling",
+  "kind": "meal",
+  "title": "Su Borek with Cheese Filling",
+  "subtitle": "layered filo and cheese baked in an egg custard",
+  "description": "Layers of filo dipped in an egg, oil and butter batter and filled with a mix of cheeses, cut into squares and baked until golden.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-b54521e943d9d81027.htm",
+  "imageUrl": "https://img.mako.co.il/2024/02/12/su_borek_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "mako",
+    "baked",
+    "filo",
+    "cheese",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Filo Pastry",
+      "qty": 1,
+      "unit": "packet",
+      "product": "filo-pastry"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Mixed Cheeses"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Seeds",
+      "product": "sesame-seeds",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Thaw the filo sheets in the fridge according to the packet instructions."
+    },
+    {
+      "text": "Preheat the oven to 180°C (conventional, no fan)."
+    },
+    {
+      "text": "Beat the eggs well in a bowl. Add the water, oil, melted butter, salt and pepper and whisk to a uniform batter."
+    },
+    {
+      "text": "In a separate bowl, mix all the cheeses."
+    },
+    {
+      "text": "Grease a baking dish with a little olive oil and line it with 2 sheets of filo, pressing them into the edges."
+    },
+    {
+      "text": "Dip 2 filo sheets in the egg batter and lay them in the dish. Scatter a third of the cheese mixture over the pastry and cover with another sheet."
+    },
+    {
+      "text": "Dip 2 more sheets in the batter, place them in the dish, sprinkle over another third of the cheese, add another sheet and repeat for a third and final layer."
+    },
+    {
+      "text": "Press the layers down firmly, cut into squares with a sharp knife and pour the remaining batter over the top."
+    },
+    {
+      "text": "Sprinkle with sesame seeds and bake for about 45 minutes, or until golden."
+    }
+  ]
+}

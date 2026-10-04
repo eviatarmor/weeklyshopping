@@ -1,0 +1,107 @@
+{
+  "slug": "mk-falafel-arayes",
+  "kind": "meal",
+  "title": "Falafel Arayes",
+  "subtitle": "falafel-stuffed pita, grilled until crisp",
+  "description": "Pita pockets stuffed with a raw falafel mix of chickpeas, herbs and spices, then pressed in a sandwich press until charred and crisp. A single-serve recipe.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-035f5ca4976e191027.htm",
+  "imageUrl": "https://img.mako.co.il/2024/09/12/AraisFalafel_re_autoOrient_w.jpg",
+  "servings": 1,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "falafel",
+    "israeli",
+    "vegan",
+    "pita"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Chickpeas",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Brown Onion",
+      "qty": 0.5,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.25,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.25,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Pita Bread",
+      "product": "pita-bread"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the falafel mix: soak the chickpeas, then place them in a food processor with the onion, coriander, parsley, garlic, salt, pepper, ground coriander, cumin and baking powder. Process to a uniform mixture."
+    },
+    {
+      "text": "Preheat a sandwich press."
+    },
+    {
+      "text": "Cut the pitas in half crosswise to make two pockets, and fill each pocket with the falafel mix. Do not overfill, so the mix does not escape while grilling."
+    },
+    {
+      "text": "Brush the filled pitas with olive oil on both sides, place in the sandwich press and close. Grill for 10-12 minutes until charred."
+    }
+  ]
+}
