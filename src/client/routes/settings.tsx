@@ -7,7 +7,7 @@ import { useCatalog } from "@/client/features/list/use-list";
 import { MeasureToggle } from "@/client/features/recipes/quantity";
 import { EnergyToggle } from "@/client/features/recipes/energy";
 import { useEnergyUnit, useMeasureSystem } from "@/client/lib/preferences";
-import { useTRPC } from "@/client/lib/trpc";
+import { dropServiceWorker, useTRPC } from "@/client/lib/trpc";
 import { cn } from "@/client/lib/utils";
 
 export const Route = createFileRoute("/settings")({ component: SettingsPage });
@@ -18,6 +18,8 @@ export const Route = createFileRoute("/settings")({ component: SettingsPage });
  * to sign in again.
  */
 async function signOut(teamDomain: string | undefined) {
+  // Without the service worker, the next visit loads from the network and lands on the Access login.
+  await dropServiceWorker();
   try {
     await fetch("/cdn-cgi/access/logout", { credentials: "same-origin", redirect: "manual" });
   } catch {

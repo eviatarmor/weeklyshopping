@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { createFileRoute } from "@tanstack/react-router";
-import { ChevronDown, ShoppingBasket } from "lucide-react";
+import { ChevronDown, CloudOff, ShoppingBasket } from "lucide-react";
 import { normalizeName } from "@/shared/normalize";
 import type { ListItem } from "@/shared/types";
 import { PageHeader } from "@/client/components/page-header";
@@ -11,12 +11,13 @@ import { EditItemDrawer } from "@/client/features/list/edit-item-drawer";
 import { ItemRow } from "@/client/features/list/item-row";
 import { useCatalog, useListActions, useListItems } from "@/client/features/list/use-list";
 import { useRecipeIndex } from "@/client/lib/static-data";
+import { dropServiceWorker } from "@/client/lib/trpc";
 import { cn } from "@/client/lib/utils";
 
 export const Route = createFileRoute("/")({ component: ListPage });
 
 function ListPage() {
-  const { data: items, isPending } = useListItems();
+  const { data: items, isPending, isError, error, refetch, isFetching } = useListItems();
   const catalog = useCatalog();
   const recipes = useRecipeIndex();
   const actions = useListActions();
@@ -71,6 +72,19 @@ function ListPage() {
           {Array.from({ length: 6 }, (_, i) => (
             <Skeleton key={i} className="h-12" />
           ))}
+        </div>
+      ) : isError && !items ? (
+        <div className="flex flex-col items-center gap-3 px-8 pt-20 text-center text-muted-foreground">
+          <CloudOff className="size-14 stroke-1" />
+          <p className="font-medium text-foreground">Couldn't load the list</p>
+          <p className="text-sm">{error.message || "Check your connection, or sign in again."}</p>
+          <div className="flex gap-2">
+            <Button variant="outline" disabled={isFetching} onClick={() => void refetch()}>
+              Try again
+            </Button>
+            {/* A full page load reaches Cloudflare Access, which asks for sign-in if the session ended. */}
+            <Button onClick={() => void dropServiceWorker().finally(() => window.location.reload())}>Sign in again</Button>
+          </div>
         </div>
       ) : items?.length === 0 ? (
         <div className="flex flex-col items-center gap-3 px-8 pt-20 text-center text-muted-foreground">

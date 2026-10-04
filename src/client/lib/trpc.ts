@@ -20,7 +20,17 @@ function sessionExpired() {
   const last = Number(sessionStorage.getItem(RELOAD_KEY) ?? 0);
   if (Date.now() - last < 15_000) return;
   sessionStorage.setItem(RELOAD_KEY, String(Date.now()));
-  window.location.reload();
+  void dropServiceWorker().finally(() => window.location.reload());
+}
+
+/** Unregister the service worker so the next page load is guaranteed to reach Access. */
+export async function dropServiceWorker() {
+  try {
+    const registrations = (await navigator.serviceWorker?.getRegistrations()) ?? [];
+    await Promise.all(registrations.map((r) => r.unregister()));
+  } catch {
+    // Not supported or already gone.
+  }
 }
 
 const authAwareFetch: typeof fetch = async (input, init) => {

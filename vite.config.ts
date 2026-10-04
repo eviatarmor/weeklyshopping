@@ -57,9 +57,12 @@ export default defineConfig({
         skipWaiting: true,
         clientsClaim: true,
         cleanupOutdatedCaches: true,
-        navigateFallback: "/index.html",
-        // API traffic must always hit the network (and Access).
-        navigateFallbackDenylist: [/^\/trpc/, /^\/cdn-cgi/, /^\/data\//],
+        // Page loads always go to the network so Cloudflare Access can check the session
+        // (and show the login page when it has expired). Serving a cached shell here
+        // left signed-out users stuck on an empty app.
+        navigateFallback: null,
+        // One file, so the Access bypass for sw.js covers the whole worker.
+        inlineWorkboxRuntime: true,
         runtimeCaching: [
           {
             // Static recipe data (/data/*.json): show the cached copy instantly, refresh in the background.
