@@ -5,6 +5,7 @@ import { Button } from "@/client/components/ui/button";
 import { Drawer, DrawerContent, DrawerDescription, DrawerFooter, DrawerHeader, DrawerTitle } from "@/client/components/ui/drawer";
 import { Input } from "@/client/components/ui/input";
 import { cn } from "@/client/lib/utils";
+import { PriceComparisonPanel } from "./prices";
 import { useCatalog, useListActions } from "./use-list";
 
 export function EditItemDrawer({ item, onClose }: { item: ListItem | null; onClose: () => void }) {
@@ -62,6 +63,12 @@ export function EditItemDrawer({ item, onClose }: { item: ListItem | null; onClo
             <Input value={unit} onChange={(e) => setUnit(e.target.value)} placeholder="unit (g, ml, pack…)" className="flex-1" aria-label="Unit" />
           </div>
           <Input value={note} onChange={(e) => setNote(e.target.value)} placeholder="Note (brand, size…)" aria-label="Note" />
+          {!item.checked && (
+            <div>
+              <p className="mb-2 text-sm font-medium text-muted-foreground">Prices (vegetarian matches)</p>
+              <PriceComparisonPanel name={item.name} />
+            </div>
+          )}
           <div>
             <p className="mb-2 text-sm font-medium text-muted-foreground">Section</p>
             <div className="flex flex-wrap gap-2">

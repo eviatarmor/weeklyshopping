@@ -181,3 +181,17 @@ export const pushSubscriptions = sqliteTable("push_subscriptions", {
   userEmail: text("user_email").notNull(),
   createdAt: integer("created_at").notNull().default(now),
 });
+
+/** Supermarket price comparisons per list item name, refreshed daily. */
+export const priceCache = sqliteTable("price_cache", {
+  term: text("term").primaryKey(),
+  data: text("data", { mode: "json" }).$type<import("@/shared/grocery").PriceComparison>().notNull(),
+  fetchedAt: integer("fetched_at").notNull(),
+});
+
+/** Whether a store product passed the vegetarian ingredient check (ingredients rarely change). */
+export const productVegetarian = sqliteTable("product_vegetarian", {
+  key: text("key").primaryKey(),
+  vegetarian: integer("vegetarian", { mode: "boolean" }).notNull(),
+  checkedAt: integer("checked_at").notNull(),
+});

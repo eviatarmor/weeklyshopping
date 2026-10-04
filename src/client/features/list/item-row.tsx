@@ -3,6 +3,7 @@ import type { ListItem } from "@/shared/types";
 import { CheckCircle, Thumb } from "@/client/components/ui/misc";
 import { emojiFor, sizedImage } from "@/client/lib/images";
 import { cn } from "@/client/lib/utils";
+import { PriceTag } from "./prices";
 
 export function ItemRow({
   item,
@@ -33,6 +34,7 @@ export function ItemRow({
         </span>
         {qty && <span className="shrink-0 text-sm font-medium text-muted-foreground tabular-nums">{qty}</span>}
       </button>
+      {!item.checked && <PriceTag name={item.name} />}
     </li>
   );
 }

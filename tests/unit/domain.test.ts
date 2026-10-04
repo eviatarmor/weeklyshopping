@@ -2,6 +2,8 @@ import { describe, expect, it } from "vitest";
 import { buildProductIndex, classify } from "@/shared/classify";
 import { blendTree, expandIngredients, expandRecipes, type BlendRecipe, type IngredientRow } from "@/shared/expand";
 import { equipmentFor } from "@/shared/equipment";
+import { isVegetarianProduct } from "@/shared/grocery";
+import { parseUnitPrice } from "@/server/grocers";
 import { searchMatcher } from "@/shared/search";
 import { formatCountdown, stepTimers } from "@/shared/timers";
 import { base64UrlToBytes, bytesToBase64Url, encryptPayload } from "@/server/web-push";
@@ -329,5 +331,22 @@ describe("equipment", () => {
       ]),
     ).toEqual(["Frying pan", "Saucepan", "Stick blender", "Colander or sieve"]);
     expect(equipmentFor([{ text: "Cook the rice in a pressure cooker with the lid on." }])).toEqual(["Pressure cooker", "Lid"]);
+  });
+});
+
+describe("grocery prices", () => {
+  it("checks products are vegetarian, ignoring allergen advice", () => {
+    expect(isVegetarianProduct("Passata 700g", "Tomatoes (99%), salt. May contain traces of fish.")).toBe(true);
+    expect(isVegetarianProduct("Parmesan 100g", "Pasteurised Milk, Salt, Starter Culture (Milk), Animal Rennet.")).toBe(false);
+    expect(isVegetarianProduct("Parmesan 250g", "Cheese milk, salt, cultures (milk), enzyme (non-animal rennet)")).toBe(true);
+    expect(isVegetarianProduct("Gummy Bears", "Glucose Syrup, Sugar, Gelatine, Colour (120)")).toBe(false);
+    expect(isVegetarianProduct("Chicken Stock 1L", null)).toBe(false);
+    expect(isVegetarianProduct("Massel Chicken Style Liquid Stock", "Water, salt, chicken style flavour (vegetable)")).toBe(true);
+  });
+  it("normalises unit prices", () => {
+    expect(parseUnitPrice("$0.29 / 100G")).toEqual({ unitPrice: 2.9, unitBasis: "kg" });
+    expect(parseUnitPrice("$2.50/ 1kg")).toEqual({ unitPrice: 2.5, unitBasis: "kg" });
+    expect(parseUnitPrice("$0.63 / 1EA")).toEqual({ unitPrice: 0.63, unitBasis: "each" });
+    expect(parseUnitPrice("$1.20/100ml")?.unitBasis).toBe("l");
   });
 });

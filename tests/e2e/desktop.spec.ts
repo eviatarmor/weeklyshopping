@@ -5,6 +5,10 @@ test.use({ viewport: { width: 1440, height: 900 }, isMobile: false, hasTouch: fa
 
 test("desktop layout: top navbar, recipe page and side panel", async ({ page, context, baseURL }) => {
   await context.addCookies([{ name: "dev_user", value: "alex@dev.local", url: baseURL! }]);
+  // Never call the real supermarkets from tests.
+  await context.route("**/trpc/prices.compare**", (route) =>
+    route.fulfill({ json: { result: { data: { json: { cheapest: null, bestValue: null, offers: [], fetchedAt: 0 } } } } }),
+  );
   await page.goto("/");
   await expect(page.getByRole("heading", { name: "Shopping" })).toBeVisible();
 

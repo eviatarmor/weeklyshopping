@@ -3,6 +3,10 @@ import { expect, test, type Browser, type Page } from "@playwright/test";
 /** Each dev user gets its own browser context, like two phones. */
 async function openAs(browser: Browser, email: string, baseURL: string): Promise<Page> {
   const context = await browser.newContext();
+  // Never call the real supermarkets from tests.
+  await context.route("**/trpc/prices.compare**", (route) =>
+    route.fulfill({ json: { result: { data: { json: { cheapest: null, bestValue: null, offers: [], fetchedAt: 0 } } } } }),
+  );
   await context.addCookies([{ name: "dev_user", value: email, url: baseURL }]);
   const page = await context.newPage();
   await page.goto("/");

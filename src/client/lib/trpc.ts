@@ -1,5 +1,5 @@
 import { QueryClient } from "@tanstack/react-query";
-import { createTRPCClient, httpBatchLink, httpSubscriptionLink, splitLink } from "@trpc/client";
+import { createTRPCClient, httpBatchLink, httpLink, httpSubscriptionLink, splitLink } from "@trpc/client";
 import { createTRPCContext } from "@trpc/tanstack-react-query";
 import superjson from "superjson";
 import type { inferRouterOutputs } from "@trpc/server";
@@ -52,7 +52,13 @@ export const trpcClient = createTRPCClient<AppRouter>({
     splitLink({
       condition: (op) => op.type === "subscription",
       true: httpSubscriptionLink({ url: "/trpc", transformer: superjson }),
-      false: httpBatchLink({ url: "/trpc", transformer: superjson, fetch: authAwareFetch }),
+      false: splitLink({
+        // Price look-ups call the supermarkets: one HTTP request each, so a batch never runs into
+        // Cloudflare's per-request limit on outgoing calls.
+        condition: (op) => op.path === "prices.compare",
+        true: httpLink({ url: "/trpc", transformer: superjson, fetch: authAwareFetch }),
+        false: httpBatchLink({ url: "/trpc", transformer: superjson, fetch: authAwareFetch }),
+      }),
     }),
   ],
 });
