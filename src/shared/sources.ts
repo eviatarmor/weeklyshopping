@@ -5,9 +5,7 @@ const SOURCES: [RegExp, RecipeSource][] = [
   [/everyplate\./, { id: "everyplate", label: "EveryPlate" }],
   [/mealime\.com/, { id: "mealime", label: "Mealime" }],
   [/dinnerly\./, { id: "dinnerly", label: "Dinnerly" }],
-  [/reddit\.com/, { id: "reddit", label: "r/hellofresh" }],
-  [/mako\.co\.il/, { id: "mako", label: "Mako" }],
-];
+  [/reddit\.com/, { id: "reddit", label: "r/hellofresh" }],];
 
 /** Where a recipe came from, for badges and filtering. */
 export function recipeSource(sourceUrl: string | null | undefined): RecipeSource {
