@@ -26,12 +26,22 @@ function collectBlends(store: ContentStore, rows: IngredientRow[]): Record<strin
   return blends;
 }
 
+/** Read user data, but never let a storage error hide the recipes themselves. */
+function safeRead<T>(read: () => T[]): T[] {
+  try {
+    return read();
+  } catch (error) {
+    console.error("user data read failed", error);
+    return [];
+  }
+}
+
 /** Card data for recipe lists: ratings and cooked history grouped per recipe. */
 function summaries(db: DB, userEmail: string, list: StoreRecipe[]) {
   const ratingsBySlug = new Map<string, (typeof recipeRatings.$inferSelect)[]>();
-  for (const r of db.select().from(recipeRatings).all()) ratingsBySlug.set(r.recipeSlug, [...(ratingsBySlug.get(r.recipeSlug) ?? []), r]);
+  for (const r of safeRead(() => db.select().from(recipeRatings).all())) ratingsBySlug.set(r.recipeSlug, [...(ratingsBySlug.get(r.recipeSlug) ?? []), r]);
   const cookedBySlug = new Map<string, number[]>();
-  for (const c of db.select().from(recipeCooked).all()) cookedBySlug.set(c.recipeSlug, [...(cookedBySlug.get(c.recipeSlug) ?? []), c.cookedAt]);
+  for (const c of safeRead(() => db.select().from(recipeCooked).all())) cookedBySlug.set(c.recipeSlug, [...(cookedBySlug.get(c.recipeSlug) ?? []), c.cookedAt]);
   return list.map((r) => {
     const ratings = ratingsBySlug.get(r.slug) ?? [];
     const cookedTimes = cookedBySlug.get(r.slug) ?? [];

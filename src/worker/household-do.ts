@@ -1,5 +1,4 @@
 import { DurableObject } from "cloudflare:workers";
-import { eq } from "drizzle-orm";
 import { fetchRequestHandler } from "@trpc/server/adapters/fetch";
 import { drizzle, type DrizzleSqliteDODatabase } from "drizzle-orm/durable-sqlite";
 import { migrate } from "drizzle-orm/durable-sqlite/migrator";
@@ -17,7 +16,6 @@ export class HouseholdDO extends DurableObject<Env> {
   private db: DrizzleSqliteDODatabase<typeof schema>;
   private bus = new EventBus();
   private store!: ContentStore;
-  private knownUsers = new Set<string>();
 
   constructor(ctx: DurableObjectState, env: Env) {
     super(ctx, env);
@@ -39,23 +37,6 @@ export class HouseholdDO extends DurableObject<Env> {
   override async fetch(request: Request): Promise<Response> {
     const raw = request.headers.get(IDENTITY_HEADER);
     const identity = raw ? (JSON.parse(decodeURIComponent(raw)) as Identity) : null;
-    if (identity && !this.knownUsers.has(identity.user.email)) {
-      // Record the user once; never let this bookkeeping write block a request
-      // (e.g. when the daily write limit is reached, reads must keep working).
-      try {
-        const existing = this.db.select().from(schema.users).where(eq(schema.users.email, identity.user.email)).get();
-        if (!existing || existing.displayName !== identity.user.name) {
-          this.db
-            .insert(schema.users)
-            .values({ email: identity.user.email, displayName: identity.user.name })
-            .onConflictDoUpdate({ target: schema.users.email, set: { displayName: identity.user.name } })
-            .run();
-        }
-        this.knownUsers.add(identity.user.email);
-      } catch (error) {
-        console.error("could not record user", error);
-      }
-    }
 
     return fetchRequestHandler({
       endpoint: "/trpc",
