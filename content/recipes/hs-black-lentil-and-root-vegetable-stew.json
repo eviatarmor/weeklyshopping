@@ -1,0 +1,121 @@
+{
+  "slug": "hs-black-lentil-and-root-vegetable-stew",
+  "kind": "meal",
+  "title": "Black Lentil and Root Vegetable Stew",
+  "subtitle": "with spinach, ginger and cardamom",
+  "description": "A warming stew of black lentils with spinach, ginger, chilli and cardamom, finished with thin slices of kohlrabi and root vegetables.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%a9%d7%97%d7%95%d7%a8%d7%95%d7%aa-%d7%95%d7%99%d7%a8%d7%a7%d7%95%d7%aa-%d7%a9%d7%95%d7%a8%d7%a9/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/Rinat_Tzadok_003.jpg-1140x641-1542992867.png",
+  "servings": 6,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stew",
+    "lentils",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Black Lentils",
+      "qty": 400,
+      "unit": "g",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 6,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Fresh Ginger",
+      "qty": 3,
+      "unit": "slice",
+      "product": "ginger"
+    },
+    {
+      "name": "Celery",
+      "qty": 2,
+      "product": "celery"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Spinach",
+      "qty": 250,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cardamom",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "ground-cardamom"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 1,
+      "unit": "l",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Kohlrabi",
+      "qty": 1
+    },
+    {
+      "name": "Parsley Root",
+      "qty": 1
+    },
+    {
+      "name": "Celeriac",
+      "qty": 1
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel and clean the root vegetables. Using a mandoline (or a knife), slice them thinly to about 0.25 cm."
+    },
+    {
+      "text": "Bring a pot of water to the boil. Add the soaked lentils and cook for 8 to 10 minutes. Drain and set aside."
+    },
+    {
+      "text": "In a wide, shallow pot, lightly fry the chopped onion until golden and translucent. Add the garlic, celery stalks cut into sticks, chilli, ginger slices, black pepper and cardamom and stir for about 1 minute. Add the lentils and 1 litre of boiling water and stir. Cook over medium heat for 10 minutes. Add the spinach and the salt and stir."
+    },
+    {
+      "text": "Five minutes before serving, add the sliced root vegetables."
+    }
+  ]
+}

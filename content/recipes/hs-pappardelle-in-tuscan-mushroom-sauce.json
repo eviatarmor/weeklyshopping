@@ -1,0 +1,93 @@
+{
+  "slug": "hs-pappardelle-in-tuscan-mushroom-sauce",
+  "kind": "meal",
+  "title": "Pappardelle in Tuscan Mushroom Sauce",
+  "subtitle": "a lighter mushroom sauce",
+  "description": "Pappardelle in a Tuscan-style sauce of fresh and dried porcini mushrooms, thyme and garlic, partly blended for a rich sauce that is relatively light.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a4%d7%a8%d7%93%d7%9c%d7%94-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%98%d7%95%d7%a1%d7%a7%d7%a0%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/mushroom2-1140x641-1590475384.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "mushroom",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pappardelle",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Dried Porcini Mushrooms",
+      "qty": 20,
+      "unit": "g",
+      "product": "dried-porcini-mushrooms"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Mixed Mushrooms",
+      "qty": 2,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Thyme",
+      "qty": 3,
+      "product": "thyme"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 100,
+      "unit": "g",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the dried porcini in 2/3 cup boiling water for 30 minutes. Strain and keep the liquid."
+    },
+    {
+      "text": "Heat the olive oil in a deep frying pan and fry the sliced garlic until fragrant. Add the fresh and dried mushrooms, thyme leaves, salt and pepper and saute for 2-3 minutes."
+    },
+    {
+      "text": "Add the soaking liquid, reduce the heat, cover and cook for 10-15 minutes until the mushrooms are completely soft."
+    },
+    {
+      "text": "Meanwhile, cook the pasta in a large pot of boiling salted water until al dente."
+    },
+    {
+      "text": "Transfer half of the sauce to a food processor, add 1/2 cup of the pasta cooking water and blend to a slightly coarse texture."
+    },
+    {
+      "text": "Return the blended sauce to the pan and mix with the rest of the sauce. Taste and adjust the seasoning. Add the cooked pasta and the parmesan, stir for a minute and serve."
+    }
+  ]
+}

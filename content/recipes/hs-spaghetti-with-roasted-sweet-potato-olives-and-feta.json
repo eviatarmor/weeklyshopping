@@ -1,0 +1,106 @@
+{
+  "slug": "hs-spaghetti-with-roasted-sweet-potato-olives-and-feta",
+  "kind": "meal",
+  "title": "Spaghetti with Roasted Sweet Potato, Olives and Feta",
+  "subtitle": "with rocket",
+  "description": "Spaghetti tossed with roasted sweet potato, kalamata olives, garlic and sun-dried tomato paste, topped with crumbled Bulgarian cheese and rocket.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%a4%d7%92%d7%98%d7%99-%d7%91%d7%98%d7%98%d7%95%d7%aa-%d7%a6%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%96%d7%99%d7%aa%d7%99%d7%9d-%d7%95%d7%91%d7%95%d7%9c%d7%92%d7%a8%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/05/DSC05732-1140x641-1557669231.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "sweet potato",
+    "vegetarian",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "qty": 200,
+      "unit": "g",
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Thyme",
+      "qty": 1,
+      "product": "thyme"
+    },
+    {
+      "name": "Kalamata Olives",
+      "qty": 30,
+      "unit": "g",
+      "product": "olives"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Spaghetti",
+      "qty": 500,
+      "unit": "g",
+      "product": "spaghetti"
+    },
+    {
+      "name": "Sun-Dried Tomato Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dried Chilli Flakes",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Feta",
+      "qty": 100,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Rocket",
+      "product": "rocket",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 250°C. Spread the diced sweet potato on a tray lined with baking paper and roast for 10-12 minutes until tender. Drizzle with 1 tbsp olive oil and the thyme."
+    },
+    {
+      "text": "Cook the spaghetti according to the packet instructions, keeping a little of the cooking water for the sauce."
+    },
+    {
+      "text": "Heat the remaining olive oil in a frying pan, add the garlic, halved olives and roasted sweet potato and fry lightly."
+    },
+    {
+      "text": "Add the pasta with a little of the cooking water to the pan. Stir, season with the sun-dried tomato paste, salt, pepper and chilli flakes and sprinkle the crumbled cheese on top."
+    },
+    {
+      "text": "Serve in bowls and garnish with a few rocket leaves."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "hs-sabich-salad",
+  "kind": "meal",
+  "title": "Sabich Salad",
+  "subtitle": "eggplant, tahini and egg",
+  "description": "A deconstructed sabich: roasted eggplant, cherry tomatoes, boiled egg and red onion arranged over a bed of tahini with chilli oil and parsley.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%a1%d7%91%d7%99%d7%97-2/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/סלט-סביח-e1555916956897-1140x641.jpg",
+  "servings": 2,
+  "prepMinutes": 35,
+  "tags": [
+    "hashulchan",
+    "salad",
+    "eggplant",
+    "israeli",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Tahini",
+      "qty": 100,
+      "unit": "g",
+      "product": "tahini"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 4,
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Hard-Boiled Egg",
+      "qty": 1,
+      "product": "eggs"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion"
+    },
+    {
+      "name": "Chilli Oil",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Parsley Stalks",
+      "qty": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Green Chilli",
+      "product": "green-chilli",
+      "optional": true
+    },
+    {
+      "name": "Bread",
+      "product": "bread",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Slice the eggplant into 2 cm slices and arrange on a tray. Brush well with olive oil and sprinkle with salt. Place the cherry tomatoes next to the eggplant and bake for 20 minutes, until the eggplant slices are browned and the tomatoes shed their skins."
+    },
+    {
+      "text": "Toss the chopped parsley with a little olive oil, salt and pepper."
+    },
+    {
+      "text": "Spread the tahini over the base of a plate so it covers it completely. Arrange all the ingredients in groups over the tahini."
+    },
+    {
+      "text": "Serve with green chilli and bread if you like."
+    }
+  ]
+}

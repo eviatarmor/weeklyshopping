@@ -1,0 +1,109 @@
+{
+  "slug": "hs-eggplant-arrabbiata-pappardelle",
+  "kind": "meal",
+  "title": "Eggplant Arrabbiata Pappardelle",
+  "subtitle": "with olives, capers and feta",
+  "description": "Pappardelle in a spicy arrabbiata-style sauce of roasted eggplant, tomatoes, olives and capers, topped with feta and basil.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a4%d7%a8%d7%93%d7%9c%d7%94-%d7%97%d7%a6%d7%99%d7%9c-%d7%90%d7%a8%d7%91%d7%99%d7%90%d7%98%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/DSC_5207-e1558266273302-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "eggplant",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pappardelle",
+      "qty": 600,
+      "unit": "g"
+    },
+    {
+      "name": "Eggplants",
+      "qty": 500,
+      "unit": "g",
+      "product": "eggplant"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 3,
+      "product": "tomato"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "White Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Kalamata Olives",
+      "qty": 80,
+      "unit": "g",
+      "product": "olives"
+    },
+    {
+      "name": "Capers",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "capers"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Feta",
+      "qty": 250,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Basil",
+      "qty": 10,
+      "product": "basil"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta according to the packet instructions and drain, keeping a little of the cooking water."
+    },
+    {
+      "text": "Roast the diced eggplant in the oven with a little olive oil. Blanch the tomatoes, peel and crush them."
+    },
+    {
+      "text": "Heat the 1/2 cup olive oil in a wide frying pan and saute the sliced onion until translucent. Add the sliced garlic and stir for about 1 minute. Add the eggplant, chopped chilli, chopped olives and capers, saute briefly, add the tomatoes and cook for about 5 minutes."
+    },
+    {
+      "text": "Add the pasta with a little of the cooking water and the chopped parsley. Season with salt, transfer to serving plates and top with crumbled feta and torn basil leaves."
+    }
+  ]
+}

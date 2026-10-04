@@ -1,0 +1,132 @@
+{
+  "slug": "hs-leek-and-cheese-polpette",
+  "kind": "meal",
+  "title": "Leek and Cheese Polpette",
+  "subtitle": "in tomato and eggplant sauce",
+  "description": "Fried leek and cheese balls with a goat's cheese centre and a polenta crust, served over a chunky tomato and eggplant sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%95%d7%9c%d7%a4%d7%98%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%94-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/4-2-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 120,
+  "tags": [
+    "hashulchan",
+    "polpette",
+    "leek",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Leeks",
+      "qty": 10,
+      "product": "leek"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 50,
+      "unit": "g",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Ricotta",
+      "qty": 150,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Pecorino",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Egg White",
+      "qty": 1
+    },
+    {
+      "name": "Goat's Cheese Log",
+      "qty": 120,
+      "unit": "g"
+    },
+    {
+      "name": "Instant Polenta",
+      "qty": 1,
+      "unit": "cup",
+      "product": "polenta"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Passata",
+      "qty": 1,
+      "unit": "jar",
+      "product": "tomato-passata"
+    },
+    {
+      "name": "Basil",
+      "product": "basil"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Plain Flour",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Oil For Frying",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the leeks in boiling water for 30-40 minutes until completely soft. Drain and squeeze out the liquid well."
+    },
+    {
+      "text": "Weigh 550 g of cooked leek and chop finely. Add the breadcrumbs, ricotta, pecorino and egg white (not the goat's cheese) and mix to a uniform mixture. Form balls 3-4 cm across."
+    },
+    {
+      "text": "Shape the goat's cheese into tiny balls (the size of an olive pip) and push one into each ball. Smooth the surface and press the balls firmly."
+    },
+    {
+      "text": "Put the polenta in a bowl and roll the balls in it. Up to this point they can be made ahead and kept in a single layer in the fridge for 6 hours."
+    },
+    {
+      "text": "Make the sauce: heat the olive oil and garlic in a wide pot until fragrant. Add the passata and basil, season with salt and pepper and cook for about 20 minutes."
+    },
+    {
+      "text": "Meanwhile, heat oil in a frying pan for shallow frying. Peel and dice the eggplant 1/2 cm, flour the cubes and fry for 2-3 minutes until golden. Drain on paper towel and add to the sauce. Cook for 15 minutes over low heat, taste and adjust the seasoning. Keep warm."
+    },
+    {
+      "text": "Just before serving, heat oil for deep frying in a wide pot and fry the polpette for 2-3 minutes until nicely golden. Lift onto a plate lined with paper towel."
+    },
+    {
+      "text": "Spoon hot sauce onto serving plates, put 3-4 polpette on each plate and serve immediately."
+    }
+  ]
+}

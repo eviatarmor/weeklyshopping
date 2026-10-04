@@ -1,0 +1,118 @@
+{
+  "slug": "hs-ratatouille-with-small-pasta",
+  "kind": "meal",
+  "title": "Ratatouille with Small Pasta",
+  "subtitle": "a quick one-pot vegetable stew",
+  "description": "A quick vegetable ratatouille in which a small amount of pasta is cooked right in the sauce to thicken it. Finish with capers, spinach and herbs.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%98%d7%98%d7%95%d7%99-%d7%a2%d7%9d-%d7%a4%d7%a1%d7%98%d7%94-%d7%a7%d7%98%d7%a0%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/sarit_goffen-6500-1140x641-1563287604.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "stew",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 2,
+      "product": "zucchini"
+    },
+    {
+      "name": "Capsicum",
+      "qty": 2,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 0.5,
+      "unit": "kg",
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Small Soup Pasta",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Capers",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "capers"
+    },
+    {
+      "name": "Spinach",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "cup",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Feta",
+      "qty": 150,
+      "unit": "g",
+      "product": "feta",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a wide, low pot (or deep frying pan). Finely chop the onion, garlic and chilli, add and fry for 5 minutes until golden."
+    },
+    {
+      "text": "Chop the zucchini, capsicum and cherry tomatoes. Add them with salt and pepper and fry for 10 minutes over medium heat until the tomatoes release their juices and the vegetables soften."
+    },
+    {
+      "text": "Pour in water to the level of the vegetables (not covering them completely) and bring to the boil. Add the pasta and cook over low heat, partly covered, for 7 minutes until the pasta softens and the liquid reduces and thickens. Add a little water if needed."
+    },
+    {
+      "text": "Chop the spinach and parsley and stir in with the capers. Taste and season with salt and pepper."
+    },
+    {
+      "text": "Serve with crumbled feta or grated parmesan and a little extra parsley."
+    }
+  ]
+}

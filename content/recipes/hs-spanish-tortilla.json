@@ -1,0 +1,54 @@
+{
+  "slug": "hs-spanish-tortilla",
+  "kind": "meal",
+  "title": "Spanish Tortilla",
+  "subtitle": "with slow-cooked potato and onion",
+  "description": "A classic Spanish omelette of potatoes slowly cooked in olive oil with onion and set with eggs.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%98%d7%95%d7%a8%d7%98%d7%99%d7%99%d7%94-%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/DSCF6628-1140x641-1543149910.jpg",
+  "servings": 6,
+  "prepMinutes": 70,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "tortilla",
+    "eggs",
+    "spanish"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "qty": 6,
+      "product": "potato"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 12,
+      "product": "eggs",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Place the sliced potatoes and onion in a pot, cover with olive oil and cook over low heat for about 40 minutes until the potatoes are completely soft. Drain."
+    },
+    {
+      "text": "Whisk the eggs in a bowl and add the onion and potatoes."
+    },
+    {
+      "text": "Heat a little olive oil in a frying pan, pour in the egg, potato and onion mixture and fry over low heat for about 5 minutes until the edges are set. Flip using a plate or a pot lid and fry for another 8 minutes. Turn out onto a serving plate."
+    }
+  ]
+}

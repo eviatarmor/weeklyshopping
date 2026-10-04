@@ -1,0 +1,122 @@
+{
+  "slug": "hs-butternut-pumpkin-agnolotti",
+  "kind": "meal",
+  "title": "Butternut Pumpkin Agnolotti",
+  "subtitle": "with fennel seed butter and hazelnuts",
+  "description": "Fresh egg pasta filled with roasted pumpkin and ricotta, tossed in browned fennel seed butter with hazelnuts and mascarpone.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%90%d7%a0%d7%99%d7%95%d7%9c%d7%95%d7%98%d7%99-%d7%93%d7%9c%d7%95%d7%a8%d7%99%d7%aa-%d7%91%d7%97%d7%9e%d7%90%d7%aa-%d7%a9%d7%95%d7%9e%d7%a8-%d7%95%d7%90%d7%92%d7%95%d7%96%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/3883-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 180,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pasta",
+    "italian",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butternut Pumpkin",
+      "qty": 1,
+      "product": "pumpkin"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Thyme",
+      "qty": 5,
+      "product": "thyme"
+    },
+    {
+      "name": "Sea Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Brown Sugar",
+      "qty": 5,
+      "unit": "tbsp",
+      "product": "brown-sugar",
+      "pantry": true
+    },
+    {
+      "name": "Ricotta",
+      "qty": 200,
+      "unit": "g",
+      "product": "ricotta"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 40,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 300,
+      "unit": "g",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Fennel Seeds",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "fennel-seeds"
+    },
+    {
+      "name": "Roasted Hazelnuts",
+      "qty": 60,
+      "unit": "g"
+    },
+    {
+      "name": "Mascarpone",
+      "qty": 60,
+      "unit": "g",
+      "product": "mascarpone"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C. Arrange diced pumpkin in a greased baking tray, brush with olive oil, scatter over the thyme, salt and brown sugar, and bake for about 1 hour until soft. Peel off the tough skin and mash well. Mix with the ricotta, parmesan and a little salt. Refrigerate until needed."
+    },
+    {
+      "text": "Mound the flour on a work surface and make a well in the centre. Pour in the eggs and 1 tbsp olive oil and mix only the eggs with a fork. Knead by hand for about 5 minutes until smooth. Wrap in cling film and refrigerate for 1 hour."
+    },
+    {
+      "text": "Roll out half of the dough with a rolling pin, then through a pasta machine to one setting before the thinnest. Keep the other half covered with a towel so it does not dry out."
+    },
+    {
+      "text": "Pipe a long line of filling along the edge of the sheet, roll the dough over the filling into a tube, brush with a little water and roll once more. Cut the dough about 1 cm from the tube, pinch every 4 cm to make a chain of mounds, cut between them and pinch the ends of each agnolotti."
+    },
+    {
+      "text": "Boil in a large pot of salted water until the agnolotti float."
+    },
+    {
+      "text": "Melt the butter in a frying pan with the fennel seeds until it begins to turn golden. Add the pasta and toss gently. Transfer to a serving plate and scatter over the hazelnuts and dollops of mascarpone."
+    }
+  ]
+}

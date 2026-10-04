@@ -1,0 +1,95 @@
+{
+  "slug": "hs-pasta-e-ceci-soup",
+  "kind": "meal",
+  "title": "Pasta e Ceci Soup",
+  "subtitle": "chickpea and pasta soup",
+  "description": "A rustic Italian soup of chickpeas, tomatoes and rosemary, partly blended for body and finished with small pasta. Soak the chickpeas overnight.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a8%d7%a7-%d7%a4%d7%a1%d7%98%d7%94-%d7%90%d7%94-%d7%a6%d7%b3%d7%a6%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/01/פסטה-אה-צצי-של-מנה-סטרום_מירי-דווידוביץ-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 150,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "soup",
+    "chickpeas",
+    "italian",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Dried Chickpeas",
+      "qty": 250,
+      "unit": "g",
+      "product": "chickpeas"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Tinned Tomatoes",
+      "qty": 1,
+      "unit": "tin",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Rosemary",
+      "qty": 1,
+      "product": "rosemary"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "l",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Small Pasta",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "product": "flat-leaf-parsley",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the chickpeas in water overnight and drain."
+    },
+    {
+      "text": "Fry the roughly chopped onion in olive oil until soft but not golden. Add the tomatoes and rosemary sprig, season with salt and fry lightly."
+    },
+    {
+      "text": "Add the chickpeas and fry lightly. Add the white wine and cook over high heat until the liquid reduces."
+    },
+    {
+      "text": "Add the water, bring to the boil and cook over low heat until the chickpeas are completely soft. Remove 2 full ladles of chickpeas and blend in a food processor, adding a little of the soup liquid. Return the puree to the pot and bring to the boil again."
+    },
+    {
+      "text": "Add the pasta and cook in the soup until done. Serve with a drizzle of olive oil and chopped parsley if you like."
+    }
+  ]
+}

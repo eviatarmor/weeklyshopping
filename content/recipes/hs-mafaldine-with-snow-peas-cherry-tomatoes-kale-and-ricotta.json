@@ -1,0 +1,92 @@
+{
+  "slug": "hs-mafaldine-with-snow-peas-cherry-tomatoes-kale-and-ricotta",
+  "kind": "meal",
+  "title": "Mafaldine with Snow Peas, Cherry Tomatoes, Kale and Ricotta",
+  "subtitle": "with pine nuts and lemon",
+  "description": "Long pasta tossed with roasted cherry tomatoes, crispy kale, pine nuts, lemon and snow peas, finished with grated dry ricotta salata.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a4%d7%9c%d7%93%d7%99%d7%a0%d7%95-%d7%90%d7%a4%d7%95%d7%a0%d7%aa-%d7%a9%d7%9c%d7%92/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/Al-Hashulchan-1314-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 200,
+      "unit": "g",
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 8,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sea Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Kale",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "kale"
+    },
+    {
+      "name": "Pine Nuts",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Mafaldine Pasta",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Snow Peas",
+      "product": "snow-peas"
+    },
+    {
+      "name": "Basil",
+      "product": "basil"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Ricotta Salata",
+      "qty": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 200°C. Roast the cherry tomatoes with 2 tbsp olive oil and coarse salt for about 10 minutes."
+    },
+    {
+      "text": "Heat 4 tbsp olive oil in a frying pan, add the finely chopped kale and fry for a few seconds until crispy. Add the roasted tomatoes, a handful of toasted pine nuts and the lemon juice, stir and remove from the heat."
+    },
+    {
+      "text": "Cook the pasta according to the packet instructions. In the last minute of cooking add 4 handfuls of sliced snow peas, then drain."
+    },
+    {
+      "text": "Transfer the pasta and snow peas to the pan with the sauce, add a handful of basil, 2 tbsp olive oil and salt, toss, and grate the ricotta salata over the top. Serve immediately."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "hs-risotto-milanese",
+  "kind": "meal",
+  "title": "Risotto Milanese",
+  "subtitle": "with saffron, sage and white wine",
+  "description": "A classic Milanese risotto made with leek, onion and celery, flavoured with saffron, sage and white wine.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%9e%d7%99%d7%9c%d7%90%d7%a0%d7%96%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/DSCF3690-1140x641-1541600681.jpg",
+  "servings": 6,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "risotto",
+    "italian",
+    "rice"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Arborio Rice",
+      "qty": 500,
+      "unit": "g",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Leek",
+      "qty": 1,
+      "product": "leek"
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Celery",
+      "qty": 5,
+      "product": "celery"
+    },
+    {
+      "name": "Sea Salt",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Sage Leaves",
+      "qty": 3,
+      "product": "sage"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Butter",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "l",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Bay Leaves",
+      "qty": 2,
+      "product": "bay-leaves"
+    },
+    {
+      "name": "Allspice Berries",
+      "qty": 6
+    },
+    {
+      "name": "Saffron Threads",
+      "qty": 6
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Finely dice the leek (the middle part between the white and green), onions and celery."
+    },
+    {
+      "text": "Heat olive oil in a pot and fry the onions, leek and celery until browned. Add the rice and stir."
+    },
+    {
+      "text": "Add the salt, sage, white wine and butter and stir."
+    },
+    {
+      "text": "Add the warm water, bay leaves, allspice and saffron and bring to the boil. Reduce to medium heat and cover."
+    },
+    {
+      "text": "After 7 minutes, turn off the heat and leave the pot covered for about 5 minutes, then serve."
+    }
+  ]
+}

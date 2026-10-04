@@ -1,0 +1,116 @@
+{
+  "slug": "hs-red-lentil-and-kale-soup",
+  "kind": "meal",
+  "title": "Red Lentil and Kale Soup",
+  "subtitle": "with pearl barley and pumpkin",
+  "description": "A hearty winter soup of red lentils, pearl barley, pumpkin and kale with celery, carrot and fresh herbs.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a8%d7%a7-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%9b%d7%aa%d7%95%d7%9e%d7%95%d7%aa-%d7%95%d7%a7%d7%99%d7%99%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/sarit_goffen-6462-1140x641-1575884797.jpg",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "soup",
+    "lentils",
+    "vegetarian",
+    "winter"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 0.5,
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Thyme Leaves",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Carrots",
+      "qty": 3,
+      "product": "carrot"
+    },
+    {
+      "name": "Celery",
+      "qty": 2,
+      "unit": "cup",
+      "product": "celery"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin"
+    },
+    {
+      "name": "Kale",
+      "product": "kale"
+    },
+    {
+      "name": "Red Lentils",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "red-lentils"
+    },
+    {
+      "name": "Pearl Barley",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pearl-barley"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a large pot with the oil and butter. Add the chopped onions, garlic, chilli and thyme and fry over medium-low heat for about 5 minutes until the onion softens and turns translucent. Add the chopped carrots and celery and fry for a few minutes until glazed and slightly soft."
+    },
+    {
+      "text": "Add the peeled, chopped pumpkin, chopped kale, lentils and barley, cover with water and bring to the boil. Season with salt and pepper, reduce the heat and simmer gently for about 30 minutes. If the soup is too thick, add a little water."
+    },
+    {
+      "text": "Season with a handful of chopped greens, adjust the seasoning and serve."
+    }
+  ]
+}

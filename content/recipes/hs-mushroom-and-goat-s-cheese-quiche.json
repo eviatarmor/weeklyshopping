@@ -1,0 +1,128 @@
+{
+  "slug": "hs-mushroom-and-goat-s-cheese-quiche",
+  "kind": "meal",
+  "title": "Mushroom and Goat's Cheese Quiche",
+  "subtitle": "with a buttery crust",
+  "description": "A buttery shortcrust tart filled with sauteed mushrooms and onion, set with a creamy egg custard and topped with goat's cheese.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%99%d7%a9-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/גליליון_הפקת_מתכוני_שבועות_עם_שף_אבי_כהן_צילום-_רותם_גולן_50_Custom-1140x641.jpg",
+  "servings": 8,
+  "prepMinutes": 180,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "quiche",
+    "baked",
+    "french"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "qty": 2,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 200,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 9,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Pesto",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "pesto"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 1,
+      "unit": "kg",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Thyme",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "thyme"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Cooking Cream",
+      "qty": 2,
+      "unit": "packet",
+      "product": "cooking-cream"
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "cornflour"
+    },
+    {
+      "name": "Goat's Cheese Log",
+      "qty": 1
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix the flour, butter, 1 egg, pesto and salt in a mixer until crumbly, then knead briefly by hand so it does not overheat. Wrap in cling film and refrigerate for about 1 hour."
+    },
+    {
+      "text": "Saute the diced onions, sliced mushrooms, thyme, garlic, salt, pepper and olive oil in a pan. Taste and adjust the seasoning, then cool in a sieve to drain excess liquid."
+    },
+    {
+      "text": "Whisk together the cream, 8 eggs, salt, pepper, nutmeg and cornflour. Refrigerate."
+    },
+    {
+      "text": "Roll the chilled dough to 1 cm thick to fit your tin, trim the excess, prick the base with a fork and chill for another hour."
+    },
+    {
+      "text": "Preheat the oven to 180°C. Blind bake the case with baking paper and weights (such as chickpeas) for about 20 minutes."
+    },
+    {
+      "text": "Fill the baked case with the mushroom and onion mixture, pour over the custard, and top with slices of goat's cheese. Bake for another 20 minutes, or until the centre is firm to the touch."
+    }
+  ]
+}

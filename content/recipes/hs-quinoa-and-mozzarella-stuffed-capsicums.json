@@ -1,0 +1,126 @@
+{
+  "slug": "hs-quinoa-and-mozzarella-stuffed-capsicums",
+  "kind": "meal",
+  "title": "Quinoa and Mozzarella Stuffed Capsicums",
+  "subtitle": "with sun-dried tomatoes and nuts",
+  "description": "Roasted capsicum halves filled with quinoa, sun-dried tomato, toasted nuts, capers and mozzarella, served with fried eggplant chips.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%9c%d7%a4%d7%9c%d7%99%d7%9d-%d7%9e%d7%9e%d7%95%d7%9c%d7%90%d7%99%d7%9d-%d7%91%d7%a7%d7%99%d7%a0%d7%95%d7%90%d7%94-%d7%95%d7%9e%d7%95%d7%a6%d7%a8%d7%9c%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/g-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stuffed",
+    "baked",
+    "quinoa"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Capsicums",
+      "qty": 4,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 0.5,
+      "product": "eggplant"
+    },
+    {
+      "name": "Parsley",
+      "qty": 3,
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Oil",
+      "pantry": true
+    },
+    {
+      "name": "Quinoa",
+      "qty": 1,
+      "unit": "cup",
+      "product": "quinoa"
+    },
+    {
+      "name": "Sun-Dried Tomatoes",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "semi-dried-tomatoes"
+    },
+    {
+      "name": "Toasted Walnuts and Hazelnuts",
+      "qty": 0.25,
+      "unit": "cup"
+    },
+    {
+      "name": "Capers",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "capers"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar"
+    },
+    {
+      "name": "Toasted Flaked Almonds",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "almonds"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 2,
+      "product": "mozzarella"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Halve the capsicums, remove the seeds and roast with a little oil for 20 minutes at 220°C. Set aside."
+    },
+    {
+      "text": "Rinse the quinoa well and place in a pot with 2 cups of water. Bring to the boil and, as soon as it starts to absorb the water, reduce the heat, cover and cook for 10 minutes."
+    },
+    {
+      "text": "Fry the eggplant sticks in hot oil, then drain on paper towel to soak up excess oil."
+    },
+    {
+      "text": "Transfer the cooked quinoa to a bowl and mix with the herbs, sun-dried tomatoes, walnuts and hazelnuts, capers, vinegar, almonds, cumin, diced mozzarella and a little olive oil. Season with salt and pepper."
+    },
+    {
+      "text": "Fill the capsicums with the mixture, arrange on a baking tray and bake for 10 minutes at 180°C. Scatter over some parsley leaves and serve with the eggplant chips."
+    }
+  ]
+}

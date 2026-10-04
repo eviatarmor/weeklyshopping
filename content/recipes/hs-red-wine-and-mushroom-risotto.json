@@ -1,0 +1,87 @@
+{
+  "slug": "hs-red-wine-and-mushroom-risotto",
+  "kind": "meal",
+  "title": "Red Wine and Mushroom Risotto",
+  "subtitle": "with fresh porcini",
+  "description": "A rich arborio risotto made with red wine and a generous amount of butter-sauteed porcini mushrooms, finished with parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%91%d7%99%d7%99%d7%9f-%d7%90%d7%93%d7%95%d7%9d-%d7%95%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/AF2P4411-e1558260546741-1140x641.jpg",
+  "servings": 8,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "risotto",
+    "mushroom",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Arborio Rice",
+      "qty": 500,
+      "unit": "g",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 2,
+      "unit": "l",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Eshallot",
+      "qty": 1
+    },
+    {
+      "name": "Red Wine",
+      "qty": 1,
+      "unit": "cup",
+      "product": "red-wine"
+    },
+    {
+      "name": "Butter",
+      "qty": 200,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Fresh Porcini Mushrooms",
+      "qty": 1,
+      "unit": "kg",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 200,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Slice the mushrooms thinly and fry in a pan with 100 g of the butter until soft."
+    },
+    {
+      "text": "Chop the shallot and fry it separately in a medium pot with 1 tbsp butter. When golden, add the rice and stir over low heat for about 3 minutes. Add the wine and continue cooking until completely evaporated."
+    },
+    {
+      "text": "Add the hot stock gradually, stirring, adding more once the previous amount has been absorbed. Continue cooking and stirring for about 15 minutes until the rice softens."
+    },
+    {
+      "text": "Remove from the heat and add the mushrooms, the remaining butter and the cheese. Season with salt and pepper to taste."
+    }
+  ]
+}

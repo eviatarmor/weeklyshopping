@@ -1,0 +1,109 @@
+{
+  "slug": "hs-spanish-frittata",
+  "kind": "meal",
+  "title": "Spanish Frittata",
+  "subtitle": "with sweet potato and garlic butter",
+  "description": "A baked frittata with potato, sweet potato, confit garlic and herbs, served with a dollop of creme fraiche.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a8%d7%99%d7%98%d7%98%d7%94-%d7%a1%d7%a4%d7%a8%d7%93%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/251-e1598958500928-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "frittata",
+    "eggs",
+    "spanish",
+    "baked"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 5.5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Potato",
+      "qty": 1,
+      "product": "potato"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Onion",
+      "qty": 0.5,
+      "product": "red-onion"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "spring-onion"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Creme Fraiche",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "creme-fraiche"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Crush half a clove of garlic and mix it well with the butter to make garlic butter."
+    },
+    {
+      "text": "Bake the potato until soft and cut into cubes. Bake the sweet potato as well."
+    },
+    {
+      "text": "Fry the red onion. Separately, cook the remaining 5 garlic cloves in the olive oil over low heat until soft (confit garlic)."
+    },
+    {
+      "text": "Place a shakshuka pan on the heat. Melt the garlic butter with the confit garlic, add the chopped onion, sweet potato and potato cubes and fry. Season with salt and pepper, add the herbs and pour in the beaten eggs."
+    },
+    {
+      "text": "Transfer to an oven preheated to 180°C until the centre of the frittata is set. Remove and serve with creme fraiche."
+    }
+  ]
+}

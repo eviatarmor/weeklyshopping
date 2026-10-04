@@ -1,0 +1,112 @@
+{
+  "slug": "hs-rustic-mushroom-and-barley-soup",
+  "kind": "meal",
+  "title": "Rustic Mushroom and Barley Soup",
+  "subtitle": "with dill",
+  "description": "A hearty vegetable soup with button and wild mushrooms, potatoes and pearl barley, finished with fresh dill.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a8%d7%a7-%d7%9b%d7%a4%d7%a8%d7%99-%d7%a9%d7%9c-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%92%d7%a8%d7%99%d7%a1%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/soup_830x510-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "soup",
+    "mushroom",
+    "barley",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Carrots",
+      "qty": 2,
+      "product": "carrot"
+    },
+    {
+      "name": "Fennel",
+      "qty": 1,
+      "product": "fennel"
+    },
+    {
+      "name": "Kohlrabi",
+      "qty": 1
+    },
+    {
+      "name": "Vegetable Soup Seasoning",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 2,
+      "product": "potato"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Wild Mushrooms",
+      "qty": 300,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Pearl Barley",
+      "qty": 100,
+      "unit": "g",
+      "product": "pearl-barley"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dill",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "dill"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a large pot with the olive oil and fry the finely chopped onion, diced carrots, fennel and kohlrabi for 5 minutes until the onion is golden. Add the soup seasoning and finely chopped garlic and fry for 1 minute until fragrant."
+    },
+    {
+      "text": "Add the diced potatoes and mushrooms and fry for 3 minutes until the mushrooms start to turn golden. Add the pearl barley, salt and pepper and stir."
+    },
+    {
+      "text": "Pour in 1.5 litres of boiling water and bring to the boil. Cover and cook for 30 minutes over low heat until the barley is soft."
+    },
+    {
+      "text": "Add the chopped dill, stir and adjust the seasoning. Serve immediately."
+    }
+  ]
+}

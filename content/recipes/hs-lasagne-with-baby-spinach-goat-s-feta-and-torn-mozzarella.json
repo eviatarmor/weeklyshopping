@@ -1,0 +1,91 @@
+{
+  "slug": "hs-lasagne-with-baby-spinach-goat-s-feta-and-torn-mozzarella",
+  "kind": "meal",
+  "title": "Lasagne with Baby Spinach, Goat's Feta and Torn Mozzarella",
+  "subtitle": "a quick one-tray lasagne",
+  "description": "Fresh lasagne sheets boiled with spinach, then baked with garlic, mozzarella, goat's feta and oregano until the cheeses bubble and turn golden.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%96%d7%a0%d7%99%d7%94-%d7%91%d7%9c%d7%92%d7%9f-%d7%a2%d7%9d-%d7%91%d7%99%d7%99%d7%91%d7%99-%d7%aa%d7%a8%d7%93/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/Lasagne_830x510-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "lasagne",
+    "baked",
+    "spinach",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Fresh Lasagne Sheets",
+      "qty": 500,
+      "unit": "g",
+      "product": "lasagne-sheets"
+    },
+    {
+      "name": "Baby Spinach",
+      "qty": 400,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 3,
+      "product": "mozzarella"
+    },
+    {
+      "name": "Goat's Feta",
+      "qty": 200,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Oregano",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C on the top grill setting."
+    },
+    {
+      "text": "Bring water to the boil in a large pot and salt it. When boiling, tear in the lasagne sheets and cook for 2 minutes over high heat. Add the spinach and cook for 1 more minute."
+    },
+    {
+      "text": "Drain everything and transfer the pasta and spinach to a large baking dish."
+    },
+    {
+      "text": "Add the chopped garlic, the torn mozzarella, crumbled feta and oregano leaves to the dish, season with salt and pepper and mix. Drizzle with olive oil."
+    },
+    {
+      "text": "Bake for 15 minutes until the cheeses are bubbling and golden. Serve hot."
+    }
+  ]
+}

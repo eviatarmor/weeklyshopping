@@ -1,0 +1,90 @@
+{
+  "slug": "hs-freekeh-and-vegetable-stew",
+  "kind": "meal",
+  "title": "Freekeh and Vegetable Stew",
+  "subtitle": "with lemony tahini",
+  "description": "A one-pot freekeh stew with carrots, onion, garlic and sage, served with lemony tahini and crushed fresh tomatoes.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%a4%d7%a8%d7%99%d7%a7%d7%94-%d7%95%d7%99%d7%a8%d7%a7%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/05/shutterstock_388294978-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "freekeh",
+    "stew",
+    "vegan",
+    "middle eastern"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "qty": 500,
+      "unit": "g",
+      "product": "freekeh"
+    },
+    {
+      "name": "Carrots",
+      "qty": 4,
+      "product": "carrot"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli",
+      "optional": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 4,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Sage Leaves",
+      "qty": 5,
+      "product": "sage"
+    },
+    {
+      "name": "Sea Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Tahini",
+      "product": "tahini",
+      "optional": true
+    },
+    {
+      "name": "Crushed Tomatoes",
+      "product": "diced-tomatoes",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a heavy pot over medium heat. Fry the grated carrots and chopped onion for about 10 minutes, stirring occasionally, until soft and golden."
+    },
+    {
+      "text": "Add the chilli, crushed garlic and sage and stir. Add the freekeh, stir and fry for 2-3 minutes. Season with salt and stir."
+    },
+    {
+      "text": "Pour in water to about 2 cm above the contents and continue cooking for 30-60 minutes, stirring occasionally, until the water is absorbed and you need to scrape the wheat a little from the bottom of the pot. Add more liquid if needed."
+    },
+    {
+      "text": "Serve hot with lemony tahini and fresh crushed tomatoes."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "hs-pasta-with-cauliflower-and-broccoli",
+  "kind": "meal",
+  "title": "Pasta with Cauliflower and Broccoli",
+  "subtitle": "with garlic, thyme and parmesan",
+  "description": "A simple pasta with pan-fried broccoli and cauliflower, garlic and thyme, finished with parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%95%d7%91%d7%a8%d7%95%d7%a7%d7%95%d7%9c%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_50011-24-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 25,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "vegetarian",
+    "italian",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pasta Shells",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Thyme",
+      "qty": 4,
+      "product": "thyme"
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "product": "broccoli"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 0.5,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta in boiling salted water until al dente."
+    },
+    {
+      "text": "Meanwhile, brown the sliced garlic and thyme in olive oil in a wide frying pan. Add the broccoli and cauliflower florets, season with salt and pepper and stir-fry for 3 minutes. Add the cooked pasta and toss together for a minute or two."
+    },
+    {
+      "text": "Remove from the heat, sprinkle with grated parmesan and serve immediately."
+    }
+  ]
+}

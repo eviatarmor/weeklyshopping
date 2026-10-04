@@ -1,0 +1,86 @@
+{
+  "slug": "hs-mushroom-burger",
+  "kind": "meal",
+  "title": "Mushroom Burger",
+  "subtitle": "with a deep-fried portobello patty",
+  "description": "A vegetarian burger with a deep-fried portobello mushroom seasoned with Asian sauce, layered with lettuce, onion, pickle and tomato in a bun.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%94%d7%9e%d7%91%d7%95%d7%a8%d7%92%d7%a8-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%a6%d7%9e%d7%97%d7%95%d7%a0%d7%99-%d7%a9%d7%9c-%d7%9e%d7%95%d7%a9%d7%99%d7%a7-%d7%a8%d7%95%d7%98/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/eight_013.jpg-1140x641-1544269333.png",
+  "servings": 1,
+  "prepMinutes": 20,
+  "tags": [
+    "hashulchan",
+    "burger",
+    "vegetarian",
+    "mushroom"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Burger Bun",
+      "qty": 1,
+      "product": "bread-rolls"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 2,
+      "product": "mushrooms"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Tomato Sauce",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "tomato-sauce"
+    },
+    {
+      "name": "Asian Sauce",
+      "qty": 0.5,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Lettuce",
+      "qty": 2,
+      "product": "iceberg-lettuce"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 2,
+      "unit": "slice",
+      "product": "red-onion"
+    },
+    {
+      "name": "Pickles",
+      "qty": 2,
+      "unit": "slice",
+      "product": "pickles"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "unit": "slice",
+      "product": "tomato"
+    },
+    {
+      "name": "Oil for Deep Frying",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the bun in half. Spread a thin layer of mayonnaise on the bottom half and place it on a griddle heated to 100°C for about 20 seconds."
+    },
+    {
+      "text": "Spread tomato sauce on the other half and layer on thinly sliced lettuce (spread evenly, not too much), red onion and pickle slices, then a slice of tomato to hold the other vegetables in place."
+    },
+    {
+      "text": "Deep-fry the mushrooms in very hot oil for 2 minutes until soft. Remove and place on the griddle, cap side down, for 1 minute. Meanwhile, pierce the underside a little with a knife and season with the Asian sauce. Flip, cook for another 30 seconds and transfer to the bun. Serve hot."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "hs-ayurvedic-kitchari",
+  "kind": "meal",
+  "title": "Ayurvedic Kitchari",
+  "subtitle": "rice and mung bean stew",
+  "description": "A gentle Indian one-pot of basmati rice and mung beans cooked with cumin, coriander, cardamom, ginger and turmeric.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%99%d7%a6%d7%a8%d7%99-%d7%90%d7%99%d7%95%d7%a8%d7%95%d7%95%d7%93%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/DSC_6852a-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "indian",
+    "rice",
+    "vegan",
+    "one-pot"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wholegrain Basmati Rice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "basmati-rice"
+    },
+    {
+      "name": "Mung Beans",
+      "qty": 1,
+      "unit": "cup",
+      "product": "green-beans"
+    },
+    {
+      "name": "Coriander Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "coriander-seeds"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Cardamom Pods",
+      "qty": 4
+    },
+    {
+      "name": "Ground Ginger",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-ginger"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 1.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Coconut Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "coconut-oil"
+    },
+    {
+      "name": "Water",
+      "qty": 3.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Sea Salt",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "salt",
+      "optional": true
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "optional": true
+    },
+    {
+      "name": "Spinach",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "baby-spinach",
+      "optional": true
+    },
+    {
+      "name": "Broccoli",
+      "qty": 1,
+      "unit": "cup",
+      "product": "broccoli",
+      "optional": true
+    },
+    {
+      "name": "Coriander Leaves",
+      "optional": true
+    },
+    {
+      "name": "Toasted Coconut Flakes",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the mung beans in a bowl of water for 8 hours and drain. Soak the rice in water about 1 hour before cooking and drain."
+    },
+    {
+      "text": "Lightly crush the coriander seeds with a mortar and pestle. Briefly crack the cardamom pods."
+    },
+    {
+      "text": "Heat the coconut oil in a pot and add the coriander seeds, cumin and cardamom. Fry for about 20 seconds until browned and fragrant, then add the chopped onion and saute for about 2 minutes over medium heat, stirring."
+    },
+    {
+      "text": "Add the rice and mung beans and fry, stirring, for another 2 minutes. Add the water, turmeric, ground ginger and the vegetables (grated carrot, chopped spinach, broccoli florets), cover and bring to the boil. Reduce the heat to the lowest setting and cook until the liquid is absorbed, about 45 minutes."
+    },
+    {
+      "text": "Serve topped with fresh coriander leaves and toasted coconut flakes."
+    }
+  ]
+}

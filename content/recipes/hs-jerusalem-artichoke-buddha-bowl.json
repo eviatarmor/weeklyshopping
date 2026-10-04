@@ -1,0 +1,136 @@
+{
+  "slug": "hs-jerusalem-artichoke-buddha-bowl",
+  "kind": "meal",
+  "title": "Jerusalem Artichoke Buddha Bowl",
+  "subtitle": "with spelt, avocado and almond dressing",
+  "description": "A hearty bowl of spelt, roasted Jerusalem artichokes, avocado and fresh vegetables with a maple and balsamic dressing.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%95%d7%93%d7%94%d7%94-%d7%91%d7%95%d7%9c-%d7%90%d7%a8%d7%98%d7%99%d7%a9%d7%95%d7%a7-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%9e%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/חיים-יוסף-11-1140x641-1541679898.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "bowl",
+    "vegan",
+    "grain"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spelt Grains",
+      "qty": 150,
+      "unit": "g"
+    },
+    {
+      "name": "Jerusalem Artichokes",
+      "qty": 8
+    },
+    {
+      "name": "Avocado",
+      "qty": 2,
+      "product": "avocado"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 1,
+      "unit": "cup",
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Red Onion",
+      "qty": 1,
+      "product": "red-onion"
+    },
+    {
+      "name": "Fresh Black-Eyed Beans",
+      "qty": 250,
+      "unit": "g",
+      "product": "green-beans"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 4,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Coriander",
+      "qty": 0.25,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Radishes",
+      "qty": 4,
+      "product": "radish"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.67,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 0.33,
+      "unit": "cup",
+      "product": "red-wine-vinegar"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "almonds"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Maple Syrup",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "maple-syrup"
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the dressing by blending all the dressing ingredients until smooth. Adjust the seasoning."
+    },
+    {
+      "text": "Drain the soaked spelt, place in a pot, cover with water and cook over medium heat for 25 to 30 minutes. Drain and cool."
+    },
+    {
+      "text": "Preheat the oven to 190°C. Cut the Jerusalem artichokes into rough pieces, place on a baking tray lined with baking paper, drizzle with olive oil and a little salt, wrap in baking paper and bake for about 30 minutes until soft."
+    },
+    {
+      "text": "Blanch the fresh black-eyed beans. Slice the avocado, halve the tomatoes, thinly slice the red onion and radishes, chop the spring onions and coriander, and peel the zucchini into ribbons."
+    },
+    {
+      "text": "Arrange the vegetables and spelt in groups in bowls. Drizzle with the dressing or serve it on the side."
+    }
+  ]
+}

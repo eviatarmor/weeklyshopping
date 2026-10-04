@@ -1,0 +1,94 @@
+{
+  "slug": "hs-pappardelle-in-lemon-cream-sauce",
+  "kind": "meal",
+  "title": "Pappardelle in Lemon Cream Sauce",
+  "subtitle": "with spinach and peas",
+  "description": "Pappardelle in a creamy sauce of spinach and peas, brightened with lemon juice just before serving and topped with parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a4%d7%a8%d7%93%d7%9c%d7%94-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%a9%d7%9e%d7%a0%d7%aa-%d7%aa%d7%a8%d7%93-%d7%90%d7%a4%d7%95%d7%a0%d7%94-%d7%95%d7%9c%d7%99%d7%9e%d7%95%d7%9f/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-241-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "cream",
+    "spinach",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pappardelle",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Spinach",
+      "qty": 300,
+      "unit": "g",
+      "product": "baby-spinach"
+    },
+    {
+      "name": "Peas",
+      "qty": 200,
+      "unit": "g",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 250,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pappardelle in a pot with plenty of boiling salted water according to the packet instructions or until al dente."
+    },
+    {
+      "text": "Meanwhile, melt the butter in a large wide frying pan. Lightly fry the garlic and spinach for 3-5 minutes or until the spinach wilts and softens."
+    },
+    {
+      "text": "Add the peas and cream and season with salt and pepper. Reduce until the volume is reduced by a third and the cream thickens slightly."
+    },
+    {
+      "text": "When the pasta is ready, drain and transfer directly to the hot sauce. Mix until the sauce coats the pasta nicely. Add the lemon juice and mix."
+    },
+    {
+      "text": "Serve with grated parmesan on top."
+    }
+  ]
+}

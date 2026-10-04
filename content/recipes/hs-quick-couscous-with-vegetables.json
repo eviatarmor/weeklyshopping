@@ -1,0 +1,114 @@
+{
+  "slug": "hs-quick-couscous-with-vegetables",
+  "kind": "meal",
+  "title": "Quick Couscous with Vegetables",
+  "subtitle": "with a vegetable broth",
+  "description": "Instant couscous topped with a fragrant stew of carrots, potatoes, zucchini and celery cooked in vegetable stock.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%95%d7%a1%d7%a7%d7%95%d7%a1-%d7%9e%d7%94%d7%99%d7%a8-%d7%a2%d7%9d-%d7%99%d7%a8%d7%a7%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/ר_נ_ע_ש_ƒ____ץ_____ץ________ק_ץ___ש____ש_£_ץ_¥__ר_£____ש___ץ_¿_ש_ƒ-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "couscous",
+    "vegetable",
+    "moroccan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Instant Couscous",
+      "qty": 1,
+      "unit": "packet",
+      "product": "couscous"
+    },
+    {
+      "name": "Boiling Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Carrots",
+      "qty": 3,
+      "product": "carrot"
+    },
+    {
+      "name": "Red Potatoes",
+      "qty": 4,
+      "product": "potato"
+    },
+    {
+      "name": "White Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 4,
+      "product": "zucchini"
+    },
+    {
+      "name": "Dill",
+      "qty": 50,
+      "unit": "g",
+      "product": "dill"
+    },
+    {
+      "name": "Celery",
+      "qty": 2,
+      "product": "celery"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 2,
+      "unit": "l",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Sweet Paprika",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "sweet-paprika"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut all the vegetables into rough chunks."
+    },
+    {
+      "text": "Fry the onion and potatoes in a pot with a little oil. Add the remaining vegetables and the vegetable stock and bring to the boil. Add the spices and stir. Keep cooking until the vegetables are tender."
+    },
+    {
+      "text": "Put the couscous in a bowl, add the oil and seasoning, pour over the hot water and cover with cling film. After about 5 minutes, fluff the couscous with a fork."
+    },
+    {
+      "text": "Transfer the couscous to a serving plate, top with the vegetables and pour over the cooking liquid."
+    }
+  ]
+}

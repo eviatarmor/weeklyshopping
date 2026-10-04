@@ -1,0 +1,87 @@
+{
+  "slug": "hs-rice-and-dried-fruit-stuffed-pumpkin",
+  "kind": "meal",
+  "title": "Rice and Dried Fruit Stuffed Pumpkin",
+  "subtitle": "a baked whole pumpkin",
+  "description": "A whole pumpkin stuffed with basmati rice, dried fruit, almonds and honey butter, wrapped in foil and baked until tender.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%90%d7%a4%d7%90%d7%9e%d7%94-%d7%93%d7%9c%d7%a2%d7%aa-%d7%9e%d7%9e%d7%95%d7%9c%d7%90%d7%aa-%d7%91%d7%90%d7%95%d7%a8%d7%96-%d7%95%d7%a4%d7%99%d7%a8%d7%95%d7%aa-%d7%99%d7%91%d7%a9%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/03/דלעת-ממולאת-2-e1554633926847-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 100,
+  "tags": [
+    "hashulchan",
+    "pumpkin",
+    "stuffed",
+    "baked",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "qty": 1,
+      "product": "pumpkin"
+    },
+    {
+      "name": "Basmati Rice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "basmati-rice"
+    },
+    {
+      "name": "Honey",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "honey",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 70,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Mixed Dried Fruit",
+      "qty": 1.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Roasted Almonds",
+      "qty": 1,
+      "unit": "cup",
+      "product": "almonds"
+    },
+    {
+      "name": "Cinnamon",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cinnamon"
+    },
+    {
+      "name": "Nutmeg",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut a lid from the top of the pumpkin, scoop out the seeds and rinse well."
+    },
+    {
+      "text": "Bring plenty of salted water to the boil in a medium pot, add the rice and cook for 9 minutes. Drain and transfer to a bowl."
+    },
+    {
+      "text": "Add the honey, melted butter, chopped dried fruit (raisins, prunes, figs, apricots), almonds and spices to the bowl and mix."
+    },
+    {
+      "text": "Preheat the oven to 200°C. Fill the pumpkin with the rice, put the lid on top, wrap in foil and bake for about 1 hour until the pumpkin is tender."
+    }
+  ]
+}

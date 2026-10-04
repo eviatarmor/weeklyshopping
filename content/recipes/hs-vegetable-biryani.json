@@ -1,0 +1,139 @@
+{
+  "slug": "hs-vegetable-biryani",
+  "kind": "meal",
+  "title": "Vegetable Biryani",
+  "subtitle": "Indian rice with vegetables",
+  "description": "Fragrant basmati rice layered with a spiced vegetable and rose-water yoghurt mixture, steamed together and served with fried onion.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d6%bc%d7%99%d7%a8%d6%b0%d7%99%d6%b8%d7%90%d7%a0%d7%99-%d7%90%d7%95%d7%a8%d7%96-%d7%a2%d7%9d-%d7%99%d7%a8%d7%a7%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-183-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "hashulchan",
+    "biryani",
+    "rice",
+    "indian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "qty": 2,
+      "unit": "cup",
+      "product": "basmati-rice"
+    },
+    {
+      "name": "Vegetable Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Green Cardamom Pods",
+      "qty": 5
+    },
+    {
+      "name": "Cloves",
+      "qty": 10,
+      "product": "cloves"
+    },
+    {
+      "name": "Cinnamon Stick",
+      "qty": 1,
+      "product": "cinnamon-stick"
+    },
+    {
+      "name": "Bay Leaf",
+      "qty": 1,
+      "product": "bay-leaves"
+    },
+    {
+      "name": "Cumin Seeds",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "cumin-seeds"
+    },
+    {
+      "name": "Garlic And Ginger Paste",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ginger-paste"
+    },
+    {
+      "name": "Green Beans",
+      "qty": 10,
+      "product": "green-beans"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Green Peas",
+      "qty": 1,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Rosewater",
+      "qty": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "greek-yoghurt"
+    },
+    {
+      "name": "Garam Masala",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "garam-masala"
+    },
+    {
+      "name": "Mint",
+      "product": "mint",
+      "optional": true
+    },
+    {
+      "name": "Fried Onion",
+      "product": "brown-onion",
+      "optional": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rinse the rice, soak in water for 30 minutes and drain."
+    },
+    {
+      "text": "Cook the rice in plenty of boiling salted water (as for pasta) until 90% cooked, about 12 minutes over high heat. Drain well."
+    },
+    {
+      "text": "Heat a frying pan with the oil or ghee and fry the chopped onions for about 6 minutes until golden. Add the cardamom, cloves, cinnamon, bay leaf and cumin seeds and fry for 30-40 seconds more."
+    },
+    {
+      "text": "Add the garlic and ginger paste, green beans cut into 1-2 cm pieces, diced carrot and peas, and season with salt. Add 1/4 cup water, cover and cook for 5 minutes until the vegetables soften slightly. Turn off the heat."
+    },
+    {
+      "text": "Mix the yoghurt with the rosewater and add to the pan with the vegetables. Up to this point it can be prepared a few hours ahead."
+    },
+    {
+      "text": "Assemble: spread half the rice on the bottom of a pot, arrange the vegetable mixture on top and cover with the remaining rice. Sprinkle with garam masala and chopped mint or mint leaves, cover and cook over low heat for 5 minutes. Turn off the heat, leave for 5 more minutes without lifting the lid and serve with fried onion."
+    }
+  ]
+}

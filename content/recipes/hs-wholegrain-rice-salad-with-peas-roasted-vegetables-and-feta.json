@@ -1,0 +1,101 @@
+{
+  "slug": "hs-wholegrain-rice-salad-with-peas-roasted-vegetables-and-feta",
+  "kind": "meal",
+  "title": "Wholegrain Rice Salad with Peas, Roasted Vegetables and Feta",
+  "subtitle": "with balsamic dressing",
+  "description": "A hearty salad of brown rice, peas and roasted capsicum, sweet potato and onion, topped with feta and a balsamic dressing.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%9c%d7%98-%d7%90%d7%95%d7%a8%d7%96-%d7%9e%d7%9c%d7%90-%d7%a2%d7%9d-%d7%90%d7%a4%d7%95%d7%a0%d7%94-%d7%99%d7%a8%d7%a7%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/12/650_500-344-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 90,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "salad",
+    "grain",
+    "feta"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "qty": 2,
+      "unit": "cup",
+      "product": "brown-rice"
+    },
+    {
+      "name": "Peas",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "frozen-peas"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Yellow Capsicum",
+      "qty": 1,
+      "product": "yellow-capsicum"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Small Onions",
+      "qty": 3,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Coarse Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Feta",
+      "qty": 150,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "balsamic-vinegar"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the rice in water for about 3 hours beforehand. Blanch the peas in boiling water for 3 minutes."
+    },
+    {
+      "text": "Bring the rice to the boil in a pot with 3.5 cups of water. Reduce the heat, cover and cook for 30 to 40 minutes, until cooked but still al dente."
+    },
+    {
+      "text": "Preheat the oven to 200°C."
+    },
+    {
+      "text": "Place the 3 cm capsicum pieces, sweet potato cubes and quartered onions on a baking tray lined with baking paper. Drizzle with olive oil, season with salt and pepper and roast for about 25 minutes, until golden and tender."
+    },
+    {
+      "text": "Mix the rice with the peas and roasted vegetables in a bowl."
+    },
+    {
+      "text": "Whisk the dressing ingredients (2 tbsp olive oil, balsamic vinegar, salt and pepper), pour over the salad and mix. Scatter over the crumbled feta and serve."
+    }
+  ]
+}

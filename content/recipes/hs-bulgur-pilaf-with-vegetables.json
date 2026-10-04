@@ -1,0 +1,106 @@
+{
+  "slug": "hs-bulgur-pilaf-with-vegetables",
+  "kind": "meal",
+  "title": "Bulgur Pilaf with Vegetables",
+  "subtitle": "with toasted seeds",
+  "description": "Coarse bulgur pilaf mixed with separately fried onion, capsicum, mushrooms and carrot, raisins and fresh herbs, topped with toasted pumpkin and sunflower seeds.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%99%d7%9c%d7%90%d7%a3-%d7%91%d7%95%d7%a8%d7%92%d7%95%d7%9c-%d7%99%d7%a8%d7%a7%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/פילאף-בורגול-וירקות-צלם-פרטוש-תמיר-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "bulgur",
+    "pilaf",
+    "vegetarian",
+    "vegetable"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Coarse Bulgur",
+      "qty": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Water",
+      "qty": 4,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 1,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Dark Raisins",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "sultanas"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "cup",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "pepitas"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "sunflower-seeds"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fry the bulgur in a little olive oil in a large pot. Add 4 cups boiling water and return to the boil. Reduce the heat and cook until all the liquid is absorbed."
+    },
+    {
+      "text": "Turn off the heat and leave to cool. Once the bulgur has cooled slightly, separate the grains gently with a fork."
+    },
+    {
+      "text": "Cut the onions into thin strips. Fry in oil in a frying pan until browned and remove from the heat. Repeat with the red capsicum, sliced mushrooms and carrot. It is important to fry each vegetable separately so that it does not turn mushy."
+    },
+    {
+      "text": "Roughly chop the raisins and fry them lightly. Transfer the fried vegetables, bulgur, raisins, chopped parsley and a little salt to a bowl and mix gently."
+    },
+    {
+      "text": "Toast the pumpkin and sunflower seeds in a dry pan and sprinkle over the bulgur."
+    }
+  ]
+}

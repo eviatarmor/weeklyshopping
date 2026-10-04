@@ -1,0 +1,84 @@
+{
+  "slug": "hs-freekeh-and-black-lentil-mujadara",
+  "kind": "meal",
+  "title": "Freekeh and Black Lentil Mujadara",
+  "subtitle": "with caramelised onion",
+  "description": "A mujadara of freekeh and small black lentils cooked with cumin and plenty of deeply browned onion.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%92%d7%93%d7%a8%d7%94-%d7%a4%d7%a8%d7%99%d7%a7%d7%99-%d7%95%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%a9%d7%97%d7%95%d7%a8%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/500_65069-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "mujadara",
+    "lentils",
+    "freekeh",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "qty": 1,
+      "unit": "cup",
+      "product": "freekeh"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Black Lentils",
+      "qty": 1,
+      "unit": "cup",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Water",
+      "qty": 4,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat a pot with the olive oil and fry the sliced onions for about 10 minutes until deeply browned, being careful not to burn them. Remove some of the onion and set it aside for garnish."
+    },
+    {
+      "text": "Drain the soaked lentils and add to the pot. Add the freekeh and boiling water and bring to the boil. Season with the cumin, cover and cook for about 30 minutes over low heat until the lentils soften."
+    },
+    {
+      "text": "Season with salt and pepper and cook for 10 more minutes."
+    },
+    {
+      "text": "Sprinkle the fried onion on top and serve hot or lukewarm."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "hs-radiatori-with-wild-mushrooms-and-herbs",
+  "kind": "meal",
+  "title": "Radiatori with Wild Mushrooms and Herbs",
+  "subtitle": "with an olive oil herb paste",
+  "description": "Short pasta tossed with quickly sauteed wild mushrooms and a fresh parsley, basil and oregano paste, with lemon zest.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%95%d7%96%d7%99%d7%9c%d7%99-%d7%a2%d7%9d-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%99%d7%a2%d7%a8-%d7%95%d7%a2%d7%a9%d7%91%d7%99-%d7%aa%d7%99%d7%91%d7%95%d7%9c/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/mushroom3-1140x641-1590475506.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "mushroom",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Radiatori Pasta",
+      "qty": 500,
+      "unit": "g"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 6,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Fresh Oregano",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Wild Mushrooms",
+      "qty": 2,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon"
+    },
+    {
+      "name": "Pecorino",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Put 4 tbsp olive oil, the garlic, oregano, parsley leaves and basil leaves in a food processor and blend to a rough paste."
+    },
+    {
+      "text": "Heat 2 tbsp olive oil in a wide, deep frying pan and saute the mushroom strips with salt and pepper for about 3 minutes."
+    },
+    {
+      "text": "Meanwhile, cook the pasta in a large pot of boiling salted water until al dente. Keep 1/4 cup of the cooking water."
+    },
+    {
+      "text": "Add the herb paste, the cooked pasta (with the saved cooking water) and the grated lemon zest to the mushrooms, stir for a minute or two and serve. Serve with grated pecorino if you like."
+    }
+  ]
+}

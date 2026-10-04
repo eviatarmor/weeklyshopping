@@ -1,0 +1,122 @@
+{
+  "slug": "hs-wheat-berry-and-greens-stew",
+  "kind": "meal",
+  "title": "Wheat Berry and Greens Stew",
+  "subtitle": "with lemon, mint and parsley",
+  "description": "A hearty wheat berry pilaf-style stew with onion, green chilli and garlic, finished with a big handful of mint, parsley, celery leaf and beet greens.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%97%d7%99%d7%98%d7%94-%d7%95%d7%a2%d7%9c%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/05/shutterstock_791653858-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "wheat",
+    "stew",
+    "vegan",
+    "middle eastern"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wheat Berries",
+      "qty": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 6,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Water",
+      "qty": 3,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Mint Leaves",
+      "qty": 1,
+      "unit": "cup",
+      "product": "mint"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "cup",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Celery Leaves",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Young Beet Greens",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Lemon",
+      "qty": 0.5,
+      "product": "lemon"
+    },
+    {
+      "name": "Sea Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Thick Tahini",
+      "product": "tahini",
+      "optional": true
+    },
+    {
+      "name": "Natural Yoghurt",
+      "product": "greek-yoghurt",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the wheat berries in plenty of hot water for about 1 hour. Drain."
+    },
+    {
+      "text": "Heat the olive oil in a heavy pot over high heat and fry the chopped onion until golden. Add the sliced green chilli and garlic and fry for another minute until fragrant."
+    },
+    {
+      "text": "Add the wheat and keep frying, stirring, until the grains are coated in oil."
+    },
+    {
+      "text": "Add the boiling water, reduce the heat and cover the pot. Cook for about half an hour until the grains are tender but not mushy. Add a little more water if needed."
+    },
+    {
+      "text": "When the wheat is ready, turn off the heat, add the chopped greens and the juice of half a lemon and season generously with salt and pepper. Mix carefully with a wooden spoon and serve warm with thick tahini or seasoned yoghurt."
+    }
+  ]
+}

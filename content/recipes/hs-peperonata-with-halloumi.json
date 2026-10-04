@@ -1,0 +1,109 @@
+{
+  "slug": "hs-peperonata-with-halloumi",
+  "kind": "meal",
+  "title": "Peperonata with Halloumi",
+  "subtitle": "Italian pepper stew",
+  "description": "A slow-cooked Italian capsicum stew with olives and a splash of vinegar, served with golden pan-fried halloumi and basil.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a4%d7%a8%d7%95%d7%a0%d7%98%d7%94-%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%a4%d7%9c%d7%a4%d7%9c%d7%99%d7%9d-%d7%95%d7%92%d7%91%d7%99%d7%a0%d7%aa-%d7%97%d7%9c%d7%95%d7%9e%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/04/פפרונטה-תבשיל-פלפלים-עם-קוביות-חלומי-זהובות-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 70,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "stew",
+    "italian",
+    "capsicum",
+    "halloumi"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Capsicums",
+      "qty": 4,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 2,
+      "product": "tomato"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Dried Mixed Herbs",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "italian-herbs"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "red-wine-vinegar"
+    },
+    {
+      "name": "Kalamata Olives",
+      "product": "olives"
+    },
+    {
+      "name": "Halloumi",
+      "qty": 200,
+      "unit": "g",
+      "product": "haloumi"
+    },
+    {
+      "name": "Butter",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Basil",
+      "product": "basil",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a frying pan and fry the chopped onions for about 3 minutes until golden. Add the finely chopped chilli and the diced capsicums and fry for about 2 minutes."
+    },
+    {
+      "text": "Add the chopped tomatoes, salt, pepper and dried herbs and bring to a gentle boil. Reduce the heat, cover and cook for about 40 minutes until the vegetables are soft. If all the liquid evaporates, add a little water."
+    },
+    {
+      "text": "Add the vinegar and a handful of pitted olives, stir and cook for 2-3 more minutes."
+    },
+    {
+      "text": "Meanwhile, fry the diced halloumi in a pan with a little butter or olive oil until golden."
+    },
+    {
+      "text": "Serve the peperonata with the halloumi cubes and basil leaves."
+    }
+  ]
+}

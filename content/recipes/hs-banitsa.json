@@ -1,0 +1,80 @@
+{
+  "slug": "hs-banitsa",
+  "kind": "meal",
+  "title": "Banitsa",
+  "subtitle": "Bulgarian filo pie with cheeses",
+  "description": "A Bulgarian filo pie of crisp buttered pastry filled with feta, a soft cheese, eggs and goat's yoghurt, baked until golden.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%91%d7%a0%d7%99%d7%a6%d7%94-%d7%9e%d7%90%d7%a4%d7%94-%d7%a4%d7%99%d7%9c%d7%95-%d7%91%d7%95%d7%9c%d7%92%d7%a8%d7%99-%d7%a2%d7%9d-%d7%92%d7%91%d7%99%d7%a0%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/04/DSCF9882-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pie",
+    "filo",
+    "bulgarian",
+    "cheese"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Filo Pastry",
+      "qty": 500,
+      "unit": "g",
+      "product": "filo-pastry"
+    },
+    {
+      "name": "Butter",
+      "qty": 100,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Feta",
+      "qty": 250,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Tabor Cheese",
+      "qty": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Eggs",
+      "qty": 4,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Goat's Yoghurt",
+      "qty": 1,
+      "product": "yoghurt"
+    },
+    {
+      "name": "Mixed Herbs",
+      "product": "italian-herbs",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 190°C and grease the baking dish."
+    },
+    {
+      "text": "Make the filling: mix the cheeses, eggs and yoghurt into a uniform mixture. Add the herbs if you like."
+    },
+    {
+      "text": "Assemble and bake: brush 2 filo sheets with melted butter one after the other and lay them on top of each other in the dish. Scrunch 4 more sheets and place on top. Pour the cheese mixture over the sheets."
+    },
+    {
+      "text": "Butter 2 more filo sheets and place over the cheese. If desired, gently score the top of the pie into the slice sizes you want, to make cutting easier after baking."
+    },
+    {
+      "text": "Bake for 30-35 minutes, until the pastry browns. Remove from the oven and cool slightly before slicing so the pie can set."
+    }
+  ]
+}

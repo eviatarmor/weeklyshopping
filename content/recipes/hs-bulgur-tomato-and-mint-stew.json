@@ -1,0 +1,121 @@
+{
+  "slug": "hs-bulgur-tomato-and-mint-stew",
+  "kind": "meal",
+  "title": "Bulgur, Tomato and Mint Stew",
+  "subtitle": "with Tzfat cheese and goat's yoghurt",
+  "description": "A one-pot bulgur cooked with onion, capsicum, grated tomato and mint, topped with Tzfat (Safed) cheese, goat's yoghurt and fresh mint.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%aa%d7%91%d7%a9%d7%99%d7%9c-%d7%91%d7%95%d7%a8%d7%92%d7%95%d7%9c-%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa-%d7%a6%d7%a4%d7%aa%d7%99%d7%aa-%d7%95%d7%99%d7%95%d7%92%d7%95%d7%a8%d7%98/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/04/תבשיל-בורגול-עגבניות-ונענע-עם-גבינה-צפתית-מעודנת-מוגשת-עם-יוגורט-עזים-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "bulgur",
+    "stew",
+    "vegetarian",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Red Capsicum",
+      "qty": 2,
+      "product": "red-capsicum"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Green Chilli",
+      "qty": 1,
+      "product": "green-chilli"
+    },
+    {
+      "name": "Tomatoes",
+      "qty": 3,
+      "product": "tomato"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Dried Mint",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-mint"
+    },
+    {
+      "name": "Baharat",
+      "qty": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "White Pepper",
+      "product": "white-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Coarse Bulgur",
+      "qty": 2,
+      "unit": "cup"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 3,
+      "unit": "cup",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Tzfat Cheese",
+      "qty": 200,
+      "unit": "g"
+    },
+    {
+      "name": "Goat's Yoghurt",
+      "product": "yoghurt"
+    },
+    {
+      "name": "Mint",
+      "product": "mint",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a pot and saute the chopped onions and capsicums until lightly golden. Add the garlic, chilli, grated tomatoes and tomato paste and stir. Season with the dried mint, baharat, salt and pepper and mix well."
+    },
+    {
+      "text": "Add the bulgur and stir for a few minutes until it absorbs the flavours."
+    },
+    {
+      "text": "Pour in the boiling vegetable stock or water, stir, bring to the boil again, reduce the heat, cover and cook for 25-30 minutes until the liquid is absorbed and the bulgur is cooked. Adjust the seasoning."
+    },
+    {
+      "text": "Transfer to bowls, top with triangles of Tzfat cheese, drizzle with goat's yoghurt and sprinkle with chopped mint leaves."
+    }
+  ]
+}

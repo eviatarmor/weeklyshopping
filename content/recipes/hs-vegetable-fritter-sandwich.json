@@ -1,0 +1,123 @@
+{
+  "slug": "hs-vegetable-fritter-sandwich",
+  "kind": "meal",
+  "title": "Vegetable Fritter Sandwich",
+  "subtitle": "in a sesame bun",
+  "description": "Zucchini, sweet potato and carrot fritters served in a sesame bun with mayonnaise or tahini, tomato, cucumber and lettuce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9b%d7%a8%d7%99%d7%9a-%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%99%d7%a8%d7%a7/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/1931-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 35,
+  "tags": [
+    "hashulchan",
+    "sandwich",
+    "fritters",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Green Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Yellow Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Spring Onions",
+      "qty": 2,
+      "product": "spring-onion"
+    },
+    {
+      "name": "Parsley",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Spelt Flour",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Sesame Buns",
+      "qty": 4,
+      "product": "bread-rolls"
+    },
+    {
+      "name": "Mayonnaise",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "mayonnaise"
+    },
+    {
+      "name": "Tomato",
+      "qty": 1,
+      "product": "tomato"
+    },
+    {
+      "name": "Cucumber",
+      "qty": 1,
+      "product": "cucumber"
+    },
+    {
+      "name": "Lettuce",
+      "qty": 4,
+      "product": "iceberg-lettuce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Peel the zucchini, sweet potato and carrot and grate them."
+    },
+    {
+      "text": "Mix the grated vegetables with all the other fritter ingredients in a large bowl and shape into tablespoon-sized fritters by hand."
+    },
+    {
+      "text": "Pour a little olive oil into a frying pan and fry the fritters for 2 to 3 minutes on each side until golden. Cool slightly."
+    },
+    {
+      "text": "Cut each sesame bun in half and spread both sides with mayonnaise or tahini. Add a washed and dried lettuce leaf, cucumber slices and tomato slices. Place a fritter in the middle and close the bun."
+    }
+  ]
+}

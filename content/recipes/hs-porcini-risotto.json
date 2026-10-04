@@ -1,0 +1,119 @@
+{
+  "slug": "hs-porcini-risotto",
+  "kind": "meal",
+  "title": "Porcini Risotto",
+  "subtitle": "creamy with porcini and portobello mushrooms",
+  "description": "A rich risotto made with dried porcini and portobello mushrooms, cooked in vegetable stock and cream and finished with butter and parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%a4%d7%95%d7%a8%d7%a6%d7%99%d7%a0%d7%99/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/Refaello_008.jpg-1140x641-1542991156.png",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "risotto",
+    "italian",
+    "mushroom"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Risotto Rice",
+      "qty": 500,
+      "unit": "g",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Dried Porcini Mushrooms",
+      "qty": 50,
+      "unit": "g",
+      "product": "dried-porcini-mushrooms"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 50,
+      "unit": "g",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 150,
+      "unit": "ml",
+      "product": "white-wine"
+    },
+    {
+      "name": "Salt",
+      "qty": 10,
+      "unit": "g",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 5,
+      "unit": "g",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 20,
+      "unit": "g",
+      "product": "garlic"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 1,
+      "unit": "l",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 200,
+      "unit": "ml",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "White Onion",
+      "qty": 100,
+      "unit": "g",
+      "product": "brown-onion"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Soak the porcini in boiling water for 20 minutes, then squeeze dry and slice if needed."
+    },
+    {
+      "text": "Bring the vegetable stock to the boil in a pot, add the cream and bring to the boil again. Reduce the heat."
+    },
+    {
+      "text": "Heat olive oil in a pan, add the garlic and onion and saute for about 2 minutes. Add the risotto rice and fry, stirring, until it starts to toast. Add the porcini and portobello mushrooms and stir."
+    },
+    {
+      "text": "Add the white wine, then the hot stock a ladle at a time, stirring and letting the liquid absorb a little before each addition. Season with salt and pepper to taste."
+    },
+    {
+      "text": "Stir in the butter and parmesan until melted into the risotto and serve."
+    }
+  ]
+}

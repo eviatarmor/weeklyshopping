@@ -1,0 +1,100 @@
+{
+  "slug": "hs-potato-and-mushroom-soup",
+  "kind": "meal",
+  "title": "Potato and Mushroom Soup",
+  "subtitle": "with sauteed mushrooms",
+  "description": "A creamy-textured blended potato, carrot and mushroom soup, topped with butter-sauteed mushrooms and parsley.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9e%d7%a8%d7%a7-%d7%aa%d7%a4%d7%95%d7%97%d7%99-%d7%90%d7%93%d7%9e%d7%94-%d7%95%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2015/11/650_50013-1140x641.jpg",
+  "servings": 6,
+  "prepMinutes": 70,
+  "tags": [
+    "hashulchan",
+    "soup",
+    "mushroom",
+    "vegetarian",
+    "winter"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Potatoes",
+      "qty": 6,
+      "product": "potato"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Garlic",
+      "qty": 5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Celery",
+      "qty": 2,
+      "product": "celery"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Butter",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Swiss Brown Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "swiss-brown-mushrooms"
+    },
+    {
+      "name": "Parsley",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Put the roughly chopped onion, peeled and chopped potatoes, carrot, whole garlic cloves, celery and sliced button mushrooms in a pot with 2 litres of water. Cook for 30-40 minutes, or until the potatoes are soft."
+    },
+    {
+      "text": "Transfer the contents of the pot, including half the cooking water, to a blender and blend until smooth. Add more cooking water to thin if needed."
+    },
+    {
+      "text": "Return to the pot and cook over low heat for 10 minutes more. Taste and season with salt and pepper."
+    },
+    {
+      "text": "Heat a frying pan with the butter and saute the sliced Swiss brown mushrooms until they brown and soften. Season with parsley, salt and pepper."
+    },
+    {
+      "text": "Add the sauteed mushrooms to the soup and ladle into serving bowls."
+    }
+  ]
+}

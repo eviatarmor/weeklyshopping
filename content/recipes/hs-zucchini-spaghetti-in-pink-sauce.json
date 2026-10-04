@@ -1,0 +1,94 @@
+{
+  "slug": "hs-zucchini-spaghetti-in-pink-sauce",
+  "kind": "meal",
+  "title": "Zucchini Spaghetti in Pink Sauce",
+  "subtitle": "with goat's cheese rosa sauce and feta",
+  "description": "Zucchini ribbons tossed with a tomato sauce blended with soft goat's cheese into a creamy pink sauce, finished with parsley and goat's feta.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%a4%d7%92%d7%98%d7%99-%d7%96%d7%95%d7%a7%d7%99%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%a8%d7%95%d7%96%d7%94/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/04/DSCF0120-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 40,
+  "tags": [
+    "hashulchan",
+    "zucchini",
+    "low carb",
+    "vegetarian",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "qty": 4,
+      "product": "zucchini"
+    },
+    {
+      "name": "Parsley",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Tinned Tomatoes",
+      "qty": 1,
+      "unit": "tin",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Dried Oregano",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dried-oregano"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Soft Goat's Cheese",
+      "qty": 1,
+      "unit": "jar",
+      "product": "goat-s-cheese"
+    },
+    {
+      "name": "Goat's Feta",
+      "qty": 100,
+      "unit": "g",
+      "product": "feta"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cut the zucchini into long thin strips with a julienne peeler. If you don't have one, slice the zucchini lengthways with a regular peeler and cut the slices into thin sticks."
+    },
+    {
+      "text": "Cook the sauce ingredients, except the goat's cheese, in a covered pot for 12-15 minutes. Cool."
+    },
+    {
+      "text": "Blend the tomato sauce with the goat's cheese to a velvety pink sauce. Taste and add salt and pepper only if needed."
+    },
+    {
+      "text": "Toss the zucchini strips with the sauce, sprinkle with chopped parsley and crumbled goat's feta and serve immediately."
+    }
+  ]
+}

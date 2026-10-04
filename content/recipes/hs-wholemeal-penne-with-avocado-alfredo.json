@@ -1,0 +1,83 @@
+{
+  "slug": "hs-wholemeal-penne-with-avocado-alfredo",
+  "kind": "meal",
+  "title": "Wholemeal Penne with Avocado Alfredo",
+  "subtitle": "with golden pumpkin balls",
+  "description": "Wholemeal penne coated in a creamy avocado sauce and served with pan-fried pumpkin balls and shaved parmesan.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%a1%d7%98%d7%94-%d7%a2%d7%9d-%d7%90%d7%91%d7%95%d7%a7%d7%93%d7%95/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/פנה-אלפרקדו-2-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "hashulchan",
+    "pasta",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Wholemeal Penne",
+      "qty": 1,
+      "unit": "packet",
+      "product": "penne"
+    },
+    {
+      "name": "Avocado",
+      "qty": 2,
+      "product": "avocado"
+    },
+    {
+      "name": "Pumpkin",
+      "qty": 300,
+      "unit": "g",
+      "product": "pumpkin"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Lemon Juice",
+      "qty": 0.5,
+      "unit": "tbsp",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Parmesan",
+      "product": "parmesan",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Boil a large pot of lightly salted water. Cook the penne uncovered over medium heat for 12 to 13 minutes (wholemeal pasta takes longer)."
+    },
+    {
+      "text": "While the pasta cooks, scoop the pumpkin into small balls with a melon baller. Fry the balls in a pan with the olive oil until golden."
+    },
+    {
+      "text": "Blend the peeled avocados to a smooth cream and season with salt, pepper and lemon juice."
+    },
+    {
+      "text": "Drain the pasta, then toss with the avocado sauce and pumpkin balls."
+    },
+    {
+      "text": "Transfer to plates, top with shaved parmesan and serve hot."
+    }
+  ]
+}

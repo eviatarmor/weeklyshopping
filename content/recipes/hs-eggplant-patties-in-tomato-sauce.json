@@ -1,0 +1,102 @@
+{
+  "slug": "hs-eggplant-patties-in-tomato-sauce",
+  "kind": "meal",
+  "title": "Eggplant Patties in Tomato Sauce",
+  "subtitle": "with smoked mozzarella",
+  "description": "Tennis-ball sized patties of diced eggplant, parmesan and smoked mozzarella, fried until crisp and simmered in a simple garlic tomato sauce.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa-%d7%97%d7%a6%d7%99%d7%9c%d7%99%d7%9d/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/04/DSCF1044-1140x641-1655980072.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "hashulchan",
+    "eggplant",
+    "patties",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Eggplants",
+      "qty": 2,
+      "product": "eggplant"
+    },
+    {
+      "name": "Breadcrumbs",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "panko-breadcrumbs"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Egg Yolk",
+      "qty": 1
+    },
+    {
+      "name": "Parmesan",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "parmesan"
+    },
+    {
+      "name": "Parsley",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Smoked Mozzarella",
+      "qty": 20,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Garlic",
+      "qty": 1,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Crushed Tomatoes",
+      "qty": 0.5,
+      "unit": "tin",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Oil For Frying",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Make the patties: salt the 1/2 cm diced eggplant and fry in a wide frying pan with 2 tbsp olive oil over high heat for about 7 minutes, stirring. Remove from the heat and cool."
+    },
+    {
+      "text": "Mix the eggplant with the remaining patty ingredients into a uniform mixture and form tennis-ball sized patties."
+    },
+    {
+      "text": "Heat 1 cm of oil in a non-stick pan. Fry over medium heat for about 5 minutes, turning occasionally, until browned and crisp on the outside. Lift out with a slotted spoon onto a plate."
+    },
+    {
+      "text": "Make the sauce: fry the sliced garlic in 1 tbsp olive oil for about 30 seconds over medium heat, add the crushed tomatoes, 1/2 cup water, salt and pepper. Cook for 10 minutes until boiling. Reduce the heat, add the patties and simmer for about 10 minutes, turning the patties occasionally so they absorb the flavours."
+    }
+  ]
+}

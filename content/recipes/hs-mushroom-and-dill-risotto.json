@@ -1,0 +1,138 @@
+{
+  "slug": "hs-mushroom-and-dill-risotto",
+  "kind": "meal",
+  "title": "Mushroom and Dill Risotto",
+  "subtitle": "with parmesan and cream",
+  "description": "A creamy arborio risotto of three kinds of mushrooms, with lemon zest, nutmeg, dill, parmesan and a little whipped cream folded through.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a8%d7%99%d7%96%d7%95%d7%98%d7%95-%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%aa-%d7%95%d7%a9%d7%9e%d7%99%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-143-1140x641.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "risotto",
+    "mushroom",
+    "italian",
+    "vegetarian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "qty": 50,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Portobello Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Dried Porcini Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "dried-porcini-mushrooms"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Arborio Rice",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "arborio-rice"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "White Pepper",
+      "product": "white-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Nutmeg",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "nutmeg"
+    },
+    {
+      "name": "Ground Coriander",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "ground-coriander"
+    },
+    {
+      "name": "Dry White Wine",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "white-wine"
+    },
+    {
+      "name": "Vegetable Stock",
+      "qty": 750,
+      "unit": "ml",
+      "product": "vegetable-stock"
+    },
+    {
+      "name": "Dill",
+      "qty": 0.5,
+      "unit": "bunch",
+      "product": "dill"
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 250,
+      "unit": "ml",
+      "product": "thickened-cream"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Melt the butter in a pot and saute the finely diced onions for about 4 minutes until translucent. Add the mushrooms (soak the dried porcini in water first), garlic, grated lemon zest, rice and spices and stir until the rice is coated in fat."
+    },
+    {
+      "text": "Add the wine and stir until it is absorbed."
+    },
+    {
+      "text": "Add the boiling stock one ladle at a time, stirring, until each addition is absorbed. Continue until all the stock is used. This should take about 25 minutes, finishing when the rice is still moist."
+    },
+    {
+      "text": "Fold in the chopped dill, grated parmesan and lightly whipped cream. Adjust the seasoning."
+    },
+    {
+      "text": "Serve hot with shavings of parmesan on top."
+    }
+  ]
+}

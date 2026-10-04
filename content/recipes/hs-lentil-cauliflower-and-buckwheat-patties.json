@@ -1,0 +1,129 @@
+{
+  "slug": "hs-lentil-cauliflower-and-buckwheat-patties",
+  "kind": "meal",
+  "title": "Lentil, Cauliflower and Buckwheat Patties",
+  "subtitle": "with carrot tahini sauce",
+  "description": "Hearty patties of black lentils, buckwheat and cauliflower, served with a tahini sauce thinned with fresh carrot juice and turmeric.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%a2%d7%93%d7%a9%d7%99%d7%9d-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2019/02/AFIKG_IMG_0117.jpg-1140x641-1552734693.png",
+  "servings": 6,
+  "prepMinutes": 75,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "patties",
+    "lentils",
+    "vegan",
+    "israeli"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Black Lentils",
+      "qty": 400,
+      "unit": "g",
+      "product": "brown-lentils"
+    },
+    {
+      "name": "Buckwheat",
+      "qty": 1,
+      "unit": "cup"
+    },
+    {
+      "name": "Brown Onions",
+      "qty": 2,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot"
+    },
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Coriander",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "coriander"
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "long-red-chilli"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Canola Oil",
+      "qty": 1,
+      "unit": "cup",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Raw Tahini",
+      "qty": 1,
+      "unit": "cup",
+      "product": "tahini"
+    },
+    {
+      "name": "Carrot Juice",
+      "qty": 1,
+      "unit": "cup",
+      "product": "orange-juice"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "ground-turmeric"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Parboil the buckwheat for 7 minutes in boiling water, just until it is tender to the bite. Drain the soaked lentils and dry the lentils and buckwheat well."
+    },
+    {
+      "text": "Grate the onions and squeeze out their liquid."
+    },
+    {
+      "text": "Blanch the carrot: cook for 4 minutes in boiling water and transfer to iced water. Grate the blanched carrot."
+    },
+    {
+      "text": "Put the lentils, buckwheat and cauliflower florets in a food processor. Add the onion, carrot, coriander, chilli and spices and pulse until a uniform, workable mixture forms."
+    },
+    {
+      "text": "Form patties of equal size. Heat a lightly oiled frying pan over medium heat and cook the patties for about 3 minutes on each side."
+    },
+    {
+      "text": "Mix the tahini with the cold carrot juice and season with the turmeric."
+    },
+    {
+      "text": "Place the patties on a serving plate and serve with the tahini."
+    }
+  ]
+}

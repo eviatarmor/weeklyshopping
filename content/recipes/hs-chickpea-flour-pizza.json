@@ -1,0 +1,120 @@
+{
+  "slug": "hs-chickpea-flour-pizza",
+  "kind": "meal",
+  "title": "Chickpea Flour Pizza",
+  "subtitle": "with eggplant, tomato and mozzarella",
+  "description": "A yeasted pizza base made with chickpea and plain flour, topped with crushed tomatoes, roasted eggplant, mozzarella and basil.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a4%d7%99%d7%a6%d7%94-%d7%9e%d7%a7%d7%9e%d7%97-%d7%97%d7%95%d7%9e%d7%95%d7%a1-%d7%a2%d7%9d-%d7%97%d7%a6%d7%99%d7%9c%d7%99%d7%9d-%d7%95%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/Humus_020-1140x641.jpg",
+  "servings": 3,
+  "prepMinutes": 110,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pizza",
+    "baked",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Chickpea Flour",
+      "qty": 1,
+      "unit": "cup",
+      "product": "plain-flour"
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Dried Yeast",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "yeast"
+    },
+    {
+      "name": "Date Syrup (Silan)",
+      "qty": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "Warm Water",
+      "qty": 1,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Crushed Tomatoes",
+      "qty": 300,
+      "unit": "g",
+      "product": "diced-tomatoes"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Eggplant",
+      "qty": 1,
+      "product": "eggplant"
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 200,
+      "unit": "g",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Basil Leaves",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Olive Oil Spray",
+      "product": "cooking-spray",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix the flours, yeast and silan in a bowl. Add the water, oil and salt and mix until a sticky dough forms. Cover and leave for about 1 hour at room temperature, until doubled in size."
+    },
+    {
+      "text": "Meanwhile preheat the oven to 200°C. Place the eggplant slices on a tray lined with baking paper, sprinkle with a little salt and spray with oil. Bake for 20 minutes until deeply golden. Set aside."
+    },
+    {
+      "text": "Line a 24 cm round tin with greased baking paper and press the dough into it with oiled hands. Bake for about 7 minutes until golden."
+    },
+    {
+      "text": "Remove from the oven and pour over the crushed tomatoes mixed with the crushed garlic. Season with salt and pepper, top with slices of mozzarella and the eggplant and return to the oven for 8 to 10 minutes, or until the cheese melts. Scatter with basil and serve."
+    }
+  ]
+}

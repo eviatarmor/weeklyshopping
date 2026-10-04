@@ -1,0 +1,72 @@
+{
+  "slug": "hs-spaghetti-aglio-e-olio",
+  "kind": "meal",
+  "title": "Spaghetti Aglio e Olio",
+  "subtitle": "with confit garlic and chilli",
+  "description": "Spaghetti in a garlicky olive oil sauce made with both confit and fried garlic, finished with parsley and optional chilli.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%a1%d7%a4%d7%92%d7%98%d7%99-%d7%90%d7%9c%d7%99-%d7%90%d7%95%d7%9c%d7%99%d7%95/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2018/11/DSCF5821-1140x641-1545333266.jpg",
+  "servings": 4,
+  "prepMinutes": 50,
+  "tags": [
+    "vegetarian",
+    "hashulchan",
+    "pasta",
+    "italian",
+    "quick"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "qty": 500,
+      "unit": "g",
+      "product": "spaghetti"
+    },
+    {
+      "name": "Garlic",
+      "qty": 15,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 11,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Red Chilli",
+      "qty": 1,
+      "product": "long-red-chilli",
+      "optional": true
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Parsley",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "flat-leaf-parsley"
+    }
+  ],
+  "steps": [
+    {
+      "text": "For the confit garlic, pour 3 tbsp olive oil into a small pot, add 12 peeled garlic cloves and cook over very low heat for about half an hour until soft, taking care not to burn or brown the garlic."
+    },
+    {
+      "text": "Heat half of the remaining olive oil in a pan and fry the 3 crushed garlic cloves. Add the chilli and salt."
+    },
+    {
+      "text": "Pour the rest of the oil into a separate mixing bowl, add the confit garlic and parsley, then pour in the garlic and chilli oil."
+    },
+    {
+      "text": "Cook the spaghetti according to the packet instructions until al dente. Drain, reserving a few spoonfuls of the cooking water. Add the pasta to the bowl with the oils along with the cooking water and mix well until the oil coats all the pasta. Top with extra sliced chilli if you like."
+    }
+  ]
+}

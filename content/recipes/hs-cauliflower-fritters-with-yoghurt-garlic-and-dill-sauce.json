@@ -1,0 +1,104 @@
+{
+  "slug": "hs-cauliflower-fritters-with-yoghurt-garlic-and-dill-sauce",
+  "kind": "meal",
+  "title": "Cauliflower Fritters with Yoghurt, Garlic and Dill Sauce",
+  "subtitle": "with sunflower seeds",
+  "description": "Cauliflower fritters with oats and sunflower seeds, served with a garlicky dill yoghurt sauce. A light, easy dinner for a warm evening.",
+  "sourceUrl": "https://www.hashulchan.co.il/מתכונים/%d7%9c%d7%91%d7%99%d7%91%d7%95%d7%aa-%d7%9b%d7%a8%d7%95%d7%91%d7%99%d7%aa-%d7%a2%d7%9d-%d7%a7%d7%95%d7%95%d7%90%d7%a7%d7%a8/",
+  "imageUrl": "https://medias.hashulchan.co.il/www/uploads/2016/01/650_500-101-1140x641-1577087816.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "hashulchan",
+    "fritters",
+    "cauliflower",
+    "vegetarian",
+    "light"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "qty": 1,
+      "product": "cauliflower"
+    },
+    {
+      "name": "Parsley",
+      "qty": 0.33,
+      "unit": "bunch",
+      "product": "flat-leaf-parsley"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "qty": 0.67,
+      "unit": "cup",
+      "product": "sunflower-seeds"
+    },
+    {
+      "name": "Salt",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Eggs",
+      "qty": 1,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Rolled Oats",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "rolled-oats"
+    },
+    {
+      "name": "Canola Oil",
+      "product": "vegetable-oil",
+      "pantry": true
+    },
+    {
+      "name": "Goat's Yoghurt",
+      "qty": 500,
+      "unit": "ml",
+      "product": "yoghurt"
+    },
+    {
+      "name": "Dill",
+      "qty": 0.25,
+      "unit": "bunch",
+      "product": "dill"
+    },
+    {
+      "name": "Garlic",
+      "qty": 3,
+      "unit": "clove",
+      "product": "garlic"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to the boil. Add the cauliflower, return to the boil over high heat and cook for 20 minutes, then reduce the heat and cook for 5 minutes more or until soft."
+    },
+    {
+      "text": "Drain the cauliflower and mash in a food processor to an almost smooth puree. Transfer to a large bowl."
+    },
+    {
+      "text": "Finely chop the parsley. Add the parsley, sunflower seeds, salt and pepper, then the beaten egg and oats and mix. If the mixture is too wet, add a tablespoon of oats."
+    },
+    {
+      "text": "Heat 2-3 cm of canola oil in a wide frying pan over high heat."
+    },
+    {
+      "text": "Form fritters with an ice cream scoop or spoon and add to the hot oil. Fry on both sides until golden, then lift out with a slotted spoon onto paper towel."
+    },
+    {
+      "text": "Finely chop the dill and crush the garlic. Mix the yoghurt with the dill, garlic, salt and pepper, and serve with the fritters."
+    }
+  ]
+}
