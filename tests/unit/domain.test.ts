@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { buildProductIndex, classify } from "@/shared/classify";
 import { blendTree, expandIngredients, expandRecipes, type BlendRecipe, type IngredientRow } from "@/shared/expand";
+import { equipmentFor } from "@/shared/equipment";
 import { searchMatcher } from "@/shared/search";
 import { formatCountdown, stepTimers } from "@/shared/timers";
 import { base64UrlToBytes, bytesToBase64Url, encryptPayload } from "@/server/web-push";
@@ -316,5 +317,17 @@ TIP: Don't peek for 2 minutes!`;
       { label: "Remove from heat and keep…", seconds: 600 },
     ]);
     expect(formatCountdown(65_000)).toBe("1:05");
+  });
+});
+
+describe("equipment", () => {
+  it("reads the tools from the method", () => {
+    expect(
+      equipmentFor([
+        { text: "Bring a medium saucepan of salted water to the boil. Cook the pasta, then drain." },
+        { text: "Heat oil in a large frying pan. Blend the sauce with a stick blender, then preheat the grill." },
+      ]),
+    ).toEqual(["Frying pan", "Saucepan", "Stick blender", "Colander or sieve"]);
+    expect(equipmentFor([{ text: "Cook the rice in a pressure cooker with the lid on." }])).toEqual(["Pressure cooker", "Lid"]);
   });
 });

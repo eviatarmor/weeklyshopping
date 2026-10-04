@@ -2,6 +2,7 @@ import { buildProductIndex, type ClassifyProduct } from "@/shared/classify";
 import type { BlendRecipe, IngredientRow } from "@/shared/expand";
 import { recipeSource } from "@/shared/sources";
 import type { RecipeDetail, RecipeIndexEntry } from "@/shared/recipe-types";
+import { equipmentFor } from "@/shared/equipment";
 import { normalizeUnit } from "@/shared/units";
 import type { Content } from "./content-types";
 
@@ -25,6 +26,8 @@ export type StoreRecipe = {
   nutritionEstimated: boolean;
   tags: string[];
   steps: { text: string; imageUrl?: string }[];
+  /** Kitchen tools mentioned in the method. */
+  equipment: string[];
   addedAt: string;
   ingredients: IngredientRow[];
 };
@@ -64,6 +67,7 @@ export function buildStore(content: Content): ContentStore {
     nutritionEstimated: r.nutrition?.estimated ?? false,
     tags: r.tags,
     steps: r.steps,
+    equipment: equipmentFor(r.steps),
     addedAt: r.addedAt,
     ingredients: r.ingredients.map((i) => ({
       name: i.name,

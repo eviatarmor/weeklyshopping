@@ -35,6 +35,8 @@ export type RecipeFields = {
   nutritionEstimated: boolean;
   tags: string[];
   steps: { text: string; imageUrl?: string }[];
+  /** Kitchen tools mentioned in the method ("Frying pan", "Blender", …). */
+  equipment: string[];
   addedAt: string;
 };
 

@@ -350,6 +350,18 @@ function RecipePage() {
       {/* Right column on desktop: method, used in, cooked. Below the ingredients on phones. */}
       <div className="space-y-5 px-4 pt-5 md:px-0 md:pt-0">
         <div className="hidden md:block">{actions}</div>
+        {recipe.equipment.length > 0 && (
+          <section>
+            <h2 className="mb-2 text-lg font-semibold">You will need</h2>
+            <ul className="flex flex-wrap gap-1.5">
+              {recipe.equipment.map((tool) => (
+                <li key={tool} className="rounded-full border bg-card px-3 py-1 text-sm">
+                  {tool}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
         {recipe.steps.length > 0 && (
           <section>
             <div className="mb-2 flex items-center justify-between gap-2">
