@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { createFileRoute, Link, useRouter } from "@tanstack/react-router";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { CalendarPlus, Check, ChefHat, ChevronLeft, Clock, ExternalLink, Play, RotateCcw, ShoppingCart, Users, X } from "lucide-react";
+import { CalendarPlus, Check, ChefHat, ChevronLeft, Clock, ExternalLink, Play, RotateCcw, Share2, ShoppingCart, Users, X } from "lucide-react";
 import { toast } from "sonner";
 import { batchesFor, blendTree, type BlendRecipe } from "@/shared/expand";
 import { spoonStandardFor } from "@/shared/measure";
@@ -26,6 +26,25 @@ import { useTRPC } from "@/client/lib/trpc";
 import { cn, haptic, timeAgo } from "@/client/lib/utils";
 
 export const Route = createFileRoute("/recipes/$slug")({ component: RecipePage });
+
+/** Send a link to this recipe through the phone's share sheet (WhatsApp, Messages…), or copy it. */
+async function shareRecipe(title: string, slug: string) {
+  const url = `${window.location.origin}/recipes/${slug}`;
+  if (navigator.share) {
+    try {
+      await navigator.share({ title, text: title, url });
+    } catch {
+      // Closed the share sheet: nothing to do.
+    }
+    return;
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+    toast.success("Link copied", { description: "Paste it to send the recipe." });
+  } catch {
+    toast.error("Couldn't copy the link");
+  }
+}
 
 function RecipePage() {
   const { slug } = Route.useParams();
@@ -172,6 +191,14 @@ function RecipePage() {
           className="absolute top-[calc(env(safe-area-inset-top)+0.75rem)] left-3 grid size-10 place-items-center rounded-full bg-background/85 shadow backdrop-blur"
         >
           <ChevronLeft className="size-6" />
+        </button>
+        <button
+          type="button"
+          onClick={() => void shareRecipe(recipe.title, slug)}
+          aria-label="Share"
+          className="absolute top-[calc(env(safe-area-inset-top)+0.75rem)] right-3 grid size-10 place-items-center rounded-full bg-background/85 shadow backdrop-blur"
+        >
+          <Share2 className="size-5" />
         </button>
       </div>
 
