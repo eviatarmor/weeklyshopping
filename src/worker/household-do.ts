@@ -24,14 +24,26 @@ export class HouseholdDO extends DurableObject<Env> {
       // Recipes and the catalog stay in memory (they ship with each deploy), so starting up
       // writes nothing to SQLite beyond first-time migrations and section defaults.
       this.store = buildStore(await loadContent());
+      // Only write when something is actually missing: a failed write (e.g. the daily
+      // row-write limit) would otherwise break every read that follows it.
       try {
-        migrate(this.db, migrations);
+        if (this.migrationsPending()) migrate(this.db, migrations);
         ensureSections(this.db);
       } catch (error) {
-        // e.g. the daily row-write limit: keep serving reads rather than failing every request.
         console.error("startup migration failed; serving read-only until it succeeds", error);
       }
     });
+  }
+
+  /** Read-only check: has the newest bundled migration been applied? */
+  private migrationsPending(): boolean {
+    const newest = Math.max(...migrations.journal.entries.map((e) => e.when));
+    try {
+      const row = this.ctx.storage.sql.exec<{ created_at: number }>("SELECT MAX(created_at) AS created_at FROM __drizzle_migrations").one();
+      return !row.created_at || Number(row.created_at) < newest;
+    } catch {
+      return true; // fresh database: no migrations table yet
+    }
   }
 
   override async fetch(request: Request): Promise<Response> {

@@ -76,11 +76,6 @@ export const recipes = sqliteTable("recipes", {
   servings: real("servings").notNull(),
   yieldUnit: text("yield_unit"),
   prepMinutes: integer("prep_minutes"),
-  /** Energy per serving in kcal (estimate from the source); macros in grams. */
-  kcal: real("kcal"),
-  proteinG: real("protein_g"),
-  carbsG: real("carbs_g"),
-  fatG: real("fat_g"),
   tags: text("tags", { mode: "json" }).$type<string[]>().notNull().default(sql`'[]'`),
   steps: text("steps", { mode: "json" }).$type<{ text: string; imageUrl?: string }[]>().notNull().default(sql`'[]'`),
   addedAt: text("added_at").notNull(),
