@@ -27,6 +27,11 @@ import { cn, haptic, timeAgo } from "@/client/lib/utils";
 
 export const Route = createFileRoute("/recipes/$slug")({ component: RecipePage });
 
+/** Method text marks key ingredients with **double asterisks**: show those in bold. */
+function withBold(text: string) {
+  return text.split(/\*\*(.+?)\*\*/g).map((part, i) => (i % 2 ? <strong key={i} className="font-semibold">{part}</strong> : part));
+}
+
 /** Send a link to this recipe through the phone's share sheet (WhatsApp, Messages…), or copy it. */
 async function shareRecipe(title: string, slug: string) {
   const url = `${window.location.origin}/recipes/${slug}`;
@@ -400,7 +405,7 @@ function RecipePage() {
                       {step.imageUrl && (
                         <img src={sizedImage(step.imageUrl, 400) ?? undefined} alt="" loading="lazy" className="w-full rounded-lg" />
                       )}
-                      <p className={cn("text-sm leading-relaxed whitespace-pre-line", done && "line-through decoration-muted-foreground/50")}>{step.text}</p>
+                      <p className={cn("text-sm leading-relaxed whitespace-pre-line", done && "line-through decoration-muted-foreground/50")}>{withBold(step.text)}</p>
                     </div>
                     {/* Timers show once you start cooking. */}
                     {cookingThis && <StepTimers slug={slug} suggestions={stepTimers(step.text, index)} timers={timers} now={now} />}
