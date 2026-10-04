@@ -68,7 +68,7 @@ export function ListTotal({ items }: { items: ListItem[] }) {
         <span className="text-xl font-bold tabular-nums">≈ {money(cheapest)}</span>
       </div>
       <p className="text-xs text-muted-foreground">
-        Cheapest of each item · {priced} of {items.length} priced{loading ? ` · checking ${loading} more…` : ""}
+        Best buy for each item · {priced} of {items.length} priced{loading ? ` · checking ${loading} more…` : ""}
       </p>
       <div className="mt-2 grid grid-cols-2 gap-2 border-t pt-2">
         {STORES.map((store) => (
@@ -115,7 +115,7 @@ export function PriceTag({ name }: { name: string }) {
               e.stopPropagation();
               open(offer.url);
             }}
-            aria-label={`${STORE_LABELS[store]}: ${money(offer.price)}${best ? " (cheapest)" : ""}`}
+            aria-label={`${STORE_LABELS[store]}: ${money(offer.price)}${best ? " (best buy)" : ""}`}
             className={cn(
               "flex items-center gap-1 rounded-md px-1.5 py-px text-[11px] tabular-nums active:scale-95",
               best ? "bg-primary/10 font-bold text-primary ring-1 ring-primary/40" : "text-muted-foreground",
@@ -158,7 +158,7 @@ export function PriceComparisonPanel({ name }: { name: string }) {
   const others = data.offers.filter((o) => o !== data.cheapest && o.productId !== data.cheapest?.productId && o.productId !== data.bestValue?.productId);
   return (
     <ul className="divide-y rounded-xl border bg-card">
-      {data.cheapest && row(data.cheapest, "Cheapest")}
+      {data.cheapest && row(data.cheapest, "Best buy")}
       {data.bestValue && data.bestValue.productId !== data.cheapest?.productId && row(data.bestValue, "Best value")}
       {others.map((o) => row(o))}
     </ul>

@@ -2,8 +2,9 @@ import { describe, expect, it } from "vitest";
 import { buildProductIndex, classify } from "@/shared/classify";
 import { blendTree, expandIngredients, expandRecipes, type BlendRecipe, type IngredientRow } from "@/shared/expand";
 import { equipmentFor } from "@/shared/equipment";
-import { isVegetarianProduct } from "@/shared/grocery";
+import { isVegetarianProduct, pickBestBuy, type Offer } from "@/shared/grocery";
 import { parseUnitPrice } from "@/server/grocers";
+import { matches } from "@/shared/product-match";
 import { searchMatcher } from "@/shared/search";
 import { formatCountdown, stepTimers } from "@/shared/timers";
 import { base64UrlToBytes, bytesToBase64Url, encryptPayload } from "@/server/web-push";
@@ -348,5 +349,33 @@ describe("grocery prices", () => {
     expect(parseUnitPrice("$2.50/ 1kg")).toEqual({ unitPrice: 2.5, unitBasis: "kg" });
     expect(parseUnitPrice("$0.63 / 1EA")).toEqual({ unitPrice: 0.63, unitBasis: "each" });
     expect(parseUnitPrice("$1.20/100ml")?.unitBasis).toBe("l");
+  });
+});
+
+describe("product matching", () => {
+  it("matches the item, not a different product that mentions it", () => {
+    expect(matches("Brown Onion", "Woolworths Brown Onions Bag 1kg")).toBe(true);
+    expect(matches("Brown Onion", "Gravox Gravy Liquid Brown Onion 165g")).toBe(false);
+    expect(matches("Potato", "Sweet Potato Gold each")).toBe(false);
+    expect(matches("Garlic", "Coles Kitchen Garlic Baguette Twin Pack 450g")).toBe(true);
+    expect(matches("Garlic", "Garlic Bread 2 pack")).toBe(false);
+    expect(matches("Passata", "Coles Italian Passata Sauce 700g")).toBe(true);
+    expect(matches("Baby Spinach Leaves", "Coles Baby Spinach 120g")).toBe(true);
+  });
+});
+
+describe("best buy", () => {
+  const offer = (price: number, unitPrice: number | null, unitBasis: "kg" | "each" | null, name = "x"): Offer => ({
+    store: "woolworths", productId: name, name, size: null, price, wasPrice: null, unitPrice, unitBasis, unitLabel: null, url: "", imageUrl: null,
+  });
+  it("prefers a bigger pack when it's much better value for a little more", () => {
+    const jar = offer(1.4, 2.8, "kg", "500g jar");
+    const tin = offer(0.95, 5.6, "kg", "170g tin");
+    expect(pickBestBuy([tin, jar])?.name).toBe("500g jar");
+  });
+  it("doesn't jump to a huge pack", () => {
+    const one = offer(0.63, 0.63, "each", "one onion");
+    const bag = offer(5.5, 2.75, "kg", "2kg bag");
+    expect(pickBestBuy([one, bag])?.name).toBe("one onion");
   });
 });

@@ -66,3 +66,27 @@ export function isVegetarianProduct(name: string, ingredients: string | null): b
   const cleaned = text.replace(/(chicken|beef)[- ]style/gi, "").replace(/plant[- ]based \w+/gi, "");
   return !NOT_VEGETARIAN.test(cleaned);
 }
+
+/** A bigger pack is worth it when it costs at most this many times the cheapest option… */
+const BIGGER_PACK_FACTOR = 2.5;
+/** …and at most this many dollars more. */
+const BIGGER_PACK_EXTRA = 5;
+
+/**
+ * The sensible buy among similar products: the lowest price per kg / litre / each, as long as the
+ * pack doesn't cost much more than the cheapest one. A 500 g jar of tomato paste at $1.40
+ * ($0.28/100 g) beats a 170 g tin at $0.95 ($0.56/100 g), but a 2 kg bag of onions doesn't beat
+ * a single onion.
+ */
+export function pickBestBuy(offers: Offer[]): Offer | null {
+  if (offers.length === 0) return null;
+  const cheapest = offers.reduce((a, b) => (b.price < a.price ? b : a));
+  const affordable = offers.filter((o) => o.price <= cheapest.price * BIGGER_PACK_FACTOR && o.price - cheapest.price <= BIGGER_PACK_EXTRA);
+  // Unit prices are only comparable on the same basis (per kg vs each).
+  const counts = new Map<string, number>();
+  for (const o of affordable) if (o.unitPrice != null && o.unitBasis) counts.set(o.unitBasis, (counts.get(o.unitBasis) ?? 0) + 1);
+  const basis = [...counts].sort((a, b) => b[1] - a[1])[0]?.[0];
+  const comparable = affordable.filter((o) => o.unitBasis === basis && o.unitPrice != null);
+  if (comparable.length < 2) return cheapest;
+  return comparable.reduce((a, b) => (b.unitPrice! < a.unitPrice! || (b.unitPrice === a.unitPrice && b.price < a.price) ? b : a));
+}

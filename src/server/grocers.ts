@@ -8,10 +8,38 @@ import type { Offer, Store } from "@/shared/grocery";
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
 const TIMEOUT_MS = 8000;
 
+/**
+ * At most a couple of requests to each store at a time. A whole list asks for prices at once, and a
+ * burst of parallel requests gets us blocked by the stores' bot protection.
+ */
+function limiter(max: number) {
+  let active = 0;
+  const waiting: (() => void)[] = [];
+  return async <T>(task: () => Promise<T>): Promise<T> => {
+    if (active >= max) await new Promise<void>((resolve) => waiting.push(resolve));
+    active++;
+    try {
+      return await task();
+    } finally {
+      active--;
+      waiting.shift()?.();
+    }
+  };
+}
+const LIMITS: Record<string, ReturnType<typeof limiter>> = { "www.coles.com.au": limiter(2), "www.woolworths.com.au": limiter(3) };
+
 async function get(url: string, init: RequestInit = {}): Promise<Response> {
-  const res = await fetch(url, { ...init, headers: { "user-agent": UA, accept: "application/json", ...init.headers }, signal: AbortSignal.timeout(TIMEOUT_MS) });
-  if (!res.ok) throw new Error(`${new URL(url).hostname}: HTTP ${res.status}`);
+  const host = new URL(url).hostname;
+  const run = () => fetch(url, { ...init, headers: { "user-agent": UA, accept: "application/json", ...init.headers }, signal: AbortSignal.timeout(TIMEOUT_MS) });
+  const res = await (LIMITS[host] ? LIMITS[host](run) : run());
+  if (!res.ok) throw new Error(`${host}: HTTP ${res.status}`);
   return res;
+}
+
+/** Share one in-flight request between callers (e.g. the store's home page for a session). */
+function shared<T>(load: () => Promise<T>): () => Promise<T> {
+  let pending: Promise<T> | null = null;
+  return () => (pending ??= load().finally(() => (pending = null)));
 }
 
 /** "$0.54/ 100g", "$2.20 per 1kg", "$0.63 / 1EA" → dollars per kg, litre or each. */
@@ -33,12 +61,15 @@ const slug = (s: string) => s.toLowerCase().replace(/&/g, "and").replace(/[^a-z0
 
 // ---------- Woolworths ----------
 let wooliesCookies: { value: string; at: number } | null = null;
-async function wooliesSession(): Promise<string> {
-  if (wooliesCookies && Date.now() - wooliesCookies.at < 30 * 60_000) return wooliesCookies.value;
-  const home = await fetch("https://www.woolworths.com.au/", { headers: { "user-agent": UA }, signal: AbortSignal.timeout(TIMEOUT_MS) });
+const loadWooliesSession = shared(async () => {
+  const home = await get("https://www.woolworths.com.au/", { headers: { accept: "text/html" } });
   const value = home.headers.getSetCookie().map((c) => c.split(";")[0]).join("; ");
   wooliesCookies = { value, at: Date.now() };
   return value;
+});
+async function wooliesSession(): Promise<string> {
+  if (wooliesCookies && Date.now() - wooliesCookies.at < 30 * 60_000) return wooliesCookies.value;
+  return loadWooliesSession();
 }
 
 type WooliesProduct = {
@@ -82,13 +113,16 @@ async function wooliesIngredients(productId: string): Promise<string | null> {
 
 // ---------- Coles ----------
 let colesBuild: { id: string; at: number } | null = null;
-async function colesBuildId(): Promise<string> {
-  if (colesBuild && Date.now() - colesBuild.at < 30 * 60_000) return colesBuild.id;
+const loadColesBuild = shared(async () => {
   const html = await (await get("https://www.coles.com.au/", { headers: { accept: "text/html" } })).text();
   const id = html.match(/"buildId":"([^"]+)"/)?.[1];
-  if (!id) throw new Error("coles: no build id");
+  if (!id) throw new Error("coles: no build id (blocked?)");
   colesBuild = { id, at: Date.now() };
   return id;
+});
+async function colesBuildId(): Promise<string> {
+  if (colesBuild && Date.now() - colesBuild.at < 30 * 60_000) return colesBuild.id;
+  return loadColesBuild();
 }
 
 type ColesProduct = {
