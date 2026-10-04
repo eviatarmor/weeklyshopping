@@ -53,6 +53,10 @@ export default defineConfig({
         ],
       },
       workbox: {
+        // A new deploy takes over open tabs right away instead of waiting for every tab to close.
+        skipWaiting: true,
+        clientsClaim: true,
+        cleanupOutdatedCaches: true,
         navigateFallback: "/index.html",
         // API traffic must always hit the network (and Access).
         navigateFallbackDenylist: [/^\/trpc/, /^\/cdn-cgi/, /^\/data\//],

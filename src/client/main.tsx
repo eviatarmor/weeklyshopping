@@ -24,7 +24,33 @@ const applyTheme = () => {
 applyTheme();
 dark.addEventListener("change", applyTheme);
 
-if (import.meta.env.PROD) registerSW({ immediate: true });
+if (import.meta.env.PROD) {
+  registerSW({
+    immediate: true,
+    // Installed PWAs can stay open for days: look for a new deploy hourly and whenever the app comes back to the foreground.
+    onRegisteredSW(_url, registration) {
+      if (!registration) return;
+      const check = () => void registration.update().catch(() => {});
+      setInterval(check, 60 * 60 * 1000);
+      document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "visible") check();
+      });
+    },
+  });
+  // When a new service worker replaces the old one, reload once so the page runs the new code.
+  // (Skip the very first install: nothing controlled the page before, so it is already current.)
+  let hadController = Boolean(navigator.serviceWorker?.controller);
+  let reloaded = false;
+  navigator.serviceWorker?.addEventListener("controllerchange", () => {
+    if (!hadController) {
+      hadController = true;
+      return;
+    }
+    if (reloaded) return;
+    reloaded = true;
+    window.location.reload();
+  });
+}
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
