@@ -61,6 +61,8 @@ export default defineConfig({
         // (and show the login page when it has expired). Serving a cached shell here
         // left signed-out users stuck on an empty app.
         navigateFallback: null,
+        // No HTML in the precache either: Workbox would otherwise answer "/" with the cached index.html.
+        globPatterns: ["**/*.{js,css,svg,png,woff2}"],
         // One file, so the Access bypass for sw.js covers the whole worker.
         inlineWorkboxRuntime: true,
         runtimeCaching: [
