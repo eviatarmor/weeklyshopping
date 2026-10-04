@@ -1,0 +1,62 @@
+{
+  "slug": "mk-dairy-free-pesto-pasta",
+  "kind": "meal",
+  "title": "Dairy-Free Pesto Pasta",
+  "subtitle": "vegan and quick",
+  "description": "Pasta tossed with a dairy-free pesto of fresh basil, garlic, pine nuts and plenty of olive oil.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-957af8b66f45891027.htm",
+  "imageUrl": "https://img.mako.co.il/2025/07/29/shutterstock_1659808612_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "pasta",
+    "pesto",
+    "vegan",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "qty": 1,
+      "unit": "packet",
+      "product": "spaghetti"
+    },
+    {
+      "name": "Fresh Basil",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "basil"
+    },
+    {
+      "name": "Garlic",
+      "product": "garlic"
+    },
+    {
+      "name": "Pine Nuts",
+      "product": "pine-nuts"
+    },
+    {
+      "name": "Olive Oil",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cook the pasta."
+    },
+    {
+      "text": "Meanwhile, blend all the pesto ingredients into a thick paste."
+    },
+    {
+      "text": "Drain the pasta, keeping a few tablespoons of the cooking water."
+    },
+    {
+      "text": "Toss the hot pasta with the pesto and 2 to 3 tablespoons of the cooking water."
+    }
+  ]
+}

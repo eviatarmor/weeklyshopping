@@ -1,0 +1,125 @@
+{
+  "slug": "mk-green-israeli-couscous",
+  "kind": "meal",
+  "title": "Green Israeli Couscous",
+  "subtitle": "with zucchini, broccoli and pesto",
+  "description": "Israeli couscous cooked in one pan with zucchini, broccoli, pesto and parmesan, finished with rocket and lemon zest.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-4c7feb28c6d7a91027.htm",
+  "imageUrl": "https://img.mako.co.il/2025/10/23/W_grid_masterchef_2310_ptitim_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 45,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "israeli couscous",
+    "pasta",
+    "israeli",
+    "one-pan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini"
+    },
+    {
+      "name": "Broccoli Florets",
+      "product": "broccoli"
+    },
+    {
+      "name": "Garlic",
+      "qty": 5,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Pesto",
+      "qty": 2,
+      "unit": "tbsp",
+      "product": "pesto"
+    },
+    {
+      "name": "Israeli Couscous",
+      "qty": 1.5,
+      "unit": "cup",
+      "product": "couscous"
+    },
+    {
+      "name": "Fresh Basil",
+      "product": "basil"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Chilli Flakes",
+      "product": "chilli-flakes",
+      "optional": true
+    },
+    {
+      "name": "Water",
+      "qty": 2.5,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "qty": 25,
+      "unit": "g",
+      "product": "butter",
+      "pantry": true
+    },
+    {
+      "name": "Parmesan",
+      "qty": 50,
+      "unit": "g",
+      "product": "parmesan"
+    },
+    {
+      "name": "Rocket",
+      "product": "rocket"
+    },
+    {
+      "name": "Lemon",
+      "qty": 1,
+      "product": "lemon"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a wide frying pan. Add the sliced zucchini, broccoli florets and garlic and fry for about 5 minutes until lightly charred."
+    },
+    {
+      "text": "Add the pesto and mix well. Fry together for another 2 minutes."
+    },
+    {
+      "text": "Add the Israeli couscous, basil leaves, salt and chilli flakes (if using) and mix well."
+    },
+    {
+      "text": "Pour in 2 cups of boiling water, add the butter and stir."
+    },
+    {
+      "text": "Cook over medium-low heat for about 6 minutes."
+    },
+    {
+      "text": "Add the grated parmesan and stir until it melts into the couscous."
+    },
+    {
+      "text": "Add the rocket, the grated lemon zest and an extra half cup of water and keep cooking, stirring, until the couscous is tender (about 5 more minutes). If it is not tender enough, gradually add more boiling water as needed."
+    }
+  ]
+}

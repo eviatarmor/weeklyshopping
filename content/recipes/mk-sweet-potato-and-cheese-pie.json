@@ -1,0 +1,106 @@
+{
+  "slug": "mk-sweet-potato-and-cheese-pie",
+  "kind": "meal",
+  "title": "Sweet Potato and Cheese Pie",
+  "subtitle": "soft, set and cheesy",
+  "description": "A soft sweet potato pie with cottage cheese, sour cream, feta and grated cheese, baked until golden.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-acf43f1962f0691027.htm",
+  "imageUrl": "https://img.mako.co.il/2025/04/07/batatapesah_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "pie",
+    "baked",
+    "sweet potato",
+    "cheese"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Sweet Potato",
+      "qty": 1,
+      "product": "sweet-potato"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 250,
+      "unit": "g",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Sour Cream",
+      "qty": 200,
+      "unit": "ml",
+      "product": "sour-cream"
+    },
+    {
+      "name": "Mozzarella",
+      "qty": 1,
+      "unit": "cup",
+      "product": "mozzarella"
+    },
+    {
+      "name": "Feta",
+      "qty": 200,
+      "unit": "g",
+      "product": "feta"
+    },
+    {
+      "name": "Baking Powder",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "baking-powder"
+    },
+    {
+      "name": "Almond Meal",
+      "qty": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "Cornflour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "cornflour"
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "pinch",
+      "product": "salt",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Place the thinly sliced sweet potato in a bowl and cover with water. Microwave for 8 to 10 minutes until softened. Drain."
+    },
+    {
+      "text": "Mix all the other ingredients in a bowl, saving a little grated cheese for the top. Add the sweet potato last, mix gently and transfer to a greased baking dish."
+    },
+    {
+      "text": "Sprinkle with grated cheese and bake for about 35 minutes, until golden."
+    },
+    {
+      "text": "Let it cool slightly before serving."
+    }
+  ]
+}

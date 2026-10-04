@@ -1,0 +1,103 @@
+{
+  "slug": "mk-dairy-free-pasta-rosa",
+  "kind": "meal",
+  "title": "Dairy-Free Pasta Rosa",
+  "subtitle": "with coconut cream",
+  "description": "A one-pot vegan pasta rosa made with cherry tomatoes, tomato paste and coconut cream.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-a41a5047741e891026.htm",
+  "imageUrl": "https://img.mako.co.il/2025/08/25/pastaroseparve1_re_autoOrient_w.jpg",
+  "servings": 2,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "pasta",
+    "vegan",
+    "one-pot",
+    "italian"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "qty": 0.5,
+      "unit": "packet"
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "qty": 10,
+      "product": "cherry-tomatoes"
+    },
+    {
+      "name": "Garlic",
+      "qty": 2,
+      "unit": "clove",
+      "product": "garlic"
+    },
+    {
+      "name": "Tomato Paste",
+      "qty": 4,
+      "unit": "tbsp",
+      "product": "tomato-paste"
+    },
+    {
+      "name": "Coconut Cream",
+      "qty": 1,
+      "unit": "tin",
+      "product": "coconut-cream"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Chilli Flakes",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "chilli-flakes"
+    },
+    {
+      "name": "Fresh Basil",
+      "product": "basil"
+    },
+    {
+      "name": "Water",
+      "qty": 2,
+      "unit": "cup",
+      "product": "bottled-water",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Add the olive oil, halved cherry tomatoes, crushed garlic and tomato paste to a medium pot. Mix well."
+    },
+    {
+      "text": "Add the coconut cream, salt, pepper, chilli flakes and the pasta. Add the water and mix well."
+    },
+    {
+      "text": "Bring to the boil, reduce the heat and cook for 15 to 20 minutes until the pasta is tender."
+    },
+    {
+      "text": "Stir the pasta a few times while cooking so it does not stick to the pot. Serve topped with fresh basil."
+    }
+  ]
+}

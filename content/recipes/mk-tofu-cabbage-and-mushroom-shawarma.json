@@ -1,0 +1,113 @@
+{
+  "slug": "mk-tofu-cabbage-and-mushroom-shawarma",
+  "kind": "meal",
+  "title": "Tofu, Cabbage and Mushroom Shawarma",
+  "subtitle": "with tahini and salad",
+  "description": "Thinly shaved tofu and cabbage pan-fried with onion, mushrooms and shawarma spices, served with tahini and salad.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-61656a328dfb791027.htm",
+  "imageUrl": "https://img.mako.co.il/2025/04/28/saritgoffen_shawarma_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 30,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "tofu",
+    "shawarma",
+    "israeli",
+    "vegan"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Firm Tofu",
+      "qty": 300,
+      "unit": "g",
+      "product": "tofu"
+    },
+    {
+      "name": "White Cabbage",
+      "qty": 0.25,
+      "product": "cabbage"
+    },
+    {
+      "name": "Onion",
+      "qty": 1,
+      "product": "brown-onion"
+    },
+    {
+      "name": "Button Mushrooms",
+      "qty": 1,
+      "unit": "packet",
+      "product": "mushrooms"
+    },
+    {
+      "name": "Shawarma Spice",
+      "qty": 1,
+      "unit": "tsp",
+      "blend": "shawarma-spice-blend"
+    },
+    {
+      "name": "Ground Turmeric",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-turmeric"
+    },
+    {
+      "name": "Ground Cumin",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "ground-cumin"
+    },
+    {
+      "name": "Salt",
+      "qty": 0.5,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 0.25,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 3,
+      "unit": "tbsp",
+      "product": "olive-oil",
+      "pantry": true
+    },
+    {
+      "name": "Tahini",
+      "product": "tahini"
+    },
+    {
+      "name": "Pita",
+      "product": "pita-bread",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mix the spices in a small bowl."
+    },
+    {
+      "text": "Shave the tofu into very thin slices with a thick cabbage peeler or a regular peeler. It is fine if some slices break or crumble. Transfer to a bowl."
+    },
+    {
+      "text": "Slice the cabbage the same way and place it in a separate bowl."
+    },
+    {
+      "text": "Heat the olive oil in a large frying pan over medium heat. Fry the halved and sliced onion for 5 minutes, until golden."
+    },
+    {
+      "text": "Add a few tofu slices and some of the spice mix to the pan and stir until the tofu is coated. Continue with the rest of the tofu and spices until the pan is colourful and fragrant."
+    },
+    {
+      "text": "Add the cabbage and thinly sliced mushrooms and mix well. Cook for another 4 minutes until slightly softened, then remove from the heat. Serve with tahini and salad, with or without pita."
+    }
+  ]
+}

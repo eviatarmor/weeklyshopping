@@ -1,0 +1,112 @@
+{
+  "slug": "mk-noodle-and-cheese-bake",
+  "kind": "meal",
+  "title": "Noodle and Cheese Bake",
+  "subtitle": "a creamy baked kugel-style pie",
+  "description": "Thin noodles mixed with a blend of cheeses, eggs and cream, then baked until golden and set.",
+  "sourceUrl": "https://www.mako.co.il/food-recipes/recipes_column-vegetarian-recipes/Recipe-906df799b63e691026.htm",
+  "imageUrl": "https://img.mako.co.il/2025/05/18/itriot_pie_re_autoOrient_w.jpg",
+  "servings": 4,
+  "prepMinutes": 60,
+  "tags": [
+    "vegetarian",
+    "mako",
+    "bake",
+    "cheese",
+    "pasta",
+    "dairy"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Thin Egg Noodles",
+      "qty": 250,
+      "unit": "g",
+      "product": "egg-noodles"
+    },
+    {
+      "name": "Cheddar",
+      "qty": 100,
+      "unit": "g",
+      "product": "cheddar-cheese"
+    },
+    {
+      "name": "Cream Cheese (light)",
+      "qty": 100,
+      "unit": "g"
+    },
+    {
+      "name": "Cottage Cheese",
+      "qty": 200,
+      "unit": "g",
+      "product": "cottage-cheese"
+    },
+    {
+      "name": "Feta",
+      "qty": 0.25,
+      "unit": "cup",
+      "product": "feta"
+    },
+    {
+      "name": "Eggs",
+      "qty": 3,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Thickened Cream",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "thickened-cream"
+    },
+    {
+      "name": "Spring Onion",
+      "qty": 0.5,
+      "unit": "cup",
+      "product": "spring-onion"
+    },
+    {
+      "name": "Salt",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "salt",
+      "pantry": true
+    },
+    {
+      "name": "Black Pepper",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "black-pepper",
+      "pantry": true
+    },
+    {
+      "name": "Butter",
+      "product": "butter",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 180°C."
+    },
+    {
+      "text": "Cook the noodles in boiling salted water until tender. Drain and let cool slightly."
+    },
+    {
+      "text": "In a large bowl mix all the cheeses, eggs, cream and remaining ingredients."
+    },
+    {
+      "text": "Add the cooked noodles to the cheese mixture and mix until everything is coated."
+    },
+    {
+      "text": "Grease a baking dish and transfer the mixture into it."
+    },
+    {
+      "text": "Bake for 40 to 50 minutes, until golden and set."
+    },
+    {
+      "text": "Let cool slightly, slice and serve warm or at room temperature."
+    }
+  ]
+}
