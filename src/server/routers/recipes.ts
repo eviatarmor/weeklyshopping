@@ -4,6 +4,7 @@ import { z } from "zod";
 import { searchMatcher } from "@/shared/search";
 import { recipeSource } from "@/shared/sources";
 import type { RecipeIndexEntry } from "@/shared/recipe-types";
+import type { CookingProgress } from "@/shared/types";
 import { protectedProcedure, router, type Context } from "../trpc";
 import { recipeCooked, recipeProgress, recipeRatings } from "../db/schema";
 import { addItems, setUsuallyHave } from "../list-service";
@@ -214,30 +215,39 @@ export const recipesRouter = router({
 
   markCooked: protectedProcedure.input(z.object({ slug: z.string() })).mutation(({ ctx, input }) => {
     ctx.db.insert(recipeCooked).values({ recipeSlug: input.slug, userEmail: ctx.user.email }).run();
-    // Start with no steps ticked the next time this recipe is cooked.
+    // Start with nothing ticked the next time this recipe is cooked.
     const cleared = ctx.db.delete(recipeProgress).where(eq(recipeProgress.recipeSlug, input.slug)).returning().all();
-    if (cleared.length) ctx.bus.emit({ type: "progress.changed", slug: input.slug, doneSteps: [] });
+    if (cleared.length) ctx.bus.emit({ type: "progress.changed", slug: input.slug, progress: { steps: [], ingredients: [] } });
   }),
 
-  /** Method steps the household has ticked off for this recipe. */
-  progress: protectedProcedure.input(z.object({ slug: z.string() })).query(({ ctx, input }) => {
+  /** Method steps and ingredients the household has ticked off for this recipe. */
+  progress: protectedProcedure.input(z.object({ slug: z.string() })).query(({ ctx, input }): CookingProgress => {
     const row = safeRead(() => ctx.db.select().from(recipeProgress).where(eq(recipeProgress.recipeSlug, input.slug)).all())[0];
-    return row?.doneSteps ?? [];
+    return { steps: row?.doneSteps ?? [], ingredients: row?.doneIngredients ?? [] };
   }),
 
   setProgress: protectedProcedure
-    .input(z.object({ slug: z.string(), doneSteps: z.array(z.number().int().min(0).max(200)).max(200) }))
-    .mutation(({ ctx, input }) => {
-      const doneSteps = [...new Set(input.doneSteps)].sort((a, b) => a - b);
-      if (doneSteps.length === 0) ctx.db.delete(recipeProgress).where(eq(recipeProgress.recipeSlug, input.slug)).run();
-      else
+    .input(
+      z.object({
+        slug: z.string(),
+        steps: z.array(z.number().int().min(0).max(200)).max(200),
+        ingredients: z.array(z.string().regex(/^\d+(\/\d+)*$/).max(30)).max(500),
+      }),
+    )
+    .mutation(({ ctx, input }): CookingProgress => {
+      const progress = { steps: [...new Set(input.steps)].sort((a, b) => a - b), ingredients: [...new Set(input.ingredients)].sort() };
+      if (progress.steps.length === 0 && progress.ingredients.length === 0) {
+        ctx.db.delete(recipeProgress).where(eq(recipeProgress.recipeSlug, input.slug)).run();
+      } else {
+        const set = { doneSteps: progress.steps, doneIngredients: progress.ingredients, updatedAt: Date.now() };
         ctx.db
           .insert(recipeProgress)
-          .values({ recipeSlug: input.slug, doneSteps, updatedAt: Date.now() })
-          .onConflictDoUpdate({ target: recipeProgress.recipeSlug, set: { doneSteps, updatedAt: Date.now() } })
+          .values({ recipeSlug: input.slug, ...set })
+          .onConflictDoUpdate({ target: recipeProgress.recipeSlug, set })
           .run();
-      ctx.bus.emit({ type: "progress.changed", slug: input.slug, doneSteps });
-      return doneSteps;
+      }
+      ctx.bus.emit({ type: "progress.changed", slug: input.slug, progress });
+      return progress;
     }),
 
   /** Add the lines the user doesn't have; remember the ones they do. */

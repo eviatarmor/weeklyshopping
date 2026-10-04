@@ -21,4 +21,7 @@ export type ListEvent =
   | { type: "sections.changed" }
   | { type: "history.changed" }
   | { type: "week.changed"; weekStart: string }
-  | { type: "progress.changed"; slug: string; doneSteps: number[] };
+  | { type: "progress.changed"; slug: string; progress: CookingProgress };
+
+/** What's been done so far while cooking a recipe. */
+export type CookingProgress = { steps: number[]; ingredients: string[] };

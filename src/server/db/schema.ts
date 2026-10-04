@@ -151,9 +151,11 @@ export const mealPlan = sqliteTable(
   (t) => [index("meal_plan_week_idx").on(t.weekStart)],
 );
 
-/** Method steps ticked off while cooking, shared by the household. */
+/** Method steps and ingredients ticked off while cooking, shared by the household. */
 export const recipeProgress = sqliteTable("recipe_progress", {
   recipeSlug: text("recipe_slug").primaryKey(),
   doneSteps: text("done_steps", { mode: "json" }).$type<number[]>().notNull().default(sql`'[]'`),
+  /** Ingredients already added, by position ("3", or "3/1" for a spice inside the blend at position 3). */
+  doneIngredients: text("done_ingredients", { mode: "json" }).$type<string[]>().notNull().default(sql`'[]'`),
   updatedAt: integer("updated_at").notNull().default(now),
 });

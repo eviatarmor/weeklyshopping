@@ -1,9 +1,9 @@
 import { useMemo, useState } from "react";
 import { createFileRoute, Link, useRouter } from "@tanstack/react-router";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { CalendarPlus, Check, ChefHat, ChevronLeft, Clock, ExternalLink, RotateCcw, Users } from "lucide-react";
+import { CalendarPlus, Check, ChefHat, ChevronLeft, Clock, ExternalLink, Play, RotateCcw, ShoppingCart, Users, X } from "lucide-react";
 import { toast } from "sonner";
-import { blendTree, type BlendRecipe } from "@/shared/expand";
+import { batchesFor, blendTree, type BlendRecipe } from "@/shared/expand";
 import { spoonStandardFor } from "@/shared/measure";
 import { recipeSource } from "@/shared/sources";
 import { roundQty } from "@/shared/units";
@@ -18,6 +18,7 @@ import { emojiFor, sizedImage } from "@/client/lib/images";
 import { useCatalog } from "@/client/features/list/use-list";
 import { useRecipeDetail } from "@/client/features/recipes/use-recipes";
 import { AddToWeekDrawer } from "@/client/features/week/add-to-week-drawer";
+import { setCookingPeople, startCooking, stopCooking, useCooking } from "@/client/features/cooking/cooking";
 import { useTRPC } from "@/client/lib/trpc";
 import { cn, haptic, timeAgo } from "@/client/lib/utils";
 
@@ -36,29 +37,43 @@ function RecipePage() {
     ? { ...detail.data, ratings: activity.data?.ratings ?? [], cooked: activity.data?.cooked ?? [], usuallyHave }
     : undefined;
   const { isPending, error } = detail;
-  const [servingsOverride, setServings] = useState<number | null>(null);
+  const cooking = useCooking();
+  const cookingThis = cooking?.slug === slug;
+  const [servingsOverride, setServingsState] = useState<number | null>(cookingThis ? cooking.people : null);
+  const setServings = (n: number) => {
+    setServingsState(n);
+    if (cookingThis) setCookingPeople(n);
+  };
   const [adding, setAdding] = useState(false);
   const [planning, setPlanning] = useState(false);
-  // Ticked-off method steps, shared live with the rest of the household.
+  // Ticked-off steps and ingredients, shared live with the rest of the household.
   const progressKey = trpc.recipes.progress.queryKey({ slug });
   const progress = useQuery(trpc.recipes.progress.queryOptions({ slug }, { staleTime: Infinity }));
-  const doneSteps = new Set(progress.data ?? []);
+  const doneSteps = new Set(progress.data?.steps ?? []);
+  const doneIngredients = new Set(progress.data?.ingredients ?? []);
   const setProgress = useMutation(
     trpc.recipes.setProgress.mutationOptions({
-      onMutate: ({ doneSteps: next }) => qc.setQueryData(progressKey, next),
+      onMutate: ({ steps, ingredients }) => qc.setQueryData(progressKey, { steps, ingredients }),
       onError: (e) => {
         toast.error(e.message);
         void qc.invalidateQueries({ queryKey: progressKey });
       },
     }),
   );
+  const toggleIn = <T,>(set: Set<T>, value: T) => {
+    const next = new Set(set);
+    if (next.has(value)) next.delete(value);
+    else next.add(value);
+    return [...next];
+  };
   const toggleStep = (index: number) => {
     haptic(doneSteps.has(index) ? 5 : 12);
-    const next = new Set(doneSteps);
-    if (next.has(index)) next.delete(index);
-    else next.add(index);
-    setProgress.mutate({ slug, doneSteps: [...next] });
+    setProgress.mutate({ slug, steps: toggleIn(doneSteps, index), ingredients: [...doneIngredients] });
   };
+  const toggleIngredient = (path: string) => {
+    setProgress.mutate({ slug, steps: [...doneSteps], ingredients: toggleIn(doneIngredients, path) });
+  };
+  const resetProgress = () => setProgress.mutate({ slug, steps: [], ingredients: [] });
   const [system, setSystem] = useMeasureSystem();
 
   const invalidate = () => {
@@ -70,8 +85,9 @@ function RecipePage() {
     trpc.recipes.markCooked.mutationOptions({
       onSuccess: () => {
         invalidate();
-        // Cooking it clears the ticked steps for next time.
-        qc.setQueryData(progressKey, []);
+        // Cooking it clears the ticks for next time.
+        qc.setQueryData(progressKey, { steps: [], ingredients: [] });
+        if (cookingThis) stopCooking();
         toast.success("Nice! Marked as cooked");
       },
     }),
@@ -113,6 +129,30 @@ function RecipePage() {
   const mine = ratings.find((r) => r.mine);
   const others = ratings.filter((r) => !r.mine);
   const avg = ratings.length ? ratings.reduce((s, r) => s + r.stars, 0) / ratings.length : null;
+
+  const start = () => {
+    startCooking({ slug, title: recipe.title, imageUrl: recipe.imageUrl, people });
+    toast.success("Cooking mode: the screen stays on", { description: "Leave this page and it shrinks to a bar at the bottom." });
+  };
+  const actions = cookingThis ? (
+    <div className="flex gap-2">
+      <Button size="lg" variant="outline" onClick={stopCooking} aria-label="Stop cooking">
+        <X /> Stop
+      </Button>
+      <Button size="lg" className="flex-1" disabled={cooked.isPending} onClick={() => (isBlend ? stopCooking() : cooked.mutate({ slug }))}>
+        <ChefHat /> {isBlend ? "Done" : "Done, we cooked it"}
+      </Button>
+    </div>
+  ) : (
+    <div className="flex gap-2">
+      <Button size="lg" variant="outline" className="flex-1" onClick={() => setAdding(true)}>
+        <ShoppingCart /> Add to list
+      </Button>
+      <Button size="lg" className="flex-1" onClick={start}>
+        <Play /> {isBlend ? "Start making" : "Start cooking"}
+      </Button>
+    </div>
+  );
 
   return (
     <div className="pb-28 md:mx-auto md:grid md:max-w-6xl md:grid-cols-[minmax(0,5fr)_minmax(0,6fr)] md:gap-x-10 md:px-8 md:pt-8 md:pb-10">
@@ -205,26 +245,63 @@ function RecipePage() {
                 onChange={(v) => setServings(Number(v))}
                 options={[2, 4].map((n) => ({ value: String(n), label: String(n) }))}
               />
+              {isBlend && (
+                // One sachet for 2 people, two for 4.
+                <span className="text-xs">
+                  = {factor} {recipe.yieldUnit ?? "batch"}
+                  {factor === 1 ? "" : (recipe.yieldUnit ?? "batch").endsWith("h") ? "es" : "s"}
+                </span>
+              )}
             </div>
           </div>
           <ul className="divide-y rounded-xl border bg-card">
             {ingredients.map((i, index) => {
-              const tree = i.blendSlug ? blendTree(i.blendSlug, blends) : null;
+              const blend = i.blendSlug ? blends.get(i.blendSlug) : undefined;
+              const tree = blend ? blendTree(blend.slug, blends, batchesFor(i, blend) * factor) : null;
               const image = i.imageUrl ?? (i.productSlug ? data.productImages[i.productSlug] : null);
               const qty = i.qty == null ? null : roundQty(i.qty * factor, i.unit);
+              const ticked = doneIngredients.has(String(index));
               return (
                 <li key={index} className="px-3 py-2.5">
-                  <div className="flex items-center gap-3">
-                    <Thumb src={sizedImage(image, 36)} emoji={emojiFor(i.name)} className="size-9" />
-                    <span className="flex-1">
-                      <span className="font-medium">{i.name}</span>
-                      {i.pantry && <span className="ml-2 text-xs text-muted-foreground">pantry</span>}
+                  {/* Tap an ingredient once it's in the pan. */}
+                  <button
+                    type="button"
+                    role="checkbox"
+                    aria-checked={ticked}
+                    aria-label={`${i.name} added`}
+                    onClick={() => {
+                      haptic(ticked ? 5 : 12);
+                      toggleIngredient(String(index));
+                    }}
+                    className="flex w-full items-center gap-3 text-left"
+                  >
+                    <span className="relative">
+                      <Thumb src={sizedImage(image, 36)} emoji={emojiFor(i.name)} className={cn("size-9", ticked && "opacity-40")} />
+                      {ticked && (
+                        <span className="absolute inset-0 grid place-items-center">
+                          <span className="grid size-6 place-items-center rounded-full bg-primary text-primary-foreground">
+                            <Check className="size-4" strokeWidth={3} />
+                          </span>
+                        </span>
+                      )}
                     </span>
-                    <Quantity qty={qty} unit={i.unit} name={i.name} system={system} standard={standard} />
-                  </div>
+                    <span className={cn("flex-1", ticked && "text-muted-foreground line-through")}>
+                      <span className="font-medium">{i.name}</span>
+                      {i.pantry && <span className="ml-2 text-xs text-muted-foreground no-underline">pantry</span>}
+                    </span>
+                    <span className={cn(ticked && "opacity-50")}>
+                      <Quantity qty={qty} unit={i.unit} name={i.name} system={system} standard={standard} />
+                    </span>
+                  </button>
                   {tree && (
                     <div className="mt-2 ml-12 rounded-lg bg-muted/60 p-2.5">
-                      <BlendTree node={tree} />
+                      <BlendTree
+                        node={tree}
+                        path={String(index)}
+                        done={doneIngredients}
+                        onToggle={toggleIngredient}
+                        renderQty={(leaf) => <Quantity qty={leaf.qty} unit={leaf.unit} name={leaf.name} system={system} standard={standard} />}
+                      />
                     </div>
                   )}
                 </li>
@@ -238,17 +315,15 @@ function RecipePage() {
 
       {/* Right column on desktop: method, used in, cooked. Below the ingredients on phones. */}
       <div className="space-y-5 px-4 pt-5 md:px-0 md:pt-0">
-        <Button size="lg" className="hidden w-full md:flex" onClick={() => setAdding(true)}>
-          Add ingredients to list
-        </Button>
+        <div className="hidden md:block">{actions}</div>
         {recipe.steps.length > 0 && (
           <section>
             <div className="mb-2 flex items-center justify-between gap-2">
               <h2 className="text-lg font-semibold">Method</h2>
-              {doneSteps.size > 0 && (
+              {(doneSteps.size > 0 || doneIngredients.size > 0) && (
                 <button
                   type="button"
-                  onClick={() => setProgress.mutate({ slug, doneSteps: [] })}
+                  onClick={resetProgress}
                   className="flex items-center gap-1 text-xs font-medium text-muted-foreground"
                 >
                   {doneSteps.size}/{recipe.steps.length} done · <RotateCcw className="size-3" /> Reset
@@ -314,9 +389,7 @@ function RecipePage() {
       </div>
 
       <div className="fixed inset-x-0 bottom-0 z-40 mx-auto max-w-md border-t bg-background/90 px-4 pt-3 pb-[calc(env(safe-area-inset-bottom)+0.75rem)] backdrop-blur-lg md:hidden">
-        <Button size="lg" className="w-full" onClick={() => setAdding(true)}>
-          Add ingredients to list
-        </Button>
+        {actions}
       </div>
 
       {!isBlend && <AddToWeekDrawer slug={slug} title={recipe.title} servings={people} open={planning} onOpenChange={setPlanning} />}

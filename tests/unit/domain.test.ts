@@ -269,3 +269,15 @@ describe("expandRecipes", () => {
     expect(lines).toHaveLength(2);
   });
 });
+
+describe("blendTree quantities", () => {
+  it("scale with the number of sachets", () => {
+    const leaf = (name: string, qty: number, unit: string): IngredientRow => ({
+      name, qty, unit, productSlug: null, blendSlug: null, optional: false, pantry: false, imageUrl: null,
+    });
+    const blends = new Map<string, BlendRecipe>([
+      ["american", { slug: "american", title: "American", servings: 1, yieldUnit: "sachet", ingredients: [leaf("Paprika", 1, "tsp")] }],
+    ]);
+    expect(blendTree("american", blends, 2)?.children).toEqual([{ name: "Paprika", qty: 2, unit: "tsp" }]);
+  });
+});

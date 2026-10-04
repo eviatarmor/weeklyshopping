@@ -79,3 +79,30 @@ test("going back to the recipes keeps the filter and scroll position", async ({ 
   await expect(page.getByRole("button", { name: "Quick", exact: true })).toHaveClass(/bg-primary/);
   await expect.poll(() => main.evaluate((el) => el.scrollTop)).toBeGreaterThan(before - 50);
 });
+
+test("cooking mode: tick spices, minimise to a bar, finish", async ({ browser, baseURL }) => {
+  const page = await openAs(browser, "alex@dev.local", baseURL!);
+  await page.goto("/recipes");
+  await page.getByPlaceholder(/Search .*recipes/).fill("White Bean Pie");
+  await page.getByRole("link", { name: /Creamy Mushroom & White Bean Pie/ }).click();
+
+  // A spice inside the blend can be ticked on its own.
+  const spice = page.getByRole("checkbox", { name: /added$/ }).nth(3);
+  await spice.click();
+  await expect(spice).toHaveAttribute("aria-checked", "true");
+
+  await page.getByRole("button", { name: "Start cooking" }).filter({ visible: true }).click();
+  await page.getByRole("link", { name: "Back" }).or(page.getByRole("button", { name: "Back" })).click();
+  const bar = page.getByText("Cooking · screen stays on");
+  await expect(bar).toBeVisible();
+  await page.getByRole("link", { name: "Week", exact: true }).filter({ visible: true }).click();
+  await expect(page.getByRole("heading", { name: "Dinners" })).toBeVisible();
+  await expect(bar).toBeVisible();
+
+  // Back to the recipe from the bar, then stop.
+  await page.getByRole("link", { name: /Cooking · screen stays on/ }).click();
+  await expect(bar).toBeHidden();
+  await page.getByRole("button", { name: "Stop cooking" }).filter({ visible: true }).click();
+  await page.getByRole("button", { name: /Reset/ }).click();
+  await expect(spice).toHaveAttribute("aria-checked", "false");
+});

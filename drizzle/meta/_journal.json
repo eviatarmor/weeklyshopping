@@ -22,6 +22,13 @@
       "when": 1791107271059,
       "tag": "0002_meal_plan",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791108571198,
+      "tag": "0003_cooking_ingredients",
+      "breakpoints": true
     }
   ]
 }

@@ -2,6 +2,8 @@ import { useEffect, useLayoutEffect, useRef } from "react";
 import { createRootRoute, Link, Outlet, useRouterState } from "@tanstack/react-router";
 import { BookOpen, CalendarDays, Settings, ShoppingCart } from "lucide-react";
 import { Toaster } from "sonner";
+import { CookingBar } from "@/client/features/cooking/cooking-bar";
+import { useCooking, useWakeLock } from "@/client/features/cooking/cooking";
 import { useListSync } from "@/client/features/list/use-list";
 import { cn } from "@/client/lib/utils";
 
@@ -23,6 +25,10 @@ function RootLayout() {
   const pathname = useRouterState({ select: (s) => s.location.pathname });
   // Recipe detail pages are full-screen with their own back button.
   const hideTabs = /^\/recipes\/.+/.test(pathname);
+  // While cooking, the screen stays on everywhere in the app; away from the recipe it shrinks to a bar.
+  const cooking = useCooking();
+  useWakeLock(Boolean(cooking));
+  const showCookingBar = Boolean(cooking) && pathname !== `/recipes/${cooking?.slug}`;
 
   // The page scrolls inside <main>, so the router's own scroll handling doesn't reach it.
   // New pages start at the top; going back returns to where that page was scrolled.
@@ -84,7 +90,7 @@ function RootLayout() {
           </nav>
         </div>
       </header>
-      <main ref={mainRef} className={cn("flex-1 overflow-y-auto", !hideTabs && "pb-20 md:pb-0")}>
+      <main ref={mainRef} className={cn("flex-1 overflow-y-auto", !hideTabs && "pb-20 md:pb-0", showCookingBar && "pb-40", showCookingBar && "md:pb-28")}>
         <Outlet />
       </main>
       {!hideTabs && (
@@ -109,6 +115,7 @@ function RootLayout() {
           </div>
         </nav>
       )}
+      {showCookingBar && cooking && <CookingBar session={cooking} aboveTabs={!hideTabs} />}
       <Toaster position="top-center" richColors closeButton={false} toastOptions={{ duration: 2500 }} />
     </div>
   );

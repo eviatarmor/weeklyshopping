@@ -1,0 +1,118 @@
+{
+  "slug": "dn-roasted-vego-sausages-with-zucchini-fries-and-broccolini",
+  "kind": "meal",
+  "title": "Roasted Vego Sausages",
+  "subtitle": "with Zucchini Fries and Broccolini",
+  "description": "Treat the kids with sausages and chips for dinner – vego style! With plant-based snags and crumbed zucchini fries, it's a healthy twist everyone will enjoy!",
+  "sourceUrl": "https://dinnerly.com.au/menu/55917-roasted-vego-sausages-with-zucchini-fries-and-broccolini",
+  "imageUrl": "https://marleyspoon.com/media/recipes/55917/main_photos/large/roasted_vego_sausages-ff1befae8593ed1becf789167a3329c7.jpeg",
+  "servings": 2,
+  "prepMinutes": 40,
+  "nutrition": {
+    "kcal": 410,
+    "proteinG": 15.3,
+    "carbsG": 46.1,
+    "fatG": 16.4
+  },
+  "tags": [
+    "vegetarian",
+    "dinnerly",
+    "kid friendly"
+  ],
+  "aliases": [],
+  "addedAt": "2026-10-04",
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "qty": 1,
+      "product": "carrot",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31717/photos/medium/ing_carrots-0862c8abe76690639862c6f032746d18.jpg"
+    },
+    {
+      "name": "Zucchini",
+      "qty": 1,
+      "product": "zucchini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/32394/photos/medium/ing_zucchini-83c81bdb81a19f7c2cefcc32f0631213.jpg"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "qty": 1,
+      "unit": "packet",
+      "product": "panko-breadcrumbs",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70659/photos/medium/panko_breadcrumbs_40g_ms-63446b3601a828a75edc9bf225674fc6.jpeg"
+    },
+    {
+      "name": "Country Seasoning",
+      "qty": 5,
+      "unit": "g",
+      "blend": "country-seasoning",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/70081/photos/medium/seasoning_country_5g-b7cb1f44d1aacb36c73e7ab678d36e2b.jpeg"
+    },
+    {
+      "name": "Kale and Cashew Sausages",
+      "qty": 4,
+      "product": "sausages",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/40710/photos/medium/sausage_syndian_cheezy_kale_and_cashew_sausage_2_p_200g-563a6015512aa55d127a442bf7fed0db.jpeg"
+    },
+    {
+      "name": "Broccolini",
+      "qty": 1,
+      "unit": "bunch",
+      "product": "broccolini",
+      "imageUrl": "https://marleyspoon.com/media/pantry_items/31689/photos/medium/ing_broccolini-e56a30bc80083c79864a341787cdf0a5.jpg"
+    },
+    {
+      "name": "Eggs",
+      "qty": 2,
+      "product": "eggs",
+      "pantry": true
+    },
+    {
+      "name": "Dijon Mustard",
+      "qty": 1,
+      "unit": "tsp",
+      "product": "dijon-mustard",
+      "pantry": true
+    },
+    {
+      "name": "Plain Flour",
+      "qty": 1,
+      "unit": "tbsp",
+      "product": "plain-flour",
+      "pantry": true
+    },
+    {
+      "name": "Olive Oil",
+      "qty": 2,
+      "unit": "tsp",
+      "product": "olive-oil",
+      "pantry": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prep ingredients: Preheat the oven to 220C. Line 2 oven trays with baking paper. Peel the carrot, then cut the carrot and zucchini into 1.5cm-thick batons.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/255385/photos/large/prep_ingredients-acd5165f1f5771a6e19742db9106b1b2.jpeg"
+    },
+    {
+      "text": "Prep crumbing mixture: Whisk 2 eggs and 1 tsp dijon mustard in a shallow bowl. Put 1 tbs plain flour on a plate, then season with salt and pepper. Combine the breadcrumbs and country seasoning on a separate plate.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/255386/photos/large/prep_crumbing_mixture-cf296fe3f7318d283bb534ca56c1300f.jpeg"
+    },
+    {
+      "text": "Crumb zucchini: Dust the zucchini in the flour, shaking off the excess. Dip in the egg mixture, then coat in the seasoned breadcrumbs. Put on a lined tray. Put the carrot and sausages on the remaining lined tray, ensuring the sausages don't touch as they may stick together during cooking. Drizzle with 2 tsp olive oil, then season the carrot with salt and pepper.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/255387/photos/large/crumb_zucchini-5cffbd1ae38e9e5ac7b10ddbeffc8a90.jpeg"
+    },
+    {
+      "text": "Roast veg and sausages: Roast the zucchini fries on the upper oven shelf and the carrot and sausages on the lower shelf for 18-20 mins until golden and tender.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/255388/photos/large/roast_veg_and_sausages-b4e9b8a2212af8fccad5ae72cc458c0f.jpeg"
+    },
+    {
+      "text": "Serve up: Meanwhile, bring a medium saucepan of salted water to the boil. Add the broccolini and cook for 2 mins or until tender. Drain, then season with salt and pepper. Divide the sausages, roasted veggies and broccolini among plates and enjoy!",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/255389/photos/large/serve_up-99153d3cc79840a60dafa984e880826f.jpeg"
+    },
+    {
+      "text": "Make it yours: Like things saucy? Serve the vego sausages with your favourite dipping partner – whether it's mayonnaise, tomato relish or trusty barbecue sauce.",
+      "imageUrl": "https://marleyspoon.com/media/recipe_card_steps/255390/photos/large/make_it_yours-64b077cee496991e83b043cdf9de1a3d.jpeg"
+    }
+  ]
+}

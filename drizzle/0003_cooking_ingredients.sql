@@ -1,0 +1,1 @@
+ALTER TABLE `recipe_progress` ADD `done_ingredients` text DEFAULT '[]' NOT NULL;

@@ -42,7 +42,7 @@ function applyEvent(qc: QueryClient, keys: SyncKeys, event: ListEvent) {
       void qc.invalidateQueries({ queryKey: keys.week(event.weekStart) });
       break;
     case "progress.changed":
-      qc.setQueryData(keys.progress(event.slug), event.doneSteps);
+      qc.setQueryData(keys.progress(event.slug), event.progress);
       break;
   }
 }

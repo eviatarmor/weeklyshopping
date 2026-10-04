@@ -38,6 +38,11 @@ export type ShoppingLine = {
 
 export type BlendChoice = "buy" | "scratch";
 
+/** How many batches of `blend` an ingredient line asks for ("2 sachets" of a 1-sachet blend = 2). */
+export function batchesFor(row: { qty: number | null; unit: string | null }, blend: BlendRecipe): number {
+  return row.qty != null && normalizeUnit(row.unit) === normalizeUnit(blend.yieldUnit) ? row.qty / blend.servings : 1;
+}
+
 const identity = (line: { blendSlug: string | null; productSlug: string | null; name: string }) =>
   line.blendSlug ?? line.productSlug ?? normalizeName(line.name);
 
@@ -57,10 +62,7 @@ export function expandIngredients(
     for (const row of rows) {
       const blend = row.blendSlug ? blends.get(row.blendSlug) : undefined;
       if (blend && choices[blend.slug] === "scratch" && !seen.has(blend.slug)) {
-        // How many batches of the blend this line asks for.
-        const batches =
-          row.qty != null && normalizeUnit(row.unit) === normalizeUnit(blend.yieldUnit) ? row.qty / blend.servings : 1;
-        walk(blend.ingredients, scale * batches, [...via, blend.title], new Set([...seen, blend.slug]));
+        walk(blend.ingredients, scale * batchesFor(row, blend), [...via, blend.title], new Set([...seen, blend.slug]));
         continue;
       }
       const unit = normalizeUnit(row.unit);
@@ -104,17 +106,31 @@ function mergeLines(lines: ShoppingLine[]): ShoppingLine[] {
   return merged;
 }
 
-export type BlendTreeNode = { slug: string; title: string; children: (BlendTreeNode | { name: string })[] };
+export type BlendTreeLeaf = { name: string; qty: number | null; unit: string | null };
+export type BlendTreeNode = { slug: string; title: string; children: (BlendTreeNode | BlendTreeLeaf)[] };
 
-/** Blend dependency tree for display. */
-export function blendTree(slug: string, blends: Map<string, BlendRecipe>, seen = new Set<string>()): BlendTreeNode | null {
+/**
+ * Blend dependency tree for display, with quantities for `batches` batches of the blend
+ * (nested blends are scaled by how much of them each batch uses).
+ */
+export function blendTree(slug: string, blends: Map<string, BlendRecipe>, batches = 1, seen = new Set<string>()): BlendTreeNode | null {
   const blend = blends.get(slug);
   if (!blend || seen.has(slug)) return null;
   const next = new Set([...seen, slug]);
   return {
     slug,
     title: blend.title,
-    children: blend.ingredients.map((i) => (i.blendSlug && blendTree(i.blendSlug, blends, next)) || { name: i.name }),
+    children: blend.ingredients.map((i) => {
+      const nested = i.blendSlug ? blends.get(i.blendSlug) : undefined;
+      const unit = normalizeUnit(i.unit);
+      return (
+        (nested && blendTree(nested.slug, blends, batches * batchesFor(i, nested), next)) || {
+          name: i.name,
+          qty: i.qty == null ? null : roundQty(i.qty * batches, unit),
+          unit,
+        }
+      );
+    }),
   };
 }
 

@@ -42,7 +42,7 @@ test("recipe ingredients go through the pantry check onto the list", async ({ br
   await page.getByRole("link", { name: "Recipes" }).click();
   await page.getByPlaceholder(/Search .*recipes/).fill("White Bean Pie");
   await page.getByRole("link", { name: /Creamy Mushroom & White Bean Pie/ }).click();
-  await page.getByRole("button", { name: "Add ingredients to list" }).click();
+  await page.getByRole("button", { name: "Add to list" }).filter({ visible: true }).click();
 
   const dialog = page.getByRole("dialog");
   await expect(dialog.getByText("Already have any of these?")).toBeVisible();

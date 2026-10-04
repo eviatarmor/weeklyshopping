@@ -18,7 +18,7 @@ test("desktop layout: top navbar, recipe page and side panel", async ({ page, co
   await page.getByRole("link", { name: /Bengal Chickpea Curry/ }).first().click();
   await expect(page.getByRole("heading", { name: "Method" })).toBeVisible();
 
-  await page.getByRole("button", { name: "Add ingredients to list" }).filter({ visible: true }).click();
+  await page.getByRole("button", { name: "Add to list" }).filter({ visible: true }).click();
   const panel = page.getByRole("dialog");
   await expect(panel.getByText("Already have any of these?")).toBeVisible();
   // Opens as a right-hand panel, not a bottom sheet.
