@@ -4,6 +4,7 @@ import { recipeSource } from "@/shared/sources";
 import type { RecipeDetail, RecipeIndexEntry } from "@/shared/recipe-types";
 import { equipmentFor } from "@/shared/equipment";
 import { substitutionsFor } from "./substitutions";
+import { densityFromTable } from "./recipe-cost";
 import { normalizeUnit } from "@/shared/units";
 import type { Content } from "./content-types";
 
@@ -79,6 +80,7 @@ export function buildStore(content: Content): ContentStore {
       optional: i.optional ?? false,
       pantry: i.pantry ?? false,
       imageUrl: i.imageUrl ?? null,
+      density: densityFromTable(i.name),
     })),
   }));
   const usedBy = new Map<string, StoreRecipe[]>();

@@ -10,6 +10,8 @@ export type IngredientRow = {
   optional: boolean;
   pantry: boolean;
   imageUrl: string | null;
+  /** Grams per ml, from the ingredient table, for converting spoons/cups to grams. */
+  density?: number | null;
 };
 
 export type BlendRecipe = {
@@ -34,6 +36,8 @@ export type ShoppingLine = {
   imageUrl: string | null;
   /** Titles of the blends this line was expanded from. */
   via: string[];
+  /** Grams per ml (see IngredientRow). */
+  density?: number | null;
 };
 
 export type BlendChoice = "buy" | "scratch";
@@ -77,6 +81,7 @@ export function expandIngredients(
         pantry: row.pantry,
         imageUrl: row.imageUrl,
         via,
+        density: row.density ?? null,
       });
     }
   };
@@ -106,7 +111,7 @@ function mergeLines(lines: ShoppingLine[]): ShoppingLine[] {
   return merged;
 }
 
-export type BlendTreeLeaf = { name: string; qty: number | null; unit: string | null; productSlug: string | null; imageUrl: string | null };
+export type BlendTreeLeaf = { name: string; qty: number | null; unit: string | null; productSlug: string | null; imageUrl: string | null; density?: number | null };
 export type BlendTreeNode = { slug: string; title: string; children: (BlendTreeNode | BlendTreeLeaf)[] };
 
 /**
@@ -130,6 +135,7 @@ export function blendTree(slug: string, blends: Map<string, BlendRecipe>, batche
           unit,
           productSlug: i.productSlug,
           imageUrl: i.imageUrl,
+          density: i.density ?? null,
         }
       );
     }),

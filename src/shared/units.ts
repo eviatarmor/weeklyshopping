@@ -24,7 +24,14 @@ const UNIT_ALIASES: Record<string, string> = {
 /** Canonical unit, or null for "count" items (e.g. 2 onions). */
 export function normalizeUnit(unit: string | null | undefined): string | null {
   if (!unit) return null;
-  const key = unit.trim().toLowerCase().replace(/\.$/, "");
+  // "tablespoon (tbsp)" → "tablespoon", "punnet(s)" → "punnet", "tbsp." → "tbsp".
+  const key = unit
+    .trim()
+    .toLowerCase()
+    .replace(/\(s\)$/, "")
+    .replace(/\s*\([^)]*\)$/, "")
+    .replace(/\.$/, "")
+    .trim();
   const canonical = UNIT_ALIASES[key];
   if (canonical === undefined) return key || null;
   return canonical || null;

@@ -189,7 +189,7 @@ describe("measure", () => {
 
   it("doesn't confuse look-alike ingredients", () => {
     expect(measure(1, "tbsp", "Olive Oil", "grams", "au").qty).toBe(18); // oil, not olives
-    expect(measure(1, "tsp", "Mustard Powder", "grams", "au").qty).toBe(2.5); // spice, not sauce
+    expect(measure(1, "tsp", "Mustard Powder", "grams", "au").qty).toBe(2.1); // spice, not sauce
     expect(measure(1, "cup", "Coconut Milk", "grams", "au").qty).toBe(260); // milk, not desiccated coconut
   });
 
@@ -286,7 +286,7 @@ describe("blendTree quantities", () => {
     const blends = new Map<string, BlendRecipe>([
       ["american", { slug: "american", title: "American", servings: 1, yieldUnit: "sachet", ingredients: [leaf("Paprika", 1, "tsp")] }],
     ]);
-    expect(blendTree("american", blends, 2)?.children).toEqual([{ name: "Paprika", qty: 2, unit: "tsp", productSlug: null, imageUrl: null }]);
+    expect(blendTree("american", blends, 2)?.children).toEqual([{ name: "Paprika", qty: 2, unit: "tsp", productSlug: null, imageUrl: null, density: null }]);
   });
 });
 
@@ -416,5 +416,24 @@ describe("recipe cost", () => {
     const offers = new Map([["brown onion", offer(0.6, "each")], ["passata", offer(2.9, "kg")]]);
     // 2 × $0.60 + 0.5 kg × $2.90 = $2.65 for 2 serves.
     expect(recipeCost(recipe, offers)).toEqual({ perServe: 1.33, priced: 2, of: 2 });
+  });
+});
+
+describe("grams conversion", () => {
+  it("weighs fresh herbs, syrups and pastes sensibly", () => {
+    expect(measure(1, "cup", "Coriander", "grams", "au").qty).toBe(25); // fresh leaves, not ground spice
+    expect(measure(1, "tsp", "Ground Coriander", "grams", "au").qty).toBe(2.1);
+    expect(measure(1, "tbsp", "Date Syrup", "grams", "au").qty).toBe(28); // syrup, not dates
+    expect(measure(1, "tbsp", "Sun-Dried Tomato Paste", "grams", "au").qty).toBe(22);
+    expect(measure(1, "cup", "Snow Peas", "grams", "au").qty).toBe(75);
+  });
+  it("falls back to the ingredient table", () => {
+    expect(measure(2, "tbsp", "Mysterious Thing", "grams", "au").unit).toBe("tbsp");
+    expect(measure(2, "tbsp", "Mysterious Thing", "grams", "au", 0.5)).toEqual({ qty: 20, unit: "g", approximate: true });
+  });
+  it("normalises unusual unit spellings", () => {
+    expect(normalizeUnit("tablespoon (tbsp)")).toBe("tbsp");
+    expect(normalizeUnit("punnet(s)")).toBe("punnet");
+    expect(normalizeUnit("unit(s)")).toBe(null);
   });
 });

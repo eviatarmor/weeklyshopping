@@ -9,14 +9,17 @@ export function Quantity({
   name,
   system,
   standard,
+  density = null,
 }: {
   qty: number | null;
   unit: string | null;
   name: string;
   system: MeasureSystem;
   standard: SpoonStandard;
+  /** Grams per ml from the ingredient table (fallback when the name isn't recognised). */
+  density?: number | null;
 }) {
-  const m = measure(qty, unit, name, system, standard);
+  const m = measure(qty, unit, name, system, standard, density);
   const text = formatQty(m.qty, m.unit);
   if (!text) return null;
   return (

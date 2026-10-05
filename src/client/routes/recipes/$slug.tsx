@@ -344,7 +344,7 @@ function RecipePage() {
                       )}
                     </span>
                     <span className={cn(ticked && "opacity-50")}>
-                      <Quantity qty={qty} unit={i.unit} name={i.name} system={system} standard={standard} />
+                      <Quantity qty={qty} unit={i.unit} name={i.name} system={system} standard={standard} density={i.density} />
                     </span>
                   </button>
                   {options.length > 0 && (
@@ -365,7 +365,7 @@ function RecipePage() {
                         path={String(index)}
                         done={doneIngredients}
                         onToggle={toggleIngredient}
-                        renderQty={(leaf) => <Quantity qty={leaf.qty} unit={leaf.unit} name={leaf.name} system={system} standard={standard} />}
+                        renderQty={(leaf) => <Quantity qty={leaf.qty} unit={leaf.unit} name={leaf.name} system={system} standard={standard} density={leaf.density} />}
                         imageFor={(leaf) => leaf.imageUrl ?? (leaf.productSlug ? (data.productImages[leaf.productSlug] ?? null) : null)}
                       />
                     </div>

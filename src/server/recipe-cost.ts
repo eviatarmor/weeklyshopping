@@ -15,6 +15,17 @@ const PRICE_VERSION = "v4:";
 
 export type RecipeCost = { perServe: number; priced: number; of: number };
 
+/**
+ * Grams per ml for an ingredient from the table (its grams per tablespoon, teaspoon or cup;
+ * the table uses Australian 20 ml tablespoons). Null when the table doesn't know it.
+ */
+export function densityFromTable(name: string): number | null {
+  const g = weights[name.toLowerCase().trim()]?.g;
+  if (!g) return null;
+  const density = g.ml ?? (g.tbsp != null ? g.tbsp / 20 : g.tsp != null ? g.tsp / 5 : g.cup != null ? g.cup / 250 : null);
+  return density != null && density > 0 && density < 3 ? Math.round(density * 1000) / 1000 : null;
+}
+
 /** Best buy per ingredient name (from cached price comparisons), rebuilt when the cache changes. */
 let index: { stamp: string; offers: Map<string, Offer> } | null = null;
 function priceIndex(db: DB): Map<string, Offer> {

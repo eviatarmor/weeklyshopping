@@ -203,7 +203,7 @@ export function ShoppingDrawer({
                           .join(" · ")}
                       </span>
                     </span>
-                    <Quantity qty={line.qty} unit={line.unit} name={line.name} system={system} standard={standard} />
+                    <Quantity qty={line.qty} unit={line.unit} name={line.name} system={system} standard={standard} density={line.density} />
                   </button>
                 </li>
               );

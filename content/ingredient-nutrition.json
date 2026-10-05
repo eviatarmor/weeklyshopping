@@ -2557,6 +2557,18 @@
       "packet": 200
     }
   },
+  "chipotle in adobo, finely chopped": {
+    "kcal": 80,
+    "p": 2,
+    "c": 12,
+    "f": 3,
+    "g": {
+      "g": 1,
+      "tbsp": 20,
+      "tsp": 5,
+      "count": 15
+    }
+  },
   "chipotle paste": {
     "kcal": 100,
     "p": 2,
@@ -5579,6 +5591,17 @@
       "cup": 250
     }
   },
+  "gochujang": {
+    "kcal": 230,
+    "p": 6,
+    "c": 45,
+    "f": 2,
+    "g": {
+      "g": 1,
+      "tbsp": 24,
+      "tsp": 6
+    }
+  },
   "gorgonzola": {
     "kcal": 360,
     "p": 21,
@@ -5667,7 +5690,8 @@
     "c": 72,
     "f": 0,
     "g": {
-      "tsp": 9
+      "tsp": 7,
+      "tbsp": 28
     }
   },
   "grape tomatoes": {
