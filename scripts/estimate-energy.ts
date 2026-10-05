@@ -8,32 +8,10 @@
 import { readFile, readdir, writeFile } from "node:fs/promises";
 import { recipeSchema } from "../src/shared/content.ts";
 import { normalizeUnit } from "../src/shared/units.ts";
+import { gramsPerUnit, isMealKit, type IngredientInfo } from "../src/shared/weights.ts";
 
-/**
- * Per 100 g: kcal and protein/carbs/fat in grams; `g` = grams per unit ("count", "cup", "tbsp", …).
- * `kit` = grams of one pre-portioned meal-kit unit ("1 packet" of rice in a 2-person HelloFresh box).
- */
-type Nutrient = { kcal: number; p: number; c: number; f: number; g: Record<string, number>; kit?: Record<string, number> };
-const table: Record<string, Nutrient> = JSON.parse(await readFile("content/ingredient-nutrition.json", "utf8"));
+const table: Record<string, IngredientInfo> = JSON.parse(await readFile("content/ingredient-nutrition.json", "utf8"));
 const force = process.argv.includes("--force");
-
-/** Grams for one unit, falling back to related units (a cup is 12.5 tablespoons, and so on). */
-function gramsPerUnit(n: Nutrient, unit: string, mealKit: boolean): number | undefined {
-  const g = n.g;
-  if (mealKit && n.kit?.[unit] != null) return n.kit[unit];
-  if (unit === "g") return 1;
-  if (unit === "kg") return 1000;
-  if (unit === "ml") return g.ml ?? 1;
-  if (unit === "l") return (g.ml ?? 1) * 1000;
-  if (g[unit] != null) return g[unit];
-  if (unit === "tsp" && g.tbsp) return g.tbsp / 4;
-  if (unit === "tbsp" && g.tsp) return g.tsp * 4;
-  if (unit === "cup" && g.tbsp) return g.tbsp * 12.5;
-  if (unit === "tbsp" && g.cup) return g.cup / 12.5;
-  if (unit === "tsp" && g.cup) return g.cup / 50;
-  if (unit === "pinch") return 0.3;
-  return undefined;
-}
 
 const missing = new Map<string, number>();
 const outliers: string[] = [];
@@ -63,7 +41,7 @@ for (const file of (await readdir("content/recipes")).filter((f) => f.endsWith("
       known++;
       continue;
     }
-    const per = gramsPerUnit(n, unit, /^(hf|ep|dn)-/.test(recipe.slug));
+    const per = gramsPerUnit(n, unit, isMealKit(recipe.slug));
     if (per == null) {
       missing.set(`${i.name} (${unit})`, (missing.get(`${i.name} (${unit})`) ?? 0) + 1);
       continue;

@@ -19,6 +19,7 @@ import { useCatalog } from "@/client/features/list/use-list";
 import { useRecipeDetail } from "@/client/features/recipes/use-recipes";
 import { AddToWeekDrawer } from "@/client/features/week/add-to-week-drawer";
 import { RecipeNotes } from "@/client/features/recipes/recipe-notes";
+import { RecipeCost } from "@/client/features/recipes/recipe-cost";
 import { SubstitutionDrawer, useRecipeSwaps } from "@/client/features/recipes/substitutions";
 import { setCookingPeople, startCooking, stopCooking, useCooking } from "@/client/features/cooking/cooking";
 import { StepTimers } from "@/client/features/cooking/step-timers";
@@ -227,6 +228,7 @@ function RecipePage() {
               </span>
             )}
             <Energy kcal={recipe.kcal} />
+            {!isBlend && <RecipeCost slug={slug} ingredients={ingredients} people={people} />}
             {avg != null && (
               <span className="flex items-center gap-1">
                 <Stars value={avg} size="sm" /> {avg.toFixed(1)}

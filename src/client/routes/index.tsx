@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
-import { createFileRoute } from "@tanstack/react-router";
-import { ChevronDown, CloudOff, ShoppingBasket } from "lucide-react";
+import { createFileRoute, Link } from "@tanstack/react-router";
+import { ChevronDown, CloudOff, ShoppingBasket, ShoppingCart } from "lucide-react";
 import { normalizeName } from "@/shared/normalize";
 import type { ListItem } from "@/shared/types";
 import { PageHeader } from "@/client/components/page-header";
@@ -69,8 +69,13 @@ function ListPage() {
         title="Shopping"
         action={
           unchecked.length > 0 && (
-            <span className="text-sm font-medium text-muted-foreground">
-              {unchecked.length} item{unchecked.length === 1 ? "" : "s"}
+            <span className="flex items-center gap-3">
+              <span className="text-sm font-medium text-muted-foreground">
+                {unchecked.length} item{unchecked.length === 1 ? "" : "s"}
+              </span>
+              <Link to="/shop" className="flex h-9 items-center gap-1.5 rounded-full bg-primary px-3 text-sm font-semibold text-primary-foreground">
+                <ShoppingCart className="size-4" /> Shop
+              </Link>
             </span>
           )
         }

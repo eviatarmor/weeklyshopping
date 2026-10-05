@@ -47,6 +47,9 @@ function WeekPage() {
   const cooked = (meals ?? []).filter((m) => m.cookedAt != null).sort((a, b) => b.cookedAt! - a.cookedAt!);
   // Dinners whose ingredients aren't on the shopping list yet.
   const toShop = toCook.filter((m) => m.recipeSlug && m.onListAt == null);
+  // Estimated cost of the week's dinners still to cook (recipes with a known cost per serve).
+  const costed = toCook.filter((m) => m.recipeSlug && bySlug.get(m.recipeSlug)?.costPerServe != null);
+  const weekCost = costed.reduce((sum, m) => sum + bySlug.get(m.recipeSlug!)!.costPerServe! * m.servings, 0);
 
   return (
     <div className="md:mx-auto md:max-w-3xl md:pt-4">
@@ -75,6 +78,11 @@ function WeekPage() {
             {toShop.length === 0 ? (toCook.some((m) => m.onListAt != null) ? "All on the list" : "Add to list") : `Add ${toShop.length} to list`}
           </Button>
         </div>
+        {costed.length > 0 && (
+          <p className="px-4 pb-2 text-sm text-muted-foreground md:px-6">
+            ≈ <span className="font-semibold text-foreground">${weekCost.toFixed(2)}</span> for {costed.length === toCook.length ? "these dinners" : `${costed.length} of ${toCook.length} dinners`}
+          </p>
+        )}
       </PageHeader>
 
       <div className="space-y-2 px-4 pt-1 pb-6 md:px-6">

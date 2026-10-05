@@ -26,7 +26,7 @@ function RootLayout() {
   }, [sync.status]);
   const pathname = useRouterState({ select: (s) => s.location.pathname });
   // Recipe detail pages are full-screen with their own back button.
-  const hideTabs = /^\/recipes\/.+/.test(pathname);
+  const hideTabs = /^\/recipes\/.+/.test(pathname) || pathname === "/shop";
   // While cooking, the screen stays on everywhere in the app; away from the recipe it shrinks to a bar.
   const cooking = useCooking();
   useWakeLock(Boolean(cooking));

@@ -11,6 +11,7 @@ import { kitchenItems, recipeCooked, recipeProgress, recipeRatings } from "../db
 import { addItems, setUsuallyHave } from "../list-service";
 import { recommend } from "../recommend";
 import { indexEntry, recipeDetail, type ContentStore, type StoreRecipe } from "../content-store";
+import { allRecipeCosts, type RecipeCost } from "../recipe-cost";
 
 type DB = Context["db"];
 
@@ -31,7 +32,7 @@ function safeRead<T>(read: () => T[]): T[] {
 
 export type RecipeStats = { avgStars: number | null; ratingCount: number; myStars: number | null; timesCooked: number; lastCookedAt: number | null };
 
-export type RecipeCard = RecipeIndexEntry & RecipeStats;
+export type RecipeCard = RecipeIndexEntry & RecipeStats & { costPerServe: number | null };
 
 const NO_STATS: RecipeStats = { avgStars: null, ratingCount: 0, myStars: null, timesCooked: 0, lastCookedAt: null };
 
@@ -59,12 +60,16 @@ function loadStats(db: DB, userEmail: string): Map<string, RecipeStats> {
   return stats;
 }
 
-const toCard = (r: StoreRecipe, stats: Map<string, RecipeStats>): RecipeCard => ({ ...indexEntry(r), ...(stats.get(r.slug) ?? NO_STATS) });
+const toCard = (r: StoreRecipe, stats: Map<string, RecipeStats>, costs: Map<string, RecipeCost | null>): RecipeCard => ({
+  ...indexEntry(r),
+  ...(stats.get(r.slug) ?? NO_STATS),
+  costPerServe: costs.get(r.slug)?.perServe ?? null,
+});
 
 /** Tags that say where a recipe came from (or repeat a sort option) rather than what it is. */
 const NON_FILTER_TAGS = new Set(["hellofresh", "everyplate", "mealime", "dinnerly", "reddit", "blend", "sauce", "vegetarian", "quick"]);
 
-const SORTS = ["top", "foryou", "kitchen", "new", "untried", "quick"] as const;
+const SORTS = ["top", "foryou", "kitchen", "cheap", "new", "untried", "quick"] as const;
 
 function sortCards(list: RecipeCard[], sort: Exclude<(typeof SORTS)[number], "foryou" | "kitchen"> | "title"): RecipeCard[] {
   const byTitle = (a: RecipeCard, b: RecipeCard) => a.title.localeCompare(b.title);
@@ -75,6 +80,9 @@ function sortCards(list: RecipeCard[], sort: Exclude<(typeof SORTS)[number], "fo
       return list.sort((a, b) => b.addedAt.localeCompare(a.addedAt) || byTitle(a, b));
     case "untried":
       return list.filter((r) => r.timesCooked === 0 && r.ratingCount === 0).sort(byTitle);
+    case "cheap":
+      // Only meals with a known cost (prices fill in over a few days in the background).
+      return list.filter((r) => r.costPerServe != null).sort((a, b) => a.costPerServe! - b.costPerServe! || byTitle(a, b));
     case "quick":
       return list.filter((r) => r.prepMinutes != null).sort((a, b) => a.prepMinutes! - b.prepMinutes! || byTitle(a, b));
     case "title":
@@ -143,7 +151,7 @@ export const recipesRouter = router({
           (!input.source || recipeSource(r.sourceUrl).id === input.source),
       );
       const stats = loadStats(ctx.db, ctx.user.email);
-      let cards: (RecipeCard & { because?: string | null; missing?: number })[] = filtered.map((r) => toCard(r, stats));
+      let cards: (RecipeCard & { because?: string | null; missing?: number })[] = filtered.map((r) => toCard(r, stats, allRecipeCosts(ctx.db, ctx.store)));
       if (input.favourites) cards = cards.filter((c) => (c.myStars ?? c.avgStars ?? 0) >= 4);
       let sorted: typeof cards;
       if (input.kind === "meal" && input.sort === "foryou") {
@@ -181,7 +189,7 @@ export const recipesRouter = router({
     const stats = loadStats(ctx.db, ctx.user.email);
     return input.slugs.flatMap((slug) => {
       const r = ctx.store.bySlug.get(slug);
-      return r ? [toCard(r, stats)] : [];
+      return r ? [toCard(r, stats, allRecipeCosts(ctx.db, ctx.store))] : [];
     });
   }),
 
@@ -215,7 +223,7 @@ export const recipesRouter = router({
         basedOn: result.basedOn,
         items: result.items.flatMap((i) => {
           const r = ctx.store.bySlug.get(i.slug);
-          return r ? [{ ...toCard(r, stats), because: i.because }] : [];
+          return r ? [{ ...toCard(r, stats, allRecipeCosts(ctx.db, ctx.store)), because: i.because }] : [];
         }),
       };
     } catch (error) {

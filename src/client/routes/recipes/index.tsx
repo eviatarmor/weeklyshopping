@@ -14,7 +14,7 @@ import { Energy } from "@/client/features/recipes/energy";
 // Every filter lives in the URL, so coming back from a recipe shows exactly the same list.
 const searchSchema = z.object({
   kind: z.enum(["meal", "blend"]).optional().catch(undefined),
-  sort: z.enum(["top", "foryou", "kitchen", "new", "untried", "quick"]).optional().catch(undefined),
+  sort: z.enum(["top", "foryou", "kitchen", "cheap", "new", "untried", "quick"]).optional().catch(undefined),
   q: z.string().optional().catch(undefined),
   tag: z.string().optional().catch(undefined),
   source: z.string().optional().catch(undefined),
@@ -30,6 +30,7 @@ const SORTS = [
   { value: "top", label: "Top rated" },
   { value: "foryou", label: "For you" },
   { value: "kitchen", label: "What can I make?" },
+  { value: "cheap", label: "Cheapest" },
   { value: "new", label: "Newest" },
   { value: "untried", label: "Not tried" },
   { value: "quick", label: "Quick" },
@@ -216,7 +217,10 @@ function RecipesPage() {
                   </span>
                 )}
               </div>
-              <Energy kcal={r.kcal} className="text-xs text-muted-foreground [&_svg]:size-3" />
+              <div className="flex items-center justify-between gap-2">
+                <Energy kcal={r.kcal} className="text-xs text-muted-foreground [&_svg]:size-3" />
+                {r.costPerServe != null && <span className="text-xs font-medium text-muted-foreground tabular-nums">${r.costPerServe.toFixed(2)}/serve</span>}
+              </div>
             </div>
           </Link>
         ))}
@@ -227,7 +231,9 @@ function RecipesPage() {
           <p className="col-span-full pt-12 text-center text-sm text-muted-foreground">
             {sort === "foryou" && kind === "meal" && !filtering
               ? "Rate a few recipes you've cooked (4–5★ for favourites) and you'll get recommendations here."
-              : "No recipes match."}
+              : sort === "cheap" && kind === "meal"
+                ? "Costs are still being worked out: ingredient prices fill in over the next day or two."
+                : "No recipes match."}
           </p>
         )}
         {isFetchingNextPage && Array.from({ length: 4 }, (_, i) => <Skeleton key={`more-${i}`} className="aspect-[4/5]" />)}

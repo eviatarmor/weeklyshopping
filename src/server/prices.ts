@@ -98,3 +98,25 @@ export async function priceFor(db: DB, name: string): Promise<PriceComparison> {
   return data;
 }
 
+
+/** Ingredient prices older than this are refreshed in the background (for recipe costs). */
+const BACKGROUND_MAX_AGE_MS = 7 * 24 * 60 * 60_000;
+
+/**
+ * Price one ingredient that has no recent price (most used first), for recipe costs.
+ * Returns false when everything is fresh. Called from the Durable Object alarm, a few a minute at most.
+ */
+export async function refreshOneIngredientPrice(db: DB, names: string[]): Promise<boolean> {
+  const fetched = new Map(db.select({ term: priceCache.term, at: priceCache.fetchedAt }).from(priceCache).all().map((r) => [r.term, r.at]));
+  const stale = names.find((name) => {
+    const at = fetched.get(`v4:${searchKey(name)}`);
+    return at == null || Date.now() - at > BACKGROUND_MAX_AGE_MS;
+  });
+  if (!stale) return false;
+  const term = `v4:${searchKey(stale)}`;
+  const { data, complete } = await compare(db, stale);
+  // Remember even "no match" so the same ingredient isn't retried every few minutes.
+  const fetchedAt = complete || data.offers.length ? data.fetchedAt : data.fetchedAt - BACKGROUND_MAX_AGE_MS + PARTIAL_AGE_MS;
+  db.insert(priceCache).values({ term, data, fetchedAt }).onConflictDoUpdate({ target: priceCache.term, set: { data, fetchedAt } }).run();
+  return true;
+}

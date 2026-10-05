@@ -4,6 +4,7 @@ import { blendTree, expandIngredients, expandRecipes, type BlendRecipe, type Ing
 import { equipmentFor } from "@/shared/equipment";
 import { isVegetarianProduct, pickBestBuy, type Offer } from "@/shared/grocery";
 import { parseUnitPrice } from "@/server/grocers";
+import { recipeCost } from "@/server/recipe-cost";
 import { matches } from "@/shared/product-match";
 import { makeKitchenMatcher } from "@/shared/kitchen";
 import { searchMatcher } from "@/shared/search";
@@ -397,5 +398,23 @@ describe("kitchen", () => {
     expect(have("Spinach")).toBe(false);
     expect(have("Baby Spinach Leaves")).toBe(true);
     expect(have("Garlic")).toBe(false);
+  });
+});
+
+describe("recipe cost", () => {
+  it("prices what you use, per serve", () => {
+    const offer = (unitPrice: number, unitBasis: "kg" | "each"): Offer => ({
+      store: "coles", productId: "x", name: "x", size: null, price: 1, wasPrice: null, unitPrice, unitBasis, unitLabel: null, url: "", imageUrl: null,
+    });
+    const row = (name: string, qty: number | null, unit: string | null, extra: Partial<IngredientRow> = {}): IngredientRow => ({
+      name, qty, unit, productSlug: null, blendSlug: null, optional: false, pantry: false, imageUrl: null, ...extra,
+    });
+    const recipe = {
+      slug: "ml-test", servings: 2,
+      ingredients: [row("Brown Onion", 2, null), row("Passata", 500, "g"), row("Olive Oil", 1, "tbsp", { pantry: true })],
+    } as unknown as Parameters<typeof recipeCost>[0];
+    const offers = new Map([["brown onion", offer(0.6, "each")], ["passata", offer(2.9, "kg")]]);
+    // 2 × $0.60 + 0.5 kg × $2.90 = $2.65 for 2 serves.
+    expect(recipeCost(recipe, offers)).toEqual({ perServe: 1.33, priced: 2, of: 2 });
   });
 });

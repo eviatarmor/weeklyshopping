@@ -10,6 +10,11 @@ import { ensureSections } from "../server/content-sync";
 import { buildStore, type ContentStore } from "../server/content-store";
 import { appRouter } from "../server/router";
 import { fireDueTimers, nextTimerDue } from "../server/timers-service";
+import { refreshOneIngredientPrice } from "../server/prices";
+import { ingredientsToPrice } from "../server/recipe-cost";
+
+/** One ingredient price every two minutes while recipe costs are being filled in. */
+const PRICE_REFRESH_EVERY_MS = 2 * 60_000;
 import { IDENTITY_HEADER, type Identity } from "./identity";
 
 /** One instance per household: owns its SQLite database and live-update fan-out. */
@@ -30,6 +35,8 @@ export class HouseholdDO extends DurableObject<Env> {
       try {
         if (this.migrationsPending()) migrate(this.db, migrations);
         ensureSections(this.db);
+        // Keep the alarm going (timers and the background price refresh share it).
+        if (String(env.DEV_AUTH) !== "true" && (await ctx.storage.getAlarm()) == null) await ctx.storage.setAlarm(Date.now() + 60_000);
       } catch (error) {
         console.error("startup migration failed; serving read-only until it succeeds", error);
       }
@@ -47,18 +54,35 @@ export class HouseholdDO extends DurableObject<Env> {
     }
   }
 
-  /** Wake up when the next cooking timer is due. */
+  /** When the background price refresh should run next (in memory; an alarm after a restart just runs it). */
+  private nextPriceRefresh = 0;
+
+  /** Wake up for the next cooking timer or the next background price refresh, whichever is first. */
   private async syncAlarm() {
-    const due = nextTimerDue(this.db);
-    if (due == null) await this.ctx.storage.deleteAlarm();
+    const timer = nextTimerDue(this.db);
+    const refresh = String(this.env.DEV_AUTH) === "true" ? Infinity : this.nextPriceRefresh || Date.now() + PRICE_REFRESH_EVERY_MS;
+    const due = Math.min(timer ?? Infinity, refresh);
+    if (due === Infinity) await this.ctx.storage.deleteAlarm();
     else await this.ctx.storage.setAlarm(due);
   }
 
-  /** A timer is up: notify everyone, then wait for the next one. */
+  /** A timer is up (notify everyone) and/or it's time to refresh one ingredient price. */
   override async alarm() {
     const privateKey = String(this.env.VAPID_PRIVATE_KEY ?? "");
     const publicKey = String(this.env.VAPID_PUBLIC_KEY ?? "");
     await fireDueTimers(this.db, this.bus, this.store, privateKey && publicKey ? { publicKey, privateKey } : null);
+    // Local dev and tests never call the real supermarkets in the background.
+    const local = String(this.env.DEV_AUTH) === "true";
+    if (!local && Date.now() >= this.nextPriceRefresh) {
+      let more = true;
+      try {
+        more = await refreshOneIngredientPrice(this.db, ingredientsToPrice(this.store));
+      } catch (error) {
+        console.error("background price refresh failed", error);
+      }
+      // Slowly while there's work (stores don't like bursts), then check again in a few hours.
+      this.nextPriceRefresh = Date.now() + (more ? PRICE_REFRESH_EVERY_MS : 6 * 60 * 60_000);
+    }
     await this.syncAlarm();
   }
 

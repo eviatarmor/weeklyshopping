@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as SettingsRouteImport } from './routes/settings'
+import { Route as ShopRouteImport } from './routes/shop'
 import { Route as WeekRouteImport } from './routes/week'
 import { Route as RecipesIndexRouteImport } from './routes/recipes/index'
 import { Route as RecipesSlugRouteImport } from './routes/recipes/$slug'
@@ -23,6 +24,11 @@ const IndexRoute = IndexRouteImport.update({
 const SettingsRoute = SettingsRouteImport.update({
   id: '/settings',
   path: '/settings',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ShopRoute = ShopRouteImport.update({
+  id: '/shop',
+  path: '/shop',
   getParentRoute: () => rootRouteImport,
 } as any)
 const WeekRoute = WeekRouteImport.update({
@@ -44,6 +50,7 @@ const RecipesSlugRoute = RecipesSlugRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/settings': typeof SettingsRoute
+  '/shop': typeof ShopRoute
   '/week': typeof WeekRoute
   '/recipes/$slug': typeof RecipesSlugRoute
   '/recipes/': typeof RecipesIndexRoute
@@ -51,6 +58,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/settings': typeof SettingsRoute
+  '/shop': typeof ShopRoute
   '/week': typeof WeekRoute
   '/recipes/$slug': typeof RecipesSlugRoute
   '/recipes': typeof RecipesIndexRoute
@@ -59,21 +67,31 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/settings': typeof SettingsRoute
+  '/shop': typeof ShopRoute
   '/week': typeof WeekRoute
   '/recipes/$slug': typeof RecipesSlugRoute
   '/recipes/': typeof RecipesIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/settings' | '/week' | '/recipes/$slug' | '/recipes/'
+  fullPaths:
+    '/' | '/settings' | '/shop' | '/week' | '/recipes/$slug' | '/recipes/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/settings' | '/week' | '/recipes/$slug' | '/recipes'
-  id: '__root__' | '/' | '/settings' | '/week' | '/recipes/$slug' | '/recipes/'
+  to: '/' | '/settings' | '/shop' | '/week' | '/recipes/$slug' | '/recipes'
+  id:
+    | '__root__'
+    | '/'
+    | '/settings'
+    | '/shop'
+    | '/week'
+    | '/recipes/$slug'
+    | '/recipes/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   SettingsRoute: typeof SettingsRoute
+  ShopRoute: typeof ShopRoute
   WeekRoute: typeof WeekRoute
   RecipesSlugRoute: typeof RecipesSlugRoute
   RecipesIndexRoute: typeof RecipesIndexRoute
@@ -93,6 +111,13 @@ declare module '@tanstack/react-router' {
       path: '/settings'
       fullPath: '/settings'
       preLoaderRoute: typeof SettingsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/shop': {
+      id: '/shop'
+      path: '/shop'
+      fullPath: '/shop'
+      preLoaderRoute: typeof ShopRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/week': {
@@ -122,6 +147,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   SettingsRoute: SettingsRoute,
+  ShopRoute: ShopRoute,
   WeekRoute: WeekRoute,
   RecipesSlugRoute: RecipesSlugRoute,
   RecipesIndexRoute: RecipesIndexRoute,

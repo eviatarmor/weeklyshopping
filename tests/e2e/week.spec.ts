@@ -70,6 +70,8 @@ test("going back to the recipes keeps the filter and scroll position", async ({ 
   await page.getByRole("button", { name: "Quick", exact: true }).click();
   await expect(page.getByRole("button", { name: "Quick", exact: true })).toHaveClass(/bg-primary/);
   const main = page.locator("main");
+  // Wait for the first page of cards before scrolling.
+  await expect(page.locator("main a[href^='/recipes/']").nth(30)).toBeAttached({ timeout: 15_000 });
   await main.evaluate((el) => el.scrollTo({ top: 2500 }));
   await page.waitForTimeout(300);
   const before = await main.evaluate((el) => el.scrollTop);
