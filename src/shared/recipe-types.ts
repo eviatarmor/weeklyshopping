@@ -40,6 +40,9 @@ export type RecipeFields = {
   addedAt: string;
 };
 
+/** Something to use instead of an ingredient you don't have. */
+export type Substitution = { name: string; amount: string; note: string; vegan: boolean };
+
 /** Everything the recipe page needs that doesn't depend on who's looking. */
 export type RecipeDetail = {
   recipe: RecipeFields;
@@ -47,6 +50,8 @@ export type RecipeDetail = {
   /** Every blend reachable from the ingredients, for "make it from scratch". */
   blends: Record<string, BlendRecipe>;
   productImages: Record<string, string | null>;
+  /** Swaps for this recipe's ingredients, keyed by ingredient name. */
+  substitutions: Record<string, Substitution[]>;
   /** For blends: the recipes that use it. */
   usedIn: { slug: string; title: string }[];
 };

@@ -5,6 +5,7 @@ import { equipmentFor } from "@/shared/equipment";
 import { isVegetarianProduct, pickBestBuy, type Offer } from "@/shared/grocery";
 import { parseUnitPrice } from "@/server/grocers";
 import { matches } from "@/shared/product-match";
+import { makeKitchenMatcher } from "@/shared/kitchen";
 import { searchMatcher } from "@/shared/search";
 import { formatCountdown, stepTimers } from "@/shared/timers";
 import { base64UrlToBytes, bytesToBase64Url, encryptPayload } from "@/server/web-push";
@@ -385,5 +386,16 @@ describe("fractions", () => {
     expect(formatQty(0.13, "tsp")).toBe("⅛ tsp");
     expect(formatQty(0.25, "tsp")).toBe("¼ tsp");
     expect(formatQty(1.5, "cup")).toBe("1½ cups");
+  });
+});
+
+describe("kitchen", () => {
+  it("matches what's in the kitchen to recipe ingredients", () => {
+    const have = makeKitchenMatcher(["Onions", "feta", "Baby Spinach"]);
+    expect(have("Brown Onion")).toBe(true);
+    expect(have("Greek Feta Cheese")).toBe(true);
+    expect(have("Spinach")).toBe(false);
+    expect(have("Baby Spinach Leaves")).toBe(true);
+    expect(have("Garlic")).toBe(false);
   });
 });

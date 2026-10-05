@@ -3,7 +3,9 @@ import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { useNavigate } from "@tanstack/react-router";
 import { toast } from "sonner";
 import { expandRecipes, type BlendChoice, type BlendRecipe, type IngredientRow, type ShoppingLine } from "@/shared/expand";
+import { makeKitchenMatcher } from "@/shared/kitchen";
 import { normalizeName } from "@/shared/normalize";
+import { useKitchen } from "./kitchen";
 import type { MeasureSystem, SpoonStandard } from "@/shared/measure";
 import { Button } from "@/client/components/ui/button";
 import { Drawer, DrawerContent, DrawerDescription, DrawerFooter, DrawerHeader, DrawerTitle } from "@/client/components/ui/drawer";
@@ -93,12 +95,15 @@ export function ShoppingDrawer({
   );
   const productImages = useMemo(() => Object.assign({}, ...recipes.map((r) => r.detail.productImages)) as Record<string, string | null>, [recipes]);
   const usuallyHave = useMemo(() => new Set(usuallyHaveList), [usuallyHaveList]);
+  // Things already in the kitchen start unticked too.
+  const { data: kitchen } = useKitchen();
+  const inKitchen = useMemo(() => makeKitchenMatcher((kitchen ?? []).map((k) => k.name)), [kitchen]);
   const lines = useMemo(
     () => expandRecipes(recipes.map((r) => ({ ingredients: r.detail.ingredients, factor: r.servings / r.detail.recipe.servings })), blends, choices),
     [recipes, blends, choices],
   );
 
-  const defaultBuy = (line: ShoppingLine) => !(line.pantry || line.optional || usuallyHave.has(normalizeName(line.name)));
+  const defaultBuy = (line: ShoppingLine) => !(line.pantry || line.optional || usuallyHave.has(normalizeName(line.name)) || inKitchen(line.name));
   const wants = (line: ShoppingLine) => buy[line.key] ?? defaultBuy(line);
   const count = lines.filter(wants).length;
 
@@ -191,7 +196,8 @@ export function ShoppingDrawer({
                       <span className="block truncate text-xs text-muted-foreground">
                         {[
                           line.via.length ? `for ${line.via.join(" → ")}` : null,
-                          !selected && (line.pantry || usuallyHave.has(normalizeName(line.name))) ? "usually have" : null,
+                          !selected && inKitchen(line.name) ? "in the kitchen" : null,
+                          !selected && !inKitchen(line.name) && (line.pantry || usuallyHave.has(normalizeName(line.name))) ? "usually have" : null,
                         ]
                           .filter(Boolean)
                           .join(" · ")}

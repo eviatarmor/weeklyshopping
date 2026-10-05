@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { createFileRoute, Link, useRouter } from "@tanstack/react-router";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { CalendarPlus, Check, ChefHat, ChevronLeft, Clock, ExternalLink, Play, RotateCcw, Share2, ShoppingCart, Users, X } from "lucide-react";
+import { CalendarPlus, Check, ChefHat, MoreVertical, ChevronLeft, Clock, ExternalLink, Play, RotateCcw, Share2, ShoppingCart, Users, X } from "lucide-react";
 import { toast } from "sonner";
 import { batchesFor, blendTree, type BlendRecipe } from "@/shared/expand";
 import { spoonStandardFor } from "@/shared/measure";
@@ -19,6 +19,7 @@ import { useCatalog } from "@/client/features/list/use-list";
 import { useRecipeDetail } from "@/client/features/recipes/use-recipes";
 import { AddToWeekDrawer } from "@/client/features/week/add-to-week-drawer";
 import { RecipeNotes } from "@/client/features/recipes/recipe-notes";
+import { SubstitutionDrawer, useRecipeSwaps } from "@/client/features/recipes/substitutions";
 import { setCookingPeople, startCooking, stopCooking, useCooking } from "@/client/features/cooking/cooking";
 import { StepTimers } from "@/client/features/cooking/step-timers";
 import { useNow, useTimers } from "@/client/features/cooking/use-timers";
@@ -76,6 +77,8 @@ function RecipePage() {
   };
   const [adding, setAdding] = useState(false);
   const [planning, setPlanning] = useState(false);
+  const [swaps, setSwap] = useRecipeSwaps(slug);
+  const [swapping, setSwapping] = useState<number | null>(null);
   // Ticked-off steps and ingredients, shared live with the rest of the household.
   const progressKey = trpc.recipes.progress.queryKey({ slug });
   const progress = useQuery(trpc.recipes.progress.queryOptions({ slug }, { staleTime: Infinity }));
@@ -149,6 +152,10 @@ function RecipePage() {
   }
 
   const { recipe, ingredients, ratings } = data;
+  // Ingredients with this phone's chosen swaps, for the shopping list.
+  const shoppingIngredients = ingredients.map((i, index) =>
+    swaps[index] ? { ...i, name: swaps[index].name, productSlug: null, blendSlug: null, imageUrl: null } : i,
+  );
   const isBlend = recipe.kind === "blend";
   const source = recipeSource(recipe.sourceUrl);
   const standard = spoonStandardFor(recipe.sourceUrl);
@@ -298,8 +305,11 @@ function RecipePage() {
               const image = i.imageUrl ?? (i.productSlug ? data.productImages[i.productSlug] : null);
               const qty = i.qty == null ? null : roundQty(i.qty * factor, i.unit);
               const ticked = doneIngredients.has(String(index));
+              const swap = swaps[index];
+              const options = data.substitutions[i.name] ?? [];
               return (
                 <li key={index} className="px-3 py-2.5">
+                  <div className="flex items-center gap-1">
                   {/* Tap an ingredient once it's in the pan. */}
                   <button
                     type="button"
@@ -310,7 +320,7 @@ function RecipePage() {
                       haptic(ticked ? 5 : 12);
                       toggleIngredient(String(index));
                     }}
-                    className="flex w-full items-center gap-3 text-left"
+                    className="flex min-w-0 flex-1 items-center gap-3 text-left"
                   >
                     <span className="relative">
                       <Thumb src={sizedImage(image, 36)} emoji={emojiFor(i.name)} className={cn("size-9", ticked && "opacity-40")} />
@@ -322,14 +332,30 @@ function RecipePage() {
                         </span>
                       )}
                     </span>
-                    <span className={cn("flex-1", ticked && "text-muted-foreground line-through")}>
-                      <span className="font-medium">{i.name}</span>
+                    <span className={cn("min-w-0 flex-1", ticked && "text-muted-foreground line-through")}>
+                      <span className="font-medium">{swap ? swap.name : i.name}</span>
                       {i.pantry && <span className="ml-2 text-xs text-muted-foreground no-underline">pantry</span>}
+                      {swap && (
+                        <span className="block text-xs text-primary no-underline">
+                          instead of {i.name} · {swap.amount}
+                        </span>
+                      )}
                     </span>
                     <span className={cn(ticked && "opacity-50")}>
                       <Quantity qty={qty} unit={i.unit} name={i.name} system={system} standard={standard} />
                     </span>
                   </button>
+                  {options.length > 0 && (
+                    <button
+                      type="button"
+                      aria-label={`Substitutes for ${i.name}`}
+                      onClick={() => setSwapping(index)}
+                      className={cn("grid size-8 shrink-0 place-items-center rounded-full text-muted-foreground active:bg-accent", swap && "text-primary")}
+                    >
+                      <MoreVertical className="size-4" />
+                    </button>
+                  )}
+                  </div>
                   {tree && (
                     <div className="mt-2 ml-12 rounded-lg bg-muted/60 p-2.5">
                       <BlendTree
@@ -449,7 +475,14 @@ function RecipePage() {
       </div>
 
       {!isBlend && <AddToWeekDrawer slug={slug} title={recipe.title} servings={people} open={planning} onOpenChange={setPlanning} />}
-      <AddToListDrawer data={data} servings={servings} people={isBlend ? people : undefined} open={adding} onOpenChange={setAdding} system={system} standard={standard} />
+      <SubstitutionDrawer
+        ingredient={swapping != null ? (ingredients[swapping]?.name ?? null) : null}
+        options={swapping != null ? (data.substitutions[ingredients[swapping]?.name ?? ""] ?? []) : []}
+        current={swapping != null ? (swaps[swapping] ?? null) : null}
+        onChoose={(swap) => swapping != null && setSwap(swapping, swap)}
+        onClose={() => setSwapping(null)}
+      />
+      <AddToListDrawer data={{ ...data, ingredients: shoppingIngredients }} servings={servings} people={isBlend ? people : undefined} open={adding} onOpenChange={setAdding} system={system} standard={standard} />
     </div>
   );
 }

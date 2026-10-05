@@ -3,6 +3,7 @@ import type { BlendRecipe, IngredientRow } from "@/shared/expand";
 import { recipeSource } from "@/shared/sources";
 import type { RecipeDetail, RecipeIndexEntry } from "@/shared/recipe-types";
 import { equipmentFor } from "@/shared/equipment";
+import { substitutionsFor } from "./substitutions";
 import { normalizeUnit } from "@/shared/units";
 import type { Content } from "./content-types";
 
@@ -124,7 +125,13 @@ export function recipeDetail(store: ContentStore, slug: string): RecipeDetail | 
     [...new Set(allRows.map((r) => r.productSlug).filter((s): s is string => !!s))].map((p) => [p, store.productBySlug.get(p)?.imageUrl ?? null]),
   );
   const usedIn = recipe.kind === "blend" ? (store.usedBy.get(recipe.slug) ?? []).map((r) => ({ slug: r.slug, title: r.title })) : [];
-  return { recipe, ingredients, blends, productImages, usedIn };
+  const substitutions = Object.fromEntries(
+    allRows.flatMap((r) => {
+      const swaps = substitutionsFor(r.name);
+      return swaps.length ? [[r.name, swaps] as const] : [];
+    }),
+  );
+  return { recipe, ingredients, blends, productImages, substitutions, usedIn };
 }
 
 /** One card in the recipe list. */

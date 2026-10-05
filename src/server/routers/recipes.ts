@@ -1,12 +1,13 @@
 import { and, desc, eq } from "drizzle-orm";
 import { TRPCError } from "@trpc/server";
 import { z } from "zod";
+import { makeKitchenMatcher } from "@/shared/kitchen";
 import { searchMatcher } from "@/shared/search";
 import { recipeSource } from "@/shared/sources";
 import type { RecipeIndexEntry } from "@/shared/recipe-types";
 import type { CookingProgress } from "@/shared/types";
 import { protectedProcedure, router, type Context } from "../trpc";
-import { recipeCooked, recipeProgress, recipeRatings } from "../db/schema";
+import { kitchenItems, recipeCooked, recipeProgress, recipeRatings } from "../db/schema";
 import { addItems, setUsuallyHave } from "../list-service";
 import { recommend } from "../recommend";
 import { indexEntry, recipeDetail, type ContentStore, type StoreRecipe } from "../content-store";
@@ -63,9 +64,9 @@ const toCard = (r: StoreRecipe, stats: Map<string, RecipeStats>): RecipeCard => 
 /** Tags that say where a recipe came from (or repeat a sort option) rather than what it is. */
 const NON_FILTER_TAGS = new Set(["hellofresh", "everyplate", "mealime", "dinnerly", "reddit", "blend", "sauce", "vegetarian", "quick"]);
 
-const SORTS = ["top", "foryou", "new", "untried", "quick"] as const;
+const SORTS = ["top", "foryou", "kitchen", "new", "untried", "quick"] as const;
 
-function sortCards(list: RecipeCard[], sort: Exclude<(typeof SORTS)[number], "foryou"> | "title"): RecipeCard[] {
+function sortCards(list: RecipeCard[], sort: Exclude<(typeof SORTS)[number], "foryou" | "kitchen"> | "title"): RecipeCard[] {
   const byTitle = (a: RecipeCard, b: RecipeCard) => a.title.localeCompare(b.title);
   switch (sort) {
     case "top":
@@ -142,7 +143,7 @@ export const recipesRouter = router({
           (!input.source || recipeSource(r.sourceUrl).id === input.source),
       );
       const stats = loadStats(ctx.db, ctx.user.email);
-      let cards: (RecipeCard & { because?: string | null })[] = filtered.map((r) => toCard(r, stats));
+      let cards: (RecipeCard & { because?: string | null; missing?: number })[] = filtered.map((r) => toCard(r, stats));
       if (input.favourites) cards = cards.filter((c) => (c.myStars ?? c.avgStars ?? 0) >= 4);
       let sorted: typeof cards;
       if (input.kind === "meal" && input.sort === "foryou") {
@@ -152,8 +153,17 @@ export const recipesRouter = router({
           .filter((c) => byScore.has(c.slug))
           .map((c) => ({ ...c, because: byScore.get(c.slug)!.because }))
           .sort((a, b) => byScore.get(a.slug)!.rank - byScore.get(b.slug)!.rank);
+      } else if (input.kind === "meal" && input.sort === "kitchen") {
+        // "What can I make?": fewest ingredients missing from the kitchen first (pantry staples count as there).
+        const have = makeKitchenMatcher(safeRead(() => ctx.db.select({ name: kitchenItems.name }).from(kitchenItems).all()).map((k) => k.name));
+        const missingFor = new Map(
+          filtered.map((r) => [r.slug, r.ingredients.filter((i) => !i.optional && !i.pantry && !have(i.name)).length] as const),
+        );
+        sorted = cards
+          .map((c) => ({ ...c, missing: missingFor.get(c.slug) ?? 0 }))
+          .sort((a, b) => a.missing - b.missing || (b.avgStars ?? 0) - (a.avgStars ?? 0) || a.title.localeCompare(b.title));
       } else {
-        sorted = sortCards(cards, input.kind === "meal" && input.sort !== "foryou" ? input.sort : "title");
+        sorted = sortCards(cards, input.kind === "meal" && input.sort !== "foryou" && input.sort !== "kitchen" ? input.sort : "title");
       }
       const items = sorted.slice(input.cursor, input.cursor + input.limit);
       const next = input.cursor + items.length;

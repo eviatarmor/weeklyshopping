@@ -4,6 +4,8 @@ import { keepPreviousData, useInfiniteQuery } from "@tanstack/react-query";
 import { Clock, Search } from "lucide-react";
 import { z } from "zod";
 import { PageHeader } from "@/client/components/page-header";
+import { KitchenDrawer, useKitchen } from "@/client/features/recipes/kitchen";
+import { cn } from "@/client/lib/utils";
 import { Chip, Segmented, Skeleton, Stars, Thumb } from "@/client/components/ui/misc";
 import { sizedImage } from "@/client/lib/images";
 import { useTRPC } from "@/client/lib/trpc";
@@ -12,7 +14,7 @@ import { Energy } from "@/client/features/recipes/energy";
 // Every filter lives in the URL, so coming back from a recipe shows exactly the same list.
 const searchSchema = z.object({
   kind: z.enum(["meal", "blend"]).optional().catch(undefined),
-  sort: z.enum(["top", "foryou", "new", "untried", "quick"]).optional().catch(undefined),
+  sort: z.enum(["top", "foryou", "kitchen", "new", "untried", "quick"]).optional().catch(undefined),
   q: z.string().optional().catch(undefined),
   tag: z.string().optional().catch(undefined),
   source: z.string().optional().catch(undefined),
@@ -27,6 +29,7 @@ export const Route = createFileRoute("/recipes/")({
 const SORTS = [
   { value: "top", label: "Top rated" },
   { value: "foryou", label: "For you" },
+  { value: "kitchen", label: "What can I make?" },
   { value: "new", label: "Newest" },
   { value: "untried", label: "Not tried" },
   { value: "quick", label: "Quick" },
@@ -55,6 +58,8 @@ function RecipesPage() {
 
   // The box updates instantly; the URL (and the request) follow a moment later.
   const [text, setText] = useState(search.q ?? "");
+  const { data: kitchen } = useKitchen();
+  const [editingKitchen, setEditingKitchen] = useState(false);
   useEffect(() => {
     const id = setTimeout(() => {
       if ((search.q ?? "") !== text) setSearch({ q: text || undefined });
@@ -165,6 +170,18 @@ function RecipesPage() {
         )}
       </PageHeader>
 
+      {kind === "meal" && sort === "kitchen" && (
+        <div className="mx-4 mb-3 flex items-center justify-between gap-3 rounded-xl border bg-card px-3 py-2 text-sm md:mx-6">
+          <span className="text-muted-foreground">
+            {kitchen?.length ? `Using the ${kitchen.length} things in your kitchen` : "Tell the app what's in your kitchen first"}
+          </span>
+          <button type="button" onClick={() => setEditingKitchen(true)} className="shrink-0 font-semibold text-primary">
+            {kitchen?.length ? "Edit kitchen" : "Add items"}
+          </button>
+        </div>
+      )}
+      <KitchenDrawer open={editingKitchen} onOpenChange={setEditingKitchen} />
+
       <div className="grid grid-cols-2 gap-3 px-4 pt-1 pb-6 sm:grid-cols-3 md:gap-4 md:px-6 lg:grid-cols-4 xl:grid-cols-5">
         {query.isPending && Array.from({ length: 6 }, (_, i) => <Skeleton key={i} className="aspect-[4/5]" />)}
         {visible.map((r) => (
@@ -185,6 +202,11 @@ function RecipesPage() {
             <div className="flex flex-col gap-1 p-2.5">
               <h3 className="line-clamp-2 text-sm leading-snug font-semibold">{r.title}</h3>
               {r.because && <p className="line-clamp-1 text-[11px] text-muted-foreground">Because you liked {r.because}</p>}
+              {r.missing != null && (
+                <p className={cn("text-[11px] font-semibold", r.missing === 0 ? "text-primary" : "text-muted-foreground")}>
+                  {r.missing === 0 ? "You have everything" : `Missing ${r.missing} ingredient${r.missing === 1 ? "" : "s"}`}
+                </p>
+              )}
               <div className="flex items-center justify-between text-xs text-muted-foreground">
                 {r.avgStars != null ? <Stars value={r.avgStars} size="sm" /> : <span>{r.timesCooked ? `Cooked ${r.timesCooked}×` : "Not rated"}</span>}
                 {r.prepMinutes != null && (

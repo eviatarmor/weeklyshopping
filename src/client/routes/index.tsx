@@ -11,6 +11,7 @@ import { EditItemDrawer } from "@/client/features/list/edit-item-drawer";
 import { ItemRow } from "@/client/features/list/item-row";
 import { ListTotal } from "@/client/features/list/prices";
 import { useAddRegulars } from "@/client/features/list/regulars";
+import { useKitchenActions } from "@/client/features/recipes/kitchen";
 import { useCatalog, useListActions, useListItems } from "@/client/features/list/use-list";
 import { useRecipeCardsFor } from "@/client/features/recipes/use-recipes";
 import { dropServiceWorker } from "@/client/lib/trpc";
@@ -23,6 +24,8 @@ function ListPage() {
   const { data: items, isPending, isError, error, refetch, isFetching } = useListItems();
   const catalog = useCatalog();
   const actions = useListActions();
+  useAddRegulars();
+  const kitchenActions = useKitchenActions();
   const [editing, setEditing] = useState<ListItem | null>(null);
   const [showChecked, setShowChecked] = useState(true);
 
@@ -126,7 +129,11 @@ function ListPage() {
                   <ChevronDown className={cn("size-4 transition-transform", !showChecked && "-rotate-90")} />
                   In the trolley · {checked.length}
                 </button>
-                <Button variant="ghost" size="sm" onClick={actions.clearChecked}>
+                <Button variant="ghost" size="sm" onClick={() => {
+                    // What was just bought is now in the kitchen (for "What can I make?").
+                    kitchenActions.add(checked.map((i) => i.name));
+                    actions.clearChecked();
+                  }}>
                   Clear
                 </Button>
               </div>
