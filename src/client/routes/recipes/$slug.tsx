@@ -6,7 +6,7 @@ import { toast } from "sonner";
 import { batchesFor, blendTree, type BlendRecipe } from "@/shared/expand";
 import { spoonStandardFor } from "@/shared/measure";
 import { recipeSource } from "@/shared/sources";
-import { roundQty } from "@/shared/units";
+import { formatQty, roundQty } from "@/shared/units";
 import { Button } from "@/client/components/ui/button";
 import { Badge, Segmented, Skeleton, Stars, Thumb } from "@/client/components/ui/misc";
 import { AddToListDrawer } from "@/client/features/recipes/add-to-list-drawer";
@@ -18,6 +18,7 @@ import { emojiFor, sizedImage } from "@/client/lib/images";
 import { useCatalog } from "@/client/features/list/use-list";
 import { useRecipeDetail } from "@/client/features/recipes/use-recipes";
 import { AddToWeekDrawer } from "@/client/features/week/add-to-week-drawer";
+import { RecipeNotes } from "@/client/features/recipes/recipe-notes";
 import { setCookingPeople, startCooking, stopCooking, useCooking } from "@/client/features/cooking/cooking";
 import { StepTimers } from "@/client/features/cooking/step-timers";
 import { useNow, useTimers } from "@/client/features/cooking/use-timers";
@@ -282,14 +283,11 @@ function RecipePage() {
               <Segmented
                 value={String(people)}
                 onChange={(v) => setServings(Number(v))}
-                options={[2, 4].map((n) => ({ value: String(n), label: String(n) }))}
+                options={[1, 2, 3, 4, 6].map((n) => ({ value: String(n), label: String(n) }))}
               />
               {isBlend && (
                 // One sachet for 2 people, two for 4.
-                <span className="text-xs">
-                  = {factor} {recipe.yieldUnit ?? "batch"}
-                  {factor === 1 ? "" : (recipe.yieldUnit ?? "batch").endsWith("h") ? "es" : "s"}
-                </span>
+                <span className="text-xs">= {formatQty(factor, recipe.yieldUnit ?? "batch")}</span>
               )}
             </div>
           </div>
@@ -416,6 +414,8 @@ function RecipePage() {
             </ol>
           </section>
         )}
+
+        {!isBlend && <RecipeNotes slug={slug} />}
 
         {data.usedIn.length > 0 && (
           <section>

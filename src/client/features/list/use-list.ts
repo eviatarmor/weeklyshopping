@@ -23,7 +23,7 @@ function upsertItems(list: ListItem[] | undefined, items: ListItem[], replaceId?
   return next;
 }
 
-type SyncKeys = { list: QueryKey; catalog: QueryKey; timers: QueryKey; week: (weekStart: string) => QueryKey; progress: (slug: string) => QueryKey };
+type SyncKeys = { list: QueryKey; catalog: QueryKey; timers: QueryKey; household: QueryKey; week: (weekStart: string) => QueryKey; progress: (slug: string) => QueryKey };
 
 function applyEvent(qc: QueryClient, keys: SyncKeys, event: ListEvent) {
   const { list: listKey, catalog: catalogKey } = keys;
@@ -44,6 +44,11 @@ function applyEvent(qc: QueryClient, keys: SyncKeys, event: ListEvent) {
     case "timers.changed":
       void qc.invalidateQueries({ queryKey: keys.timers });
       break;
+    case "note.changed":
+    case "regulars.changed":
+    case "kitchen.changed":
+      void qc.invalidateQueries({ queryKey: keys.household });
+      break;
     case "progress.changed":
       qc.setQueryData(keys.progress(event.slug), event.progress);
       break;
@@ -60,6 +65,7 @@ export function useListSync() {
     list: listKey,
     catalog: catalogKey,
     timers: trpc.timers.list.queryKey(),
+    household: trpc.household.pathKey(),
     week: (weekStart) => trpc.week.get.queryKey({ weekStart }),
     progress: (slug) => trpc.recipes.progress.queryKey({ slug }),
   };

@@ -195,3 +195,30 @@ export const productVegetarian = sqliteTable("product_vegetarian", {
   vegetarian: integer("vegetarian", { mode: "boolean" }).notNull(),
   checkedAt: integer("checked_at").notNull(),
 });
+
+/** The household's own notes on a recipe ("add extra chilli"), shared by everyone. */
+export const recipeNotes = sqliteTable("recipe_notes", {
+  recipeSlug: text("recipe_slug").primaryKey(),
+  text: text("text").notNull(),
+  updatedBy: text("updated_by").notNull(),
+  updatedAt: integer("updated_at").notNull().default(now),
+});
+
+/** Items that go on the list every week (milk, eggs, bread…). */
+export const regularItems = sqliteTable("regular_items", {
+  normalizedName: text("normalized_name").primaryKey(),
+  name: text("name").notNull(),
+  qty: real("qty"),
+  unit: text("unit"),
+  sectionId: text("section_id"),
+  productSlug: text("product_slug"),
+  /** Monday (YYYY-MM-DD) of the week it was last added to the list. */
+  lastAddedWeek: text("last_added_week"),
+});
+
+/** What's in the kitchen right now, for "What can I make?". */
+export const kitchenItems = sqliteTable("kitchen_items", {
+  normalizedName: text("normalized_name").primaryKey(),
+  name: text("name").notNull(),
+  addedAt: integer("added_at").notNull().default(now),
+});

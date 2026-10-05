@@ -10,6 +10,7 @@ import { AddItemBar } from "@/client/features/list/add-item-bar";
 import { EditItemDrawer } from "@/client/features/list/edit-item-drawer";
 import { ItemRow } from "@/client/features/list/item-row";
 import { ListTotal } from "@/client/features/list/prices";
+import { useAddRegulars } from "@/client/features/list/regulars";
 import { useCatalog, useListActions, useListItems } from "@/client/features/list/use-list";
 import { useRecipeCardsFor } from "@/client/features/recipes/use-recipes";
 import { dropServiceWorker } from "@/client/lib/trpc";

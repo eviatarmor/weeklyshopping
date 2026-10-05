@@ -6,6 +6,7 @@ import { Drawer, DrawerContent, DrawerDescription, DrawerFooter, DrawerHeader, D
 import { Input } from "@/client/components/ui/input";
 import { cn } from "@/client/lib/utils";
 import { PriceComparisonPanel } from "./prices";
+import { RegularToggle } from "./regulars";
 import { useCatalog, useListActions } from "./use-list";
 
 export function EditItemDrawer({ item, onClose }: { item: ListItem | null; onClose: () => void }) {
@@ -63,6 +64,7 @@ export function EditItemDrawer({ item, onClose }: { item: ListItem | null; onClo
             <Input value={unit} onChange={(e) => setUnit(e.target.value)} placeholder="unit (g, ml, pack…)" className="flex-1" aria-label="Unit" />
           </div>
           <Input value={note} onChange={(e) => setNote(e.target.value)} placeholder="Note (brand, size…)" aria-label="Note" />
+          <RegularToggle item={item} />
           {!item.checked && (
             <div>
               <p className="mb-2 text-sm font-medium text-muted-foreground">Prices (vegetarian matches)</p>
