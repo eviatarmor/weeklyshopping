@@ -57,8 +57,14 @@ test("ticked method steps are shared", async ({ browser, baseURL }) => {
   await alex.getByRole("link", { name: /Creamy Mushroom & White Bean Pie/ }).click();
   const url = alex.url();
   await sam.goto(url.startsWith("http") ? url : path);
+  // Wait until Sam's page is connected to live updates.
+  await expect(sam.locator("html[data-sync=pending]")).toBeAttached({ timeout: 30_000 });
+  // Start from nothing ticked (an earlier failed run may have left a tick behind).
+  const step = alex.getByRole("checkbox", { name: "Step 1 done" });
+  if ((await step.getAttribute("aria-checked")) === "true") await step.click();
+  await expect(sam.getByRole("checkbox", { name: "Step 1 done" })).toHaveAttribute("aria-checked", "false", { timeout: 10_000 });
 
-  await alex.getByRole("checkbox", { name: "Step 1 done" }).click();
+  await step.click();
   await expect(sam.getByRole("checkbox", { name: "Step 1 done" })).toHaveAttribute("aria-checked", "true", { timeout: 10_000 });
   await alex.getByRole("button", { name: /Reset/ }).click();
   await expect(sam.getByRole("checkbox", { name: "Step 1 done" })).toHaveAttribute("aria-checked", "false", { timeout: 10_000 });
