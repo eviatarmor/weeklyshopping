@@ -2,6 +2,7 @@ import { useEffect, useLayoutEffect, useRef } from "react";
 import { createRootRoute, Link, Outlet, useRouterState } from "@tanstack/react-router";
 import { BookOpen, CalendarDays, Settings, ShoppingCart } from "lucide-react";
 import { Toaster } from "sonner";
+import { OfflineBanner } from "@/client/components/offline-banner";
 import { CookingBar } from "@/client/features/cooking/cooking-bar";
 import { useCooking, useWakeLock } from "@/client/features/cooking/cooking";
 import { refreshSubscription } from "@/client/features/cooking/notifications";
@@ -67,6 +68,7 @@ function RootLayout() {
 
   return (
     <div className="mx-auto flex h-full max-w-md flex-col bg-background md:max-w-none">
+      <OfflineBanner />
       {/* Desktop: top navbar instead of the bottom tab bar. */}
       <header className="hidden shrink-0 border-b bg-background/90 backdrop-blur-lg md:block">
         <div className="mx-auto flex h-14 max-w-7xl items-center gap-8 px-6">

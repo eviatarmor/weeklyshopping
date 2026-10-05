@@ -43,7 +43,8 @@ export const queryClient = new QueryClient({
   defaultOptions: {
     // The live stream refetches the list and catalog when it reconnects (e.g. app resumed),
     // so focus refetches would only add requests.
-    queries: { staleTime: 30_000, retry: 1, refetchOnWindowFocus: false },
+    // Kept for a day so the offline copy (see main.tsx) has something to restore.
+    queries: { staleTime: 30_000, gcTime: 24 * 60 * 60_000, retry: 1, refetchOnWindowFocus: false },
   },
 });
 

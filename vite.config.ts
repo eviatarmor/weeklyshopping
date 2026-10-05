@@ -17,6 +17,8 @@ function sqlAsText(): Plugin {
 }
 
 export default defineConfig({
+  // Changes with every build; used to drop offline data saved by an older version.
+  define: { __BUILD_ID__: JSON.stringify(Date.now().toString(36)) },
   resolve: {
     alias: { "@": path.resolve(import.meta.dirname, "src") },
   },

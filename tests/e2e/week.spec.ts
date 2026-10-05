@@ -182,3 +182,25 @@ test("swipe an item left to delete it, and undo", async ({ browser, baseURL }) =
   await page.locator("main").getByRole("listitem").filter({ hasText: item }).getByRole("button", { name: item }).click();
   await page.getByRole("button", { name: "Delete" }).click();
 });
+
+test("offline: ticking items still works and syncs when back online", async ({ browser, baseURL }) => {
+  const alex = await openAs(browser, "alex@dev.local", baseURL!);
+  const sam = await openAs(browser, "sam@dev.local", baseURL!);
+  const item = `Offline item ${Date.now()}`;
+  const input = alex.getByRole("textbox", { name: "Add item" });
+  await input.fill(item);
+  await input.press("Enter");
+  await input.press("Escape");
+  await expect(sam.getByText(item)).toBeVisible({ timeout: 10_000 });
+
+  await alex.context().setOffline(true);
+  await expect(alex.getByText(/Offline: the list still works/)).toBeVisible();
+  await alex.getByRole("checkbox", { name: `Check ${item}` }).click();
+  await expect(alex.getByRole("checkbox", { name: `Uncheck ${item}` })).toBeVisible();
+
+  await alex.context().setOffline(false);
+  await expect(sam.getByRole("checkbox", { name: `Uncheck ${item}` })).toBeVisible({ timeout: 15_000 });
+  // Clean up.
+  await alex.locator("main").getByRole("listitem").filter({ hasText: item }).getByRole("button", { name: item }).click();
+  await alex.getByRole("button", { name: "Delete" }).click();
+});

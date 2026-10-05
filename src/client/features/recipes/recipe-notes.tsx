@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { NotebookPen } from "lucide-react";
 import { toast } from "sonner";
 import { useTRPC } from "@/client/lib/trpc";
 import { timeAgo } from "@/client/lib/utils";
@@ -24,9 +23,7 @@ export function RecipeNotes({ slug }: { slug: string }) {
 
   return (
     <section>
-      <h2 className="mb-2 flex items-center gap-2 text-lg font-semibold">
-        <NotebookPen className="size-5" /> Our notes
-      </h2>
+      <h2 className="mb-2 text-lg font-semibold">Our notes</h2>
       <textarea
         value={text}
         onChange={(e) => setText(e.target.value)}
