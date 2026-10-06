@@ -56,6 +56,8 @@ test("recipe ingredients go through the pantry check onto the list", async ({ br
 
   await dialog.getByRole("button", { name: /Add \d+ items? to list/ }).click();
   await expect(page.getByText(/Added \d+ item/)).toBeVisible();
+  // The drawer drops its #sheet history entry as it closes; let that finish before navigating.
+  await expect.poll(() => page.url()).not.toContain("#sheet");
 
   await page.goto("/");
   await expect(page.getByText("for Creamy Mushroom & White Bean Pie").first()).toBeVisible();

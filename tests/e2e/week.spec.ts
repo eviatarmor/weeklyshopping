@@ -14,8 +14,9 @@ async function openAs(browser: Browser, email: string, baseURL: string, path = "
 }
 
 test("dinners planned on one phone show up on the other, and can go onto the list", async ({ browser, baseURL }) => {
-  // A week far in the future so runs don't collide with real plans.
-  const week = "2030-01-07";
+  // A random week far in the future, so runs don't collide with real plans or with each other.
+  const monday = new Date(Date.UTC(2031, 0, 6 + 7 * Math.floor(Math.random() * 500)));
+  const week = monday.toISOString().slice(0, 10);
   const alex = await openAs(browser, "alex@dev.local", baseURL!, `/week?w=${week}`);
   const sam = await openAs(browser, "sam@dev.local", baseURL!, `/week?w=${week}`);
   const custom = `Pizza night ${Date.now()}`;
@@ -24,12 +25,14 @@ test("dinners planned on one phone show up on the other, and can go onto the lis
   await alex.getByRole("button", { name: "Add dinner" }).first().click();
   await alex.getByPlaceholder("Search recipes or type any dinner").fill(custom);
   await alex.getByRole("button", { name: `Add "${custom}"` }).click();
+  await expect(alex.getByRole("heading", { name: "Add dinner" })).toBeHidden();
   await expect(sam.getByText(custom)).toBeVisible({ timeout: 10_000 });
 
   // A recipe, found despite the hyphen in its name.
   await alex.getByRole("button", { name: "Add dinner" }).first().click();
   await alex.getByPlaceholder("Search recipes or type any dinner").fill("white bean pie");
   await alex.getByRole("button", { name: /Creamy Mushroom & White Bean Pie/ }).click();
+  await expect(alex.getByRole("heading", { name: "Add dinner" })).toBeHidden();
   await expect(sam.getByText("Creamy Mushroom & White Bean Pie")).toBeVisible({ timeout: 10_000 });
 
   // Ingredients for the planned recipes, combined.
@@ -209,4 +212,31 @@ test("offline: ticking items still works and syncs when back online", async ({ b
   // Clean up.
   await alex.locator("main").getByRole("listitem").filter({ hasText: item }).getByRole("button", { name: item }).click();
   await alex.getByRole("button", { name: "Delete" }).click();
+});
+
+test("back closes a drawer; the ingredient menu opens substitutions", async ({ browser, baseURL }) => {
+  const page = await openAs(browser, "alex@dev.local", baseURL!);
+  await page.goto("/recipes");
+  await page.getByPlaceholder(/Search .*recipes/).fill("White Bean Pie");
+  await page.getByRole("link", { name: /Creamy Mushroom & White Bean Pie/ }).click();
+  const recipeUrl = page.url();
+
+  // ⋯ → Substitutions opens the drawer, with #sheet in the URL.
+  await page.getByRole("button", { name: "More for Potato" }).click();
+  await page.getByRole("menuitem", { name: /Substitutions/ }).click();
+  await expect(page.getByText("Instead of Potato")).toBeVisible();
+  expect(page.url()).toContain("#sheet");
+
+  // Back closes the drawer and stays on the recipe.
+  await page.goBack();
+  await expect(page.getByText("Instead of Potato")).toBeHidden();
+  expect(page.url()).toBe(recipeUrl);
+  await expect(page.getByRole("heading", { name: "Method" })).toBeVisible();
+
+  // Closing a drawer from the app also removes its history entry.
+  await page.getByRole("button", { name: "Add to list" }).filter({ visible: true }).click();
+  await expect(page.getByText("Already have any of these?")).toBeVisible();
+  await page.keyboard.press("Escape");
+  await expect(page.getByText("Already have any of these?")).toBeHidden();
+  await expect.poll(() => page.url()).toBe(recipeUrl);
 });

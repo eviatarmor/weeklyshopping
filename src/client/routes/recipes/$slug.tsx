@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { createFileRoute, Link, useRouter } from "@tanstack/react-router";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { CalendarPlus, Check, ChefHat, MoreVertical, ChevronLeft, Clock, ExternalLink, Play, RotateCcw, Share2, ShoppingCart, Users, X } from "lucide-react";
+import { CalendarPlus, Check, ChefHat, ChevronLeft, Clock, ExternalLink, Play, RotateCcw, Share2, ShoppingCart, Users, X } from "lucide-react";
 import { toast } from "sonner";
 import { batchesFor, blendTree, type BlendRecipe } from "@/shared/expand";
 import { spoonStandardFor } from "@/shared/measure";
@@ -21,6 +21,7 @@ import { AddToWeekDrawer } from "@/client/features/week/add-to-week-drawer";
 import { RecipeNotes } from "@/client/features/recipes/recipe-notes";
 import { RecipeCost } from "@/client/features/recipes/recipe-cost";
 import { SubstitutionDrawer, useRecipeSwaps } from "@/client/features/recipes/substitutions";
+import { IngredientMenu } from "@/client/features/recipes/ingredient-menu";
 import { setCookingPeople, startCooking, stopCooking, useCooking } from "@/client/features/cooking/cooking";
 import { StepTimers } from "@/client/features/cooking/step-timers";
 import { useNow, useTimers } from "@/client/features/cooking/use-timers";
@@ -347,16 +348,7 @@ function RecipePage() {
                       <Quantity qty={qty} unit={i.unit} name={i.name} system={system} standard={standard} density={i.density} />
                     </span>
                   </button>
-                  {options.length > 0 && (
-                    <button
-                      type="button"
-                      aria-label={`Substitutes for ${i.name}`}
-                      onClick={() => setSwapping(index)}
-                      className={cn("grid size-8 shrink-0 place-items-center rounded-full text-muted-foreground active:bg-accent", swap && "text-primary")}
-                    >
-                      <MoreVertical className="size-4" />
-                    </button>
-                  )}
+                  <IngredientMenu name={swap ? swap.name : i.name} substitutions={options.length} swapped={!!swap} onSubstitutions={() => setSwapping(index)} />
                   </div>
                   {tree && (
                     <div className="mt-2 ml-12 rounded-lg bg-muted/60 p-2.5">

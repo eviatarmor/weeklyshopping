@@ -1,10 +1,45 @@
 import type * as React from "react";
+import { useEffect, useId, useRef } from "react";
 import { Drawer as DrawerPrimitive } from "vaul";
 import { cn, useIsDesktop } from "@/client/lib/utils";
+
+/**
+ * An open drawer gets its own history entry (#sheet in the URL), so the phone's back button or
+ * swipe-back closes the drawer instead of leaving the page.
+ */
+function useBackClosesDrawer(open: boolean | undefined, onOpenChange: ((open: boolean) => void) | undefined) {
+  const id = useId();
+  const onChange = useRef(onOpenChange);
+  onChange.current = onOpenChange;
+  /** True while the drawer is open and mounted. */
+  const live = useRef(false);
+  const ours = () => (window.history.state as { drawer?: string } | null)?.drawer === id;
+
+  useEffect(() => {
+    if (!open) return;
+    live.current = true;
+    if (!ours()) window.history.pushState({ ...window.history.state, drawer: id }, "", `${window.location.pathname}${window.location.search}#sheet`);
+    // Back pressed: our entry is gone, so close.
+    const onPop = () => {
+      if (live.current && !ours()) onChange.current?.(false);
+    };
+    window.addEventListener("popstate", onPop);
+    return () => {
+      live.current = false;
+      window.removeEventListener("popstate", onPop);
+      // Closed from the app (or unmounted while open): drop our entry, unless a link moved on to
+      // another page. Wait a tick: React may re-run this effect straight away (e.g. strict mode).
+      setTimeout(() => {
+        if (!live.current && ours()) window.history.back();
+      }, 0);
+    };
+  }, [open]); // eslint-disable-line react-hooks/exhaustive-deps
+}
 
 /** Bottom sheet on phones; a panel sliding in from the right on desktop. */
 export function Drawer(props: React.ComponentProps<typeof DrawerPrimitive.Root>) {
   const desktop = useIsDesktop();
+  useBackClosesDrawer(props.open, props.onOpenChange);
   return <DrawerPrimitive.Root data-slot="drawer" repositionInputs={false} direction={desktop ? "right" : "bottom"} {...props} />;
 }
 
